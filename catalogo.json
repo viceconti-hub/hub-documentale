@@ -1,8 +1,8 @@
 {
   "versione": "2.0",
-  "generato": "2026-02-22T07:46:46Z",
-  "totale_file": 44,
-  "totale_sezioni": 1,
+  "generato": "2026-02-22T11:24:56Z",
+  "totale_file": 45,
+  "totale_sezioni": 2,
   "sezioni": [
     {
       "nome": "VICECONTI SNC",
@@ -395,6 +395,23 @@
           "link": "https://www.dropbox.com/scl/fi/30rhwet7t4b0tylw18zkf/VICECONTI-VINCENZINA-C.I-E-CODICE-FISCALE.pdf?rlkey=p8ne04pqdyzlst523mqzolsl4&dl=0?raw=1",
           "dimensione_kb": 569,
           "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI VINCENZINA C.I E CODICE FISCALE.pdf"
+        }
+      ]
+    },
+    {
+      "nome": "FILE TEMPORANEI",
+      "descrizione": "File caricati per consultazione rapida",
+      "icona": "📌",
+      "totale_file": 1,
+      "cartelle": [],
+      "file": [
+        {
+          "nome": "MODULO TECNICO con orario.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/dcnh3ckq064fnj6vf866w/MODULO-TECNICO-con-orario.pdf?rlkey=m5vv1b1ero6g95ohvu8omkcwi&dl=0?raw=1",
+          "dimensione_kb": 42,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULO TECNICO con orario.pdf"
         }
       ]
     }
