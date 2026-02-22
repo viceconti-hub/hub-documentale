@@ -57,6 +57,9 @@ header {
 }
 
 .logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   font-size: 13px;
   font-weight: 600;
   color: var(--vc-primary);
@@ -64,6 +67,10 @@ header {
   text-transform: uppercase;
   white-space: nowrap;
   flex-shrink: 0;
+}
+.logo img {
+  height: 28px;
+  width: auto;
 }
 .logo span { color: var(--vc-text-faint); margin: 0 4px; }
 
@@ -564,7 +571,10 @@ mark {
 <body>
 
 <header>
-  <div class="logo">Viceconti <span>/</span> Hub Documentale</div>
+  <div class="logo">
+    <img src="logo-viceconti.png" alt="Viceconti" onerror="this.style.display='none'">
+    <span>/</span> Hub Documentale
+  </div>
   <div class="stats-bar" id="stats-bar"></div>
   <div class="spacer"></div>
   <div class="last-update" id="last-update"></div>
@@ -621,6 +631,7 @@ const ICONE_SEZIONE = {
   'BANCHE E PAGAMENTI': '🏦',
   'CREDITI E DEBITI':   '📋',
   'VICECONTI SNC':      '🏢',
+  'FILE TEMPORANEI':    '📌',
 };
 
 const ICONE_CARTELLA_SPECIALE = {
@@ -830,7 +841,17 @@ function contaFile(nodo) {
 let filterTimer = null;
 function applicaFiltroAlbero(val) {
   clearTimeout(filterTimer);
-  filterTimer = setTimeout(() => renderAlbero(val), 150);
+  filterTimer = setTimeout(() => {
+    const cursorPos = document.getElementById('tree-filter')?.selectionStart;
+    renderAlbero(val);
+    const input = document.getElementById('tree-filter');
+    if (input) {
+      input.focus();
+      if (cursorPos !== undefined) {
+        input.setSelectionRange(cursorPos, cursorPos);
+      }
+    }
+  }, 150);
 }
 
 // ── TOGGLE NODI ──
