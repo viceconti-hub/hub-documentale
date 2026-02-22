@@ -4,686 +4,831 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Hub Documentale — Viceconti</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap');
+:root {
+  --vc-primary:       #203058;
+  --vc-primary-hover: #16223e;
+  --vc-primary-light: #edeef2;
+  --vc-bg:            #ffffff;
+  --vc-surface:       #f7f8fa;
+  --vc-surface2:      #f0f2f6;
+  --vc-border:        #e8e8e8;
+  --vc-border-strong: #d9dde6;
+  --vc-text:          #1b1f2a;
+  --vc-text-muted:    #6b7280;
+  --vc-text-faint:    #b8c0d8;
+  --vc-success:       #1f8a70;
+  --vc-danger:        #d64545;
+  --vc-shadow-sm:     0 1px 3px rgba(0,0,0,0.08);
+  --vc-shadow-md:     0 4px 12px rgba(0,0,0,0.10);
+  --vc-radius-sm:     4px;
+  --vc-radius-md:     8px;
+  --vc-font-sans:     'DM Sans', system-ui, sans-serif;
+  --vc-font-mono:     'DM Mono', 'Courier New', monospace;
+  --vc-transition:    0.15s ease-in-out;
+}
 
-  :root {
-    --bg:        #0f1117;
-    --surface:   #181c27;
-    --surface2:  #1e2335;
-    --border:    #2a3050;
-    --accent:    #4f9cf9;
-    --accent2:   #38d9a9;
-    --warn:      #ffa94d;
-    --text:      #e2e8f0;
-    --muted:     #6b7a99;
-    --mono:      'IBM Plex Mono', monospace;
-    --sans:      'IBM Plex Sans', sans-serif;
-  }
+* { box-sizing: border-box; margin: 0; padding: 0; }
 
-  * { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--vc-bg);
+  color: var(--vc-text);
+  font-family: var(--vc-font-sans);
+  font-size: 15px;
+  min-height: 100vh;
+  line-height: 1.5;
+}
 
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--sans);
-    font-size: 14px;
-    min-height: 100vh;
-    line-height: 1.5;
-  }
+/* ── HEADER ── */
+header {
+  background: var(--vc-bg);
+  border-bottom: 2px solid var(--vc-primary);
+  height: 52px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: var(--vc-shadow-sm);
+}
 
-  /* ── HEADER ── */
-  header {
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 0 20px;
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    height: 54px;
-    position: sticky;
-    top: 0;
-    z-index: 100;
-  }
+.logo {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--vc-primary);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.logo span { color: var(--vc-text-faint); margin: 0 4px; }
 
-  .logo {
-    font-family: var(--mono);
-    font-size: 13px;
-    color: var(--accent);
-    letter-spacing: 0.05em;
-    white-space: nowrap;
-    flex-shrink: 0;
-  }
-  .logo span { color: var(--muted); }
+.stats-bar {
+  display: flex;
+  gap: 14px;
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-muted);
+  flex-shrink: 0;
+}
+.stats-bar b { color: var(--vc-primary); font-weight: 500; }
 
-  .stats-bar {
-    display: flex;
-    gap: 16px;
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--muted);
-    flex-shrink: 0;
-  }
-  .stats-bar b { color: var(--accent2); }
+.spacer { flex: 1; }
 
-  .spacer { flex: 1; }
+.last-update {
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-faint);
+  white-space: nowrap;
+}
 
-  .last-update {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--muted);
-    white-space: nowrap;
-  }
+/* ── TABS ── */
+.tabs {
+  display: flex;
+  background: var(--vc-bg);
+  border-bottom: 1px solid var(--vc-border);
+  padding: 0 20px;
+  gap: 2px;
+}
 
-  /* ── TABS ── */
-  .tabs {
-    display: flex;
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    padding: 0 20px;
-    gap: 4px;
-  }
+.tab {
+  padding: 10px 16px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+  background: none;
+  color: var(--vc-text-muted);
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  transition: var(--vc-transition);
+  font-family: var(--vc-font-sans);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.tab:hover { color: var(--vc-text); }
+.tab.active {
+  color: var(--vc-primary);
+  border-bottom-color: var(--vc-primary);
+}
 
-  .tab {
-    padding: 10px 18px;
-    font-size: 13px;
-    font-weight: 500;
-    cursor: pointer;
-    border: none;
-    background: none;
-    color: var(--muted);
-    border-bottom: 2px solid transparent;
-    transition: all 0.15s;
-    font-family: var(--sans);
-    display: flex;
-    align-items: center;
-    gap: 7px;
-  }
-  .tab:hover { color: var(--text); }
-  .tab.active {
-    color: var(--accent);
-    border-bottom-color: var(--accent);
-  }
-  .tab-icon { font-size: 15px; }
+/* ── LAYOUT ── */
+.view { display: none; }
+.view.active { display: block; }
 
-  /* ── LAYOUT ── */
-  .view { display: none; }
-  .view.active { display: block; }
+/* ── BREADCRUMB ── */
+.breadcrumb-bar {
+  background: var(--vc-surface);
+  border-bottom: 1px solid var(--vc-border);
+  padding: 8px 20px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-muted);
+  flex-wrap: wrap;
+  min-height: 36px;
+}
+.breadcrumb-bar.hidden { display: none; }
+.bc-item {
+  cursor: pointer;
+  color: var(--vc-primary);
+  transition: var(--vc-transition);
+}
+.bc-item:hover { text-decoration: underline; }
+.bc-item.current { color: var(--vc-text-muted); cursor: default; }
+.bc-item.current:hover { text-decoration: none; }
+.bc-sep { color: var(--vc-text-faint); }
 
-  /* ── ALBERO ── */
-  #view-albero {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 20px 16px;
-  }
+.copy-link-btn {
+  margin-left: auto;
+  padding: 3px 10px;
+  background: transparent;
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-sm);
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-muted);
+  cursor: pointer;
+  transition: var(--vc-transition);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+.copy-link-btn:hover {
+  color: var(--vc-primary);
+  border-color: var(--vc-primary);
+  background: var(--vc-primary-light);
+}
+.copy-link-btn.copied {
+  color: var(--vc-success);
+  border-color: var(--vc-success);
+}
 
-  .tree-search {
-    position: relative;
-    margin-bottom: 12px;
-  }
-  .tree-search input {
-    width: 100%;
-    padding: 10px 14px 10px 38px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    color: var(--text);
-    font-size: 16px;
-    font-family: var(--sans);
-    outline: none;
-    transition: border-color 0.15s;
-    -webkit-appearance: none;
-  }
-  .tree-search input:focus { border-color: var(--accent); }
-  .tree-search .search-icon {
-    position: absolute;
-    left: 12px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: var(--muted);
-    font-size: 15px;
-    pointer-events: none;
-  }
+/* ── ALBERO ── */
+#view-albero {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 16px;
+}
 
-  .tree-controls {
-    display: flex;
-    gap: 8px;
-    margin-bottom: 16px;
-  }
-  .btn-sm {
-    padding: 5px 12px;
-    background: var(--surface2);
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    color: var(--muted);
-    font-size: 12px;
-    cursor: pointer;
-    font-family: var(--sans);
-    transition: all 0.15s;
-  }
-  .btn-sm:hover { color: var(--text); border-color: var(--accent); }
+.tree-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+}
 
-  /* nodi albero */
-  .node { margin: 0; }
+.search-wrap {
+  position: relative;
+  flex: 1;
+  min-width: 200px;
+}
+.search-wrap input {
+  width: 100%;
+  padding: 9px 14px 9px 36px;
+  background: var(--vc-bg);
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-md);
+  font-family: var(--vc-font-sans);
+  font-size: 15px;
+  color: var(--vc-text);
+  outline: none;
+  transition: var(--vc-transition);
+  box-shadow: var(--vc-shadow-sm);
+  -webkit-appearance: none;
+}
+.search-wrap input:focus {
+  border-color: var(--vc-primary);
+  box-shadow: 0 0 0 3px rgba(32,48,88,0.08);
+}
+.search-wrap input::placeholder { color: var(--vc-text-faint); }
+.search-icon {
+  position: absolute;
+  left: 11px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 14px;
+  pointer-events: none;
+}
 
-  .node-header {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 5px 8px;
-    border-radius: 5px;
-    cursor: pointer;
-    user-select: none;
-    transition: background 0.1s;
-  }
-  .node-header:hover { background: var(--surface2); }
+.btn-ghost {
+  padding: 7px 12px;
+  background: transparent;
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-md);
+  color: var(--vc-text-muted);
+  font-size: 12px;
+  font-family: var(--vc-font-sans);
+  cursor: pointer;
+  transition: var(--vc-transition);
+  white-space: nowrap;
+}
+.btn-ghost:hover {
+  color: var(--vc-primary);
+  border-color: var(--vc-primary);
+  background: var(--vc-primary-light);
+}
 
-  .node-toggle {
-    width: 16px;
-    height: 16px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 10px;
-    color: var(--muted);
-    transition: transform 0.2s;
-    flex-shrink: 0;
-  }
-  .node-toggle.open { transform: rotate(90deg); }
-  .node-toggle.leaf { color: transparent; }
+/* ── NODI ALBERO ── */
+.node { margin: 0; }
 
-  .node-icon { font-size: 15px; flex-shrink: 0; }
+.node-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 8px;
+  border-radius: var(--vc-radius-sm);
+  cursor: pointer;
+  user-select: none;
+  transition: background var(--vc-transition);
+}
+.node-header:hover { background: var(--vc-surface2); }
 
-  .node-label {
-    font-size: 13px;
-    font-weight: 500;
-    flex: 1;
-    min-width: 0;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
+.node-toggle {
+  width: 14px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9px;
+  color: var(--vc-text-faint);
+  transition: transform 0.18s;
+  flex-shrink: 0;
+}
+.node-toggle.open { transform: rotate(90deg); }
 
-  .node-count {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--muted);
-    flex-shrink: 0;
-  }
+.node-icon { font-size: 14px; flex-shrink: 0; }
+.node-label {
+  font-size: 13px;
+  font-weight: 500;
+  flex: 1;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--vc-text);
+}
+.node-count {
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-faint);
+  flex-shrink: 0;
+}
 
-  .node-children {
-    padding-left: 24px;
-    overflow: hidden;
-    display: none;
-  }
-  .node-children.open { display: block; }
+.node-children {
+  padding-left: 22px;
+  display: none;
+  border-left: 1px solid var(--vc-border);
+  margin-left: 14px;
+}
+.node-children.open { display: block; }
 
-  /* livelli colore */
-  .level-0 > .node-header .node-label { color: var(--accent); font-size: 14px; }
-  .level-1 > .node-header .node-label { color: var(--text); }
-  .level-2 > .node-header .node-label { color: var(--accent2); font-size: 12px; }
-  .level-3 > .node-header .node-label { color: #c9d6f0; font-size: 12px; font-weight: 400; }
+/* Livello 0 = Sezioni */
+.level-0 > .node-header { 
+  background: var(--vc-surface);
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-md);
+  margin-bottom: 4px;
+  padding: 8px 12px;
+}
+.level-0 > .node-header:hover { background: var(--vc-primary-light); }
+.level-0 > .node-header .node-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--vc-primary);
+}
+.level-0 > .node-children {
+  margin-left: 16px;
+  padding-left: 16px;
+  border-left: 2px solid var(--vc-primary-light);
+  margin-bottom: 8px;
+}
 
-  /* riga documento */
-  .doc-row {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 4px 8px;
-    border-radius: 5px;
-    text-decoration: none;
-    color: var(--text);
-    transition: background 0.1s;
-    font-size: 12px;
-  }
-  .doc-row:hover { background: var(--surface2); }
-  .doc-icon { font-size: 14px; flex-shrink: 0; }
-  .doc-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .doc-size { font-family: var(--mono); font-size: 11px; color: var(--muted); flex-shrink: 0; }
-  .doc-tipo {
-    font-family: var(--mono);
-    font-size: 10px;
-    padding: 2px 6px;
-    border-radius: 3px;
-    background: var(--surface2);
-    color: var(--muted);
-    flex-shrink: 0;
-  }
+/* Livello 1 */
+.level-1 > .node-header .node-label { 
+  font-size: 13px; 
+  color: var(--vc-text);
+}
 
-  /* ── RICERCA ── */
-  #view-ricerca {
-    max-width: 960px;
-    margin: 0 auto;
-    padding: 20px 16px;
-  }
+/* Livello 2+ */
+.level-2 > .node-header .node-label,
+.level-3 > .node-header .node-label,
+.level-4 > .node-header .node-label {
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--vc-text-muted);
+}
 
-  .search-box {
-    position: relative;
-    margin-bottom: 8px;
-  }
-  .search-box input {
-    width: 100%;
-    padding: 14px 16px 14px 46px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    color: var(--text);
-    font-size: 16px;
-    font-family: var(--sans);
-    outline: none;
-    transition: border-color 0.15s;
-  }
-  .search-box input:focus { border-color: var(--accent); }
-  .search-box input::placeholder { color: var(--muted); }
-  .search-box .search-icon {
-    position: absolute;
-    left: 14px;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 20px;
-    color: var(--muted);
-    pointer-events: none;
-  }
+/* ── RIGA DOCUMENTO ── */
+.doc-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 8px;
+  border-radius: var(--vc-radius-sm);
+  text-decoration: none;
+  color: var(--vc-text);
+  transition: background var(--vc-transition);
+  font-size: 12px;
+}
+.doc-row:hover { background: var(--vc-surface2); }
+.doc-icon { font-size: 13px; flex-shrink: 0; }
+.doc-name {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: var(--vc-text);
+}
+.doc-badge {
+  font-family: var(--vc-font-mono);
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 999px;
+  background: var(--vc-surface2);
+  color: var(--vc-text-muted);
+  border: 1px solid var(--vc-border);
+  flex-shrink: 0;
+}
+.doc-size {
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-faint);
+  flex-shrink: 0;
+}
 
-  .search-meta {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--muted);
-    margin-bottom: 16px;
-    padding: 0 4px;
-    min-height: 18px;
-  }
-  .search-meta b { color: var(--accent2); }
+/* ── RICERCA ── */
+#view-ricerca {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 16px;
+}
 
-  .results-list { display: flex; flex-direction: column; gap: 6px; }
+.search-box-full {
+  position: relative;
+  margin-bottom: 8px;
+}
+.search-box-full input {
+  width: 100%;
+  padding: 13px 16px 13px 44px;
+  background: var(--vc-bg);
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-md);
+  font-family: var(--vc-font-sans);
+  font-size: 16px;
+  color: var(--vc-text);
+  outline: none;
+  transition: var(--vc-transition);
+  box-shadow: var(--vc-shadow-sm);
+}
+.search-box-full input:focus {
+  border-color: var(--vc-primary);
+  box-shadow: 0 0 0 3px rgba(32,48,88,0.08);
+}
+.search-box-full input::placeholder { color: var(--vc-text-faint); }
+.search-box-full .search-icon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+  pointer-events: none;
+}
 
-  .result-item {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 10px 14px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 7px;
-    text-decoration: none;
-    color: var(--text);
-    transition: border-color 0.15s, background 0.15s;
-    cursor: pointer;
-  }
-  .result-item:hover {
-    border-color: var(--accent);
-    background: var(--surface2);
-  }
+.search-meta {
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-muted);
+  margin-bottom: 14px;
+  padding: 0 4px;
+  min-height: 18px;
+}
+.search-meta b { color: var(--vc-primary); }
 
-  .result-icon { font-size: 22px; flex-shrink: 0; }
+.results-list { display: flex; flex-direction: column; gap: 5px; }
 
-  .result-body { flex: 1; min-width: 0; }
-  .result-name {
-    font-size: 14px;
-    font-weight: 500;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  .result-path {
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--muted);
-    margin-top: 2px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  .result-path .path-sep { color: var(--border); margin: 0 3px; }
+.result-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 14px;
+  background: var(--vc-bg);
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-md);
+  text-decoration: none;
+  color: var(--vc-text);
+  transition: border-color var(--vc-transition), box-shadow var(--vc-transition);
+  box-shadow: var(--vc-shadow-sm);
+}
+.result-item:hover {
+  border-color: var(--vc-primary);
+  box-shadow: var(--vc-shadow-md);
+}
+.result-icon { font-size: 20px; flex-shrink: 0; }
+.result-body { flex: 1; min-width: 0; }
+.result-name {
+  font-size: 14px;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--vc-text);
+}
+.result-path {
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-muted);
+  margin-top: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.result-path .sep { color: var(--vc-text-faint); margin: 0 2px; }
+.result-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  flex-shrink: 0;
+}
+.result-badge {
+  font-family: var(--vc-font-mono);
+  font-size: 10px;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: var(--vc-surface2);
+  color: var(--vc-text-muted);
+  border: 1px solid var(--vc-border);
+}
+.result-size {
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-faint);
+}
 
-  .result-right { display: flex; flex-direction: column; align-items: flex-end; gap: 4px; flex-shrink: 0; }
-  .result-tipo {
-    font-family: var(--mono);
-    font-size: 10px;
-    padding: 2px 7px;
-    border-radius: 3px;
-    background: var(--surface2);
-    color: var(--muted);
-    border: 1px solid var(--border);
-  }
-  .result-size { font-family: var(--mono); font-size: 11px; color: var(--muted); }
+mark {
+  background: rgba(32,48,88,0.12);
+  color: var(--vc-primary);
+  border-radius: 2px;
+  padding: 0 1px;
+}
 
-  mark {
-    background: rgba(79, 156, 249, 0.25);
-    color: var(--accent);
-    border-radius: 2px;
-    padding: 0 1px;
-  }
+/* ── PLACEHOLDER / LOADING / ERROR ── */
+.placeholder {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--vc-text-muted);
+}
+.placeholder .big { font-size: 36px; margin-bottom: 12px; }
+.placeholder p { font-size: 13px; }
 
-  /* ── EMPTY / LOADING ── */
-  .placeholder {
-    text-align: center;
-    padding: 60px 20px;
-    color: var(--muted);
-  }
-  .placeholder .big { font-size: 40px; margin-bottom: 12px; }
-  .placeholder p { font-size: 13px; }
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 48px;
+  color: var(--vc-text-muted);
+  font-family: var(--vc-font-mono);
+  font-size: 13px;
+}
+.spinner {
+  width: 16px; height: 16px;
+  border: 2px solid var(--vc-border);
+  border-top-color: var(--vc-primary);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
 
-  .loading {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    padding: 40px;
-    color: var(--muted);
-    font-family: var(--mono);
-    font-size: 13px;
-  }
-  .spinner {
-    width: 16px; height: 16px;
-    border: 2px solid var(--border);
-    border-top-color: var(--accent);
-    border-radius: 50%;
-    animation: spin 0.7s linear infinite;
-  }
-  @keyframes spin { to { transform: rotate(360deg); } }
+.error-box {
+  margin: 40px auto;
+  max-width: 480px;
+  background: #fff8f8;
+  border: 1px solid #f5c0c0;
+  border-radius: var(--vc-radius-md);
+  padding: 24px;
+  text-align: center;
+}
+.error-box .err-icon { font-size: 28px; margin-bottom: 8px; }
+.error-box p { color: var(--vc-text-muted); font-size: 13px; margin-top: 8px; }
+.error-box code {
+  font-family: var(--vc-font-mono);
+  font-size: 12px;
+  color: var(--vc-danger);
+}
 
-  /* ── ERRORE ── */
-  .error-box {
-    margin: 40px auto;
-    max-width: 500px;
-    background: #1e1520;
-    border: 1px solid #6b2737;
-    border-radius: 8px;
-    padding: 24px;
-    text-align: center;
-  }
-  .error-box .err-icon { font-size: 32px; margin-bottom: 8px; }
-  .error-box p { color: var(--muted); font-size: 13px; margin-top: 8px; }
-  .error-box code { font-family: var(--mono); font-size: 12px; color: #ff8fa3; }
+/* ── TOAST ── */
+.toast {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: var(--vc-primary);
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: var(--vc-radius-md);
+  font-size: 13px;
+  font-family: var(--vc-font-sans);
+  box-shadow: var(--vc-shadow-md);
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.2s, transform 0.2s;
+  pointer-events: none;
+  z-index: 999;
+}
+.toast.show { opacity: 1; transform: translateY(0); }
 
-  /* ── RESPONSIVE ── */
-  @media (max-width: 600px) {
-    header { padding: 0 12px; gap: 10px; }
-    .stats-bar { display: none; }
-    #view-albero, #view-ricerca { padding: 12px 8px; }
-    .result-right { display: none; }
-    .doc-size, .doc-tipo { display: none; }
-  }
+/* ── RESPONSIVE ── */
+@media (max-width: 600px) {
+  header { padding: 0 12px; gap: 10px; }
+  .stats-bar { display: none; }
+  .last-update { display: none; }
+  #view-albero, #view-ricerca { padding: 10px 8px; }
+  .result-right { display: none; }
+  .doc-size, .doc-badge { display: none; }
+  .level-0 > .node-header { padding: 7px 10px; }
+  .breadcrumb-bar { padding: 6px 12px; }
+}
 </style>
 </head>
 <body>
 
 <header>
-  <div class="logo">VICECONTI <span>/</span> HUB DOCUMENTALE</div>
-  <div class="stats-bar" id="stats-bar">
-    <span>caricamento...</span>
-  </div>
+  <div class="logo">Viceconti <span>/</span> Hub Documentale</div>
+  <div class="stats-bar" id="stats-bar"></div>
   <div class="spacer"></div>
   <div class="last-update" id="last-update"></div>
 </header>
 
 <div class="tabs">
   <button class="tab active" onclick="switchTab('albero')" id="tab-albero">
-    <span class="tab-icon">🗂</span> Sfoglia
+    📁 Sfoglia
   </button>
   <button class="tab" onclick="switchTab('ricerca')" id="tab-ricerca">
-    <span class="tab-icon">🔍</span> Cerca
+    🔍 Cerca
   </button>
 </div>
 
+<div class="breadcrumb-bar hidden" id="breadcrumb-bar"></div>
+
 <div id="view-albero" class="view active">
-  <div class="tree-search">
-    <span class="search-icon">🔍</span>
-    <input type="search" id="tree-search-input" placeholder="Filtra nell'albero..."
-           oninput="renderAlberoContenuto(this.value)"
-           autocomplete="off" spellcheck="false">
-  </div>
-  <div class="tree-controls">
-    <button class="btn-sm" onclick="espandiTutto()">▼ Espandi tutto</button>
-    <button class="btn-sm" onclick="collassaTutto()">▲ Comprimi tutto</button>
-  </div>
   <div id="albero-content">
     <div class="loading"><div class="spinner"></div> Caricamento catalogo...</div>
   </div>
 </div>
 
 <div id="view-ricerca" class="view">
-  <div class="search-box">
+  <div class="search-box-full">
     <span class="search-icon">🔍</span>
-    <input type="search" id="search-input" placeholder="Cerca cliente, attrezzatura, documento..."
-           oninput="cercaLive(this.value)" autocomplete="off" spellcheck="false">
+    <input type="search" id="search-input"
+           placeholder="Cerca cliente, fornitore, documento..."
+           oninput="cercaLive(this.value)"
+           autocomplete="off" spellcheck="false">
   </div>
   <div class="search-meta" id="search-meta">Digita per cercare in tutti i documenti</div>
   <div id="search-results" class="results-list">
     <div class="placeholder">
       <div class="big">🔍</div>
-      <p>La ricerca trova clienti, attrezzature e nomi file<br>in tempo reale su tutto l'archivio</p>
+      <p>La ricerca trova clienti, fornitori, attrezzature e nomi file<br>in tempo reale su tutto l'archivio</p>
     </div>
   </div>
 </div>
 
+<div class="toast" id="toast"></div>
+
 <script>
 // ── STATO GLOBALE ──
 let CATALOGO = null;
-let TUTTI_DOCUMENTI = []; // flat list per ricerca
+let TUTTI_DOCUMENTI = [];
+let PERCORSO_CORRENTE = []; // array di nomi cartella che rappresenta la navigazione corrente
+
+// ── ICONE ──
+const ICONE_SEZIONE = {
+  'CLIENTI':            '👥',
+  'FORNITORI':          '🏭',
+  'VENDITE':            '💼',
+  'ACQUISTI':           '🛒',
+  'BANCHE E PAGAMENTI': '🏦',
+  'CREDITI E DEBITI':   '📋',
+  'VICECONTI SNC':      '🏢',
+};
+
+const ICONE_CARTELLA_SPECIALE = {
+  'ARCHIVIO':   '🗃️',
+  'APERTI':     '📂',
+  'APERTE':     '📂',
+};
+
+function iconaCartella(nome, livello) {
+  const upper = nome.toUpperCase();
+  if (livello === 0) return ICONE_SEZIONE[upper] || '📁';
+  if (ICONE_CARTELLA_SPECIALE[upper]) return ICONE_CARTELLA_SPECIALE[upper];
+  return '📁';
+}
+
+const TIPO_FILE = {
+  '.pdf':  { label: 'PDF',      icona: '📄' },
+  '.jpg':  { label: 'Immagine', icona: '🖼️' },
+  '.jpeg': { label: 'Immagine', icona: '🖼️' },
+  '.png':  { label: 'Immagine', icona: '🖼️' },
+  '.gif':  { label: 'Immagine', icona: '🖼️' },
+  '.webp': { label: 'Immagine', icona: '🖼️' },
+  '.doc':  { label: 'Word',     icona: '📝' },
+  '.docx': { label: 'Word',     icona: '📝' },
+  '.xls':  { label: 'Excel',    icona: '📊' },
+  '.xlsx': { label: 'Excel',    icona: '📊' },
+  '.txt':  { label: 'Testo',    icona: '📃' },
+  '.csv':  { label: 'Testo',    icona: '📃' },
+  '.dwg':  { label: 'CAD',      icona: '📐' },
+  '.dxf':  { label: 'CAD',      icona: '📐' },
+  '.zip':  { label: 'Archivio', icona: '🗜️' },
+  '.rar':  { label: 'Archivio', icona: '🗜️' },
+  '.eml':  { label: 'Email',    icona: '✉️' },
+  '.msg':  { label: 'Email',    icona: '✉️' },
+};
+
+function tipoFile(nome) {
+  const ext = nome.slice(nome.lastIndexOf('.')).toLowerCase();
+  return TIPO_FILE[ext] || { label: 'File', icona: '📎' };
+}
 
 // ── CARICAMENTO ──
-const CATALOGO_URL = 'catalogo.json?v=' + Date.now();
-
 async function init() {
   try {
-    const resp = await fetch(CATALOGO_URL);
-    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const resp = await fetch('catalogo.json?v=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
     CATALOGO = await resp.json();
     flattenCatalogo();
     renderStats();
-    renderAlbero();
+    // Gestisci URL hash all'avvio
+    if (window.location.hash) {
+      navigaAdHash(window.location.hash);
+    } else {
+      renderAlbero();
+    }
   } catch(e) {
     document.getElementById('albero-content').innerHTML = `
       <div class="error-box">
         <div class="err-icon">⚠️</div>
         <strong>Impossibile caricare il catalogo</strong>
-        <p>Assicurati che <code>catalogo.json</code> sia nella stessa cartella di questo file.</p>
+        <p>Verifica che <code>catalogo.json</code> sia aggiornato.</p>
         <p style="margin-top:8px"><code>${e.message}</code></p>
       </div>`;
   }
 }
 
-// ── FLAT LIST per ricerca ──
+// ── FLATTEN per ricerca ──
 function flattenCatalogo() {
   TUTTI_DOCUMENTI = [];
-  for (const c of (CATALOGO.comuni || [])) {
-    for (const cl of (c.clienti || [])) {
-      for (const area of (cl.aree || [])) {
-        for (const attr of (area.attrezzature || [])) {
-          for (const doc of (attr.documenti || [])) {
-            TUTTI_DOCUMENTI.push({
-              ...doc,
-              _comune: c.comune,
-              _cliente: cl.nome,
-              _area: area.nome,
-              _attrezzatura: attr.nome,
-            });
-          }
-        }
-      }
+  function walk(nodo, percorso) {
+    for (const f of (nodo.file || [])) {
+      TUTTI_DOCUMENTI.push({ ...f, _percorso: percorso });
     }
+    for (const c of (nodo.cartelle || [])) {
+      walk(c, [...percorso, c.nome]);
+    }
+  }
+  for (const s of (CATALOGO.sezioni || [])) {
+    walk(s, [s.nome]);
   }
 }
 
 // ── STATS ──
 function renderStats() {
   const bar = document.getElementById('stats-bar');
+  const sezioni = CATALOGO.sezioni || [];
+  const totFile = CATALOGO.totale_file || 0;
   bar.innerHTML =
-    `<span><b>${CATALOGO.totale_comuni}</b> comuni</span>` +
-    `<span><b>${CATALOGO.totale_clienti}</b> clienti</span>` +
-    `<span><b>${CATALOGO.totale_file}</b> documenti</span>`;
-
+    `<span><b>${sezioni.length}</b> sezioni</span>` +
+    `<span><b>${totFile}</b> documenti</span>`;
   if (CATALOGO.generato) {
     const d = new Date(CATALOGO.generato);
     document.getElementById('last-update').textContent =
-      'Aggiornato ' + d.toLocaleDateString('it-IT', {day:'2-digit',month:'2-digit',year:'numeric'}) +
-      ' ' + d.toLocaleTimeString('it-IT', {hour:'2-digit',minute:'2-digit'});
+      'Aggiornato ' +
+      d.toLocaleDateString('it-IT', { day: '2-digit', month: '2-digit', year: 'numeric' }) +
+      ' ' + d.toLocaleTimeString('it-IT', { hour: '2-digit', minute: '2-digit' });
   }
 }
 
 // ── ALBERO ──
-function renderAlbero() {
-  const input = document.getElementById('tree-search-input');
-  const fl = input ? input.value.toLowerCase().trim() : '';
-  renderAlberoContenuto(fl);
-}
-
-function renderAlberoContenuto(filtro) {
+function renderAlbero(filtro) {
+  PERCORSO_CORRENTE = [];
+  aggiornaBreadcrumb();
   const container = document.getElementById('albero-content');
   const fl = filtro ? filtro.toLowerCase().trim() : '';
+  const sezioni = CATALOGO.sezioni || [];
 
-  const html = [];
-  let trovatiAlcuno = false;
+  // Toolbar
+  let html = `
+    <div class="tree-toolbar">
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="search" id="tree-filter" placeholder="Filtra nell'albero..."
+               oninput="applicaFiltroAlbero(this.value)"
+               value="${escHtml(filtro || '')}"
+               autocomplete="off" spellcheck="false">
+      </div>
+      <button class="btn-ghost" onclick="espandiTutto()">▼ Espandi tutto</button>
+      <button class="btn-ghost" onclick="collassaTutto()">▲ Comprimi tutto</button>
+    </div>`;
 
-  for (const c of (CATALOGO.comuni || [])) {
-    const comuneHtml = renderComune(c, fl);
-    if (comuneHtml) { html.push(comuneHtml); trovatiAlcuno = true; }
+  const nodiHtml = [];
+  for (const sezione of sezioni) {
+    const r = renderNodo(sezione, 0, fl);
+    if (r) nodiHtml.push(r);
   }
 
-  if (!trovatiAlcuno) {
-    html.push(`<div class="placeholder"><div class="big">🔍</div><p>Nessun risultato per "<b>${fl}</b>"</p></div>`);
+  if (!nodiHtml.length) {
+    html += `<div class="placeholder"><div class="big">🔍</div><p>Nessun risultato per "<b>${escHtml(filtro)}</b>"</p></div>`;
+  } else {
+    html += nodiHtml.join('');
   }
 
-  container.innerHTML = html.join('');
+  container.innerHTML = html;
 }
 
-function renderComune(c, fl) {
-  const clientiHtml = [];
-  let totDocComune = 0;
+// ── RENDER NODO GENERICO (ricorsivo) ──
+function renderNodo(nodo, livello, filtro, matchParent) {
+  const fl = filtro ? filtro.toLowerCase() : '';
+  const matchNome = !fl || nodo.nome.toLowerCase().includes(fl);
+  const match = matchParent || matchNome;
 
-  for (const cl of (c.clienti || [])) {
-    const r = renderCliente(cl, fl);
-    if (r) { clientiHtml.push(r.html); totDocComune += r.count; }
+  // Processa file di questo nodo
+  const fileHtml = [];
+  for (const f of (nodo.file || [])) {
+    const matchFile = match || !fl || f.nome.toLowerCase().includes(fl);
+    if (matchFile) fileHtml.push(renderDocRow(f, fl));
   }
 
-  if (!clientiHtml.length) return null;
+  // Processa sottocartelle
+  const sottoHtml = [];
+  for (const sotto of (nodo.cartelle || [])) {
+    const r = renderNodo(sotto, livello + 1, filtro, match);
+    if (r) sottoHtml.push(r);
+  }
 
+  // Includi nodo solo se ha contenuto
+  if (!fileHtml.length && !sottoHtml.length) return null;
+
+  const totFile = contaFile(nodo);
   const aperto = fl ? 'open' : '';
-  const id = 'c_' + slugify(c.comune);
+  const id = 'n_' + slugify(nodo.nome + '_' + livello + '_' + Math.random().toString(36).slice(2,6));
+  const icona = nodo.icona || iconaCartella(nodo.nome, livello);
+  const label = fl ? hl(nodo.nome, fl) : escHtml(nodo.nome);
 
   return `
-    <div class="node level-0">
+    <div class="node level-${Math.min(livello, 4)}">
       <div class="node-header" onclick="toggleNode('${id}')">
         <div class="node-toggle ${aperto}" id="tog_${id}">▶</div>
-        <div class="node-icon">📍</div>
-        <div class="node-label">${hl(c.comune, fl)}</div>
-        <div class="node-count">${clientiHtml.length} clienti · ${totDocComune} doc</div>
+        <div class="node-icon">${icona}</div>
+        <div class="node-label">${label}</div>
+        <div class="node-count">${totFile} doc</div>
       </div>
       <div class="node-children ${aperto}" id="${id}">
-        ${clientiHtml.join('')}
+        ${sottoHtml.join('')}
+        ${fileHtml.join('')}
       </div>
     </div>`;
 }
 
-function renderCliente(cl, fl) {
-  const matchCliente = !fl || cl.nome.toLowerCase().includes(fl);
-  const areeHtml = [];
-  let totDoc = 0;
-
-  for (const area of (cl.aree || [])) {
-    const r = renderArea(area, fl, matchCliente);
-    if (r) { areeHtml.push(r.html); totDoc += r.count; }
-  }
-
-  if (!areeHtml.length) return null;
-
-  const aperto = fl ? 'open' : '';
-  const id = 'cl_' + slugify(cl.nome);
-
-  return {
-    html: `
-      <div class="node level-1">
-        <div class="node-header" onclick="toggleNode('${id}')">
-          <div class="node-toggle ${aperto}" id="tog_${id}">▶</div>
-          <div class="node-icon">🏢</div>
-          <div class="node-label">${hl(cl.nome, fl)}</div>
-          <div class="node-count">${totDoc} doc</div>
-        </div>
-        <div class="node-children ${aperto}" id="${id}">
-          ${areeHtml.join('')}
-        </div>
-      </div>`,
-    count: totDoc
-  };
-}
-
-function renderArea(area, fl, matchParent) {
-  const matchArea = matchParent || !fl || area.nome.toLowerCase().includes(fl);
-  const attrHtml = [];
-  let totDoc = 0;
-
-  for (const attr of (area.attrezzature || [])) {
-    const r = renderAttrezzatura(attr, fl, matchArea);
-    if (r) { attrHtml.push(r.html); totDoc += r.count; }
-  }
-
-  if (!attrHtml.length) return null;
-
-  const aperto = fl ? 'open' : '';
-  const id = 'a_' + slugify(area.nome + '_' + Math.random());
-
-  return {
-    html: `
-      <div class="node level-2">
-        <div class="node-header" onclick="toggleNode('${id}')">
-          <div class="node-toggle ${aperto}" id="tog_${id}">▶</div>
-          <div class="node-icon">🔧</div>
-          <div class="node-label">${hl(area.nome, fl)}</div>
-          <div class="node-count">${totDoc} doc</div>
-        </div>
-        <div class="node-children ${aperto}" id="${id}">
-          ${attrHtml.join('')}
-        </div>
-      </div>`,
-    count: totDoc
-  };
-}
-
-function renderAttrezzatura(attr, fl, matchParent) {
-  const matchAttr = matchParent || !fl || attr.nome.toLowerCase().includes(fl);
-  const docsHtml = [];
-
-  for (const doc of (attr.documenti || [])) {
-    const matchDoc = matchAttr || !fl || doc.nome.toLowerCase().includes(fl);
-    if (!matchDoc) continue;
-    docsHtml.push(renderDoc(doc, fl));
-  }
-
-  if (!docsHtml.length) return null;
-
-  const aperto = fl ? 'open' : '';
-  const id = 'at_' + slugify(attr.nome + '_' + Math.random());
-
-  return {
-    html: `
-      <div class="node level-3">
-        <div class="node-header" onclick="toggleNode('${id}')">
-          <div class="node-toggle ${aperto}" id="tog_${id}">▶</div>
-          <div class="node-icon">⚙️</div>
-          <div class="node-label">${hl(attr.nome, fl)}</div>
-          <div class="node-count">${docsHtml.length}</div>
-        </div>
-        <div class="node-children ${aperto}" id="${id}">
-          ${docsHtml.join('')}
-        </div>
-      </div>`,
-    count: docsHtml.length
-  };
-}
-
-function renderDoc(doc, fl) {
+function renderDocRow(doc, fl) {
   const link = doc.link || '#';
   const target = link !== '#' ? 'target="_blank" rel="noopener"' : '';
-  const sizeStr = doc.dimensione_kb ? formatSize(doc.dimensione_kb) : '';
+  const tipo = tipoFile(doc.nome);
+  const icona = doc.icona || tipo.icona;
+  const label = doc.tipo || tipo.label;
+  const size = doc.dimensione_kb ? formatSize(doc.dimensione_kb) : '';
+  const nome = fl ? hl(doc.nome, fl) : escHtml(doc.nome);
   return `
     <a class="doc-row" href="${link}" ${target}>
-      <span class="doc-icon">${doc.icona || '📎'}</span>
-      <span class="doc-name">${hl(doc.nome, fl)}</span>
-      <span class="doc-tipo">${doc.tipo || ''}</span>
-      <span class="doc-size">${sizeStr}</span>
+      <span class="doc-icon">${icona}</span>
+      <span class="doc-name">${nome}</span>
+      <span class="doc-badge">${label}</span>
+      <span class="doc-size">${size}</span>
     </a>`;
+}
+
+function contaFile(nodo) {
+  let n = (nodo.file || []).length;
+  for (const c of (nodo.cartelle || [])) n += contaFile(c);
+  return n;
+}
+
+// ── FILTRO ALBERO ──
+let filterTimer = null;
+function applicaFiltroAlbero(val) {
+  clearTimeout(filterTimer);
+  filterTimer = setTimeout(() => renderAlbero(val), 150);
 }
 
 // ── TOGGLE NODI ──
@@ -706,9 +851,126 @@ function collassaTutto() {
   document.querySelectorAll('.node-toggle').forEach(el => el.classList.remove('open'));
 }
 
+// ── URL PARLANTI ──
+function navigaAdHash(hash) {
+  // hash = "#/CLIENTI/LAURIA/HAPPY MOMENTS"
+  const raw = decodeURIComponent(hash.replace(/^#\/?/, ''));
+  if (!raw) { renderAlbero(); return; }
+  const parti = raw.split('/').filter(Boolean);
+  PERCORSO_CORRENTE = parti;
+  aggiornaBreadcrumb();
+  renderAlberoConPercorso(parti);
+}
+
+function renderAlberoConPercorso(parti) {
+  // Naviga nell'albero JSON fino al nodo indicato dal percorso
+  const sezioni = CATALOGO.sezioni || [];
+  let nodoCorrente = null;
+
+  if (parti.length === 0) { renderAlbero(); return; }
+
+  // Cerca la sezione
+  const nomeSezione = parti[0].toUpperCase();
+  nodoCorrente = sezioni.find(s => s.nome.toUpperCase() === nomeSezione);
+  if (!nodoCorrente) { renderAlbero(); return; }
+
+  // Naviga nelle sottocartelle
+  for (let i = 1; i < parti.length; i++) {
+    const nome = parti[i].toUpperCase();
+    const figlio = (nodoCorrente.cartelle || []).find(c => c.nome.toUpperCase() === nome);
+    if (!figlio) break;
+    nodoCorrente = figlio;
+  }
+
+  // Renderizza il nodo trovato
+  const container = document.getElementById('albero-content');
+  let html = `
+    <div class="tree-toolbar">
+      <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="search" id="tree-filter" placeholder="Filtra nell'albero..."
+               oninput="applicaFiltroAlbero(this.value)"
+               autocomplete="off" spellcheck="false">
+      </div>
+      <button class="btn-ghost" onclick="espandiTutto()">▼ Espandi tutto</button>
+      <button class="btn-ghost" onclick="collassaTutto()">▲ Comprimi tutto</button>
+    </div>`;
+
+  if (nodoCorrente) {
+    const r = renderNodo(nodoCorrente, 0, '', true);
+    html += r || '<div class="placeholder"><div class="big">📂</div><p>Cartella vuota</p></div>';
+  } else {
+    html += '<div class="placeholder"><div class="big">📭</div><p>Percorso non trovato</p></div>';
+  }
+
+  container.innerHTML = html;
+}
+
+// ── BREADCRUMB ──
+function aggiornaBreadcrumb() {
+  const bar = document.getElementById('breadcrumb-bar');
+  if (!PERCORSO_CORRENTE.length) {
+    bar.classList.add('hidden');
+    return;
+  }
+  bar.classList.remove('hidden');
+
+  let html = `<span class="bc-item" onclick="tornaRoot()">🏠 Hub</span>`;
+  for (let i = 0; i < PERCORSO_CORRENTE.length; i++) {
+    const parte = PERCORSO_CORRENTE[i];
+    const isUltimo = i === PERCORSO_CORRENTE.length - 1;
+    html += `<span class="bc-sep">/</span>`;
+    if (isUltimo) {
+      html += `<span class="bc-item current">${escHtml(parte)}</span>`;
+    } else {
+      const percorsoFinoQui = PERCORSO_CORRENTE.slice(0, i + 1);
+      html += `<span class="bc-item" onclick="navigaAdHash('#/${percorsoFinoQui.map(encodeURIComponent).join('/')}')">${escHtml(parte)}</span>`;
+    }
+  }
+
+  html += `
+    <button class="copy-link-btn" id="copy-btn" onclick="copiaLink()">
+      🔗 Copia link
+    </button>`;
+
+  bar.innerHTML = html;
+}
+
+function tornaRoot() {
+  PERCORSO_CORRENTE = [];
+  window.location.hash = '';
+  aggiornaBreadcrumb();
+  renderAlbero();
+}
+
+function copiaLink() {
+  const url = window.location.href.split('#')[0] + '#/' +
+    PERCORSO_CORRENTE.map(encodeURIComponent).join('/');
+  navigator.clipboard.writeText(url).then(() => {
+    const btn = document.getElementById('copy-btn');
+    if (btn) {
+      btn.classList.add('copied');
+      btn.textContent = '✅ Copiato';
+      setTimeout(() => {
+        btn.classList.remove('copied');
+        btn.innerHTML = '🔗 Copia link';
+      }, 2000);
+    }
+    mostraToast('Link copiato negli appunti');
+  });
+}
+
+// Aggiorna hash quando si clicca su un nodo sezione
+// (intercettiamo il click sui nodi di livello 0)
+function aggiornaHashDaPercorso(percorso) {
+  const hash = '#/' + percorso.map(encodeURIComponent).join('/');
+  history.replaceState(null, '', hash);
+  PERCORSO_CORRENTE = percorso;
+  aggiornaBreadcrumb();
+}
+
 // ── RICERCA LIVE ──
 let searchTimer = null;
-
 function cercaLive(q) {
   clearTimeout(searchTimer);
   searchTimer = setTimeout(() => eseguiRicerca(q), 120);
@@ -721,15 +983,13 @@ function eseguiRicerca(q) {
 
   if (!query) {
     meta.innerHTML = 'Digita per cercare in tutti i documenti';
-    results.innerHTML = `<div class="placeholder"><div class="big">🔍</div><p>La ricerca trova clienti, attrezzature e nomi file<br>in tempo reale su tutto l'archivio</p></div>`;
+    results.innerHTML = `<div class="placeholder"><div class="big">🔍</div><p>La ricerca trova clienti, fornitori, attrezzature e nomi file<br>in tempo reale su tutto l'archivio</p></div>`;
     return;
   }
 
   const tokens = query.split(/\s+/).filter(Boolean);
-
   const trovati = TUTTI_DOCUMENTI.filter(doc => {
-    const haystack = [doc.nome, doc._cliente, doc._area, doc._attrezzatura, doc._comune]
-      .join(' ').toLowerCase();
+    const haystack = [doc.nome, ...(doc._percorso || [])].join(' ').toLowerCase();
     return tokens.every(t => haystack.includes(t));
   });
 
@@ -742,27 +1002,28 @@ function eseguiRicerca(q) {
     return;
   }
 
-  // Mostra max 200 risultati
   const slice = trovati.slice(0, 200);
   results.innerHTML = slice.map(doc => {
     const link = doc.link || '#';
     const target = link !== '#' ? 'target="_blank" rel="noopener"' : '';
-    const sizeStr = doc.dimensione_kb ? formatSize(doc.dimensione_kb) : '';
-    const pathParts = [doc._comune, doc._cliente, doc._area, doc._attrezzatura]
-      .filter(Boolean)
+    const tipo = tipoFile(doc.nome);
+    const icona = doc.icona || tipo.icona;
+    const size = doc.dimensione_kb ? formatSize(doc.dimensione_kb) : '';
+    const percorso = (doc._percorso || []);
+    const pathHtml = percorso
       .map(p => `<span>${hlMulti(escHtml(p), tokens)}</span>`)
-      .join('<span class="path-sep">/</span>');
+      .join('<span class="sep">/</span>');
 
     return `
       <a class="result-item" href="${link}" ${target}>
-        <div class="result-icon">${doc.icona || '📎'}</div>
+        <div class="result-icon">${icona}</div>
         <div class="result-body">
           <div class="result-name">${hlMulti(escHtml(doc.nome), tokens)}</div>
-          <div class="result-path">${pathParts}</div>
+          <div class="result-path">${pathHtml}</div>
         </div>
         <div class="result-right">
-          <span class="result-tipo">${doc.tipo || ''}</span>
-          <span class="result-size">${sizeStr}</span>
+          <span class="result-badge">${doc.tipo || tipo.label}</span>
+          <span class="result-size">${size}</span>
         </div>
       </a>`;
   }).join('');
@@ -774,47 +1035,58 @@ function switchTab(tab) {
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
   document.getElementById('view-' + tab).classList.add('active');
   document.getElementById('tab-' + tab).classList.add('active');
-
   if (tab === 'ricerca') {
     setTimeout(() => document.getElementById('search-input').focus(), 50);
   }
 }
 
+// ── TOAST ──
+function mostraToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
+
 // ── UTILS ──
 function slugify(s) {
-  return s.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+  return String(s).replace(/[^a-z0-9]/gi, '_').toLowerCase();
 }
-
 function escHtml(s) {
-  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
-
 function hl(text, query) {
   if (!query) return escHtml(text);
-  const escaped = escHtml(text);
   const re = new RegExp('(' + escRe(query) + ')', 'gi');
-  return escaped.replace(re, '<mark>$1</mark>');
+  return escHtml(text).replace(re, '<mark>$1</mark>');
 }
-
 function hlMulti(text, tokens) {
   let out = text;
   for (const t of tokens) {
-    const re = new RegExp('(' + escRe(t) + ')', 'gi');
-    out = out.replace(re, '<mark>$1</mark>');
+    out = out.replace(new RegExp('(' + escRe(t) + ')', 'gi'), '<mark>$1</mark>');
   }
   return out;
 }
-
-function escRe(s) {
-  return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-}
-
+function escRe(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
 function formatSize(kb) {
-  if (kb >= 1024) return (kb / 1024).toFixed(1) + ' MB';
+  if (kb >= 1024) return (kb/1024).toFixed(1) + ' MB';
   return kb + ' KB';
 }
 
-// ── START ──
+// Gestisci navigazione con pulsante back del browser
+window.addEventListener('hashchange', () => {
+  if (window.location.hash) {
+    navigaAdHash(window.location.hash);
+  } else {
+    PERCORSO_CORRENTE = [];
+    aggiornaBreadcrumb();
+    renderAlbero();
+  }
+});
+
+// ── AVVIO ──
 init();
 </script>
 </body>

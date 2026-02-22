@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Documenti — Viceconti</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --vc-primary:       #203058;
+  --vc-primary-hover: #16223e;
+  --vc-primary-light: #edeef2;
+  --vc-bg:            #ffffff;
+  --vc-surface:       #f7f8fa;
+  --vc-surface2:      #f0f2f6;
+  --vc-border:        #e8e8e8;
+  --vc-text:          #1b1f2a;
+  --vc-text-muted:    #6b7280;
+  --vc-text-faint:    #b8c0d8;
+  --vc-danger:        #d64545;
+  --vc-shadow-sm:     0 1px 3px rgba(0,0,0,0.08);
+  --vc-shadow-md:     0 4px 12px rgba(0,0,0,0.10);
+  --vc-radius-sm:     4px;
+  --vc-radius-md:     8px;
+  --vc-font-sans:     'DM Sans', system-ui, sans-serif;
+  --vc-font-mono:     'DM Mono', 'Courier New', monospace;
+  --vc-transition:    0.15s ease-in-out;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--vc-bg);
+  color: var(--vc-text);
+  font-family: var(--vc-font-sans);
+  font-size: 15px;
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+/* ── HEADER MINIMALE ── */
+header {
+  background: var(--vc-bg);
+  border-bottom: 2px solid var(--vc-primary);
+  height: 52px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  box-shadow: var(--vc-shadow-sm);
+}
+
+.logo {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--vc-primary);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.cartella-nome {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--vc-text-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.cartella-nome span { color: var(--vc-text-faint); margin: 0 6px; }
+
+.spacer { flex: 1; }
+
+.powered {
+  font-family: var(--vc-font-mono);
+  font-size: 10px;
+  color: var(--vc-text-faint);
+  white-space: nowrap;
+}
+
+/* ── CONTENUTO ── */
+.container {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 20px 16px;
+}
+
+.folder-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--vc-border);
+}
+.folder-icon { font-size: 24px; }
+.folder-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--vc-text);
+}
+.folder-count {
+  font-family: var(--vc-font-mono);
+  font-size: 12px;
+  color: var(--vc-text-muted);
+  margin-left: auto;
+}
+
+/* Sottocartelle */
+.subfolder {
+  margin-bottom: 20px;
+}
+.subfolder-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 10px;
+  background: var(--vc-surface);
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-md);
+  cursor: pointer;
+  user-select: none;
+  transition: var(--vc-transition);
+  margin-bottom: 6px;
+}
+.subfolder-header:hover { background: var(--vc-primary-light); }
+.subfolder-toggle {
+  font-size: 10px;
+  color: var(--vc-text-faint);
+  transition: transform 0.18s;
+}
+.subfolder-toggle.open { transform: rotate(90deg); }
+.subfolder-icon { font-size: 14px; }
+.subfolder-nome {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--vc-text);
+  flex: 1;
+}
+.subfolder-count {
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-faint);
+}
+.subfolder-children {
+  padding-left: 20px;
+  border-left: 2px solid var(--vc-primary-light);
+  margin-left: 12px;
+  display: none;
+}
+.subfolder-children.open { display: block; }
+
+/* File */
+.file-list { display: flex; flex-direction: column; gap: 3px; margin-bottom: 8px; }
+
+.file-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 7px 10px;
+  border-radius: var(--vc-radius-sm);
+  text-decoration: none;
+  color: var(--vc-text);
+  transition: background var(--vc-transition);
+  border: 1px solid transparent;
+}
+.file-row:hover {
+  background: var(--vc-surface2);
+  border-color: var(--vc-border);
+}
+.file-icon { font-size: 16px; flex-shrink: 0; }
+.file-name {
+  flex: 1;
+  font-size: 14px;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.file-badge {
+  font-family: var(--vc-font-mono);
+  font-size: 10px;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: var(--vc-surface2);
+  color: var(--vc-text-muted);
+  border: 1px solid var(--vc-border);
+  flex-shrink: 0;
+}
+.file-size {
+  font-family: var(--vc-font-mono);
+  font-size: 11px;
+  color: var(--vc-text-faint);
+  flex-shrink: 0;
+}
+.file-arrow {
+  font-size: 12px;
+  color: var(--vc-text-faint);
+  flex-shrink: 0;
+}
+
+/* ── STATI ── */
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 60px;
+  color: var(--vc-text-muted);
+  font-family: var(--vc-font-mono);
+  font-size: 13px;
+}
+.spinner {
+  width: 16px; height: 16px;
+  border: 2px solid var(--vc-border);
+  border-top-color: var(--vc-primary);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: var(--vc-text-muted);
+}
+.empty .big { font-size: 36px; margin-bottom: 12px; }
+.empty p { font-size: 13px; }
+
+.error-box {
+  margin: 40px auto;
+  max-width: 480px;
+  background: #fff8f8;
+  border: 1px solid #f5c0c0;
+  border-radius: var(--vc-radius-md);
+  padding: 24px;
+  text-align: center;
+}
+.error-box .err-icon { font-size: 28px; margin-bottom: 8px; }
+.error-box p { color: var(--vc-text-muted); font-size: 13px; margin-top: 8px; }
+.error-box code { font-family: var(--vc-font-mono); font-size: 12px; color: var(--vc-danger); }
+
+@media (max-width: 600px) {
+  header { padding: 0 12px; }
+  .container { padding: 12px 10px; }
+  .file-badge, .file-size, .file-arrow { display: none; }
+  .folder-count { display: none; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Viceconti</div>
+  <div class="cartella-nome" id="header-cartella"></div>
+  <div class="spacer"></div>
+  <div class="powered">Hub Documentale</div>
+</header>
+
+<div class="container">
+  <div id="main-content">
+    <div class="loading"><div class="spinner"></div> Caricamento...</div>
+  </div>
+</div>
+
+<script>
+// ── MAPPA TIPI FILE ──
+const TIPO_FILE = {
+  '.pdf':  { label: 'PDF',      icona: '📄' },
+  '.jpg':  { label: 'Immagine', icona: '🖼️' },
+  '.jpeg': { label: 'Immagine', icona: '🖼️' },
+  '.png':  { label: 'Immagine', icona: '🖼️' },
+  '.doc':  { label: 'Word',     icona: '📝' },
+  '.docx': { label: 'Word',     icona: '📝' },
+  '.xls':  { label: 'Excel',    icona: '📊' },
+  '.xlsx': { label: 'Excel',    icona: '📊' },
+  '.txt':  { label: 'Testo',    icona: '📃' },
+  '.csv':  { label: 'Testo',    icona: '📃' },
+  '.dwg':  { label: 'CAD',      icona: '📐' },
+  '.dxf':  { label: 'CAD',      icona: '📐' },
+  '.zip':  { label: 'Archivio', icona: '🗜️' },
+  '.eml':  { label: 'Email',    icona: '✉️' },
+  '.msg':  { label: 'Email',    icona: '✉️' },
+};
+
+function tipoFile(nome) {
+  const ext = nome.slice(nome.lastIndexOf('.')).toLowerCase();
+  return TIPO_FILE[ext] || { label: 'File', icona: '📎' };
+}
+
+function formatSize(kb) {
+  if (kb >= 1024) return (kb/1024).toFixed(1) + ' MB';
+  return kb + ' KB';
+}
+
+function contaFile(nodo) {
+  let n = (nodo.file || []).length;
+  for (const c of (nodo.cartelle || [])) n += contaFile(c);
+  return n;
+}
+
+function escHtml(s) {
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── AVVIO ──
+async function init() {
+  const hash = decodeURIComponent(window.location.hash.replace(/^#\/?/, ''));
+  const parti = hash.split('/').filter(Boolean);
+
+  if (!parti.length) {
+    mostraErrore('Nessuna cartella specificata nell\'URL.');
+    return;
+  }
+
+  try {
+    const resp = await fetch('catalogo.json?v=' + Date.now());
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const catalogo = await resp.json();
+
+    // Naviga fino al nodo richiesto
+    const nodo = trovaNodo(catalogo, parti);
+
+    if (!nodo) {
+      mostraErrore('Cartella non trovata: <code>' + escHtml(parti.join('/')) + '</code>');
+      return;
+    }
+
+    // Aggiorna header
+    const nomeCartella = parti[parti.length - 1];
+    document.getElementById('header-cartella').innerHTML =
+      '<span>/</span>' + escHtml(nomeCartella);
+    document.title = nomeCartella + ' — Viceconti';
+
+    // Renderizza
+    renderNodo(nodo, document.getElementById('main-content'));
+
+  } catch(e) {
+    mostraErrore('Errore caricamento: <code>' + escHtml(e.message) + '</code>');
+  }
+}
+
+function trovaNodo(catalogo, parti) {
+  const sezioni = catalogo.sezioni || [];
+  const nomeSezione = parti[0].toUpperCase();
+  let nodo = sezioni.find(s => s.nome.toUpperCase() === nomeSezione);
+  if (!nodo) return null;
+
+  for (let i = 1; i < parti.length; i++) {
+    const nome = parti[i].toUpperCase();
+    const figlio = (nodo.cartelle || []).find(c => c.nome.toUpperCase() === nome);
+    if (!figlio) return nodo; // restituisce il livello più profondo trovato
+    nodo = figlio;
+  }
+  return nodo;
+}
+
+function renderNodo(nodo, container) {
+  const totFile = contaFile(nodo);
+  const icona = nodo.icona || '📁';
+
+  let html = `
+    <div class="folder-header">
+      <div class="folder-icon">${icona}</div>
+      <div class="folder-title">${escHtml(nodo.nome)}</div>
+      <div class="folder-count">${totFile} document${totFile === 1 ? 'o' : 'i'}</div>
+    </div>`;
+
+  if (totFile === 0) {
+    html += `<div class="empty"><div class="big">📂</div><p>Questa cartella è vuota</p></div>`;
+    container.innerHTML = html;
+    return;
+  }
+
+  // File diretti nel nodo
+  if ((nodo.file || []).length > 0) {
+    html += renderFileList(nodo.file);
+  }
+
+  // Sottocartelle
+  for (const sotto of (nodo.cartelle || [])) {
+    html += renderSottocartella(sotto);
+  }
+
+  container.innerHTML = html;
+}
+
+function renderFileList(files) {
+  if (!files.length) return '';
+  let html = '<div class="file-list">';
+  for (const f of files) {
+    const tipo = tipoFile(f.nome);
+    const icona = f.icona || tipo.icona;
+    const label = f.tipo || tipo.label;
+    const size = f.dimensione_kb ? formatSize(f.dimensione_kb) : '';
+    const link = f.link || '#';
+    const target = link !== '#' ? 'target="_blank" rel="noopener"' : '';
+    html += `
+      <a class="file-row" href="${link}" ${target}>
+        <span class="file-icon">${icona}</span>
+        <span class="file-name">${escHtml(f.nome)}</span>
+        <span class="file-badge">${label}</span>
+        <span class="file-size">${size}</span>
+        <span class="file-arrow">↗</span>
+      </a>`;
+  }
+  html += '</div>';
+  return html;
+}
+
+function renderSottocartella(nodo) {
+  const totFile = contaFile(nodo);
+  if (totFile === 0) return '';
+
+  const id = 'sf_' + Math.random().toString(36).slice(2, 8);
+  let html = `
+    <div class="subfolder">
+      <div class="subfolder-header" onclick="toggleSub('${id}')">
+        <span class="subfolder-toggle" id="tog_${id}">▶</span>
+        <span class="subfolder-icon">📁</span>
+        <span class="subfolder-nome">${escHtml(nodo.nome)}</span>
+        <span class="subfolder-count">${totFile} doc</span>
+      </div>
+      <div class="subfolder-children" id="${id}">`;
+
+  // File diretti
+  if ((nodo.file || []).length > 0) {
+    html += renderFileList(nodo.file);
+  }
+
+  // Sotto-sottocartelle
+  for (const sotto of (nodo.cartelle || [])) {
+    html += renderSottocartella(sotto);
+  }
+
+  html += `</div></div>`;
+  return html;
+}
+
+function toggleSub(id) {
+  const el = document.getElementById(id);
+  const tog = document.getElementById('tog_' + id);
+  if (!el) return;
+  const open = el.classList.toggle('open');
+  if (tog) tog.classList.toggle('open', open);
+}
+
+function mostraErrore(msg) {
+  document.getElementById('main-content').innerHTML = `
+    <div class="error-box">
+      <div class="err-icon">⚠️</div>
+      <strong>Cartella non disponibile</strong>
+      <p>${msg}</p>
+    </div>`;
+}
+
+init();
+</script>
+</body>
+</html>
