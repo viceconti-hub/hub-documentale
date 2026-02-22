@@ -1,7 +1,7 @@
 {
   "versione": "2.0",
-  "generato": "2026-02-22T15:35:47Z",
-  "totale_file": 46,
+  "generato": "2026-02-22T18:35:13Z",
+  "totale_file": 47,
   "totale_sezioni": 2,
   "sezioni": [
     {
@@ -402,7 +402,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 2,
+      "totale_file": 3,
       "cartelle": [],
       "file": [
         {
@@ -412,6 +412,14 @@
           "link": "https://www.dropbox.com/scl/fi/dcnh3ckq064fnj6vf866w/MODULO-TECNICO-con-orario.pdf?rlkey=m5vv1b1ero6g95ohvu8omkcwi&dl=0?raw=1",
           "dimensione_kb": 42,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULO TECNICO con orario.pdf"
+        },
+        {
+          "nome": "indexer_rapido.log",
+          "tipo": "File",
+          "icona": "📎",
+          "link": "https://www.dropbox.com/scl/fi/l8yvdg3bkjc9ho14bboiw/indexer_rapido.log?rlkey=3c0xfegknope9al1t673ba5lo&dl=0?raw=1",
+          "dimensione_kb": 38,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/indexer_rapido.log"
         },
         {
           "nome": "vicecontistore.it.url",
