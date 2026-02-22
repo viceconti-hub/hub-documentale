@@ -758,10 +758,12 @@ function renderAlbero(filtro) {
 }
 
 // ── RENDER NODO GENERICO (ricorsivo) ──
-function renderNodo(nodo, livello, filtro, matchParent) {
+function renderNodo(nodo, livello, filtro, matchParent, percorsoCorrente) {
   const fl = filtro ? filtro.toLowerCase() : '';
   const matchNome = !fl || nodo.nome.toLowerCase().includes(fl);
   const match = matchParent || matchNome;
+  const percorso = percorsoCorrente ? [...percorsoCorrente, nodo.nome] : [nodo.nome];
+  const percorsoEncoded = percorso.map(encodeURIComponent).join('/');
 
   // Processa file di questo nodo
   const fileHtml = [];
@@ -773,7 +775,7 @@ function renderNodo(nodo, livello, filtro, matchParent) {
   // Processa sottocartelle
   const sottoHtml = [];
   for (const sotto of (nodo.cartelle || [])) {
-    const r = renderNodo(sotto, livello + 1, filtro, match);
+    const r = renderNodo(sotto, livello + 1, filtro, match, percorso);
     if (r) sottoHtml.push(r);
   }
 
@@ -788,7 +790,7 @@ function renderNodo(nodo, livello, filtro, matchParent) {
 
   return `
     <div class="node level-${Math.min(livello, 4)}">
-      <div class="node-header" onclick="toggleNode('${id}')">
+      <div class="node-header" onclick="toggleNode('${id}', '${percorsoEncoded}')">
         <div class="node-toggle ${aperto}" id="tog_${id}">▶</div>
         <div class="node-icon">${icona}</div>
         <div class="node-label">${label}</div>
@@ -832,13 +834,25 @@ function applicaFiltroAlbero(val) {
 }
 
 // ── TOGGLE NODI ──
-function toggleNode(id) {
+function toggleNode(id, percorsoEncoded) {
   const el = document.getElementById(id);
   const tog = document.getElementById('tog_' + id);
   if (!el) return;
   const isOpen = el.classList.contains('open');
   el.classList.toggle('open', !isOpen);
   if (tog) tog.classList.toggle('open', !isOpen);
+
+  if (!isOpen && percorsoEncoded) {
+    // Apertura nodo: aggiorna URL e breadcrumb
+    history.replaceState(null, '', '#/' + percorsoEncoded);
+    PERCORSO_CORRENTE = percorsoEncoded.split('/').map(decodeURIComponent);
+    aggiornaBreadcrumb();
+  } else if (isOpen && percorsoEncoded && !percorsoEncoded.includes('/')) {
+    // Chiusura sezione root: torna alla root
+    history.replaceState(null, '', window.location.pathname);
+    PERCORSO_CORRENTE = [];
+    aggiornaBreadcrumb();
+  }
 }
 
 function espandiTutto() {
