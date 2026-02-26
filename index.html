@@ -70,14 +70,10 @@ header {
 .data-source {
   display: flex;
   align-items: center;
-  gap: 6px;
-  opacity: 0.55;
   flex-shrink: 0;
-  transition: opacity var(--vc-transition);
 }
-.data-source:hover { opacity: 0.8; }
 .data-source img {
-  height: 20px;
+  height: 36px;
   width: auto;
 }
 
@@ -613,7 +609,7 @@ mark {
   .logo img { height: 28px; }
   .stats-bar { display: none; }
   .last-update { display: none; }
-  .data-source img { height: 16px; }
+  .data-source img { height: 28px; }
   .navbar { padding: 0 8px; top: 52px; overflow-x: auto; }
   .navbar a { padding: 8px 12px; font-size: 12px; }
   #view-albero, #view-ricerca { padding: 10px 8px; }
@@ -630,12 +626,12 @@ mark {
   <a href="#/" class="logo" onclick="navigaAdHash('#/');return false;">
     <img src="logo-viceconti.png" alt="Viceconti" onerror="this.style.display='none'">
   </a>
+  <div class="data-source">
+    <img src="logo-dropbox.png" alt="Dropbox" onerror="this.parentElement.style.display='none'">
+  </div>
   <div class="header-right">
     <div class="stats-bar" id="stats-bar"></div>
     <div class="last-update" id="last-update"></div>
-    <div class="data-source">
-      <img src="logo-dropbox.png" alt="Dropbox" onerror="this.parentElement.style.display='none'">
-    </div>
   </div>
 </header>
 
