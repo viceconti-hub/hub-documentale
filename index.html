@@ -67,6 +67,20 @@ header {
 }
 .logo:hover { opacity: 0.85; }
 
+.data-source {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  opacity: 0.55;
+  flex-shrink: 0;
+  transition: opacity var(--vc-transition);
+}
+.data-source:hover { opacity: 0.8; }
+.data-source img {
+  height: 20px;
+  width: auto;
+}
+
 .header-right {
   margin-left: auto;
   display: flex;
@@ -599,6 +613,7 @@ mark {
   .logo img { height: 28px; }
   .stats-bar { display: none; }
   .last-update { display: none; }
+  .data-source img { height: 16px; }
   .navbar { padding: 0 8px; top: 52px; overflow-x: auto; }
   .navbar a { padding: 8px 12px; font-size: 12px; }
   #view-albero, #view-ricerca { padding: 10px 8px; }
@@ -618,6 +633,9 @@ mark {
   <div class="header-right">
     <div class="stats-bar" id="stats-bar"></div>
     <div class="last-update" id="last-update"></div>
+    <div class="data-source">
+      <img src="logo-dropbox.png" alt="Dropbox" onerror="this.parentElement.style.display='none'">
+    </div>
   </div>
 </header>
 
