@@ -44,9 +44,7 @@ body {
 /* ── HEADER ── */
 header {
   background: var(--vc-bg);
-  border-bottom: 2px solid var(--vc-primary);
-  height: 52px;
-  padding: 0 20px;
+  padding: 12px 20px;
   display: flex;
   align-items: center;
   gap: 16px;
@@ -60,19 +58,21 @@ header {
   display: flex;
   align-items: center;
   gap: 10px;
-  font-size: 13px;
-  font-weight: 600;
-  color: var(--vc-primary);
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  white-space: nowrap;
+  text-decoration: none;
   flex-shrink: 0;
 }
 .logo img {
-  height: 28px;
+  height: 36px;
   width: auto;
 }
-.logo span { color: var(--vc-text-faint); margin: 0 4px; }
+.logo:hover { opacity: 0.85; }
+
+.header-right {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
 
 .stats-bar {
   display: flex;
@@ -84,13 +84,51 @@ header {
 }
 .stats-bar b { color: var(--vc-primary); font-weight: 500; }
 
-.spacer { flex: 1; }
-
 .last-update {
   font-family: var(--vc-font-mono);
   font-size: 11px;
   color: var(--vc-text-faint);
   white-space: nowrap;
+}
+
+/* ── NAVBAR ── */
+.navbar {
+  background: #f4f4f4;
+  border-bottom: 2px solid var(--vc-primary);
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  gap: 0;
+  position: sticky;
+  top: 60px;
+  z-index: 99;
+}
+
+.navbar a {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 18px;
+  font-family: var(--vc-font-sans);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--vc-text);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  transition: background var(--vc-transition), color var(--vc-transition);
+  white-space: nowrap;
+}
+
+.navbar a:hover {
+  background: #e8e8e8;
+  color: var(--vc-primary);
+}
+
+.navbar a.active {
+  color: var(--vc-primary);
+  font-weight: 600;
+  border-bottom: 2px solid var(--vc-primary);
+  margin-bottom: -2px;
 }
 
 /* ── TABS ── */
@@ -557,9 +595,12 @@ mark {
 
 /* ── RESPONSIVE ── */
 @media (max-width: 600px) {
-  header { padding: 0 12px; gap: 10px; }
+  header { padding: 8px 12px; }
+  .logo img { height: 28px; }
   .stats-bar { display: none; }
   .last-update { display: none; }
+  .navbar { padding: 0 8px; top: 52px; overflow-x: auto; }
+  .navbar a { padding: 8px 12px; font-size: 12px; }
   #view-albero, #view-ricerca { padding: 10px 8px; }
   .result-right { display: none; }
   .doc-size, .doc-badge { display: none; }
@@ -571,14 +612,20 @@ mark {
 <body>
 
 <header>
-  <div class="logo">
+  <a href="#/" class="logo" onclick="navigaAdHash('#/');return false;">
     <img src="logo-viceconti.png" alt="Viceconti" onerror="this.style.display='none'">
-    <span>/</span> Hub Documentale
+  </a>
+  <div class="header-right">
+    <div class="stats-bar" id="stats-bar"></div>
+    <div class="last-update" id="last-update"></div>
   </div>
-  <div class="stats-bar" id="stats-bar"></div>
-  <div class="spacer"></div>
-  <div class="last-update" id="last-update"></div>
 </header>
+
+<nav class="navbar">
+  <a href="#/" class="active" onclick="navigaAdHash('#/');return false;">Hub Documentale</a>
+  <a href="https://viceconti-hub.github.io/portale/" target="_blank">Viceconti Hub</a>
+  <a href="https://vicecontistore.it" target="_blank">Viceconti Store</a>
+</nav>
 
 <div class="tabs">
   <button class="tab active" onclick="switchTab('albero')" id="tab-albero">
@@ -801,7 +848,7 @@ function renderNodo(nodo, livello, filtro, matchParent, percorsoCorrente) {
 
   return `
     <div class="node level-${Math.min(livello, 4)}">
-      <div class="node-header" onclick="toggleNode('${id}', '${percorsoEncoded}')">
+      <div class="node-header" onclick="toggleNode('${id}', '${percorsoEncoded.replace(/'/g, "%27")}')">
         <div class="node-toggle ${aperto}" id="tog_${id}">▶</div>
         <div class="node-icon">${icona}</div>
         <div class="node-label">${label}</div>
@@ -959,7 +1006,7 @@ function aggiornaBreadcrumb() {
       html += `<span class="bc-item current">${escHtml(parte)}</span>`;
     } else {
       const percorsoFinoQui = PERCORSO_CORRENTE.slice(0, i + 1);
-      html += `<span class="bc-item" onclick="navigaAdHash('#/${percorsoFinoQui.map(encodeURIComponent).join('/')}')">${escHtml(parte)}</span>`;
+      html += `<span class="bc-item" onclick="navigaAdHash('#/${percorsoFinoQui.map(encodeURIComponent).join('/').replace(/'/g, "%27")}')">${escHtml(parte)}</span>`;
     }
   }
 
