@@ -1,8 +1,8 @@
 {
   "versione": "2.0",
-  "generato": "2026-03-03T07:46:27Z",
-  "totale_file": 5490,
-  "totale_sezioni": 1,
+  "generato": "2026-03-03T09:41:59Z",
+  "totale_file": 5823,
+  "totale_sezioni": 2,
   "sezioni": [
     {
       "nome": "VENDITE",
@@ -57700,6 +57700,2737 @@
           ],
           "file": [],
           "_totale_file": 36
+        }
+      ],
+      "file": []
+    },
+    {
+      "nome": "CREDITI E DEBITI",
+      "descrizione": "Crediti e debiti aperti e archiviati",
+      "icona": "📋",
+      "totale_file": 333,
+      "cartelle": [
+        {
+          "nome": "CREDITI",
+          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI",
+          "cartelle": [
+            {
+              "nome": "ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO",
+              "cartelle": [
+                {
+                  "nome": "CREDITI ALMERINDA",
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ALMERINDA",
+                  "cartelle": [
+                    {
+                      "nome": "ARCHIVIO CREDITI ALMERINDA",
+                      "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ALMERINDA/ARCHIVIO CREDITI ALMERINDA",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "CAOS SITUAZIONE CONTABILE AL 22_03_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/5uxszry1kfpe71ob2tgwd/CAOS-SITUAZIONE-CONTABILE-AL-22_03_2022.pdf?rlkey=wvgmnqs9prwb3dc0p287f97og&dl=0?raw=1",
+                          "dimensione_kb": 56,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ALMERINDA/ARCHIVIO CREDITI ALMERINDA/CAOS SITUAZIONE CONTABILE AL 22_03_2022.pdf"
+                        },
+                        {
+                          "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) per verifica.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/nso4axj2oaohx9n3st54v/Lista-Movimenti-NON-EFFETTUATI-CREDITI_PROSPERO-per-verifica.pdf?rlkey=9xnemmcfmhjo3tig6v7ggwbtw&dl=0?raw=1",
+                          "dimensione_kb": 125,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ALMERINDA/ARCHIVIO CREDITI ALMERINDA/Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) per verifica.pdf"
+                        },
+                        {
+                          "nome": "WINE AND SPIRITS SITUAZIONE AL 18_12_2024 .pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/xds7ii5tc1jxeymxiynur/WINE-AND-SPIRITS-SITUAZIONE-AL-18_12_2024.pdf?rlkey=ypf5y1fi6hhf5mr8f73wz1kay&dl=0?raw=1",
+                          "dimensione_kb": 56,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ALMERINDA/ARCHIVIO CREDITI ALMERINDA/WINE AND SPIRITS SITUAZIONE AL 18_12_2024 .pdf"
+                        }
+                      ],
+                      "_totale_file": 3
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 3
+                },
+                {
+                  "nome": "CREDITI ANTONIO",
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO",
+                  "cartelle": [
+                    {
+                      "nome": "ARCHIVIO",
+                      "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "ACQUARIO SRL SITUAZIONE AL 9_08_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/1xo0xpwbxym2ngf963tvx/ACQUARIO-SRL-SITUAZIONE-AL-9_08_2022.pdf?rlkey=zpnwp04l9sn87pdmay3hpda14&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/ACQUARIO SRL SITUAZIONE AL 9_08_2022.pdf"
+                        },
+                        {
+                          "nome": "ARPAIA Fattura di vendita - Bozza documento_220269_20220528_170639.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/drlqjzy9yzxkfhrmwby8q/ARPAIA-Fattura-di-vendita-Bozza-documento_220269_20220528_170639.pdf?rlkey=xff64vrm3xspjtnznd4mx68ja&dl=0?raw=1",
+                          "dimensione_kb": 76,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/ARPAIA Fattura di vendita - Bozza documento_220269_20220528_170639.pdf"
+                        },
+                        {
+                          "nome": "BAR CHIOSCO Situazione Contabile.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/30bo5ulheldlpik1eckwv/BAR-CHIOSCO-Situazione-Contabile.pdf?rlkey=t1bfzozlxi44bfsshvmrmb8uo&dl=0?raw=1",
+                          "dimensione_kb": 56,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/BAR CHIOSCO Situazione Contabile.pdf"
+                        },
+                        {
+                          "nome": "CALA DEL CITRO SITUAZIONE AL 23_03_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/u4da0rldj0nfday24kl55/CALA-DEL-CITRO-SITUAZIONE-AL-23_03_2022.pdf?rlkey=z7mnyjr25g5mom46925t1hk93&dl=0?raw=1",
+                          "dimensione_kb": 58,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/CALA DEL CITRO SITUAZIONE AL 23_03_2022.pdf"
+                        },
+                        {
+                          "nome": "CAMPOLEROSE SITUAZIONE AL 28_05_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/dljey8gli63ak8fsw1ged/CAMPOLEROSE-SITUAZIONE-AL-28_05_2022.pdf?rlkey=33k1e644o69ya6hgra2915l4l&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/CAMPOLEROSE SITUAZIONE AL 28_05_2022.pdf"
+                        },
+                        {
+                          "nome": "CREDITI ANTONIO AL 28_05_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/w0vvs5vcdnkj8tckn198z/CREDITI-ANTONIO-AL-28_05_2022.pdf?rlkey=rj828iwmvm0qr12pizq70unss&dl=0?raw=1",
+                          "dimensione_kb": 60,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/CREDITI ANTONIO AL 28_05_2022.pdf"
+                        },
+                        {
+                          "nome": "CREDITI ANTONIO AL 6_08_2024.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/bfczw8w2vyw8df90k6hrf/CREDITI-ANTONIO-AL-6_08_2024.pdf?rlkey=83oqfotpnxboyd5fmuxbec7tz&dl=0?raw=1",
+                          "dimensione_kb": 59,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/CREDITI ANTONIO AL 6_08_2024.pdf"
+                        },
+                        {
+                          "nome": "CREDITI ANTONIO RECENTI DA REGOLARE AL 13_06_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/exegw9jb7llzvqubrqte1/CREDITI-ANTONIO-RECENTI-DA-REGOLARE-AL-13_06_2022.pdf?rlkey=lshl55buxv7q0fvyeec2dbb2q&dl=0?raw=1",
+                          "dimensione_kb": 72,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/CREDITI ANTONIO RECENTI DA REGOLARE AL 13_06_2022.pdf"
+                        },
+                        {
+                          "nome": "F2G SITUAZIONE CONTABILE AL 15_01_2025.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/k2wgqconqr75rsjxpymdc/F2G-SITUAZIONE-CONTABILE-AL-15_01_2025.pdf?rlkey=0elu6gxad3lk93zgstq9xkncb&dl=0?raw=1",
+                          "dimensione_kb": 58,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/F2G SITUAZIONE CONTABILE AL 15_01_2025.pdf"
+                        },
+                        {
+                          "nome": "FRATTA Situazione Contabile CREDITI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/bx69m24jglp5g3ay7h6nk/FRATTA-Situazione-Contabile-CREDITI.pdf?rlkey=o6u5bembilbxmviap3yflra47&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/FRATTA Situazione Contabile CREDITI.pdf"
+                        },
+                        {
+                          "nome": "GLOBAL HOTEL SITUAZIONE AL 03_09_2024.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/uggl38naign4outajf6qj/GLOBAL-HOTEL-SITUAZIONE-AL-03_09_2024.pdf?rlkey=ql828dfkmb7k7ghxbu2gvdxnt&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/GLOBAL HOTEL SITUAZIONE AL 03_09_2024.pdf"
+                        },
+                        {
+                          "nome": "GRUPPO PALMIERI SITUAZIONE AL 01_03_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/m258a1tgdq9ypai7vtwud/GRUPPO-PALMIERI-SITUAZIONE-AL-01_03_2022.pdf?rlkey=9c3stflmjga3jaepzql32llax&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/GRUPPO PALMIERI SITUAZIONE AL 01_03_2022.pdf"
+                        },
+                        {
+                          "nome": "HOTEL RISTORANTE LA TANA SITUAZIONE AL 15_07_2024.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/ubda5yw6p8zf4vo9mlf8g/HOTEL-RISTORANTE-LA-TANA-SITUAZIONE-AL-15_07_2024.pdf?rlkey=dirtmuuwmqnvauyesui9ymj57&dl=0?raw=1",
+                          "dimensione_kb": 59,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/HOTEL RISTORANTE LA TANA SITUAZIONE AL 15_07_2024.pdf"
+                        },
+                        {
+                          "nome": "HOTEL RISTORANTE LA TANA SITUAZIONE AL 27_07_2023.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/1d1bcutjjxpup1ncne1pb/HOTEL-RISTORANTE-LA-TANA-SITUAZIONE-AL-27_07_2023.pdf?rlkey=le4vyqvzf89phf6l71go5er6r&dl=0?raw=1",
+                          "dimensione_kb": 58,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/HOTEL RISTORANTE LA TANA SITUAZIONE AL 27_07_2023.pdf"
+                        },
+                        {
+                          "nome": "HOTEL RISTORANTE LA TANA SITUAZIONE AL 28_08_2023.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/1yfduhfnrxkpkjfchllp9/HOTEL-RISTORANTE-LA-TANA-SITUAZIONE-AL-28_08_2023.pdf?rlkey=qu5glbfadbkrwisnqploum5ft&dl=0?raw=1",
+                          "dimensione_kb": 143,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/HOTEL RISTORANTE LA TANA SITUAZIONE AL 28_08_2023.pdf"
+                        },
+                        {
+                          "nome": "I CARNALI SITUAZIONE AL 02_09_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/0bd1hwy2tyvbzkdp0iih6/I-CARNALI-SITUAZIONE-AL-02_09_2022.pdf?rlkey=p64gzhcgudbr7qkjr990k8j7a&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/I CARNALI SITUAZIONE AL 02_09_2022.pdf"
+                        },
+                        {
+                          "nome": "LE DELIZIE DEL GRANO Fattura di vendita_2300427_20230801_192819.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/68bvxlsj6g9g527dlbhlj/LE-DELIZIE-DEL-GRANO-Fattura-di-vendita_2300427_20230801_192819.pdf?rlkey=fpjqhkfg0kqej9i9lrkyeswb7&dl=0?raw=1",
+                          "dimensione_kb": 74,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/LE DELIZIE DEL GRANO Fattura di vendita_2300427_20230801_192819.pdf"
+                        },
+                        {
+                          "nome": "LE DELIZIE DEL GRANO SITUAZIONE AL 01_08_2023.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/ixmwwnoytj74lni0umoz0/LE-DELIZIE-DEL-GRANO-SITUAZIONE-AL-01_08_2023.pdf?rlkey=h2n6b1hypn1zduj5bqpm1zofg&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/LE DELIZIE DEL GRANO SITUAZIONE AL 01_08_2023.pdf"
+                        },
+                        {
+                          "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_ANTONIO) ).pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/s5ilxhamwo4rzdjux56c0/Lista-Movimenti-NON-EFFETTUATI-CREDITI_ANTONIO.pdf?rlkey=erylyjjbbao3u7p4bo6hckxoh&dl=0?raw=1",
+                          "dimensione_kb": 64,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_ANTONIO) ).pdf"
+                        },
+                        {
+                          "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_ANTONIO) 20_04_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/pcwmj298unxtmn1a0zpv8/Lista-Movimenti-NON-EFFETTUATI-CREDITI_ANTONIO-20_04_2022.pdf?rlkey=wi52dq7e1l1udto4d2lx7pr3i&dl=0?raw=1",
+                          "dimensione_kb": 64,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_ANTONIO) 20_04_2022.pdf"
+                        },
+                        {
+                          "nome": "MAMMARITA SITUAZIONE AL 9_08_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/w2f44yvqkiyeit6vx1bje/MAMMARITA-SITUAZIONE-AL-9_08_2022.pdf?rlkey=g1t6ppin5caa2k30xzwvlq039&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/MAMMARITA SITUAZIONE AL 9_08_2022.pdf"
+                        },
+                        {
+                          "nome": "PISTOR SRL SITUAZIONE AL 01_03_2022.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/r216ypzg1helsjc5jl9qj/PISTOR-SRL-SITUAZIONE-AL-01_03_2022.pdf?rlkey=kbpesj57lr6d2h4kf6ilrd15q&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/PISTOR SRL SITUAZIONE AL 01_03_2022.pdf"
+                        },
+                        {
+                          "nome": "RIEPILOGO FORNITURE AL 09_06_2022.xlsx",
+                          "tipo": "Excel",
+                          "icona": "📊",
+                          "link": "https://www.dropbox.com/scl/fi/0iul7ae9m8695781bfqzv/RIEPILOGO-FORNITURE-AL-09_06_2022.xlsx?rlkey=uj5jxur2orwd42do2kqgj9st6&dl=0?raw=1",
+                          "dimensione_kb": 10,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/RIEPILOGO FORNITURE AL 09_06_2022.xlsx"
+                        },
+                        {
+                          "nome": "RUSTICHELLI Situazione Contabile AL 16_07_2025.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/d13gk7kzs9tcjomtjgpiy/RUSTICHELLI-Situazione-Contabile-AL-16_07_2025.pdf?rlkey=v1ltxe0tq6rtbhya4e8ne92h8&dl=0?raw=1",
+                          "dimensione_kb": 79,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/RUSTICHELLI Situazione Contabile AL 16_07_2025.pdf"
+                        },
+                        {
+                          "nome": "SOLELUNA Consegna_210421_20220528_171123.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/hmtb0xrmuyeskj23tm4uc/SOLELUNA-Consegna_210421_20220528_171123.pdf?rlkey=eltr47mnipys07q5iyx9d0ksp&dl=0?raw=1",
+                          "dimensione_kb": 56,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/SOLELUNA Consegna_210421_20220528_171123.pdf"
+                        },
+                        {
+                          "nome": "TERZI ALESSANDRO Fattura di vendita_2300359_20230801_192921.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/wzaqwlanzkiyjtd16k67y/TERZI-ALESSANDRO-Fattura-di-vendita_2300359_20230801_192921.pdf?rlkey=crrzwklnpy4c71ane6skj2ttv&dl=0?raw=1",
+                          "dimensione_kb": 73,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/TERZI ALESSANDRO Fattura di vendita_2300359_20230801_192921.pdf"
+                        },
+                        {
+                          "nome": "TERZI ALESSANDRO SITUAZIONE AL 01_08_2023.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/b1m08bahs5cfrofp8b0nr/TERZI-ALESSANDRO-SITUAZIONE-AL-01_08_2023.pdf?rlkey=3e87s48pc8w21qpe7bekg3syg&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/TERZI ALESSANDRO SITUAZIONE AL 01_08_2023.pdf"
+                        }
+                      ],
+                      "_totale_file": 27
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 27
+                }
+              ],
+              "file": [
+                {
+                  "nome": "2.0 SRLS YUMARA RIBA DEL 30_06_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/l4glnzed7gkkq44jp2jws/2.0-SRLS-YUMARA-RIBA-DEL-30_06_2022.pdf?rlkey=5bb4jsnv620rxl6pfzk3a96w8&dl=0?raw=1",
+                  "dimensione_kb": 51,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/2.0 SRLS YUMARA RIBA DEL 30_06_2022.pdf"
+                },
+                {
+                  "nome": "3AM SITUAZIONE AL 6_08_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kqtiiq4h08mn8vtit3tg5/3AM-SITUAZIONE-AL-6_08_2024.pdf?rlkey=ufxa10sbtfzad81b6u870qnl4&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/3AM SITUAZIONE AL 6_08_2024.pdf"
+                },
+                {
+                  "nome": "7 BELLO SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/x9v6rjo4roj2g94si9q86/7-BELLO-SITUAZIONE-AL-28_05_2022.pdf?rlkey=dg3q6vyse9gdxxbiez52eafvv&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/7 BELLO SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "7 BELLO situazione Contabile al 08_07_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6nfle9a6vw729txl316xg/7-BELLO-situazione-Contabile-al-08_07_2025.pdf?rlkey=y9p42p98zi8ca0mzrgqqbx8ri&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/7 BELLO situazione Contabile al 08_07_2025.pdf"
+                },
+                {
+                  "nome": "7 BELLO situazione Contabile al 7_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/77svtznjxdhovhuz7kxc9/7-BELLO-situazione-Contabile-al-7_09_2023.pdf?rlkey=ut8vnpz7k411azh35ey590l38&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/7 BELLO situazione Contabile al 7_09_2023.pdf"
+                },
+                {
+                  "nome": "7 BELLO situazione Contabile al 8_08_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fy7gwtf8lxwbof2q5ga1d/7-BELLO-situazione-Contabile-al-8_08_2024.pdf?rlkey=i2xfbqbf8ygvyzp8t8pvjt2es&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/7 BELLO situazione Contabile al 8_08_2024.pdf"
+                },
+                {
+                  "nome": "A & M SITUAZIONE AL 29_05_2024I.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cypsq38i5l1xuzngckilf/A-M-SITUAZIONE-AL-29_05_2024I.pdf?rlkey=20yajlggg69s8ts4xiunl6ias&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/A & M SITUAZIONE AL 29_05_2024I.pdf"
+                },
+                {
+                  "nome": "A&M SITUAZIONE CONTABILE AL 12_01_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nkkbj67jkshdfpyf8uc2n/A-M-SITUAZIONE-CONTABILE-AL-12_01_2024.pdf?rlkey=lo3nd3ffpk7w7x5ww24o828gr&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/A&M SITUAZIONE CONTABILE AL 12_01_2024.pdf"
+                },
+                {
+                  "nome": "A&M Situazione Contabile al 14_12_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zz5exfv4ozazbx4ub86hm/A-M-Situazione-Contabile-al-14_12_2023.pdf?rlkey=cdra2z2jf1ir86fs512bu15m0&dl=0?raw=1",
+                  "dimensione_kb": 140,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/A&M Situazione Contabile al 14_12_2023.pdf"
+                },
+                {
+                  "nome": "A.B. SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7qnvojaew9rihmex4p2fv/A.B.-SITUAZIONE-AL-28_05_2022.pdf?rlkey=dr03jo75kuov1o225c55p0p32&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/A.B. SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "ACQVA & FARINA SITUAZIONE AL 10_04_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/s6hk2cavq7ms542e4j8h4/ACQVA-FARINA-SITUAZIONE-AL-10_04_2024.pdf?rlkey=pu4jamctr19oflbzx8vmg3m1c&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ACQVA & FARINA SITUAZIONE AL 10_04_2024.pdf"
+                },
+                {
+                  "nome": "ACQVA E FARINA Situazione Contabile CREDITI AL 05_11_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ltxnq68tglq8nag1ljmbu/ACQVA-E-FARINA-Situazione-Contabile-CREDITI-AL-05_11_2024.pdf?rlkey=gt94s63ix840dvqhu04vsp7cw&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ACQVA E FARINA Situazione Contabile CREDITI AL 05_11_2024.pdf"
+                },
+                {
+                  "nome": "AGRITURISMO COCCOVELLO SITUAZIONE AL 14_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0meuowsqpydfqttwuhhe6/AGRITURISMO-COCCOVELLO-SITUAZIONE-AL-14_02_2023.pdf?rlkey=8lx4n8s7jf844xjxb30jj45cn&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AGRITURISMO COCCOVELLO SITUAZIONE AL 14_02_2023.pdf"
+                },
+                {
+                  "nome": "AGRITURISMO COCCOVELLO SITUAZIONE AL 23_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/br83i0888rut8ldxcx5xd/AGRITURISMO-COCCOVELLO-SITUAZIONE-AL-23_08_2022.pdf?rlkey=z8c54kexz9fj5di5k7f62pkt3&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AGRITURISMO COCCOVELLO SITUAZIONE AL 23_08_2022.pdf"
+                },
+                {
+                  "nome": "AGRITURISMO COCCOVELLO SITUAZIONE AL 28_03_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vh4ow21sv211iq1crwt1j/AGRITURISMO-COCCOVELLO-SITUAZIONE-AL-28_03_2024.pdf?rlkey=4rspbsl9nhekb03pau0zbbdw3&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AGRITURISMO COCCOVELLO SITUAZIONE AL 28_03_2024.pdf"
+                },
+                {
+                  "nome": "AGRITURISMO LA QUIETE DEL VECCHIO PINO SITUAZIONE AL 30.03.2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/h6dl8xfki88ox304qh42y/AGRITURISMO-LA-QUIETE-DEL-VECCHIO-PINO-SITUAZIONE-AL-30.03.2022.pdf?rlkey=bl80f0az6dlfz5eabzw3mt8e4&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AGRITURISMO LA QUIETE DEL VECCHIO PINO SITUAZIONE AL 30.03.2022.pdf"
+                },
+                {
+                  "nome": "AGRITURISMO LA QUIETE DEL VECCHIO PINO SITUAZIONE AL 7_11_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hnz89ryx8oz2eq2zp6yee/AGRITURISMO-LA-QUIETE-DEL-VECCHIO-PINO-SITUAZIONE-AL-7_11_2022.pdf?rlkey=ifnbj4n1svweeh2ock43gilmp&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AGRITURISMO LA QUIETE DEL VECCHIO PINO SITUAZIONE AL 7_11_2022.pdf"
+                },
+                {
+                  "nome": "AGRITURISMO LA QUIETE DEL VECCHIO PINO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7aij38tpyr4isqotpsu2g/AGRITURISMO-LA-QUIETE-DEL-VECCHIO-PINO.pdf?rlkey=89p6vbsfe7hdzgnkd0m27mnd2&dl=0?raw=1",
+                  "dimensione_kb": 55,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AGRITURISMO LA QUIETE DEL VECCHIO PINO.pdf"
+                },
+                {
+                  "nome": "AGRITURISMO LA QUIETE SITUAZIONE AL 05_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nm38xbtpm5ta6q7b8ftj6/AGRITURISMO-LA-QUIETE-SITUAZIONE-AL-05_08_2022.pdf?rlkey=iun4n4qfvl0odmpnrpve4b6dv&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AGRITURISMO LA QUIETE SITUAZIONE AL 05_08_2022.pdf"
+                },
+                {
+                  "nome": "AGROCARNE SITUAZIONE CONTABILE AL 21_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/iv95v8nzbrt9rpnasxgx4/AGROCARNE-SITUAZIONE-CONTABILE-AL-21_02_2023.pdf?rlkey=dsybnljwaz1dpgou9j71kuhro&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AGROCARNE SITUAZIONE CONTABILE AL 21_02_2023.pdf"
+                },
+                {
+                  "nome": "AGROCARNE SITUAZIONE CONTABILE AL 7_11_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nxw29bas79d6rzdot2tmi/AGROCARNE-SITUAZIONE-CONTABILE-AL-7_11_2022.pdf?rlkey=uk9ceao7dfryq9l5wkxvkrzid&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AGROCARNE SITUAZIONE CONTABILE AL 7_11_2022.pdf"
+                },
+                {
+                  "nome": "AI CARCONI SITUAZIONE AL 05_11_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k2y4ko4cthgkv25tyoc3m/AI-CARCONI-SITUAZIONE-AL-05_11_2024.pdf?rlkey=y61tfpceiwl5scnr6i5baz8na&dl=0?raw=1",
+                  "dimensione_kb": 32,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AI CARCONI SITUAZIONE AL 05_11_2024.pdf"
+                },
+                {
+                  "nome": "AI CARCONI SITUAZIONE CONTABILE AL 12_03_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pfsez327bpokb76ahma96/AI-CARCONI-SITUAZIONE-CONTABILE-AL-12_03_2025.pdf?rlkey=nd61obebbx3dyexhr1meu63nm&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AI CARCONI SITUAZIONE CONTABILE AL 12_03_2025.pdf"
+                },
+                {
+                  "nome": "AI CARCONI SITUAZIONE CONTABILE AL 8_07_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5ulqa7undohtj4kgnpxpl/AI-CARCONI-SITUAZIONE-CONTABILE-AL-8_07_2025.pdf?rlkey=t7ufvx7kez2zjlclvoq02drho&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AI CARCONI SITUAZIONE CONTABILE AL 8_07_2025.pdf"
+                },
+                {
+                  "nome": "ALITUR Situazione Contabile AL 7_07_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/679arz9n8chci23dow7dk/ALITUR-Situazione-Contabile-AL-7_07_2025.pdf?rlkey=0xknimisvn0av3sm7ukww3qzt&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ALITUR Situazione Contabile AL 7_07_2025.pdf"
+                },
+                {
+                  "nome": "ALTANA Fattura di vendita_220303.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/y78lvofmhgs6ip1j4hs7q/ALTANA-Fattura-di-vendita_220303.pdf?rlkey=m1tx8xzfps1an32xtdkcthdvo&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ALTANA Fattura di vendita_220303.pdf"
+                },
+                {
+                  "nome": "ANTICA TRATTORIA A TAVERNA SITUAZIONE AL 04_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z0uafwdv90mmagc36k6sw/ANTICA-TRATTORIA-A-TAVERNA-SITUAZIONE-AL-04_08_2022.pdf?rlkey=vlmor321fkb5pl5sga7fn57p5&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ANTICA TRATTORIA A TAVERNA SITUAZIONE AL 04_08_2022.pdf"
+                },
+                {
+                  "nome": "ANTICA TRATTORIA SITUAZIONE CONTABILE AL 18_06_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rwo385qfkv7sgfi86d36b/ANTICA-TRATTORIA-SITUAZIONE-CONTABILE-AL-18_06_2025.pdf?rlkey=1e05xx179m7x8w34k0g4c9lno&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ANTICA TRATTORIA SITUAZIONE CONTABILE AL 18_06_2025.pdf"
+                },
+                {
+                  "nome": "ARPAIA BOZZA FATTURA DEL 4_07_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/l3ftrmisuctc6f5euxr0r/ARPAIA-BOZZA-FATTURA-DEL-4_07_2022.pdf?rlkey=4kind0k3sey1de4eqjymre83z&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ARPAIA BOZZA FATTURA DEL 4_07_2022.pdf"
+                },
+                {
+                  "nome": "ARPAIA Fattura di vendita_210301_20220704_205437.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/658ywxjy5rez874ggi2ub/ARPAIA-Fattura-di-vendita_210301_20220704_205437.pdf?rlkey=pkvb1tray82xrln0c2ybxig5c&dl=0?raw=1",
+                  "dimensione_kb": 85,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ARPAIA Fattura di vendita_210301_20220704_205437.pdf"
+                },
+                {
+                  "nome": "ASID SITUAZIONE CONTABILE AL 29_05_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jwjnu4g1k3j50g8hwae36/ASID-SITUAZIONE-CONTABILE-AL-29_05_2023.pdf?rlkey=p4qptdgw632g33zs185o4t370&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ASID SITUAZIONE CONTABILE AL 29_05_2023.pdf"
+                },
+                {
+                  "nome": "AZIENDA VINICOLA Situazione Contabile al 7_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/aijlwpv1x7tmnc1tk5ppp/AZIENDA-VINICOLA-Situazione-Contabile-al-7_09_2023.pdf?rlkey=g3iexekh0l2yal00ju5mf4pxu&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/AZIENDA VINICOLA Situazione Contabile al 7_09_2023.pdf"
+                },
+                {
+                  "nome": "BAR CAFFE' DI CAPUTO IDA SITUAZIONE AL 19_09_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/e8o8czc8tdd9rav317xvy/BAR-CAFFE-DI-CAPUTO-IDA-SITUAZIONE-AL-19_09_2022.pdf?rlkey=x3l6j0xbhqw3h9icyvctwkwzz&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BAR CAFFE' DI CAPUTO IDA SITUAZIONE AL 19_09_2022.pdf"
+                },
+                {
+                  "nome": "BAR PUNTICIEDDO Situazione Contabile al 07_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dy67um0p7q77n6zf2qhi0/BAR-PUNTICIEDDO-Situazione-Contabile-al-07_09_2023.pdf?rlkey=7b1nysiuftqvszciwpr898wv1&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BAR PUNTICIEDDO Situazione Contabile al 07_09_2023.pdf"
+                },
+                {
+                  "nome": "BAR ROMA DI CORRADO MICHELA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0ejqc50l9owkaqw53im0h/BAR-ROMA-DI-CORRADO-MICHELA.pdf?rlkey=u62d5ua6stu5lq98dyscevi10&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BAR ROMA DI CORRADO MICHELA.pdf"
+                },
+                {
+                  "nome": "BAR ROMA SITUAZIONE CONTAVILE AL 08_11_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/272uz4pdn0wjwpblbf1ag/BAR-ROMA-SITUAZIONE-CONTAVILE-AL-08_11_2023.pdf?rlkey=l5gosrzoupy6jmjgtwv69mvpg&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BAR ROMA SITUAZIONE CONTAVILE AL 08_11_2023.pdf"
+                },
+                {
+                  "nome": "BASILICATA GRANTOUR Saldo contabile - C000139 _20250918_125603.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/razpsetcp7fpxmpbrent4/BASILICATA-GRANTOUR-Saldo-contabile-C000139-_20250918_125603.pdf?rlkey=mx5i2biod26lbgryms3cw4nse&dl=0?raw=1",
+                  "dimensione_kb": 41,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BASILICATA GRANTOUR Saldo contabile - C000139 _20250918_125603.pdf"
+                },
+                {
+                  "nome": "BELLAVISTA SITUAZIONE AL 03_09_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/41cfxlrnt1txbl9ql4hh6/BELLAVISTA-SITUAZIONE-AL-03_09_2024.pdf?rlkey=05othdvupmwmtsiy016y4yuwi&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BELLAVISTA SITUAZIONE AL 03_09_2024.pdf"
+                },
+                {
+                  "nome": "BELLAVISTA SITUAZIONE AL 06_03_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fxprwoma1hboxor5qudpj/BELLAVISTA-SITUAZIONE-AL-06_03_2024.pdf?rlkey=aj6yzc21osbhksjp68773n9qx&dl=0?raw=1",
+                  "dimensione_kb": 32,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BELLAVISTA SITUAZIONE AL 06_03_2024.pdf"
+                },
+                {
+                  "nome": "BELLAVISTA SITUAZIONE AL 18_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xieph5ooamauv03ptcc02/BELLAVISTA-SITUAZIONE-AL-18_09_2023.pdf?rlkey=1x3zsd1whyycs28wy2umk89f9&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BELLAVISTA SITUAZIONE AL 18_09_2023.pdf"
+                },
+                {
+                  "nome": "BELLAVISTA SITUAZIONE AL 24_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/sim0grdtwiyutrt5vfw3k/BELLAVISTA-SITUAZIONE-AL-24_08_2022.pdf?rlkey=8ebz47fgpesow9c93m5j1bqia&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BELLAVISTA SITUAZIONE AL 24_08_2022.pdf"
+                },
+                {
+                  "nome": "BELLAVISTA SITUAZIONE CONTABILE AL 05_05_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8k2d3zc2g9h8u27e2svgd/BELLAVISTA-SITUAZIONE-CONTABILE-AL-05_05_2025.pdf?rlkey=8do3mwbuuc18xk4hac1vuiox7&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BELLAVISTA SITUAZIONE CONTABILE AL 05_05_2025.pdf"
+                },
+                {
+                  "nome": "BELLAVISTA SITUAZIONE CONTABILE AL 06_05_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/atj88khpaaaw3h13mm0o3/BELLAVISTA-SITUAZIONE-CONTABILE-AL-06_05_2025.pdf?rlkey=608nhgjg8yuty0vwvc1wd2qhv&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BELLAVISTA SITUAZIONE CONTABILE AL 06_05_2025.pdf"
+                },
+                {
+                  "nome": "BERMUDA 2.0 SITUAZIONE AL 14_12_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rrbbzvkozsuup04bbzmw9/BERMUDA-2.0-SITUAZIONE-AL-14_12_2023.pdf?rlkey=tknw7ib7dy9st7jz98q8z47nx&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BERMUDA 2.0 SITUAZIONE AL 14_12_2023.pdf"
+                },
+                {
+                  "nome": "BERMUDA 3.0 FOOD SITUAZIONE AL 09_11_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fcb6cq9v5ly55bk0s3l3n/BERMUDA-3.0-FOOD-SITUAZIONE-AL-09_11_2023.pdf?rlkey=jzgostlhxje7lpt1o3uvtp282&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BERMUDA 3.0 FOOD SITUAZIONE AL 09_11_2023.pdf"
+                },
+                {
+                  "nome": "BERMUDA 3.0 SITUAZIONE AL 14_12_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/343ll8xu7z7fj79jntwh0/BERMUDA-3.0-SITUAZIONE-AL-14_12_2023.pdf?rlkey=ndapzu3ysp1wydexpa7xpxtwk&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BERMUDA 3.0 SITUAZIONE AL 14_12_2023.pdf"
+                },
+                {
+                  "nome": "BERMUDA 3.0 situazione al 21_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8q1d6s2qko2yh0970atqd/BERMUDA-3.0-situazione-al-21_02_2023.pdf?rlkey=x9cl3j2ve9y5vdvo3plo5l41m&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BERMUDA 3.0 situazione al 21_02_2023.pdf"
+                },
+                {
+                  "nome": "BOTTEGA 63 SITUAZIONE AL 04_06_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mwmqg661zky4qgown1lbt/BOTTEGA-63-SITUAZIONE-AL-04_06_2024.pdf?rlkey=kcx2n0m1n85ztzws1j5hry4fl&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BOTTEGA 63 SITUAZIONE AL 04_06_2024.pdf"
+                },
+                {
+                  "nome": "BUDDHA BEACH Fattura di vendita_2300338_20230907_132645.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2itk9vor0f5kcpzbt8vy9/BUDDHA-BEACH-Fattura-di-vendita_2300338_20230907_132645.pdf?rlkey=qpxowo3f1xib5ffyrifxa57r6&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BUDDHA BEACH Fattura di vendita_2300338_20230907_132645.pdf"
+                },
+                {
+                  "nome": "BUDDHA BEACH Situazione Contabile al 7_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/l8hmexs8klbwinsg1cl9u/BUDDHA-BEACH-Situazione-Contabile-al-7_09_2023.pdf?rlkey=guc4l1g18io9x0puj4r1eyref&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/BUDDHA BEACH Situazione Contabile al 7_09_2023.pdf"
+                },
+                {
+                  "nome": "CAFFE' DA CECILIA SITUAZIONE AL 19_09_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vkhdkfy7buhux1d1p00uo/CAFFE-DA-CECILIA-SITUAZIONE-AL-19_09_2022.pdf?rlkey=gg7cm12bt1l30a3034tgvi83p&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CAFFE' DA CECILIA SITUAZIONE AL 19_09_2022.pdf"
+                },
+                {
+                  "nome": "CAFFETTERIA SAN BIAGIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/usv6shncrr363phc8urn5/CAFFETTERIA-SAN-BIAGIO.pdf?rlkey=mwrqqk0lyevdfmi3doajry9yl&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CAFFETTERIA SAN BIAGIO.pdf"
+                },
+                {
+                  "nome": "CALA DEL CITRO SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0tqwn9p9i060qrt05fhdy/CALA-DEL-CITRO-SITUAZIONE-AL-28_05_2022.pdf?rlkey=6lshvvbu57guuamh2kwu6pqgk&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CALA DEL CITRO SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "CALA DEL CITRO SITUAZIONE AL 29_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/94ivejtmvufqlq9kfqsmj/CALA-DEL-CITRO-SITUAZIONE-AL-29_08_2022.pdf?rlkey=6vy3kebhzosv8m7dxcohdjzud&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CALA DEL CITRO SITUAZIONE AL 29_08_2022.pdf"
+                },
+                {
+                  "nome": "CALA DEL CITRO Situazione Contabile AL 24_09_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zfuayn430lv2b80rzl6cm/CALA-DEL-CITRO-Situazione-Contabile-AL-24_09_2025.pdf?rlkey=utknrmk5kvtdm0kol0joy1tzg&dl=0?raw=1",
+                  "dimensione_kb": 149,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CALA DEL CITRO Situazione Contabile AL 24_09_2025.pdf"
+                },
+                {
+                  "nome": "CAOS SITUAZIONE AL 29_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6wwtqbif7q77eodw6p54u/CAOS-SITUAZIONE-AL-29_08_2022.pdf?rlkey=bgg4njh9snbmh9zciflqvuxak&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CAOS SITUAZIONE AL 29_08_2022.pdf"
+                },
+                {
+                  "nome": "CAOS SRL SITUAZIONE AL 19_09_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kwfel9a4zp6spgpghepv3/CAOS-SRL-SITUAZIONE-AL-19_09_2022.pdf?rlkey=q0u8alnycwl7myblkcrw6yq8u&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CAOS SRL SITUAZIONE AL 19_09_2022.pdf"
+                },
+                {
+                  "nome": "CAOS Situazione Contabile CREDITI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3jup10azj1s2p282ld0l9/CAOS-Situazione-Contabile-CREDITI.pdf?rlkey=8l5oo9qa92or05g3umagyi9yx&dl=0?raw=1",
+                  "dimensione_kb": 144,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CAOS Situazione Contabile CREDITI.pdf"
+                },
+                {
+                  "nome": "CAOS Situazione Contabile al 6_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/tdgok4otqkz4hl0jxscu7/CAOS-Situazione-Contabile-al-6_09_2023.pdf?rlkey=3crk8bsq1waqu6a5bwy84sx6j&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CAOS Situazione Contabile al 6_09_2023.pdf"
+                },
+                {
+                  "nome": "CARMEN SRL Fattura di vendita_220390_20220713_192752.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mgkqxtrbhvxyzr2x2i9qx/CARMEN-SRL-Fattura-di-vendita_220390_20220713_192752.pdf?rlkey=zqu3ylmkplnilpf4ilvb70r6k&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CARMEN SRL Fattura di vendita_220390_20220713_192752.pdf"
+                },
+                {
+                  "nome": "CARMEN SRL Fattura di vendita_2400533_20240819_163815.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2w0nxetc72nzsd0wd4xks/CARMEN-SRL-Fattura-di-vendita_2400533_20240819_163815.pdf?rlkey=yzb5zc9xht9lldl8re17dgye2&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CARMEN SRL Fattura di vendita_2400533_20240819_163815.pdf"
+                },
+                {
+                  "nome": "CARNI LIMONGI BONIFICO 31085879GRUPPO_BEU1756724480926117.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i3b6v1rubljsqu4jr6qne/CARNI-LIMONGI-BONIFICO-31085879GRUPPO_BEU1756724480926117.pdf?rlkey=xein0rygmlkzvgy4s36afsiea&dl=0?raw=1",
+                  "dimensione_kb": 46,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CARNI LIMONGI BONIFICO 31085879GRUPPO_BEU1756724480926117.pdf"
+                },
+                {
+                  "nome": "CARNI LIMONGI SITUAZIONE AL 28_03_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qtjtlqb0bvzpe8cmysrtv/CARNI-LIMONGI-SITUAZIONE-AL-28_03_2024.pdf?rlkey=udgp7itbfsirf331jrrictron&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CARNI LIMONGI SITUAZIONE AL 28_03_2024.pdf"
+                },
+                {
+                  "nome": "CARNI LIMONGI Situazione Contabile al 31_07_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/akxlb225q2fokpl89r7o9/CARNI-LIMONGI-Situazione-Contabile-al-31_07_2025.pdf?rlkey=gu96hq4dy91j8htnm6vs01sie&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CARNI LIMONGI Situazione Contabile al 31_07_2025.pdf"
+                },
+                {
+                  "nome": "CATALANO GIUSEPPE BOZZA FATTURA_210739_20220713_160232.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yz3djavey3jubp3olv3i7/CATALANO-GIUSEPPE-BOZZA-FATTURA_210739_20220713_160232.pdf?rlkey=wte5p016eggw3vzaa45vs4hrs&dl=0?raw=1",
+                  "dimensione_kb": 153,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CATALANO GIUSEPPE BOZZA FATTURA_210739_20220713_160232.pdf"
+                },
+                {
+                  "nome": "CATALANO GIUSEPPE SITUAZIONE AL 13_07_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nv18twy4o2bc6xbo0ltyx/CATALANO-GIUSEPPE-SITUAZIONE-AL-13_07_2022.pdf?rlkey=iszhss0rzuwicpuav41y3zgl3&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CATALANO GIUSEPPE SITUAZIONE AL 13_07_2022.pdf"
+                },
+                {
+                  "nome": "CENTRAL MARKET SNC SITUAZIONE CONTABILE AL 22_12_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wkkxsyurivmyfiggwm24e/CENTRAL-MARKET-SNC-SITUAZIONE-CONTABILE-AL-22_12_2025.pdf?rlkey=7jhpza9s26ynmpzlrn2mothw9&dl=0?raw=1",
+                  "dimensione_kb": 60,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CENTRAL MARKET SNC SITUAZIONE CONTABILE AL 22_12_2025.pdf"
+                },
+                {
+                  "nome": "CITYBAR SITUAZIONE AL 02_03_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ytllvsrj7f34qay5u1tle/CITYBAR-SITUAZIONE-AL-02_03_2022.pdf?rlkey=kki7ar4afqukph2qm9k722syo&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CITYBAR SITUAZIONE AL 02_03_2022.pdf"
+                },
+                {
+                  "nome": "COCCOVELLO Fattura di vendita_220487_20220810_191113.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6lkb1ng9w8p0in0kgvwpx/COCCOVELLO-Fattura-di-vendita_220487_20220810_191113.pdf?rlkey=iygw1wrebveoaa3494jyj5rvd&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/COCCOVELLO Fattura di vendita_220487_20220810_191113.pdf"
+                },
+                {
+                  "nome": "CODDA Fattura di vendita_2300334_20230907_133232.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2wm3ltuoioln7tawu3umm/CODDA-Fattura-di-vendita_2300334_20230907_133232.pdf?rlkey=sbh7ai1vawn8mjjdy49mbilm0&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CODDA Fattura di vendita_2300334_20230907_133232.pdf"
+                },
+                {
+                  "nome": "COLD PASSION SITUAZIONE AGGIORNATA AL 22_04_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1z41rfnsit85wavduunz2/COLD-PASSION-SITUAZIONE-AGGIORNATA-AL-22_04_2024.pdf?rlkey=behsfi1b6n3xzskyontan589k&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/COLD PASSION SITUAZIONE AGGIORNATA AL 22_04_2024.pdf"
+                },
+                {
+                  "nome": "COLD PASSION SITUAZIONE AL 14_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/azuf24uagq18injlacyoq/COLD-PASSION-SITUAZIONE-AL-14_02_2023.pdf?rlkey=gn8bahjo3969iwku9ohydelaa&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/COLD PASSION SITUAZIONE AL 14_02_2023.pdf"
+                },
+                {
+                  "nome": "COLD PASSION SITUAZIONE AL 14_12_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/80ulvfjzvsiz5haywoj4s/COLD-PASSION-SITUAZIONE-AL-14_12_2022.pdf?rlkey=p04vnvbsaayf99yy03gknm95a&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/COLD PASSION SITUAZIONE AL 14_12_2022.pdf"
+                },
+                {
+                  "nome": "COLD PASSION SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/59qhgh9rugflx5vpqua89/COLD-PASSION-SITUAZIONE-AL-28_05_2022.pdf?rlkey=m5frn82irakczjdchhrqg4b3t&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/COLD PASSION SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "COLD PASSION Situazione Contabile AL 7_09_2023I.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bf9inyf8kq90l94y8h1k6/COLD-PASSION-Situazione-Contabile-AL-7_09_2023I.pdf?rlkey=uffmkhkegcoz7r7kxbozj0fl8&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/COLD PASSION Situazione Contabile AL 7_09_2023I.pdf"
+                },
+                {
+                  "nome": "CORRADO MICHELA Situazione Contabile AL 19_08_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mqvb6jlu1r8hxqsxwqssp/CORRADO-MICHELA-Situazione-Contabile-AL-19_08_2025.pdf?rlkey=7loir8zdq6x515mwrmganruf1&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CORRADO MICHELA Situazione Contabile AL 19_08_2025.pdf"
+                },
+                {
+                  "nome": "D&D DISTRIBUZIONE SRL SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/in206n7lps0eotio3g8xs/D-D-DISTRIBUZIONE-SRL-SITUAZIONE-AL-28_05_2022.pdf?rlkey=8oa2szbra33foqbr8eeijy416&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/D&D DISTRIBUZIONE SRL SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "DAMA SITUAZIONE AL 24_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/u2v49p0nrziyu0xx1nn8c/DAMA-SITUAZIONE-AL-24_08_2022.pdf?rlkey=1c1wrlw7y57st5ezpk4i5a72s&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DAMA SITUAZIONE AL 24_08_2022.pdf"
+                },
+                {
+                  "nome": "DAMA SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dw7mk19q0uvo68s5d9i59/DAMA-SITUAZIONE-AL-28_05_2022.pdf?rlkey=kdcgbp05wegxw8jxndqkdoxvq&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DAMA SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "DE FILIPPO ROCCO RIEPILOGO FATTURE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/50c3m7zuolggwdhyme5x3/DE-FILIPPO-ROCCO-RIEPILOGO-FATTURE.pdf?rlkey=9iyoweyr49n9qsqakep3d37kl&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DE FILIPPO ROCCO RIEPILOGO FATTURE.pdf"
+                },
+                {
+                  "nome": "DE FILIPPO ROCCO SITUAZIONE AL 12_11_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/362d72njt1oj08v35m4n5/DE-FILIPPO-ROCCO-SITUAZIONE-AL-12_11_2024.pdf?rlkey=oidqtfqlqnmnklcwpm1ehfk60&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DE FILIPPO ROCCO SITUAZIONE AL 12_11_2024.pdf"
+                },
+                {
+                  "nome": "DE FILIPPO ROCCO SITUAZIONE AL 14_02_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dj9a2b1dkpnm7u284bgzr/DE-FILIPPO-ROCCO-SITUAZIONE-AL-14_02_2022.pdf?rlkey=0mocudxmc1x1hule1bwb1039w&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DE FILIPPO ROCCO SITUAZIONE AL 14_02_2022.pdf"
+                },
+                {
+                  "nome": "DE FILIPPO ROCCO SITUAZIONE AL 5_12_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/feklepi7vcsc3ohiobi7g/DE-FILIPPO-ROCCO-SITUAZIONE-AL-5_12_2024.pdf?rlkey=kt997gxmzgvgkify1f7t4sae0&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DE FILIPPO ROCCO SITUAZIONE AL 5_12_2024.pdf"
+                },
+                {
+                  "nome": "DE FILIPPO ROCCO SITUAZIONE AL 7_11_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bx0x2ob29ruyvc5o09oa4/DE-FILIPPO-ROCCO-SITUAZIONE-AL-7_11_2022.pdf?rlkey=dqmsj9iil5s2b4hzyd8e53q7x&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DE FILIPPO ROCCO SITUAZIONE AL 7_11_2022.pdf"
+                },
+                {
+                  "nome": "DE FILIPPO ROCCO SITUAZIONE CONTABILE AL 27_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/w8ob66vgt9xcx8em6ww9d/DE-FILIPPO-ROCCO-SITUAZIONE-CONTABILE-AL-27_06_2023.pdf?rlkey=om004oqc8uqfbwrsdajhz8wqs&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DE FILIPPO ROCCO SITUAZIONE CONTABILE AL 27_06_2023.pdf"
+                },
+                {
+                  "nome": "DE FILIPPO ROCCO Situazione Contabile al 21_08_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/r829135w5tnap6k6kcrng/DE-FILIPPO-ROCCO-Situazione-Contabile-al-21_08_2025.pdf?rlkey=ok6eb8n13uqgcdjxm5j81rj8b&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DE FILIPPO ROCCO Situazione Contabile al 21_08_2025.pdf"
+                },
+                {
+                  "nome": "DE FILIPPO ROCCO_ Saldo contabile - C051074 20250918_124205.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wnsdswa9mjsscaopnuylb/DE-FILIPPO-ROCCO_-Saldo-contabile-C051074-20250918_124205.pdf?rlkey=fhe30b1e08ygcm3z757a3m3qc&dl=0?raw=1",
+                  "dimensione_kb": 41,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DE FILIPPO ROCCO_ Saldo contabile - C051074 20250918_124205.pdf"
+                },
+                {
+                  "nome": "DE MARCO SRL SITUAZIONE AL 5_11_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dw5w0v7rpc3c0nt7uutvq/DE-MARCO-SRL-SITUAZIONE-AL-5_11_2024.pdf?rlkey=se2shjki5v0394z9p9m332gyk&dl=0?raw=1",
+                  "dimensione_kb": 56,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DE MARCO SRL SITUAZIONE AL 5_11_2024.pdf"
+                },
+                {
+                  "nome": "DE MARE Situazione Contabile CREDITI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3amdvik0brrpa8ox66b3r/DE-MARE-Situazione-Contabile-CREDITI.pdf?rlkey=e7laxxtsg0theteq4n5p6viz6&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DE MARE Situazione Contabile CREDITI.pdf"
+                },
+                {
+                  "nome": "DELIZIE DEL FORNO SITUAZIONE AL 13_07_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/blv38up6sudj7dzidl868/DELIZIE-DEL-FORNO-SITUAZIONE-AL-13_07_2022.pdf?rlkey=6j9qymk3rmd3ipcpahlsmkztn&dl=0?raw=1",
+                  "dimensione_kb": 59,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DELIZIE DEL FORNO SITUAZIONE AL 13_07_2022.pdf"
+                },
+                {
+                  "nome": "DELIZIE DEL FORNO SITUAZIONE AL 30_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zdjqq20v3c9noy7hjh76y/DELIZIE-DEL-FORNO-SITUAZIONE-AL-30_06_2023.pdf?rlkey=vdie0g3js3c9h9qoubw5aaddr&dl=0?raw=1",
+                  "dimensione_kb": 60,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DELIZIE DEL FORNO SITUAZIONE AL 30_06_2023.pdf"
+                },
+                {
+                  "nome": "DELIZIE DEL FORNO Situazione Contabile CREDITI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wplcttv8k48iphnpcr9m8/DELIZIE-DEL-FORNO-Situazione-Contabile-CREDITI.pdf?rlkey=ogxpb0jx2fxfa4pelprjnlzl5&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DELIZIE DEL FORNO Situazione Contabile CREDITI.pdf"
+                },
+                {
+                  "nome": "DIMAC SITUAZIONE AL 20_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6p0m1bpv7gqdanbtfcxps/DIMAC-SITUAZIONE-AL-20_06_2023.pdf?rlkey=6gatzoa4k4630b7tg12ymlykc&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DIMAC SITUAZIONE AL 20_06_2023.pdf"
+                },
+                {
+                  "nome": "DIMAC SITUAZIONE AL 21_07_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/35y43r7wh43lebzy075zb/DIMAC-SITUAZIONE-AL-21_07_2023.pdf?rlkey=mome7go48mc3twg2y81yrqdd0&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DIMAC SITUAZIONE AL 21_07_2023.pdf"
+                },
+                {
+                  "nome": "DIMAC SITUAZIONE AL 7_11_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/76z6pyj6tmwj1y9411sdv/DIMAC-SITUAZIONE-AL-7_11_2022.pdf?rlkey=h9uj22f4hfn5fqilhr6fqfaww&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DIMAC SITUAZIONE AL 7_11_2022.pdf"
+                },
+                {
+                  "nome": "DIMAC SITUAZIONE AL 8_06_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k6lgn7jchsnxuxm3tsp7i/DIMAC-SITUAZIONE-AL-8_06_2022.pdf?rlkey=dxpi256inymf7r1jkgi3hpmz9&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DIMAC SITUAZIONE AL 8_06_2022.pdf"
+                },
+                {
+                  "nome": "DIMAC SITUAZIONE CONTABILE AL 14_12_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kd7cqqtpeux71m32mb1so/DIMAC-SITUAZIONE-CONTABILE-AL-14_12_2023.pdf?rlkey=3x6582qfbqgxzevxm69cnv182&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DIMAC SITUAZIONE CONTABILE AL 14_12_2023.pdf"
+                },
+                {
+                  "nome": "DIMAC SRL SITUAZIONE CONTABILE AL 18_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zjlwelm0rs58cn7d1yxz9/DIMAC-SRL-SITUAZIONE-CONTABILE-AL-18_05_2022.pdf?rlkey=you500p4qr4jxigt40skqc6pq&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DIMAC SRL SITUAZIONE CONTABILE AL 18_05_2022.pdf"
+                },
+                {
+                  "nome": "DIMAC Situazione Contabile al 7_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ktl6rhn1imjut8lctaxpk/DIMAC-Situazione-Contabile-al-7_09_2023.pdf?rlkey=fkldgztdeb5cro1fa62w7x7g1&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DIMAC Situazione Contabile al 7_09_2023.pdf"
+                },
+                {
+                  "nome": "DIOCESI DI TURSI LAGONEGRO SITUAZIONE AL 18_10_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fwcigj5ubj41uep27zzf1/DIOCESI-DI-TURSI-LAGONEGRO-SITUAZIONE-AL-18_10_2022.pdf?rlkey=o6btl9u7uk07lgrlvxbma9j7y&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DIOCESI DI TURSI LAGONEGRO SITUAZIONE AL 18_10_2022.pdf"
+                },
+                {
+                  "nome": "DIPA DI PACCHIANO SITUAZIONE AL 14_12_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/g4icg3ekynn9ytfxcp7d9/DIPA-DI-PACCHIANO-SITUAZIONE-AL-14_12_2023.pdf?rlkey=qn8yzluchsn35nq7o5rbkcxni&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/DIPA DI PACCHIANO SITUAZIONE AL 14_12_2023.pdf"
+                },
+                {
+                  "nome": "ESCOPOCO Situazione Contabile AL 31_07_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1w6ouo42702dxabfflx3e/ESCOPOCO-Situazione-Contabile-AL-31_07_2025.pdf?rlkey=b1eylxu75q7dhyk4j6rq4nsvy&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ESCOPOCO Situazione Contabile AL 31_07_2025.pdf"
+                },
+                {
+                  "nome": "ESCOPOCO Situazione Contabile CREDITI AL 30_06_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vapq4plx7dsjzk9ny81px/ESCOPOCO-Situazione-Contabile-CREDITI-AL-30_06_2025.pdf?rlkey=aw58k6uwtt7ior0hdncia9hlr&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ESCOPOCO Situazione Contabile CREDITI AL 30_06_2025.pdf"
+                },
+                {
+                  "nome": "Elenco_movimenti_24082023180242 BONIFICI MPS.xls",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/9stm1hs1y6cd8eebzp2sv/Elenco_movimenti_24082023180242-BONIFICI-MPS.xls?rlkey=e0ykrife03h1xe8dkr5xla4oi&dl=0?raw=1",
+                  "dimensione_kb": 130,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Elenco_movimenti_24082023180242 BONIFICI MPS.xls"
+                },
+                {
+                  "nome": "FA TU SITUAZIONE AL 12_05_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/g0rrw75wlcjbbl524ghku/FA-TU-SITUAZIONE-AL-12_05_2023.pdf?rlkey=rg6o1os4psv5vtfq59qdt0qfx&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/FA TU SITUAZIONE AL 12_05_2023.pdf"
+                },
+                {
+                  "nome": "FA' TU Fattura di vendita_2300231_20230512_162340.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zm477hcy92c9r5nl3da7d/FA-TU-Fattura-di-vendita_2300231_20230512_162340.pdf?rlkey=absjr8qkrmojkeb93giasaart&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/FA' TU Fattura di vendita_2300231_20230512_162340.pdf"
+                },
+                {
+                  "nome": "FA' TU SITUAZIONE AL 26_02_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/19qc9lm5r7baofnekbn8t/FA-TU-SITUAZIONE-AL-26_02_2024.pdf?rlkey=2nlocdjo4avy6tswkdlayl7wr&dl=0?raw=1",
+                  "dimensione_kb": 138,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/FA' TU SITUAZIONE AL 26_02_2024.pdf"
+                },
+                {
+                  "nome": "FA' TU Situazione Contabile al 14_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/n29wtf510pn2hc54631w9/FA-TU-Situazione-Contabile-al-14_02_2023.pdf?rlkey=50ebin46j9ut1n5uhz88c3t1u&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/FA' TU Situazione Contabile al 14_02_2023.pdf"
+                },
+                {
+                  "nome": "FALCONE SAS SITUAZIONE AL 14_01_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gzd6qw787l10dq6ku95qz/FALCONE-SAS-SITUAZIONE-AL-14_01_2025.pdf?rlkey=h96uv63hr7z4964ra8dtw8ckv&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/FALCONE SAS SITUAZIONE AL 14_01_2025.pdf"
+                },
+                {
+                  "nome": "FALCONE SAS SITUAZIONE AL 17_07_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kezx6x1cznnps5e3nk3o0/FALCONE-SAS-SITUAZIONE-AL-17_07_2022.pdf?rlkey=jsw8q5kj2g4x43gsgetmnrecp&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/FALCONE SAS SITUAZIONE AL 17_07_2022.pdf"
+                },
+                {
+                  "nome": "FALCONE SAS SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/y1tio4w5khxnqmzyuc673/FALCONE-SAS-SITUAZIONE-AL-28_05_2022.pdf?rlkey=b7n9xuvhvdtpmuf4k7bfl17o2&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/FALCONE SAS SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "FALCONE SAS SITUAZIONE CONTABILE AL 14_02_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ybf54864k9lakfjkywrep/FALCONE-SAS-SITUAZIONE-CONTABILE-AL-14_02_2025.pdf?rlkey=7l6sum3hdwq36cprk49vey02d&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/FALCONE SAS SITUAZIONE CONTABILE AL 14_02_2025.pdf"
+                },
+                {
+                  "nome": "FALCONE SAS situazione al 7_10_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bf1tcl5w9v3szbiesm4sl/FALCONE-SAS-situazione-al-7_10_2022.pdf?rlkey=n5dqurexv4syxmbafg2laulp1&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/FALCONE SAS situazione al 7_10_2022.pdf"
+                },
+                {
+                  "nome": "FALCONE Situazione Contabile CREDITI al 07 .pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/g8q53e319htmzi5m6smn5/FALCONE-Situazione-Contabile-CREDITI-al-07.pdf?rlkey=vvedi8rizktsq4q55ehb8bbjy&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/FALCONE Situazione Contabile CREDITI al 07 .pdf"
+                },
+                {
+                  "nome": "GEOMEDICAL SITUAZIONE AL 19_09_2022 pecorelli@geomedical.eu.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/f7qjt0wps3gq3f429030c/GEOMEDICAL-SITUAZIONE-AL-19_09_2022-pecorelli-geomedical.eu.pdf?rlkey=ikkfowtd071zphkwnc3lo38xj&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GEOMEDICAL SITUAZIONE AL 19_09_2022 pecorelli@geomedical.eu.pdf"
+                },
+                {
+                  "nome": "GEOMEDICAL SITUAZIONE AL 24_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/h1srhl5mvoeh5e0s4r8vn/GEOMEDICAL-SITUAZIONE-AL-24_08_2022.pdf?rlkey=1ax1g077ujqxuty8f1f6flfh7&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GEOMEDICAL SITUAZIONE AL 24_08_2022.pdf"
+                },
+                {
+                  "nome": "GEOMEDICAL Situazione Contabile CREDITI al 07_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/a4oo3v94w9t6205fs885z/GEOMEDICAL-Situazione-Contabile-CREDITI-al-07_09_2023.pdf?rlkey=crzoo9e0yne85niy91aqauir4&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GEOMEDICAL Situazione Contabile CREDITI al 07_09_2023.pdf"
+                },
+                {
+                  "nome": "GEROVERTICAL Fattura di vendita_220447_20220804_132520.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4gnkmtcz7ii7kwiv6sc1u/GEROVERTICAL-Fattura-di-vendita_220447_20220804_132520.pdf?rlkey=gg8ov4qaluc03d17xkiz9er5b&dl=0?raw=1",
+                  "dimensione_kb": 78,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GEROVERTICAL Fattura di vendita_220447_20220804_132520.pdf"
+                },
+                {
+                  "nome": "GESTIONI TURISTICHE LA TORRE SITUAZIONE AL 7_10_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cvqqjdrq30cd3167pazur/GESTIONI-TURISTICHE-LA-TORRE-SITUAZIONE-AL-7_10_2022.pdf?rlkey=cm8ukxleswk8wjgac21vk5kn0&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GESTIONI TURISTICHE LA TORRE SITUAZIONE AL 7_10_2022.pdf"
+                },
+                {
+                  "nome": "GESTIONI TURISTICHE SITUAZIONE AL 05_11_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yk6mgmpz4o2mcy7ij0ut1/GESTIONI-TURISTICHE-SITUAZIONE-AL-05_11_2024.pdf?rlkey=9l7c4x0f60nkqjcvf06k5195o&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GESTIONI TURISTICHE SITUAZIONE AL 05_11_2024.pdf"
+                },
+                {
+                  "nome": "GESTIONI TURISTICHE SITUAZIONE AL 3_09_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xddk4n8848zwfw731e3uw/GESTIONI-TURISTICHE-SITUAZIONE-AL-3_09_2024.pdf?rlkey=pkexnkpcx3s19wprkh04olfux&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GESTIONI TURISTICHE SITUAZIONE AL 3_09_2024.pdf"
+                },
+                {
+                  "nome": "GIOIA NICOLA SITUAZIONE AL 12_04_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/j0q33a8jo93au40866pj0/GIOIA-NICOLA-SITUAZIONE-AL-12_04_2022.pdf?rlkey=qy9gzi4urqbl2e1c3cznf6hc8&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GIOIA NICOLA SITUAZIONE AL 12_04_2022.pdf"
+                },
+                {
+                  "nome": "GIORDANO UMBERTO Fattura di vendita_2300499_20230907_134956.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dd57tnxncpg5bl6st97g9/GIORDANO-UMBERTO-Fattura-di-vendita_2300499_20230907_134956.pdf?rlkey=x4ox50kwici3z77aidqvk2fy3&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GIORDANO UMBERTO Fattura di vendita_2300499_20230907_134956.pdf"
+                },
+                {
+                  "nome": "GMT SITUAZIONE AL 22_04_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zc1d88cuda9dw8jxr4pkh/GMT-SITUAZIONE-AL-22_04_2024.pdf?rlkey=omr8nu69wjf6u9v2w5quoapwy&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GMT SITUAZIONE AL 22_04_2024.pdf"
+                },
+                {
+                  "nome": "GRAN SOLE SITUAZIONE AL 5_10_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hmnp84fbn9p9pjfzywdnk/GRAN-SOLE-SITUAZIONE-AL-5_10_2023.pdf?rlkey=siypyyamy66hv1gdvh4jlwpx7&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GRAN SOLE SITUAZIONE AL 5_10_2023.pdf"
+                },
+                {
+                  "nome": "GRAN SOLE SITUAZIONE AL 5_11_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5madjh4jxp1uxvcjkz1ve/GRAN-SOLE-SITUAZIONE-AL-5_11_2024.pdf?rlkey=i9fbr92koql421rvouwjpzwfb&dl=0?raw=1",
+                  "dimensione_kb": 59,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GRAN SOLE SITUAZIONE AL 5_11_2024.pdf"
+                },
+                {
+                  "nome": "GRUPPO PALMIERI SITUAZIONE CONTABILE AL 02_06_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/p949nlx8odu7kkse1gcz5/GRUPPO-PALMIERI-SITUAZIONE-CONTABILE-AL-02_06_2022.pdf?rlkey=ws7rg0pakuld5gnrcf8f01rr7&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/GRUPPO PALMIERI SITUAZIONE CONTABILE AL 02_06_2022.pdf"
+                },
+                {
+                  "nome": "H2A SITUAZUIONE CONTABILE AL 18_11_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/v57e3bdignts1afeiyhyw/H2A-SITUAZUIONE-CONTABILE-AL-18_11_2023.pdf?rlkey=olscwdury9ketwixise56wugx&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/H2A SITUAZUIONE CONTABILE AL 18_11_2023.pdf"
+                },
+                {
+                  "nome": "H2A Situazione Contabile AL 23_08_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gptaut5f9j5tsxwdoyejh/H2A-Situazione-Contabile-AL-23_08_2025.pdf?rlkey=3dc6j8ftexvj3kx5zrai8jtqp&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/H2A Situazione Contabile AL 23_08_2025.pdf"
+                },
+                {
+                  "nome": "HAPPY CAFE' SITUAZIONE AL 04_06_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3uv6jvxqcg3dmv672sd1v/HAPPY-CAFE-SITUAZIONE-AL-04_06_2024.pdf?rlkey=6hbmds3ejx639j0rf8hucp1ax&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/HAPPY CAFE' SITUAZIONE AL 04_06_2024.pdf"
+                },
+                {
+                  "nome": "HAPPY CAFE' SITUAZIONE AL 12_05_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/436gptryx0rmmz03039ze/HAPPY-CAFE-SITUAZIONE-AL-12_05_2023.pdf?rlkey=2szc6w1u85q4dwrtq27i1481p&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/HAPPY CAFE' SITUAZIONE AL 12_05_2023.pdf"
+                },
+                {
+                  "nome": "HAPPY CAFE' SITUAZIONE AL 31_01_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/674g8hbdr16av3kg0s0ns/HAPPY-CAFE-SITUAZIONE-AL-31_01_2024.pdf?rlkey=69uo8s62ookm1a73xulrrgqpy&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/HAPPY CAFE' SITUAZIONE AL 31_01_2024.pdf"
+                },
+                {
+                  "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Saldo contabile - C001320 _20250929_132837.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/idg410mw00pwn7jiz3sjf/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Saldo-contabile-C001320-_20250929_132837.pdf?rlkey=1gq75n336vsvn9d4xc9pqt833&dl=0?raw=1",
+                  "dimensione_kb": 49,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Saldo contabile - C001320 _20250929_132837.pdf"
+                },
+                {
+                  "nome": "HAPPY SITUAZIONE AL 31_07_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/thh4hhlqmaqjtaia7ywvg/HAPPY-SITUAZIONE-AL-31_07_2023.pdf?rlkey=o6ritbspzve22oekn567r10s1&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/HAPPY SITUAZIONE AL 31_07_2023.pdf"
+                },
+                {
+                  "nome": "HOTEL PISACANE situazione contabile al 30_04_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yvwqfoksbt79hbdpwoo58/HOTEL-PISACANE-situazione-contabile-al-30_04_2025.pdf?rlkey=ziz3mrfbghzy4sj8mtvujiq6m&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/HOTEL PISACANE situazione contabile al 30_04_2025.pdf"
+                },
+                {
+                  "nome": "HOTEL RISTORANTE LA TANA SITUAZIONE AL 10_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/99e77mxw3d2liym985wah/HOTEL-RISTORANTE-LA-TANA-SITUAZIONE-AL-10_08_2022.pdf?rlkey=4egqj0rjxy5op4at67qenjgs0&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/HOTEL RISTORANTE LA TANA SITUAZIONE AL 10_08_2022.pdf"
+                },
+                {
+                  "nome": "HOTEL RISTORANTE LA TANA SITUAZIONE AL 25_09_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/58ynqwlwnddv9jwexidnm/HOTEL-RISTORANTE-LA-TANA-SITUAZIONE-AL-25_09_2024.pdf?rlkey=x3gjrjewxi84eyiv11rdjsq9i&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/HOTEL RISTORANTE LA TANA SITUAZIONE AL 25_09_2024.pdf"
+                },
+                {
+                  "nome": "HOTEL VILLA PRINCIPE SITUAZIONE CONTABILE AL 10_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/eqx7bqe5ssw455q9i38t8/HOTEL-VILLA-PRINCIPE-SITUAZIONE-CONTABILE-AL-10_08_2022.pdf?rlkey=4u67c6cbnty0y4w8d7qg4j5jw&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/HOTEL VILLA PRINCIPE SITUAZIONE CONTABILE AL 10_08_2022.pdf"
+                },
+                {
+                  "nome": "I SAPORI DI MARIANNA SIUAZIONE AL 03_06_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xg7cjhiqg4xvmeu1x7vqz/I-SAPORI-DI-MARIANNA-SIUAZIONE-AL-03_06_2024.pdf?rlkey=ztbdd0l35dolkumo64awye6a6&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/I SAPORI DI MARIANNA SIUAZIONE AL 03_06_2024.pdf"
+                },
+                {
+                  "nome": "IL CLUBBINO SITUAZIONE AL 14_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bf0586skc0nbqvburla0c/IL-CLUBBINO-SITUAZIONE-AL-14_02_2023.pdf?rlkey=4x7i4fg1hguzx75lrm8v5zerk&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL CLUBBINO SITUAZIONE AL 14_02_2023.pdf"
+                },
+                {
+                  "nome": "IL CLUBBINO SITUAZIONE AL 15_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9nulykshcyijdi3rgkgz5/IL-CLUBBINO-SITUAZIONE-AL-15_05_2022.pdf?rlkey=xjub1hqojuda96mqrfgqmf2ld&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL CLUBBINO SITUAZIONE AL 15_05_2022.pdf"
+                },
+                {
+                  "nome": "IL CLUBBINO SITUAZIONE CONTABILE AL 10_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/l50nl4hnyn1p97tazn8n5/IL-CLUBBINO-SITUAZIONE-CONTABILE-AL-10_08_2022.pdf?rlkey=4i633ci9k88bg0z0kv2rbnzi9&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL CLUBBINO SITUAZIONE CONTABILE AL 10_08_2022.pdf"
+                },
+                {
+                  "nome": "IL CLUBBINO SITUAZIONE CONTABILE AL 19_09_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/u0qaejlho4oozahclt5ax/IL-CLUBBINO-SITUAZIONE-CONTABILE-AL-19_09_2022.pdf?rlkey=26tlkbvgl4uayit89jlbgdob6&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL CLUBBINO SITUAZIONE CONTABILE AL 19_09_2022.pdf"
+                },
+                {
+                  "nome": "IL GIARDINO SITUZIONE CONTABILE AL 14_12_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/54dprkcs1bvraxnhree34/IL-GIARDINO-SITUZIONE-CONTABILE-AL-14_12_2023.pdf?rlkey=iry2mp36jr1ck8eqldxbyna30&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL GIARDINO SITUZIONE CONTABILE AL 14_12_2023.pdf"
+                },
+                {
+                  "nome": "IL LUCANO DI CARLUCCIO MATTEO SITUAZIONE AL 14_12_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m46smrd4q4jj01fec1wcm/IL-LUCANO-DI-CARLUCCIO-MATTEO-SITUAZIONE-AL-14_12_2023.pdf?rlkey=1db56ek9zobwza3n0afhexh7k&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL LUCANO DI CARLUCCIO MATTEO SITUAZIONE AL 14_12_2023.pdf"
+                },
+                {
+                  "nome": "IL LUCANO DI CARLUCCIO MATTEO SITUAZIONE AL19_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/t2bsjyr26sm855rhf0vn0/IL-LUCANO-DI-CARLUCCIO-MATTEO-SITUAZIONE-AL19_02_2023.pdf?rlkey=7uhuunr46m7fvkklnha86hw9o&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL LUCANO DI CARLUCCIO MATTEO SITUAZIONE AL19_02_2023.pdf"
+                },
+                {
+                  "nome": "IL LUCANO DI CARLUCCIO SITUAZIONE CONTABILE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/csnvaj7ovpkcx7ri52i1n/IL-LUCANO-DI-CARLUCCIO-SITUAZIONE-CONTABILE.pdf?rlkey=e0687cnu9uh8n0ituu0jieckn&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL LUCANO DI CARLUCCIO SITUAZIONE CONTABILE.pdf"
+                },
+                {
+                  "nome": "IL LUCANO SITUAZIONE CONTABILE AL 9_12_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5eri7htbur3kkkwxoi9og/IL-LUCANO-SITUAZIONE-CONTABILE-AL-9_12_2022.pdf?rlkey=6q425o89yfba29h8v8zysesps&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL LUCANO SITUAZIONE CONTABILE AL 9_12_2022.pdf"
+                },
+                {
+                  "nome": "IL LUCANO SRLS SITUAZIONE AL 18_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gdgthqti0vf7vb2clcp84/IL-LUCANO-SRLS-SITUAZIONE-AL-18_09_2023.pdf?rlkey=3g9j2t678wkug24jmn6jeiwma&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL LUCANO SRLS SITUAZIONE AL 18_09_2023.pdf"
+                },
+                {
+                  "nome": "IL LUCANO SRLS SITUAZIONE AL 6_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/74o1rv0wwetbyiqsjc2n0/IL-LUCANO-SRLS-SITUAZIONE-AL-6_09_2023.pdf?rlkey=c2tch9fvk7cwzfdpimqn66wr0&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL LUCANO SRLS SITUAZIONE AL 6_09_2023.pdf"
+                },
+                {
+                  "nome": "IL MULINO SITUAZIONE CONTABILE AL 8_07_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rf6koik86fcp86q2cpkdb/IL-MULINO-SITUAZIONE-CONTABILE-AL-8_07_2025.pdf?rlkey=cg25uzq3qj6wichmuwotn19or&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/IL MULINO SITUAZIONE CONTABILE AL 8_07_2025.pdf"
+                },
+                {
+                  "nome": "JOEL SITUAZIONE CONTABILE AL 3_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xfap5eaczx9bx13sypl7t/JOEL-SITUAZIONE-CONTABILE-AL-3_06_2023.pdf?rlkey=rf6oq46xu5zqmzh5lwf59m4z5&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/JOEL SITUAZIONE CONTABILE AL 3_06_2023.pdf"
+                },
+                {
+                  "nome": "LA PARADA SITUAZIONE AL 23_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mwfwdzr975y6kvjhq3mj0/LA-PARADA-SITUAZIONE-AL-23_08_2022.pdf?rlkey=nlafwdqhhq5na93wx5noq43lf&dl=0?raw=1",
+                  "dimensione_kb": 147,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA PARADA SITUAZIONE AL 23_08_2022.pdf"
+                },
+                {
+                  "nome": "LA PARADA SITUAZIONE CONTABILE AL 27_07_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fyldwkyusmva8190wkpjh/LA-PARADA-SITUAZIONE-CONTABILE-AL-27_07_2023.pdf?rlkey=9u7pi6lthr0qa9xcg8g1vogwx&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA PARADA SITUAZIONE CONTABILE AL 27_07_2023.pdf"
+                },
+                {
+                  "nome": "LA PASTICCERIA DEL GIAN BAR.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cugdnkptuqq3vby97khks/LA-PASTICCERIA-DEL-GIAN-BAR.pdf?rlkey=og21ff11nw9gx57l6uw9ue6a8&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA PASTICCERIA DEL GIAN BAR.pdf"
+                },
+                {
+                  "nome": "LA PERLA DEL TIRRENO SRLS SITUAZIONE CONTABILE AL 11_03_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ic0y5f5h7kmabaha59qn4/LA-PERLA-DEL-TIRRENO-SRLS-SITUAZIONE-CONTABILE-AL-11_03_2025.pdf?rlkey=ir1syu3d98d588npszeavq22y&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA PERLA DEL TIRRENO SRLS SITUAZIONE CONTABILE AL 11_03_2025.pdf"
+                },
+                {
+                  "nome": "LA PICCOLA BOTTEGA DI ROSANNA SITUAZIONE AL 14_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ztuyja8iro088cz7o5nwy/LA-PICCOLA-BOTTEGA-DI-ROSANNA-SITUAZIONE-AL-14_02_2023.pdf?rlkey=sjy70crhu6mmtqi12r422olrm&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA PICCOLA BOTTEGA DI ROSANNA SITUAZIONE AL 14_02_2023.pdf"
+                },
+                {
+                  "nome": "LA PIEDIGROTTA SITUAZIONE AL 29_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/w3epiokojvz7eyf8n76dd/LA-PIEDIGROTTA-SITUAZIONE-AL-29_06_2023.pdf?rlkey=1u6l8wzsazr09vq7caljl4aie&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA PIEDIGROTTA SITUAZIONE AL 29_06_2023.pdf"
+                },
+                {
+                  "nome": "LA PIZZERIA DA MASSIMO di SASSONE MASSIMO_ Saldo contabile - C001496 20250924_102331.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/189rkf9jbr9fkjpyp384a/LA-PIZZERIA-DA-MASSIMO-di-SASSONE-MASSIMO_-Saldo-contabile-C001496-20250924_102331.pdf?rlkey=2b6xhgysf5w6qsm2fku52qora&dl=0?raw=1",
+                  "dimensione_kb": 41,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA PIZZERIA DA MASSIMO di SASSONE MASSIMO_ Saldo contabile - C001496 20250924_102331.pdf"
+                },
+                {
+                  "nome": "LA QUIETE DEL VECCHIO PINO SITUAZIONE AL 27_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4mhg7dpmymp25ltt0rs47/LA-QUIETE-DEL-VECCHIO-PINO-SITUAZIONE-AL-27_06_2023.pdf?rlkey=45d0eseaq9sxbtdoizliv7tp1&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA QUIETE DEL VECCHIO PINO SITUAZIONE AL 27_06_2023.pdf"
+                },
+                {
+                  "nome": "LA QUIETE DEL VECCHIO SITUAZIONE AGGIORNATA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fy7r6tbe84hcxvp0p018b/LA-QUIETE-DEL-VECCHIO-SITUAZIONE-AGGIORNATA.pdf?rlkey=z7ffli2hjkkfq2w7hckrmhjno&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA QUIETE DEL VECCHIO SITUAZIONE AGGIORNATA.pdf"
+                },
+                {
+                  "nome": "LA QUIETE DEL VECCHIO SITUAZIONE AL 19_09_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wslmyivrxkd2yaet35vez/LA-QUIETE-DEL-VECCHIO-SITUAZIONE-AL-19_09_2022.pdf?rlkey=ifijksb8hamhbdxmlgmxkuu75&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA QUIETE DEL VECCHIO SITUAZIONE AL 19_09_2022.pdf"
+                },
+                {
+                  "nome": "LA QUIETE SRL SITUAZIONE AL 11_03_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/y3absdqd6cm6vr8i7ivzh/LA-QUIETE-SRL-SITUAZIONE-AL-11_03_2024.pdf?rlkey=e9uemiilcc5e6s9z3fc1rik9m&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA QUIETE SRL SITUAZIONE AL 11_03_2024.pdf"
+                },
+                {
+                  "nome": "LA TAVERNA DI ZU CICCO SITUAZIONE AL 19_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bq1hluyd36u43prps15gy/LA-TAVERNA-DI-ZU-CICCO-SITUAZIONE-AL-19_02_2023.pdf?rlkey=gl4gwmwv0o7varmmwpdwpbe2y&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA TAVERNA DI ZU CICCO SITUAZIONE AL 19_02_2023.pdf"
+                },
+                {
+                  "nome": "LA TAVERNA DI ZU CICCO SITUAZIONE AL 19_09_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/uxe6zg0zhlv7rqlsyy8po/LA-TAVERNA-DI-ZU-CICCO-SITUAZIONE-AL-19_09_2022.pdf?rlkey=dr1y0chqk8gsx9mj3xrvfmofx&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA TAVERNA DI ZU CICCO SITUAZIONE AL 19_09_2022.pdf"
+                },
+                {
+                  "nome": "LA TENUTA DEL BARONE SITUAZIONE AL 5_11_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7zx0bqtm29pa9yyghmbns/LA-TENUTA-DEL-BARONE-SITUAZIONE-AL-5_11_2024.pdf?rlkey=78lv8v4pnr94w6t59ustyk382&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LA TENUTA DEL BARONE SITUAZIONE AL 5_11_2024.pdf"
+                },
+                {
+                  "nome": "LANIFICO MANGO SITUAZIONE AL 14_01_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2hl7371841ze5uie6gm8c/LANIFICO-MANGO-SITUAZIONE-AL-14_01_2025.pdf?rlkey=brba37nk9bfdrhof3bm6zm085&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LANIFICO MANGO SITUAZIONE AL 14_01_2025.pdf"
+                },
+                {
+                  "nome": "LANTERNA VERDE Situazione Contabile AL 27_06_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/tip2kcyg6vldvuidxo0b7/LANTERNA-VERDE-Situazione-Contabile-AL-27_06_2025.pdf?rlkey=re4brswqxig8447cjxah7dmk1&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LANTERNA VERDE Situazione Contabile AL 27_06_2025.pdf"
+                },
+                {
+                  "nome": "LAVINIUM SITUAZIONE AL 02_03_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mv6sofuva0xof7dr3h9uq/LAVINIUM-SITUAZIONE-AL-02_03_2022.pdf?rlkey=ig8qjurxquncgmc0kqwufkv5n&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LAVINIUM SITUAZIONE AL 02_03_2022.pdf"
+                },
+                {
+                  "nome": "LE BONTA' TRECCHINESI SITUZIONE CONTABILE AL 18_03_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mmxlko6xrqzmlf2yqi2v7/LE-BONTA-TRECCHINESI-SITUZIONE-CONTABILE-AL-18_03_2025.pdf?rlkey=d77gztqaqevpl9qnzbzuma62k&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LE BONTA' TRECCHINESI SITUZIONE CONTABILE AL 18_03_2025.pdf"
+                },
+                {
+                  "nome": "LE DELIZIE DEL GRANO SITUAZIONE AL 19_09_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yu6n4dap0efkwj6x7clxa/LE-DELIZIE-DEL-GRANO-SITUAZIONE-AL-19_09_2022.pdf?rlkey=7bpx1f8i7kxlmj81yfxjfv71b&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LE DELIZIE DEL GRANO SITUAZIONE AL 19_09_2022.pdf"
+                },
+                {
+                  "nome": "LIDO LA FONTE Fattura di vendita_220332_20220824_172903.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/58qgbgwrzdp4vzvhsr478/LIDO-LA-FONTE-Fattura-di-vendita_220332_20220824_172903.pdf?rlkey=h1e7feaoej587x7w0bzaz3vhp&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LIDO LA FONTE Fattura di vendita_220332_20220824_172903.pdf"
+                },
+                {
+                  "nome": "LIDO LA FONTE SITUAZIONE AL 03_09_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2401tnch7t64a34plvot9/LIDO-LA-FONTE-SITUAZIONE-AL-03_09_2024.pdf?rlkey=orshs8j25r8eio4hant5ahwyp&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LIDO LA FONTE SITUAZIONE AL 03_09_2024.pdf"
+                },
+                {
+                  "nome": "LIMONGI TURISMO FATTURA 220552 + 220553.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4agktd0tlt87qf04wlrr1/LIMONGI-TURISMO-FATTURA-220552-220553.pdf?rlkey=eerdxfihrba0yjl4qcpze3t8j&dl=0?raw=1",
+                  "dimensione_kb": 55,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LIMONGI TURISMO FATTURA 220552 + 220553.pdf"
+                },
+                {
+                  "nome": "LUCANIA PASTA SITUAZIONE AL 14_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/76brbq0juiudfu8qboguk/LUCANIA-PASTA-SITUAZIONE-AL-14_02_2023.pdf?rlkey=j993nhzcggpab70loay106cvi&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LUCANIA PASTA SITUAZIONE AL 14_02_2023.pdf"
+                },
+                {
+                  "nome": "LUCANIA PASTA SITUAZIONE AL 7_10_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6s83iachjhc7u4qw2v4py/LUCANIA-PASTA-SITUAZIONE-AL-7_10_2022.pdf?rlkey=88cdnrb80p9ggq4xi6jshc4ku&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LUCANIA PASTA SITUAZIONE AL 7_10_2022.pdf"
+                },
+                {
+                  "nome": "LUILORE' SITUAZIONE AL 19_02_2023 FATTURE APERTE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2ja6mg5opszifbpyxqw0w/LUILORE-SITUAZIONE-AL-19_02_2023-FATTURE-APERTE.pdf?rlkey=alkwycco32utrlel2cdiaifbd&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LUILORE' SITUAZIONE AL 19_02_2023 FATTURE APERTE.pdf"
+                },
+                {
+                  "nome": "LUILORE' Situazione Contabile CREDITI AL 30_06_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/eu7bln4nfmqzmkjz19ysm/LUILORE-Situazione-Contabile-CREDITI-AL-30_06_2025.pdf?rlkey=t8hh4w4d1kli5nod1wk6348vo&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/LUILORE' Situazione Contabile CREDITI AL 30_06_2025.pdf"
+                },
+                {
+                  "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI ) 07_09_2021.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k36jb6o2n3jkq07iia4lc/Lista-Movimenti-NON-EFFETTUATI-CREDITI-07_09_2021.pdf?rlkey=ia7089byvuxnt8dcsn3tbhhr9&dl=0?raw=1",
+                  "dimensione_kb": 81,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI ) 07_09_2021.pdf"
+                },
+                {
+                  "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI ) ALMERINDA 07_09_2021.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/b4szo2kzo3uusbxuzegll/Lista-Movimenti-NON-EFFETTUATI-CREDITI-ALMERINDA-07_09_2021.pdf?rlkey=gol3zuos912n42wbkm8y9g6s3&dl=0?raw=1",
+                  "dimensione_kb": 60,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI ) ALMERINDA 07_09_2021.pdf"
+                },
+                {
+                  "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) 18_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ad3ei07xdvuzntgpsf2j2/Lista-Movimenti-NON-EFFETTUATI-CREDITI_PROSPERO-18_09_2023.pdf?rlkey=kgscju7dc010p5sbij2ajrlbi&dl=0?raw=1",
+                  "dimensione_kb": 163,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) 18_09_2023.pdf"
+                },
+                {
+                  "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) 25_04_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lln0yyu1fkx05fp4x21di/Lista-Movimenti-NON-EFFETTUATI-CREDITI_PROSPERO-25_04_2025.pdf?rlkey=ivhte20mmks4soo2uao7v022k&dl=0?raw=1",
+                  "dimensione_kb": 98,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) 25_04_2025.pdf"
+                },
+                {
+                  "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) 26_04_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/j12og3s7l7h8blkmuggte/Lista-Movimenti-NON-EFFETTUATI-CREDITI_PROSPERO-26_04_2025.pdf?rlkey=3l286dnucqeraeadhpmql2ct2&dl=0?raw=1",
+                  "dimensione_kb": 96,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) 26_04_2025.pdf"
+                },
+                {
+                  "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) DEL 24_08_20223.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m2rvbm9i581kh4yadvfmh/Lista-Movimenti-NON-EFFETTUATI-CREDITI_PROSPERO-DEL-24_08_20223.pdf?rlkey=6982bf1zi2nywrbg5rjsf3qrl&dl=0?raw=1",
+                  "dimensione_kb": 178,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) DEL 24_08_20223.pdf"
+                },
+                {
+                  "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) DEL 9_08_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/s27i7s7mqc6fdqk7dt4gi/Lista-Movimenti-NON-EFFETTUATI-CREDITI_PROSPERO-DEL-9_08_2023.pdf?rlkey=demysailmqdsloy1jwnd6g9ba&dl=0?raw=1",
+                  "dimensione_kb": 97,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) DEL 9_08_2023.pdf"
+                },
+                {
+                  "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) a.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nt9wfq7wcrzlijj6fo8ns/Lista-Movimenti-NON-EFFETTUATI-CREDITI_PROSPERO-a.pdf?rlkey=63dl9uu8ajrnyovgoyr1li956&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) a.pdf"
+                },
+                {
+                  "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) al 7_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wvofh6wcenb5gq6phe1ie/Lista-Movimenti-NON-EFFETTUATI-CREDITI_PROSPERO-al-7_09_2023.pdf?rlkey=tjkjup4c2p2t5mbr0yutrn7v6&dl=0?raw=1",
+                  "dimensione_kb": 202,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO) al 7_09_2023.pdf"
+                },
+                {
+                  "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO).pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/r1dmyy6xk470axwvbc064/Lista-Movimenti-NON-EFFETTUATI-CREDITI_PROSPERO.pdf?rlkey=1b4zloybzcxe67vlehbfaqz6x&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_PROSPERO).pdf"
+                },
+                {
+                  "nome": "MACELLERIA DE DIEGO SITUAZIONE AL 03_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/spiq9173dcrwbrquesv8l/MACELLERIA-DE-DIEGO-SITUAZIONE-AL-03_06_2023.pdf?rlkey=iair41jzaimq5aocf63udnsvt&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/MACELLERIA DE DIEGO SITUAZIONE AL 03_06_2023.pdf"
+                },
+                {
+                  "nome": "MACELLERIA FORTE DIANA SITUAZIONE AL 27_12_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fh5asnba979d5c5hypd8z/MACELLERIA-FORTE-DIANA-SITUAZIONE-AL-27_12_2022.pdf?rlkey=0drf7zom255vf33r10jirb08o&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/MACELLERIA FORTE DIANA SITUAZIONE AL 27_12_2022.pdf"
+                },
+                {
+                  "nome": "MADI SNC SITUAZIONE AL 8_07_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cq1hmrqzb0d9t6nnehmau/MADI-SNC-SITUAZIONE-AL-8_07_2025.pdf?rlkey=13da9vwkne63h91xooe4srwd2&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/MADI SNC SITUAZIONE AL 8_07_2025.pdf"
+                },
+                {
+                  "nome": "MAREBLU SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pfy1wudbb2kdk7snavmyt/MAREBLU-SITUAZIONE-AL-28_05_2022.pdf?rlkey=ozj59gn8b3vn5q6d6l3fxc9ia&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/MAREBLU SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "MELE CIRO SITUAZIONE AL 15_07_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3couwrbvidywutuaeh6u8/MELE-CIRO-SITUAZIONE-AL-15_07_2022.pdf?rlkey=w7m4jxqr430r0vqjzdh5onprd&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/MELE CIRO SITUAZIONE AL 15_07_2022.pdf"
+                },
+                {
+                  "nome": "MICELI LUIGI SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/546pkjwxdoq61yb9cx38t/MICELI-LUIGI-SITUAZIONE-AL-28_05_2022.pdf?rlkey=trsd2971mfu6t4j6fq9jcbosa&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/MICELI LUIGI SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "MS NAPOLEONE SITUAZIONE CONTABILE AL 26_10_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vifj92z1lz2jgk8etk6av/MS-NAPOLEONE-SITUAZIONE-CONTABILE-AL-26_10_2023.pdf?rlkey=z5u132a6298s71qlffyetirpu&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/MS NAPOLEONE SITUAZIONE CONTABILE AL 26_10_2023.pdf"
+                },
+                {
+                  "nome": "MS NAPOLEONE SRL SITUAZIONE AL 4_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7w8zsetjd7n3kl6oz8xk8/MS-NAPOLEONE-SRL-SITUAZIONE-AL-4_08_2022.pdf?rlkey=uhgum0o500bp0xftmuks1nibk&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/MS NAPOLEONE SRL SITUAZIONE AL 4_08_2022.pdf"
+                },
+                {
+                  "nome": "NERA Situazione Contabile AL 7_07_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/apbopuueknt84awy6lgzc/NERA-Situazione-Contabile-AL-7_07_2025.pdf?rlkey=gjezsagt1rzfhw0y44y10ftm1&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/NERA Situazione Contabile AL 7_07_2025.pdf"
+                },
+                {
+                  "nome": "Nota di Credito Vendita_240005_20240422_175725.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ufp62cqhy4mzkrybi30pj/Nota-di-Credito-Vendita_240005_20240422_175725.pdf?rlkey=ses96qkt08u2q6t1sd0qwdo5b&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Nota di Credito Vendita_240005_20240422_175725.pdf"
+                },
+                {
+                  "nome": "Nuovo Foglio di lavoro di Microsoft Excel.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/fqfsew8naqkjj20efz4xn/Nuovo-Foglio-di-lavoro-di-Microsoft-Excel.xlsx?rlkey=4q2i1pz5nwbcumvpjysmt8oc1&dl=0?raw=1",
+                  "dimensione_kb": 10,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Nuovo Foglio di lavoro di Microsoft Excel.xlsx"
+                },
+                {
+                  "nome": "OVER DREAM SITUAZIONE AL 02_12_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i3sx193hdtua490t2n46f/OVER-DREAM-SITUAZIONE-AL-02_12_2024.pdf?rlkey=ang1jllbf6itfx8klq9zecwsa&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/OVER DREAM SITUAZIONE AL 02_12_2024.pdf"
+                },
+                {
+                  "nome": "PANAINO SRL SITUAZIONE AL 04_06_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ht4fyjjsth1ln6ldw9wax/PANAINO-SRL-SITUAZIONE-AL-04_06_2024.pdf?rlkey=9bo8011qedwm2h4kri9jspabf&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PANAINO SRL SITUAZIONE AL 04_06_2024.pdf"
+                },
+                {
+                  "nome": "PANIFICIO D'IMPERIO SITUAZIONE AL 03_05_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/r8n940xrr1cgqdgqthk1l/PANIFICIO-D-IMPERIO-SITUAZIONE-AL-03_05_2025.pdf?rlkey=ze2ex93bwhm6tsh1rjlkly66q&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PANIFICIO D'IMPERIO SITUAZIONE AL 03_05_2025.pdf"
+                },
+                {
+                  "nome": "PANIFICIO D'IMPERIO SITUAZIONE AL 14_01_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/r9chtgf5vc8n7fllhgfxh/PANIFICIO-D-IMPERIO-SITUAZIONE-AL-14_01_2025.pdf?rlkey=dlmbzrvmhjmnc27zw5q8i4op7&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PANIFICIO D'IMPERIO SITUAZIONE AL 14_01_2025.pdf"
+                },
+                {
+                  "nome": "PANIFICIO FERRARO SITUAZIONE AL 14_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dpxjtqywozow7cgbxvpo6/PANIFICIO-FERRARO-SITUAZIONE-AL-14_02_2023.pdf?rlkey=qz3ao64be9wi1pa5awr4d5t8o&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PANIFICIO FERRARO SITUAZIONE AL 14_02_2023.pdf"
+                },
+                {
+                  "nome": "PANIFICIO GALLUCCI SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ig4zakjg47uqmy3tivu57/PANIFICIO-GALLUCCI-SITUAZIONE-AL-28_05_2022.pdf?rlkey=5w2ht413sah451o1fb8whdzgw&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PANIFICIO GALLUCCI SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "PASTTICCERIA TUZIO SITUAZIONE AL 09_01_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fmfsjkw73786nen3b2bj4/PASTTICCERIA-TUZIO-SITUAZIONE-AL-09_01_2024.pdf?rlkey=7ie1frtp7tedmmvqln9e9kezc&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PASTTICCERIA TUZIO SITUAZIONE AL 09_01_2024.pdf"
+                },
+                {
+                  "nome": "PET ALF SITUAZIONE AL 3_09_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bw3qmuunsmte8ajkrsrrt/PET-ALF-SITUAZIONE-AL-3_09_2024.pdf?rlkey=kduoqaal6yld0v8n8sweys7uy&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PET ALF SITUAZIONE AL 3_09_2024.pdf"
+                },
+                {
+                  "nome": "PETER & FRENK SITUAZIONE AL 14_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6nbwnts8edpwzvakxiiq2/PETER-FRENK-SITUAZIONE-AL-14_02_2023.pdf?rlkey=b13bp4hpi2oxgc8ofucpfem5h&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PETER & FRENK SITUAZIONE AL 14_02_2023.pdf"
+                },
+                {
+                  "nome": "PETER & FRENK SITUAZIONE AL 14_10_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/521sv6zsppqe6n97d50gz/PETER-FRENK-SITUAZIONE-AL-14_10_2022.pdf?rlkey=ympdskacuguquydc9crs6gcz6&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PETER & FRENK SITUAZIONE AL 14_10_2022.pdf"
+                },
+                {
+                  "nome": "PIEGARI SITUAZIONE AL 20_12_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hi62daos9dd8gnwftf3eq/PIEGARI-SITUAZIONE-AL-20_12_2024.pdf?rlkey=3g5ckra2lr1g39q0ycscf0opa&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PIEGARI SITUAZIONE AL 20_12_2024.pdf"
+                },
+                {
+                  "nome": "PIEGARI SITUAZIONE FT 2400426.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/p9b3qugrabwudacsm0651/PIEGARI-SITUAZIONE-FT-2400426.pdf?rlkey=17dol4uv6esajafmxcrg1ysbb&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PIEGARI SITUAZIONE FT 2400426.pdf"
+                },
+                {
+                  "nome": "PIZZ STOP SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ihbd356r4cyywj9hvm2en/PIZZ-STOP-SITUAZIONE-AL-28_05_2022.pdf?rlkey=7zb9xh23frn5hdlsmwr5yei66&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PIZZ STOP SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "PIZZ STOP Situazione Contabile CREDITI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0mbvlto2svyhtokubs4o7/PIZZ-STOP-Situazione-Contabile-CREDITI.pdf?rlkey=wbfzo22xvflyr8739e93hjq7e&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PIZZ STOP Situazione Contabile CREDITI.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì SITUAZIONE AL 12_11_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i33ea74l6jlk7pdjt3yrd/PIZZA-S-SITUAZIONE-AL-12_11_2024.pdf?rlkey=lj2gjnj0ni10kotbvfintse13&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PIZZA Sì SITUAZIONE AL 12_11_2024.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì SITUAZIONE AL 14_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6t9mg9zpa4856w791u5mt/PIZZA-S-SITUAZIONE-AL-14_02_2023.pdf?rlkey=b8jn7cdvz63j9qosu4k88npv1&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PIZZA Sì SITUAZIONE AL 14_02_2023.pdf"
+                },
+                {
+                  "nome": "PIZZERIA ROSTICCERIA LIBERATORE Situazione Contabile CREDITI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i89m6vg273kzexv99mbtu/PIZZERIA-ROSTICCERIA-LIBERATORE-Situazione-Contabile-CREDITI.pdf?rlkey=cswfftqceh8755u7xd887rwmo&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PIZZERIA ROSTICCERIA LIBERATORE Situazione Contabile CREDITI.pdf"
+                },
+                {
+                  "nome": "PREZIOSO SITUAZIONE AL 12_11_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/iuq2eceik9g0ikfuwdynm/PREZIOSO-SITUAZIONE-AL-12_11_2024.pdf?rlkey=q9t4mz0e5whre5uku28qq7dyo&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PREZIOSO SITUAZIONE AL 12_11_2024.pdf"
+                },
+                {
+                  "nome": "PREZIOSO SITUAZIONE AL 20_02_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ndwssm8qb4s2zgak3dg2p/PREZIOSO-SITUAZIONE-AL-20_02_2023.pdf?rlkey=ly2zh0jmhy4735u1vv44a7kjk&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PREZIOSO SITUAZIONE AL 20_02_2023.pdf"
+                },
+                {
+                  "nome": "PREZIOSO SITUAZIONE CONTABILE AL 10_03_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i1n2aqrlph71gr7w6cog9/PREZIOSO-SITUAZIONE-CONTABILE-AL-10_03_2022.pdf?rlkey=oyb394rzrq3y3b7zvukg1s8lp&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PREZIOSO SITUAZIONE CONTABILE AL 10_03_2022.pdf"
+                },
+                {
+                  "nome": "PREZIOSO SRL SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7oiexc0qblvlj1p3zbv9l/PREZIOSO-SRL-SITUAZIONE-AL-28_05_2022.pdf?rlkey=nk4d986xp158lmazatjj4jdaj&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PREZIOSO SRL SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "PREZIOSO Situazione Contabile AL 06_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/t2qlnh4vfnmxvlbasthhx/PREZIOSO-Situazione-Contabile-AL-06_09_2023.pdf?rlkey=ddn6i2ibenljnm5tmf43g20ak&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/PREZIOSO Situazione Contabile AL 06_09_2023.pdf"
+                },
+                {
+                  "nome": "Panificio FERRARO di SCHETTINI ANGELO A. Saldo contabile - C001233 _20251104_085335.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zy3inqxknkse44fn0h81v/Panificio-FERRARO-di-SCHETTINI-ANGELO-A.-Saldo-contabile-C001233-_20251104_085335.pdf?rlkey=zk1i9jh7oygkti2r6rm5d25m4&dl=0?raw=1",
+                  "dimensione_kb": 47,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Panificio FERRARO di SCHETTINI ANGELO A. Saldo contabile - C001233 _20251104_085335.pdf"
+                },
+                {
+                  "nome": "RISTORANTE ZA MARIUCCIA SITUAZIONE AL 04_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/spvccca1hq2e0cd38izx3/RISTORANTE-ZA-MARIUCCIA-SITUAZIONE-AL-04_08_2022.pdf?rlkey=pefx6yimzload0e65j4o365do&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/RISTORANTE ZA MARIUCCIA SITUAZIONE AL 04_08_2022.pdf"
+                },
+                {
+                  "nome": "ROSTICCERIA 'A FONTANA SITUAZIONE AL 4_09_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/96pscozsoizqxar9pj7cq/ROSTICCERIA-A-FONTANA-SITUAZIONE-AL-4_09_2024.pdf?rlkey=4lgp23vzmuen2qpxkun4bhbfk&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ROSTICCERIA 'A FONTANA SITUAZIONE AL 4_09_2024.pdf"
+                },
+                {
+                  "nome": "Ritardi crediti clienti 01_09_2025.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/ylv80bfnb3wcx5n5pk288/Ritardi-crediti-clienti-01_09_2025.xlsx?rlkey=afsh5annpekti7nglywm1s3on&dl=0?raw=1",
+                  "dimensione_kb": 20,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Ritardi crediti clienti 01_09_2025.xlsx"
+                },
+                {
+                  "nome": "Ritardi crediti clienti 21_08_2025.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/adpf12gntxbfdd2frhp0p/Ritardi-crediti-clienti-21_08_2025.xlsx?rlkey=l4jiz53w2wqu6lmzs7kzcxqwb&dl=0?raw=1",
+                  "dimensione_kb": 23,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Ritardi crediti clienti 21_08_2025.xlsx"
+                },
+                {
+                  "nome": "Ritardi crediti clienti 27_08_2025.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/49dfosyo4j4ssswm67nh5/Ritardi-crediti-clienti-27_08_2025.xlsx?rlkey=d42y823kbmiw3t1mbke9j1euj&dl=0?raw=1",
+                  "dimensione_kb": 22,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Ritardi crediti clienti 27_08_2025.xlsx"
+                },
+                {
+                  "nome": "SAFAR SITUAZIONE CONTABILE AL 3_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vukrjn7m1idwad6edrk95/SAFAR-SITUAZIONE-CONTABILE-AL-3_06_2023.pdf?rlkey=dwzyygczhsl2wrb9ai1jnnd4x&dl=0?raw=1",
+                  "dimensione_kb": 166,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/SAFAR SITUAZIONE CONTABILE AL 3_06_2023.pdf"
+                },
+                {
+                  "nome": "SANGINETO Situazione Contabile AL 01_09_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/70qtmw83o56al7fepagwc/SANGINETO-Situazione-Contabile-AL-01_09_2025.pdf?rlkey=odto9t6sa9br605mcmmxkuql9&dl=0?raw=1",
+                  "dimensione_kb": 156,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/SANGINETO Situazione Contabile AL 01_09_2025.pdf"
+                },
+                {
+                  "nome": "SIRTAKI SITUAZIONE AL 14_10_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/v11oniajbkirwrhwuyrzi/SIRTAKI-SITUAZIONE-AL-14_10_2022.pdf?rlkey=rl8fc0xt5z0i56tmu4h0fgu3e&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/SIRTAKI SITUAZIONE AL 14_10_2022.pdf"
+                },
+                {
+                  "nome": "SOC. AGRICOLA SAPORI ANTICHI AL 5_11_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cy00sisf3kqt4pdwnxacc/SOC.-AGRICOLA-SAPORI-ANTICHI-AL-5_11_2024.pdf?rlkey=t9nv3zvktbrhz49bztwheaczp&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/SOC. AGRICOLA SAPORI ANTICHI AL 5_11_2024.pdf"
+                },
+                {
+                  "nome": "SOC. AGRICOLA SAPORI ANTICHI SITUAZIONE AL 03_09_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1xlunn7ql5i9rkxzxdxgs/SOC.-AGRICOLA-SAPORI-ANTICHI-SITUAZIONE-AL-03_09_2024.pdf?rlkey=ee0j7hveyzufto5xn8ci1dl8k&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/SOC. AGRICOLA SAPORI ANTICHI SITUAZIONE AL 03_09_2024.pdf"
+                },
+                {
+                  "nome": "SOC. AGRICOLA SAPORI ANTICHI SITUAZIONE AL 15_07_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2jgq7c8eut5s69zv4knzv/SOC.-AGRICOLA-SAPORI-ANTICHI-SITUAZIONE-AL-15_07_2024.pdf?rlkey=p96i574pomaxez01dazm7yg6o&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/SOC. AGRICOLA SAPORI ANTICHI SITUAZIONE AL 15_07_2024.pdf"
+                },
+                {
+                  "nome": "SOC. COOP. MARATEA SERVIZI SITUAZIONE AL 01_09_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k1nz63mnsqyr8gqlnt0g2/SOC.-COOP.-MARATEA-SERVIZI-SITUAZIONE-AL-01_09_2023.pdf?rlkey=opqle5wknam2wu7ayhchwf2ni&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/SOC. COOP. MARATEA SERVIZI SITUAZIONE AL 01_09_2023.pdf"
+                },
+                {
+                  "nome": "SOC.COOP.MARATEA SERVIZI SITUAZIONE AL 28_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xu02359aav2vqfnde73k3/SOC.COOP.MARATEA-SERVIZI-SITUAZIONE-AL-28_06_2023.pdf?rlkey=r1hmc0ua8xylut6u33acnrmdz&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/SOC.COOP.MARATEA SERVIZI SITUAZIONE AL 28_06_2023.pdf"
+                },
+                {
+                  "nome": "SUPERMERCATO BELLO SITUAZIONE AL 3_09_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pvnb2j68xukpsh0wmnue8/SUPERMERCATO-BELLO-SITUAZIONE-AL-3_09_2024.pdf?rlkey=lm9ez0fg7hl2i67rnqdcv611r&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/SUPERMERCATO BELLO SITUAZIONE AL 3_09_2024.pdf"
+                },
+                {
+                  "nome": "SUPERMERCATO CRAI SITUAZIONE AL 17_12_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/e526440bxnyw0ydzpp1iv/SUPERMERCATO-CRAI-SITUAZIONE-AL-17_12_2024.pdf?rlkey=nor0f2eibj7cp74414pm1mws4&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/SUPERMERCATO CRAI SITUAZIONE AL 17_12_2024.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C000003 A.L.I.T.U.R. srl Campeggio Maratea_20250821_155807.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/iid3md4nhqu77jsl3zc4b/Saldo-contabile-C000003-A.L.I.T.U.R.-srl-Campeggio-Maratea_20250821_155807.pdf?rlkey=3n26y8h6219dc83mujxwi1php&dl=0?raw=1",
+                  "dimensione_kb": 48,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C000003 A.L.I.T.U.R. srl Campeggio Maratea_20250821_155807.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C000003 A.L.I.T.U.R. srl Campeggio Maratea_20250901_161038.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/32ccha1vaaa5btbmwa07e/Saldo-contabile-C000003-A.L.I.T.U.R.-srl-Campeggio-Maratea_20250901_161038.pdf?rlkey=l6u04vld369p9qnoqmsmrqtl6&dl=0?raw=1",
+                  "dimensione_kb": 48,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C000003 A.L.I.T.U.R. srl Campeggio Maratea_20250901_161038.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C000348 DELIZIE DEL FORNO di CANTISANI CARMELINA_20250822_170159.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ed6bgyl5rab0kxj2xd695/Saldo-contabile-C000348-DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA_20250822_170159.pdf?rlkey=96qmp7w2zn25b1m4r7u6hvlrp&dl=0?raw=1",
+                  "dimensione_kb": 46,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C000348 DELIZIE DEL FORNO di CANTISANI CARMELINA_20250822_170159.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C000405 SIRTAKI S.R.L.S_20250911_091844.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nke06be60nfx1wh53nthx/Saldo-contabile-C000405-SIRTAKI-S.R.L.S_20250911_091844.pdf?rlkey=zizdh11imzlmbphgtx0grige4&dl=0?raw=1",
+                  "dimensione_kb": 41,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C000405 SIRTAKI S.R.L.S_20250911_091844.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C000468 GESTIONI TURISTICHE LA TORRE SRL_20250901_163758.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/314q0hbafryjfkrw843e9/Saldo-contabile-C000468-GESTIONI-TURISTICHE-LA-TORRE-SRL_20250901_163758.pdf?rlkey=u8si5wtaa21itzexhlmaqduxv&dl=0?raw=1",
+                  "dimensione_kb": 46,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C000468 GESTIONI TURISTICHE LA TORRE SRL_20250901_163758.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C000522 LA TANA GROUP SRL_20250901_180802.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/iq8snk7t9pblqdj5m5zoc/Saldo-contabile-C000522-LA-TANA-GROUP-SRL_20250901_180802.pdf?rlkey=qfsdcydkc5dkbobbot8ldwfei&dl=0?raw=1",
+                  "dimensione_kb": 45,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C000522 LA TANA GROUP SRL_20250901_180802.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C000876 3AM SRL HOTEL MARTINO_20250821_154311.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/h5ci8zo3t7jq8xggt09g2/Saldo-contabile-C000876-3AM-SRL-HOTEL-MARTINO_20250821_154311.pdf?rlkey=wzxi8q63sdn9hcn8pfujzvgw4&dl=0?raw=1",
+                  "dimensione_kb": 42,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C000876 3AM SRL HOTEL MARTINO_20250821_154311.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C001201 LANTERNA VERDE di RUGGIERO SALVATORE_20250901_165133.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1qodsajjk8lbgxk8sq332/Saldo-contabile-C001201-LANTERNA-VERDE-di-RUGGIERO-SALVATORE_20250901_165133.pdf?rlkey=k714grid2vq5tb9gdq5dif8el&dl=0?raw=1",
+                  "dimensione_kb": 49,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C001201 LANTERNA VERDE di RUGGIERO SALVATORE_20250901_165133.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C001201 LANTERNA VERDE di RUGGIERO SALVATORE_20250909_110106.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/x0v082irca9x6ukhccwc0/Saldo-contabile-C001201-LANTERNA-VERDE-di-RUGGIERO-SALVATORE_20250909_110106.pdf?rlkey=6fcbpt6r65odrwvz80lk1i8rz&dl=0?raw=1",
+                  "dimensione_kb": 44,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C001201 LANTERNA VERDE di RUGGIERO SALVATORE_20250909_110106.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C001261 CARNI LIMONGI SRL_20250821_164154.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/08cax9v9nmi6nmx6kync0/Saldo-contabile-C001261-CARNI-LIMONGI-SRL_20250821_164154.pdf?rlkey=fxj2at02jartsytm489hovm4u&dl=0?raw=1",
+                  "dimensione_kb": 46,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C001261 CARNI LIMONGI SRL_20250821_164154.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C001320 HAPPY MOMENTS RESTAURANT & SERVICE S.R.L._20250905_123805.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i6zhzszfk7uoya1u7siy5/Saldo-contabile-C001320-HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L._20250905_123805.pdf?rlkey=x8o2d1vnd2bdpfpjwr109tdc0&dl=0?raw=1",
+                  "dimensione_kb": 50,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C001320 HAPPY MOMENTS RESTAURANT & SERVICE S.R.L._20250905_123805.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C050609 TURIST CALABRIA SRL LA MANTINERA_20250909_090639.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hgye20fkil1t3ahzw5lf3/Saldo-contabile-C050609-TURIST-CALABRIA-SRL-LA-MANTINERA_20250909_090639.pdf?rlkey=uamyrlr0qarxbaz8pl1eippxs&dl=0?raw=1",
+                  "dimensione_kb": 41,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C050609 TURIST CALABRIA SRL LA MANTINERA_20250909_090639.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C050729 ACQUARIO srls_20250821_161633.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/sk7hpas3nprkq6q4zrc3y/Saldo-contabile-C050729-ACQUARIO-srls_20250821_161633.pdf?rlkey=8hyvaa80aefnm4zogton596sk&dl=0?raw=1",
+                  "dimensione_kb": 47,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C050729 ACQUARIO srls_20250821_161633.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C050795 SOCIETA AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA_20250901_175942.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/snbjwhtlr9hh3tsgdf4lp/Saldo-contabile-C050795-SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA_20250901_175942.pdf?rlkey=5tcoet8ebdk8vorshwh66m79p&dl=0?raw=1",
+                  "dimensione_kb": 47,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C050795 SOCIETA AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA_20250901_175942.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C051489 DIMAC SRL_20250821_171613.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pmfqc1rxfvb0f25epuv3e/Saldo-contabile-C051489-DIMAC-SRL_20250821_171613.pdf?rlkey=vveelelpsk2j8dtjga7641yj6&dl=0?raw=1",
+                  "dimensione_kb": 45,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C051489 DIMAC SRL_20250821_171613.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C051539 CALA DEL CITRO S.R.L.S._20250821_163629.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zzt4z4jlrfpic43j8l27n/Saldo-contabile-C051539-CALA-DEL-CITRO-S.R.L.S._20250821_163629.pdf?rlkey=d1lnmuccpoi2i63h3zg7c6ijy&dl=0?raw=1",
+                  "dimensione_kb": 116,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C051539 CALA DEL CITRO S.R.L.S._20250821_163629.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C051638 LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO_20250909_132232.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/293lbrxzyzu54vqojssm9/Saldo-contabile-C051638-LA-PIEDIGROTTA-RISTORANTE-PIZZERIA-di-PASQUALE-AURELIO_20250909_132232.pdf?rlkey=j70c8fp87xqd66l2p43dm4zdm&dl=0?raw=1",
+                  "dimensione_kb": 42,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C051638 LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO_20250909_132232.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C051685 TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO_20251014_092328.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k853hnhgsusbjgvego561/Saldo-contabile-C051685-TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO_20251014_092328.pdf?rlkey=1hlndac06uywhj9mb0tkw85k0&dl=0?raw=1",
+                  "dimensione_kb": 41,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C051685 TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO_20251014_092328.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - C051685 TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO_20251014_093426.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jeuzjpnnhbfivks0p22qp/Saldo-contabile-C051685-TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO_20251014_093426.pdf?rlkey=6lgyqtc420wbkhbpj55lnru8e&dl=0?raw=1",
+                  "dimensione_kb": 41,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - C051685 TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO_20251014_093426.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - CO51719 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA_20250821_163110.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/44eug9ex2pcnk04csjk42/Saldo-contabile-CO51719-BELLAVISTA-BAR-RISTORANTE-PIZZERIA-di-PAPA-MICHELA_20250821_163110.pdf?rlkey=xq6hv5e6h09njgoq6urc3hngo&dl=0?raw=1",
+                  "dimensione_kb": 46,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - CO51719 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA_20250821_163110.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - CO51863 IL LUCANO SRLS_20250904_115437.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dl765lsasiurr23iqag31/Saldo-contabile-CO51863-IL-LUCANO-SRLS_20250904_115437.pdf?rlkey=x3qashkj4tb7akekomz7x8k3r&dl=0?raw=1",
+                  "dimensione_kb": 45,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - CO51863 IL LUCANO SRLS_20250904_115437.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - CO51931 DIPA di PACCHIANO LUCA & C. sas_20250822_175433.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9fjkvwt4ux5p0gq6q056j/Saldo-contabile-CO51931-DIPA-di-PACCHIANO-LUCA-C.-sas_20250822_175433.pdf?rlkey=hgw9celuy6ntfriy0ayfc6m5q&dl=0?raw=1",
+                  "dimensione_kb": 47,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - CO51931 DIPA di PACCHIANO LUCA & C. sas_20250822_175433.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - CO51971 CIDO SRL_20250821_165204.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6o6be3f7v7c1q3z8lwrr1/Saldo-contabile-CO51971-CIDO-SRL_20250821_165204.pdf?rlkey=q84wmon7p05vnzdiy1e0riy5n&dl=0?raw=1",
+                  "dimensione_kb": 46,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - CO51971 CIDO SRL_20250821_165204.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - CO52082 ANTICA TRATTORIA A TAVERNA di SANDOLO ROSETTA_20250909_085552.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xth9efr4r82ng60ffzil5/Saldo-contabile-CO52082-ANTICA-TRATTORIA-A-TAVERNA-di-SANDOLO-ROSETTA_20250909_085552.pdf?rlkey=bg5c48imr2i7xzzi6ujn9k37f&dl=0?raw=1",
+                  "dimensione_kb": 43,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - CO52082 ANTICA TRATTORIA A TAVERNA di SANDOLO ROSETTA_20250909_085552.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - CO52190 CORRADO MICHELA_20251014_090814.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/web5jplq0ykiwawevmk6v/Saldo-contabile-CO52190-CORRADO-MICHELA_20251014_090814.pdf?rlkey=rroezpnomjg2coonbwq4q1f9j&dl=0?raw=1",
+                  "dimensione_kb": 43,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - CO52190 CORRADO MICHELA_20251014_090814.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - CO52232 WINE AND SPIRITS LAB SRL_20250911_100826.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/voqnbv1ksyics2qlppxx8/Saldo-contabile-CO52232-WINE-AND-SPIRITS-LAB-SRL_20250911_100826.pdf?rlkey=68rku2m6bmkxxrcycbcv7sh3p&dl=0?raw=1",
+                  "dimensione_kb": 92,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - CO52232 WINE AND SPIRITS LAB SRL_20250911_100826.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - CO52368 4.0 SRLS YUMARA_20250904_114938.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yz0fkie2wd8hmzi61b3az/Saldo-contabile-CO52368-4.0-SRLS-YUMARA_20250904_114938.pdf?rlkey=tby1j3pyk3k052hq62p0z700t&dl=0?raw=1",
+                  "dimensione_kb": 47,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - CO52368 4.0 SRLS YUMARA_20250904_114938.pdf"
+                },
+                {
+                  "nome": "Saldo contabile - CO52436_ H2O SRL.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/newrndg7c6w2540oiuz3w/Saldo-contabile-CO52436_-H2O-SRL.xlsx?rlkey=fp9qzhzm73ps6krgji788uyc5&dl=0?raw=1",
+                  "dimensione_kb": 12,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - CO52436_ H2O SRL.xlsx"
+                },
+                {
+                  "nome": "Saldo contabile - CO52648 PROLOCO LAINO CASTELLO_20250901_170055.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pvlgzt7tc2qlmu5qc60px/Saldo-contabile-CO52648-PROLOCO-LAINO-CASTELLO_20250901_170055.pdf?rlkey=mfq86l39mxj6xxxqf82hbhm04&dl=0?raw=1",
+                  "dimensione_kb": 43,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Saldo contabile - CO52648 PROLOCO LAINO CASTELLO_20250901_170055.pdf"
+                },
+                {
+                  "nome": "Situazione Contabile CREDITI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d76prh5btvbna8tpv36xv/Situazione-Contabile-CREDITI.pdf?rlkey=fwdl2tu65f7syppif44by7frg&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/Situazione Contabile CREDITI.pdf"
+                },
+                {
+                  "nome": "TAVERNA DEL BUONGUSTAIO RIEPILOGO DEL 27_07_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/f1u3fvhhpr0qdcfhp8yo6/TAVERNA-DEL-BUONGUSTAIO-RIEPILOGO-DEL-27_07_2023.pdf?rlkey=36ijxrvl05txbl8n7u31mihc1&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/TAVERNA DEL BUONGUSTAIO RIEPILOGO DEL 27_07_2023.pdf"
+                },
+                {
+                  "nome": "TAVERNA ROVITA Fattura di vendita_220524_20220811_162735.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/znkmiyyfgdo8rywehznrt/TAVERNA-ROVITA-Fattura-di-vendita_220524_20220811_162735.pdf?rlkey=kipq3jdwhrjpfkgzvwuakxshe&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/TAVERNA ROVITA Fattura di vendita_220524_20220811_162735.pdf"
+                },
+                {
+                  "nome": "TAVERNA ROVITA Fattura di vendita_220525_20220811_162634.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/w4jih7exb5nh1l15nid0z/TAVERNA-ROVITA-Fattura-di-vendita_220525_20220811_162634.pdf?rlkey=nqgqemn4dh0zk6uflmabmugv7&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/TAVERNA ROVITA Fattura di vendita_220525_20220811_162634.pdf"
+                },
+                {
+                  "nome": "TAVERNA ROVITA SITUAZIONE CONTABILE AL 11_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/uypeldin418mv3pc6uk6y/TAVERNA-ROVITA-SITUAZIONE-CONTABILE-AL-11_08_2022.pdf?rlkey=2vfqh1hszhq9uzs3flcb2qjv9&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/TAVERNA ROVITA SITUAZIONE CONTABILE AL 11_08_2022.pdf"
+                },
+                {
+                  "nome": "ULV Situazione Contabile AL 7_07_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vxrnrblwpql553t6dg0t5/ULV-Situazione-Contabile-AL-7_07_2025.pdf?rlkey=f2igmnrip1pmdiow12q4bx5ep&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ULV Situazione Contabile AL 7_07_2025.pdf"
+                },
+                {
+                  "nome": "VELARDI SITUAZIONE AL 28_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m2is34274kv50y1eikyky/VELARDI-SITUAZIONE-AL-28_05_2022.pdf?rlkey=ahezgrkkckuuusqjgutcjl2g3&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/VELARDI SITUAZIONE AL 28_05_2022.pdf"
+                },
+                {
+                  "nome": "VELARDI SITUAZIONE CONTABILE AL 23_03_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zej0ilis1ldejva3r467g/VELARDI-SITUAZIONE-CONTABILE-AL-23_03_2022.pdf?rlkey=jw5s3jzxqg8ivg6uy7pc6jbux&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/VELARDI SITUAZIONE CONTABILE AL 23_03_2022.pdf"
+                },
+                {
+                  "nome": "VELARDI SRL SITUAZIONE AL 03_09_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fqbna2qgzmn92h0iwk59d/VELARDI-SRL-SITUAZIONE-AL-03_09_2024.pdf?rlkey=fel55ih28day5wvcuhh2rzt83&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/VELARDI SRL SITUAZIONE AL 03_09_2024.pdf"
+                },
+                {
+                  "nome": "VELARDI SRL SITUAZIONE AL 4_05_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0joka9j45b85builo12fc/VELARDI-SRL-SITUAZIONE-AL-4_05_2022.pdf?rlkey=tmdgokn64i3605t2cl29siuih&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/VELARDI SRL SITUAZIONE AL 4_05_2022.pdf"
+                },
+                {
+                  "nome": "VELARDI SRL SITUAZIONE CONTABILE AL 3_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/h729fdacmr1a5b3t2bvve/VELARDI-SRL-SITUAZIONE-CONTABILE-AL-3_06_2023.pdf?rlkey=ldio6of6fs9hnjri7ahx0qeaw&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/VELARDI SRL SITUAZIONE CONTABILE AL 3_06_2023.pdf"
+                },
+                {
+                  "nome": "VIRGILIO SRL SITUAZIONE AL 19_09_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/b0acjkpqek0m02f2yxgj2/VIRGILIO-SRL-SITUAZIONE-AL-19_09_2022.pdf?rlkey=mie4hb0xv4n0d3d05tkql5o0f&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/VIRGILIO SRL SITUAZIONE AL 19_09_2022.pdf"
+                },
+                {
+                  "nome": "ZA MARIUCCIA SITUAZIONE AL 26_08_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/y4fagl8n9hoyksst5jf2o/ZA-MARIUCCIA-SITUAZIONE-AL-26_08_2022.pdf?rlkey=0ciqr59fxd4o3zc7gcty7so6d&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ZA MARIUCCIA SITUAZIONE AL 26_08_2022.pdf"
+                },
+                {
+                  "nome": "ZACCAGNINO RISTORAZIONE situazione contabile al 30_04_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7istuq3bekz5j60rhisur/ZACCAGNINO-RISTORAZIONE-situazione-contabile-al-30_04_2025.pdf?rlkey=gn6omf7u5o3cgx8wfbnkdurvy&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/ZACCAGNINO RISTORAZIONE situazione contabile al 30_04_2025.pdf"
+                },
+                {
+                  "nome": "caffetteria da cecilia situazione al 15_04_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wguuw1c6ccwyctmg045kx/caffetteria-da-cecilia-situazione-al-15_04_2025.pdf?rlkey=enku1u4wanodqzbekkf8mll1o&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/caffetteria da cecilia situazione al 15_04_2025.pdf"
+                },
+                {
+                  "nome": "happy cafe' situazione al 13_02_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/77sb6dwktsfnnoebxs9u3/happy-cafe-situazione-al-13_02_2025.pdf?rlkey=n2bfummu2avxiuh1o8bpk8xmw&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/happy cafe' situazione al 13_02_2025.pdf"
+                }
+              ],
+              "_totale_file": 312
+            }
+          ],
+          "file": [
+            {
+              "nome": "3AM SRL HOTEL MARTINO Saldo contabile - C000876 _20260204_174150.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8jx9zncatsn0zryl2nbip/3AM-SRL-HOTEL-MARTINO-Saldo-contabile-C000876-_20260204_174150.pdf?rlkey=dvl64v1stb4i8erqn02buxeau&dl=0?raw=1",
+              "dimensione_kb": 45,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/3AM SRL HOTEL MARTINO Saldo contabile - C000876 _20260204_174150.pdf"
+            },
+            {
+              "nome": "CALA DEL CITRO FATTURA DA RICEVERE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7bt6k080tb9862n5ligcv/CALA-DEL-CITRO-FATTURA-DA-RICEVERE.pdf?rlkey=0t6sifycud5xast07czldtkn2&dl=0?raw=1",
+              "dimensione_kb": 149,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/CALA DEL CITRO FATTURA DA RICEVERE.pdf"
+            },
+            {
+              "nome": "CANNAZZARO SRL_Saldo contabile _AL 22_12_2025.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hrc0vnv0dw1m8q0li6xp6/CANNAZZARO-SRL_Saldo-contabile-_AL-22_12_2025.pdf?rlkey=mtj7w2wmpo5w19x6wqc82cxvz&dl=0?raw=1",
+              "dimensione_kb": 46,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/CANNAZZARO SRL_Saldo contabile _AL 22_12_2025.pdf"
+            },
+            {
+              "nome": "GRUPPO PALMIERI SITUAZIONE CONTABILE AL 14_02_2023.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7wel809j4afte4wmvvj13/GRUPPO-PALMIERI-SITUAZIONE-CONTABILE-AL-14_02_2023.pdf?rlkey=8xwtmmqu5yfx6weh9qzxamyi8&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/GRUPPO PALMIERI SITUAZIONE CONTABILE AL 14_02_2023.pdf"
+            },
+            {
+              "nome": "IL MORO Situazione Contabile al 14_12_2023.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rkcgq2thf2pbcfru9m699/IL-MORO-Situazione-Contabile-al-14_12_2023.pdf?rlkey=cimoxp5yt2b66huj7ojldp546&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/IL MORO Situazione Contabile al 14_12_2023.pdf"
+            },
+            {
+              "nome": "JOEL Situazione Contabile CREDITI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6e0fzhyw2dum598m729g3/JOEL-Situazione-Contabile-CREDITI.pdf?rlkey=oocrlntrjdvv979z0i11cvt19&dl=0?raw=1",
+              "dimensione_kb": 146,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/JOEL Situazione Contabile CREDITI.pdf"
+            },
+            {
+              "nome": "LAVINIUM SITUAZIONE CONTABILE AL 14_02_2023.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0kdyniypejgsmtgz6uiq4/LAVINIUM-SITUAZIONE-CONTABILE-AL-14_02_2023.pdf?rlkey=pkpshul3p1j9ilpp1ouaoqdsh&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/LAVINIUM SITUAZIONE CONTABILE AL 14_02_2023.pdf"
+            },
+            {
+              "nome": "MICELI LUIGI SITUAZIONE AL 29_08_2022.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/z79ttvv08f0sv2zwdhkdd/MICELI-LUIGI-SITUAZIONE-AL-29_08_2022.pdf?rlkey=i8nz1z0gk62mnhd6m5q2olytd&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/MICELI LUIGI SITUAZIONE AL 29_08_2022.pdf"
+            },
+            {
+              "nome": "MORRONE Situazione Contabile DEL 11_07_2023.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/k5mosp7fh2evotw61v37j/MORRONE-Situazione-Contabile-DEL-11_07_2023.pdf?rlkey=hwwp5e8y2gw6bb9b4d3qqzquw&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/MORRONE Situazione Contabile DEL 11_07_2023.pdf"
+            },
+            {
+              "nome": "NERA Situazione Contabile AL 24_09_2025.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oqcems05kbszknf5e5tob/NERA-Situazione-Contabile-AL-24_09_2025.pdf?rlkey=7yr69g3lkuel7a8hp6fx9it1y&dl=0?raw=1",
+              "dimensione_kb": 149,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/NERA Situazione Contabile AL 24_09_2025.pdf"
+            },
+            {
+              "nome": "SUPERMERCATO BELLO SITUAZIONE AL 03_05_2025.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ngakbwxs59gxnda5dxm0a/SUPERMERCATO-BELLO-SITUAZIONE-AL-03_05_2025.pdf?rlkey=1xjjwxrqcody95fksn8pfbzpy&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/SUPERMERCATO BELLO SITUAZIONE AL 03_05_2025.pdf"
+            },
+            {
+              "nome": "Saldo contabile - C000202 VILLA TERRY di CARLOMAGNO BIAGIO_20260216_130232.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1o0fclv67pgunm089wil5/Saldo-contabile-C000202-VILLA-TERRY-di-CARLOMAGNO-BIAGIO_20260216_130232.pdf?rlkey=vzh3mmspqktejxg3kokh2k4e1&dl=0?raw=1",
+              "dimensione_kb": 46,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - C000202 VILLA TERRY di CARLOMAGNO BIAGIO_20260216_130232.pdf"
+            },
+            {
+              "nome": "Saldo contabile - C000334 DE MARE FRANCO_20250822_175705.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yh4x2ptli0xszd2siwdnu/Saldo-contabile-C000334-DE-MARE-FRANCO_20250822_175705.pdf?rlkey=jsgfn987ah7omeas257rdwbjy&dl=0?raw=1",
+              "dimensione_kb": 45,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - C000334 DE MARE FRANCO_20250822_175705.pdf"
+            },
+            {
+              "nome": "Saldo contabile - C000348 DELIZIE DEL FORNO di CANTISANI CARMELINA_20260204_175923.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g57bnlcx8h1x6kd9m6phv/Saldo-contabile-C000348-DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA_20260204_175923.pdf?rlkey=f7boenea7k2s5fo6tah0v9jg9&dl=0?raw=1",
+              "dimensione_kb": 46,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - C000348 DELIZIE DEL FORNO di CANTISANI CARMELINA_20260204_175923.pdf"
+            },
+            {
+              "nome": "Saldo contabile - C000524 HOTEL SAN DOMENICO di CRECCA MARIANO_20260204_200117.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/atjxp67bb6s9xwv08qm6r/Saldo-contabile-C000524-HOTEL-SAN-DOMENICO-di-CRECCA-MARIANO_20260204_200117.pdf?rlkey=1jdz2r2kipljg5fumqrzu3pfd&dl=0?raw=1",
+              "dimensione_kb": 44,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - C000524 HOTEL SAN DOMENICO di CRECCA MARIANO_20260204_200117.pdf"
+            },
+            {
+              "nome": "Saldo contabile - C001308 SOC. COOP. MARATEA SERVIZI A.R.L._20250901_130036.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/va4rrlsbfim8w9q4eooge/Saldo-contabile-C001308-SOC.-COOP.-MARATEA-SERVIZI-A.R.L._20250901_130036.pdf?rlkey=5cto6km4wv0bya30rf8xcvk2o&dl=0?raw=1",
+              "dimensione_kb": 46,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - C001308 SOC. COOP. MARATEA SERVIZI A.R.L._20250901_130036.pdf"
+            },
+            {
+              "nome": "Saldo contabile - CO52001 JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO_20260216_115700.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sg9v57h5dmjc51uasqkcc/Saldo-contabile-CO52001-JOEL-IN-MILLE-MISTURE-DI-LAMBOGLIA-GIACOMO_20260216_115700.pdf?rlkey=bhfjhbklweubguk28iculg43x&dl=0?raw=1",
+              "dimensione_kb": 46,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - CO52001 JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO_20260216_115700.pdf"
+            },
+            {
+              "nome": "Saldo contabile - CO52305 A&M COMPANY DI ALAGIA ANDREA MAURONE AGOSTINO & C. S.N.C._20260204_174527.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/q682c03o2xmiiin60hzo7/Saldo-contabile-CO52305-A-M-COMPANY-DI-ALAGIA-ANDREA-MAURONE-AGOSTINO-C.-S.N.C._20260204_174527.pdf?rlkey=pzooaqof2inht3oyw2e2i7bqq&dl=0?raw=1",
+              "dimensione_kb": 46,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - CO52305 A&M COMPANY DI ALAGIA ANDREA MAURONE AGOSTINO & C. S.N.C._20260204_174527.pdf"
+            }
+          ],
+          "_totale_file": 330
+        },
+        {
+          "nome": "DEBITI",
+          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/DEBITI",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "Fattura_0000005300347832.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/v3g9t5gq6ucm81eq29me2/Fattura_0000005300347832.pdf?rlkey=4rcavxdv1pnd58pqcnpapguno&dl=0?raw=1",
+              "dimensione_kb": 388,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/DEBITI/Fattura_0000005300347832.pdf"
+            },
+            {
+              "nome": "VICECONTI ENEL FORNITURA CESSATA.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/dcer4juz564pxr37qwzfh/VICECONTI-ENEL-FORNITURA-CESSATA.png?rlkey=x6ntzt6tk6igdd4jolo3peip1&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/DEBITI/VICECONTI ENEL FORNITURA CESSATA.png"
+            },
+            {
+              "nome": "VICECONTIG-VICECONTIG_[Raccomandata_26020216200876].tn.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mkh3mz3y5txydbgqqe364/VICECONTIG-VICECONTIG_-Raccomandata_26020216200876-.tn.pdf?rlkey=o1mzo9kznbask6iq0e6kr37qf&dl=0?raw=1",
+              "dimensione_kb": 197,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/DEBITI/VICECONTIG-VICECONTIG_[Raccomandata_26020216200876].tn.pdf"
+            }
+          ],
+          "_totale_file": 3
         }
       ],
       "file": []
