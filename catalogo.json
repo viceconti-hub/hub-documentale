@@ -1,8 +1,8 @@
 {
   "versione": "2.0",
-  "generato": "2026-03-03T09:41:59Z",
-  "totale_file": 5823,
-  "totale_sezioni": 2,
+  "generato": "2026-03-03T09:43:12Z",
+  "totale_file": 5867,
+  "totale_sezioni": 3,
   "sezioni": [
     {
       "nome": "VENDITE",
@@ -60434,6 +60434,400 @@
         }
       ],
       "file": []
+    },
+    {
+      "nome": "VICECONTI SNC",
+      "descrizione": "Documenti aziendali, formazione e comunicazione",
+      "icona": "🏢",
+      "totale_file": 44,
+      "cartelle": [
+        {
+          "nome": "ARCHIVIO DOCUMENTI",
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/ARCHIVIO DOCUMENTI",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "VICECONTI ANTONIO C.I. SCADENZA 2024.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7ekt7ug2wpim9agszpn7l/VICECONTI-ANTONIO-C.I.-SCADENZA-2024.pdf?rlkey=jcr0xtjsj2ja88l88dhgjvd7u&dl=0?raw=1",
+              "dimensione_kb": 1154,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/ARCHIVIO DOCUMENTI/VICECONTI ANTONIO C.I. SCADENZA 2024.pdf"
+            }
+          ],
+          "_totale_file": 1
+        },
+        {
+          "nome": "ARCHIVIO VISURA ORDINARIA VICECONTI SNC",
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/ARCHIVIO VISURA ORDINARIA VICECONTI SNC",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "VICECONTI SNC VISURA DEL 05 MAGGIO 2013.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/x3ergb78tj8ady78mlbl8/VICECONTI-SNC-VISURA-DEL-05-MAGGIO-2013.pdf?rlkey=7zfaodzvl9e9k31rwsvvccs5a&dl=0?raw=1",
+              "dimensione_kb": 103,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/ARCHIVIO VISURA ORDINARIA VICECONTI SNC/VICECONTI SNC VISURA DEL 05 MAGGIO 2013.pdf"
+            },
+            {
+              "nome": "VICECONTI SNC visura ordinaria 05 aprile 2016.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5sr7aejwwcr5dmultonmz/VICECONTI-SNC-visura-ordinaria-05-aprile-2016.pdf?rlkey=o21n4l6sjv8nsouik1y5j4abb&dl=0?raw=1",
+              "dimensione_kb": 3335,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/ARCHIVIO VISURA ORDINARIA VICECONTI SNC/VICECONTI SNC visura ordinaria 05 aprile 2016.pdf"
+            },
+            {
+              "nome": "VICECONTI SNC visura ordinaria 15 LUGLIO 2019.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f69cwxncewvsajtdl55vq/VICECONTI-SNC-visura-ordinaria-15-LUGLIO-2019.pdf?rlkey=d603kt57rwu1onfiagqs9rxca&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/ARCHIVIO VISURA ORDINARIA VICECONTI SNC/VICECONTI SNC visura ordinaria 15 LUGLIO 2019.pdf"
+            },
+            {
+              "nome": "VICECONTI SNC visura ordinaria 18 febbraio 2022.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sselo71vmoomv69o9twkd/VICECONTI-SNC-visura-ordinaria-18-febbraio-2022.pdf?rlkey=hgf3wbff4l2i4j65yg2lds8d2&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/ARCHIVIO VISURA ORDINARIA VICECONTI SNC/VICECONTI SNC visura ordinaria 18 febbraio 2022.pdf"
+            }
+          ],
+          "_totale_file": 4
+        },
+        {
+          "nome": "GREEN PASS",
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/GREEN PASS",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "GREEN PASS VICECONTI ANTONIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lo74s20wgdxhy2gblhzte/GREEN-PASS-VICECONTI-ANTONIO.pdf?rlkey=8g1vhcq8cxrxphjn70jsway6n&dl=0?raw=1",
+              "dimensione_kb": 45,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/GREEN PASS/GREEN PASS VICECONTI ANTONIO.pdf"
+            },
+            {
+              "nome": "VICECONTI FRANCESCA dgc-certificate-1628441219676.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fvxynd7ika7q6qhijn5j0/VICECONTI-FRANCESCA-dgc-certificate-1628441219676.pdf?rlkey=ngbbyvprdui34or7l045zlmw4&dl=0?raw=1",
+              "dimensione_kb": 45,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/GREEN PASS/VICECONTI FRANCESCA dgc-certificate-1628441219676.pdf"
+            },
+            {
+              "nome": "VICECONTI GIUSEPPE dgc-certificate-1628441768167.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jla1xy763sdlgswtbe1ue/VICECONTI-GIUSEPPE-dgc-certificate-1628441768167.pdf?rlkey=ece4s4rrgli69j6jpmu5f9elw&dl=0?raw=1",
+              "dimensione_kb": 45,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/GREEN PASS/VICECONTI GIUSEPPE dgc-certificate-1628441768167.pdf"
+            },
+            {
+              "nome": "VICECONTI PROSPERO dgc-certificate-1628442346112.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/69zabwiscl2czemh2p1a1/VICECONTI-PROSPERO-dgc-certificate-1628442346112.pdf?rlkey=wpjeuqych6230miktl2vv94wu&dl=0?raw=1",
+              "dimensione_kb": 45,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/GREEN PASS/VICECONTI PROSPERO dgc-certificate-1628442346112.pdf"
+            }
+          ],
+          "_totale_file": 4
+        },
+        {
+          "nome": "LIBERATORIE",
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/LIBERATORIE",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "AGRITURISMO COCCOVELLO LIBERATORIA VICECONTI SNC.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/atarppclfqgex71tcazj7/AGRITURISMO-COCCOVELLO-LIBERATORIA-VICECONTI-SNC.pdf?rlkey=2fe6xfk7koz0de0vvqrqmv67b&dl=0?raw=1",
+              "dimensione_kb": 787,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/LIBERATORIE/AGRITURISMO COCCOVELLO LIBERATORIA VICECONTI SNC.pdf"
+            },
+            {
+              "nome": "AGRITURISMO COCCOVELLO LIBERATORIA VICEONTI SNC.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/fwgiv8jj1p3fu1d7m1w00/AGRITURISMO-COCCOVELLO-LIBERATORIA-VICEONTI-SNC.docx?rlkey=q66w2zeyogr8hxfzcdiqezpcq&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/LIBERATORIE/AGRITURISMO COCCOVELLO LIBERATORIA VICEONTI SNC.docx"
+            }
+          ],
+          "_totale_file": 2
+        }
+      ],
+      "file": [
+        {
+          "nome": "FIRMA C.jpg",
+          "tipo": "Immagine",
+          "icona": "🖼️",
+          "link": "https://www.dropbox.com/scl/fi/g479nbp920pownlhvcizx/FIRMA-C.jpg?rlkey=ig9yelhk87ffqewabgncs4pob&dl=0?raw=1",
+          "dimensione_kb": 7,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/FIRMA C.jpg"
+        },
+        {
+          "nome": "VICECONTI ANTONIO C.I. SCADENZA 2034.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/4o8zvkwydra17mlbctnxi/VICECONTI-ANTONIO-C.I.-SCADENZA-2034.pdf?rlkey=vkpqon23xf79v2akspslceftt&dl=0?raw=1",
+          "dimensione_kb": 111,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI ANTONIO C.I. SCADENZA 2034.pdf"
+        },
+        {
+          "nome": "VICECONTI ANTONIO PATENTE SCADENZA 28_08_2028.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/vvyz5m4v1g0a94d1n17nr/VICECONTI-ANTONIO-PATENTE-SCADENZA-28_08_2028.pdf?rlkey=qc6db48nsf1qeo5wsix3z4p2h&dl=0?raw=1",
+          "dimensione_kb": 2247,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI ANTONIO PATENTE SCADENZA 28_08_2028.pdf"
+        },
+        {
+          "nome": "VICECONTI ANTONIO Tessera Sanitaria SCADENZA 2027.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/wyhm5u1chllhiwdok4qyp/VICECONTI-ANTONIO-Tessera-Sanitaria-SCADENZA-2027.pdf?rlkey=kddchcojqrh2gfbrfamz49h0f&dl=0?raw=1",
+          "dimensione_kb": 193,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI ANTONIO Tessera Sanitaria SCADENZA 2027.pdf"
+        },
+        {
+          "nome": "VICECONTI FRANCESCA C.I. E TESSERA SANITARIA SCADENZA 2027 .pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/orsokzgws8tn9fikistde/VICECONTI-FRANCESCA-C.I.-E-TESSERA-SANITARIA-SCADENZA-2027.pdf?rlkey=tq80z9oure3x8why30uikf933&dl=0?raw=1",
+          "dimensione_kb": 500,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI FRANCESCA C.I. E TESSERA SANITARIA SCADENZA 2027 .pdf"
+        },
+        {
+          "nome": "VICECONTI GIUSEPPE C.I.+Tessera Sanitaria scadenza 2027.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/rbrapdeqvhc3m7r3fxxte/VICECONTI-GIUSEPPE-C.I.-Tessera-Sanitaria-scadenza-2027.pdf?rlkey=2c1ylo3r107n0nrfl6nie63mo&dl=0?raw=1",
+          "dimensione_kb": 4564,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI GIUSEPPE C.I.+Tessera Sanitaria scadenza 2027.pdf"
+        },
+        {
+          "nome": "VICECONTI PROSPERO C.I. SCADENZA 14_05_2027.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/k0c0f5vm52lonfivt624m/VICECONTI-PROSPERO-C.I.-SCADENZA-14_05_2027.pdf?rlkey=ou4ouvo61bxz2jcnicvvbf1dn&dl=0?raw=1",
+          "dimensione_kb": 264,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI PROSPERO C.I. SCADENZA 14_05_2027.pdf"
+        },
+        {
+          "nome": "VICECONTI PROSPERO C.I. SCADENZA 2027.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/rixdncsuxu06c4vefn94f/VICECONTI-PROSPERO-C.I.-SCADENZA-2027.pdf?rlkey=8kg2x9im01mqp7w31ibo0ufn3&dl=0?raw=1",
+          "dimensione_kb": 576,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI PROSPERO C.I. SCADENZA 2027.pdf"
+        },
+        {
+          "nome": "VICECONTI PROSPERO PATENTE SCADENZA 2028.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/v5x49sb0afyhv1kzlpk4m/VICECONTI-PROSPERO-PATENTE-SCADENZA-2028.pdf?rlkey=rimvyfhxt09uvo2l9p5u7qiap&dl=0?raw=1",
+          "dimensione_kb": 996,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI PROSPERO PATENTE SCADENZA 2028.pdf"
+        },
+        {
+          "nome": "VICECONTI PROSPERO TESSERA SANITARIA SCADENZA 2027.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/gj75brum7o0js2fsgmamx/VICECONTI-PROSPERO-TESSERA-SANITARIA-SCADENZA-2027.pdf?rlkey=ckmkzlz3cst3k0tdv5gec5w75&dl=0?raw=1",
+          "dimensione_kb": 182,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI PROSPERO TESSERA SANITARIA SCADENZA 2027.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC ATTO COSTITUTIVO.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/soxxpykzary62ko5ulqhg/VICECONTI-SNC-ATTO-COSTITUTIVO.pdf?rlkey=vw6vudu0rwxhw72rmsgz6oms8&dl=0?raw=1",
+          "dimensione_kb": 1468,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC ATTO COSTITUTIVO.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC CAMBIO RAGIONE SOCIALE 2013.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/owilq2r99ha6degzjo2j9/VICECONTI-SNC-CAMBIO-RAGIONE-SOCIALE-2013.pdf?rlkey=gs51pjs24jeijq1il1rs1vdng&dl=0?raw=1",
+          "dimensione_kb": 2827,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC CAMBIO RAGIONE SOCIALE 2013.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC CAMBIO RAGIONE SOCIALE 2013A.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/sk4et6s9x7fjbjctqbatc/VICECONTI-SNC-CAMBIO-RAGIONE-SOCIALE-2013A.pdf?rlkey=0t8aex2be1sv5puvbwed9ze8m&dl=0?raw=1",
+          "dimensione_kb": 1495,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC CAMBIO RAGIONE SOCIALE 2013A.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC CARTA INTESTATA PDF.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/e2un2bjann1vgedkfnbgo/VICECONTI-SNC-CARTA-INTESTATA-PDF.pdf?rlkey=xxl70gyagvnxswbkknlnp1vdd&dl=0?raw=1",
+          "dimensione_kb": 34,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC CARTA INTESTATA PDF.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC CARTA INTESTATA WORD.docx",
+          "tipo": "Word",
+          "icona": "📝",
+          "link": "https://www.dropbox.com/scl/fi/0u1m3r8fa37zdrlggsm7k/VICECONTI-SNC-CARTA-INTESTATA-WORD.docx?rlkey=fubh9kmiajkya7vaafk0qq6ja&dl=0?raw=1",
+          "dimensione_kb": 78,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC CARTA INTESTATA WORD.docx"
+        },
+        {
+          "nome": "VICECONTI SNC CODICE UNIVOCO PER FATTURAZIONE ELETTRONICA PDF.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/smu3u9p8abkvkr7jfuyp4/VICECONTI-SNC-CODICE-UNIVOCO-PER-FATTURAZIONE-ELETTRONICA-PDF.pdf?rlkey=84mle1fi5pi071n17o3imtol5&dl=0?raw=1",
+          "dimensione_kb": 61,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC CODICE UNIVOCO PER FATTURAZIONE ELETTRONICA PDF.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC CODICE UNIVOCO PER FATTURAZIONE ELETTRONICA.docx",
+          "tipo": "Word",
+          "icona": "📝",
+          "link": "https://www.dropbox.com/scl/fi/pru6vyqtq9g75f9zhqtos/VICECONTI-SNC-CODICE-UNIVOCO-PER-FATTURAZIONE-ELETTRONICA.docx?rlkey=nox6ekchdqv2qh2iqvt3iie6i&dl=0?raw=1",
+          "dimensione_kb": 1430,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC CODICE UNIVOCO PER FATTURAZIONE ELETTRONICA.docx"
+        },
+        {
+          "nome": "VICECONTI SNC CODICE UNIVOCO PER LA FATTURAZIONE ELETTRONICA.docx",
+          "tipo": "Word",
+          "icona": "📝",
+          "link": "https://www.dropbox.com/scl/fi/ckccei0ku60tffpooejdp/VICECONTI-SNC-CODICE-UNIVOCO-PER-LA-FATTURAZIONE-ELETTRONICA.docx?rlkey=ckoygerz4pgdoreo0rffncyr4&dl=0?raw=1",
+          "dimensione_kb": 1431,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC CODICE UNIVOCO PER LA FATTURAZIONE ELETTRONICA.docx"
+        },
+        {
+          "nome": "VICECONTI SNC CONTRATTO DI AFFITTO GRILLO ANNARITA.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/q3sdoqtomfpzhve45nuq8/VICECONTI-SNC-CONTRATTO-DI-AFFITTO-GRILLO-ANNARITA.pdf?rlkey=0uffvk1gbn8m86z417rs77iob&dl=0?raw=1",
+          "dimensione_kb": 2076,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC CONTRATTO DI AFFITTO GRILLO ANNARITA.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC CONTRATTO DI AFFITTO GRILLO ITALO .pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/2hp0zvubcvs9c71q8sy5f/VICECONTI-SNC-CONTRATTO-DI-AFFITTO-GRILLO-ITALO.pdf?rlkey=xlpmou2lyrzf4q8yw1hra1q17&dl=0?raw=1",
+          "dimensione_kb": 3000,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC CONTRATTO DI AFFITTO GRILLO ITALO .pdf"
+        },
+        {
+          "nome": "VICECONTI SNC COORDINATE BCC 29_09_2021.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/gfw4bd60cj159vzuacgqk/VICECONTI-SNC-COORDINATE-BCC-29_09_2021.pdf?rlkey=ejh46353myqileazkh2rd1axk&dl=0?raw=1",
+          "dimensione_kb": 13,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC COORDINATE BCC 29_09_2021.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC COORDINATE BPER 29_09_2021.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/4eg2ua1vb04etatt1nwa9/VICECONTI-SNC-COORDINATE-BPER-29_09_2021.pdf?rlkey=6cdgwgmu41ji4gtvkndnhvog7&dl=0?raw=1",
+          "dimensione_kb": 13,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC COORDINATE BPER 29_09_2021.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC COORDINATE INTESA 29_09_2021.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/9fkj3ley5te1if7nqvarh/VICECONTI-SNC-COORDINATE-INTESA-29_09_2021.pdf?rlkey=ripvh5rtvhar9owp2i18abg1w&dl=0?raw=1",
+          "dimensione_kb": 13,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC COORDINATE INTESA 29_09_2021.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC COORDINATE MPS 29_09_2021.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/6i353312zormw26xnjjei/VICECONTI-SNC-COORDINATE-MPS-29_09_2021.pdf?rlkey=gj3h6ddkna78z3mac032606bu&dl=0?raw=1",
+          "dimensione_kb": 14,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC COORDINATE MPS 29_09_2021.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC ESERCIZIO DI COMMERCIO AL DETTAGLIO COMUNICAZIONE.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/e3sblhca6dsbv5k4gptd9/VICECONTI-SNC-ESERCIZIO-DI-COMMERCIO-AL-DETTAGLIO-COMUNICAZIONE.pdf?rlkey=xn06whp73plkpxjo0bgbcxr50&dl=0?raw=1",
+          "dimensione_kb": 3238,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC ESERCIZIO DI COMMERCIO AL DETTAGLIO COMUNICAZIONE.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC VISURA 03_11_2023.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/vhur4syhdfws6r0mtr4xl/VICECONTI-SNC-VISURA-03_11_2023.pdf?rlkey=7rwgpiwvn1563czpy5zjb7plh&dl=0?raw=1",
+          "dimensione_kb": 54,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC VISURA 03_11_2023.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC VISURA 17_07_2024.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/k7a8pwd0bpik2v1x2a3sn/VICECONTI-SNC-VISURA-17_07_2024.pdf?rlkey=ghls4n79m8hwiusxn3ku8thkv&dl=0?raw=1",
+          "dimensione_kb": 62,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC VISURA 17_07_2024.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC VISURA 19_07_2025.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/shh6hndv8heja19z5sgb7/VICECONTI-SNC-VISURA-19_07_2025.pdf?rlkey=cu7gcs47i4gur1wv92t6xplne&dl=0?raw=1",
+          "dimensione_kb": 63,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC VISURA 19_07_2025.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC copia conforme donazioni di quote.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/9dj0yuu2n4c6ds61w0nzy/VICECONTI-SNC-copia-conforme-donazioni-di-quote.pdf?rlkey=pz6zz3iabeezjpxzips4e67g4&dl=0?raw=1",
+          "dimensione_kb": 183,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC copia conforme donazioni di quote.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC visura .pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/drte1o556y5xsl6sziy4v/VICECONTI-SNC-visura.pdf?rlkey=0jijud7ndkvgchj0cd32ipn8o&dl=0?raw=1",
+          "dimensione_kb": 54,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC visura .pdf"
+        },
+        {
+          "nome": "VICECONTI SNC visura del 19 gen 2012.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/fnvow5pi002zt64hn9cpq/VICECONTI-SNC-visura-del-19-gen-2012.pdf?rlkey=j6n5456poapb578cu2e18qptg&dl=0?raw=1",
+          "dimensione_kb": 866,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC visura del 19 gen 2012.pdf"
+        },
+        {
+          "nome": "VICECONTI SNC visura ordinaria 18 febbraio 2022.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/wbtxpgax1ufqw5cak81t6/VICECONTI-SNC-visura-ordinaria-18-febbraio-2022.pdf?rlkey=rkzi09rre04lz67fxi1qrqwwt&dl=0?raw=1",
+          "dimensione_kb": 60,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI SNC visura ordinaria 18 febbraio 2022.pdf"
+        },
+        {
+          "nome": "VICECONTI VINCENZINA C.I E CODICE FISCALE.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/30rhwet7t4b0tylw18zkf/VICECONTI-VINCENZINA-C.I-E-CODICE-FISCALE.pdf?rlkey=p8ne04pqdyzlst523mqzolsl4&dl=0?raw=1",
+          "dimensione_kb": 569,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/VICECONTI VINCENZINA C.I E CODICE FISCALE.pdf"
+        }
+      ]
     }
   ]
 }
