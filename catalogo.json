@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-04T04:12:29Z",
-  "totale_file": 18029,
+  "generato": "2026-03-04T06:50:26Z",
+  "totale_file": 18034,
   "totale_sezioni": 6,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5490,
+      "totale_file": 5495,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -856,6 +856,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/TAVERNA DEL BUONGUSTAIO Fattura di vendita_2500717_20251014_093357.pdf"
             },
             {
+              "nome": "TURISTICA MARATEA Fattura di vendita_2500877_20260303_134219.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hp5j20ix9brxjhc8spque/TURISTICA-MARATEA-Fattura-di-vendita_2500877_20260303_134219.pdf?rlkey=rbwvk0c364racuw6mev098zo7&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/TURISTICA MARATEA Fattura di vendita_2500877_20260303_134219.pdf"
+            },
+            {
               "nome": "TUZIO Fattura di vendita - Bozza documento_2500786_20251127_112126.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -912,7 +920,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 106
+          "_totale_file": 107
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -1375,6 +1383,46 @@
                 }
               ],
               "_totale_file": 6
+            },
+            {
+              "nome": "2026_03_03 3AM GUARNIZIONI E GUIDE COLDLINE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_03 3AM GUARNIZIONI E GUIDE COLDLINE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Offerta di vendita_260046_20260303_122919.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/281c8hpzma6kiklfz14ao/Offerta-di-vendita_260046_20260303_122919.pdf?rlkey=qcdursg2xr6ivokak0r3a0awl&dl=0?raw=1",
+                  "dimensione_kb": 78,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_03 3AM GUARNIZIONI E GUIDE COLDLINE/Offerta di vendita_260046_20260303_122919.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_03_03 TIME OUT DOCCIA PRELAVAGGIO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_03 TIME OUT DOCCIA PRELAVAGGIO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "DOCCIA PRELAVAGGIO LF.5114686 IMMAGINE.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/aece4kv3zwnqgzickjph5/DOCCIA-PRELAVAGGIO-LF.5114686-IMMAGINE.jpg?rlkey=7p42dc2ugilwqohuoexplzdje&dl=0?raw=1",
+                  "dimensione_kb": 33,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_03 TIME OUT DOCCIA PRELAVAGGIO/DOCCIA PRELAVAGGIO LF.5114686 IMMAGINE.jpg"
+                },
+                {
+                  "nome": "TIME OUT Offerta di vendita_260045_20260303_114046 DOCCIA PRELAVAGGIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fb9pk73xwgwovu3gkovag/TIME-OUT-Offerta-di-vendita_260045_20260303_114046-DOCCIA-PRELAVAGGIO.pdf?rlkey=p5o64aa6g7p3fcpcutad1vukq&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_03 TIME OUT DOCCIA PRELAVAGGIO/TIME OUT Offerta di vendita_260045_20260303_114046 DOCCIA PRELAVAGGIO.pdf"
+                }
+              ],
+              "_totale_file": 2
             },
             {
               "nome": "3AM",
@@ -57387,7 +57435,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5344
+          "_totale_file": 5347
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -57445,6 +57493,14 @@
                   "link": "https://www.dropbox.com/scl/fi/nm802icbuxv2uvsm897o2/FLAVIA-DE-MARCO-Ordine-cliente_250910_20251212_124352.pdf?rlkey=2pj99hopu30mgqzzmdodjhubr&dl=0?raw=1",
                   "dimensione_kb": 69,
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/FLAVIA DE MARCO Ordine cliente_250910_20251212_124352.pdf"
+                },
+                {
+                  "nome": "GEROLAMO BINDA Conferma prenotazione ritiro.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wfuc5vnht79kz8530gxyl/GEROLAMO-BINDA-Conferma-prenotazione-ritiro.pdf?rlkey=nsrsmxzlj3e5rswp2hix9l07f&dl=0?raw=1",
+                  "dimensione_kb": 106,
+                  "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/GEROLAMO BINDA Conferma prenotazione ritiro.pdf"
                 },
                 {
                   "nome": "GINESTRE Gmail - [Viceconti Store] New order _ #201 - PHPZKRCWB.pdf",
@@ -57519,7 +57575,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/TATA & CO SRL Gmail - [Viceconti Store] New order _ #210 - JCKCINZEN.pdf"
                 }
               ],
-              "_totale_file": 15
+              "_totale_file": 16
             },
             {
               "nome": "ARCHIVIO",
@@ -57699,7 +57755,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 36
+          "_totale_file": 37
         }
       ],
       "file": []
