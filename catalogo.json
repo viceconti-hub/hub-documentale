@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-05T06:49:50Z",
-  "totale_file": 24082,
+  "generato": "2026-03-05T08:28:19Z",
+  "totale_file": 24087,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -180652,7 +180652,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3757,
+      "totale_file": 3762,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -183217,6 +183217,30 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf"
                 },
                 {
+                  "nome": "COLDLINE Conferma ordine n°26-03675 RIF.3AM GUARNIZIONI E GUIDE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rtjfvccal1zx42gr188qc/COLDLINE-Conferma-ordine-n-26-03675-RIF.3AM-GUARNIZIONI-E-GUIDE.pdf?rlkey=bnlpzjvy9f2rdnaezoehbtoof&dl=0?raw=1",
+                  "dimensione_kb": 96,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-03675 RIF.3AM GUARNIZIONI E GUIDE.pdf"
+                },
+                {
+                  "nome": "COLDLINE PACKING LIST DEL 04_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/viv75zw6uwkeocfec3zap/COLDLINE-PACKING-LIST-DEL-04_03_2026.pdf?rlkey=6nwxnnxiff5vezs7rvtnxuxnm&dl=0?raw=1",
+                  "dimensione_kb": 77,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE PACKING LIST DEL 04_03_2026.pdf"
+                },
+                {
+                  "nome": "COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/jjbrxaqeenmauyhmsarrs/COLDLINE-RICEVUTA-AR-DEL-04_03_2026.jpeg?rlkey=7a7ik626ztlys4337blfgztxr&dl=0?raw=1",
+                  "dimensione_kb": 286,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg"
+                },
+                {
                   "nome": "COMENDA CO OC - 10290 VICECONTI SNC RIF.CENTRAL MARKET.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -183247,6 +183271,14 @@
                   "link": "https://www.dropbox.com/scl/fi/yjem2i9bduwxq55z31f9r/GOPACK-Ordine-dacquisto_260019_20260303_133406.pdf?rlkey=ts3qbngodn9rd3bpw1zvjmcla&dl=0?raw=1",
                   "dimensione_kb": 76,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/GOPACK Ordine dacquisto_260019_20260303_133406.pdf"
+                },
+                {
+                  "nome": "Gmail - Re_ Viceconti Snc_ richiesta ritiro uregente presso Coldline RIF.AM DI MANCINO_IL LUCANO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oh5lcuz8aatijb2qedbw2/Gmail-Re_-Viceconti-Snc_-richiesta-ritiro-uregente-presso-Coldline-RIF.AM-DI-MANCINO_IL-LUCANO.pdf?rlkey=n055jucao6vssjnp4ozvbnf3o&dl=0?raw=1",
+                  "dimensione_kb": 340,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/Gmail - Re_ Viceconti Snc_ richiesta ritiro uregente presso Coldline RIF.AM DI MANCINO_IL LUCANO.pdf"
                 },
                 {
                   "nome": "HOSHIZAKI Ordine dacquisto_250447_20251110_125550 RIF.CALA DEL CITRO.pdf",
@@ -183321,6 +183353,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MECNOSUD Ordine dacquisto_260014_20260223_224509 RIF.CORRDO MICHELA.pdf"
                 },
                 {
+                  "nome": "MODULAR CONFERMA 26_00619 RIF.FA TU FRIGGITRICI 900.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8mtcvi6knkg6xtbxuei24/MODULAR-CONFERMA-26_00619-RIF.FA-TU-FRIGGITRICI-900.pdf?rlkey=7pfc97k59ii2jfqo5t37no3ir&dl=0?raw=1",
+                  "dimensione_kb": 151,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_00619 RIF.FA TU FRIGGITRICI 900.pdf"
+                },
+                {
                   "nome": "MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.MeM.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -183377,7 +183417,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/TOP SERVICE DI TRIESTINO PANETTA 1 - Viceconti snc RIF. CENTRAL PAUSA.pdf"
                 }
               ],
-              "_totale_file": 38
+              "_totale_file": 43
             },
             {
               "nome": "ARCHIVIO",
@@ -200867,7 +200907,7 @@
                           "nome": "IDEAM INXO CONFERMA CLI-PREVEN-0000216-00-13012025 RIF.IELPO NICOLA.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/wrhw0r1z215e2jii851us/IDEAM-INXO-CONFERMA-CLI-PREVEN-0000216-00-13012025-RIF.IELPO-NICOLA.pdf?rlkey=d9dpyltm0kcobley9br1zfqij&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 129,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/IDEAM INOX ORDINI D'ACQUISTO/ARCHIVIO PUGLIAINOX ORDINI D'ACQUISTO/IDEAM INXO CONFERMA CLI-PREVEN-0000216-00-13012025 RIF.IELPO NICOLA.pdf"
                         },
@@ -213050,7 +213090,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Ordine dacquisto_260018_20260302_101552 RIF. CENTRAL PECORONE e MeM.pdf"
             }
           ],
-          "_totale_file": 3464
+          "_totale_file": 3469
         }
       ],
       "file": []
