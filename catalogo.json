@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-05T10:26:06Z",
-  "totale_file": 24087,
+  "generato": "2026-03-05T20:28:01Z",
+  "totale_file": 24092,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -60921,7 +60921,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 916,
+      "totale_file": 921,
       "cartelle": [
         {
           "nome": "MARATEA",
@@ -69935,6 +69935,46 @@
           "link": "https://www.dropbox.com/scl/fi/07fmmu2e9gfjb7malafwr/CARNI-LIMONGI-Consegna_260069_20260228_115003.pdf?rlkey=h9lpmrv6j2hmbbmailtbjxm5i&dl=0?raw=1",
           "dimensione_kb": 56,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CARNI LIMONGI Consegna_260069_20260228_115003.pdf"
+        },
+        {
+          "nome": "IT01601090762_004PS.xml",
+          "tipo": "File",
+          "icona": "📎",
+          "link": "https://www.dropbox.com/scl/fi/af4ca85x84pe7idp7bd52/IT01601090762_004PS.xml?rlkey=ayqdvx5yr77zud3eu8q6tl6v5&dl=0?raw=1",
+          "dimensione_kb": 6,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/IT01601090762_004PS.xml"
+        },
+        {
+          "nome": "IT01601090762_004PT.xml",
+          "tipo": "File",
+          "icona": "📎",
+          "link": "https://www.dropbox.com/scl/fi/uka79n2occqfwkbtzwhza/IT01601090762_004PT.xml?rlkey=r0afz33i7g7yv7die44giyg7e&dl=0?raw=1",
+          "dimensione_kb": 5,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/IT01601090762_004PT.xml"
+        },
+        {
+          "nome": "IT01601090762_004PU.xml",
+          "tipo": "File",
+          "icona": "📎",
+          "link": "https://www.dropbox.com/scl/fi/gybyb2ly57cps98q14j40/IT01601090762_004PU.xml?rlkey=m44cgvt7jqjbk9dacvtcbicwv&dl=0?raw=1",
+          "dimensione_kb": 4,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/IT01601090762_004PU.xml"
+        },
+        {
+          "nome": "IT01601090762_004PV.xml",
+          "tipo": "File",
+          "icona": "📎",
+          "link": "https://www.dropbox.com/scl/fi/97lsalz3emybl4z5jnnxl/IT01601090762_004PV.xml?rlkey=4apl6esylkyntszjpbkoe8cc9&dl=0?raw=1",
+          "dimensione_kb": 6,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/IT01601090762_004PV.xml"
+        },
+        {
+          "nome": "IT01601090762_004PW.xml",
+          "tipo": "File",
+          "icona": "📎",
+          "link": "https://www.dropbox.com/scl/fi/1fcp08oej2h1wyw0086qo/IT01601090762_004PW.xml?rlkey=nsw2toai5up7twtaapl2lk1ge&dl=0?raw=1",
+          "dimensione_kb": 5,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/IT01601090762_004PW.xml"
         },
         {
           "nome": "MINIMARKET DI PAPALEO Attività_20260302_112555.pdf",
