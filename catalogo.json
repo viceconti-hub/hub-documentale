@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-05T09:29:48Z",
-  "totale_file": 24090,
+  "generato": "2026-03-05T09:38:24Z",
+  "totale_file": 24091,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -57788,7 +57788,7 @@
       "nome": "CREDITI E DEBITI",
       "descrizione": "Crediti e debiti aperti e archiviati",
       "icona": "📋",
-      "totale_file": 333,
+      "totale_file": 334,
       "cartelle": [
         {
           "nome": "CREDITI",
@@ -60454,6 +60454,14 @@
               "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - C000524 HOTEL SAN DOMENICO di CRECCA MARIANO_20260204_200117.pdf"
             },
             {
+              "nome": "Saldo contabile - C001261 CARNI LIMONGI SRL_20260304_130738.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ca65r78jeako2ai97xda6/Saldo-contabile-C001261-CARNI-LIMONGI-SRL_20260304_130738.pdf?rlkey=1xe9ifl8h38uj31sp6ergu357&dl=0?raw=1",
+              "dimensione_kb": 46,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - C001261 CARNI LIMONGI SRL_20260304_130738.pdf"
+            },
+            {
               "nome": "Saldo contabile - C001308 SOC. COOP. MARATEA SERVIZI A.R.L._20250901_130036.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -60478,7 +60486,7 @@
               "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - CO52305 A&M COMPANY DI ALAGIA ANDREA MAURONE AGOSTINO & C. S.N.C._20260204_174527.pdf"
             }
           ],
-          "_totale_file": 330
+          "_totale_file": 331
         },
         {
           "nome": "DEBITI",
