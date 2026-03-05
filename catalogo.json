@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-05T08:28:19Z",
-  "totale_file": 24087,
+  "generato": "2026-03-05T09:29:48Z",
+  "totale_file": 24090,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -213099,7 +213099,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2288,
+      "totale_file": 2291,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -213279,6 +213279,22 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/COLDLINE COPIA TITOLI INTESA FEBBRAIO MARZO APRILE 2026.jpeg"
                 },
                 {
+                  "nome": "COLDLINE COPIA TITOLI MPS AR 04_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/425mnpx6datjez7yzv15m/COLDLINE-COPIA-TITOLI-MPS-AR-04_03_2026.pdf?rlkey=d5hw6fvmewhi6jkxyd1hsgofm&dl=0?raw=1",
+                  "dimensione_kb": 267,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/COLDLINE COPIA TITOLI MPS AR 04_03_2026.pdf"
+                },
+                {
+                  "nome": "COLDLINE IMPORTO TITOLI 04_03_2026.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/xk70d6tk5smggg8ts0wsc/COLDLINE-IMPORTO-TITOLI-04_03_2026.xlsx?rlkey=yqph296cb2um63fznhf7zcq9a&dl=0?raw=1",
+                  "dimensione_kb": 10,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/COLDLINE IMPORTO TITOLI 04_03_2026.xlsx"
+                },
+                {
                   "nome": "COMENDA Dettaglio bonifico istantaneo DEL 09_02_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -213357,6 +213373,14 @@
                   "link": "https://www.dropbox.com/scl/fi/1n5fisrnyam1uk2r0jwn9/FIMAR-COPIA-TITOLO-BPER-SCADENZA-31_03_2026.pdf?rlkey=negw8kh8r34v9x0vwakjhe8jf&dl=0?raw=1",
                   "dimensione_kb": 119,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/FIMAR COPIA TITOLO BPER SCADENZA 31_03_2026.pdf"
+                },
+                {
+                  "nome": "FIMAR RICEVUTA AR 04_03_2026.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/g7hl1b5php62zbbq0gsax/FIMAR-RICEVUTA-AR-04_03_2026.jpeg?rlkey=7xlho7p1dxf7yjb6nw6q2lmcv&dl=0?raw=1",
+                  "dimensione_kb": 153,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/FIMAR RICEVUTA AR 04_03_2026.jpeg"
                 },
                 {
                   "nome": "FIMEL Dettaglio bonifico istantaneo DEL 11_02_2026.pdf",
@@ -213543,7 +213567,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 36
+              "_totale_file": 39
             },
             {
               "nome": "ARCHIVIO",
@@ -233755,7 +233779,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 2272
+          "_totale_file": 2275
         }
       ],
       "file": []
