@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-06T06:55:32Z",
-  "totale_file": 24098,
+  "generato": "2026-03-06T08:31:25Z",
+  "totale_file": 24100,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -180716,7 +180716,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3762,
+      "totale_file": 3764,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -183479,9 +183479,25 @@
                   "link": "https://www.dropbox.com/scl/fi/7p67nm36e1oq4gp8nhd3a/TOP-SERVICE-DI-TRIESTINO-PANETTA-1-Viceconti-snc-RIF.-CENTRAL-PAUSA.pdf?rlkey=k0ozihw2bt75in1py6hw5i4jb&dl=0?raw=1",
                   "dimensione_kb": 75,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/TOP SERVICE DI TRIESTINO PANETTA 1 - Viceconti snc RIF. CENTRAL PAUSA.pdf"
+                },
+                {
+                  "nome": "ZINCO GROUP DISEGNO PLENUM RIF. FA TU.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/4q08me9snnqxoexoglcfj/ZINCO-GROUP-DISEGNO-PLENUM-RIF.-FA-TU.jpg?rlkey=8bb80luxjk1qrwkot8b1yt1vp&dl=0?raw=1",
+                  "dimensione_kb": 142,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO PLENUM RIF. FA TU.jpg"
+                },
+                {
+                  "nome": "ZINCO GROUP DISEGNO Plenium Viceconti.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/omb87muudao5mh0wrnlo3/ZINCO-GROUP-DISEGNO-Plenium-Viceconti.pdf?rlkey=8t7ykc1ky55inqzxaa39jcdrp&dl=0?raw=1",
+                  "dimensione_kb": 116,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 43
+              "_totale_file": 45
             },
             {
               "nome": "ARCHIVIO",
@@ -200971,7 +200987,7 @@
                           "nome": "IDEAM INXO CONFERMA CLI-PREVEN-0000216-00-13012025 RIF.IELPO NICOLA.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/wrhw0r1z215e2jii851us/IDEAM-INXO-CONFERMA-CLI-PREVEN-0000216-00-13012025-RIF.IELPO-NICOLA.pdf?rlkey=d9dpyltm0kcobley9br1zfqij&dl=0?raw=1",
                           "dimensione_kb": 129,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/IDEAM INOX ORDINI D'ACQUISTO/ARCHIVIO PUGLIAINOX ORDINI D'ACQUISTO/IDEAM INXO CONFERMA CLI-PREVEN-0000216-00-13012025 RIF.IELPO NICOLA.pdf"
                         },
@@ -213154,7 +213170,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Ordine dacquisto_260018_20260302_101552 RIF. CENTRAL PECORONE e MeM.pdf"
             }
           ],
-          "_totale_file": 3469
+          "_totale_file": 3471
         }
       ],
       "file": []
