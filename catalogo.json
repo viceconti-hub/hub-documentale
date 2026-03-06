@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-05T20:28:01Z",
-  "totale_file": 24092,
+  "generato": "2026-03-06T02:16:10Z",
+  "totale_file": 24096,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -70030,7 +70030,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 6922,
+      "totale_file": 6926,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -121581,7 +121581,7 @@
                       "nome": "WhatsApp Image 2022-08-30 at 16.49.04.jpeg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/wql151kl8l6cdcui4s8g1/WhatsApp-Image-2022-08-30-at-16.49.04.jpeg?rlkey=or5y7w2h1givp2e17lz23oiqk&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 100,
                       "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/MACELLERIE SOLA/MACELLERIA SOLA AREA TECNICA/WhatsApp Image 2022-08-30 at 16.49.04.jpeg"
                     },
@@ -123213,6 +123213,46 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025",
                   "cartelle": [
                     {
+                      "nome": "FA TU FRIGGITRICE MODULAR E TECNOINOX CONFRONTO",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025/FA TU FRIGGITRICE MODULAR E TECNOINOX CONFRONTO",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "FA TU FOTO CESTELLI FRIGGITRICE.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/2jntmwz3lfktww8ilmzi8/FA-TU-FOTO-CESTELLI-FRIGGITRICE.jpeg?rlkey=v0k6mt73h53dw6nid9qa5ln05&dl=0?raw=1",
+                          "dimensione_kb": 324,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025/FA TU FRIGGITRICE MODULAR E TECNOINOX CONFRONTO/FA TU FOTO CESTELLI FRIGGITRICE.jpeg"
+                        },
+                        {
+                          "nome": "FRIGGITICE ELETTRICA 21 21 MODULAR R90-80FRER-2V21-P SCHEDA TECNICA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/mz1ruov4ie5m1a5ows3dr/FRIGGITICE-ELETTRICA-21-21-MODULAR-R90-80FRER-2V21-P-SCHEDA-TECNICA.pdf?rlkey=bnikpwy4tj6w6dspvlbunugij&dl=0?raw=1",
+                          "dimensione_kb": 58,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025/FA TU FRIGGITRICE MODULAR E TECNOINOX CONFRONTO/FRIGGITICE ELETTRICA 21 21 MODULAR R90-80FRER-2V21-P SCHEDA TECNICA.pdf"
+                        },
+                        {
+                          "nome": "FRIGGITRICE A GAS 21 LT FA TU SP-313187-IT ANNO 2021.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/xkjsyj28sn5a55rpwg9c4/FRIGGITRICE-A-GAS-21-LT-FA-TU-SP-313187-IT-ANNO-2021.pdf?rlkey=za5cvvztfn7lncfi1gz0hn7o6&dl=0?raw=1",
+                          "dimensione_kb": 551,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025/FA TU FRIGGITRICE MODULAR E TECNOINOX CONFRONTO/FRIGGITRICE A GAS 21 LT FA TU SP-313187-IT ANNO 2021.pdf"
+                        },
+                        {
+                          "nome": "FRIGGITRICE ELETTRICA 17 17 MODULAR R70-80FRER-2V17-P SCHEDA TECNICA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/u5y3wfaganuy4b2gxznz8/FRIGGITRICE-ELETTRICA-17-17-MODULAR-R70-80FRER-2V17-P-SCHEDA-TECNICA.pdf?rlkey=c84pkwqknmv0i34e7oc68v51a&dl=0?raw=1",
+                          "dimensione_kb": 58,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025/FA TU FRIGGITRICE MODULAR E TECNOINOX CONFRONTO/FRIGGITRICE ELETTRICA 17 17 MODULAR R70-80FRER-2V17-P SCHEDA TECNICA.pdf"
+                        }
+                      ],
+                      "_totale_file": 4
+                    },
+                    {
                       "nome": "SCHEDE TECNICHE",
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025/SCHEDE TECNICHE",
                       "cartelle": [
@@ -123464,7 +123504,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025/pianta arredata.pdf"
                     }
                   ],
-                  "_totale_file": 28
+                  "_totale_file": 32
                 },
                 {
                   "nome": "FA TU SITUAZIONE CONTABILE 24_02_2025",
@@ -123877,7 +123917,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/Planetaria da banco mod. Plutone 7 Y15, Sirman, vasca smontabile inox 7 litri, testa ribaltabile, 3 accessori in dotazione.pdf"
                 }
               ],
-              "_totale_file": 104
+              "_totale_file": 108
             },
             {
               "nome": "GIOITALY HOTEL SAN GIORGIO",
@@ -125264,7 +125304,7 @@
                   "nome": "SCHEDA CB316.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/em8opveaqqgd5ipx6dbpg/SCHEDA-CB316.pdf?rlkey=u7db08xajoap0pje83rvhlut0&dl=0?raw=1",
                   "dimensione_kb": 940,
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/LIDO GOLDEN BEACH/SCHEDA CB316.pdf"
                 },
@@ -126087,7 +126127,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 335
+          "_totale_file": 339
         },
         {
           "nome": "SAN SEVERINO LUCANO",
@@ -134837,7 +134877,7 @@
                           "nome": "WhatsApp Image 2023-01-24 at 12.26.40.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/by2ogkox0ug5gszraz30c/WhatsApp-Image-2023-01-24-at-12.26.40.jpeg?rlkey=xghafosm8za1qfavnz6ocoo6k&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 78,
                           "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BISCOTTIFICIO CAUCCI FALCONE SAS/BISCOTTIFICIO CAUCCI AREA TECNICA/FORNO ZUCCHELLI/WhatsApp Image 2023-01-24 at 12.26.40.jpeg"
                         },
@@ -137374,7 +137414,7 @@
                   "nome": "sam80_web.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/uku7hvgcexrjbw9mzuszy/sam80_web.pdf?rlkey=e48914223w4k0fkqd4150xs2w&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 14540,
                   "path": "/HUB DOCUMENTALE/CLIENTI/VERBICARO/PASTICCERIA MILLE VOGLIE/sam80_web.pdf"
                 }
