@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-06T04:14:39Z",
-  "totale_file": 24096,
+  "generato": "2026-03-06T06:55:32Z",
+  "totale_file": 24098,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5497,
+      "totale_file": 5499,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -560,6 +560,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/JOEL Fattura di vendita_2600009_20260216_115805.pdf"
             },
             {
+              "nome": "LA LOCANDA DEI TRE SASSI FT IT016417907022026U_02fVd.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fdbhm63tw2nfq2rpda4ks/LA-LOCANDA-DEI-TRE-SASSI-FT-IT016417907022026U_02fVd.pdf?rlkey=es4yg09upa0laj0fj2plrm4dk&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/LA LOCANDA DEI TRE SASSI FT IT016417907022026U_02fVd.pdf"
+            },
+            {
               "nome": "LA PIZZERIA DA MASSIMO Fattura di vendita_2500681_20250924_102213.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -920,7 +928,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 107
+          "_totale_file": 108
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -37632,7 +37640,7 @@
                   "nome": "W5F.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/o4qddghen2ngbuj2rsqxe/W5F.pdf?rlkey=uhso5baoy0dqwv9sol3k2czf5&dl=0?raw=1",
                   "dimensione_kb": 85,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/FLAVIA DE MARCO VISION/W5F.pdf"
                 },
@@ -57527,6 +57535,14 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/GINESTRE Gmail - [Viceconti Store] New order _ #201 - PHPZKRCWB.pdf"
                 },
                 {
+                  "nome": "GRANOCIELO Gmail - [Viceconti Store] New order _ #217 - SOGFGVLCY.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fa6j28fi81tz9cqfd9xpn/GRANOCIELO-Gmail-Viceconti-Store-New-order-_-217-SOGFGVLCY.pdf?rlkey=v9xtbd5m603xnhupfhu4x8nd4&dl=0?raw=1",
+                  "dimensione_kb": 159,
+                  "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/GRANOCIELO Gmail - [Viceconti Store] New order _ #217 - SOGFGVLCY.pdf"
+                },
+                {
                   "nome": "HOTEL DAHU Gmail - [Viceconti Store] New order _ #205 - VCPJEJAGQ.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -57599,7 +57615,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/TATA & CO SRL Gmail - [Viceconti Store] New order _ #210 - JCKCINZEN.pdf"
                 }
               ],
-              "_totale_file": 17
+              "_totale_file": 18
             },
             {
               "nome": "ARCHIVIO",
@@ -57779,7 +57795,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 38
+          "_totale_file": 39
         }
       ],
       "file": []
