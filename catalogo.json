@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-07T08:05:27Z",
-  "totale_file": 24108,
+  "generato": "2026-03-07T09:04:08Z",
+  "totale_file": 24111,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -213267,7 +213267,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2291,
+      "totale_file": 2294,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -213487,6 +213487,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/COSENTINO ANTONELLA Dettaglio bonifico istantaneo DEL 8_01_2026.pdf"
                 },
                 {
+                  "nome": "Dettaglio bonifico istantaneo.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bvt4cly7b54u5pe7oaj2h/Dettaglio-bonifico-istantaneo.pdf?rlkey=ayuuqj3i5vmwybv4lflne8rni&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/Dettaglio bonifico istantaneo.pdf"
+                },
+                {
                   "nome": "ECOSAN Dettaglio bonifico istantaneo DEL 23_10_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -213575,6 +213583,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/FRIGOMAT COPIA TITOLI AR DEL 14_11_2025.pdf"
                 },
                 {
+                  "nome": "GI.METAL Dettaglio bonifico istantaneo DEL 06.03.2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/v16rin7dj21abu9lt813v/GI.METAL-Dettaglio-bonifico-istantaneo-DEL-06.03.2026.pdf?rlkey=punverkfcbk7cc831pn5111hv&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/GI.METAL Dettaglio bonifico istantaneo DEL 06.03.2026.pdf"
+                },
+                {
                   "nome": "GLS RINNOVO ABBONAMENTO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -213597,6 +213613,14 @@
                   "link": "https://www.dropbox.com/scl/fi/6flzldizx29xcqu6t54kk/IDEAM-INOX-COPIA-TITOLO-MPS-SCADENZA-30_01_2026-28_02_2026.pdf.jpg?rlkey=npyiu3gi2gxdjh7r27ronw45n&dl=0?raw=1",
                   "dimensione_kb": 393,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/IDEAM INOX COPIA TITOLO MPS SCADENZA 30_01_2026 - 28_02_2026.pdf.jpg"
+                },
+                {
+                  "nome": "IDEAM INOX SRL Dettaglio bonifico istantaneo DEL 06.03.2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ac3s58bxq4ucg7gjx87lk/IDEAM-INOX-SRL-Dettaglio-bonifico-istantaneo-DEL-06.03.2026.pdf?rlkey=prlgz4by28x0b0xwssixra90v&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/IDEAM INOX SRL Dettaglio bonifico istantaneo DEL 06.03.2026.pdf"
                 },
                 {
                   "nome": "IFI COPIA TITOLI AR 05_12_2025.pdf",
@@ -213735,7 +213759,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 39
+              "_totale_file": 42
             },
             {
               "nome": "ARCHIVIO",
@@ -218856,7 +218880,7 @@
                       "nome": "NUOVE COORDINATE BANCARIE ABM.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/ij0u5delaxnrcpfiymlbg/NUOVE-COORDINATE-BANCARIE-ABM.pdf?rlkey=bg9s7sca3cjortgc4xfmylqrq&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 104,
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 18_01_2022/NUOVE COORDINATE BANCARIE ABM.pdf"
                     },
@@ -223890,7 +223914,7 @@
                           "nome": "ECOSAN BONIFICO DEL 6_11_2019.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/1ooczkon71w00z8k0ih6c/ECOSAN-BONIFICO-DEL-6_11_2019.pdf?rlkey=n2fmd6nv0vv86ls7aoz4oausd&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 46,
                           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ECOSAN PAGAMENTI/ARCHIVIO ECOSAN PAGAMENTI/ECOSAN BONIFICO DEL 6_11_2019.pdf"
                         },
@@ -232540,7 +232564,7 @@
                       "nome": "WAICO RICEVUTA BONIFICO DEL 6_02_2025.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/ib36t97ahhi5a5r1fzosh/WAICO-RICEVUTA-BONIFICO-DEL-6_02_2025.pdf?rlkey=fo3kbr84shppwxkgf7ensk02k&dl=0?raw=1",
                       "dimensione_kb": 47,
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/WAICO PAGAMENTI/WAICO RICEVUTA BONIFICO DEL 6_02_2025.pdf"
                     }
@@ -233947,7 +233971,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 2275
+          "_totale_file": 2278
         }
       ],
       "file": []
