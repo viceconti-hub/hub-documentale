@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-06T10:11:05Z",
-  "totale_file": 24100,
+  "generato": "2026-03-07T02:08:42Z",
+  "totale_file": 24105,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -70046,7 +70046,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 6926,
+      "totale_file": 6931,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -92271,6 +92271,14 @@
                   ],
                   "file": [
                     {
+                      "nome": "AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107 DATI MACCHINA.jpeg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/fizdq75vnpohmuzzzjzb5/AFFETTATRICE-SALUMI-RHENINHAUS-MOD-BETA-SBR-DIAM-350-SN-4107-DATI-MACCHINA.jpeg?rlkey=l8nl9xdxffop0kzdl5xh1nfmu&dl=0?raw=1",
+                      "dimensione_kb": 82,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/ONY E ROBY AREA TECNICA/AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107 DATI MACCHINA.jpeg"
+                    },
+                    {
                       "nome": "FAVOLA 420 Italiano.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -92311,7 +92319,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/ONY E ROBY AREA TECNICA/machprog_1.7.0.zip"
                     }
                   ],
-                  "_totale_file": 6
+                  "_totale_file": 7
                 }
               ],
               "file": [
@@ -92332,7 +92340,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/Offerta di vendita_210773_20211112_122407 TAVOLO P30_P40.pdf"
                 }
               ],
-              "_totale_file": 8
+              "_totale_file": 9
             },
             {
               "nome": "ORTOFRUTTA DI ALESSANDRO AVERSA",
@@ -97860,7 +97868,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1264
+          "_totale_file": 1265
         },
         {
           "nome": "LAVELLO",
@@ -112492,6 +112500,54 @@
           "_totale_file": 1
         },
         {
+          "nome": "PIEDIMONTE MATESE",
+          "path": "/HUB DOCUMENTALE/CLIENTI/PIEDIMONTE MATESE",
+          "cartelle": [
+            {
+              "nome": "AM DI ANTONELLA MANCINO SAS",
+              "path": "/HUB DOCUMENTALE/CLIENTI/PIEDIMONTE MATESE/AM DI ANTONELLA MANCINO SAS",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "A.M. di Antonella Mancino s.a.s. - Offerta di vendita n° 260003.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6lf6bbw4b0vwj3i11mp0e/A.M.-di-Antonella-Mancino-s.a.s.-Offerta-di-vendita-n-260003.pdf?rlkey=nk8px57bzgkix2btrrnsc9ddh&dl=0?raw=1",
+                  "dimensione_kb": 86,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/PIEDIMONTE MATESE/AM DI ANTONELLA MANCINO SAS/A.M. di Antonella Mancino s.a.s. - Offerta di vendita n° 260003.pdf"
+                },
+                {
+                  "nome": "AM DI ANTONELLA MANCINO MODALITA DI PAGAMENTO ORDINE 260037.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/g7nvitkasj1i88p1wi31f/AM-DI-ANTONELLA-MANCINO-MODALITA-DI-PAGAMENTO-ORDINE-260037.jpeg?rlkey=1ti4k6w7bq1urefpcl7rmpudh&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/PIEDIMONTE MATESE/AM DI ANTONELLA MANCINO SAS/AM DI ANTONELLA MANCINO MODALITA DI PAGAMENTO ORDINE 260037.jpeg"
+                },
+                {
+                  "nome": "ANAGRAFICA CLIENTE AM DI ANTONELLA MANCINO .png",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/6rlzzp3nebofsspxcwbsv/ANAGRAFICA-CLIENTE-AM-DI-ANTONELLA-MANCINO.png?rlkey=dqut1m7gdtryjvtr1a4x6w56k&dl=0?raw=1",
+                  "dimensione_kb": 257,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/PIEDIMONTE MATESE/AM DI ANTONELLA MANCINO SAS/ANAGRAFICA CLIENTE AM DI ANTONELLA MANCINO .png"
+                },
+                {
+                  "nome": "Visura A.M. di Antonella Mancino sas 9 10 2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1nn1gc895wqu5vtpfi8ie/Visura-A.M.-di-Antonella-Mancino-sas-9-10-2025.pdf?rlkey=gwboyc2fskw8nteaw6a9clb3s&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/PIEDIMONTE MATESE/AM DI ANTONELLA MANCINO SAS/Visura A.M. di Antonella Mancino sas 9 10 2025.pdf"
+                }
+              ],
+              "_totale_file": 4
+            }
+          ],
+          "file": [],
+          "_totale_file": 4
+        },
+        {
           "nome": "POLICASTRO",
           "path": "/HUB DOCUMENTALE/CLIENTI/POLICASTRO",
           "cartelle": [
@@ -121597,7 +121653,7 @@
                       "nome": "WhatsApp Image 2022-08-30 at 16.49.04.jpeg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/wql151kl8l6cdcui4s8g1/WhatsApp-Image-2022-08-30-at-16.49.04.jpeg?rlkey=or5y7w2h1givp2e17lz23oiqk&dl=0?raw=1",
                       "dimensione_kb": 100,
                       "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/MACELLERIE SOLA/MACELLERIA SOLA AREA TECNICA/WhatsApp Image 2022-08-30 at 16.49.04.jpeg"
                     },
@@ -133862,7 +133918,7 @@
                   "nome": "CAMALEONTE Fattura di vendita_220406_20220718_144416.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/s9b7td7iqpuo93ad8f8b2/CAMALEONTE-Fattura-di-vendita_220406_20220718_144416.pdf?rlkey=p913vjjms117o9uuz9oxe6x8y&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 75,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/TABACCHI CAMALEONTE/CAMALEONTE Fattura di vendita_220406_20220718_144416.pdf"
                 },
@@ -134893,7 +134949,7 @@
                           "nome": "WhatsApp Image 2023-01-24 at 12.26.40.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/by2ogkox0ug5gszraz30c/WhatsApp-Image-2023-01-24-at-12.26.40.jpeg?rlkey=xghafosm8za1qfavnz6ocoo6k&dl=0?raw=1",
                           "dimensione_kb": 78,
                           "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BISCOTTIFICIO CAUCCI FALCONE SAS/BISCOTTIFICIO CAUCCI AREA TECNICA/FORNO ZUCCHELLI/WhatsApp Image 2023-01-24 at 12.26.40.jpeg"
                         },
@@ -137430,7 +137486,7 @@
                   "nome": "sam80_web.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/uku7hvgcexrjbw9mzuszy/sam80_web.pdf?rlkey=e48914223w4k0fkqd4150xs2w&dl=0?raw=1",
                   "dimensione_kb": 14540,
                   "path": "/HUB DOCUMENTALE/CLIENTI/VERBICARO/PASTICCERIA MILLE VOGLIE/sam80_web.pdf"
                 }
