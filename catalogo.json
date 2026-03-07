@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-07T04:01:55Z",
-  "totale_file": 24105,
+  "generato": "2026-03-07T06:35:24Z",
+  "totale_file": 24108,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5499,
+      "totale_file": 5502,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -19,6 +19,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE",
               "cartelle": [],
               "file": [
+                {
+                  "nome": "AM DI ANTONELLA MANCINO Consegna_260075_20260306_090216.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/whkasqbpu6zpfdf2drawo/AM-DI-ANTONELLA-MANCINO-Consegna_260075_20260306_090216.pdf?rlkey=z5bd30bh00dsd4avksdm11sjc&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/AM DI ANTONELLA MANCINO Consegna_260075_20260306_090216.pdf"
+                },
                 {
                   "nome": "CARNI LIMONGI Consegna_260069_20260227_133928.pdf",
                   "tipo": "PDF",
@@ -44,6 +52,14 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/LA REGINA TERMINAL Consegna_260062_20260223_193848.pdf"
                 },
                 {
+                  "nome": "LANTERNA VERDE Consegna_260076_20260306_171648.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/30za3mz0np4twidw66djh/LANTERNA-VERDE-Consegna_260076_20260306_171648.pdf?rlkey=68egcsy8v1vobbhqv03ws1zlk&dl=0?raw=1",
+                  "dimensione_kb": 56,
+                  "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/LANTERNA VERDE Consegna_260076_20260306_171648.pdf"
+                },
+                {
                   "nome": "PANAINO SRL Consegna_260068_20260226_102358.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -52,11 +68,11 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/PANAINO SRL Consegna_260068_20260226_102358.pdf"
                 }
               ],
-              "_totale_file": 4
+              "_totale_file": 6
             }
           ],
           "file": [],
-          "_totale_file": 4
+          "_totale_file": 6
         },
         {
           "nome": "FATTURE DI VENDITA",
@@ -1444,6 +1460,22 @@
                   "link": "https://www.dropbox.com/scl/fi/q4akxx9oqnzoj1j9cvyiw/Offerta-di-vendita_260047_20260304_135351.pdf?rlkey=5uc90jr9kny1tb5g00zazzhn9&dl=0?raw=1",
                   "dimensione_kb": 78,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_04 CIDO RIVETTI ATTREZZATURE/Offerta di vendita_260047_20260304_135351.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_03_06 CIACCO PASQUALE MARIPOSA VETRINA INGREDIENTI",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_06 CIACCO PASQUALE MARIPOSA VETRINA INGREDIENTI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "VETRINE INGREDIENTI FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rgv9grbgaselsbmh8474y/VETRINE-INGREDIENTI-FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf?rlkey=mwv0e8hxpxc6tfkvn274k7jss&dl=0?raw=1",
+                  "dimensione_kb": 441,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_06 CIACCO PASQUALE MARIPOSA VETRINA INGREDIENTI/VETRINE INGREDIENTI FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf"
                 }
               ],
               "_totale_file": 1
@@ -8683,7 +8715,7 @@
                           "nome": "GRIGLIA PER CASSETTA.png",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/70n4ohbczfxxdgdzkad21/GRIGLIA-PER-CASSETTA.png?rlkey=sceb0po7fr3sdixp8082nukz0&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 121,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ARCHIVIO OFFERTE INVIATE 2022/ARCHIVIO OFFERTE CLIENTI AL 2021/CORRADO CLIENTE WEB/GRIGLIA PER CASSETTA.png"
                         },
@@ -47290,7 +47322,7 @@
                   "nome": "EVO 900 BASE NEUTRA CUCINA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/d8ot3k40a0yuba1coo0xh/EVO-900-BASE-NEUTRA-CUCINA.pdf?rlkey=9zn28ol9pm3g9864eb88u3639&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 170,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ORIENTE COTTURA + LAVASTOVIGLIE/EVO 900 BASE NEUTRA CUCINA.pdf"
                 },
@@ -49950,7 +49982,7 @@
                       "nome": "PROLUNGA BT.jpg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/aougwbslt1ozmurbsx8fd/PROLUNGA-BT.jpg?rlkey=3lvlb73zubv6dbftt7k4r736h&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 71,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PICCOLA BISCOTTERIA CUCINA GIOVANNA/SHINE KITCHEN/PROLUNGA BT.jpg"
                     },
@@ -57459,7 +57491,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5348
+          "_totale_file": 5349
         },
         {
           "nome": "ORDINI CLIENTE",
