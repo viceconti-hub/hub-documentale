@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-07T09:40:17Z",
-  "totale_file": 24111,
+  "generato": "2026-03-08T02:12:59Z",
+  "totale_file": 24112,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -70078,7 +70078,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 6931,
+      "totale_file": 6932,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -82921,7 +82921,7 @@
                       "nome": "Fattura di vendita - Bozza documento_2300188_20230426_180039.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/zq4qqdfsayiqtfhr9ck6o/Fattura-di-vendita-Bozza-documento_2300188_20230426_180039.pdf?rlkey=ye27wenb54ueubpyhcbe9micq&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 85,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/FRYLLOS DI VIOLA MICHELE/AMMINISTRAZIONE/Fattura di vendita - Bozza documento_2300188_20230426_180039.pdf"
                     },
@@ -99226,7 +99226,7 @@
                   "nome": "MAIMONE Fattura anticipo cliente_220004_A_ELETTRONICA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/yekqbrfpgliklddlcx3ze/MAIMONE-Fattura-anticipo-cliente_220004_A_ELETTRONICA.pdf?rlkey=q878tmehgead54slj4uz7ibhx&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 33,
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/AZIENDA AGRICOLA MAIMONE FLAVIA/MAIMONE Fattura anticipo cliente_220004_A_ELETTRONICA.pdf"
                 },
@@ -114741,6 +114741,22 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/H2A/H2A AREA TECNICA",
                   "cartelle": [
                     {
+                      "nome": "MACHINA DA CAFFE FAEMA R A-2 MATRICOLA 1752938",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/H2A/H2A AREA TECNICA/MACHINA DA CAFFE FAEMA R A-2 MATRICOLA 1752938",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "DATI MACCHINA MACHINA DA CAFFE FAEMA R A-2 MATRICOLA 1752938.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/lxhx11grz8z3hj180oq7y/DATI-MACCHINA-MACHINA-DA-CAFFE-FAEMA-R-A-2-MATRICOLA-1752938.jpeg?rlkey=q46v62ws9fjewc83dm3fhx6ie&dl=0?raw=1",
+                          "dimensione_kb": 171,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/H2A/H2A AREA TECNICA/MACHINA DA CAFFE FAEMA R A-2 MATRICOLA 1752938/DATI MACCHINA MACHINA DA CAFFE FAEMA R A-2 MATRICOLA 1752938.jpeg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "PRODUTTORE DI GHIACCIO",
                       "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/H2A/H2A AREA TECNICA/PRODUTTORE DI GHIACCIO",
                       "cartelle": [],
@@ -114758,7 +114774,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 1
+                  "_totale_file": 2
                 },
                 {
                   "nome": "H2A CANTIERE GENNAIO 2025",
@@ -114915,7 +114931,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/H2A/Situazione Contabile CREDITI AL 27_08_2021.pdf"
                 }
               ],
-              "_totale_file": 19
+              "_totale_file": 20
             },
             {
               "nome": "HOTEL GARDEN",
@@ -119579,7 +119595,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 684
+          "_totale_file": 685
         },
         {
           "nome": "RIMINI",
@@ -133950,7 +133966,7 @@
                   "nome": "CAMALEONTE Fattura di vendita_220406_20220718_144416.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/s9b7td7iqpuo93ad8f8b2/CAMALEONTE-Fattura-di-vendita_220406_20220718_144416.pdf?rlkey=p913vjjms117o9uuz9oxe6x8y&dl=0?raw=1",
                   "dimensione_kb": 75,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/TABACCHI CAMALEONTE/CAMALEONTE Fattura di vendita_220406_20220718_144416.pdf"
                 },
