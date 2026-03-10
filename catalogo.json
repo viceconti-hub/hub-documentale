@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-10T02:23:09Z",
-  "totale_file": 24113,
+  "generato": "2026-03-10T04:24:04Z",
+  "totale_file": 24114,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -139090,7 +139090,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4321,
+      "totale_file": 4322,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -171780,6 +171780,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/MONDIAL FRAMEC NEWS 2025.pdf"
             },
             {
+              "nome": "MONDIAL LISTINO 2026 listino_mf-2026_r00.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w84wfbwdwgkwnz9ovryl3/MONDIAL-LISTINO-2026-listino_mf-2026_r00.pdf?rlkey=x10e8wdp290ejl97arhhctb3e&dl=0?raw=1",
+              "dimensione_kb": 4492,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/MONDIAL LISTINO 2026 listino_mf-2026_r00.pdf"
+            },
+            {
               "nome": "Novità 2025 Mondial - Framec.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -171804,7 +171812,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/cat_MONDIAL_r00.pdf"
             }
           ],
-          "_totale_file": 50
+          "_totale_file": 51
         },
         {
           "nome": "MORANO",
