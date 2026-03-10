@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-09T10:19:25Z",
-  "totale_file": 24112,
+  "generato": "2026-03-10T02:23:09Z",
+  "totale_file": 24113,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -70078,7 +70078,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 6932,
+      "totale_file": 6933,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -81292,7 +81292,7 @@
                   "nome": "Fattura di vendita_2400420_20250114_153656.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/o5g11abpsynk5dzbzuhqa/Fattura-di-vendita_2400420_20250114_153656.pdf?rlkey=5avdbtxplqh4e7262ljz4la52&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 65,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LANIFICIO MANGO CAOS SRL/Fattura di vendita_2400420_20250114_153656.pdf"
                 },
@@ -89413,7 +89413,7 @@
                   "nome": "Situazione Contabile CREDITI AL 31_08_2021.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/xd6e6cy9bijq71odjamfu/Situazione-Contabile-CREDITI-AL-31_08_2021.pdf?rlkey=0o5pkgll9danxjnyxzy0mztfz&dl=0?raw=1",
                   "dimensione_kb": 52,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY CAFE'/Situazione Contabile CREDITI AL 31_08_2021.pdf"
                 },
@@ -104450,7 +104450,7 @@
                           "nome": "MARATEA SERVIZI CUOCIPASTA BERTOS CODICE RUBINETTO 25_08_2025.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/zrvtts085i3vspifmp8ik/MARATEA-SERVIZI-CUOCIPASTA-BERTOS-CODICE-RUBINETTO-25_08_2025.jpg?rlkey=ca8brwdhz5wc3keq26ps0i87u&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 144,
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/CUOCIPASTA BERTO'S/MARATEA SERVIZI CUOCIPASTA BERTOS CODICE RUBINETTO 25_08_2025.jpg"
                         }
@@ -112011,6 +112011,14 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "FORNO MORETTI FOTO PER VERIFICA ASPIRAZIONE.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/5nfi5838u6em8hnx72uaw/FORNO-MORETTI-FOTO-PER-VERIFICA-ASPIRAZIONE.jpeg?rlkey=zf8w5xlnsloeg27s7etnr0hpr&dl=0?raw=1",
+                          "dimensione_kb": 148,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SIRTAKI AREA TECNICA/FORNO MORETTI/FORNO MORETTI FOTO PER VERIFICA ASPIRAZIONE.jpeg"
+                        },
+                        {
                           "nome": "Gmail - Viceconti Snc_ richiesta di consulenza tecnica urgente RIF. SIRTAKI.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
@@ -112035,7 +112043,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SIRTAKI AREA TECNICA/FORNO MORETTI/Moretti-Bedienungsanleitung-iDeck-PM-PD.pdf"
                         }
                       ],
-                      "_totale_file": 3
+                      "_totale_file": 4
                     },
                     {
                       "nome": "IMPASTATRICE IGF",
@@ -112248,7 +112256,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SIRTAKI AREA TECNICA/mo1830-xx-esploso.pdf"
                     }
                   ],
-                  "_totale_file": 30
+                  "_totale_file": 31
                 },
                 {
                   "nome": "SIRTAKI SITUAZIONE CONTABILE AL 26_05_2023",
@@ -112509,11 +112517,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/stampaDisposizione_20210826122421.pdf"
                 }
               ],
-              "_totale_file": 60
+              "_totale_file": 61
             }
           ],
           "file": [],
-          "_totale_file": 441
+          "_totale_file": 442
         },
         {
           "nome": "ORIOLO",
