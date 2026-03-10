@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-10T04:24:04Z",
-  "totale_file": 24114,
+  "generato": "2026-03-10T07:08:18Z",
+  "totale_file": 24123,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5502,
+      "totale_file": 5511,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -34,6 +34,22 @@
                   "link": "https://www.dropbox.com/scl/fi/fbwgtk9cjrwjl8iyc3x2d/CARNI-LIMONGI-Consegna_260069_20260227_133928.pdf?rlkey=ax9ossy7uzzmgt9gmxjxmo65o&dl=0?raw=1",
                   "dimensione_kb": 56,
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/CARNI LIMONGI Consegna_260069_20260227_133928.pdf"
+                },
+                {
+                  "nome": "CENTRAL PAUSA Consegna_260082_20260309_134013.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i3hxrahk18sicuqh571iv/CENTRAL-PAUSA-Consegna_260082_20260309_134013.pdf?rlkey=2nmg4jiq3hwlwklbotvl01ud7&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/CENTRAL PAUSA Consegna_260082_20260309_134013.pdf"
+                },
+                {
+                  "nome": "DELIZIE DEL FORNO Consegna_260080_20260309_133339.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cs1p8dskncs1klyien3nn/DELIZIE-DEL-FORNO-Consegna_260080_20260309_133339.pdf?rlkey=0dgw94t01ohl203ms3v3mji4s&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/DELIZIE DEL FORNO Consegna_260080_20260309_133339.pdf"
                 },
                 {
                   "nome": "HAPPY CAFE Consegna_260067_20260225_085613.pdf",
@@ -68,11 +84,11 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/PANAINO SRL Consegna_260068_20260226_102358.pdf"
                 }
               ],
-              "_totale_file": 6
+              "_totale_file": 8
             }
           ],
           "file": [],
-          "_totale_file": 6
+          "_totale_file": 8
         },
         {
           "nome": "FATTURE DI VENDITA",
@@ -430,6 +446,14 @@
               "link": "https://www.dropbox.com/scl/fi/dwfvfmpdyrxvbu2fky59e/GRENKE-PANAINO-Fattura-di-vendita_2500462_20251016_083342.pdf?rlkey=5e5t4n4qi5c2sv03g5vpv9l50&dl=0?raw=1",
               "dimensione_kb": 77,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/GRENKE PANAINO Fattura di vendita_2500462_20251016_083342.pdf"
+            },
+            {
+              "nome": "H2A Fattura di vendita_2600018_20260309_092809.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jy2x6vbl152h6ak9t5rom/H2A-Fattura-di-vendita_2600018_20260309_092809.pdf?rlkey=gcbsz0ura6ub79fzte5bkmxw4&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/H2A Fattura di vendita_2600018_20260309_092809.pdf"
             },
             {
               "nome": "HAPPY CAFE' Fattura di vendita_2500715_20251211_111119.pdf",
@@ -944,7 +968,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 108
+          "_totale_file": 109
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -1479,6 +1503,62 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "FRAMEC_IT-EN_Sardinia_A.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8uu87gf9wrqn0qfsj6k72/FRAMEC_IT-EN_Sardinia_A.pdf?rlkey=lfy5w70ztt0cgqob8j1v3eoo1&dl=0?raw=1",
+                  "dimensione_kb": 158,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI/FRAMEC_IT-EN_Sardinia_A.pdf"
+                },
+                {
+                  "nome": "IT_EN-Acqua_Pro.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mw653bhburvpjck9mfe42/IT_EN-Acqua_Pro.pdf?rlkey=wgfv3jwjwtd6f326s068ia6y3&dl=0?raw=1",
+                  "dimensione_kb": 257,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI/IT_EN-Acqua_Pro.pdf"
+                },
+                {
+                  "nome": "MONDIAL_IT-EN-Oasi_A.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qqvpy35wys3hasqj44yos/MONDIAL_IT-EN-Oasi_A.pdf?rlkey=8tlizhybhgk3o8wtyvehjygsj&dl=0?raw=1",
+                  "dimensione_kb": 249,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI/MONDIAL_IT-EN-Oasi_A.pdf"
+                },
+                {
+                  "nome": "MONDIAL_IT-EN-Oasi_M.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/uqb0ilpvy2lrtyago1fjs/MONDIAL_IT-EN-Oasi_M.pdf?rlkey=969x4to4h9dmcrs9dtc78gjzn&dl=0?raw=1",
+                  "dimensione_kb": 248,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI/MONDIAL_IT-EN-Oasi_M.pdf"
+                },
+                {
+                  "nome": "TESSIER MASSIMILIANO ELENCO ATTREZZATURE_260049_20260309_122945.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cfv8s1ioiez2f5xtkxfsp/TESSIER-MASSIMILIANO-ELENCO-ATTREZZATURE_260049_20260309_122945.pdf?rlkey=ewz1bba6jcooxac6gjlkwyuzg&dl=0?raw=1",
+                  "dimensione_kb": 55,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI/TESSIER MASSIMILIANO ELENCO ATTREZZATURE_260049_20260309_122945.pdf"
+                },
+                {
+                  "nome": "TESSIERE MASSIMILIANO Offerta di vendita_260049_20260309_122217.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/w8xhza6suezvlypeci9y6/TESSIERE-MASSIMILIANO-Offerta-di-vendita_260049_20260309_122217.pdf?rlkey=khiecmgzi5d0m1v2qm8gks024&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI/TESSIERE MASSIMILIANO Offerta di vendita_260049_20260309_122217.pdf"
+                }
+              ],
+              "_totale_file": 6
             },
             {
               "nome": "3AM",
@@ -57491,7 +57571,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5349
+          "_totale_file": 5355
         },
         {
           "nome": "ORDINI CLIENTE",
