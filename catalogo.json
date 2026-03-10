@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-10T07:08:18Z",
-  "totale_file": 24123,
+  "generato": "2026-03-10T08:50:16Z",
+  "totale_file": 24124,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -180916,7 +180916,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3764,
+      "totale_file": 3765,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -183681,6 +183681,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/TOP SERVICE DI TRIESTINO PANETTA 1 - Viceconti snc RIF. CENTRAL PAUSA.pdf"
                 },
                 {
+                  "nome": "ZINCO GROUP CONFERMA VICECONTI RIF.FA TU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ol6ogzjd5tug0e0vzntf7/ZINCO-GROUP-CONFERMA-VICECONTI-RIF.FA-TU.pdf?rlkey=zelhbeyfoj4i9yxkzyjw56m9c&dl=0?raw=1",
+                  "dimensione_kb": 636,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP CONFERMA VICECONTI RIF.FA TU.pdf"
+                },
+                {
                   "nome": "ZINCO GROUP DISEGNO PLENUM RIF. FA TU.jpg",
                   "tipo": "Immagine",
                   "icona": "🖼️",
@@ -183697,7 +183705,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 45
+              "_totale_file": 46
             },
             {
               "nome": "ARCHIVIO",
@@ -197602,7 +197610,7 @@
                           "nome": "ESPRESSO RICAMBI CONFERMA Preventivo70A RIF. C D.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/43ayjo2hcpj96hybuc2eu/ESPRESSO-RICAMBI-CONFERMA-Preventivo70A-RIF.-C-D.pdf?rlkey=bjxn98f6fjp15e7lo1npw6x43&dl=0?raw=1",
                           "dimensione_kb": 191,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ESPRESSO RICAMBI ORDINI D'ACQUISTO/ESPRESSO RICAMBI ARCHIVIO ORDINI D'ACQUISTO/ESPRESSO RICAMBI CONFERMA Preventivo70A RIF. C D.pdf"
                         },
@@ -197610,7 +197618,7 @@
                           "nome": "ESPRESSO RICAMBI Preventivo26A RIF. HOTEL PISACANE.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/nt2ybirit0uiposz46bm4/ESPRESSO-RICAMBI-Preventivo26A-RIF.-HOTEL-PISACANE.pdf?rlkey=gl4vw7gtdiglqfbggy19v6nw4&dl=0?raw=1",
                           "dimensione_kb": 107,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ESPRESSO RICAMBI ORDINI D'ACQUISTO/ESPRESSO RICAMBI ARCHIVIO ORDINI D'ACQUISTO/ESPRESSO RICAMBI Preventivo26A RIF. HOTEL PISACANE.pdf"
                         }
@@ -197631,7 +197639,7 @@
                       "nome": "ESPRESSO RICAMBI CONFERMA Preventivo561B RIF.HOTEL PISACANE.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/pdtqtm7o1y9upd9pm6hq7/ESPRESSO-RICAMBI-CONFERMA-Preventivo561B-RIF.HOTEL-PISACANE.pdf?rlkey=ika3n80l6o1ly7ehtngoo4et3&dl=0?raw=1",
                       "dimensione_kb": 107,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ESPRESSO RICAMBI ORDINI D'ACQUISTO/ESPRESSO RICAMBI CONFERMA Preventivo561B RIF.HOTEL PISACANE.pdf"
                     },
@@ -197639,7 +197647,7 @@
                       "nome": "ESPRESSO RICAMBI CONFERMA ordine484B RIF.HAPPY MOMENTS.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/816igoxy1jy7nim3i00op/ESPRESSO-RICAMBI-CONFERMA-ordine484B-RIF.HAPPY-MOMENTS.pdf?rlkey=o1jq94tax41wg4ab4a7dczr72&dl=0?raw=1",
                       "dimensione_kb": 107,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ESPRESSO RICAMBI ORDINI D'ACQUISTO/ESPRESSO RICAMBI CONFERMA ordine484B RIF.HAPPY MOMENTS.pdf"
                     },
@@ -197647,7 +197655,7 @@
                       "nome": "ESPRESSO RICAMBI Ordine dacquisto_230300_20230605_152555 RIF. PISACANE.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/l6rxlm1yiwunlmvrb4941/ESPRESSO-RICAMBI-Ordine-dacquisto_230300_20230605_152555-RIF.-PISACANE.pdf?rlkey=umrnl95kn94ut5d92diinhmdp&dl=0?raw=1",
                       "dimensione_kb": 72,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ESPRESSO RICAMBI ORDINI D'ACQUISTO/ESPRESSO RICAMBI Ordine dacquisto_230300_20230605_152555 RIF. PISACANE.pdf"
                     }
@@ -197663,7 +197671,7 @@
                       "nome": "ET AL CONFERMA 24004534 RIF.NEW BAR.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/g6l2jw4ug76jh6emf0bxe/ET-AL-CONFERMA-24004534-RIF.NEW-BAR.pdf?rlkey=pf7jkt7cojbkdhpqar9n6geev&dl=0?raw=1",
                       "dimensione_kb": 83,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ET AL ORDINI D'ACQUISTO/ET AL CONFERMA 24004534 RIF.NEW BAR.pdf"
                     },
@@ -212309,6 +212317,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Ordine dacquisto_260013_20260223_224309 RIF.CORRADO MICHELA.pdf"
                 },
                 {
+                  "nome": "COLDLINE Ordine dacquisto_260018_20260302_101552 RIF. CENTRAL PECORONE e MeM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jiseb1aiuflhwrh1rh00f/COLDLINE-Ordine-dacquisto_260018_20260302_101552-RIF.-CENTRAL-PECORONE-e-MeM.pdf?rlkey=l8sohy6wf6n8vkio35lw09dgt&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Ordine dacquisto_260018_20260302_101552 RIF. CENTRAL PECORONE e MeM.pdf"
+                },
+                {
                   "nome": "COLDLINE PACKING LISTI 17_09_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -213357,20 +213373,11 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3425
+              "_totale_file": 3426
             }
           ],
-          "file": [
-            {
-              "nome": "COLDLINE Ordine dacquisto_260018_20260302_101552 RIF. CENTRAL PECORONE e MeM.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/jiseb1aiuflhwrh1rh00f/COLDLINE-Ordine-dacquisto_260018_20260302_101552-RIF.-CENTRAL-PECORONE-e-MeM.pdf?rlkey=l8sohy6wf6n8vkio35lw09dgt&dl=0?raw=1",
-              "dimensione_kb": 71,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Ordine dacquisto_260018_20260302_101552 RIF. CENTRAL PECORONE e MeM.pdf"
-            }
-          ],
-          "_totale_file": 3471
+          "file": [],
+          "_totale_file": 3472
         }
       ],
       "file": []
