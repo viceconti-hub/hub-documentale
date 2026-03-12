@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-12T04:13:22Z",
-  "totale_file": 24124,
+  "generato": "2026-03-12T11:39:20Z",
+  "totale_file": 24127,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61049,7 +61049,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 921,
+      "totale_file": 924,
       "cartelle": [
         {
           "nome": "MARATEA",
@@ -69764,6 +69764,38 @@
             }
           ],
           "_totale_file": 876
+        },
+        {
+          "nome": "MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "CENTRALE DI DEODORIZZAZIONE CARBONI ATTIVI AIRFAN .pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7vgadpnt22p8spo10gagj/CENTRALE-DI-DEODORIZZAZIONE-CARBONI-ATTIVI-AIRFAN.pdf?rlkey=oq9gimdfecnnemfv874458agr&dl=0?raw=1",
+              "dimensione_kb": 3585,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026/CENTRALE DI DEODORIZZAZIONE CARBONI ATTIVI AIRFAN .pdf"
+            },
+            {
+              "nome": "CENTRALINA A CARBONE ATTIVO CODICE E DESCRIZIONE DA CONFERMA.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/r9rg4ccr79d8ce5by9yt5/CENTRALINA-A-CARBONE-ATTIVO-CODICE-E-DESCRIZIONE-DA-CONFERMA.png?rlkey=e3it6jeo24ly9ltcunb6h2uv5&dl=0?raw=1",
+              "dimensione_kb": 23,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026/CENTRALINA A CARBONE ATTIVO CODICE E DESCRIZIONE DA CONFERMA.png"
+            },
+            {
+              "nome": "CENTRALINA A CARBONE ATTIVO PAGINA LISTINO IDEAM INOX.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7ts5t6rngdv8lyn70hj85/CENTRALINA-A-CARBONE-ATTIVO-PAGINA-LISTINO-IDEAM-INOX.pdf?rlkey=u4y1dee6arr98stl025te23r6&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026/CENTRALINA A CARBONE ATTIVO PAGINA LISTINO IDEAM INOX.pdf"
+            }
+          ],
+          "_totale_file": 3
         },
         {
           "nome": "MeM SRL",
