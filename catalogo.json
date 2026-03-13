@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-13T10:15:10Z",
-  "totale_file": 23238,
+  "generato": "2026-03-13T12:05:33Z",
+  "totale_file": 23240,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61233,7 +61233,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 11,
+      "totale_file": 13,
       "cartelle": [
         {
           "nome": "FA TU COMPASS MARZO 2026",
@@ -61335,9 +61335,25 @@
               "link": "https://www.dropbox.com/scl/fi/5hqhu21q71bofcck88j48/MARATEA-SERVIZI-CENTRALINA-PARETE-B-NS-IPOTESI.jpg?rlkey=q30pz03gxgt7d2uz3hvaa8ka0&dl=0?raw=1",
               "dimensione_kb": 31,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026/MARATEA SERVIZI CENTRALINA PARETE B NS IPOTESI.jpg"
+            },
+            {
+              "nome": "MODULO FILTRI.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/c5um22vqdkt1rrj61ic0u/MODULO-FILTRI.png?rlkey=9r68uunb47en41ok7pm850yu3&dl=0?raw=1",
+              "dimensione_kb": 231,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026/MODULO FILTRI.png"
+            },
+            {
+              "nome": "MODULO MOTORE.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/2pt3c6l2yvbvcrw1jok23/MODULO-MOTORE.png?rlkey=i6h7mq7cjushygtlq69kk471w&dl=0?raw=1",
+              "dimensione_kb": 163,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026/MODULO MOTORE.png"
             }
           ],
-          "_totale_file": 6
+          "_totale_file": 8
         }
       ],
       "file": []
