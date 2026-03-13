@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-13T04:15:04Z",
-  "totale_file": 24127,
+  "generato": "2026-03-13T06:55:58Z",
+  "totale_file": 24143,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5511,
+      "totale_file": 5527,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -60,6 +60,14 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/HAPPY CAFE Consegna_260067_20260225_085613.pdf"
                 },
                 {
+                  "nome": "HAPPY MOMENTS Consegna_260085_20260311_122430.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/b3ez3v7a9gvurgv1ls4vf/HAPPY-MOMENTS-Consegna_260085_20260311_122430.pdf?rlkey=ivk02nm6o00ddz0e07xm1f4as&dl=0?raw=1",
+                  "dimensione_kb": 59,
+                  "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/HAPPY MOMENTS Consegna_260085_20260311_122430.pdf"
+                },
+                {
                   "nome": "LA REGINA TERMINAL Consegna_260062_20260223_193848.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -84,11 +92,11 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/PANAINO SRL Consegna_260068_20260226_102358.pdf"
                 }
               ],
-              "_totale_file": 8
+              "_totale_file": 9
             }
           ],
           "file": [],
-          "_totale_file": 8
+          "_totale_file": 9
         },
         {
           "nome": "FATTURE DI VENDITA",
@@ -1559,6 +1567,182 @@
                 }
               ],
               "_totale_file": 6
+            },
+            {
+              "nome": "2026_03_10 CORRADO FRIGGITRICE FERRO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_10 CORRADO FRIGGITRICE FERRO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Offerta di vendita_260050_20260310_162921.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3y1fzwrtn074cn4fi9kga/Offerta-di-vendita_260050_20260310_162921.pdf?rlkey=ygmrpy2kzp5rstt2efo7wpgjx&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_10 CORRADO FRIGGITRICE FERRO/Offerta di vendita_260050_20260310_162921.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_03_11 ACAL LAVANDERIA",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_11 ACAL LAVANDERIA",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ACAL Offerta di vendita_260026_20260311_132408.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zsmh9d5jccw8ee8i4hgtq/ACAL-Offerta-di-vendita_260026_20260311_132408.pdf?rlkey=8sbhiwqrj7e3cg56uc6t5evz6&dl=0?raw=1",
+                  "dimensione_kb": 92,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_11 ACAL LAVANDERIA/ACAL Offerta di vendita_260026_20260311_132408.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_03_11 PROLOCO LAINO CASSERUOLE ALTE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_11 PROLOCO LAINO CASSERUOLE ALTE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "CASSERUOLE ALTE MORINI RITAGLIO CATALOGO.png",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/0sinj1x8eqlu8f7ahfcg4/CASSERUOLE-ALTE-MORINI-RITAGLIO-CATALOGO.png?rlkey=0nj241a9489dcwewo5s8i9jlh&dl=0?raw=1",
+                  "dimensione_kb": 363,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_11 PROLOCO LAINO CASSERUOLE ALTE/CASSERUOLE ALTE MORINI RITAGLIO CATALOGO.png"
+                },
+                {
+                  "nome": "PROLOCO LAINO Offerta di vendita_260052_20260311_191855 CASSERUOLE ALTE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yawxot93e71cvirfsddja/PROLOCO-LAINO-Offerta-di-vendita_260052_20260311_191855-CASSERUOLE-ALTE.pdf?rlkey=7vwo2qrzol9sw3tivoad82mb9&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_11 PROLOCO LAINO CASSERUOLE ALTE/PROLOCO LAINO Offerta di vendita_260052_20260311_191855 CASSERUOLE ALTE.pdf"
+                }
+              ],
+              "_totale_file": 2
+            },
+            {
+              "nome": "2026_03_12 3AM VASCA PER PLUTONE 7 SIRMAN",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 3AM VASCA PER PLUTONE 7 SIRMAN",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "3AM Offerta di vendita_260056_20260312_212850 VASCA PLUTONE 7.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/miryemsl8qubhp4qx31ap/3AM-Offerta-di-vendita_260056_20260312_212850-VASCA-PLUTONE-7.pdf?rlkey=7pebty2hxwraelgn35xjuhuxv&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 3AM VASCA PER PLUTONE 7 SIRMAN/3AM Offerta di vendita_260056_20260312_212850 VASCA PLUTONE 7.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_03_12 LUTIPICO SCAFFALI ARTINOX",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 LUTIPICO SCAFFALI ARTINOX",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ARTINOX ECOCOLOR RITAGLIO CATALOGO.png",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/hk32goqqog1fahi7yolqi/ARTINOX-ECOCOLOR-RITAGLIO-CATALOGO.png?rlkey=rl4onlek7e6o6yqqvjfm32sk9&dl=0?raw=1",
+                  "dimensione_kb": 320,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 LUTIPICO SCAFFALI ARTINOX/ARTINOX ECOCOLOR RITAGLIO CATALOGO.png"
+                },
+                {
+                  "nome": "LUTIPICO Offerta di vendita_260054_20260312_211253 SCAFFALI ARTINOX.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9gy4krj2pxeok13uqqdup/LUTIPICO-Offerta-di-vendita_260054_20260312_211253-SCAFFALI-ARTINOX.pdf?rlkey=pyuz7udu6p795zn7kd5nwawvx&dl=0?raw=1",
+                  "dimensione_kb": 86,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 LUTIPICO SCAFFALI ARTINOX/LUTIPICO Offerta di vendita_260054_20260312_211253 SCAFFALI ARTINOX.pdf"
+                },
+                {
+                  "nome": "Offerta di vendita_260054_20260312_192836.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vy0dtivh1v06vsgehupy6/Offerta-di-vendita_260054_20260312_192836.pdf?rlkey=jhw50hhp6mk4turekoqy1qozn&dl=0?raw=1",
+                  "dimensione_kb": 86,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 LUTIPICO SCAFFALI ARTINOX/Offerta di vendita_260054_20260312_192836.pdf"
+                },
+                {
+                  "nome": "Viceconti_offerta 2195_ecocolor_2d.Pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d7eqxdbw4bua7y1l9j38i/Viceconti_offerta-2195_ecocolor_2d.Pdf?rlkey=i5vachi4hgtlhyccfj8cuj9iv&dl=0?raw=1",
+                  "dimensione_kb": 586,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 LUTIPICO SCAFFALI ARTINOX/Viceconti_offerta 2195_ecocolor_2d.Pdf"
+                },
+                {
+                  "nome": "Viceconti_offerta 2195_ecocolor_3d.Pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2ptwas5s49imd6uqw7gqn/Viceconti_offerta-2195_ecocolor_3d.Pdf?rlkey=k1260iiv2aucjilmd99vbgq7d&dl=0?raw=1",
+                  "dimensione_kb": 1078,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 LUTIPICO SCAFFALI ARTINOX/Viceconti_offerta 2195_ecocolor_3d.Pdf"
+                },
+                {
+                  "nome": "artinox-shelving-leaflet-eco-line-eng-ita-deu-fra.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/l9m8ov8mxj9ofyteikb23/artinox-shelving-leaflet-eco-line-eng-ita-deu-fra.pdf?rlkey=rv0sgqavm04xux7whfvhabjg3&dl=0?raw=1",
+                  "dimensione_kb": 4162,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 LUTIPICO SCAFFALI ARTINOX/artinox-shelving-leaflet-eco-line-eng-ita-deu-fra.pdf"
+                }
+              ],
+              "_totale_file": 6
+            },
+            {
+              "nome": "2026_03_12 MS NAPOLEONE SCAFFALI ARTINOX",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 MS NAPOLEONE SCAFFALI ARTINOX",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Offerta di vendita_260055_20260312_195331.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pbeoe8cfrjupt3dqole3n/Offerta-di-vendita_260055_20260312_195331.pdf?rlkey=ocb1ogksnmfd2yq7g2hwr56ar&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 MS NAPOLEONE SCAFFALI ARTINOX/Offerta di vendita_260055_20260312_195331.pdf"
+                },
+                {
+                  "nome": "Viceconti_offerta 2196_ecocolor_2d.Pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rmmsas4asj3up6f5nfovr/Viceconti_offerta-2196_ecocolor_2d.Pdf?rlkey=52sa7nchf8t56gxfkpcitldmj&dl=0?raw=1",
+                  "dimensione_kb": 743,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 MS NAPOLEONE SCAFFALI ARTINOX/Viceconti_offerta 2196_ecocolor_2d.Pdf"
+                },
+                {
+                  "nome": "Viceconti_offerta 2196_ecocolor_3d.Pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yyuqtm96fijapfqrs7c49/Viceconti_offerta-2196_ecocolor_3d.Pdf?rlkey=jqh3tljh172cnbk4jpwhi8kcx&dl=0?raw=1",
+                  "dimensione_kb": 771,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 MS NAPOLEONE SCAFFALI ARTINOX/Viceconti_offerta 2196_ecocolor_3d.Pdf"
+                }
+              ],
+              "_totale_file": 3
+            },
+            {
+              "nome": "2026_03_12 VELARDI ARREDO INOX",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 VELARDI ARREDO INOX",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "VELARDI Offerta di vendita_260053_20260312_111807 RIF.ARREDO INOX.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0mlzy5k4eydh4zzl5zasi/VELARDI-Offerta-di-vendita_260053_20260312_111807-RIF.ARREDO-INOX.pdf?rlkey=mqd3mtw32etzo03wvu14l1etv&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_12 VELARDI ARREDO INOX/VELARDI Offerta di vendita_260053_20260312_111807 RIF.ARREDO INOX.pdf"
+                }
+              ],
+              "_totale_file": 1
             },
             {
               "nome": "3AM",
@@ -57571,7 +57755,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5355
+          "_totale_file": 5370
         },
         {
           "nome": "ORDINI CLIENTE",
