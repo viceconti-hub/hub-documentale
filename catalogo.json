@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-13T09:10:21Z",
-  "totale_file": 23232,
+  "generato": "2026-03-13T10:00:29Z",
+  "totale_file": 23235,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61233,7 +61233,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 8,
+      "totale_file": 11,
       "cartelle": [
         {
           "nome": "FA TU COMPASS MARZO 2026",
@@ -61311,9 +61311,33 @@
               "link": "https://www.dropbox.com/scl/fi/7ts5t6rngdv8lyn70hj85/CENTRALINA-A-CARBONE-ATTIVO-PAGINA-LISTINO-IDEAM-INOX.pdf?rlkey=u4y1dee6arr98stl025te23r6&dl=0?raw=1",
               "dimensione_kb": 74,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026/CENTRALINA A CARBONE ATTIVO PAGINA LISTINO IDEAM INOX.pdf"
+            },
+            {
+              "nome": "MARATEA SERVIZI CENTRALINA PARETE A NS IPOTESI.jpg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/1n4oaka7h0400n4rvjxas/MARATEA-SERVIZI-CENTRALINA-PARETE-A-NS-IPOTESI.jpg?rlkey=iz1cna1ftx2vcvdm8z0iqdynk&dl=0?raw=1",
+              "dimensione_kb": 45,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026/MARATEA SERVIZI CENTRALINA PARETE A NS IPOTESI.jpg"
+            },
+            {
+              "nome": "MARATEA SERVIZI CENTRALINA PARETE A.jpg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/qh8b6vd0z2araltcv2dbp/MARATEA-SERVIZI-CENTRALINA-PARETE-A.jpg?rlkey=don7ashcjv1vu0ar1wsuxpzzz&dl=0?raw=1",
+              "dimensione_kb": 45,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026/MARATEA SERVIZI CENTRALINA PARETE A.jpg"
+            },
+            {
+              "nome": "MARATEA SERVIZI CENTRALINA PARETE B NS IPOTESI.jpg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/5hqhu21q71bofcck88j48/MARATEA-SERVIZI-CENTRALINA-PARETE-B-NS-IPOTESI.jpg?rlkey=q30pz03gxgt7d2uz3hvaa8ka0&dl=0?raw=1",
+              "dimensione_kb": 31,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026/MARATEA SERVIZI CENTRALINA PARETE B NS IPOTESI.jpg"
             }
           ],
-          "_totale_file": 3
+          "_totale_file": 6
         }
       ],
       "file": []
