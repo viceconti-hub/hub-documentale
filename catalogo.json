@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-14T04:09:20Z",
-  "totale_file": 23246,
+  "generato": "2026-03-14T06:48:49Z",
+  "totale_file": 23250,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5527,
+      "totale_file": 5531,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -656,6 +656,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/M&M SRL IT016417907022025H_0bGN9.pdf"
             },
             {
+              "nome": "MACELLERIA DI PATITUCCI MAURIZIO Fattura di vendita_2600056_20260313_112644.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f68qdkhubxiviziht580o/MACELLERIA-DI-PATITUCCI-MAURIZIO-Fattura-di-vendita_2600056_20260313_112644.pdf?rlkey=joa46klssqbact1x7ifm6cs10&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/MACELLERIA DI PATITUCCI MAURIZIO Fattura di vendita_2600056_20260313_112644.pdf"
+            },
+            {
               "nome": "MARATEA SERVIZI Fattura di vendita_2500793_20251211_210224.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -976,7 +984,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 109
+          "_totale_file": 110
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -1594,7 +1602,7 @@
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/zsmh9d5jccw8ee8i4hgtq/ACAL-Offerta-di-vendita_260026_20260311_132408.pdf?rlkey=8sbhiwqrj7e3cg56uc6t5evz6&dl=0?raw=1",
-                  "dimensione_kb": 92,
+                  "dimensione_kb": 93,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_11 ACAL LAVANDERIA/ACAL Offerta di vendita_260026_20260311_132408.pdf"
                 }
               ],
@@ -1743,6 +1751,38 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_03_13 SAFAR FRIGGITRICE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_13 SAFAR FRIGGITRICE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Offerta di vendita_241036_20241221_125206 permuta.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xeg4ubkrs1cioengil8yu/Offerta-di-vendita_241036_20241221_125206-permuta.pdf?rlkey=ekpm8xijtv06sofmnjkzhht8t&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_13 SAFAR FRIGGITRICE/Offerta di vendita_241036_20241221_125206 permuta.pdf"
+                },
+                {
+                  "nome": "scheda_17250500.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8gj2ipfq096k9v53hxi6j/scheda_17250500.pdf?rlkey=mb35tuv9ve8pqrnsaalwi7t38&dl=0?raw=1",
+                  "dimensione_kb": 420,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_13 SAFAR FRIGGITRICE/scheda_17250500.pdf"
+                },
+                {
+                  "nome": "scheda_17380000.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jke8avly2z0qc9i0xzgm7/scheda_17380000.pdf?rlkey=ew7jb0sv80iih1kvtfticw6ub&dl=0?raw=1",
+                  "dimensione_kb": 902,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_13 SAFAR FRIGGITRICE/scheda_17380000.pdf"
+                }
+              ],
+              "_totale_file": 3
             },
             {
               "nome": "3AM",
@@ -21498,7 +21538,7 @@
                               "nome": "Offerta di vendita_200442_CORRETTA_.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/3ps6fy9g5ue3lxplr1tx1/Offerta-di-vendita_200442_CORRETTA_.pdf?rlkey=ve8yr99paubj898p79wbbzdu7&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 70,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ARCHIVIO OFFERTE INVIATE 2022/ARCHIVIO OFFERTE CLIENTI AL 2021/OLIVA PASQUALE/FORCAR - MURALE/Offerta di vendita_200442_CORRETTA_.pdf"
                             }
@@ -23345,7 +23385,7 @@
                                   "nome": "COLDLINE VISION 60 TEGLIE 60X40.pdf",
                                   "tipo": "PDF",
                                   "icona": "📄",
-                                  "link": "https://www.dropbox.com/scl/fi/pskfahj8pfladq69m161s/COLDLINE-VISION-60-TEGLIE-60X40.pdf?rlkey=1t8e8t3op9cmt9o1ihapugjro&dl=0?raw=1",
+                                  "link": null,
                                   "dimensione_kb": 658,
                                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ARCHIVIO OFFERTE INVIATE 2022/ARCHIVIO OFFERTE CLIENTI AL 2021/PASTICCERIA TUZIO/ARCHIVIO/FERMALIEVITAZIONE VISION/COLDLINE VISION 60 TEGLIE 60X40.pdf"
                                 },
@@ -57755,7 +57795,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5370
+          "_totale_file": 5373
         },
         {
           "nome": "ORDINI CLIENTE",
