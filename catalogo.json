@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-13T12:10:36Z",
-  "totale_file": 23240,
+  "generato": "2026-03-14T02:14:24Z",
+  "totale_file": 23241,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61362,7 +61362,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 6933,
+      "totale_file": 6934,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -69308,7 +69308,7 @@
                   "nome": "WHITE HORSE BOZZA FT.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/4mxlhd01eb2ox9wozttyy/WHITE-HORSE-BOZZA-FT.pdf?rlkey=08l4tiqcxk41saonve5cq8qv9&dl=0?raw=1",
                   "dimensione_kb": 78,
                   "path": "/HUB DOCUMENTALE/CLIENTI/DA ARCHIVIARE/FATTURE VENDITA ARCHIVIO/WHITE HORSE BOZZA FT.pdf"
                 },
@@ -100928,6 +100928,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL LIBERATORIA VICEONTI SNC.docx"
                 },
                 {
+                  "nome": "ACAL SRL Offerta di vendita_260026_20260313_124137.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/37mg6hwwah3ysp8rb7aiz/ACAL-SRL-Offerta-di-vendita_260026_20260313_124137.pdf?rlkey=kasebqkrf9rskanx0u8stxm78&dl=0?raw=1",
+                  "dimensione_kb": 93,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL Offerta di vendita_260026_20260313_124137.pdf"
+                },
+                {
                   "nome": "Acciaio T&D LISTINO_10-2020 TAVOLI AD ANGOLO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -100968,7 +100976,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ricevuta_operazione_2976623243.pdf"
                 }
               ],
-              "_totale_file": 138
+              "_totale_file": 139
             },
             {
               "nome": "AGRIBOSCO DI CARRAZZONE",
@@ -103805,7 +103813,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 442
+          "_totale_file": 443
         },
         {
           "nome": "ORIOLO",
@@ -119141,7 +119149,7 @@
                       "nome": "Bozza Fattura anticipo VICECONTI snc.xlsx",
                       "tipo": "Excel",
                       "icona": "📊",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/kvtre8hbn79c5avztu44j/Bozza-Fattura-anticipo-VICECONTI-snc.xlsx?rlkey=2phnnvm07tcfdov7q8mjez5do&dl=0?raw=1",
                       "dimensione_kb": 6,
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/LUILORE' SRLS/ARCHIVIO/Bozza Fattura anticipo VICECONTI snc.xlsx"
                     },
