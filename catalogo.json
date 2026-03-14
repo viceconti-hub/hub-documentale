@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-14T02:14:24Z",
-  "totale_file": 23241,
+  "generato": "2026-03-14T04:09:20Z",
+  "totale_file": 23246,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -130382,7 +130382,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4322,
+      "totale_file": 4327,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -141525,6 +141525,54 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/SAN NICOLA ARCELLA/FA TU srl",
                   "cartelle": [
                     {
+                      "nome": "FA TU COMPASS MARZO 2026",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/SAN NICOLA ARCELLA/FA TU srl/FA TU COMPASS MARZO 2026",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "FA TU CONTRATTO COMPASS.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/00id59kt20iiq0efzfrdd/FA-TU-CONTRATTO-COMPASS.pdf?rlkey=zt9471kyemrocs7pte0we0emr&dl=0?raw=1",
+                          "dimensione_kb": 550,
+                          "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/SAN NICOLA ARCELLA/FA TU srl/FA TU COMPASS MARZO 2026/FA TU CONTRATTO COMPASS.pdf"
+                        },
+                        {
+                          "nome": "FA TU EMAIL AVALLONE Gmail - Fwd_ 33364858 FA' TU.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/ibpirzppafckf5g1maor1/FA-TU-EMAIL-AVALLONE-Gmail-Fwd_-33364858-FA-TU.pdf?rlkey=4und5kedijmpx768ul1icgmhe&dl=0?raw=1",
+                          "dimensione_kb": 472,
+                          "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/SAN NICOLA ARCELLA/FA TU srl/FA TU COMPASS MARZO 2026/FA TU EMAIL AVALLONE Gmail - Fwd_ 33364858 FA' TU.pdf"
+                        },
+                        {
+                          "nome": "FA TU Fattura 2600055 DEL 13_03_2026 ELETTRONICA .pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/1ejxx023sebq73obl7ffz/FA-TU-Fattura-2600055-DEL-13_03_2026-ELETTRONICA.pdf?rlkey=35qvwke5yq9o3tdlllz75j8in&dl=0?raw=1",
+                          "dimensione_kb": 8,
+                          "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/SAN NICOLA ARCELLA/FA TU srl/FA TU COMPASS MARZO 2026/FA TU Fattura 2600055 DEL 13_03_2026 ELETTRONICA .pdf"
+                        },
+                        {
+                          "nome": "FA TU Offerta di vendita_260034_20260313_084510.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/pxcslci6dfx46z34fogde/FA-TU-Offerta-di-vendita_260034_20260313_084510.pdf?rlkey=0puldtc31oaewuxxnmtrxef8u&dl=0?raw=1",
+                          "dimensione_kb": 94,
+                          "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/SAN NICOLA ARCELLA/FA TU srl/FA TU COMPASS MARZO 2026/FA TU Offerta di vendita_260034_20260313_084510.pdf"
+                        },
+                        {
+                          "nome": "FA TU PRIVACY COMPASS COM104D_01_26.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/exiqe0wp8mfaowbffpe2x/FA-TU-PRIVACY-COMPASS-COM104D_01_26.pdf?rlkey=g4tms6jequ71hxcsgx4snx1bl&dl=0?raw=1",
+                          "dimensione_kb": 840,
+                          "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/SAN NICOLA ARCELLA/FA TU srl/FA TU COMPASS MARZO 2026/FA TU PRIVACY COMPASS COM104D_01_26.pdf"
+                        }
+                      ],
+                      "_totale_file": 5
+                    },
+                    {
                       "nome": "Finanziamento 2022",
                       "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/SAN NICOLA ARCELLA/FA TU srl/Finanziamento 2022",
                       "cartelle": [
@@ -141711,7 +141759,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 20
+                  "_totale_file": 25
                 },
                 {
                   "nome": "LIDO SAN FRANCESCO_ESANOFELE",
@@ -142276,7 +142324,7 @@
                 }
               ],
               "file": [],
-              "_totale_file": 92
+              "_totale_file": 97
             },
             {
               "nome": "SCALEA",
@@ -143225,7 +143273,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/TABELLE TASSO AGEVOLATO 28000.pdf"
             }
           ],
-          "_totale_file": 630
+          "_totale_file": 635
         },
         {
           "nome": "CONTI",
