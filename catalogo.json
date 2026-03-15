@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-15T02:07:14Z",
-  "totale_file": 23250,
+  "generato": "2026-03-15T03:57:56Z",
+  "totale_file": 23260,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -130422,7 +130422,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4327,
+      "totale_file": 4337,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -150715,6 +150715,95 @@
           "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE",
           "cartelle": [
             {
+              "nome": "A.M. di Antonella Mancino sas",
+              "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas",
+              "cartelle": [
+                {
+                  "nome": "Archivio",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas/Archivio",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "SITUAZIONE_CONTABILE_A.M._SAS.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/5gl7swiw0xosel21ycokz/SITUAZIONE_CONTABILE_A.M._SAS.pdf?rlkey=5ywnmperj7bkv491f6nmuh03n&dl=0?raw=1",
+                      "dimensione_kb": 19,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas/Archivio/SITUAZIONE_CONTABILE_A.M._SAS.pdf"
+                    },
+                    {
+                      "nome": "situazione al 31.07.2025.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ptwbd37a7ecvajnahbaoo/situazione-al-31.07.2025.pdf?rlkey=gi6jh4nz5u2agxts8vik03vnn&dl=0?raw=1",
+                      "dimensione_kb": 13,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas/Archivio/situazione al 31.07.2025.pdf"
+                    }
+                  ],
+                  "_totale_file": 2
+                }
+              ],
+              "file": [
+                {
+                  "nome": "2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6jlhrtxmf80cr28usx08u/2024.pdf?rlkey=pambc8s2rhy0cqrb340xtdp7h&dl=0?raw=1",
+                  "dimensione_kb": 889,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas/2024.pdf"
+                },
+                {
+                  "nome": "2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zn1mzwz4u14ltsgkcun1b/2025.pdf?rlkey=tx6lyz4koatqe280q4v8zjov5&dl=0?raw=1",
+                  "dimensione_kb": 772,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas/2025.pdf"
+                },
+                {
+                  "nome": "A.M. di Antonella Mancino s.a.s. - Offerta di vendita n° 260003.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/94i6z164zunvl0pcjrh0w/A.M.-di-Antonella-Mancino-s.a.s.-Offerta-di-vendita-n-260003.pdf?rlkey=4hvkxoifyx3wuesljg4vytu2d&dl=0?raw=1",
+                  "dimensione_kb": 86,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas/A.M. di Antonella Mancino s.a.s. - Offerta di vendita n° 260003.pdf"
+                },
+                {
+                  "nome": "CF Frontale Antonella Mancino.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/gqi8i30pyqa7dmrkmhts6/CF-Frontale-Antonella-Mancino.jpeg?rlkey=xd1q039xhnfoeqbdjjkzthwax&dl=0?raw=1",
+                  "dimensione_kb": 99,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas/CF Frontale Antonella Mancino.jpeg"
+                },
+                {
+                  "nome": "CF Retro Antonella Mancino.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/g8rxe0a4gv1p0a2evl6mf/CF-Retro-Antonella-Mancino.jpeg?rlkey=vhhzv9fmy6tcypkhiue76kijr&dl=0?raw=1",
+                  "dimensione_kb": 136,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas/CF Retro Antonella Mancino.jpeg"
+                },
+                {
+                  "nome": "CI Antonella Mancino.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wlkpxf2x1fkaoicejawoh/CI-Antonella-Mancino.pdf?rlkey=y32ihxl48ashhyaplt68a2d7c&dl=0?raw=1",
+                  "dimensione_kb": 533,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas/CI Antonella Mancino.pdf"
+                },
+                {
+                  "nome": "Visura A.M. di Antonella Mancino sas 9 10 2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/izy2kdv58v7o3b9ofownd/Visura-A.M.-di-Antonella-Mancino-sas-9-10-2025.pdf?rlkey=w1tck5b9oig153q3qwcfhg73s&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/A.M. di Antonella Mancino sas/Visura A.M. di Antonella Mancino sas 9 10 2025.pdf"
+                }
+              ],
+              "_totale_file": 9
+            },
+            {
               "nome": "ARTE DOLCIARIA TRECCHINESE",
               "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/ARTE DOLCIARIA TRECCHINESE",
               "cartelle": [],
@@ -155378,7 +155467,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/ce 062410722.pdf"
             }
           ],
-          "_totale_file": 467
+          "_totale_file": 476
         },
         {
           "nome": "GRILLO ITALO GRILLO ANNARITA",
@@ -171482,6 +171571,14 @@
           ],
           "file": [
             {
+              "nome": "ATOLL SPEED MANUALE ISTRUZIONI AS300H_easy_black_Bedienungsanleitung_EN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/x4q92ao2kf4rjw61ls2qh/ATOLL-SPEED-MANUALE-ISTRUZIONI-AS300H_easy_black_Bedienungsanleitung_EN.pdf?rlkey=eo09puyd3tvn24bamnred0vjd&dl=0?raw=1",
+              "dimensione_kb": 3105,
+              "path": "/HUB DOCUMENTALE/FORNITORI/WIESHEU/ATOLL SPEED MANUALE ISTRUZIONI AS300H_easy_black_Bedienungsanleitung_EN.pdf"
+            },
+            {
               "nome": "FO_35 Stammdatenblatt - data sheet.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -171514,7 +171611,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/WIESHEU/WISHEU FT SRG-71648374.pdf"
             }
           ],
-          "_totale_file": 17
+          "_totale_file": 18
         },
         {
           "nome": "WIND",
