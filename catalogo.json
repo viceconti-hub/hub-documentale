@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-15T03:57:56Z",
-  "totale_file": 23260,
+  "generato": "2026-03-15T06:33:56Z",
+  "totale_file": 23261,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5531,
+      "totale_file": 5532,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -568,6 +568,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/I SAPORI DI MARIANNA Fattura di vendita_2500724_20251018_095236.pdf"
             },
             {
+              "nome": "ILAMA FATTURA DI ANTICIPO 2610002 DEL 14_03_2026 IT016417907022026J_02Bta.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w2fk31etccy72gqsplkgf/ILAMA-FATTURA-DI-ANTICIPO-2610002-DEL-14_03_2026-IT016417907022026J_02Bta.pdf?rlkey=52vx6s9xo4sppgn1cxgi00xm4&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/ILAMA FATTURA DI ANTICIPO 2610002 DEL 14_03_2026 IT016417907022026J_02Bta.pdf"
+            },
+            {
               "nome": "ILAMA Fattura di vendita_2500147_20260203_191153.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -984,7 +992,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 110
+          "_totale_file": 111
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -21538,7 +21546,7 @@
                               "nome": "Offerta di vendita_200442_CORRETTA_.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": null,
+                              "link": "https://www.dropbox.com/scl/fi/3ps6fy9g5ue3lxplr1tx1/Offerta-di-vendita_200442_CORRETTA_.pdf?rlkey=ve8yr99paubj898p79wbbzdu7&dl=0?raw=1",
                               "dimensione_kb": 70,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ARCHIVIO OFFERTE INVIATE 2022/ARCHIVIO OFFERTE CLIENTI AL 2021/OLIVA PASQUALE/FORCAR - MURALE/Offerta di vendita_200442_CORRETTA_.pdf"
                             }
@@ -23385,7 +23393,7 @@
                                   "nome": "COLDLINE VISION 60 TEGLIE 60X40.pdf",
                                   "tipo": "PDF",
                                   "icona": "📄",
-                                  "link": null,
+                                  "link": "https://www.dropbox.com/scl/fi/pskfahj8pfladq69m161s/COLDLINE-VISION-60-TEGLIE-60X40.pdf?rlkey=1t8e8t3op9cmt9o1ihapugjro&dl=0?raw=1",
                                   "dimensione_kb": 658,
                                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ARCHIVIO OFFERTE INVIATE 2022/ARCHIVIO OFFERTE CLIENTI AL 2021/PASTICCERIA TUZIO/ARCHIVIO/FERMALIEVITAZIONE VISION/COLDLINE VISION 60 TEGLIE 60X40.pdf"
                                 },
