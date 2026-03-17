@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-17T09:00:26Z",
-  "totale_file": 23297,
+  "generato": "2026-03-17T09:49:21Z",
+  "totale_file": 23298,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61281,7 +61281,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 14,
+      "totale_file": 13,
       "cartelle": [
         {
           "nome": "FA TU COMPASS MARZO 2026",
@@ -61404,16 +61404,7 @@
           "_totale_file": 8
         }
       ],
-      "file": [
-        {
-          "nome": "FA'TU- 18022025.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/h795pqll73nu76jfapwf9/FA-TU-18022025.pdf?rlkey=7jaljdu2st3vvlp94fgdqm9e3&dl=0?raw=1",
-          "dimensione_kb": 1896,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA'TU- 18022025.pdf"
-        }
-      ]
+      "file": []
     },
     {
       "nome": "CLIENTI",
@@ -205146,7 +205137,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2297,
+      "totale_file": 2299,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -205254,6 +205245,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/HAPPY MOMENTS BONIFICO_VICECONT_ATT_FT_691_26.09.25.pdf"
                 },
                 {
+                  "nome": "ILAMA BONIFICO DEL 16_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ddie2tpv7yde59dkl8uh4/ILAMA-BONIFICO-DEL-16_03_2026.pdf?rlkey=k8odelax8de6w56vn01cosvz6&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/ILAMA BONIFICO DEL 16_03_2026.pdf"
+                },
+                {
                   "nome": "RADICI 20251103_Bonifico_-_Viceconti_SNC_Di_Antonio_e_Prospero_Viceconti_Conto_1000-00004634_02-360892658.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -205286,11 +205285,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/VE.RO. COPIA TITOLI.jpeg"
                 }
               ],
-              "_totale_file": 16
+              "_totale_file": 17
             }
           ],
           "file": [],
-          "_totale_file": 16
+          "_totale_file": 17
         },
         {
           "nome": "PAGAMENTI IN USCITA",
@@ -205590,6 +205589,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/REPA Dettaglio bonifico DEL 10_03_2026.pdf"
                 },
                 {
+                  "nome": "REPA Dettaglio bonifico istantaneo DEL 17_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yxz1zcx1afv4d0yeolsu4/REPA-Dettaglio-bonifico-istantaneo-DEL-17_03_2026.pdf?rlkey=21q4f72war751yg5vshotfktz&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/REPA Dettaglio bonifico istantaneo DEL 17_03_2026.pdf"
+                },
+                {
                   "nome": "STAFF ICE SYSTEM SRL Dettaglio bonifico istantaneo DEL 28_01_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -205646,7 +205653,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 43
+              "_totale_file": 44
             },
             {
               "nome": "ARCHIVIO",
@@ -225875,7 +225882,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR RICEVUTA AR 04_03_2026.jpeg"
             }
           ],
-          "_totale_file": 2281
+          "_totale_file": 2282
         }
       ],
       "file": []
