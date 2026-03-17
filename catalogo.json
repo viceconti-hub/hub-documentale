@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-17T09:59:47Z",
-  "totale_file": 23299,
+  "generato": "2026-03-17T10:05:31Z",
+  "totale_file": 23300,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61281,8 +61281,24 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 14,
+      "totale_file": 15,
       "cartelle": [
+        {
+          "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "MISA SO20251194_VICECONTI - Conferma Ordine RIF.BUFALA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nxe4sq9mgcaaol8etz3or/MISA-SO20251194_VICECONTI-Conferma-Ordine-RIF.BUFALA.pdf?rlkey=147e4cx8vn56i4lyz00kde3xp&dl=0?raw=1",
+              "dimensione_kb": 560,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA/MISA SO20251194_VICECONTI - Conferma Ordine RIF.BUFALA.pdf"
+            }
+          ],
+          "_totale_file": 1
+        },
         {
           "nome": "FA TU COMPASS MARZO 2026",
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026",
