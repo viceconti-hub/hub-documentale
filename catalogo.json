@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-17T07:16:33Z",
-  "totale_file": 23295,
+  "generato": "2026-03-17T08:00:30Z",
+  "totale_file": 23296,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61281,7 +61281,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 13,
+      "totale_file": 14,
       "cartelle": [
         {
           "nome": "FA TU COMPASS MARZO 2026",
@@ -61404,7 +61404,16 @@
           "_totale_file": 8
         }
       ],
-      "file": []
+      "file": [
+        {
+          "nome": "FA'TU- 18022025.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/h795pqll73nu76jfapwf9/FA-TU-18022025.pdf?rlkey=7jaljdu2st3vvlp94fgdqm9e3&dl=0?raw=1",
+          "dimensione_kb": 1896,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA'TU- 18022025.pdf"
+        }
+      ]
     },
     {
       "nome": "CLIENTI",
