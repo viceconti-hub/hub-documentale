@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-17T08:05:27Z",
+  "generato": "2026-03-17T08:51:04Z",
   "totale_file": 23296,
   "totale_sezioni": 8,
   "sezioni": [
@@ -61281,7 +61281,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 14,
+      "totale_file": 13,
       "cartelle": [
         {
           "nome": "FA TU COMPASS MARZO 2026",
@@ -61404,16 +61404,7 @@
           "_totale_file": 8
         }
       ],
-      "file": [
-        {
-          "nome": "FA'TU- 18022025.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/h795pqll73nu76jfapwf9/FA-TU-18022025.pdf?rlkey=7jaljdu2st3vvlp94fgdqm9e3&dl=0?raw=1",
-          "dimensione_kb": 1896,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA'TU- 18022025.pdf"
-        }
-      ]
+      "file": []
     },
     {
       "nome": "CLIENTI",
@@ -172628,7 +172619,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3770,
+      "totale_file": 3771,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -175257,6 +175248,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CLI-PREVEN-0001559-00-03032026 RIF. FA TU.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX CLI-PREVEN-0001968-00-16032026 RIF.MARATEA SERVIZI_CENTRALINA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qtmbweoxq8rm40agsge8j/IDEAM-INOX-CLI-PREVEN-0001968-00-16032026-RIF.MARATEA-SERVIZI_CENTRALINA.pdf?rlkey=8phq9er5igra1lej0mcq2sc5t&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CLI-PREVEN-0001968-00-16032026 RIF.MARATEA SERVIZI_CENTRALINA.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0008236-00-05122025 RIF.MARATEA SERVIZI.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -175409,7 +175408,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 45
+              "_totale_file": 46
             },
             {
               "nome": "ARCHIVIO",
@@ -194067,7 +194066,7 @@
                           "nome": "PUGLIAINOX CONFERMA ORDINE RIF.DIMORA DEL CORSO.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/2790g7rlnbd6kw2ievak9/PUGLIAINOX-CONFERMA-ORDINE-RIF.DIMORA-DEL-CORSO.pdf?rlkey=jz9b6sizxk6mf4lheu5827tru&dl=0?raw=1",
                           "dimensione_kb": 131,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/IDEAM INOX ORDINI D'ACQUISTO/ARCHIVIO PUGLIAINOX ORDINI D'ACQUISTO/PUGLIAINOX CONFERMA ORDINE RIF.DIMORA DEL CORSO.pdf"
                         },
@@ -205129,7 +205128,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3477
+          "_totale_file": 3478
         }
       ],
       "file": []
