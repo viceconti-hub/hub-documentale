@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-18T10:45:34Z",
-  "totale_file": 23307,
+  "generato": "2026-03-18T11:50:39Z",
+  "totale_file": 23309,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61281,7 +61281,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 16,
+      "totale_file": 18,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61353,6 +61353,22 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "ITALFORNI EK-6-66-INDIRIZZI-WAICO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hfs995plv3i6ejjncosrr/ITALFORNI-EK-6-66-INDIRIZZI-WAICO.pdf?rlkey=nlhnztglkx3qs6eq2vf9bqqxu&dl=0?raw=1",
+              "dimensione_kb": 520,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI EK-6-66-INDIRIZZI-WAICO.pdf"
+            },
+            {
+              "nome": "ITALFORNI catalogo-TK-WEB.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fncklzxf9b98cram0kmvl/ITALFORNI-catalogo-TK-WEB.pdf?rlkey=qzqyxnb6io59nds00bjp1updd&dl=0?raw=1",
+              "dimensione_kb": 696,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI catalogo-TK-WEB.pdf"
+            },
+            {
               "nome": "TIZIANO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -61361,7 +61377,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/TIZIANO.pdf"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 3
         },
         {
           "nome": "MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
