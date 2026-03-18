@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-17T10:05:31Z",
-  "totale_file": 23300,
+  "generato": "2026-03-18T02:27:53Z",
+  "totale_file": 23305,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61435,7 +61435,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 6968,
+      "totale_file": 6973,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -71259,6 +71259,46 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA",
                   "cartelle": [
                     {
+                      "nome": "DA SPECIFICARE",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/DA SPECIFICARE",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "WhatsApp Image 2021-12-10 at 19.09.46.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/iiz8eidr65hflwrus9khh/WhatsApp-Image-2021-12-10-at-19.09.46.jpeg?rlkey=r93nnh107hohy0kd7y5wzzfqs&dl=0?raw=1",
+                          "dimensione_kb": 162,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/DA SPECIFICARE/WhatsApp Image 2021-12-10 at 19.09.46.jpeg"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2021-12-13 at 16.14.35.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/ouw157wp2ngwbm86nj8vy/WhatsApp-Image-2021-12-13-at-16.14.35.jpeg?rlkey=ckkoukvmv13phjtwy5d21gmk9&dl=0?raw=1",
+                          "dimensione_kb": 155,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/DA SPECIFICARE/WhatsApp Image 2021-12-13 at 16.14.35.jpeg"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2024-08-29 at 19.04.56.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/58jx2vf7is2axe5qy8i3i/WhatsApp-Image-2024-08-29-at-19.04.56.jpeg?rlkey=27ku2q3surfe626zs8z33t4vh&dl=0?raw=1",
+                          "dimensione_kb": 57,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/DA SPECIFICARE/WhatsApp Image 2024-08-29 at 19.04.56.jpeg"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2024-08-29 at 19.04.57.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/utw7kqjr0edigby6ws2mu/WhatsApp-Image-2024-08-29-at-19.04.57.jpeg?rlkey=iob38auldwdym4vu1qh30t8ld&dl=0?raw=1",
+                          "dimensione_kb": 87,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/DA SPECIFICARE/WhatsApp Image 2024-08-29 at 19.04.57.jpeg"
+                        }
+                      ],
+                      "_totale_file": 4
+                    },
+                    {
                       "nome": "FORNO A MICROONDE SAMSUNG CM1919A",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/FORNO A MICROONDE SAMSUNG CM1919A",
                       "cartelle": [],
@@ -71307,6 +71347,22 @@
                       "_totale_file": 1
                     },
                     {
+                      "nome": "GRIGLIA A PIETRA LAVICA FIMAR",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/GRIGLIA A PIETRA LAVICA FIMAR",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "GRIGLIA A PIETRA LAVICA FIMAR PARTICOLARE MANOPOLE.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/xhwwu4rh73sz88qr606m2/GRIGLIA-A-PIETRA-LAVICA-FIMAR-PARTICOLARE-MANOPOLE.jpg?rlkey=5aw7l5gzeqzbgasafobjo5oml&dl=0?raw=1",
+                          "dimensione_kb": 162,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/GRIGLIA A PIETRA LAVICA FIMAR/GRIGLIA A PIETRA LAVICA FIMAR PARTICOLARE MANOPOLE.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "LAVASTOVILGIE A CAPPOTTA COLGED",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/LAVASTOVILGIE A CAPPOTTA COLGED",
                       "cartelle": [],
@@ -71323,65 +71379,40 @@
                       "_totale_file": 1
                     },
                     {
+                      "nome": "MIXER IMMERSIONE FIMAR",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/MIXER IMMERSIONE FIMAR",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "MIXER IMMERSIONE DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/6304bkqslt1o7wg3lzx0k/MIXER-IMMERSIONE-DATI-MACCHINA.jpg?rlkey=s5ivwipbsx0hzcszim5btbasb&dl=0?raw=1",
+                          "dimensione_kb": 84,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/MIXER IMMERSIONE FIMAR/MIXER IMMERSIONE DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "PELAPATATE FIMAR",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/PELAPATATE FIMAR",
                       "cartelle": [],
                       "file": [
                         {
-                          "nome": "WhatsApp Image 2025-06-10 at 09.32.58.jpeg",
+                          "nome": "PELAPATATE FIMAR DATI MACCHINA.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/cqqv0w7y2w95rjuq3oyun/WhatsApp-Image-2025-06-10-at-09.32.58.jpeg?rlkey=peo3xg551bfmlqqq9aja73azj&dl=0?raw=1",
+                          "link": "https://www.dropbox.com/scl/fi/cqqv0w7y2w95rjuq3oyun/PELAPATATE-FIMAR-DATI-MACCHINA.jpeg?rlkey=peo3xg551bfmlqqq9aja73azj&dl=0?raw=1",
                           "dimensione_kb": 399,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/PELAPATATE FIMAR/WhatsApp Image 2025-06-10 at 09.32.58.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/PELAPATATE FIMAR/PELAPATATE FIMAR DATI MACCHINA.jpeg"
                         }
                       ],
                       "_totale_file": 1
                     }
                   ],
-                  "file": [
-                    {
-                      "nome": "20211005852F.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/1ho4i9a6ly42mt1otv32w/20211005852F.pdf?rlkey=ei9dfcpjhyhhgokm1fpa2vhev&dl=0?raw=1",
-                      "dimensione_kb": 100,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/20211005852F.pdf"
-                    },
-                    {
-                      "nome": "WhatsApp Image 2021-12-10 at 19.09.46.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/iiz8eidr65hflwrus9khh/WhatsApp-Image-2021-12-10-at-19.09.46.jpeg?rlkey=r93nnh107hohy0kd7y5wzzfqs&dl=0?raw=1",
-                      "dimensione_kb": 162,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/WhatsApp Image 2021-12-10 at 19.09.46.jpeg"
-                    },
-                    {
-                      "nome": "WhatsApp Image 2021-12-13 at 16.14.35.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/ouw157wp2ngwbm86nj8vy/WhatsApp-Image-2021-12-13-at-16.14.35.jpeg?rlkey=ckkoukvmv13phjtwy5d21gmk9&dl=0?raw=1",
-                      "dimensione_kb": 155,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/WhatsApp Image 2021-12-13 at 16.14.35.jpeg"
-                    },
-                    {
-                      "nome": "WhatsApp Image 2024-08-29 at 19.04.56.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/58jx2vf7is2axe5qy8i3i/WhatsApp-Image-2024-08-29-at-19.04.56.jpeg?rlkey=27ku2q3surfe626zs8z33t4vh&dl=0?raw=1",
-                      "dimensione_kb": 57,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/WhatsApp Image 2024-08-29 at 19.04.56.jpeg"
-                    },
-                    {
-                      "nome": "WhatsApp Image 2024-08-29 at 19.04.57.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/utw7kqjr0edigby6ws2mu/WhatsApp-Image-2024-08-29-at-19.04.57.jpeg?rlkey=iob38auldwdym4vu1qh30t8ld&dl=0?raw=1",
-                      "dimensione_kb": 87,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/WhatsApp Image 2024-08-29 at 19.04.57.jpeg"
-                    }
-                  ],
-                  "_totale_file": 11
+                  "file": [],
+                  "_totale_file": 12
                 }
               ],
               "file": [
@@ -71466,7 +71497,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/Ordine cliente_250653_20250806_095508.pdf"
                 }
               ],
-              "_totale_file": 21
+              "_totale_file": 22
             },
             {
               "nome": "BHOTEL SRL",
@@ -73253,7 +73284,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 205
+          "_totale_file": 206
         },
         {
           "nome": "LAINO",
@@ -75312,6 +75343,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/HOTEL TERME DI OROFINO FT 210714 DEL 31_12_2021.pdf"
                 },
                 {
+                  "nome": "HOTEL TERME DI OROFINO GIUSEPPE Liberatoria DEL 17_03_2026.docx",
+                  "tipo": "Word",
+                  "icona": "📝",
+                  "link": "https://www.dropbox.com/scl/fi/mdhtv8teqlax7fq0c1if4/HOTEL-TERME-DI-OROFINO-GIUSEPPE-Liberatoria-DEL-17_03_2026.docx?rlkey=z93drii7cwycwv090xhip6xew&dl=0?raw=1",
+                  "dimensione_kb": 76,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/HOTEL TERME DI OROFINO GIUSEPPE Liberatoria DEL 17_03_2026.docx"
+                },
+                {
                   "nome": "HOTEL TERME DI OROFINO QUIETANZA DEL 23_06_2022.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -75352,6 +75391,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/OROFINO FT 210703 DEL 23_12_2021.pdf"
                 },
                 {
+                  "nome": "OROFINO GIUSEPPE LIBERATORIA FIRMATA 17_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/tqtizaaoaoptxs448wzvl/OROFINO-GIUSEPPE-LIBERATORIA-FIRMATA-17_03_2026.pdf?rlkey=wzhlukvdrhjfcis3shx6xm9j3&dl=0?raw=1",
+                  "dimensione_kb": 2211,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/OROFINO GIUSEPPE LIBERATORIA FIRMATA 17_03_2026.pdf"
+                },
+                {
                   "nome": "OROFINO POLLINO TOUR RIEPILOGO AL 25_02_2024 PROSPERO.xlsx",
                   "tipo": "Excel",
                   "icona": "📊",
@@ -75368,7 +75415,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/POLLINO TOUR HOTEL PARADISO - collegamento.lnk"
                 }
               ],
-              "_totale_file": 32
+              "_totale_file": 34
             },
             {
               "nome": "LA TAVERNA DEI GESUITI",
@@ -76152,7 +76199,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 208
+          "_totale_file": 210
         },
         {
           "nome": "LAURIA",
@@ -78908,7 +78955,7 @@
                   "nome": "Fattura di vendita_210112_20210430_112902.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/s7uzx0kct69krpd0tzish/Fattura-di-vendita_210112_20210430_112902.pdf?rlkey=s7d876he7uig9wscv839wz1jy&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 69,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/D&D DISTRIBUZIONE/Fattura di vendita_210112_20210430_112902.pdf"
                 },
@@ -101316,9 +101363,17 @@
                       "link": "https://www.dropbox.com/scl/fi/vf2kou5eusseej0fe0r9t/EUROMATIC-ESPLOSO-SOTTOVUOTO.pdf?rlkey=19p51hzf53lkwem47hhz918ge&dl=0?raw=1",
                       "dimensione_kb": 271,
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/EUROMATIC ESPLOSO SOTTOVUOTO.pdf"
+                    },
+                    {
+                      "nome": "GRATTUGIA FIMAR DARI MACCHINA.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/agpzz1g0mjk7nil8wsg93/GRATTUGIA-FIMAR-DARI-MACCHINA.jpg?rlkey=lwtr27fs7f6xs8zpzyu26z0wq&dl=0?raw=1",
+                      "dimensione_kb": 134,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/GRATTUGIA FIMAR DARI MACCHINA.jpg"
                     }
                   ],
-                  "_totale_file": 21
+                  "_totale_file": 22
                 },
                 {
                   "nome": "AREA TECNICA GRANSOLE MARATEA",
@@ -102765,7 +102820,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/WhatsApp Image 2023-03-27 at 10.51.53.jpeg"
                 }
               ],
-              "_totale_file": 190
+              "_totale_file": 191
             },
             {
               "nome": "H.END",
@@ -103886,7 +103941,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 443
+          "_totale_file": 444
         },
         {
           "nome": "ORIOLO",
@@ -120598,7 +120653,7 @@
                       "nome": "FRIGGITRICE FIMAR_PESCESPADA_RIF.24_04_24-002.jpg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/sztl702rmoj5mxiwzi48u/FRIGGITRICE-FIMAR_PESCESPADA_RIF.24_04_24-002.jpg?rlkey=sl3w45v98q8g715rq4ptnaox3&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 100,
                       "path": "/HUB DOCUMENTALE/CLIENTI/SCALEA/IL PESCESPADA/AREA TECNICA/FRIGGITRICE FIMAR_PESCESPADA_RIF.24_04_24-002.jpg"
                     },
@@ -128860,7 +128915,32 @@
             {
               "nome": "SUPERMERCATO A POTEGA I FIFINA di PALETTA",
               "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/SUPERMERCATO A POTEGA I FIFINA di PALETTA",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "PALETTA AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/SUPERMERCATO A POTEGA I FIFINA di PALETTA/PALETTA AREA TECNICA",
+                  "cartelle": [
+                    {
+                      "nome": "BANCO EUROCRYOR",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/SUPERMERCATO A POTEGA I FIFINA di PALETTA/PALETTA AREA TECNICA/BANCO EUROCRYOR",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "BANCO EUROCRYOR DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/6ffelzut109ahduwnaxu1/BANCO-EUROCRYOR-DATI-MACCHINA.jpg?rlkey=kuqzipzt2odbzw4hl1rcw22ge&dl=0?raw=1",
+                          "dimensione_kb": 168,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/SUPERMERCATO A POTEGA I FIFINA di PALETTA/PALETTA AREA TECNICA/BANCO EUROCRYOR/BANCO EUROCRYOR DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 1
+                }
+              ],
               "file": [
                 {
                   "nome": "Fattura di vendita_2400215_20240613_172904.pdf",
@@ -128871,7 +128951,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/SUPERMERCATO A POTEGA I FIFINA di PALETTA/Fattura di vendita_2400215_20240613_172904.pdf"
                 }
               ],
-              "_totale_file": 1
+              "_totale_file": 2
             },
             {
               "nome": "SUPERMERCATO ECCO",
@@ -128932,7 +129012,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/Fattura anticipo cliente_2510012_20250710_103114.pdf"
             }
           ],
-          "_totale_file": 281
+          "_totale_file": 282
         },
         {
           "nome": "TROPEA",
