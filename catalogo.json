@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-18T10:08:09Z",
-  "totale_file": 23306,
+  "generato": "2026-03-18T10:45:34Z",
+  "totale_file": 23307,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61281,7 +61281,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 15,
+      "totale_file": 16,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61346,6 +61346,22 @@
             }
           ],
           "_totale_file": 5
+        },
+        {
+          "nome": "FA TU FORNO PIZZA A CAMERA",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "TIZIANO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b3om9wluyi7dlgdq630sp/TIZIANO.pdf?rlkey=8gckfygpqilkwghp8b1euinwm&dl=0?raw=1",
+              "dimensione_kb": 463,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/TIZIANO.pdf"
+            }
+          ],
+          "_totale_file": 1
         },
         {
           "nome": "MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
