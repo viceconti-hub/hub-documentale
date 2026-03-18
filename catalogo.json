@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-18T07:19:29Z",
-  "totale_file": 23305,
+  "generato": "2026-03-18T08:57:02Z",
+  "totale_file": 23306,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -172724,7 +172724,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3771,
+      "totale_file": 3772,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -175265,6 +175265,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-03675 RIF.3AM GUARNIZIONI E GUIDE.pdf"
                 },
                 {
+                  "nome": "COLDLINE Conferma ordine n°26-04766 RIF.CABOSSA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nkde20d7blsggu6hphbwi/COLDLINE-Conferma-ordine-n-26-04766-RIF.CABOSSA.pdf?rlkey=15caaqca4hz2648mymeihdesk&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-04766 RIF.CABOSSA.pdf"
+                },
+                {
                   "nome": "COLDLINE PACKING LIST DEL 04_03_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -175513,7 +175521,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 46
+              "_totale_file": 47
             },
             {
               "nome": "ARCHIVIO",
@@ -205233,7 +205241,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3478
+          "_totale_file": 3479
         }
       ],
       "file": []
