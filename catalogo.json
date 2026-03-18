@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-18T11:50:39Z",
-  "totale_file": 23309,
+  "generato": "2026-03-18T11:55:45Z",
+  "totale_file": 23311,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61281,7 +61281,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 18,
+      "totale_file": 20,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61353,6 +61353,14 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "CUPPONE TIZIANO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b3om9wluyi7dlgdq630sp/CUPPONE-TIZIANO.pdf?rlkey=8gckfygpqilkwghp8b1euinwm&dl=0?raw=1",
+              "dimensione_kb": 463,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/CUPPONE TIZIANO.pdf"
+            },
+            {
               "nome": "ITALFORNI EK-6-66-INDIRIZZI-WAICO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -61361,23 +61369,31 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI EK-6-66-INDIRIZZI-WAICO.pdf"
             },
             {
+              "nome": "ITALFORNI TK-B1-INDIRIZZI-WAICO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ba008lsdt5x8kliz933tq/ITALFORNI-TK-B1-INDIRIZZI-WAICO.pdf?rlkey=dqspciis8a0xtupyqrhp2g2nm&dl=0?raw=1",
+              "dimensione_kb": 376,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI TK-B1-INDIRIZZI-WAICO.pdf"
+            },
+            {
+              "nome": "ITALFORNI TK-B2-INDIRIZZI-WAICO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/weayuuh9xcp0t7yxkjsv9/ITALFORNI-TK-B2-INDIRIZZI-WAICO.pdf?rlkey=nogmoumtyu1cl65o7xmutw5oa&dl=0?raw=1",
+              "dimensione_kb": 397,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI TK-B2-INDIRIZZI-WAICO.pdf"
+            },
+            {
               "nome": "ITALFORNI catalogo-TK-WEB.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/fncklzxf9b98cram0kmvl/ITALFORNI-catalogo-TK-WEB.pdf?rlkey=qzqyxnb6io59nds00bjp1updd&dl=0?raw=1",
               "dimensione_kb": 696,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI catalogo-TK-WEB.pdf"
-            },
-            {
-              "nome": "TIZIANO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/b3om9wluyi7dlgdq630sp/TIZIANO.pdf?rlkey=8gckfygpqilkwghp8b1euinwm&dl=0?raw=1",
-              "dimensione_kb": 463,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/TIZIANO.pdf"
             }
           ],
-          "_totale_file": 3
+          "_totale_file": 5
         },
         {
           "nome": "MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
