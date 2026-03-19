@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-19T03:13:30Z",
-  "totale_file": 23316,
+  "generato": "2026-03-19T05:56:04Z",
+  "totale_file": 23317,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5532,
+      "totale_file": 5533,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -57935,6 +57935,14 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/SALUMERIA SCOLLO Gmail - [Viceconti Store] New order _ #206 - WOLXCAQZR.pdf"
                 },
                 {
+                  "nome": "SOGNO DEL MARE Gmail - Fwd_ [Viceconti Store] New order _ #219 - SPLIMWPHE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/09ab2xmqwqvrxvt8rhj1i/SOGNO-DEL-MARE-Gmail-Fwd_-Viceconti-Store-New-order-_-219-SPLIMWPHE.pdf?rlkey=gtzw7juzqxy1jyv9frwbkk19f&dl=0?raw=1",
+                  "dimensione_kb": 325,
+                  "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/SOGNO DEL MARE Gmail - Fwd_ [Viceconti Store] New order _ #219 - SPLIMWPHE.pdf"
+                },
+                {
                   "nome": "TABLECLOTHAS Le mie spedizioni - myBRT - BRT.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -57959,7 +57967,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/TATA & CO SRL Gmail - [Viceconti Store] New order _ #210 - JCKCINZEN.pdf"
                 }
               ],
-              "_totale_file": 18
+              "_totale_file": 19
             },
             {
               "nome": "ARCHIVIO",
@@ -58139,7 +58147,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 39
+          "_totale_file": 40
         }
       ],
       "file": []
