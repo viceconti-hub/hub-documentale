@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-18T12:00:37Z",
-  "totale_file": 23311,
+  "generato": "2026-03-19T01:16:18Z",
+  "totale_file": 23316,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61483,7 +61483,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 6973,
+      "totale_file": 6978,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -79003,7 +79003,7 @@
                   "nome": "Fattura di vendita_210112_20210430_112902.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/s7uzx0kct69krpd0tzish/Fattura-di-vendita_210112_20210430_112902.pdf?rlkey=s7d876he7uig9wscv839wz1jy&dl=0?raw=1",
                   "dimensione_kb": 69,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/D&D DISTRIBUZIONE/Fattura di vendita_210112_20210430_112902.pdf"
                 },
@@ -81919,12 +81919,12 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER",
               "cartelle": [
                 {
-                  "nome": "AREA TECNICA I PASTICCI DI WALTER",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER",
+                  "nome": "I PASTICCI DI WALTER AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA",
                   "cartelle": [
                     {
                       "nome": "FORNO ITALFORNI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/FORNO ITALFORNI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/FORNO ITALFORNI",
                       "cartelle": [],
                       "file": [
                         {
@@ -81933,7 +81933,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/q6cfsk8x54vfdabp0emx4/Eco-Gas-C-IT-rev.01-2018.pdf?rlkey=g5tcr9jn0073kwmi73dx1sy48&dl=0?raw=1",
                           "dimensione_kb": 937,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/FORNO ITALFORNI/Eco Gas C [IT] (rev.01-2018).pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/FORNO ITALFORNI/Eco Gas C [IT] (rev.01-2018).pdf"
                         },
                         {
                           "nome": "ITALFORNI ECOGAS-EGC.pdf.lnk",
@@ -81941,14 +81941,14 @@
                           "icona": "📎",
                           "link": "https://www.dropbox.com/scl/fi/eussn0rrsrbaxammyhnk9/ITALFORNI-ECOGAS-EGC.pdf.lnk?rlkey=d0njiwm6xioi7t57cbysggy6j&dl=0?raw=1",
                           "dimensione_kb": 1,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/FORNO ITALFORNI/ITALFORNI ECOGAS-EGC.pdf.lnk"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/FORNO ITALFORNI/ITALFORNI ECOGAS-EGC.pdf.lnk"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "GRANITORE UGOLINI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/GRANITORE UGOLINI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/GRANITORE UGOLINI",
                       "cartelle": [],
                       "file": [
                         {
@@ -81957,7 +81957,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/cyjwzqlsb77cx7r5qa146/UGOLINI-MICRO-ESPLOSO-02422-00999_rev1-5_17H010.pdf?rlkey=393ioiv6d2eq48tk1gvbao776&dl=0?raw=1",
                           "dimensione_kb": 356,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/GRANITORE UGOLINI/UGOLINI MICRO ESPLOSO 02422-00999_rev1-5_17H010.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/GRANITORE UGOLINI/UGOLINI MICRO ESPLOSO 02422-00999_rev1-5_17H010.pdf"
                         },
                         {
                           "nome": "WhatsApp Image 2022-08-31 at 16.55.31.jpeg",
@@ -81965,7 +81965,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/wuctmckws1t2z4uabm6ix/WhatsApp-Image-2022-08-31-at-16.55.31.jpeg?rlkey=p9yjq7fne6hrm43ct5jdkxdza&dl=0?raw=1",
                           "dimensione_kb": 252,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/GRANITORE UGOLINI/WhatsApp Image 2022-08-31 at 16.55.31.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/GRANITORE UGOLINI/WhatsApp Image 2022-08-31 at 16.55.31.jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2022-08-31 at 16.55.32.jpeg",
@@ -81973,14 +81973,46 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/bbaamypb9k7sz9oo8gaqx/WhatsApp-Image-2022-08-31-at-16.55.32.jpeg?rlkey=c55ek3g7dsxa44tiqicizr0kr&dl=0?raw=1",
                           "dimensione_kb": 305,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/GRANITORE UGOLINI/WhatsApp Image 2022-08-31 at 16.55.32.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/GRANITORE UGOLINI/WhatsApp Image 2022-08-31 at 16.55.32.jpeg"
+                        }
+                      ],
+                      "_totale_file": 3
+                    },
+                    {
+                      "nome": "LAVABAR COLGED MOD STEELTECH 13-00 R SN 112266",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/LAVABAR COLGED MOD STEELTECH 13-00 R SN 112266",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "FOTO RICAMBIO DA ORDINARE 18_03_2026.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/5vu7m83r7zqcrydzclfcb/FOTO-RICAMBIO-DA-ORDINARE-18_03_2026.jpg?rlkey=0wxn696e2hjszcv3cjshrbzhv&dl=0?raw=1",
+                          "dimensione_kb": 119,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/LAVABAR COLGED MOD STEELTECH 13-00 R SN 112266/FOTO RICAMBIO DA ORDINARE 18_03_2026.jpg"
+                        },
+                        {
+                          "nome": "LAVABAR COLGED MOD STEELTECH 13-00 R SN 112266 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/m8st63uo7u169j6rqldd9/LAVABAR-COLGED-MOD-STEELTECH-13-00-R-SN-112266-DATI-MACCHINA.jpg?rlkey=c3ycpcch5w4sdabj8l5jeo0xl&dl=0?raw=1",
+                          "dimensione_kb": 101,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/LAVABAR COLGED MOD STEELTECH 13-00 R SN 112266/LAVABAR COLGED MOD STEELTECH 13-00 R SN 112266 DATI MACCHINA.jpg"
+                        },
+                        {
+                          "nome": "REPA ESTRAZIONE CATALOGO lavastoviglie-colged_201802231740_lf.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/id2soynnxf29nxffy69g0/REPA-ESTRAZIONE-CATALOGO-lavastoviglie-colged_201802231740_lf.pdf?rlkey=1f7klp9avql37xpdue12zjfx7&dl=0?raw=1",
+                          "dimensione_kb": 45111,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/LAVABAR COLGED MOD STEELTECH 13-00 R SN 112266/REPA ESTRAZIONE CATALOGO lavastoviglie-colged_201802231740_lf.pdf"
                         }
                       ],
                       "_totale_file": 3
                     },
                     {
                       "nome": "MICROONDE SIRMAN",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/MICROONDE SIRMAN",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/MICROONDE SIRMAN",
                       "cartelle": [],
                       "file": [
                         {
@@ -81989,7 +82021,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/qn1qef2uwfiv8j3rumddw/WhatsApp-Image-2025-03-18-at-13.16.39.jpeg?rlkey=kuf13tc3ao3b365cm6m9ickkf&dl=0?raw=1",
                           "dimensione_kb": 89,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/MICROONDE SIRMAN/WhatsApp Image 2025-03-18 at 13.16.39.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/MICROONDE SIRMAN/WhatsApp Image 2025-03-18 at 13.16.39.jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2025-03-18 at 13.16.54.jpeg",
@@ -81997,14 +82029,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/6n0x9v7yjwtgpayluvclx/WhatsApp-Image-2025-03-18-at-13.16.54.jpeg?rlkey=g9vvpp5vjb2fie8fdcac95k9m&dl=0?raw=1",
                           "dimensione_kb": 169,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/MICROONDE SIRMAN/WhatsApp Image 2025-03-18 at 13.16.54.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/MICROONDE SIRMAN/WhatsApp Image 2025-03-18 at 13.16.54.jpeg"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "PLANETARIA COMIDA",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/PLANETARIA COMIDA",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/PLANETARIA COMIDA",
                       "cartelle": [],
                       "file": [
                         {
@@ -82013,7 +82045,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/zmbu95xct6tdyes3s3go4/WhatsApp-Image-2022-08-05-at-15.02.24.jpeg?rlkey=7zgl4mv7wrat8azx5ah1rrqo1&dl=0?raw=1",
                           "dimensione_kb": 215,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/PLANETARIA COMIDA/WhatsApp Image 2022-08-05 at 15.02.24.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/PLANETARIA COMIDA/WhatsApp Image 2022-08-05 at 15.02.24.jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2022-08-05 at 15.02.25.jpeg",
@@ -82021,14 +82053,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/jgi0pdccuo2n25dyakgna/WhatsApp-Image-2022-08-05-at-15.02.25.jpeg?rlkey=5b4alo0comdfgwpuk2v22vgsg&dl=0?raw=1",
                           "dimensione_kb": 163,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/PLANETARIA COMIDA/WhatsApp Image 2022-08-05 at 15.02.25.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/PLANETARIA COMIDA/WhatsApp Image 2022-08-05 at 15.02.25.jpeg"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "RATIONAL",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/RATIONAL",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/RATIONAL",
                       "cartelle": [],
                       "file": [
                         {
@@ -82037,14 +82069,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/kzbv7idmwhduoscqvvkkc/RATIONAL-I-PASTICCI-DI-WALTER-DATI-MACCHINA.jpg?rlkey=b8ulbd0yf7jrqc2j4whw3vo32&dl=0?raw=1",
                           "dimensione_kb": 106,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/RATIONAL/RATIONAL I PASTICCI DI WALTER DATI MACCHINA.jpg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/RATIONAL/RATIONAL I PASTICCI DI WALTER DATI MACCHINA.jpg"
                         }
                       ],
                       "_totale_file": 1
                     },
                     {
                       "nome": "ROSSANESE",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/ROSSANESE",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/ROSSANESE",
                       "cartelle": [],
                       "file": [
                         {
@@ -82053,7 +82085,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/2s76pckm9734lz7hasb8a/WhatsApp-Image-2021-05-11-at-13.25.49-1.jpeg?rlkey=hrnes7s6gdveikgsszgl2v873&dl=0?raw=1",
                           "dimensione_kb": 236,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/ROSSANESE/WhatsApp Image 2021-05-11 at 13.25.49 (1).jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/ROSSANESE/WhatsApp Image 2021-05-11 at 13.25.49 (1).jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2021-05-11 at 13.25.49.jpeg",
@@ -82061,14 +82093,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/5q6uly6nw4hj88gmhxhmi/WhatsApp-Image-2021-05-11-at-13.25.49.jpeg?rlkey=6syow7ix1bzxeq1k1aqlnkgi9&dl=0?raw=1",
                           "dimensione_kb": 160,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/ROSSANESE/WhatsApp Image 2021-05-11 at 13.25.49.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/ROSSANESE/WhatsApp Image 2021-05-11 at 13.25.49.jpeg"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "VETRINA VITRA LONGONI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/VETRINA VITRA LONGONI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/VETRINA VITRA LONGONI",
                       "cartelle": [],
                       "file": [
                         {
@@ -82077,7 +82109,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/pouahmxir5mec7vk62ixh/VETRINA-VITRA-LONGONI-MANUALE-MODIFICA-PARAMETRI-D2X-ITA-Rev.00-I-PASTICCI.pdf?rlkey=g750l8rd4fjrn8nsmbf19131t&dl=0?raw=1",
                           "dimensione_kb": 374,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/VETRINA VITRA LONGONI/VETRINA VITRA LONGONI MANUALE MODIFICA PARAMETRI D2X -ITA- Rev.00 I PASTICCI.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/VETRINA VITRA LONGONI/VETRINA VITRA LONGONI MANUALE MODIFICA PARAMETRI D2X -ITA- Rev.00 I PASTICCI.pdf"
                         },
                         {
                           "nome": "VETRINA VITRA LONGONI MANUALE R290 VITRA D2X ITA I PASTICCI.pdf",
@@ -82085,7 +82117,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/jsirahe56ik3j96l9nchz/VETRINA-VITRA-LONGONI-MANUALE-R290-VITRA-D2X-ITA-I-PASTICCI.pdf?rlkey=3xnhpfvema8dtd3i780z9854d&dl=0?raw=1",
                           "dimensione_kb": 2128,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/VETRINA VITRA LONGONI/VETRINA VITRA LONGONI MANUALE R290 VITRA D2X ITA I PASTICCI.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/VETRINA VITRA LONGONI/VETRINA VITRA LONGONI MANUALE R290 VITRA D2X ITA I PASTICCI.pdf"
                         },
                         {
                           "nome": "WhatsApp Image 2024-04-19 at 16.41.22.jpeg",
@@ -82093,14 +82125,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/o3u1hla5megbfssv4c5p9/WhatsApp-Image-2024-04-19-at-16.41.22.jpeg?rlkey=45b1wiwksqrs9liy5p4s14fea&dl=0?raw=1",
                           "dimensione_kb": 164,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/VETRINA VITRA LONGONI/WhatsApp Image 2024-04-19 at 16.41.22.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/VETRINA VITRA LONGONI/WhatsApp Image 2024-04-19 at 16.41.22.jpeg"
                         }
                       ],
                       "_totale_file": 3
                     },
                     {
                       "nome": "VETRINE IFI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/VETRINE IFI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/VETRINE IFI",
                       "cartelle": [],
                       "file": [
                         {
@@ -82109,7 +82141,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/jdxxtzgabsicg035qg7qb/Gmail-Viceconti-Snc_-richiesta-preventivo-RIF.-I-PASTICCI.pdf?rlkey=6yozt9frpf25euogv136aultw&dl=0?raw=1",
                           "dimensione_kb": 231,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/VETRINE IFI/Gmail - Viceconti Snc_ richiesta preventivo RIF. I PASTICCI.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/VETRINE IFI/Gmail - Viceconti Snc_ richiesta preventivo RIF. I PASTICCI.pdf"
                         },
                         {
                           "nome": "VETRINA TONDA ESPLOSO RICAMBI RC6513E_000.pdf",
@@ -82117,7 +82149,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/i9f44fj7b42vmpia6fwvz/VETRINA-TONDA-ESPLOSO-RICAMBI-RC6513E_000.pdf?rlkey=1vtvwj3jzetvpdv5e8b6hmz7w&dl=0?raw=1",
                           "dimensione_kb": 1266,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/VETRINE IFI/VETRINA TONDA ESPLOSO RICAMBI RC6513E_000.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/VETRINE IFI/VETRINA TONDA ESPLOSO RICAMBI RC6513E_000.pdf"
                         },
                         {
                           "nome": "VETRINA TONDA ESPLOSO RICMABI RC6513C_000.pdf",
@@ -82125,7 +82157,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/bpe312arwiub99xyqggr3/VETRINA-TONDA-ESPLOSO-RICMABI-RC6513C_000.pdf?rlkey=w031gmz6pke1l7l7d4vj6rl1o&dl=0?raw=1",
                           "dimensione_kb": 1985,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/VETRINE IFI/VETRINA TONDA ESPLOSO RICMABI RC6513C_000.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/VETRINE IFI/VETRINA TONDA ESPLOSO RICMABI RC6513C_000.pdf"
                         },
                         {
                           "nome": "WhatsApp Image 2021-08-20 at 20.23.12.jpeg",
@@ -82133,7 +82165,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/hhsji91z31bxmjxygs4ue/WhatsApp-Image-2021-08-20-at-20.23.12.jpeg?rlkey=1bx6bbxp766ec4hwpn1w2n034&dl=0?raw=1",
                           "dimensione_kb": 97,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/VETRINE IFI/WhatsApp Image 2021-08-20 at 20.23.12.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/VETRINE IFI/WhatsApp Image 2021-08-20 at 20.23.12.jpeg"
                         }
                       ],
                       "_totale_file": 4
@@ -82146,10 +82178,10 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/6xfhpeog89o908neaal6d/WhatsApp-Image-2022-03-08-at-17.02.30.jpeg?rlkey=vuvfs206n68kpw2gn16knxc2s&dl=0?raw=1",
                       "dimensione_kb": 191,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/AREA TECNICA I PASTICCI DI WALTER/WhatsApp Image 2022-03-08 at 17.02.30.jpeg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/WhatsApp Image 2022-03-08 at 17.02.30.jpeg"
                     }
                   ],
-                  "_totale_file": 20
+                  "_totale_file": 23
                 }
               ],
               "file": [
@@ -82186,7 +82218,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/file.pdf"
                 }
               ],
-              "_totale_file": 24
+              "_totale_file": 27
             },
             {
               "nome": "IL FUNGO",
@@ -87875,6 +87907,22 @@
                       "_totale_file": 3
                     },
                     {
+                      "nome": "FORNO PIZZA CUPPONE KIPRO 2 CAMERE ELETTRICO NUOVO",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VICECONTI SNC/VICECONTI SNC AREA TECNICA + USATO + MAG/FORNO PIZZA CUPPONE KIPRO 2 CAMERE ELETTRICO NUOVO",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "Offerta di vendita_260060_20260318_112804.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/niic8c5m60r4yacbt10j8/Offerta-di-vendita_260060_20260318_112804.pdf?rlkey=kxyerb6t6ui7hhy6up6k4va4m&dl=0?raw=1",
+                          "dimensione_kb": 83,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VICECONTI SNC/VICECONTI SNC AREA TECNICA + USATO + MAG/FORNO PIZZA CUPPONE KIPRO 2 CAMERE ELETTRICO NUOVO/Offerta di vendita_260060_20260318_112804.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "FORNO PIZZA FIMAR 1 CAMERA",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VICECONTI SNC/VICECONTI SNC AREA TECNICA + USATO + MAG/FORNO PIZZA FIMAR 1 CAMERA",
                       "cartelle": [],
@@ -88549,11 +88597,11 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VICECONTI SNC/VICECONTI SNC AREA TECNICA + USATO + MAG/USATO E NUOVO OFFERTE SPECIALI - collegamento.lnk"
                     }
                   ],
-                  "_totale_file": 187
+                  "_totale_file": 188
                 }
               ],
               "file": [],
-              "_totale_file": 198
+              "_totale_file": 199
             },
             {
               "nome": "VILLA TERRY",
@@ -89352,7 +89400,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1265
+          "_totale_file": 1269
         },
         {
           "nome": "LAVELLO",
@@ -111087,6 +111135,14 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/RIMINI/A92AFD8D-5AB6-4322-A6BF-F9116B0C1636.pdf"
             },
             {
+              "nome": "DIFFIDA granke- viceconti_signed.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/stzwqkmvsie9p0e97iv0v/DIFFIDA-granke-viceconti_signed.pdf?rlkey=21dh8o4rlgl7m0xf1dcrv2mju&dl=0?raw=1",
+              "dimensione_kb": 205,
+              "path": "/HUB DOCUMENTALE/CLIENTI/RIMINI/DIFFIDA granke- viceconti_signed.pdf"
+            },
+            {
               "nome": "Fattura di vendita_2400502_20240730_194257.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -111095,7 +111151,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/RIMINI/Fattura di vendita_2400502_20240730_194257.pdf"
             }
           ],
-          "_totale_file": 2
+          "_totale_file": 3
         },
         {
           "nome": "RIVELLO",
@@ -120102,7 +120158,7 @@
                   "nome": "SARCONI - Fittipaldi Piero - Ordine cliente n° 190797 del 09 12 2019.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/l7uvxpbsnoaebca7gtcsq/SARCONI-Fittipaldi-Piero-Ordine-cliente-n-190797-del-09-12-2019.pdf?rlkey=rapd5f4lrvixzpea8f4awfy44&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 75,
                   "path": "/HUB DOCUMENTALE/CLIENTI/SARCONI/COFFEE BREAK DI FITTIPALDI PIERO/SARCONI - Fittipaldi Piero - Ordine cliente n° 190797 del 09 12 2019.pdf"
                 },
@@ -120701,7 +120757,7 @@
                       "nome": "FRIGGITRICE FIMAR_PESCESPADA_RIF.24_04_24-002.jpg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/sztl702rmoj5mxiwzi48u/FRIGGITRICE-FIMAR_PESCESPADA_RIF.24_04_24-002.jpg?rlkey=sl3w45v98q8g715rq4ptnaox3&dl=0?raw=1",
                       "dimensione_kb": 100,
                       "path": "/HUB DOCUMENTALE/CLIENTI/SCALEA/IL PESCESPADA/AREA TECNICA/FRIGGITRICE FIMAR_PESCESPADA_RIF.24_04_24-002.jpg"
                     },
