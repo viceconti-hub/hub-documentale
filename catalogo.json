@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-20T05:46:45Z",
-  "totale_file": 23319,
+  "generato": "2026-03-20T07:18:42Z",
+  "totale_file": 23320,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -172852,7 +172852,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3772,
+      "totale_file": 3773,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -175513,6 +175513,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600008965_N0000989 RIF.FA TU.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX Ordine dacquisto_260022_20260319_173611 RIF.ACAL_LAVELLO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kxd12f79y5fsmm1ckpxxx/IDEAM-INOX-Ordine-dacquisto_260022_20260319_173611-RIF.ACAL_LAVELLO.pdf?rlkey=am56lpjgam35010rrn2u4wbkk&dl=0?raw=1",
+                  "dimensione_kb": 70,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX Ordine dacquisto_260022_20260319_173611 RIF.ACAL_LAVELLO.pdf"
+                },
+                {
                   "nome": "IFI CONFERMA ORDINE 26000883 RIF.TERMINAL_CENTRALINA_MURALE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -175649,7 +175657,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 47
+              "_totale_file": 48
             },
             {
               "nome": "ARCHIVIO",
@@ -205369,7 +205377,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3479
+          "_totale_file": 3480
         }
       ],
       "file": []
