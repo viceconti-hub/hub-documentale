@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-20T01:13:39Z",
-  "totale_file": 23317,
+  "generato": "2026-03-20T03:09:16Z",
+  "totale_file": 23319,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -130945,7 +130945,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4337,
+      "totale_file": 4339,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -166772,6 +166772,22 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL LISTINO 2024 email del 12_02_2024.pdf"
             },
             {
+              "nome": "RATIONAL LISTINO RICAMBI 01.04.2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cy4onzbs4axtuquckncz9/RATIONAL-LISTINO-RICAMBI-01.04.2026.pdf?rlkey=hcn35gv4g3laip51zt5fs8902&dl=0?raw=1",
+              "dimensione_kb": 3515,
+              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL LISTINO RICAMBI 01.04.2026.pdf"
+            },
+            {
+              "nome": "RATIONAL LISTINO RICAMBI EXCEL SPPL_IT_it_2026_V22.xlsx",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/vw1n8olq3hd8ct8h5f27j/RATIONAL-LISTINO-RICAMBI-EXCEL-SPPL_IT_it_2026_V22.xlsx?rlkey=z1urhdhby2rar8ounjebtonqp&dl=0?raw=1",
+              "dimensione_kb": 764,
+              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL LISTINO RICAMBI EXCEL SPPL_IT_it_2026_V22.xlsx"
+            },
+            {
               "nome": "RATIONAL LISTINO RICAMBI SPPL_IT_it_2025_V21.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -166796,7 +166812,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/cannillo viceconti solo logo.pdf"
             }
           ],
-          "_totale_file": 86
+          "_totale_file": 88
         },
         {
           "nome": "REGINA ATTREZZATURE",
