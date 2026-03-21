@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-21T03:11:51Z",
-  "totale_file": 23321,
+  "generato": "2026-03-21T05:50:57Z",
+  "totale_file": 23327,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5533,
+      "totale_file": 5539,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1502,6 +1502,22 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "CIDO SRL Offerta di vendita_260047_20260320_191258 V2.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/u3pchmme0qrsggk9xyxcv/CIDO-SRL-Offerta-di-vendita_260047_20260320_191258-V2.pdf?rlkey=syuywd667cz2e1r5tntzo23cb&dl=0?raw=1",
+                  "dimensione_kb": 86,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_04 CIDO RIVETTI ATTREZZATURE/CIDO SRL Offerta di vendita_260047_20260320_191258 V2.pdf"
+                },
+                {
+                  "nome": "GEU611.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/c0hgcubh6co8cgx1kkyv8/GEU611.pdf?rlkey=pmrd5yt1adjeeimciuja6jchf&dl=0?raw=1",
+                  "dimensione_kb": 64,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_04 CIDO RIVETTI ATTREZZATURE/GEU611.pdf"
+                },
+                {
                   "nome": "Offerta di vendita_260047_20260304_135351.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -1510,7 +1526,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_04 CIDO RIVETTI ATTREZZATURE/Offerta di vendita_260047_20260304_135351.pdf"
                 }
               ],
-              "_totale_file": 1
+              "_totale_file": 3
             },
             {
               "nome": "2026_03_06 CIACCO PASQUALE MARIPOSA VETRINA INGREDIENTI",
@@ -1791,6 +1807,54 @@
                 }
               ],
               "_totale_file": 3
+            },
+            {
+              "nome": "2026_03_20 CORRADO MICHELA TERZA CAMERA CUPPONE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_20 CORRADO MICHELA TERZA CAMERA CUPPONE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Offerta di vendita_260062_20260320_112922.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/41sneg0f54py7op4f2pfv/Offerta-di-vendita_260062_20260320_112922.pdf?rlkey=9038f1msa6tb2x6aidyx1buxx&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_20 CORRADO MICHELA TERZA CAMERA CUPPONE/Offerta di vendita_260062_20260320_112922.pdf"
+                },
+                {
+                  "nome": "SCHEMA DI INSTALLAZIONE DN635L-3 Model (1).pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/flaxi9vyppqtvpv8aibn5/SCHEMA-DI-INSTALLAZIONE-DN635L-3-Model-1.pdf?rlkey=vc4tinlqx4acb0g1hth5zs0kl&dl=0?raw=1",
+                  "dimensione_kb": 49,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_20 CORRADO MICHELA TERZA CAMERA CUPPONE/SCHEMA DI INSTALLAZIONE DN635L-3 Model (1).pdf"
+                },
+                {
+                  "nome": "SCHEMA DI INSTALLAZIONE DN635L-3.dwg",
+                  "tipo": "CAD",
+                  "icona": "📐",
+                  "link": "https://www.dropbox.com/scl/fi/07b4c1carcmpkjrzhwxfh/SCHEMA-DI-INSTALLAZIONE-DN635L-3.dwg?rlkey=w02el3y2u9z6ytutu63qf4os6&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_20 CORRADO MICHELA TERZA CAMERA CUPPONE/SCHEMA DI INSTALLAZIONE DN635L-3.dwg"
+                }
+              ],
+              "_totale_file": 3
+            },
+            {
+              "nome": "2026_03_20 GESTIONI TURISTICHE LA TORRE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_20 GESTIONI TURISTICHE LA TORRE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "GESTIONI TURISTICHE LA TORRE Offerta di vendita_150464_20260320_191735.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/v0sngfkngqw5zfro8hjgs/GESTIONI-TURISTICHE-LA-TORRE-Offerta-di-vendita_150464_20260320_191735.pdf?rlkey=dory954ich98zqgqw0r7y5ohl&dl=0?raw=1",
+                  "dimensione_kb": 81,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_20 GESTIONI TURISTICHE LA TORRE/GESTIONI TURISTICHE LA TORRE Offerta di vendita_150464_20260320_191735.pdf"
+                }
+              ],
+              "_totale_file": 1
             },
             {
               "nome": "3AM",
@@ -57803,7 +57867,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5373
+          "_totale_file": 5379
         },
         {
           "nome": "ORDINI CLIENTE",
