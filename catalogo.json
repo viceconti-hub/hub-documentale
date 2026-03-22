@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-22T03:09:20Z",
-  "totale_file": 23327,
+  "generato": "2026-03-22T05:49:10Z",
+  "totale_file": 23331,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5539,
+      "totale_file": 5543,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1855,6 +1855,46 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_03_21 FA TU FORNO CAMERA",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_21 FA TU FORNO CAMERA",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "FA TU CUPPONE TIZIANO 230_2 Offerta di vendita_260065_20260321_105814.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ilvin7k62hzswv373xaao/FA-TU-CUPPONE-TIZIANO-230_2-Offerta-di-vendita_260065_20260321_105814.pdf?rlkey=b63au027vwr5ef1vw85nztgjv&dl=0?raw=1",
+                  "dimensione_kb": 82,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_21 FA TU FORNO CAMERA/FA TU CUPPONE TIZIANO 230_2 Offerta di vendita_260065_20260321_105814.pdf"
+                },
+                {
+                  "nome": "FA TU WAIKO EK 66 Offerta di vendita_260063_20260321_090542.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/c8zxbipcvd79hknagux97/FA-TU-WAIKO-EK-66-Offerta-di-vendita_260063_20260321_090542.pdf?rlkey=l7shn8w03d0q0asjnea86zun0&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_21 FA TU FORNO CAMERA/FA TU WAIKO EK 66 Offerta di vendita_260063_20260321_090542.pdf"
+                },
+                {
+                  "nome": "FA TU WAIKO TK 2B Offerta di vendita_260063_20260321_090542.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/spbixz7kghissusr02akm/FA-TU-WAIKO-TK-2B-Offerta-di-vendita_260063_20260321_090542.pdf?rlkey=qxan4vyng9xabu8ishnn4klap&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_21 FA TU FORNO CAMERA/FA TU WAIKO TK 2B Offerta di vendita_260063_20260321_090542.pdf"
+                },
+                {
+                  "nome": "WAICO ITALFORNI OFFERTA Ordini_clienti RIF.FA TU.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6l1uuz30ot68x5hj5pqq7/WAICO-ITALFORNI-OFFERTA-Ordini_clienti-RIF.FA-TU.PDF?rlkey=i5jsy9ewsjt5ig39gxjb5esyj&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_21 FA TU FORNO CAMERA/WAICO ITALFORNI OFFERTA Ordini_clienti RIF.FA TU.PDF"
+                }
+              ],
+              "_totale_file": 4
             },
             {
               "nome": "3AM",
@@ -57867,7 +57907,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5379
+          "_totale_file": 5383
         },
         {
           "nome": "ORDINI CLIENTE",
