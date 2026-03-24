@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-24T08:05:43Z",
-  "totale_file": 23345,
+  "generato": "2026-03-24T09:07:14Z",
+  "totale_file": 23355,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61417,7 +61417,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 15,
+      "totale_file": 20,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61436,44 +61436,100 @@
           "_totale_file": 1
         },
         {
-          "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
+          "nome": "FA TU COMPASS MARZO 2026",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026",
           "cartelle": [],
           "file": [
             {
-              "nome": "FA TU RESIDUO ORDINE  FORNO CUPPONE Ordine cliente_260079_20260323_222759.pdf",
+              "nome": "FA TU CONTRATTO COMPASS.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/1elnnguj9ij5kyrvaq419/FA-TU-RESIDUO-ORDINE-FORNO-CUPPONE-Ordine-cliente_260079_20260323_222759.pdf?rlkey=52rnkome6a50mll8o5hkegk5d&dl=0?raw=1",
-              "dimensione_kb": 62,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO ORDINE  FORNO CUPPONE Ordine cliente_260079_20260323_222759.pdf"
+              "link": "https://www.dropbox.com/scl/fi/tn4blhftmzhsj50qmdgrt/FA-TU-CONTRATTO-COMPASS.pdf?rlkey=rnd66t6970r2ardepzbhchfci&dl=0?raw=1",
+              "dimensione_kb": 550,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026/FA TU CONTRATTO COMPASS.pdf"
             },
             {
-              "nome": "FA TU RESIDUO ORDINE COMPASS AL 23_03_2026 Ordine cliente_260078_20260323_220359.pdf",
+              "nome": "FA TU EMAIL AVALLONE Gmail - Fwd_ 33364858 FA' TU.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2tp1ner7nknpuy09kt1u6/FA-TU-RESIDUO-ORDINE-COMPASS-AL-23_03_2026-Ordine-cliente_260078_20260323_220359.pdf?rlkey=33qa7x7zrf5zui8vh799g7cn9&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO ORDINE COMPASS AL 23_03_2026 Ordine cliente_260078_20260323_220359.pdf"
+              "link": "https://www.dropbox.com/scl/fi/igjy4dg9139vkalu1tn8q/FA-TU-EMAIL-AVALLONE-Gmail-Fwd_-33364858-FA-TU.pdf?rlkey=e40dnkna9q4nzp3nkrqoo7nxx&dl=0?raw=1",
+              "dimensione_kb": 472,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026/FA TU EMAIL AVALLONE Gmail - Fwd_ 33364858 FA' TU.pdf"
             },
             {
-              "nome": "FA TU RESIDUO ORDINE VINI E FRIGGITRICE ROC 900 Ordine cliente_260052_20260323_220936.pdf",
+              "nome": "FA TU Fattura 2600055 DEL 13_03_2026 ELETTRONICA .pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/iag16gxp27q9ke1wcrh32/FA-TU-RESIDUO-ORDINE-VINI-E-FRIGGITRICE-ROC-900-Ordine-cliente_260052_20260323_220936.pdf?rlkey=z1q7xzxqhv6xp538hoos1sqd1&dl=0?raw=1",
-              "dimensione_kb": 62,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO ORDINE VINI E FRIGGITRICE ROC 900 Ordine cliente_260052_20260323_220936.pdf"
+              "link": "https://www.dropbox.com/scl/fi/cp8ocpwfboknupxdjsrza/FA-TU-Fattura-2600055-DEL-13_03_2026-ELETTRONICA.pdf?rlkey=82pkvgdfew992i4y2x1y75056&dl=0?raw=1",
+              "dimensione_kb": 8,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026/FA TU Fattura 2600055 DEL 13_03_2026 ELETTRONICA .pdf"
             },
             {
-              "nome": "FA TU RESIDUO PRIMO ORDINE AL 23_03_2026 Ordine cliente_250832_20260323_215352.pdf",
+              "nome": "FA TU Offerta di vendita_260034_20260313_084510.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/renpxn64gsfn2tgketw5z/FA-TU-RESIDUO-PRIMO-ORDINE-AL-23_03_2026-Ordine-cliente_250832_20260323_215352.pdf?rlkey=zjjye4wr7zuiczyuvk3ypikzs&dl=0?raw=1",
-              "dimensione_kb": 64,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO PRIMO ORDINE AL 23_03_2026 Ordine cliente_250832_20260323_215352.pdf"
+              "link": "https://www.dropbox.com/scl/fi/pgqoxq7s2628m0pacy0zc/FA-TU-Offerta-di-vendita_260034_20260313_084510.pdf?rlkey=le6ux2s789e8gcbejcawg6v9w&dl=0?raw=1",
+              "dimensione_kb": 94,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026/FA TU Offerta di vendita_260034_20260313_084510.pdf"
+            },
+            {
+              "nome": "FA TU PRIVACY COMPASS COM104D_01_26.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gcf87tztrwc7f52fez63j/FA-TU-PRIVACY-COMPASS-COM104D_01_26.pdf?rlkey=wrivrwswwjz99fc8uwbax8a2e&dl=0?raw=1",
+              "dimensione_kb": 840,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026/FA TU PRIVACY COMPASS COM104D_01_26.pdf"
             }
           ],
-          "_totale_file": 4
+          "_totale_file": 5
+        },
+        {
+          "nome": "FA TU FORNO PIZZA A CAMERA",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "CUPPONE TIZIANO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b3om9wluyi7dlgdq630sp/CUPPONE-TIZIANO.pdf?rlkey=8gckfygpqilkwghp8b1euinwm&dl=0?raw=1",
+              "dimensione_kb": 463,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/CUPPONE TIZIANO.pdf"
+            },
+            {
+              "nome": "ITALFORNI EK-6-66-INDIRIZZI-WAICO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hfs995plv3i6ejjncosrr/ITALFORNI-EK-6-66-INDIRIZZI-WAICO.pdf?rlkey=nlhnztglkx3qs6eq2vf9bqqxu&dl=0?raw=1",
+              "dimensione_kb": 520,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI EK-6-66-INDIRIZZI-WAICO.pdf"
+            },
+            {
+              "nome": "ITALFORNI TK-B1-INDIRIZZI-WAICO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ba008lsdt5x8kliz933tq/ITALFORNI-TK-B1-INDIRIZZI-WAICO.pdf?rlkey=dqspciis8a0xtupyqrhp2g2nm&dl=0?raw=1",
+              "dimensione_kb": 376,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI TK-B1-INDIRIZZI-WAICO.pdf"
+            },
+            {
+              "nome": "ITALFORNI TK-B2-INDIRIZZI-WAICO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/weayuuh9xcp0t7yxkjsv9/ITALFORNI-TK-B2-INDIRIZZI-WAICO.pdf?rlkey=nogmoumtyu1cl65o7xmutw5oa&dl=0?raw=1",
+              "dimensione_kb": 397,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI TK-B2-INDIRIZZI-WAICO.pdf"
+            },
+            {
+              "nome": "ITALFORNI catalogo-TK-WEB.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fncklzxf9b98cram0kmvl/ITALFORNI-catalogo-TK-WEB.pdf?rlkey=qzqyxnb6io59nds00bjp1updd&dl=0?raw=1",
+              "dimensione_kb": 696,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI catalogo-TK-WEB.pdf"
+            }
+          ],
+          "_totale_file": 5
         },
         {
           "nome": "MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
@@ -61550,20 +61606,12 @@
       ],
       "file": [
         {
-          "nome": "CALA DEL CITRO ORDINE ANNO 2024 Ordine cliente_240903_20260324_085640.pdf",
+          "nome": "FA'TU- 18022025.pdf",
           "tipo": "PDF",
           "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/ylu521y6nr9vhiewev2nz/CALA-DEL-CITRO-ORDINE-ANNO-2024-Ordine-cliente_240903_20260324_085640.pdf?rlkey=hipgy4z8b9ho6c9q5arc3yg51&dl=0?raw=1",
-          "dimensione_kb": 72,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CALA DEL CITRO ORDINE ANNO 2024 Ordine cliente_240903_20260324_085640.pdf"
-        },
-        {
-          "nome": "NERA ORDINE ANNO 2024 Ordine cliente_240899_20260324_085516.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/xehhbhux50rd5fkokr163/NERA-ORDINE-ANNO-2024-Ordine-cliente_240899_20260324_085516.pdf?rlkey=e2e7wx23tq86d56vzej92dw2s&dl=0?raw=1",
-          "dimensione_kb": 83,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/NERA ORDINE ANNO 2024 Ordine cliente_240899_20260324_085516.pdf"
+          "link": "https://www.dropbox.com/scl/fi/h795pqll73nu76jfapwf9/FA-TU-18022025.pdf?rlkey=7jaljdu2st3vvlp94fgdqm9e3&dl=0?raw=1",
+          "dimensione_kb": 1896,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA'TU- 18022025.pdf"
         }
       ]
     },
@@ -173126,7 +173174,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3773,
+      "totale_file": 3777,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -175547,12 +175595,12 @@
               "cartelle": [],
               "file": [
                 {
-                  "nome": "ACCIAIO T&D DISEGNO TAVOLO RIF.BRUTIUM.pdf",
+                  "nome": "ACCIAIO TeD CONFERMA OFFVE-001268-2026 RIF.ACAL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/mqdcq26m016ud23xl0864/ACCIAIO-T-D-DISEGNO-TAVOLO-RIF.BRUTIUM.pdf?rlkey=c0qklpae5hdjv9drvn27xm2yr&dl=0?raw=1",
-                  "dimensione_kb": 589,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ACCIAIO T&D DISEGNO TAVOLO RIF.BRUTIUM.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/etigxplh7npati5wjwerw/ACCIAIO-TeD-CONFERMA-OFFVE-001268-2026-RIF.ACAL.pdf?rlkey=zsbhjziysbz4wy86yatjn48jd&dl=0?raw=1",
+                  "dimensione_kb": 687,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ACCIAIO TeD CONFERMA OFFVE-001268-2026 RIF.ACAL.pdf"
                 },
                 {
                   "nome": "ACCIAIO TeD CONFERMA ORDVE-00618 RIF.BRUTIUM CANNAZZARO.pdf",
@@ -175561,6 +175609,14 @@
                   "link": "https://www.dropbox.com/scl/fi/5orr3r3m4o45030ohz54d/ACCIAIO-TeD-CONFERMA-ORDVE-00618-RIF.BRUTIUM-CANNAZZARO.pdf?rlkey=zhsl1vho03n869qd8xepas0gv&dl=0?raw=1",
                   "dimensione_kb": 733,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ACCIAIO TeD CONFERMA ORDVE-00618 RIF.BRUTIUM CANNAZZARO.pdf"
+                },
+                {
+                  "nome": "ACCIAIO TeD DISEGNO TAVOLO RIF.BRUTIUM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mqdcq26m016ud23xl0864/ACCIAIO-TeD-DISEGNO-TAVOLO-RIF.BRUTIUM.pdf?rlkey=c0qklpae5hdjv9drvn27xm2yr&dl=0?raw=1",
+                  "dimensione_kb": 589,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ACCIAIO TeD DISEGNO TAVOLO RIF.BRUTIUM.pdf"
                 },
                 {
                   "nome": "ARISTARCO Ordine dacquisto_250446_20251120_161255 RIF.CALA DEL CITRO.pdf",
@@ -175697,6 +175753,22 @@
                   "link": "https://www.dropbox.com/scl/fi/9jfa3xtoc6eyi561a7b24/COMENDA-CO-OC-10290-VICECONTI-SNC-RIF.CENTRAL-MARKET.PDF?rlkey=7xbmn9c8zc2xnilldom8kxyzx&dl=0?raw=1",
                   "dimensione_kb": 85,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COMENDA CO OC - 10290 VICECONTI SNC RIF.CENTRAL MARKET.PDF"
+                },
+                {
+                  "nome": "ECOSAN FORNITURA Ordine dacquisto_260024_20260323_125559.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0qpzycgm1odj1mbs3b7py/ECOSAN-FORNITURA-Ordine-dacquisto_260024_20260323_125559.pdf?rlkey=jhsj9lkcxpgf46n63oowqx1fb&dl=0?raw=1",
+                  "dimensione_kb": 75,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ECOSAN FORNITURA Ordine dacquisto_260024_20260323_125559.pdf"
+                },
+                {
+                  "nome": "ECOSAN RAPIDO Ordine dacquisto_260023_20260323_125505.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zs83ecfqqjhnhhgcmgl0n/ECOSAN-RAPIDO-Ordine-dacquisto_260023_20260323_125505.pdf?rlkey=kzw5zydsb2bdtknaiglj0o9ty&dl=0?raw=1",
+                  "dimensione_kb": 75,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ECOSAN RAPIDO Ordine dacquisto_260023_20260323_125505.pdf"
                 },
                 {
                   "nome": "FAMAG Ordine dacquisto_260003_20260128_132452 RIF.AGUA LOCA.pdf",
@@ -175859,6 +175931,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MORINI Ordine dacquisto_260020_20260311_104607.pdf"
                 },
                 {
+                  "nome": "MORINI Ordine dacquisto_260025_20260323_133347 RIF.ESCOPOCO_PANAINO_I SAPORI_ AGUALOCA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7jfm1ote9zztduczss7x1/MORINI-Ordine-dacquisto_260025_20260323_133347-RIF.ESCOPOCO_PANAINO_I-SAPORI_-AGUALOCA.pdf?rlkey=yrzmpvvb6wvnuzx9n9cdi8lyv&dl=0?raw=1",
+                  "dimensione_kb": 77,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MORINI Ordine dacquisto_260025_20260323_133347 RIF.ESCOPOCO_PANAINO_I SAPORI_ AGUALOCA.pdf"
+                },
+                {
                   "nome": "PADERNO ORDINE SBT-26002693 RIF.GEROLAMO BINDA + MAG.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -175931,7 +176011,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 48
+              "_totale_file": 52
             },
             {
               "nome": "ARCHIVIO",
@@ -204626,7 +204706,7 @@
                   "nome": "COLDLINE Packing list ordine n°25-15856.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/ra1tve5hipos1ii851dup/COLDLINE-Packing-list-ordine-n-25-15856.pdf?rlkey=f2e8xnlqjehccfah7j1svphge&dl=0?raw=1",
                   "dimensione_kb": 109,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Packing list ordine n°25-15856.pdf"
                 },
@@ -205651,7 +205731,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3480
+          "_totale_file": 3484
         }
       ],
       "file": []
@@ -205660,7 +205740,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2299,
+      "totale_file": 2300,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -205894,6 +205974,14 @@
                   "link": "https://www.dropbox.com/scl/fi/bvt4cly7b54u5pe7oaj2h/Dettaglio-bonifico-istantaneo.pdf?rlkey=ayuuqj3i5vmwybv4lflne8rni&dl=0?raw=1",
                   "dimensione_kb": 108,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/Dettaglio bonifico istantaneo.pdf"
+                },
+                {
+                  "nome": "ECOSAN Dettaglio bonifico istantaneo DEL 23_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9x0gzfqvmv13whr6r9r6x/ECOSAN-Dettaglio-bonifico-istantaneo-DEL-23_03_2026.pdf?rlkey=b53a3z01w083f7k56kg08xlpg&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/ECOSAN Dettaglio bonifico istantaneo DEL 23_03_2026.pdf"
                 },
                 {
                   "nome": "ECOSAN Dettaglio bonifico istantaneo DEL 23_10_2025.pdf",
@@ -206176,7 +206264,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 44
+              "_totale_file": 45
             },
             {
               "nome": "ARCHIVIO",
@@ -226405,7 +226493,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR RICEVUTA AR 04_03_2026.jpeg"
             }
           ],
-          "_totale_file": 2282
+          "_totale_file": 2283
         }
       ],
       "file": []
