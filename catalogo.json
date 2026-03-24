@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-24T03:36:54Z",
-  "totale_file": 23347,
+  "generato": "2026-03-24T06:25:04Z",
+  "totale_file": 23350,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5543,
+      "totale_file": 5546,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -19,6 +19,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE",
               "cartelle": [],
               "file": [
+                {
+                  "nome": "AGUA LOCA Consegna_260142_20260323_132349.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/urv201u7npv3tqt63t574/AGUA-LOCA-Consegna_260142_20260323_132349.pdf?rlkey=1h4toih8gtphil790zu3lkz4y&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/AGUA LOCA Consegna_260142_20260323_132349.pdf"
+                },
                 {
                   "nome": "AM DI ANTONELLA MANCINO Consegna_260075_20260306_090216.pdf",
                   "tipo": "PDF",
@@ -92,11 +100,11 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/PANAINO SRL Consegna_260068_20260226_102358.pdf"
                 }
               ],
-              "_totale_file": 9
+              "_totale_file": 10
             }
           ],
           "file": [],
-          "_totale_file": 9
+          "_totale_file": 10
         },
         {
           "nome": "FATTURE DI VENDITA",
@@ -246,6 +254,14 @@
               "link": "https://www.dropbox.com/scl/fi/klak6iuwpcdd8orv343y3/CATA-EVENTI-Fattura-di-vendita_2500743_20251104_084322.pdf?rlkey=bqei1a4y101dnqtlpjzxdlsp5&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/CATA' EVENTI Fattura di vendita_2500743_20251104_084322.pdf"
+            },
+            {
+              "nome": "CAVALIERE DI NICOLA GUERRESE Fattura di vendita_2600059_20260323_174727.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5g2lp99vzytj15x3fes5v/CAVALIERE-DI-NICOLA-GUERRESE-Fattura-di-vendita_2600059_20260323_174727.pdf?rlkey=xooy75s10dsae15zqqj9d8ke9&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/CAVALIERE DI NICOLA GUERRESE Fattura di vendita_2600059_20260323_174727.pdf"
             },
             {
               "nome": "CHECK SRL Fattura di vendita_2500665_20250916_191615.pdf",
@@ -992,7 +1008,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 111
+          "_totale_file": 112
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -1886,6 +1902,14 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_21 FA TU FORNO CAMERA/FA TU WAIKO TK 2B Offerta di vendita_260063_20260321_090542.pdf"
                 },
                 {
+                  "nome": "ITALFORNI catalogo-TK-WEB.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fncklzxf9b98cram0kmvl/ITALFORNI-catalogo-TK-WEB.pdf?rlkey=qzqyxnb6io59nds00bjp1updd&dl=0?raw=1",
+                  "dimensione_kb": 696,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_21 FA TU FORNO CAMERA/ITALFORNI catalogo-TK-WEB.pdf"
+                },
+                {
                   "nome": "WAICO ITALFORNI OFFERTA Ordini_clienti RIF.FA TU.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -1894,7 +1918,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_21 FA TU FORNO CAMERA/WAICO ITALFORNI OFFERTA Ordini_clienti RIF.FA TU.PDF"
                 }
               ],
-              "_totale_file": 4
+              "_totale_file": 5
             },
             {
               "nome": "3AM",
@@ -57907,7 +57931,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5383
+          "_totale_file": 5384
         },
         {
           "nome": "ORDINI CLIENTE",
