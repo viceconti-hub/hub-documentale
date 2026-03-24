@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-24T09:07:14Z",
-  "totale_file": 23355,
+  "generato": "2026-03-24T09:10:33Z",
+  "totale_file": 23350,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61417,7 +61417,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 20,
+      "totale_file": 15,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61436,100 +61436,44 @@
           "_totale_file": 1
         },
         {
-          "nome": "FA TU COMPASS MARZO 2026",
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026",
+          "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
           "cartelle": [],
           "file": [
             {
-              "nome": "FA TU CONTRATTO COMPASS.pdf",
+              "nome": "FA TU RESIDUO ORDINE  FORNO CUPPONE Ordine cliente_260079_20260323_222759.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/tn4blhftmzhsj50qmdgrt/FA-TU-CONTRATTO-COMPASS.pdf?rlkey=rnd66t6970r2ardepzbhchfci&dl=0?raw=1",
-              "dimensione_kb": 550,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026/FA TU CONTRATTO COMPASS.pdf"
+              "link": "https://www.dropbox.com/scl/fi/1elnnguj9ij5kyrvaq419/FA-TU-RESIDUO-ORDINE-FORNO-CUPPONE-Ordine-cliente_260079_20260323_222759.pdf?rlkey=52rnkome6a50mll8o5hkegk5d&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO ORDINE  FORNO CUPPONE Ordine cliente_260079_20260323_222759.pdf"
             },
             {
-              "nome": "FA TU EMAIL AVALLONE Gmail - Fwd_ 33364858 FA' TU.pdf",
+              "nome": "FA TU RESIDUO ORDINE COMPASS AL 23_03_2026 Ordine cliente_260078_20260323_220359.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/igjy4dg9139vkalu1tn8q/FA-TU-EMAIL-AVALLONE-Gmail-Fwd_-33364858-FA-TU.pdf?rlkey=e40dnkna9q4nzp3nkrqoo7nxx&dl=0?raw=1",
-              "dimensione_kb": 472,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026/FA TU EMAIL AVALLONE Gmail - Fwd_ 33364858 FA' TU.pdf"
+              "link": "https://www.dropbox.com/scl/fi/2tp1ner7nknpuy09kt1u6/FA-TU-RESIDUO-ORDINE-COMPASS-AL-23_03_2026-Ordine-cliente_260078_20260323_220359.pdf?rlkey=33qa7x7zrf5zui8vh799g7cn9&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO ORDINE COMPASS AL 23_03_2026 Ordine cliente_260078_20260323_220359.pdf"
             },
             {
-              "nome": "FA TU Fattura 2600055 DEL 13_03_2026 ELETTRONICA .pdf",
+              "nome": "FA TU RESIDUO ORDINE VINI E FRIGGITRICE ROC 900 Ordine cliente_260052_20260323_220936.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/cp8ocpwfboknupxdjsrza/FA-TU-Fattura-2600055-DEL-13_03_2026-ELETTRONICA.pdf?rlkey=82pkvgdfew992i4y2x1y75056&dl=0?raw=1",
-              "dimensione_kb": 8,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026/FA TU Fattura 2600055 DEL 13_03_2026 ELETTRONICA .pdf"
+              "link": "https://www.dropbox.com/scl/fi/iag16gxp27q9ke1wcrh32/FA-TU-RESIDUO-ORDINE-VINI-E-FRIGGITRICE-ROC-900-Ordine-cliente_260052_20260323_220936.pdf?rlkey=z1q7xzxqhv6xp538hoos1sqd1&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO ORDINE VINI E FRIGGITRICE ROC 900 Ordine cliente_260052_20260323_220936.pdf"
             },
             {
-              "nome": "FA TU Offerta di vendita_260034_20260313_084510.pdf",
+              "nome": "FA TU RESIDUO PRIMO ORDINE AL 23_03_2026 Ordine cliente_250832_20260323_215352.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/pgqoxq7s2628m0pacy0zc/FA-TU-Offerta-di-vendita_260034_20260313_084510.pdf?rlkey=le6ux2s789e8gcbejcawg6v9w&dl=0?raw=1",
-              "dimensione_kb": 94,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026/FA TU Offerta di vendita_260034_20260313_084510.pdf"
-            },
-            {
-              "nome": "FA TU PRIVACY COMPASS COM104D_01_26.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gcf87tztrwc7f52fez63j/FA-TU-PRIVACY-COMPASS-COM104D_01_26.pdf?rlkey=wrivrwswwjz99fc8uwbax8a2e&dl=0?raw=1",
-              "dimensione_kb": 840,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU COMPASS MARZO 2026/FA TU PRIVACY COMPASS COM104D_01_26.pdf"
+              "link": "https://www.dropbox.com/scl/fi/renpxn64gsfn2tgketw5z/FA-TU-RESIDUO-PRIMO-ORDINE-AL-23_03_2026-Ordine-cliente_250832_20260323_215352.pdf?rlkey=zjjye4wr7zuiczyuvk3ypikzs&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO PRIMO ORDINE AL 23_03_2026 Ordine cliente_250832_20260323_215352.pdf"
             }
           ],
-          "_totale_file": 5
-        },
-        {
-          "nome": "FA TU FORNO PIZZA A CAMERA",
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA",
-          "cartelle": [],
-          "file": [
-            {
-              "nome": "CUPPONE TIZIANO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/b3om9wluyi7dlgdq630sp/CUPPONE-TIZIANO.pdf?rlkey=8gckfygpqilkwghp8b1euinwm&dl=0?raw=1",
-              "dimensione_kb": 463,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/CUPPONE TIZIANO.pdf"
-            },
-            {
-              "nome": "ITALFORNI EK-6-66-INDIRIZZI-WAICO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hfs995plv3i6ejjncosrr/ITALFORNI-EK-6-66-INDIRIZZI-WAICO.pdf?rlkey=nlhnztglkx3qs6eq2vf9bqqxu&dl=0?raw=1",
-              "dimensione_kb": 520,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI EK-6-66-INDIRIZZI-WAICO.pdf"
-            },
-            {
-              "nome": "ITALFORNI TK-B1-INDIRIZZI-WAICO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ba008lsdt5x8kliz933tq/ITALFORNI-TK-B1-INDIRIZZI-WAICO.pdf?rlkey=dqspciis8a0xtupyqrhp2g2nm&dl=0?raw=1",
-              "dimensione_kb": 376,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI TK-B1-INDIRIZZI-WAICO.pdf"
-            },
-            {
-              "nome": "ITALFORNI TK-B2-INDIRIZZI-WAICO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/weayuuh9xcp0t7yxkjsv9/ITALFORNI-TK-B2-INDIRIZZI-WAICO.pdf?rlkey=nogmoumtyu1cl65o7xmutw5oa&dl=0?raw=1",
-              "dimensione_kb": 397,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI TK-B2-INDIRIZZI-WAICO.pdf"
-            },
-            {
-              "nome": "ITALFORNI catalogo-TK-WEB.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/fncklzxf9b98cram0kmvl/ITALFORNI-catalogo-TK-WEB.pdf?rlkey=qzqyxnb6io59nds00bjp1updd&dl=0?raw=1",
-              "dimensione_kb": 696,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU FORNO PIZZA A CAMERA/ITALFORNI catalogo-TK-WEB.pdf"
-            }
-          ],
-          "_totale_file": 5
+          "_totale_file": 4
         },
         {
           "nome": "MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
@@ -61606,12 +61550,20 @@
       ],
       "file": [
         {
-          "nome": "FA'TU- 18022025.pdf",
+          "nome": "CALA DEL CITRO ORDINE ANNO 2024 Ordine cliente_240903_20260324_085640.pdf",
           "tipo": "PDF",
           "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/h795pqll73nu76jfapwf9/FA-TU-18022025.pdf?rlkey=7jaljdu2st3vvlp94fgdqm9e3&dl=0?raw=1",
-          "dimensione_kb": 1896,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA'TU- 18022025.pdf"
+          "link": "https://www.dropbox.com/scl/fi/ylu521y6nr9vhiewev2nz/CALA-DEL-CITRO-ORDINE-ANNO-2024-Ordine-cliente_240903_20260324_085640.pdf?rlkey=hipgy4z8b9ho6c9q5arc3yg51&dl=0?raw=1",
+          "dimensione_kb": 72,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CALA DEL CITRO ORDINE ANNO 2024 Ordine cliente_240903_20260324_085640.pdf"
+        },
+        {
+          "nome": "NERA ORDINE ANNO 2024 Ordine cliente_240899_20260324_085516.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/xehhbhux50rd5fkokr163/NERA-ORDINE-ANNO-2024-Ordine-cliente_240899_20260324_085516.pdf?rlkey=e2e7wx23tq86d56vzej92dw2s&dl=0?raw=1",
+          "dimensione_kb": 83,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/NERA ORDINE ANNO 2024 Ordine cliente_240899_20260324_085516.pdf"
         }
       ]
     },
