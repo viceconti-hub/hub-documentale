@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-24T09:18:31Z",
-  "totale_file": 23350,
+  "generato": "2026-03-25T01:30:39Z",
+  "totale_file": 23351,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61571,7 +61571,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 6995,
+      "totale_file": 6996,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -77972,7 +77972,7 @@
                           "nome": "ce9000_t_007180_rev-h.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/3bbsf3u0yuq28vq8ukwqq/ce9000_t_007180_rev-h.pdf?rlkey=51mg3s893oc8umbplkuk9v88u&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 5574,
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/ce9000_t_007180_rev-h.pdf"
                         },
@@ -100717,6 +100717,22 @@
                   "_totale_file": 29
                 },
                 {
+                  "nome": "ACAL PREVENTIVO BANDO MARZO 2026",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL PREVENTIVO BANDO MARZO 2026",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "ACAL Offerta di vendita_260026_20260311_132408.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/yykvwkl5mv9m3b93uvxyv/ACAL-Offerta-di-vendita_260026_20260311_132408.pdf?rlkey=l8pefu0svgtump43qpmcy3weh&dl=0?raw=1",
+                      "dimensione_kb": 93,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL PREVENTIVO BANDO MARZO 2026/ACAL Offerta di vendita_260026_20260311_132408.pdf"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
                   "nome": "ACAL SRL AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA",
                   "cartelle": [
@@ -101352,7 +101368,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ricevuta_operazione_2976623243.pdf"
                 }
               ],
-              "_totale_file": 139
+              "_totale_file": 140
             },
             {
               "nome": "AGRIBOSCO DI CARRAZZONE",
@@ -104214,7 +104230,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 445
+          "_totale_file": 446
         },
         {
           "nome": "ORIOLO",
