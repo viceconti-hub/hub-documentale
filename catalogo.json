@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-25T06:23:26Z",
-  "totale_file": 23353,
+  "generato": "2026-03-25T08:08:48Z",
+  "totale_file": 23355,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -173166,7 +173166,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3777,
+      "totale_file": 3779,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -175587,6 +175587,14 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "ACCIAIO T&D CONFERMA ORDVE-000988-2026 RIF.ACAL.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/opi23y8zkgkmbddyzliwi/ACCIAIO-T-D-CONFERMA-ORDVE-000988-2026-RIF.ACAL.pdf?rlkey=apqmtlq8h713393evh9ou8pf1&dl=0?raw=1",
+                  "dimensione_kb": 743,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ACCIAIO T&D CONFERMA ORDVE-000988-2026 RIF.ACAL.pdf"
+                },
+                {
                   "nome": "ACCIAIO TeD CONFERMA OFFVE-001268-2026 RIF.ACAL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -175665,6 +175673,14 @@
                   "link": "https://www.dropbox.com/scl/fi/7kspcgwlk0y3why3d36ah/BRT-Conferma-prenotazione-ritiro-MORETTI.pdf?rlkey=dfwxocscinrr4eio0blqpn6lp&dl=0?raw=1",
                   "dimensione_kb": 191,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/BRT Conferma prenotazione ritiro MORETTI.pdf"
+                },
+                {
+                  "nome": "CB VALKO CONFERMA offerta  VICECONTI RIF.CARNI LIMONGI_CILINDRI PNEUMATICI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z6p9nuunaxt3xtpkbmgk1/CB-VALKO-CONFERMA-offerta-VICECONTI-RIF.CARNI-LIMONGI_CILINDRI-PNEUMATICI.pdf?rlkey=n68prv7cdtq0w8d8qcts0iqvx&dl=0?raw=1",
+                  "dimensione_kb": 75,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/CB VALKO CONFERMA offerta  VICECONTI RIF.CARNI LIMONGI_CILINDRI PNEUMATICI.pdf"
                 },
                 {
                   "nome": "COLDLINE CONFERMA ORDINE 2351 RIF.3AM GUARNIZIONI E GUIDE.pdf",
@@ -176003,7 +176019,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 52
+              "_totale_file": 54
             },
             {
               "nome": "ARCHIVIO",
@@ -205723,7 +205739,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3484
+          "_totale_file": 3486
         }
       ],
       "file": []
