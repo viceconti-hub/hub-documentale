@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-25T08:08:48Z",
-  "totale_file": 23355,
+  "generato": "2026-03-25T09:15:38Z",
+  "totale_file": 23356,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -205748,7 +205748,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2300,
+      "totale_file": 2301,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -205926,6 +205926,14 @@
                   "link": "https://www.dropbox.com/scl/fi/6a8ew1wcwjg8kd7ejd3vq/BRT-Dettaglio-bonifico-istantaneo-DEL-27_01_2026.pdf?rlkey=9sqerohd3wpyltgc1pbzbmn4l&dl=0?raw=1",
                   "dimensione_kb": 108,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/BRT Dettaglio bonifico istantaneo DEL 27_01_2026.pdf"
+                },
+                {
+                  "nome": "CB Dettaglio bonifico istantaneo DEL 24_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lgvub9fsgj1qu9gyxmcn3/CB-Dettaglio-bonifico-istantaneo-DEL-24_03_2026.pdf?rlkey=5ytm7nkjl8ks0bauh58sg200d&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/CB Dettaglio bonifico istantaneo DEL 24_03_2026.pdf"
                 },
                 {
                   "nome": "COLDLINE COPIA TITOLI INTESA FEBBRAIO MARZO APRILE 2026.jpeg",
@@ -206272,7 +206280,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 45
+              "_totale_file": 46
             },
             {
               "nome": "ARCHIVIO",
@@ -226501,7 +226509,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR RICEVUTA AR 04_03_2026.jpeg"
             }
           ],
-          "_totale_file": 2283
+          "_totale_file": 2284
         }
       ],
       "file": []
