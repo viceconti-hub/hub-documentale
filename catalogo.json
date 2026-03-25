@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-25T03:34:03Z",
-  "totale_file": 23351,
+  "generato": "2026-03-25T06:23:26Z",
+  "totale_file": 23353,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5546,
+      "totale_file": 5548,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1919,6 +1919,30 @@
                 }
               ],
               "_totale_file": 5
+            },
+            {
+              "nome": "2026_03_24 PANAINO SRL ARMADIO WIND",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_24 PANAINO SRL ARMADIO WIND",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ARMADIO COLDLINE WIND A90-1M.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kbgpbmwlzlrk6pagg5flh/ARMADIO-COLDLINE-WIND-A90-1M.pdf?rlkey=4di0cz6g98n0t624yg45i53l1&dl=0?raw=1",
+                  "dimensione_kb": 100,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_24 PANAINO SRL ARMADIO WIND/ARMADIO COLDLINE WIND A90-1M.pdf"
+                },
+                {
+                  "nome": "PANAINO ARMADIO COLDLINE Offerta di vendita_260066_20260324_190453.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ctyr6zgbj0v9e0i43hovg/PANAINO-ARMADIO-COLDLINE-Offerta-di-vendita_260066_20260324_190453.pdf?rlkey=nzxct6diky1689jrslvecmy0t&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_24 PANAINO SRL ARMADIO WIND/PANAINO ARMADIO COLDLINE Offerta di vendita_260066_20260324_190453.pdf"
+                }
+              ],
+              "_totale_file": 2
             },
             {
               "nome": "3AM",
@@ -57931,7 +57955,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5384
+          "_totale_file": 5386
         },
         {
           "nome": "ORDINI CLIENTE",
