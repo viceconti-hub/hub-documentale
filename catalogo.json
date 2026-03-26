@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-25T09:27:14Z",
-  "totale_file": 23356,
+  "generato": "2026-03-26T01:42:23Z",
+  "totale_file": 23359,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61595,7 +61595,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 6996,
+      "totale_file": 6999,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -77996,7 +77996,7 @@
                           "nome": "ce9000_t_007180_rev-h.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/3bbsf3u0yuq28vq8ukwqq/ce9000_t_007180_rev-h.pdf?rlkey=51mg3s893oc8umbplkuk9v88u&dl=0?raw=1",
                           "dimensione_kb": 5574,
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/ce9000_t_007180_rev-h.pdf"
                         },
@@ -120060,6 +120060,38 @@
               "_totale_file": 45
             },
             {
+              "nome": "PASSION SUSHI DI MOMADE",
+              "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "PASSION SUSHI PLANIMETRIA.dwg",
+                  "tipo": "CAD",
+                  "icona": "📐",
+                  "link": "https://www.dropbox.com/scl/fi/6zzjspq4dnpbxut4evmos/PASSION-SUSHI-PLANIMETRIA.dwg?rlkey=5f6pr2shm5cak9rivcyj4ekut&dl=0?raw=1",
+                  "dimensione_kb": 3614,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/PASSION SUSHI PLANIMETRIA.dwg"
+                },
+                {
+                  "nome": "WhatsApp Image 2026-03-19 at 16.47.38.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/kz7fa8qig1rvy283m9ew4/WhatsApp-Image-2026-03-19-at-16.47.38.jpeg?rlkey=scl8sqg66njkr70jazxljifz9&dl=0?raw=1",
+                  "dimensione_kb": 152,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/WhatsApp Image 2026-03-19 at 16.47.38.jpeg"
+                },
+                {
+                  "nome": "esecutivo_ristorante.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/46zb7ik0wb7tz8h75a1ek/esecutivo_ristorante.pdf?rlkey=d85vkiir8hz8e56kda36klgg0&dl=0?raw=1",
+                  "dimensione_kb": 118,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/esecutivo_ristorante.pdf"
+                }
+              ],
+              "_totale_file": 3
+            },
+            {
               "nome": "VE.RO SRLS",
               "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS",
               "cartelle": [
@@ -120255,7 +120287,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 136
+          "_totale_file": 139
         },
         {
           "nome": "SARCONI",
