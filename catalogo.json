@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-26T06:49:28Z",
-  "totale_file": 23359,
+  "generato": "2026-03-26T08:28:57Z",
+  "totale_file": 23361,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -173198,7 +173198,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3779,
+      "totale_file": 3781,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -174056,9 +174056,25 @@
                   "link": "https://www.dropbox.com/scl/fi/ncbh6tf26h3foodthprkn/W-rth-S.r.l-IT00125230219_MNJH2.pdf?rlkey=8dld2jyw5fjui9kl45r13kbmb&dl=0?raw=1",
                   "dimensione_kb": 3,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Würth S.r.l IT00125230219_MNJH2.pdf"
+                },
+                {
+                  "nome": "fatture-pdf (1).zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/l4rbt7kjlohs1s2deoua3/fatture-pdf-1.zip?rlkey=4bt32sti5p5ybplu3qdk7i2se&dl=0?raw=1",
+                  "dimensione_kb": 236,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/fatture-pdf (1).zip"
+                },
+                {
+                  "nome": "fatture-pdf.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/5zz2whodkm84yv2nvlmf7/fatture-pdf.zip?rlkey=anfq9ubaf4atbxwo7votdj8bb&dl=0?raw=1",
+                  "dimensione_kb": 226,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/fatture-pdf.zip"
                 }
               ],
-              "_totale_file": 74
+              "_totale_file": 76
             },
             {
               "nome": "ARCHIVIO",
@@ -175607,7 +175623,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 264
+          "_totale_file": 266
         },
         {
           "nome": "ORDINI D'ACQUISTO",
