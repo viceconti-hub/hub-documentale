@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-26T08:28:57Z",
-  "totale_file": 23361,
+  "generato": "2026-03-26T09:34:29Z",
+  "totale_file": 23362,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -205796,7 +205796,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2301,
+      "totale_file": 2302,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -206096,30 +206096,6 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/FIMAR COPIA TITOLO BPER SCADENZA 31_03_2026.pdf"
                 },
                 {
-                  "nome": "FIMEL Dettaglio bonifico istantaneo DEL 10_03_2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/xnzraj2glps19f4ctkcvv/FIMEL-Dettaglio-bonifico-istantaneo-DEL-10_03_2026.pdf?rlkey=vro42n7vocmxlwzbmxmxvcimq&dl=0?raw=1",
-                  "dimensione_kb": 109,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/FIMEL Dettaglio bonifico istantaneo DEL 10_03_2026.pdf"
-                },
-                {
-                  "nome": "FIMEL Dettaglio bonifico istantaneo DEL 11_02_2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/zhwaccuw1vrgpcs29ksuu/FIMEL-Dettaglio-bonifico-istantaneo-DEL-11_02_2026.pdf?rlkey=1nwu69hvgtii72omgdghfe29j&dl=0?raw=1",
-                  "dimensione_kb": 109,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/FIMEL Dettaglio bonifico istantaneo DEL 11_02_2026.pdf"
-                },
-                {
-                  "nome": "FIMEL Dettaglio bonifico istantaneo DEL 23_02_2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/k1svr6o1gx6bn5ucoa0vd/FIMEL-Dettaglio-bonifico-istantaneo-DEL-23_02_2026.pdf?rlkey=nkapi0fsmjk9oe8deapgxhxbg&dl=0?raw=1",
-                  "dimensione_kb": 109,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/FIMEL Dettaglio bonifico istantaneo DEL 23_02_2026.pdf"
-                },
-                {
                   "nome": "FRIGOMAT COPIA TITOLI AR DEL 14_11_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -206328,7 +206304,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 46
+              "_totale_file": 43
             },
             {
               "nome": "ARCHIVIO",
@@ -225968,6 +225944,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FIMAR RICEVUTA A.R. 1 DEL 13_10_2025.pdf"
                 },
                 {
+                  "nome": "FIMAR RICEVUTA AR 04_03_2026.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/g7hl1b5php62zbbq0gsax/FIMAR-RICEVUTA-AR-04_03_2026.jpeg?rlkey=7xlho7p1dxf7yjb6nw6q2lmcv&dl=0?raw=1",
+                  "dimensione_kb": 153,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FIMAR RICEVUTA AR 04_03_2026.jpeg"
+                },
+                {
                   "nome": "FIMAR RICEVUTA RACCOMANDATA DEL 27_01_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -225990,6 +225974,38 @@
                   "link": "https://www.dropbox.com/scl/fi/fqdh0ic2v3qcm7ddnea0p/FIMEL-BONIFICO-DEL-11_11_2025.pdf?rlkey=zywf6gxr8rxku55zqbm8slg7f&dl=0?raw=1",
                   "dimensione_kb": 2,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FIMEL BONIFICO DEL 11_11_2025.pdf"
+                },
+                {
+                  "nome": "FIMEL Dettaglio bonifico istantaneo DEL 10_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xnzraj2glps19f4ctkcvv/FIMEL-Dettaglio-bonifico-istantaneo-DEL-10_03_2026.pdf?rlkey=vro42n7vocmxlwzbmxmxvcimq&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FIMEL Dettaglio bonifico istantaneo DEL 10_03_2026.pdf"
+                },
+                {
+                  "nome": "FIMEL Dettaglio bonifico istantaneo DEL 11_02_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zhwaccuw1vrgpcs29ksuu/FIMEL-Dettaglio-bonifico-istantaneo-DEL-11_02_2026.pdf?rlkey=1nwu69hvgtii72omgdghfe29j&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FIMEL Dettaglio bonifico istantaneo DEL 11_02_2026.pdf"
+                },
+                {
+                  "nome": "FIMEL Dettaglio bonifico istantaneo DEL 23_02_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k1svr6o1gx6bn5ucoa0vd/FIMEL-Dettaglio-bonifico-istantaneo-DEL-23_02_2026.pdf?rlkey=nkapi0fsmjk9oe8deapgxhxbg&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FIMEL Dettaglio bonifico istantaneo DEL 23_02_2026.pdf"
+                },
+                {
+                  "nome": "FIMEL Dettaglio bonifico istantaneo DEL 25_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xwkyadfsvx0ir5kho94ps/FIMEL-Dettaglio-bonifico-istantaneo-DEL-25_03_2026.pdf?rlkey=gzkvnhrh2clqhvyl4fglkqga8&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FIMEL Dettaglio bonifico istantaneo DEL 25_03_2026.pdf"
                 },
                 {
                   "nome": "FIMEL Dettaglio bonifico istantaneo DEL 30_09_2025.pdf",
@@ -226544,20 +226560,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ZMATIK Dettaglio bonifico istantaneo DEL 22_09_2025.pdf"
                 }
               ],
-              "_totale_file": 2237
+              "_totale_file": 2242
             }
           ],
-          "file": [
-            {
-              "nome": "FIMAR RICEVUTA AR 04_03_2026.jpeg",
-              "tipo": "Immagine",
-              "icona": "🖼️",
-              "link": "https://www.dropbox.com/scl/fi/g7hl1b5php62zbbq0gsax/FIMAR-RICEVUTA-AR-04_03_2026.jpeg?rlkey=7xlho7p1dxf7yjb6nw6q2lmcv&dl=0?raw=1",
-              "dimensione_kb": 153,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR RICEVUTA AR 04_03_2026.jpeg"
-            }
-          ],
-          "_totale_file": 2284
+          "file": [],
+          "_totale_file": 2285
         }
       ],
       "file": []
