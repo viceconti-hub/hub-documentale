@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-26T09:45:43Z",
-  "totale_file": 23362,
+  "generato": "2026-03-27T01:25:10Z",
+  "totale_file": 23366,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61595,7 +61595,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 6999,
+      "totale_file": 7003,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -66657,8 +66657,17 @@
               "_totale_file": 2
             }
           ],
-          "file": [],
-          "_totale_file": 272
+          "file": [
+            {
+              "nome": "Granocielo SRL Consegna_260145_20260326_192810.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ayb48yrlv9f49g01tfc8d/Granocielo-SRL-Consegna_260145_20260326_192810.pdf?rlkey=oqcp8cv4bzz8uwdxp4owk4zh6&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/Granocielo SRL Consegna_260145_20260326_192810.pdf"
+            }
+          ],
+          "_totale_file": 273
         },
         {
           "nome": "COSENZA",
@@ -91715,6 +91724,22 @@
                       "_totale_file": 2
                     },
                     {
+                      "nome": "CUCINA 6 FUOCHI ZANUSSI LINEA 90",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/CUCINA 6 FUOCHI ZANUSSI LINEA 90",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "CUCINA ZANUSSI SCHEDA TECNICA EVO900 6-Burner Gas Boiling Top_392033_Italian.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/xpsqst057nmu3oc7yttza/CUCINA-ZANUSSI-SCHEDA-TECNICA-EVO900-6-Burner-Gas-Boiling-Top_392033_Italian.pdf?rlkey=xg5do89m6fptp461zfhe6nklc&dl=0?raw=1",
+                          "dimensione_kb": 231,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/CUCINA 6 FUOCHI ZANUSSI LINEA 90/CUCINA ZANUSSI SCHEDA TECNICA EVO900 6-Burner Gas Boiling Top_392033_Italian.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "CUCINA ZANUSSI",
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/CUCINA ZANUSSI",
                       "cartelle": [],
@@ -91876,7 +91901,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 16
+                  "_totale_file": 17
                 },
                 {
                   "nome": "DE FILIPPO ROCCO DOCUMENTAZIONE 4.0",
@@ -92177,7 +92202,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/modello dichiarazione sost. I4.0.docx"
                 }
               ],
-              "_totale_file": 49
+              "_totale_file": 50
             },
             {
               "nome": "DIMAC",
@@ -98587,7 +98612,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 878
+          "_totale_file": 879
         },
         {
           "nome": "MARCELLINA",
@@ -113370,6 +113395,22 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/MACELLERIA CAPUTO VINCENZO",
               "cartelle": [
                 {
+                  "nome": "MACELLERIA CAPUTO VINCENZO AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/MACELLERIA CAPUTO VINCENZO/MACELLERIA CAPUTO VINCENZO AREA TECNICA",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "AFFETTATRICE ABM MODELLO UNI370C MAGNUM DATI MACCHINA.jpeg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/t2bax2qtzh6gndfip588m/AFFETTATRICE-ABM-MODELLO-UNI370C-MAGNUM-DATI-MACCHINA.jpeg?rlkey=oovbsnh1e5fkcs8ulqjlit0nt&dl=0?raw=1",
+                      "dimensione_kb": 171,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/MACELLERIA CAPUTO VINCENZO/MACELLERIA CAPUTO VINCENZO AREA TECNICA/AFFETTATRICE ABM MODELLO UNI370C MAGNUM DATI MACCHINA.jpeg"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
                   "nome": "ce_gest_4.8.2_ita",
                   "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/MACELLERIA CAPUTO VINCENZO/ce_gest_4.8.2_ita",
                   "cartelle": [],
@@ -113411,7 +113452,7 @@
                 }
               ],
               "file": [],
-              "_totale_file": 4
+              "_totale_file": 5
             },
             {
               "nome": "MACELLERIA FORTE DIANA",
@@ -114648,7 +114689,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 197
+          "_totale_file": 198
         },
         {
           "nome": "SAN GREGORIO MAGNO",
@@ -125569,6 +125610,14 @@
                   ],
                   "file": [
                     {
+                      "nome": "MODULAR ORDINE SAP Ordine dacquisto_250459_20260326_123412.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/0d1jeq85kl0bz3q35826u/MODULAR-ORDINE-SAP-Ordine-dacquisto_250459_20260326_123412.pdf?rlkey=tbtbx8r2tlf6yhxeb6k1umd08&dl=0?raw=1",
+                      "dimensione_kb": 77,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL CANTIERE FEBBRAIO 2026/MODULAR ORDINE SAP Ordine dacquisto_250459_20260326_123412.pdf"
+                    },
+                    {
                       "nome": "MeM SITUAZIONE LOGISTICA AL 23_03_2026 Ordine cliente_250878_20260323_224041.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -125585,7 +125634,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL CANTIERE FEBBRAIO 2026/MeM SRL ELENCO ATTREZZATURE 1 DI 1 RIF. FATTURA 2500783.pdf"
                     }
                   ],
-                  "_totale_file": 32
+                  "_totale_file": 33
                 }
               ],
               "file": [
@@ -125598,7 +125647,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/PROGETTO_IT2505186_MININI GIOVANNI (M&M SRL)_REV01_160326.pdf"
                 }
               ],
-              "_totale_file": 33
+              "_totale_file": 34
             },
             {
               "nome": "NASTA BERARDINO",
@@ -126264,7 +126313,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL - collegamento.lnk"
             }
           ],
-          "_totale_file": 290
+          "_totale_file": 291
         },
         {
           "nome": "TORTORELLA",
