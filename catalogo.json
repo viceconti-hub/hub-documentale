@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-27T14:35:34Z",
-  "totale_file": 23382,
+  "generato": "2026-03-27T15:05:47Z",
+  "totale_file": 23384,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61521,7 +61521,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 16,
+      "totale_file": 18,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61654,6 +61654,14 @@
       ],
       "file": [
         {
+          "nome": "BELLADONNA Impegno da cliente 457C del 12-03-2026 .pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/18cs8pg1rvr837pdu3ha6/BELLADONNA-Impegno-da-cliente-457C-del-12-03-2026.pdf?rlkey=m3bhqlra70yres2psrmhn6bgx&dl=0?raw=1",
+          "dimensione_kb": 172,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/BELLADONNA Impegno da cliente 457C del 12-03-2026 .pdf"
+        },
+        {
           "nome": "CALA DEL CITRO ORDINE ANNO 2024 Ordine cliente_240903_20260324_085640.pdf",
           "tipo": "PDF",
           "icona": "📄",
@@ -61676,6 +61684,14 @@
           "link": "https://www.dropbox.com/scl/fi/xehhbhux50rd5fkokr163/NERA-ORDINE-ANNO-2024-Ordine-cliente_240899_20260324_085516.pdf?rlkey=e2e7wx23tq86d56vzej92dw2s&dl=0?raw=1",
           "dimensione_kb": 83,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/NERA ORDINE ANNO 2024 Ordine cliente_240899_20260324_085516.pdf"
+        },
+        {
+          "nome": "WhatsApp Image 2026-03-27 at 15.57.28.jpeg",
+          "tipo": "Immagine",
+          "icona": "🖼️",
+          "link": "https://www.dropbox.com/scl/fi/brwh41w144nn20hjk3lrz/WhatsApp-Image-2026-03-27-at-15.57.28.jpeg?rlkey=srh6aghi4jcx48uglmqcjthqw&dl=0?raw=1",
+          "dimensione_kb": 69,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/WhatsApp Image 2026-03-27 at 15.57.28.jpeg"
         }
       ]
     },
