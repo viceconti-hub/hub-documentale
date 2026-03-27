@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-27T03:30:16Z",
-  "totale_file": 23366,
+  "generato": "2026-03-27T06:18:56Z",
+  "totale_file": 23373,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5548,
+      "totale_file": 5555,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -915,7 +915,7 @@
               "nome": "TAVERNA DEL BUONGUSTAIO Fattura di vendita_2500428_20251014_093221.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nvwp1bpd3vll00mamgld5/TAVERNA-DEL-BUONGUSTAIO-Fattura-di-vendita_2500428_20251014_093221.pdf?rlkey=gdh9sgrpghfwiuhy2uguc0z3t&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/TAVERNA DEL BUONGUSTAIO Fattura di vendita_2500428_20251014_093221.pdf"
             },
@@ -1921,6 +1921,22 @@
               "_totale_file": 5
             },
             {
+              "nome": "2026_03_24 ORO CAFFE' BACINELLE POLIPROPILENE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_24 ORO CAFFE' BACINELLE POLIPROPILENE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ORO CAFFE' Offerta di vendita_260068_20260326_100722.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8z09s0ma1iaxdijk7sugv/ORO-CAFFE-Offerta-di-vendita_260068_20260326_100722.pdf?rlkey=3b8dcncu4tf5oi76u5vud9xct&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_24 ORO CAFFE' BACINELLE POLIPROPILENE/ORO CAFFE' Offerta di vendita_260068_20260326_100722.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
               "nome": "2026_03_24 PANAINO SRL ARMADIO WIND",
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_24 PANAINO SRL ARMADIO WIND",
               "cartelle": [],
@@ -1943,6 +1959,70 @@
                 }
               ],
               "_totale_file": 2
+            },
+            {
+              "nome": "2026_03_26 HAPPY MOMENTS NAVETTA BANDO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 HAPPY MOMENTS NAVETTA BANDO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "HAPPY MOMENTS Offerta di vendita_260070_20260326_180524.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/h3d672g2ra2p8ggdbyudw/HAPPY-MOMENTS-Offerta-di-vendita_260070_20260326_180524.pdf?rlkey=e4sm6qcan0it9dvfg53wzbza7&dl=0?raw=1",
+                  "dimensione_kb": 94,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 HAPPY MOMENTS NAVETTA BANDO/HAPPY MOMENTS Offerta di vendita_260070_20260326_180524.pdf"
+                },
+                {
+                  "nome": "MODULAR SCHEDA TECNICA CUCINA 4 FUOCHI CON FORNO A GAS R70-80CFG.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/df200x0rh4j83k51g7o7o/MODULAR-SCHEDA-TECNICA-CUCINA-4-FUOCHI-CON-FORNO-A-GAS-R70-80CFG.pdf?rlkey=x7bzxvdcibc9es3k4dse4u5k5&dl=0?raw=1",
+                  "dimensione_kb": 174,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 HAPPY MOMENTS NAVETTA BANDO/MODULAR SCHEDA TECNICA CUCINA 4 FUOCHI CON FORNO A GAS R70-80CFG.pdf"
+                }
+              ],
+              "_totale_file": 2
+            },
+            {
+              "nome": "2026_03_26 I PASTICCI DI WALTER SCAFFALI ECOCOLOR",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 I PASTICCI DI WALTER SCAFFALI ECOCOLOR",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "I PASTICCI DI WALTER SOLUZIONE 1 2D.Pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3v03smdcxtp1hubav0ne5/I-PASTICCI-DI-WALTER-SOLUZIONE-1-2D.Pdf?rlkey=kw1qydi9os5krywlfun3ug9p6&dl=0?raw=1",
+                  "dimensione_kb": 215,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 I PASTICCI DI WALTER SCAFFALI ECOCOLOR/I PASTICCI DI WALTER SOLUZIONE 1 2D.Pdf"
+                },
+                {
+                  "nome": "I PASTICCI DI WALTER SOLUZIONE 1 3D.Pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/thyjcm4c4f6ppb4m8qkfp/I-PASTICCI-DI-WALTER-SOLUZIONE-1-3D.Pdf?rlkey=zpr0oml6yh6l44mno6obyst3b&dl=0?raw=1",
+                  "dimensione_kb": 313,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 I PASTICCI DI WALTER SCAFFALI ECOCOLOR/I PASTICCI DI WALTER SOLUZIONE 1 3D.Pdf"
+                },
+                {
+                  "nome": "I PASTICCI DI WALTER SOLUZIONE 2 2D.Pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/s091ce3wh0y7mqv6nlaqu/I-PASTICCI-DI-WALTER-SOLUZIONE-2-2D.Pdf?rlkey=7zaidh5rgi5e0sad5syzm73u0&dl=0?raw=1",
+                  "dimensione_kb": 228,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 I PASTICCI DI WALTER SCAFFALI ECOCOLOR/I PASTICCI DI WALTER SOLUZIONE 2 2D.Pdf"
+                },
+                {
+                  "nome": "I PASTICCI DI WALTER SOLUZIONE 2 3D.Pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lpy1g9vvjqlqf8k17txe0/I-PASTICCI-DI-WALTER-SOLUZIONE-2-3D.Pdf?rlkey=8hiom842smxnh90an6xhcvi0w&dl=0?raw=1",
+                  "dimensione_kb": 306,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 I PASTICCI DI WALTER SCAFFALI ECOCOLOR/I PASTICCI DI WALTER SOLUZIONE 2 3D.Pdf"
+                }
+              ],
+              "_totale_file": 4
             },
             {
               "nome": "3AM",
@@ -57955,7 +58035,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5386
+          "_totale_file": 5393
         },
         {
           "nome": "ORDINI CLIENTE",
