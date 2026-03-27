@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-27T06:18:56Z",
-  "totale_file": 23373,
+  "generato": "2026-03-27T07:57:26Z",
+  "totale_file": 23381,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -173327,7 +173327,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3781,
+      "totale_file": 3789,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -175972,6 +175972,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/FIMEL PREVENTIVO A CLIENTE 152025 DEL 19-02-2026  VICECONTI SNC DI PROSPERO VICECONTI.PDF"
                 },
                 {
+                  "nome": "GIMETAL 1_PKLIST-GM_5288_0000949_11032026_VICECONTI SNC.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/584shlh9fsxvbupunymwv/GIMETAL-1_PKLIST-GM_5288_0000949_11032026_VICECONTI-SNC.pdf?rlkey=1q12jn1y4gt5l8rqmgevcyfh8&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/GIMETAL 1_PKLIST-GM_5288_0000949_11032026_VICECONTI SNC.pdf"
+                },
+                {
+                  "nome": "GIMETAL Conferma prenotazione ritiro.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pwz4zfai1m9bomw2vgx7k/GIMETAL-Conferma-prenotazione-ritiro.pdf?rlkey=eptj0ep0ktfhuv5ftu6u2vr0r&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/GIMETAL Conferma prenotazione ritiro.pdf"
+                },
+                {
                   "nome": "GOPACK Conferma prenotazione ritiro.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -176068,6 +176084,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IFI CONFERMA ORDINE 326000578 RIF.LA REGINA_CONTROLLORE_MURALE.pdf"
                 },
                 {
+                  "nome": "KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-2271 RIF.FA TU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ai26qm0s918qmiogyjyyd/KLIMAITALIA-Conferma-d-Ordine-Klimaitalia-P-2271-RIF.FA-TU.pdf?rlkey=n5maus305raytptwsan42qf85&dl=0?raw=1",
+                  "dimensione_kb": 178,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-2271 RIF.FA TU.pdf"
+                },
+                {
                   "nome": "MECNOSUD CONFERMA VICECONTI SNC 41755 RIF.BAR ROMA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -176084,12 +176108,36 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MECNOSUD Ordine dacquisto_260014_20260223_224509 RIF.CORRDO MICHELA.pdf"
                 },
                 {
+                  "nome": "MODULA PACKING LIST DEL 26_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gvgsukpekis8zj6kt4xts/MODULA-PACKING-LIST-DEL-26_03_2026.pdf?rlkey=5z4hxdkq7c9vtss6qrqdjui2k&dl=0?raw=1",
+                  "dimensione_kb": 78,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULA PACKING LIST DEL 26_03_2026.pdf"
+                },
+                {
                   "nome": "MODULAR CONFERMA 26_00619 RIF.FA TU FRIGGITRICI 900.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/8mtcvi6knkg6xtbxuei24/MODULAR-CONFERMA-26_00619-RIF.FA-TU-FRIGGITRICI-900.pdf?rlkey=7pfc97k59ii2jfqo5t37no3ir&dl=0?raw=1",
                   "dimensione_kb": 151,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_00619 RIF.FA TU FRIGGITRICI 900.pdf"
+                },
+                {
+                  "nome": "MODULAR CONFERMA 26_01014 MD_SaleOrdForm_2022 RIF.MeM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zwfkiyr5i76bjhp0j6mcc/MODULAR-CONFERMA-26_01014-MD_SaleOrdForm_2022-RIF.MeM.pdf?rlkey=85f2r3x66op77p56visb3apt7&dl=0?raw=1",
+                  "dimensione_kb": 139,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_01014 MD_SaleOrdForm_2022 RIF.MeM.pdf"
+                },
+                {
+                  "nome": "MODULAR CONFERMA 26_02043 MD_SaleOrdForm_2022 RIF.FA TU_FRIGGTRICI 90.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xmnt7voiiw1fnbooqibh2/MODULAR-CONFERMA-26_02043-MD_SaleOrdForm_2022-RIF.FA-TU_FRIGGTRICI-90.pdf?rlkey=lm1yknzk4w8azzvymilkn6esa&dl=0?raw=1",
+                  "dimensione_kb": 132,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_02043 MD_SaleOrdForm_2022 RIF.FA TU_FRIGGTRICI 90.pdf"
                 },
                 {
                   "nome": "MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.MeM.pdf",
@@ -176148,6 +176196,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/PRIOLINOX Ordine dacquisto_260001_20260126_182456 RIF.ARTE DOLCIARIA.pdf"
                 },
                 {
+                  "nome": "SPAGNOLI SNC C2-00061-2026-SPAG RIF.LENTINI.Pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/e92dv4l7oqim9ccxbncha/SPAGNOLI-SNC-C2-00061-2026-SPAG-RIF.LENTINI.Pdf?rlkey=29or55pepr9h7l48s36pg61ei&dl=0?raw=1",
+                  "dimensione_kb": 51,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/SPAGNOLI SNC C2-00061-2026-SPAG RIF.LENTINI.Pdf"
+                },
+                {
                   "nome": "STAFF PR. 112 RIF.PESCHERIA AZZURRA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -176170,6 +176226,14 @@
                   "link": "https://www.dropbox.com/scl/fi/7p67nm36e1oq4gp8nhd3a/TOP-SERVICE-DI-TRIESTINO-PANETTA-1-Viceconti-snc-RIF.-CENTRAL-PAUSA.pdf?rlkey=k0ozihw2bt75in1py6hw5i4jb&dl=0?raw=1",
                   "dimensione_kb": 75,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/TOP SERVICE DI TRIESTINO PANETTA 1 - Viceconti snc RIF. CENTRAL PAUSA.pdf"
+                },
+                {
+                  "nome": "TRE SPADE Ordine #1438 - Tre Spade - Account RIF.LENTINI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/e0q3huk0a4hmczlvl0jpt/TRE-SPADE-Ordine-1438-Tre-Spade-Account-RIF.LENTINI.pdf?rlkey=1rvo8yccrz3tlbs3a5a9vpnah&dl=0?raw=1",
+                  "dimensione_kb": 157,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/TRE SPADE Ordine #1438 - Tre Spade - Account RIF.LENTINI.pdf"
                 },
                 {
                   "nome": "ZINCO GROUP CONFERMA VICECONTI RIF.FA TU.pdf",
@@ -176196,7 +176260,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 54
+              "_totale_file": 62
             },
             {
               "nome": "ARCHIVIO",
@@ -205916,7 +205980,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3486
+          "_totale_file": 3494
         }
       ],
       "file": []
