@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-27T15:05:47Z",
-  "totale_file": 23384,
+  "generato": "2026-03-28T08:50:37Z",
+  "totale_file": 23385,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61521,7 +61521,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 18,
+      "totale_file": 19,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61544,6 +61544,14 @@
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
           "cartelle": [],
           "file": [
+            {
+              "nome": "FA TU RESIDUO ATTREZZATURE DA CONSEGNARE AL 28_03_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/eb9nslspcyichls4vju9e/FA-TU-RESIDUO-ATTREZZATURE-DA-CONSEGNARE-AL-28_03_2026.pdf?rlkey=dc7k8l1idouaqmmjrayjr1qdu&dl=0?raw=1",
+              "dimensione_kb": 82,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO ATTREZZATURE DA CONSEGNARE AL 28_03_2026.pdf"
+            },
             {
               "nome": "FA TU RESIDUO ORDINE  FORNO CUPPONE Ordine cliente_260079_20260323_222759.pdf",
               "tipo": "PDF",
@@ -61577,7 +61585,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO PRIMO ORDINE AL 23_03_2026 Ordine cliente_250832_20260323_215352.pdf"
             }
           ],
-          "_totale_file": 4
+          "_totale_file": 5
         },
         {
           "nome": "MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
