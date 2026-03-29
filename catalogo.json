@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-29T05:44:45Z",
-  "totale_file": 23398,
+  "generato": "2026-03-29T07:15:29Z",
+  "totale_file": 23399,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -173488,7 +173488,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 3789,
+      "totale_file": 3790,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -175997,6 +175997,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/BELLADONNA CONFERMA Preventivo 891PRE del 02-03-2026 RIF.MACELLERIA DE DIEGO.pdf"
                 },
                 {
+                  "nome": "BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1nvb69rb24mkycvholsfl/BELLADONNA-DE-DIEGO-80X80-Preventivo-1463PRE-del-27-03-2026.pdf?rlkey=9submrwiw64r23lgwd0r4c34e&dl=0?raw=1",
+                  "dimensione_kb": 162,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf"
+                },
+                {
                   "nome": "BREMA Ordine dacquisto_250442_20251110_125521 RIF. FA' TU.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -176421,7 +176429,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 62
+              "_totale_file": 63
             },
             {
               "nome": "ARCHIVIO",
@@ -206141,7 +206149,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3494
+          "_totale_file": 3495
         }
       ],
       "file": []
