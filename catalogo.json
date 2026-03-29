@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-28T08:55:36Z",
-  "totale_file": 23385,
+  "generato": "2026-03-29T01:12:25Z",
+  "totale_file": 23392,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61707,7 +61707,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7003,
+      "totale_file": 7010,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -76489,7 +76489,64 @@
             {
               "nome": "A&M COMPANY",
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "AeM COMPANY AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA",
+                  "cartelle": [
+                    {
+                      "nome": "FORNO PIZZA CUPPONE",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "FORNO CUPPONE RIEPILOGO ASSISTENZE AL 27_03_2026.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/zq1qhfr56xfrfjansj3w7/FORNO-CUPPONE-RIEPILOGO-ASSISTENZE-AL-27_03_2026.jpg?rlkey=jjgl40w8xu10n5ghab5kp87e5&dl=0?raw=1",
+                          "dimensione_kb": 107,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE/FORNO CUPPONE RIEPILOGO ASSISTENZE AL 27_03_2026.jpg"
+                        },
+                        {
+                          "nome": "FORNO CUPPONE RIEPILOGO TECNICO INTERNO.txt",
+                          "tipo": "Testo",
+                          "icona": "📃",
+                          "link": "https://www.dropbox.com/scl/fi/1xy8rtoxl1iaddkfadak8/FORNO-CUPPONE-RIEPILOGO-TECNICO-INTERNO.txt?rlkey=6k2eri9s5bpxe4qwal6i7nauw&dl=0?raw=1",
+                          "dimensione_kb": 0,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE/FORNO CUPPONE RIEPILOGO TECNICO INTERNO.txt"
+                        },
+                        {
+                          "nome": "TERMOREGOLATORE IMMAGINE REPA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/04rvvr10cuht4c4flcdge/TERMOREGOLATORE-IMMAGINE-REPA.jpg?rlkey=1fv8oubkk2rg4mf285juio6wy&dl=0?raw=1",
+                          "dimensione_kb": 71,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE/TERMOREGOLATORE IMMAGINE REPA.jpg"
+                        },
+                        {
+                          "nome": "TERMOREGOLATORE IMMAGINE REPA1.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/lbkh1ujx8xkmyvj4nxga4/TERMOREGOLATORE-IMMAGINE-REPA1.jpg?rlkey=drkwxmfwooqqi1cejpojzcvlq&dl=0?raw=1",
+                          "dimensione_kb": 72,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE/TERMOREGOLATORE IMMAGINE REPA1.jpg"
+                        },
+                        {
+                          "nome": "TERMOREGOLATORE IMMAGINE REPA2.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/vn7p4ajhqeu9mfmbckl26/TERMOREGOLATORE-IMMAGINE-REPA2.jpg?rlkey=xulm7igleei9wpd6xgjl89f3s&dl=0?raw=1",
+                          "dimensione_kb": 48,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE/TERMOREGOLATORE IMMAGINE REPA2.jpg"
+                        }
+                      ],
+                      "_totale_file": 5
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 5
+                }
+              ],
               "file": [
                 {
                   "nome": "A&M Fattura di vendita_2300760_20231214_183619.pdf",
@@ -76548,7 +76605,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/temp786825811179481098.pdf"
                 }
               ],
-              "_totale_file": 7
+              "_totale_file": 12
             },
             {
               "nome": "AGRICOLA DAI NONNI",
@@ -77798,6 +77855,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BREAK/BREAK DOCUMENTI E MOVIMENTI 2018 -2019.pdf"
                 },
                 {
+                  "nome": "CHIARELLI GIACOMO Offerta di vendita.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/418lw68b5wt793ollmkjn/CHIARELLI-GIACOMO-Offerta-di-vendita.pdf?rlkey=4bhffb4fehodfv3gy6nbiq7uf&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BREAK/CHIARELLI GIACOMO Offerta di vendita.pdf"
+                },
+                {
                   "nome": "PRODOTTI per CLIENTE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -77806,7 +77871,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BREAK/PRODOTTI per CLIENTE.pdf"
                 }
               ],
-              "_totale_file": 3
+              "_totale_file": 4
             },
             {
               "nome": "C.G.P. SRL",
@@ -89657,7 +89722,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1272
+          "_totale_file": 1278
         },
         {
           "nome": "LAVELLO",
@@ -115454,6 +115519,14 @@
                   ],
                   "file": [
                     {
+                      "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026 - collegamento.lnk",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/3zev15libu4e98h0bj8he/FA-TU-AGGIORNAMENTO-LOGISTICA-23_03_2026-collegamento.lnk?rlkey=yjcik28kfxsvyw66izgxk7l1r&dl=0?raw=1",
+                      "dimensione_kb": 1,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026 - collegamento.lnk"
+                    },
+                    {
                       "nome": "FA TU CORREZIONE 1 MEKANO PRO.jpg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
@@ -115550,7 +115623,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025/pianta arredata.pdf"
                     }
                   ],
-                  "_totale_file": 33
+                  "_totale_file": 34
                 },
                 {
                   "nome": "FA TU COMPASS MARZO 2026",
@@ -116011,7 +116084,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/Planetaria da banco mod. Plutone 7 Y15, Sirman, vasca smontabile inox 7 litri, testa ribaltabile, 3 accessori in dotazione.pdf"
                 }
               ],
-              "_totale_file": 114
+              "_totale_file": 115
             },
             {
               "nome": "GIOITALY HOTEL SAN GIORGIO",
@@ -118221,7 +118294,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 345
+          "_totale_file": 346
         },
         {
           "nome": "SAN SEVERINO LUCANO",
