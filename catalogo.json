@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-29T03:07:46Z",
-  "totale_file": 23392,
+  "generato": "2026-03-29T05:44:45Z",
+  "totale_file": 23398,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5555,
+      "totale_file": 5561,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -50,6 +50,14 @@
                   "link": "https://www.dropbox.com/scl/fi/i3hxrahk18sicuqh571iv/CENTRAL-PAUSA-Consegna_260082_20260309_134013.pdf?rlkey=2nmg4jiq3hwlwklbotvl01ud7&dl=0?raw=1",
                   "dimensione_kb": 57,
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/CENTRAL PAUSA Consegna_260082_20260309_134013.pdf"
+                },
+                {
+                  "nome": "DAMA Consegna_260016_20260327_113357.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ht0q2xl8fekmj18eqc7ru/DAMA-Consegna_260016_20260327_113357.pdf?rlkey=bj9tr498m8zk6dti9prqkpqg4&dl=0?raw=1",
+                  "dimensione_kb": 55,
+                  "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/DAMA Consegna_260016_20260327_113357.pdf"
                 },
                 {
                   "nome": "DELIZIE DEL FORNO Consegna_260080_20260309_133339.pdf",
@@ -100,11 +108,11 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/PANAINO SRL Consegna_260068_20260226_102358.pdf"
                 }
               ],
-              "_totale_file": 10
+              "_totale_file": 11
             }
           ],
           "file": [],
-          "_totale_file": 10
+          "_totale_file": 11
         },
         {
           "nome": "FATTURE DI VENDITA",
@@ -915,7 +923,7 @@
               "nome": "TAVERNA DEL BUONGUSTAIO Fattura di vendita_2500428_20251014_093221.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/nvwp1bpd3vll00mamgld5/TAVERNA-DEL-BUONGUSTAIO-Fattura-di-vendita_2500428_20251014_093221.pdf?rlkey=gdh9sgrpghfwiuhy2uguc0z3t&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/TAVERNA DEL BUONGUSTAIO Fattura di vendita_2500428_20251014_093221.pdf"
             },
@@ -1974,6 +1982,14 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 HAPPY MOMENTS NAVETTA BANDO/HAPPY MOMENTS Offerta di vendita_260070_20260326_180524.pdf"
                 },
                 {
+                  "nome": "HAPPY MOMENTS Offerta di vendita_260070_20260327_115945.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3xffsk20hj28vi3n8fkdu/HAPPY-MOMENTS-Offerta-di-vendita_260070_20260327_115945.pdf?rlkey=1uu9hv9419hmthb7nznnwoumf&dl=0?raw=1",
+                  "dimensione_kb": 93,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 HAPPY MOMENTS NAVETTA BANDO/HAPPY MOMENTS Offerta di vendita_260070_20260327_115945.pdf"
+                },
+                {
                   "nome": "MODULAR SCHEDA TECNICA CUCINA 4 FUOCHI CON FORNO A GAS R70-80CFG.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -1982,7 +1998,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 HAPPY MOMENTS NAVETTA BANDO/MODULAR SCHEDA TECNICA CUCINA 4 FUOCHI CON FORNO A GAS R70-80CFG.pdf"
                 }
               ],
-              "_totale_file": 2
+              "_totale_file": 3
             },
             {
               "nome": "2026_03_26 I PASTICCI DI WALTER SCAFFALI ECOCOLOR",
@@ -2020,6 +2036,46 @@
                   "link": "https://www.dropbox.com/scl/fi/lpy1g9vvjqlqf8k17txe0/I-PASTICCI-DI-WALTER-SOLUZIONE-2-3D.Pdf?rlkey=8hiom842smxnh90an6xhcvi0w&dl=0?raw=1",
                   "dimensione_kb": 306,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_26 I PASTICCI DI WALTER SCAFFALI ECOCOLOR/I PASTICCI DI WALTER SOLUZIONE 2 3D.Pdf"
+                }
+              ],
+              "_totale_file": 4
+            },
+            {
+              "nome": "2026_03_28 BOTTEGA 63 ATTREZZATURE BANDO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_28 BOTTEGA 63 ATTREZZATURE BANDO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "BOTTEGA 63 Offerta di vendita_260072_20260328_103252.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5lm7fheruknxrabgiqfdk/BOTTEGA-63-Offerta-di-vendita_260072_20260328_103252.pdf?rlkey=qpo37vvskw3ld67x9t6yfr6gh&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_28 BOTTEGA 63 ATTREZZATURE BANDO/BOTTEGA 63 Offerta di vendita_260072_20260328_103252.pdf"
+                },
+                {
+                  "nome": "FRYTOP ELETTRICO LOTUS 60X70 FTL-76ETSS_0806063O-1123_IT.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xi6ltg4itrxwjlonynsor/FRYTOP-ELETTRICO-LOTUS-60X70-FTL-76ETSS_0806063O-1123_IT.pdf?rlkey=auacoaf5ydfexfuyqtdc6gj94&dl=0?raw=1",
+                  "dimensione_kb": 1168,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_28 BOTTEGA 63 ATTREZZATURE BANDO/FRYTOP ELETTRICO LOTUS 60X70 FTL-76ETSS_0806063O-1123_IT.pdf"
+                },
+                {
+                  "nome": "FRYTOP ELETTRICO LOTUS 60X70 FTL-76ET_08060631-1123_IT.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/izxjfujap9v9sw0587bc0/FRYTOP-ELETTRICO-LOTUS-60X70-FTL-76ET_08060631-1123_IT.pdf?rlkey=g55vc9pdld4ugy8pyc4oqxjox&dl=0?raw=1",
+                  "dimensione_kb": 1168,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_28 BOTTEGA 63 ATTREZZATURE BANDO/FRYTOP ELETTRICO LOTUS 60X70 FTL-76ET_08060631-1123_IT.pdf"
+                },
+                {
+                  "nome": "TOSTAPANE CONTINUO PAGINA LISTINO FIMAR 2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/b6lgh2wf87na7m2f5cmbp/TOSTAPANE-CONTINUO-PAGINA-LISTINO-FIMAR-2026.pdf?rlkey=yplovr037pwppuc39i9bji7yi&dl=0?raw=1",
+                  "dimensione_kb": 133,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_28 BOTTEGA 63 ATTREZZATURE BANDO/TOSTAPANE CONTINUO PAGINA LISTINO FIMAR 2026.pdf"
                 }
               ],
               "_totale_file": 4
@@ -58035,7 +58091,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5393
+          "_totale_file": 5398
         },
         {
           "nome": "ORDINI CLIENTE",
