@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-29T07:15:29Z",
-  "totale_file": 23399,
+  "generato": "2026-03-29T08:13:29Z",
+  "totale_file": 23400,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -206158,7 +206158,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2302,
+      "totale_file": 2303,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -206336,6 +206336,14 @@
                   "link": "https://www.dropbox.com/scl/fi/6a8ew1wcwjg8kd7ejd3vq/BRT-Dettaglio-bonifico-istantaneo-DEL-27_01_2026.pdf?rlkey=9sqerohd3wpyltgc1pbzbmn4l&dl=0?raw=1",
                   "dimensione_kb": 108,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/BRT Dettaglio bonifico istantaneo DEL 27_01_2026.pdf"
+                },
+                {
+                  "nome": "BRT Dettaglio bonifico istantaneo DEL 27_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/g5d03f2d19n7duu6fwdz4/BRT-Dettaglio-bonifico-istantaneo-DEL-27_03_2026.pdf?rlkey=q7rxg5g2umhdzin2mmunwrzdf&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/BRT Dettaglio bonifico istantaneo DEL 27_03_2026.pdf"
                 },
                 {
                   "nome": "CB Dettaglio bonifico istantaneo DEL 24_03_2026.pdf",
@@ -206666,7 +206674,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 43
+              "_totale_file": 44
             },
             {
               "nome": "ARCHIVIO",
@@ -209075,7 +209083,7 @@
                       "nome": "DIGRIM RICEVUTA AR DEL 4_10_2019.jpg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/d5tkvdniy9pm4mp427k3g/DIGRIM-RICEVUTA-AR-DEL-4_10_2019.jpg?rlkey=19rr0cwmc7ys0hh8byv6zi5ho&dl=0?raw=1",
                       "dimensione_kb": 2414,
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 18_01_2022/DIGRIM RICEVUTA AR DEL 4_10_2019.jpg"
                     },
@@ -226926,7 +226934,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 2285
+          "_totale_file": 2286
         }
       ],
       "file": []
