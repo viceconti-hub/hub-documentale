@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-30T07:40:39Z",
-  "totale_file": 24125,
+  "generato": "2026-03-30T08:15:47Z",
+  "totale_file": 24126,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61577,7 +61577,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 20,
+      "totale_file": 21,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61714,6 +61714,22 @@
             }
           ],
           "_totale_file": 8
+        },
+        {
+          "nome": "PASSION SUSHI",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "BRIEFING Progetto Sushi Sapri 28 03 2026.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/4g7zpta21uh6dlkwjb501/BRIEFING-Progetto-Sushi-Sapri-28-03-2026.docx?rlkey=89i0zt68bwu4lfxl8o3aennoz&dl=0?raw=1",
+              "dimensione_kb": 10,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/BRIEFING Progetto Sushi Sapri 28 03 2026.docx"
+            }
+          ],
+          "_totale_file": 1
         }
       ],
       "file": [
