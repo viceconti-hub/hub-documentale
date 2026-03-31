@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-31T07:06:05Z",
-  "totale_file": 24155,
+  "generato": "2026-03-31T07:43:26Z",
+  "totale_file": 24159,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61689,7 +61689,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 34,
+      "totale_file": 33,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61988,14 +61988,6 @@
           "link": "https://www.dropbox.com/scl/fi/brwh41w144nn20hjk3lrz/WhatsApp-Image-2026-03-27-at-15.57.28.jpeg?rlkey=srh6aghi4jcx48uglmqcjthqw&dl=0?raw=1",
           "dimensione_kb": 69,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/WhatsApp Image 2026-03-27 at 15.57.28.jpeg"
-        },
-        {
-          "nome": "imppn12.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/8jdl0ry5sqbdcfdew2imt/imppn12.pdf?rlkey=5a5m5ja60lprcr58k9q51rpli&dl=0?raw=1",
-          "dimensione_kb": 2130,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/imppn12.pdf"
         }
       ]
     },
@@ -173769,7 +173761,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4514,
+      "totale_file": 4519,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -182121,12 +182113,28 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARISTARCO Ordine dacquisto_250446_20251120_161255 RIF.CALA DEL CITRO.pdf"
                 },
                 {
+                  "nome": "ARISTARCO RICHIESTA DI OFFERTA SPECIALE PROMOZIONE MARZO 2026_260027_20260330_134721.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0mw96vwtcda2g2mn28k68/ARISTARCO-RICHIESTA-DI-OFFERTA-SPECIALE-PROMOZIONE-MARZO-2026_260027_20260330_134721.pdf?rlkey=f6ztt5g7gv8gkxkgtaqf6sm4s&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARISTARCO RICHIESTA DI OFFERTA SPECIALE PROMOZIONE MARZO 2026_260027_20260330_134721.pdf"
+                },
+                {
                   "nome": "ARRIS Ordine dacquisto_260005_20260129_103254.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/4t45i66xtmbi26vmgkfpc/ARRIS-Ordine-dacquisto_260005_20260129_103254.pdf?rlkey=rwg2y7z4hu7ieyaysquw29nnt&dl=0?raw=1",
                   "dimensione_kb": 74,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARRIS Ordine dacquisto_260005_20260129_103254.pdf"
+                },
+                {
+                  "nome": "ARTINOX MISURE PER SCAFFALE ECOCOLOR RIF. FA TU.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/k5xw75z61q08dxfy4gh5n/ARTINOX-MISURE-PER-SCAFFALE-ECOCOLOR-RIF.-FA-TU.jpeg?rlkey=5frp0s0w37g5oba797fsmzlr8&dl=0?raw=1",
+                  "dimensione_kb": 47,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARTINOX MISURE PER SCAFFALE ECOCOLOR RIF. FA TU.jpeg"
                 },
                 {
                   "nome": "BELLADONNA CONFERMA Preventivo 154PRE del 19-01-2026 RIF.FA TU.pdf",
@@ -182175,6 +182183,14 @@
                   "link": "https://www.dropbox.com/scl/fi/7kspcgwlk0y3why3d36ah/BRT-Conferma-prenotazione-ritiro-MORETTI.pdf?rlkey=dfwxocscinrr4eio0blqpn6lp&dl=0?raw=1",
                   "dimensione_kb": 191,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/BRT Conferma prenotazione ritiro MORETTI.pdf"
+                },
+                {
+                  "nome": "CB CONFERMA ORDINE E22C5C33-A5E3-40AD-B69B-91D57487DBE5 RIF.PERRETTA.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yegsuhiw1da8hs8ig6mcp/CB-CONFERMA-ORDINE-E22C5C33-A5E3-40AD-B69B-91D57487DBE5-RIF.PERRETTA.PDF?rlkey=4bbfm0k5q0kwfw94c56h1p7n8&dl=0?raw=1",
+                  "dimensione_kb": 422,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/CB CONFERMA ORDINE E22C5C33-A5E3-40AD-B69B-91D57487DBE5 RIF.PERRETTA.PDF"
                 },
                 {
                   "nome": "CB VALKO CONFERMA offerta  VICECONTI RIF.CARNI LIMONGI_CILINDRI PNEUMATICI.pdf",
@@ -182473,6 +182489,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.MeM.pdf"
                 },
                 {
+                  "nome": "MODULAR Ordine dacquisto_260030_20260330_174203 RIF. DETERGENTE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/f3ztm7t9kqsl3i81jtvab/MODULAR-Ordine-dacquisto_260030_20260330_174203-RIF.-DETERGENTE.pdf?rlkey=c6iehs20d7an4pr11v0hshajc&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR Ordine dacquisto_260030_20260330_174203 RIF. DETERGENTE.pdf"
+                },
+                {
                   "nome": "MORINI ORDINE DEL 2026_03_11 003OC20262125613.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -182519,6 +182543,14 @@
                   "link": "https://www.dropbox.com/scl/fi/j6qujsb3fpz80b65ed2bi/PRIOLINOX-Ordine-dacquisto_260001_20260126_182456-RIF.ARTE-DOLCIARIA.pdf?rlkey=cra9yyaoml5taye5o4evgqcdl&dl=0?raw=1",
                   "dimensione_kb": 72,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/PRIOLINOX Ordine dacquisto_260001_20260126_182456 RIF.ARTE DOLCIARIA.pdf"
+                },
+                {
+                  "nome": "SIRMAN Ordine dacquisto_260031_20260330_173647 RIF.DE MICHELE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/j11sebe63qa0g9ot6a6rh/SIRMAN-Ordine-dacquisto_260031_20260330_173647-RIF.DE-MICHELE.pdf?rlkey=41gen39fgxob5twqenmypow21&dl=0?raw=1",
+                  "dimensione_kb": 62,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/SIRMAN Ordine dacquisto_260031_20260330_173647 RIF.DE MICHELE.pdf"
                 },
                 {
                   "nome": "SPAGNOLI SNC C2-00061-2026-SPAG RIF.LENTINI.Pdf",
@@ -182585,7 +182617,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 63
+              "_totale_file": 68
             },
             {
               "nome": "ARCHIVIO",
@@ -212305,7 +212337,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3495
+          "_totale_file": 3500
         }
       ],
       "file": []
