@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-31T07:43:26Z",
-  "totale_file": 24159,
+  "generato": "2026-03-31T07:52:06Z",
+  "totale_file": 24160,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61689,7 +61689,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 33,
+      "totale_file": 34,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61988,6 +61988,14 @@
           "link": "https://www.dropbox.com/scl/fi/brwh41w144nn20hjk3lrz/WhatsApp-Image-2026-03-27-at-15.57.28.jpeg?rlkey=srh6aghi4jcx48uglmqcjthqw&dl=0?raw=1",
           "dimensione_kb": 69,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/WhatsApp Image 2026-03-27 at 15.57.28.jpeg"
+        },
+        {
+          "nome": "imppn12.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/8jdl0ry5sqbdcfdew2imt/imppn12.pdf?rlkey=5a5m5ja60lprcr58k9q51rpli&dl=0?raw=1",
+          "dimensione_kb": 2130,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/imppn12.pdf"
         }
       ]
     },
