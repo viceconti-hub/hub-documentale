@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-31T02:53:23Z",
-  "totale_file": 24143,
+  "generato": "2026-03-31T05:43:23Z",
+  "totale_file": 24154,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5561,
+      "totale_file": 5572,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -2079,6 +2079,110 @@
                 }
               ],
               "_totale_file": 4
+            },
+            {
+              "nome": "2026_03_30 LA DOCE VITA ATTREZZATURE BANDO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 LA DOCE VITA ATTREZZATURE BANDO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "LA DOLCE VITA OFFERTA 260002 DEL 15_01_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oe7sdyavp7qyna0hbiz8u/LA-DOLCE-VITA-OFFERTA-260002-DEL-15_01_2026.pdf?rlkey=mdoeow1tpi9ab1ibjh2g4wzgw&dl=0?raw=1",
+                  "dimensione_kb": 202,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 LA DOCE VITA ATTREZZATURE BANDO/LA DOLCE VITA OFFERTA 260002 DEL 15_01_2026.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_03_30 PASSION SUSHI ATTREZZATURE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASSION SUSHI ATTREZZATURE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "A30-1P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kaonxangy9yg3xl6utf6z/A30-1P.pdf?rlkey=o1fxo3srjj1w2r4l9bc214akv&dl=0?raw=1",
+                  "dimensione_kb": 85,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASSION SUSHI ATTREZZATURE/A30-1P.pdf"
+                },
+                {
+                  "nome": "ARMADIO COLDLINE MASTER FISH A30-1P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kpwat0ug9p30a48t0t5cw/ARMADIO-COLDLINE-MASTER-FISH-A30-1P.pdf?rlkey=2530ynoeqw82k9ggqjnqddkse&dl=0?raw=1",
+                  "dimensione_kb": 85,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASSION SUSHI ATTREZZATURE/ARMADIO COLDLINE MASTER FISH A30-1P.pdf"
+                },
+                {
+                  "nome": "ARMADIO COLDLINE MASTER FISH A70-1P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/u6ikbnaia5yfylog1vo3h/ARMADIO-COLDLINE-MASTER-FISH-A70-1P.pdf?rlkey=nssk7hu734gmxwbz51gckmmj7&dl=0?raw=1",
+                  "dimensione_kb": 88,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASSION SUSHI ATTREZZATURE/ARMADIO COLDLINE MASTER FISH A70-1P.pdf"
+                },
+                {
+                  "nome": "CUOCIPASTA MODULAR F65-40CPE-1V20-T.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/e121rrlzgy06i953x1gem/CUOCIPASTA-MODULAR-F65-40CPE-1V20-T.pdf?rlkey=nv8ene752m48bzlbjh8k397ks&dl=0?raw=1",
+                  "dimensione_kb": 80,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASSION SUSHI ATTREZZATURE/CUOCIPASTA MODULAR F65-40CPE-1V20-T.pdf"
+                },
+                {
+                  "nome": "F60-60FTE-SLR-T.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7cizps2oc9sntx63uzped/F60-60FTE-SLR-T.pdf?rlkey=6dmxo9iyami3h6hzz019zwe3u&dl=0?raw=1",
+                  "dimensione_kb": 63,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASSION SUSHI ATTREZZATURE/F60-60FTE-SLR-T.pdf"
+                },
+                {
+                  "nome": "Friggitrice elettrica da banco mod. FR8N Fimar,1 vasca 8 litri, 50÷180°C, 26,5x42,6x35,9h cm.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qr0cjumtw8l57slos0e68/Friggitrice-elettrica-da-banco-mod.-FR8N-Fimar-1-vasca-8-litri-50-180-C-26-5x42-6x35-9h-cm.pdf?rlkey=f5rbjxtfcm6v8u6ht6xhx7tm0&dl=0?raw=1",
+                  "dimensione_kb": 199,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASSION SUSHI ATTREZZATURE/Friggitrice elettrica da banco mod. FR8N Fimar,1 vasca 8 litri, 50÷180°C, 26,5x42,6x35,9h cm.pdf"
+                },
+                {
+                  "nome": "Piastra a induzione mod. 3500 D Hendi Food, struttura in acciaio inox, touch screen digitale, temperatura e timer.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/crdzdeltvr4qnl864i19k/Piastra-a-induzione-mod.-3500-D-Hendi-Food-struttura-in-acciaio-inox-touch-screen-digitale-temperatura-e-timer.pdf?rlkey=oehy3o272rk1timh1134efr8f&dl=0?raw=1",
+                  "dimensione_kb": 196,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASSION SUSHI ATTREZZATURE/Piastra a induzione mod. 3500 D Hendi Food, struttura in acciaio inox, touch screen digitale, temperatura e timer.pdf"
+                },
+                {
+                  "nome": "Tavolo refrigerato ventilato gastronomia 4 porte GN 1_1 con alzatina, -18°_-22°C, mod. G-GN4200BT, 223x70x86_96h cm.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ydqn71dvi5nogrqxfh8pk/Tavolo-refrigerato-ventilato-gastronomia-4-porte-GN-1_1-con-alzatina-18-_-22-C-mod.-G-GN4200BT-223x70x86_96h-cm.pdf?rlkey=1q148z283ttvz62mmqlz7fs5j&dl=0?raw=1",
+                  "dimensione_kb": 203,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASSION SUSHI ATTREZZATURE/Tavolo refrigerato ventilato gastronomia 4 porte GN 1_1 con alzatina, -18°_-22°C, mod. G-GN4200BT, 223x70x86_96h cm.pdf"
+                }
+              ],
+              "_totale_file": 8
+            },
+            {
+              "nome": "2026_03_30 PASTICCERIA CALA ANTONIO MOLLA FORNO MORETTI",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASTICCERIA CALA ANTONIO MOLLA FORNO MORETTI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "PASTICCERIA CALA ANTONIO Offerta di vendita_260073_20260330_130425.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jmydejnpckwbqprrha4n5/PASTICCERIA-CALA-ANTONIO-Offerta-di-vendita_260073_20260330_130425.pdf?rlkey=ey1w70ug7gfkov48cn2lpecf8&dl=0?raw=1",
+                  "dimensione_kb": 81,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_30 PASTICCERIA CALA ANTONIO MOLLA FORNO MORETTI/PASTICCERIA CALA ANTONIO Offerta di vendita_260073_20260330_130425.pdf"
+                }
+              ],
+              "_totale_file": 1
             },
             {
               "nome": "3AM",
@@ -58091,7 +58195,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5398
+          "_totale_file": 5408
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -58199,6 +58303,14 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/PANAINO SRL Ordine cliente_260048_20260226_112936.pdf"
                 },
                 {
+                  "nome": "PASTICCERIA CALA ANTONIO Ordine cliente_260087_20260330_160822.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/r4sm0xvz4mmm7y3t0c89j/PASTICCERIA-CALA-ANTONIO-Ordine-cliente_260087_20260330_160822.pdf?rlkey=4c60pq7l6u898qfgerbw3ffbx&dl=0?raw=1",
+                  "dimensione_kb": 82,
+                  "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/PASTICCERIA CALA ANTONIO Ordine cliente_260087_20260330_160822.pdf"
+                },
+                {
                   "nome": "PIZZERIA ALBACHIARA DI VOLPI Gmail - [Viceconti Store] New order _ #198 - DUHLTDRKA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -58255,7 +58367,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/TATA & CO SRL Gmail - [Viceconti Store] New order _ #210 - JCKCINZEN.pdf"
                 }
               ],
-              "_totale_file": 19
+              "_totale_file": 20
             },
             {
               "nome": "ARCHIVIO",
@@ -58435,7 +58547,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 40
+          "_totale_file": 41
         }
       ],
       "file": []
