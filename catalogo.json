@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-31T07:52:06Z",
+  "generato": "2026-03-31T09:07:25Z",
   "totale_file": 24160,
   "totale_sezioni": 8,
   "sezioni": [
@@ -61689,7 +61689,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 34,
+      "totale_file": 33,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61988,14 +61988,6 @@
           "link": "https://www.dropbox.com/scl/fi/brwh41w144nn20hjk3lrz/WhatsApp-Image-2026-03-27-at-15.57.28.jpeg?rlkey=srh6aghi4jcx48uglmqcjthqw&dl=0?raw=1",
           "dimensione_kb": 69,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/WhatsApp Image 2026-03-27 at 15.57.28.jpeg"
-        },
-        {
-          "nome": "imppn12.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/8jdl0ry5sqbdcfdew2imt/imppn12.pdf?rlkey=5a5m5ja60lprcr58k9q51rpli&dl=0?raw=1",
-          "dimensione_kb": 2130,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/imppn12.pdf"
         }
       ]
     },
@@ -212354,7 +212346,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2305,
+      "totale_file": 2306,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -212548,6 +212540,14 @@
                   "link": "https://www.dropbox.com/scl/fi/lgvub9fsgj1qu9gyxmcn3/CB-Dettaglio-bonifico-istantaneo-DEL-24_03_2026.pdf?rlkey=5ytm7nkjl8ks0bauh58sg200d&dl=0?raw=1",
                   "dimensione_kb": 109,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/CB Dettaglio bonifico istantaneo DEL 24_03_2026.pdf"
+                },
+                {
+                  "nome": "CB Dettaglio bonifico istantaneo DEL 30_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/maw0kjm6dyeilhjq6kjh6/CB-Dettaglio-bonifico-istantaneo-DEL-30_03_2026.pdf?rlkey=g5h5pdldo8zszxmgqpn4vha9y&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/CB Dettaglio bonifico istantaneo DEL 30_03_2026.pdf"
                 },
                 {
                   "nome": "COLDLINE COPIA TITOLI INTESA FEBBRAIO MARZO APRILE 2026.jpeg",
@@ -212886,7 +212886,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 46
+              "_totale_file": 47
             },
             {
               "nome": "ARCHIVIO",
@@ -233146,7 +233146,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 2288
+          "_totale_file": 2289
         }
       ],
       "file": []
