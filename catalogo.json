@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-03-30T08:52:55Z",
-  "totale_file": 24140,
+  "generato": "2026-03-31T00:48:01Z",
+  "totale_file": 24143,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61883,7 +61883,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7010,
+      "totale_file": 7013,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -71027,7 +71027,40 @@
             {
               "nome": "PERRETTA EGIDIO",
               "path": "/HUB DOCUMENTALE/CLIENTI/FRANCAVILLA/PERRETTA EGIDIO",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "PERRETTA SERVICE AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/FRANCAVILLA/PERRETTA EGIDIO/PERRETTA SERVICE AREA TECNICA",
+                  "cartelle": [
+                    {
+                      "nome": "GIRARROSTI CB MODELLO E-6P",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/FRANCAVILLA/PERRETTA EGIDIO/PERRETTA SERVICE AREA TECNICA/GIRARROSTI CB MODELLO E-6P",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "GIRARROSTI CB MODELLO E-6P DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/e87p7ja8k6f6gfbub6pc4/GIRARROSTI-CB-MODELLO-E-6P-DATI-MACCHINA.jpeg?rlkey=s0z1sm7ig0cypcv2eiw5kpvl2&dl=0?raw=1",
+                          "dimensione_kb": 136,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/FRANCAVILLA/PERRETTA EGIDIO/PERRETTA SERVICE AREA TECNICA/GIRARROSTI CB MODELLO E-6P/GIRARROSTI CB MODELLO E-6P DATI MACCHINA.jpeg"
+                        },
+                        {
+                          "nome": "GIRARROSTI CB MODELLO E-6P FOTO RESISTENZA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/k1zvvjt6u0rus7jn2zn9q/GIRARROSTI-CB-MODELLO-E-6P-FOTO-RESISTENZA.jpeg?rlkey=i71xdpw0uh94ilmcoai5kxytm&dl=0?raw=1",
+                          "dimensione_kb": 148,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/FRANCAVILLA/PERRETTA EGIDIO/PERRETTA SERVICE AREA TECNICA/GIRARROSTI CB MODELLO E-6P/GIRARROSTI CB MODELLO E-6P FOTO RESISTENZA.jpeg"
+                        }
+                      ],
+                      "_totale_file": 2
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 2
+                }
+              ],
               "file": [
                 {
                   "nome": "Attività_20210601_215130.pdf",
@@ -71062,7 +71095,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/FRANCAVILLA/PERRETTA EGIDIO/Attività_20210603_102925.pdf"
                 }
               ],
-              "_totale_file": 4
+              "_totale_file": 6
             }
           ],
           "file": [
@@ -71083,7 +71116,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/FRANCAVILLA/A90-1BGR.pdf"
             }
           ],
-          "_totale_file": 33
+          "_totale_file": 35
         },
         {
           "nome": "FRANCIA",
@@ -72566,9 +72599,17 @@
                       "link": "https://www.dropbox.com/scl/fi/ahhiekufedp38ayfqokcx/RATIONAL-LA-STRADELLA-DATI-MACCHINA.jpeg?rlkey=g0hoty21i2h3kmvm2227oamfq&dl=0?raw=1",
                       "dimensione_kb": 77,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/RATIONAL LA STRADELLA DATI MACCHINA.jpeg"
+                    },
+                    {
+                      "nome": "Reso - Bozza documento_644_20260330_131109.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/1bqx91lz52t8c6hyow6bf/Reso-Bozza-documento_644_20260330_131109.pdf?rlkey=pfwyvdm83jvuk43z39ieyv5vt&dl=0?raw=1",
+                      "dimensione_kb": 67,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/Reso - Bozza documento_644_20260330_131109.pdf"
                     }
                   ],
-                  "_totale_file": 3
+                  "_totale_file": 4
                 },
                 {
                   "nome": "LA STRADELLA DOCUMENTI 4.0",
@@ -72813,7 +72854,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA Fattura di vendita_220127_20220330_151742.pdf"
                 }
               ],
-              "_totale_file": 31
+              "_totale_file": 32
             },
             {
               "nome": "LANIFICIO MANGO CAOS SRL",
@@ -73741,7 +73782,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 206
+          "_totale_file": 207
         },
         {
           "nome": "LAINO",
@@ -93244,7 +93285,7 @@
                           "nome": "Cucine e Lavastoviglie professionali _ ATA Srl 3.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/o39mr2gx2yfzfocnre76b/Cucine-e-Lavastoviglie-professionali-_-ATA-Srl-3.pdf?rlkey=5xhjrxujivdzz03p564r12sah&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 27,
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GESTIONI TURISTICHE LA TORRE/AREA TECNICA/LAVASTOVIGLIE ATA AT95/Cucine e Lavastoviglie professionali _ ATA Srl 3.pdf"
                         },
