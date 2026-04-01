@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-01T10:16:03Z",
-  "totale_file": 24167,
+  "generato": "2026-04-01T11:06:04Z",
+  "totale_file": 24168,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61689,7 +61689,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 36,
+      "totale_file": 37,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61865,6 +61865,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/ARMADIO COLDLINE MASTER FISH A70-1P.pdf"
             },
             {
+              "nome": "Acciaio T&D LAVATOIO 1 VASCA E GOCCIOLATOIO PROF.700 SCHEDA TECNICA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g6lbh0gjg871hvmrmyend/Acciaio-T-D-LAVATOIO-1-VASCA-E-GOCCIOLATOIO-PROF.700-SCHEDA-TECNICA.pdf?rlkey=qji9ntrq8wtjfnziewnmmbsdj&dl=0?raw=1",
+              "dimensione_kb": 138,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Acciaio T&D LAVATOIO 1 VASCA E GOCCIOLATOIO PROF.700 SCHEDA TECNICA.pdf"
+            },
+            {
               "nome": "BRIEFING Progetto Sushi Sapri 28 03 2026.docx",
               "tipo": "Word",
               "icona": "📝",
@@ -61961,7 +61969,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/W5UG-P.pdf"
             }
           ],
-          "_totale_file": 13
+          "_totale_file": 14
         }
       ],
       "file": [
