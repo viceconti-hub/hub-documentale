@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-01T05:17:28Z",
-  "totale_file": 24161,
+  "generato": "2026-04-01T07:21:33Z",
+  "totale_file": 24164,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -173769,7 +173769,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4519,
+      "totale_file": 4522,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -173787,9 +173787,33 @@
                   "link": "https://www.dropbox.com/scl/fi/mx8jr0cskydf33k06c5az/2026-02964VICECONTI-SNC-DI-ANTONIO-E-PROSPERO_Rep2.PDF?rlkey=d3kvxf85ndcgh5hwngedljo84&dl=0?raw=1",
                   "dimensione_kb": 141,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/APERTE/2026 02964VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF"
+                },
+                {
+                  "nome": "REPA 27898.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vfr4p9bdwiqk482e5g6dq/REPA-27898.PDF?rlkey=5rpwe3vn5qiwlzz9780x45j9n&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/APERTE/REPA 27898.PDF"
+                },
+                {
+                  "nome": "REPA 28629.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/e57g1894wpavt4hm5acen/REPA-28629.PDF?rlkey=bgyuzgawoqlh755slaqcaw8xr&dl=0?raw=1",
+                  "dimensione_kb": 65,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/APERTE/REPA 28629.PDF"
+                },
+                {
+                  "nome": "REPA 29183.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qcsgyu40ec7dg80i6uic3/REPA-29183.PDF?rlkey=fanrfyssejw3sk4e958ilnylu&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/APERTE/REPA 29183.PDF"
                 }
               ],
-              "_totale_file": 1
+              "_totale_file": 4
             },
             {
               "nome": "ARCHIVIO",
@@ -174025,7 +174049,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 29
+          "_totale_file": 32
         },
         {
           "nome": "FATTURE DA FORNITORE",
@@ -175220,7 +175244,7 @@
                       "nome": "BIZZOCA ARREDI COMMERCIALI S.R.L_84825_2025-11-17.xml",
                       "tipo": "File",
                       "icona": "📎",
-                      "link": "https://www.dropbox.com/scl/fi/mv3ax5g9k2n96pjx1at5s/BIZZOCA-ARREDI-COMMERCIALI-S.R.L_84825_2025-11-17.xml?rlkey=zyzs9usjkmm8ej87txqoygdqm&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 8,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/2025-11 Novembre/BIZZOCA ARREDI COMMERCIALI S.R.L_84825_2025-11-17.xml"
                     },
