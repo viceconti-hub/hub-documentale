@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-01T07:21:33Z",
-  "totale_file": 24164,
+  "generato": "2026-04-01T08:26:37Z",
+  "totale_file": 24165,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -212378,7 +212378,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2306,
+      "totale_file": 2307,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -212548,22 +212548,6 @@
                   "link": "https://www.dropbox.com/scl/fi/iiglwavx0v8upy6tcxr3g/ARISTARCO-TITOLI-BPER-APRILE_LUGLIO_2026.pdf?rlkey=9xqz24wuy6w94fsjj19pcal1s&dl=0?raw=1",
                   "dimensione_kb": 3274,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/ARISTARCO TITOLI BPER APRILE_LUGLIO_2026.pdf"
-                },
-                {
-                  "nome": "BRT Dettaglio bonifico istantaneo DEL 27_01_2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/6a8ew1wcwjg8kd7ejd3vq/BRT-Dettaglio-bonifico-istantaneo-DEL-27_01_2026.pdf?rlkey=9sqerohd3wpyltgc1pbzbmn4l&dl=0?raw=1",
-                  "dimensione_kb": 108,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/BRT Dettaglio bonifico istantaneo DEL 27_01_2026.pdf"
-                },
-                {
-                  "nome": "BRT Dettaglio bonifico istantaneo DEL 27_03_2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/g5d03f2d19n7duu6fwdz4/BRT-Dettaglio-bonifico-istantaneo-DEL-27_03_2026.pdf?rlkey=q7rxg5g2umhdzin2mmunwrzdf&dl=0?raw=1",
-                  "dimensione_kb": 108,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/BRT Dettaglio bonifico istantaneo DEL 27_03_2026.pdf"
                 },
                 {
                   "nome": "CB Dettaglio bonifico istantaneo DEL 24_03_2026.pdf",
@@ -212918,7 +212902,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 47
+              "_totale_file": 45
             },
             {
               "nome": "ARCHIVIO",
@@ -232302,6 +232286,30 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/BRT Dettaglio bonifico istantaneo DEL 23_02_2026.pdf"
                 },
                 {
+                  "nome": "BRT Dettaglio bonifico istantaneo DEL 27_01_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6a8ew1wcwjg8kd7ejd3vq/BRT-Dettaglio-bonifico-istantaneo-DEL-27_01_2026.pdf?rlkey=9sqerohd3wpyltgc1pbzbmn4l&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/BRT Dettaglio bonifico istantaneo DEL 27_01_2026.pdf"
+                },
+                {
+                  "nome": "BRT Dettaglio bonifico istantaneo DEL 27_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/g5d03f2d19n7duu6fwdz4/BRT-Dettaglio-bonifico-istantaneo-DEL-27_03_2026.pdf?rlkey=q7rxg5g2umhdzin2mmunwrzdf&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/BRT Dettaglio bonifico istantaneo DEL 27_03_2026.pdf"
+                },
+                {
+                  "nome": "BRT Dettaglio bonifico istantaneo DEL 31_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6ugmh3crwfs7j67dhyycm/BRT-Dettaglio-bonifico-istantaneo-DEL-31_03_2026.pdf?rlkey=31b2e242t9xxqbhpcsprhs6ot&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/BRT Dettaglio bonifico istantaneo DEL 31_03_2026.pdf"
+                },
+                {
                   "nome": "BRT ricevuta bonifico istantaneo del 02_10_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -233174,11 +233182,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ZMATIK Dettaglio bonifico istantaneo DEL 22_09_2025.pdf"
                 }
               ],
-              "_totale_file": 2242
+              "_totale_file": 2245
             }
           ],
           "file": [],
-          "_totale_file": 2289
+          "_totale_file": 2290
         }
       ],
       "file": []
