@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-01T10:06:00Z",
-  "totale_file": 24166,
+  "generato": "2026-04-01T10:16:03Z",
+  "totale_file": 24167,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61689,7 +61689,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 35,
+      "totale_file": 36,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61767,9 +61767,17 @@
               "link": "https://www.dropbox.com/scl/fi/7qhspiopklln7pqgyaask/Ordini_clienti.PDF?rlkey=yd1pkr98mm4n0ibf4txej7izt&dl=0?raw=1",
               "dimensione_kb": 42,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/ILAMA CHIUSURA CANTIERE APRILE 2026/Ordini_clienti.PDF"
+            },
+            {
+              "nome": "estrazione_preventivo.xlsx",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/tfcpiy7r3b4cavw6171ze/estrazione_preventivo.xlsx?rlkey=r7vdmwapy2lpzcey1leds8hed&dl=0?raw=1",
+              "dimensione_kb": 12,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/ILAMA CHIUSURA CANTIERE APRILE 2026/estrazione_preventivo.xlsx"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 2
         },
         {
           "nome": "MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
