@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-01T11:06:04Z",
-  "totale_file": 24168,
+  "generato": "2026-04-02T00:19:11Z",
+  "totale_file": 24169,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62035,7 +62035,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7013,
+      "totale_file": 7014,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -82755,6 +82755,14 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "I PASTICCI FATTURA DI ASSISTENZA DEL 18 12 2025 Fattura di vendita_2500819_20260401_175202.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/jy8ue9tvygn6scgjh3xst/I-PASTICCI-FATTURA-DI-ASSISTENZA-DEL-18-12-2025-Fattura-di-vendita_2500819_20260401_175202.pdf?rlkey=eymi60shhrbp5lnd0lnmgxt06&dl=0?raw=1",
+                          "dimensione_kb": 78,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/RATIONAL/I PASTICCI FATTURA DI ASSISTENZA DEL 18 12 2025 Fattura di vendita_2500819_20260401_175202.pdf"
+                        },
+                        {
                           "nome": "RATIONAL I PASTICCI DI WALTER DATI MACCHINA.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -82763,7 +82771,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/RATIONAL/RATIONAL I PASTICCI DI WALTER DATI MACCHINA.jpg"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 2
                     },
                     {
                       "nome": "ROSSANESE",
@@ -82872,7 +82880,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/WhatsApp Image 2022-03-08 at 17.02.30.jpeg"
                     }
                   ],
-                  "_totale_file": 23
+                  "_totale_file": 24
                 }
               ],
               "file": [
@@ -82909,7 +82917,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/file.pdf"
                 }
               ],
-              "_totale_file": 27
+              "_totale_file": 28
             },
             {
               "nome": "IL FUNGO",
@@ -90091,7 +90099,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1278
+          "_totale_file": 1279
         },
         {
           "nome": "LAVELLO",
@@ -100915,7 +100923,7 @@
                           "nome": "FORNO RATIONAL  VERBALE DI MESSA ON-LINE .docx",
                           "tipo": "Word",
                           "icona": "📝",
-                          "link": "https://www.dropbox.com/scl/fi/oqss8fwvm52qvdfmwtr2s/FORNO-RATIONAL-VERBALE-DI-MESSA-ON-LINE.docx?rlkey=es3ldbkzihq4l3ta6es4j0j7b&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 79,
                           "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL DOCUMENTAZIONE 4.0/RATIONAL DOCUMENTAZIONE 4.0/FORNO RATIONAL  VERBALE DI MESSA ON-LINE .docx"
                         },
