@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-02T02:18:34Z",
-  "totale_file": 24169,
+  "generato": "2026-04-02T05:00:46Z",
+  "totale_file": 24170,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5572,
+      "totale_file": 5573,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -27169,7 +27169,7 @@
                           "nome": "Offerta di vendita_200129_20200221_171956.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/u8de8fa9v97dg9mlok5ha/Offerta-di-vendita_200129_20200221_171956.pdf?rlkey=a9gqukni7ai1wygcxer0hn05e&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 71,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ARCHIVIO OFFERTE INVIATE 2022/ARCHIVIO OFFERTE CLIENTI AL 2021/SPIZZICA  21_02_2020/Offerta di vendita_200129_20200221_171956.pdf"
                         }
@@ -52357,7 +52357,7 @@
                   "nome": "R90-120PCG-P.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/g0oenv6b1s57m9elv71ch/R90-120PCG-P.pdf?rlkey=eg5hia34d4ft5i6wqgyhxxdbu&dl=0?raw=1",
                   "dimensione_kb": 227,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RISTORANTE SANTA LUCIA ATTREZZATURE/R90-120PCG-P.pdf"
                 },
@@ -58207,6 +58207,14 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "ARTE DOLCIARIA ORDINE BOZZA WHATSAPP ANTONIO.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/ah7szlf4g2c6ta4089ynl/ARTE-DOLCIARIA-ORDINE-BOZZA-WHATSAPP-ANTONIO.jpeg?rlkey=7pdzrpeygfyg0jexv7znpaja1&dl=0?raw=1",
+                  "dimensione_kb": 146,
+                  "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/ARTE DOLCIARIA ORDINE BOZZA WHATSAPP ANTONIO.jpeg"
+                },
+                {
                   "nome": "Al-anbiq srl unipersonale Gmail - [Viceconti Store] New order _ #200 - FZDSKOXNU.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -58367,7 +58375,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/TATA & CO SRL Gmail - [Viceconti Store] New order _ #210 - JCKCINZEN.pdf"
                 }
               ],
-              "_totale_file": 20
+              "_totale_file": 21
             },
             {
               "nome": "ARCHIVIO",
@@ -58547,7 +58555,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 41
+          "_totale_file": 42
         }
       ],
       "file": []
