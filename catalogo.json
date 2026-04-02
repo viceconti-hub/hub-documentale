@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-02T08:08:18Z",
-  "totale_file": 24179,
+  "generato": "2026-04-02T08:56:06Z",
+  "totale_file": 24180,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61697,7 +61697,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 37,
+      "totale_file": 38,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61769,6 +61769,14 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "ILAMA HOTELLERIE MORINI Offerta di vendita_260074_20260402_104914.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jjkn67m94kngz7n871129/ILAMA-HOTELLERIE-MORINI-Offerta-di-vendita_260074_20260402_104914.pdf?rlkey=gn8qe9pitunbcktbwr059emai&dl=0?raw=1",
+              "dimensione_kb": 85,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/ILAMA CHIUSURA CANTIERE APRILE 2026/ILAMA HOTELLERIE MORINI Offerta di vendita_260074_20260402_104914.pdf"
+            },
+            {
               "nome": "Ordini_clienti.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -61785,7 +61793,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/ILAMA CHIUSURA CANTIERE APRILE 2026/estrazione_preventivo.xlsx"
             }
           ],
-          "_totale_file": 2
+          "_totale_file": 3
         },
         {
           "nome": "MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
