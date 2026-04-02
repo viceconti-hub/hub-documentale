@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-02T06:53:42Z",
-  "totale_file": 24177,
+  "generato": "2026-04-02T07:55:56Z",
+  "totale_file": 24179,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -212482,7 +212482,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2307,
+      "totale_file": 2309,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -212633,8 +212633,17 @@
               "_totale_file": 17
             }
           ],
-          "file": [],
-          "_totale_file": 17
+          "file": [
+            {
+              "nome": "COLDLINE Conferma ordine n°26-02112 RIF.A.M DI ANTONELLA MANCINO CORRETTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tbqrltcdup506yy4w48zw/COLDLINE-Conferma-ordine-n-26-02112-RIF.A.M-DI-ANTONELLA-MANCINO-CORRETTA.pdf?rlkey=kf6q7wz2ivba91t8zvknwnfks&dl=0?raw=1",
+              "dimensione_kb": 97,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/COLDLINE Conferma ordine n°26-02112 RIF.A.M DI ANTONELLA MANCINO CORRETTA.pdf"
+            }
+          ],
+          "_totale_file": 18
         },
         {
           "nome": "PAGAMENTI IN USCITA",
@@ -233289,8 +233298,17 @@
               "_totale_file": 2245
             }
           ],
-          "file": [],
-          "_totale_file": 2290
+          "file": [
+            {
+              "nome": "COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/jjbrxaqeenmauyhmsarrs/COLDLINE-RICEVUTA-AR-DEL-04_03_2026.jpeg?rlkey=7a7ik626ztlys4337blfgztxr&dl=0?raw=1",
+              "dimensione_kb": 286,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg"
+            }
+          ],
+          "_totale_file": 2291
         }
       ],
       "file": []
