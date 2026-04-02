@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-02T05:00:46Z",
-  "totale_file": 24170,
+  "generato": "2026-04-02T06:53:42Z",
+  "totale_file": 24177,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -173817,7 +173817,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4522,
+      "totale_file": 4529,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -174211,6 +174211,14 @@
                   "link": "https://www.dropbox.com/scl/fi/c68dd8metyd4oe36znicu/COMENDA-ALI-GROUP-SRL_2026-VIC-0260505_2026-02-11.xml?rlkey=92yoz97483c2uv91k0je3tuw1&dl=0?raw=1",
                   "dimensione_kb": 7,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COMENDA ALI GROUP SRL_2026-VIC-0260505_2026-02-11.xml"
+                },
+                {
+                  "nome": "COSMOPOL FATS202601498.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fpv88wmoavbtjhs6by1hq/COSMOPOL-FATS202601498.pdf?rlkey=w8ivmus2j881hlbogd4i7mh6y&dl=0?raw=1",
+                  "dimensione_kb": 17,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COSMOPOL FATS202601498.pdf"
                 },
                 {
                   "nome": "CUPPONE S.R.L_03054V_2025-10-24.xml",
@@ -174709,7 +174717,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/ZINCO GROUP Srl_2026 248_2026-03-06.xml"
                 }
               ],
-              "_totale_file": 75
+              "_totale_file": 76
             },
             {
               "nome": "ARCHIVIO",
@@ -175292,7 +175300,7 @@
                       "nome": "BIZZOCA ARREDI COMMERCIALI S.R.L_84825_2025-11-17.xml",
                       "tipo": "File",
                       "icona": "📎",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/mv3ax5g9k2n96pjx1at5s/BIZZOCA-ARREDI-COMMERCIALI-S.R.L_84825_2025-11-17.xml?rlkey=zyzs9usjkmm8ej87txqoygdqm&dl=0?raw=1",
                       "dimensione_kb": 8,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/2025-11 Novembre/BIZZOCA ARREDI COMMERCIALI S.R.L_84825_2025-11-17.xml"
                     },
@@ -182141,7 +182149,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/Report_Finale_Automazione_Fatture_29-03-2026.docx"
             }
           ],
-          "_totale_file": 990
+          "_totale_file": 991
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -182281,30 +182289,6 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/CB VALKO CONFERMA offerta  VICECONTI RIF.CARNI LIMONGI_CILINDRI PNEUMATICI.pdf"
                 },
                 {
-                  "nome": "COLDLINE CONFERMA ORDINE 2351 RIF.3AM GUARNIZIONI E GUIDE.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/dijjnlm6uag8qvqxhf9ud/COLDLINE-CONFERMA-ORDINE-2351-RIF.3AM-GUARNIZIONI-E-GUIDE.pdf?rlkey=ungkv8yv667sx7va5ddabjv8t&dl=0?raw=1",
-                  "dimensione_kb": 127,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE CONFERMA ORDINE 2351 RIF.3AM GUARNIZIONI E GUIDE.pdf"
-                },
-                {
-                  "nome": "COLDLINE Conferma ordine n°26-01725 RIF.IL LUCANO.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/2w7c7asc7o3u1f3rxkap5/COLDLINE-Conferma-ordine-n-26-01725-RIF.IL-LUCANO.pdf?rlkey=ign6su8qbbbqovsgcaau9gxps&dl=0?raw=1",
-                  "dimensione_kb": 96,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-01725 RIF.IL LUCANO.pdf"
-                },
-                {
-                  "nome": "COLDLINE Conferma ordine n°26-02112 RIF.A.M DI ANTONELLA MANCINO CORRETTA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/tbqrltcdup506yy4w48zw/COLDLINE-Conferma-ordine-n-26-02112-RIF.A.M-DI-ANTONELLA-MANCINO-CORRETTA.pdf?rlkey=kf6q7wz2ivba91t8zvknwnfks&dl=0?raw=1",
-                  "dimensione_kb": 97,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-02112 RIF.A.M DI ANTONELLA MANCINO CORRETTA.pdf"
-                },
-                {
                   "nome": "COLDLINE Conferma ordine n°26-03168 RIF.CORRADO MICHELA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -182321,36 +182305,28 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf"
                 },
                 {
-                  "nome": "COLDLINE Conferma ordine n°26-03675 RIF.3AM GUARNIZIONI E GUIDE.pdf",
+                  "nome": "COLDLINE Conferma ordine n°26-05163 RIF. NERA_FA TU.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/rtjfvccal1zx42gr188qc/COLDLINE-Conferma-ordine-n-26-03675-RIF.3AM-GUARNIZIONI-E-GUIDE.pdf?rlkey=bnlpzjvy9f2rdnaezoehbtoof&dl=0?raw=1",
-                  "dimensione_kb": 96,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-03675 RIF.3AM GUARNIZIONI E GUIDE.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/h2ccxjlhnwyvktxg0cydr/COLDLINE-Conferma-ordine-n-26-05163-RIF.-NERA_FA-TU.pdf?rlkey=0aceo50zbvgl5gznoyniz7gyb&dl=0?raw=1",
+                  "dimensione_kb": 114,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-05163 RIF. NERA_FA TU.pdf"
                 },
                 {
-                  "nome": "COLDLINE Conferma ordine n°26-04766 RIF.CABOSSA.pdf",
+                  "nome": "COLDLINE Conferma ordine n°26-05738 RIF.ARTE DOLCIARIA MeM.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/nkde20d7blsggu6hphbwi/COLDLINE-Conferma-ordine-n-26-04766-RIF.CABOSSA.pdf?rlkey=15caaqca4hz2648mymeihdesk&dl=0?raw=1",
-                  "dimensione_kb": 84,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-04766 RIF.CABOSSA.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/0gmc9c6xe4s144urjz4kt/COLDLINE-Conferma-ordine-n-26-05738-RIF.ARTE-DOLCIARIA-MeM.pdf?rlkey=bwzktqx9z9tfvw3vf0jhjh4v4&dl=0?raw=1",
+                  "dimensione_kb": 97,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-05738 RIF.ARTE DOLCIARIA MeM.pdf"
                 },
                 {
-                  "nome": "COLDLINE PACKING LIST DEL 04_03_2026.pdf",
+                  "nome": "COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/viv75zw6uwkeocfec3zap/COLDLINE-PACKING-LIST-DEL-04_03_2026.pdf?rlkey=6nwxnnxiff5vezs7rvtnxuxnm&dl=0?raw=1",
-                  "dimensione_kb": 77,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE PACKING LIST DEL 04_03_2026.pdf"
-                },
-                {
-                  "nome": "COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg",
-                  "tipo": "Immagine",
-                  "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/jjbrxaqeenmauyhmsarrs/COLDLINE-RICEVUTA-AR-DEL-04_03_2026.jpeg?rlkey=7a7ik626ztlys4337blfgztxr&dl=0?raw=1",
-                  "dimensione_kb": 286,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg"
+                  "link": "https://www.dropbox.com/scl/fi/kzkbbh0pcza3mrf3z7qr0/COLDLINE-PACKING-LIST-DEL-01-04-2026_260019_20260401_103937.pdf?rlkey=e2upvvpsfngqtynw70janfz5r&dl=0?raw=1",
+                  "dimensione_kb": 76,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf"
                 },
                 {
                   "nome": "COMENDA CO OC - 10290 VICECONTI SNC RIF.CENTRAL MARKET.PDF",
@@ -182465,6 +182441,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CLI-PREVEN-0001968-00-16032026 RIF.MARATEA SERVIZI_CENTRALINA.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002404-00-01042026 RIF.NERA SRL.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cclryhorgncubdxthf1dv/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002404-00-01042026-RIF.NERA-SRL.pdf?rlkey=y4ypg0tfid1qq6hq6s5e44caq&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002404-00-01042026 RIF.NERA SRL.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oexpf2fqcez2gojvya3m9/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002405-00-01042026-RIF.-FA-TU.pdf?rlkey=yzxeompp16rtfag1wd6g25z1h&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0008236-00-05122025 RIF.MARATEA SERVIZI.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -182487,6 +182479,14 @@
                   "link": "https://www.dropbox.com/scl/fi/kxd12f79y5fsmm1ckpxxx/IDEAM-INOX-Ordine-dacquisto_260022_20260319_173611-RIF.ACAL_LAVELLO.pdf?rlkey=am56lpjgam35010rrn2u4wbkk&dl=0?raw=1",
                   "dimensione_kb": 70,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX Ordine dacquisto_260022_20260319_173611 RIF.ACAL_LAVELLO.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX Ordine dacquisto_260033_20260401_184716 RIF.MeM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/37w0rx2zt90ec69m5m13e/IDEAM-INOX-Ordine-dacquisto_260033_20260401_184716-RIF.MeM.pdf?rlkey=h1bvmu233wa6b1g6rcvvmrv3f&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX Ordine dacquisto_260033_20260401_184716 RIF.MeM.pdf"
                 },
                 {
                   "nome": "IFI CONFERMA ORDINE 26000883 RIF.TERMINAL_CENTRALINA_MURALE.pdf",
@@ -182559,6 +182559,14 @@
                   "link": "https://www.dropbox.com/scl/fi/xmnt7voiiw1fnbooqibh2/MODULAR-CONFERMA-26_02043-MD_SaleOrdForm_2022-RIF.FA-TU_FRIGGTRICI-90.pdf?rlkey=lm1yknzk4w8azzvymilkn6esa&dl=0?raw=1",
                   "dimensione_kb": 132,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_02043 MD_SaleOrdForm_2022 RIF.FA TU_FRIGGTRICI 90.pdf"
+                },
+                {
+                  "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.MeM_TULS.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/u08hlqin3uvt8zrvhr713/MODULAR-CONFERMA-MD_SaleOrdForm_2022-RIF.MeM_TULS.pdf?rlkey=ee2iyzfcwvy9w1d3wzmih4kaq&dl=0?raw=1",
+                  "dimensione_kb": 141,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.MeM_TULS.pdf"
                 },
                 {
                   "nome": "MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.MeM.pdf",
@@ -211237,6 +211245,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDINE Conferma ordine n°25-16183 RIF.JOEL_GARANZIA.pdf"
                 },
                 {
+                  "nome": "COLDLINE CONFERMA ORDINE 2351 RIF.3AM GUARNIZIONI E GUIDE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dijjnlm6uag8qvqxhf9ud/COLDLINE-CONFERMA-ORDINE-2351-RIF.3AM-GUARNIZIONI-E-GUIDE.pdf?rlkey=ungkv8yv667sx7va5ddabjv8t&dl=0?raw=1",
+                  "dimensione_kb": 127,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE CONFERMA ORDINE 2351 RIF.3AM GUARNIZIONI E GUIDE.pdf"
+                },
+                {
                   "nome": "COLDLINE Conferma ordine n°25-11817 RIF.ILAMA ABBATTITORE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -211325,6 +211341,30 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Conferma ordine n°25-18615 RIF.GELATERIA GELOSIA 2.pdf"
                 },
                 {
+                  "nome": "COLDLINE Conferma ordine n°26-01725 RIF.IL LUCANO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2w7c7asc7o3u1f3rxkap5/COLDLINE-Conferma-ordine-n-26-01725-RIF.IL-LUCANO.pdf?rlkey=ign6su8qbbbqovsgcaau9gxps&dl=0?raw=1",
+                  "dimensione_kb": 96,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Conferma ordine n°26-01725 RIF.IL LUCANO.pdf"
+                },
+                {
+                  "nome": "COLDLINE Conferma ordine n°26-03675 RIF.3AM GUARNIZIONI E GUIDE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rtjfvccal1zx42gr188qc/COLDLINE-Conferma-ordine-n-26-03675-RIF.3AM-GUARNIZIONI-E-GUIDE.pdf?rlkey=bnlpzjvy9f2rdnaezoehbtoof&dl=0?raw=1",
+                  "dimensione_kb": 96,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Conferma ordine n°26-03675 RIF.3AM GUARNIZIONI E GUIDE.pdf"
+                },
+                {
+                  "nome": "COLDLINE Conferma ordine n°26-04766 RIF.CABOSSA_RICAMBIO IN GARANZIA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nkde20d7blsggu6hphbwi/COLDLINE-Conferma-ordine-n-26-04766-RIF.CABOSSA_RICAMBIO-IN-GARANZIA.pdf?rlkey=15caaqca4hz2648mymeihdesk&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Conferma ordine n°26-04766 RIF.CABOSSA_RICAMBIO IN GARANZIA.pdf"
+                },
+                {
                   "nome": "COLDLINE Ordine dacquisto_250427_20251028_184825 RIF.GRIGLIE E GUIDE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -211363,6 +211403,22 @@
                   "link": "https://www.dropbox.com/scl/fi/jiseb1aiuflhwrh1rh00f/COLDLINE-Ordine-dacquisto_260018_20260302_101552-RIF.-CENTRAL-PECORONE-e-MeM.pdf?rlkey=l8sohy6wf6n8vkio35lw09dgt&dl=0?raw=1",
                   "dimensione_kb": 71,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Ordine dacquisto_260018_20260302_101552 RIF. CENTRAL PECORONE e MeM.pdf"
+                },
+                {
+                  "nome": "COLDLINE Ordine dacquisto_260032_20260401_104339 ARTE DOLCIARIA MeM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/36ahf7lfuch3oelnyu7wm/COLDLINE-Ordine-dacquisto_260032_20260401_104339-ARTE-DOLCIARIA-MeM.pdf?rlkey=mm3py3fc31lms9t4hy498s5cp&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Ordine dacquisto_260032_20260401_104339 ARTE DOLCIARIA MeM.pdf"
+                },
+                {
+                  "nome": "COLDLINE PACKING LIST DEL 04_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/viv75zw6uwkeocfec3zap/COLDLINE-PACKING-LIST-DEL-04_03_2026.pdf?rlkey=6nwxnnxiff5vezs7rvtnxuxnm&dl=0?raw=1",
+                  "dimensione_kb": 77,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE PACKING LIST DEL 04_03_2026.pdf"
                 },
                 {
                   "nome": "COLDLINE PACKING LISTI 17_09_2025.pdf",
@@ -212413,11 +212469,11 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3432
+              "_totale_file": 3438
             }
           ],
           "file": [],
-          "_totale_file": 3500
+          "_totale_file": 3506
         }
       ],
       "file": []
