@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-02T08:56:06Z",
-  "totale_file": 24180,
+  "generato": "2026-04-02T15:42:21Z",
+  "totale_file": 24183,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61697,7 +61697,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 38,
+      "totale_file": 41,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -61866,6 +61866,38 @@
             }
           ],
           "_totale_file": 8
+        },
+        {
+          "nome": "MeM ASPIRAZIONE",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MeM ASPIRAZIONE",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "Comparazione MeM vs IdeaM Inox.xlsx",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/gj2nq3chnw6y5jyn1tmo1/Comparazione-MeM-vs-IdeaM-Inox.xlsx?rlkey=4sobxkwm1a4li5yfgyvnkp502&dl=0?raw=1",
+              "dimensione_kb": 13,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MeM ASPIRAZIONE/Comparazione MeM vs IdeaM Inox.xlsx"
+            },
+            {
+              "nome": "IDEAM INOX RIF. MeM OFFERTA CLI-PREVEN-0002471-00-02042026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7lklvtb9po30zcvx13jtd/IDEAM-INOX-RIF.-MeM-OFFERTA-CLI-PREVEN-0002471-00-02042026.pdf?rlkey=6wlto35g41re733e7nazl9osl&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MeM ASPIRAZIONE/IDEAM INOX RIF. MeM OFFERTA CLI-PREVEN-0002471-00-02042026.pdf"
+            },
+            {
+              "nome": "MeM NOSTRI ARTICOLI.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/aspx7cn2a81agrfkiz89r/MeM-NOSTRI-ARTICOLI.png?rlkey=2jk1e0ok758kkncodzgtmstt0&dl=0?raw=1",
+              "dimensione_kb": 34,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MeM ASPIRAZIONE/MeM NOSTRI ARTICOLI.png"
+            }
+          ],
+          "_totale_file": 3
         },
         {
           "nome": "PASSION SUSHI",
