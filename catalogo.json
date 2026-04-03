@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-03T02:10:30Z",
-  "totale_file": 24183,
+  "generato": "2026-04-03T04:52:22Z",
+  "totale_file": 24185,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5573,
+      "totale_file": 5575,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1255,6 +1255,22 @@
                 }
               ],
               "_totale_file": 14
+            },
+            {
+              "nome": "2026 04 2026 ANTICA TRATTORIA DI SANDOLO AFFETTATRICE FAC 250",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026 04 2026 ANTICA TRATTORIA DI SANDOLO AFFETTATRICE FAC 250",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ANTICA TRATTORIA AFFETTATRICE FAC 250 Offerta di vendita_260077_20260402_180202.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9yvplqkd4bwj6t24l1vjt/ANTICA-TRATTORIA-AFFETTATRICE-FAC-250-Offerta-di-vendita_260077_20260402_180202.pdf?rlkey=8hpb1336tg047fbtt8jb0uc8p&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026 04 2026 ANTICA TRATTORIA DI SANDOLO AFFETTATRICE FAC 250/ANTICA TRATTORIA AFFETTATRICE FAC 250 Offerta di vendita_260077_20260402_180202.pdf"
+                }
+              ],
+              "_totale_file": 1
             },
             {
               "nome": "2026_02_24 GIOIA MARIA PENTOLE",
@@ -27169,7 +27185,7 @@
                           "nome": "Offerta di vendita_200129_20200221_171956.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/u8de8fa9v97dg9mlok5ha/Offerta-di-vendita_200129_20200221_171956.pdf?rlkey=a9gqukni7ai1wygcxer0hn05e&dl=0?raw=1",
                           "dimensione_kb": 71,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ARCHIVIO OFFERTE INVIATE 2022/ARCHIVIO OFFERTE CLIENTI AL 2021/SPIZZICA  21_02_2020/Offerta di vendita_200129_20200221_171956.pdf"
                         }
@@ -37927,7 +37943,7 @@
                   "nome": "esamch Offerta di vendita_230670_20230914_160024.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/p1sbxmcyhijclsabmeza2/esamch-Offerta-di-vendita_230670_20230914_160024.pdf?rlkey=h2vrk9cd8qhzzm091ie5pqz8n&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 83,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/FA' TU IMPASTATRICE ALTA IDRATAZIONE/esamch Offerta di vendita_230670_20230914_160024.pdf"
                 },
@@ -39926,7 +39942,7 @@
                       "nome": "Offerta di vendita_230702_20230925_113837.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/vk5xpob52aphcukeqtdgz/Offerta-di-vendita_230702_20230925_113837.pdf?rlkey=aon8tqgokfzkyb0xigsf4come&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 71,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GRAN SOLE OFFERTE/GRAN SOLE SGABELLI/Offerta di vendita_230702_20230925_113837.pdf"
                     },
@@ -58195,7 +58211,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5408
+          "_totale_file": 5409
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -58373,9 +58389,17 @@
                   "link": "https://www.dropbox.com/scl/fi/zazgaw1fi62fmif40rli4/TATA-CO-SRL-Gmail-Viceconti-Store-New-order-_-210-JCKCINZEN.pdf?rlkey=qgucju8ttf0v3gs99gh2z6syq&dl=0?raw=1",
                   "dimensione_kb": 290,
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/TATA & CO SRL Gmail - [Viceconti Store] New order _ #210 - JCKCINZEN.pdf"
+                },
+                {
+                  "nome": "VELARDI Ordine cliente_260092_20260402_122630.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ju9k43jrf8nmp7cj9drms/VELARDI-Ordine-cliente_260092_20260402_122630.pdf?rlkey=ktqumz90gah9hyufebojmd9xc&dl=0?raw=1",
+                  "dimensione_kb": 75,
+                  "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/VELARDI Ordine cliente_260092_20260402_122630.pdf"
                 }
               ],
-              "_totale_file": 21
+              "_totale_file": 22
             },
             {
               "nome": "ARCHIVIO",
@@ -58555,7 +58579,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 42
+          "_totale_file": 43
         }
       ],
       "file": []
