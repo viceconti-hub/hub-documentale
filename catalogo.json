@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-03T04:52:22Z",
-  "totale_file": 24185,
+  "generato": "2026-04-03T06:47:04Z",
+  "totale_file": 24194,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -173881,7 +173881,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4529,
+      "totale_file": 4538,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -182216,6 +182216,62 @@
           "_totale_file": 991
         },
         {
+          "nome": "OFFERTE DI ACQUISTO",
+          "path": "/HUB DOCUMENTALE/ACQUISTI/OFFERTE DI ACQUISTO",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "003OC20262129763.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/ittgemoc4fzqbtgb5jyfv/003OC20262129763.XLSX?rlkey=bruuegjzphz11kidzvwwsi4aa&dl=0?raw=1",
+              "dimensione_kb": 2777,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/OFFERTE DI ACQUISTO/003OC20262129763.XLSX"
+            },
+            {
+              "nome": "Copia DA INVIARE A CLIENTE.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/ryz41qb2kbkx224u8uzhi/Copia-DA-INVIARE-A-CLIENTE.XLSX?rlkey=gcbvi8tamumc20vlhlsr70ley&dl=0?raw=1",
+              "dimensione_kb": 2774,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/OFFERTE DI ACQUISTO/Copia DA INVIARE A CLIENTE.XLSX"
+            },
+            {
+              "nome": "ILAMA Offerta di vendita_260074_20260402_124645.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d9i9e776lcu2o9sa8em98/ILAMA-Offerta-di-vendita_260074_20260402_124645.pdf?rlkey=za5beye3wuid6m5uucgehnvxk&dl=0?raw=1",
+              "dimensione_kb": 85,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/OFFERTE DI ACQUISTO/ILAMA Offerta di vendita_260074_20260402_124645.pdf"
+            },
+            {
+              "nome": "MORINI PER ILAMA 003OC20262129763.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/aei1y1ts4unsoa6sch8jd/MORINI-PER-ILAMA-003OC20262129763.PDF?rlkey=3hridhh4u1h2pw7rvxcr36wl4&dl=0?raw=1",
+              "dimensione_kb": 87,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/OFFERTE DI ACQUISTO/MORINI PER ILAMA 003OC20262129763.PDF"
+            },
+            {
+              "nome": "MORINI X ILAMA 003OC20262129763.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/h4qp82l2st3rypc3rdrdk/MORINI-X-ILAMA-003OC20262129763.XLSX?rlkey=g91u0auw6g0le9ly897htk9lo&dl=0?raw=1",
+              "dimensione_kb": 2780,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/OFFERTE DI ACQUISTO/MORINI X ILAMA 003OC20262129763.XLSX"
+            },
+            {
+              "nome": "MORINI_Ordine_2129763.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/j28v2corv5issb6g5qrxx/MORINI_Ordine_2129763.pdf?rlkey=l6kw52gvfutlyoxqcw3ckp4sv&dl=0?raw=1",
+              "dimensione_kb": 2565,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/OFFERTE DI ACQUISTO/MORINI_Ordine_2129763.pdf"
+            }
+          ],
+          "_totale_file": 6
+        },
+        {
           "nome": "ORDINI D'ACQUISTO",
           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO",
           "cartelle": [
@@ -182505,6 +182561,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CLI-PREVEN-0001968-00-16032026 RIF.MARATEA SERVIZI_CENTRALINA.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0001880-00-12032026 RIF.VELARDI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/b4wp1ayfrrlcm7eumwjnj/IDEAM-INOX-CONFERMA-CLI-PREVEN-0001880-00-12032026-RIF.VELARDI.pdf?rlkey=3zr68rzridepdwlwe471dis4h&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0001880-00-12032026 RIF.VELARDI.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002404-00-01042026 RIF.NERA SRL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -182551,6 +182615,22 @@
                   "link": "https://www.dropbox.com/scl/fi/37w0rx2zt90ec69m5m13e/IDEAM-INOX-Ordine-dacquisto_260033_20260401_184716-RIF.MeM.pdf?rlkey=h1bvmu233wa6b1g6rcvvmrv3f&dl=0?raw=1",
                   "dimensione_kb": 71,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX Ordine dacquisto_260033_20260401_184716 RIF.MeM.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX RIF. NERA CONFERMA ORDINE1ID202600014048_N0001536.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/w5yhz0x5fzuw6588hot55/IDEAM-INOX-RIF.-NERA-CONFERMA-ORDINE1ID202600014048_N0001536.pdf?rlkey=iymupukj6mm3esjyyrly3za9p&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX RIF. NERA CONFERMA ORDINE1ID202600014048_N0001536.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX RIF. VELARDI COFERMA ORDINE 1ID202600014322_N0001563.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9w21nj1e62kswzxyjdr57/IDEAM-INOX-RIF.-VELARDI-COFERMA-ORDINE-1ID202600014322_N0001563.pdf?rlkey=bk5akkqyindrek8yeu6ih7k8x&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX RIF. VELARDI COFERMA ORDINE 1ID202600014322_N0001563.pdf"
                 },
                 {
                   "nome": "IFI CONFERMA ORDINE 26000883 RIF.TERMINAL_CENTRALINA_MURALE.pdf",
@@ -182769,7 +182849,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 68
+              "_totale_file": 71
             },
             {
               "nome": "ARCHIVIO",
@@ -212537,7 +212617,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3506
+          "_totale_file": 3509
         }
       ],
       "file": []
