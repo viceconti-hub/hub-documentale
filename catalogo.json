@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-04T02:11:08Z",
-  "totale_file": 24194,
+  "generato": "2026-04-04T04:51:11Z",
+  "totale_file": 24195,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5575,
+      "totale_file": 5576,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -26,6 +26,14 @@
                   "link": "https://www.dropbox.com/scl/fi/urv201u7npv3tqt63t574/AGUA-LOCA-Consegna_260142_20260323_132349.pdf?rlkey=1h4toih8gtphil790zu3lkz4y&dl=0?raw=1",
                   "dimensione_kb": 58,
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/AGUA LOCA Consegna_260142_20260323_132349.pdf"
+                },
+                {
+                  "nome": "AGUA LOCA Consegna_260158_20260403_173435.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9xdo4d6aqvj05b46ciwnx/AGUA-LOCA-Consegna_260158_20260403_173435.pdf?rlkey=vlwtyblomo4lnp8r5sjsw9yqf&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/AGUA LOCA Consegna_260158_20260403_173435.pdf"
                 },
                 {
                   "nome": "AM DI ANTONELLA MANCINO Consegna_260075_20260306_090216.pdf",
@@ -108,11 +116,11 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/PANAINO SRL Consegna_260068_20260226_102358.pdf"
                 }
               ],
-              "_totale_file": 11
+              "_totale_file": 12
             }
           ],
           "file": [],
-          "_totale_file": 11
+          "_totale_file": 12
         },
         {
           "nome": "FATTURE DI VENDITA",
@@ -37943,7 +37951,7 @@
                   "nome": "esamch Offerta di vendita_230670_20230914_160024.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/p1sbxmcyhijclsabmeza2/esamch-Offerta-di-vendita_230670_20230914_160024.pdf?rlkey=h2vrk9cd8qhzzm091ie5pqz8n&dl=0?raw=1",
                   "dimensione_kb": 83,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/FA' TU IMPASTATRICE ALTA IDRATAZIONE/esamch Offerta di vendita_230670_20230914_160024.pdf"
                 },
@@ -39942,7 +39950,7 @@
                       "nome": "Offerta di vendita_230702_20230925_113837.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/vk5xpob52aphcukeqtdgz/Offerta-di-vendita_230702_20230925_113837.pdf?rlkey=aon8tqgokfzkyb0xigsf4come&dl=0?raw=1",
                       "dimensione_kb": 71,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GRAN SOLE OFFERTE/GRAN SOLE SGABELLI/Offerta di vendita_230702_20230925_113837.pdf"
                     },
