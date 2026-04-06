@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-06T00:14:20Z",
-  "totale_file": 24318,
+  "generato": "2026-04-06T02:13:04Z",
+  "totale_file": 24317,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -131982,7 +131982,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4339,
+      "totale_file": 4338,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -137786,24 +137786,7 @@
         {
           "nome": "CASELLA FALEGNAMERIA",
           "path": "/HUB DOCUMENTALE/FORNITORI/CASELLA FALEGNAMERIA",
-          "cartelle": [
-            {
-              "nome": "CASELLA FATTURE",
-              "path": "/HUB DOCUMENTALE/FORNITORI/CASELLA FALEGNAMERIA/CASELLA FATTURE",
-              "cartelle": [],
-              "file": [
-                {
-                  "nome": "Fattura-6_2023-VICECONTI---SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/7xlvudxqe37d5e4co77ju/Fattura-6_2023-VICECONTI-SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf?rlkey=dexso1kznnmwcfatk4jrquaen&dl=0?raw=1",
-                  "dimensione_kb": 74,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/CASELLA FALEGNAMERIA/CASELLA FATTURE/Fattura-6_2023-VICECONTI---SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf"
-                }
-              ],
-              "_totale_file": 1
-            }
-          ],
+          "cartelle": [],
           "file": [
             {
               "nome": "CASELLA GIUSEPPE ORDINI D'ACQUISTO - collegamento.lnk",
@@ -137822,7 +137805,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/CASELLA FALEGNAMERIA/CASELLA GIUSEPPE e PERRONE PAGAMENTI - collegamento.lnk"
             }
           ],
-          "_totale_file": 3
+          "_totale_file": 2
         },
         {
           "nome": "CASTA",
