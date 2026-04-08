@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T11:21:30Z",
-  "totale_file": 24342,
+  "generato": "2026-04-08T11:51:36Z",
+  "totale_file": 24343,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61753,7 +61753,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 55,
+      "totale_file": 56,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -62137,6 +62137,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Friggitrice elettrica da banco mod. FR8N Fimar,1 vasca 8 litri, 50÷180°C, 26,5x42,6x35,9h cm.pdf"
             },
             {
+              "nome": "Induzione doppia Kitchen Line  HENDI  Kitchen Line  230V 3500W  608x405x H 54mm   Hendi.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4e7t621vaar2rn4vajgjt/Induzione-doppia-Kitchen-Line-HENDI-Kitchen-Line-230V-3500W-608x405x-H-54mm-Hendi.pdf?rlkey=2kveygehqlpqv44bjnzr21anv&dl=0?raw=1",
+              "dimensione_kb": 317,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Induzione doppia Kitchen Line  HENDI  Kitchen Line  230V 3500W  608x405x H 54mm   Hendi.pdf"
+            },
+            {
               "nome": "PASSION SUSHI DATI ANAGRAFICI (1).jpeg",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -62209,7 +62217,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/W5UG-P.pdf"
             }
           ],
-          "_totale_file": 16
+          "_totale_file": 17
         }
       ],
       "file": [
