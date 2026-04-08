@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T04:59:27Z",
-  "totale_file": 24329,
+  "generato": "2026-04-08T06:52:22Z",
+  "totale_file": 24330,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -173993,7 +173993,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4661,
+      "totale_file": 4662,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -175645,6 +175645,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ELETTRO 2D s.r.l_16082025_2025-11-19.xml"
                 },
                 {
+                  "nome": "ENEL Fattura_0000005406121574.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ct8q58likploxd8oxntcq/ENEL-Fattura_0000005406121574.pdf?rlkey=gklhd64yhuyk2z8iohcwgrzej&dl=0?raw=1",
+                  "dimensione_kb": 442,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ENEL Fattura_0000005406121574.pdf"
+                },
+                {
                   "nome": "EURODOMUS SRL_548_2026-02-21.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -175891,6 +175899,14 @@
                   "link": "https://www.dropbox.com/scl/fi/jxi6911czpdafk961u3t9/FRIGOMAT-SRL_V2000237_2025-11-28.xml?rlkey=k9enby1u28lt2xv5vqw0p6sr4&dl=0?raw=1",
                   "dimensione_kb": 6,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/FRIGOMAT SRL_V2000237_2025-11-28.xml"
+                },
+                {
+                  "nome": "Fattura_0000005424517352.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ksrm87g79v76609y8qm1a/Fattura_0000005424517352.pdf?rlkey=ilc1pw4s5j4le46qolb3yzsrd&dl=0?raw=1",
+                  "dimensione_kb": 488,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Fattura_0000005424517352.pdf"
                 },
                 {
                   "nome": "Fimel Soc.Coop. S.n.c._136_2026_2026-03-25.xml",
@@ -178237,7 +178253,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/fatture-xml 31_03_2026 03_04_2026.zip"
                 }
               ],
-              "_totale_file": 408
+              "_totale_file": 410
             },
             {
               "nome": "REGISTRATE",
@@ -183252,7 +183268,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/Report_Finale_Automazione_Fatture_29-03-2026.docx"
             }
           ],
-          "_totale_file": 1112
+          "_totale_file": 1114
         },
         {
           "nome": "OFFERTE DI ACQUISTO",
@@ -183584,68 +183600,12 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEA CONFERMA_NR0000000110_2025 DEL 23_10_2025.pdf"
                 },
                 {
-                  "nome": "IDEAM INOX CLI-PREVEN-0001559-00-03032026 RIF. FA TU.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/59h7cftez9ex9hy90lnjs/IDEAM-INOX-CLI-PREVEN-0001559-00-03032026-RIF.-FA-TU.pdf?rlkey=2oi9z6tt64zqf57ce54ww7nav&dl=0?raw=1",
-                  "dimensione_kb": 69,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CLI-PREVEN-0001559-00-03032026 RIF. FA TU.pdf"
-                },
-                {
-                  "nome": "IDEAM INOX CLI-PREVEN-0001968-00-16032026 RIF.MARATEA SERVIZI_CENTRALINA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/qtmbweoxq8rm40agsge8j/IDEAM-INOX-CLI-PREVEN-0001968-00-16032026-RIF.MARATEA-SERVIZI_CENTRALINA.pdf?rlkey=8phq9er5igra1lej0mcq2sc5t&dl=0?raw=1",
-                  "dimensione_kb": 68,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CLI-PREVEN-0001968-00-16032026 RIF.MARATEA SERVIZI_CENTRALINA.pdf"
-                },
-                {
-                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0001880-00-12032026 RIF.VELARDI.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/b4wp1ayfrrlcm7eumwjnj/IDEAM-INOX-CONFERMA-CLI-PREVEN-0001880-00-12032026-RIF.VELARDI.pdf?rlkey=3zr68rzridepdwlwe471dis4h&dl=0?raw=1",
-                  "dimensione_kb": 68,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0001880-00-12032026 RIF.VELARDI.pdf"
-                },
-                {
-                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002404-00-01042026 RIF.NERA SRL.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/cclryhorgncubdxthf1dv/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002404-00-01042026-RIF.NERA-SRL.pdf?rlkey=y4ypg0tfid1qq6hq6s5e44caq&dl=0?raw=1",
-                  "dimensione_kb": 83,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002404-00-01042026 RIF.NERA SRL.pdf"
-                },
-                {
                   "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/oexpf2fqcez2gojvya3m9/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002405-00-01042026-RIF.-FA-TU.pdf?rlkey=yzxeompp16rtfag1wd6g25z1h&dl=0?raw=1",
                   "dimensione_kb": 83,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf"
-                },
-                {
-                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0008236-00-05122025 RIF.MARATEA SERVIZI.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/s08qoljmzzy3pwrro50ql/IDEAM-INOX-CONFERMA-CLI-PREVEN-0008236-00-05122025-RIF.MARATEA-SERVIZI.pdf?rlkey=0geg42r9ah8g7gx044yut2upc&dl=0?raw=1",
-                  "dimensione_kb": 118,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0008236-00-05122025 RIF.MARATEA SERVIZI.pdf"
-                },
-                {
-                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600008965_N0000989 RIF.FA TU.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/p2e1h6ykmovt0wt0jq73e/IDEAM-INOX-CONFERMA-ORDINE-1ID202600008965_N0000989-RIF.FA-TU.pdf?rlkey=2ge80tvizaomnm23zofedd53g&dl=0?raw=1",
-                  "dimensione_kb": 56,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600008965_N0000989 RIF.FA TU.pdf"
-                },
-                {
-                  "nome": "IDEAM INOX Ordine dacquisto_260022_20260319_173611 RIF.ACAL_LAVELLO.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/kxd12f79y5fsmm1ckpxxx/IDEAM-INOX-Ordine-dacquisto_260022_20260319_173611-RIF.ACAL_LAVELLO.pdf?rlkey=am56lpjgam35010rrn2u4wbkk&dl=0?raw=1",
-                  "dimensione_kb": 70,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX Ordine dacquisto_260022_20260319_173611 RIF.ACAL_LAVELLO.pdf"
                 },
                 {
                   "nome": "IDEAM INOX Ordine dacquisto_260033_20260401_184716 RIF.MeM.pdf",
@@ -183904,7 +183864,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP DISEGNO Plenium Viceconti.pdf"
                 }
               ],
-              "_totale_file": 73
+              "_totale_file": 66
             },
             {
               "nome": "ARCHIVIO",
@@ -213671,8 +213631,57 @@
               "_totale_file": 3438
             }
           ],
-          "file": [],
-          "_totale_file": 3511
+          "file": [
+            {
+              "nome": "IDEAM INOX CLI-PREVEN-0001559-00-03032026 RIF. FA TU.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/59h7cftez9ex9hy90lnjs/IDEAM-INOX-CLI-PREVEN-0001559-00-03032026-RIF.-FA-TU.pdf?rlkey=2oi9z6tt64zqf57ce54ww7nav&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CLI-PREVEN-0001559-00-03032026 RIF. FA TU.pdf"
+            },
+            {
+              "nome": "IDEAM INOX CLI-PREVEN-0001968-00-16032026 RIF.MARATEA SERVIZI_CENTRALINA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qtmbweoxq8rm40agsge8j/IDEAM-INOX-CLI-PREVEN-0001968-00-16032026-RIF.MARATEA-SERVIZI_CENTRALINA.pdf?rlkey=8phq9er5igra1lej0mcq2sc5t&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CLI-PREVEN-0001968-00-16032026 RIF.MARATEA SERVIZI_CENTRALINA.pdf"
+            },
+            {
+              "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0001880-00-12032026 RIF.VELARDI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b4wp1ayfrrlcm7eumwjnj/IDEAM-INOX-CONFERMA-CLI-PREVEN-0001880-00-12032026-RIF.VELARDI.pdf?rlkey=3zr68rzridepdwlwe471dis4h&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA CLI-PREVEN-0001880-00-12032026 RIF.VELARDI.pdf"
+            },
+            {
+              "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002404-00-01042026 RIF.NERA SRL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cclryhorgncubdxthf1dv/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002404-00-01042026-RIF.NERA-SRL.pdf?rlkey=y4ypg0tfid1qq6hq6s5e44caq&dl=0?raw=1",
+              "dimensione_kb": 83,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA CLI-PREVEN-0002404-00-01042026 RIF.NERA SRL.pdf"
+            },
+            {
+              "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0008236-00-05122025 RIF.MARATEA SERVIZI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s08qoljmzzy3pwrro50ql/IDEAM-INOX-CONFERMA-CLI-PREVEN-0008236-00-05122025-RIF.MARATEA-SERVIZI.pdf?rlkey=0geg42r9ah8g7gx044yut2upc&dl=0?raw=1",
+              "dimensione_kb": 118,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA CLI-PREVEN-0008236-00-05122025 RIF.MARATEA SERVIZI.pdf"
+            },
+            {
+              "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600008965_N0000989 RIF.FA TU.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/p2e1h6ykmovt0wt0jq73e/IDEAM-INOX-CONFERMA-ORDINE-1ID202600008965_N0000989-RIF.FA-TU.pdf?rlkey=2ge80tvizaomnm23zofedd53g&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600008965_N0000989 RIF.FA TU.pdf"
+            }
+          ],
+          "_totale_file": 3510
         }
       ],
       "file": []
