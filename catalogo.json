@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T11:56:44Z",
-  "totale_file": 24345,
+  "generato": "2026-04-08T12:01:40Z",
+  "totale_file": 24343,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61753,7 +61753,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 58,
+      "totale_file": 56,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -62081,12 +62081,52 @@
           "cartelle": [],
           "file": [
             {
-              "nome": "005.BRIEFING Progetto Sushi Sapri 28 03 2026.docx",
+              "nome": "005.PASSION SUSHI DATI ANAGRAFICI (1).jpeg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/440ftr6xlyteavryswj4y/005.PASSION-SUSHI-DATI-ANAGRAFICI-1.jpeg?rlkey=dtfw1kutwixlo2qiz8ms8jae1&dl=0?raw=1",
+              "dimensione_kb": 152,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/005.PASSION SUSHI DATI ANAGRAFICI (1).jpeg"
+            },
+            {
+              "nome": "006.PASSION SUSHI esecutivo_ristorante.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zo5aw9ci9pamdhrz7cgoq/006.PASSION-SUSHI-esecutivo_ristorante.pdf?rlkey=wme60yakcd698y0m2jhlo6pce&dl=0?raw=1",
+              "dimensione_kb": 118,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/006.PASSION SUSHI esecutivo_ristorante.pdf"
+            },
+            {
+              "nome": "007.PASSION SUSHI GRAFICI.dwg",
+              "tipo": "CAD",
+              "icona": "📐",
+              "link": "https://www.dropbox.com/scl/fi/jprsdgfzkv2ohsc882mt1/007.PASSION-SUSHI-GRAFICI.dwg?rlkey=sz4jgsf1zlwsi05q42e1tvfio&dl=0?raw=1",
+              "dimensione_kb": 3614,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/007.PASSION SUSHI GRAFICI.dwg"
+            },
+            {
+              "nome": "010.BRIEFING Progetto Sushi Sapri 28 03 2026.docx",
               "tipo": "Word",
               "icona": "📝",
-              "link": "https://www.dropbox.com/scl/fi/4g7zpta21uh6dlkwjb501/005.BRIEFING-Progetto-Sushi-Sapri-28-03-2026.docx?rlkey=89i0zt68bwu4lfxl8o3aennoz&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/4g7zpta21uh6dlkwjb501/010.BRIEFING-Progetto-Sushi-Sapri-28-03-2026.docx?rlkey=89i0zt68bwu4lfxl8o3aennoz&dl=0?raw=1",
               "dimensione_kb": 10,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/005.BRIEFING Progetto Sushi Sapri 28 03 2026.docx"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/010.BRIEFING Progetto Sushi Sapri 28 03 2026.docx"
+            },
+            {
+              "nome": "025.SAPRI SUSHI_sol DEFINITIVA ARREDATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rvnhvwhrm09vg58c5h68y/025.SAPRI-SUSHI_sol-DEFINITIVA-ARREDATA.pdf?rlkey=dicpclqa1j7xdllpt2llibe1k&dl=0?raw=1",
+              "dimensione_kb": 201,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/025.SAPRI SUSHI_sol DEFINITIVA ARREDATA.pdf"
+            },
+            {
+              "nome": "026.PASSION SUSHI RITAGLIO CUCINA.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/t0u8s0qyzx04n7ps3kalc/026.PASSION-SUSHI-RITAGLIO-CUCINA.png?rlkey=ao839pmx1u0pyom7eg4cb6cev&dl=0?raw=1",
+              "dimensione_kb": 222,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/026.PASSION SUSHI RITAGLIO CUCINA.png"
             },
             {
               "nome": "ARMADIO COLDLINE MASTER FISH A70-1P.pdf",
@@ -62153,68 +62193,12 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/LAVAMANI SCHEDA TECNICA.pdf"
             },
             {
-              "nome": "PASSION SUSHI DATI ANAGRAFICI (1).jpeg",
-              "tipo": "Immagine",
-              "icona": "🖼️",
-              "link": "https://www.dropbox.com/scl/fi/440ftr6xlyteavryswj4y/PASSION-SUSHI-DATI-ANAGRAFICI-1.jpeg?rlkey=dtfw1kutwixlo2qiz8ms8jae1&dl=0?raw=1",
-              "dimensione_kb": 152,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/PASSION SUSHI DATI ANAGRAFICI (1).jpeg"
-            },
-            {
-              "nome": "PASSION SUSHI DATI ANAGRAFICI.jpeg",
-              "tipo": "Immagine",
-              "icona": "🖼️",
-              "link": null,
-              "dimensione_kb": 0,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/PASSION SUSHI DATI ANAGRAFICI.jpeg"
-            },
-            {
-              "nome": "PASSION SUSHI GRAFICI.dwg",
-              "tipo": "CAD",
-              "icona": "📐",
-              "link": "https://www.dropbox.com/scl/fi/jprsdgfzkv2ohsc882mt1/PASSION-SUSHI-GRAFICI.dwg?rlkey=sz4jgsf1zlwsi05q42e1tvfio&dl=0?raw=1",
-              "dimensione_kb": 3614,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/PASSION SUSHI GRAFICI.dwg"
-            },
-            {
-              "nome": "PASSION SUSHI RITAGLIO CUCINA.png",
-              "tipo": "Immagine",
-              "icona": "🖼️",
-              "link": "https://www.dropbox.com/scl/fi/t0u8s0qyzx04n7ps3kalc/PASSION-SUSHI-RITAGLIO-CUCINA.png?rlkey=ao839pmx1u0pyom7eg4cb6cev&dl=0?raw=1",
-              "dimensione_kb": 222,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/PASSION SUSHI RITAGLIO CUCINA.png"
-            },
-            {
-              "nome": "PASSION SUSHI esecutivo_ristorante.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/zo5aw9ci9pamdhrz7cgoq/PASSION-SUSHI-esecutivo_ristorante.pdf?rlkey=wme60yakcd698y0m2jhlo6pce&dl=0?raw=1",
-              "dimensione_kb": 118,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/PASSION SUSHI esecutivo_ristorante.pdf"
-            },
-            {
               "nome": "Piastra a induzione mod. 3500 D Hendi Food, struttura in acciaio inox, touch screen digitale, temperatura e timer.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/2t7fla98e5h76bawzw1n5/Piastra-a-induzione-mod.-3500-D-Hendi-Food-struttura-in-acciaio-inox-touch-screen-digitale-temperatura-e-timer.pdf?rlkey=yt5785aiv58plnlfrdrwbzft9&dl=0?raw=1",
               "dimensione_kb": 196,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Piastra a induzione mod. 3500 D Hendi Food, struttura in acciaio inox, touch screen digitale, temperatura e timer.pdf"
-            },
-            {
-              "nome": "SAPRI SUSHI_sol DEFINITIVA ARREDATA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/rvnhvwhrm09vg58c5h68y/SAPRI-SUSHI_sol-DEFINITIVA-ARREDATA.pdf?rlkey=dicpclqa1j7xdllpt2llibe1k&dl=0?raw=1",
-              "dimensione_kb": 201,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/SAPRI SUSHI_sol DEFINITIVA ARREDATA.pdf"
-            },
-            {
-              "nome": "Tavolo refrigerato ventilato gastronomia 4 porte GN 1_1 con alzatina, -18°_-22°C, mod. G-GN4200BT, 223x70x86_96h cm.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/r4mhopuejzw2yoj6ac9v0/Tavolo-refrigerato-ventilato-gastronomia-4-porte-GN-1_1-con-alzatina-18-_-22-C-mod.-G-GN4200BT-223x70x86_96h-cm.pdf?rlkey=jmwqqn7eaz23m3asxukbs9qzv&dl=0?raw=1",
-              "dimensione_kb": 203,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Tavolo refrigerato ventilato gastronomia 4 porte GN 1_1 con alzatina, -18°_-22°C, mod. G-GN4200BT, 223x70x86_96h cm.pdf"
             },
             {
               "nome": "Tavolo refrigerato ventilato gastronomia 4 porte GN 1_1 con alzatina, -2°_+8°C, mod. G-GN4200TN, 223x70x86_96h cm.pdf",
@@ -62233,7 +62217,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/W5UG-P.pdf"
             }
           ],
-          "_totale_file": 19
+          "_totale_file": 17
         }
       ],
       "file": [
