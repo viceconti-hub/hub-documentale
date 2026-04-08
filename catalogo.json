@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T11:51:36Z",
-  "totale_file": 24343,
+  "generato": "2026-04-08T11:56:44Z",
+  "totale_file": 24345,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61753,7 +61753,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 56,
+      "totale_file": 58,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -62081,6 +62081,14 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "005.BRIEFING Progetto Sushi Sapri 28 03 2026.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/4g7zpta21uh6dlkwjb501/005.BRIEFING-Progetto-Sushi-Sapri-28-03-2026.docx?rlkey=89i0zt68bwu4lfxl8o3aennoz&dl=0?raw=1",
+              "dimensione_kb": 10,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/005.BRIEFING Progetto Sushi Sapri 28 03 2026.docx"
+            },
+            {
               "nome": "ARMADIO COLDLINE MASTER FISH A70-1P.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62095,14 +62103,6 @@
               "link": "https://www.dropbox.com/scl/fi/g6lbh0gjg871hvmrmyend/Acciaio-T-D-LAVATOIO-1-VASCA-E-GOCCIOLATOIO-PROF.700-SCHEDA-TECNICA.pdf?rlkey=qji9ntrq8wtjfnziewnmmbsdj&dl=0?raw=1",
               "dimensione_kb": 138,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Acciaio T&D LAVATOIO 1 VASCA E GOCCIOLATOIO PROF.700 SCHEDA TECNICA.pdf"
-            },
-            {
-              "nome": "BRIEFING Progetto Sushi Sapri 28 03 2026.docx",
-              "tipo": "Word",
-              "icona": "📝",
-              "link": "https://www.dropbox.com/scl/fi/4g7zpta21uh6dlkwjb501/BRIEFING-Progetto-Sushi-Sapri-28-03-2026.docx?rlkey=89i0zt68bwu4lfxl8o3aennoz&dl=0?raw=1",
-              "dimensione_kb": 10,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/BRIEFING Progetto Sushi Sapri 28 03 2026.docx"
             },
             {
               "nome": "COLDLINE SCHEDA ARMADIO SMART 700 -2+8.pdf",
@@ -62145,6 +62145,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Induzione doppia Kitchen Line  HENDI  Kitchen Line  230V 3500W  608x405x H 54mm   Hendi.pdf"
             },
             {
+              "nome": "LAVAMANI SCHEDA TECNICA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/11rpx3399oocrdehbjv3m/LAVAMANI-SCHEDA-TECNICA.pdf?rlkey=0jm8smkzmnyxytxpf5k66unn8&dl=0?raw=1",
+              "dimensione_kb": 31,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/LAVAMANI SCHEDA TECNICA.pdf"
+            },
+            {
               "nome": "PASSION SUSHI DATI ANAGRAFICI (1).jpeg",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -62156,7 +62164,7 @@
               "nome": "PASSION SUSHI DATI ANAGRAFICI.jpeg",
               "tipo": "Immagine",
               "icona": "🖼️",
-              "link": "https://www.dropbox.com/scl/fi/76kujztb9yx0dgse7etmz/PASSION-SUSHI-DATI-ANAGRAFICI.jpeg?rlkey=vd12nzht9fv399fckpvetxgym&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 0,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/PASSION SUSHI DATI ANAGRAFICI.jpeg"
             },
@@ -62209,6 +62217,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Tavolo refrigerato ventilato gastronomia 4 porte GN 1_1 con alzatina, -18°_-22°C, mod. G-GN4200BT, 223x70x86_96h cm.pdf"
             },
             {
+              "nome": "Tavolo refrigerato ventilato gastronomia 4 porte GN 1_1 con alzatina, -2°_+8°C, mod. G-GN4200TN, 223x70x86_96h cm.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5qgpm77amvfqaebp5ez9r/Tavolo-refrigerato-ventilato-gastronomia-4-porte-GN-1_1-con-alzatina-2-_-8-C-mod.-G-GN4200TN-223x70x86_96h-cm.pdf?rlkey=hulidgq7lfykr6fgesjv65fpw&dl=0?raw=1",
+              "dimensione_kb": 218,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Tavolo refrigerato ventilato gastronomia 4 porte GN 1_1 con alzatina, -2°_+8°C, mod. G-GN4200TN, 223x70x86_96h cm.pdf"
+            },
+            {
               "nome": "W5UG-P.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62217,7 +62233,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/W5UG-P.pdf"
             }
           ],
-          "_totale_file": 17
+          "_totale_file": 19
         }
       ],
       "file": [
