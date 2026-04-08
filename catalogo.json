@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T06:52:22Z",
-  "totale_file": 24330,
+  "generato": "2026-04-08T07:54:23Z",
+  "totale_file": 24331,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -213690,7 +213690,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2309,
+      "totale_file": 2310,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -233695,6 +233695,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/COLDLINE Dettaglio bonifico istantaneo DEL 9_10_2025.pdf"
                 },
                 {
+                  "nome": "COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/jjbrxaqeenmauyhmsarrs/COLDLINE-RICEVUTA-AR-DEL-04_03_2026.jpeg?rlkey=7a7ik626ztlys4337blfgztxr&dl=0?raw=1",
+                  "dimensione_kb": 286,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg"
+                },
+                {
                   "nome": "COLDLINE SCHEDA CONTABILE 01_01_2025 AL 1_12_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -233789,6 +233797,14 @@
                   "link": "https://www.dropbox.com/scl/fi/9h7kym9wpao96yrnwr67i/ECOSAN-Dettaglio-bonifico-istantaneo-DEL-16_12_2025.pdf?rlkey=uofgsx7dfm7wzztoelqqjpbag&dl=0?raw=1",
                   "dimensione_kb": 109,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ECOSAN Dettaglio bonifico istantaneo DEL 16_12_2025.pdf"
+                },
+                {
+                  "nome": "ENEL Dettaglio bonifico istantaneo DEL 07_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kwhyl60i1yl3c5s1dqf92/ENEL-Dettaglio-bonifico-istantaneo-DEL-07_04_2026.pdf?rlkey=8qr7y6s8pkq5qijz4wroxpyn6&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ENEL Dettaglio bonifico istantaneo DEL 07_04_2026.pdf"
                 },
                 {
                   "nome": "ENERGETIC GAS Dettaglio bonifico DEL 17_02_2026.pdf",
@@ -234503,20 +234519,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ZMATIK Dettaglio bonifico istantaneo DEL 22_09_2025.pdf"
                 }
               ],
-              "_totale_file": 2245
+              "_totale_file": 2247
             }
           ],
-          "file": [
-            {
-              "nome": "COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg",
-              "tipo": "Immagine",
-              "icona": "🖼️",
-              "link": "https://www.dropbox.com/scl/fi/jjbrxaqeenmauyhmsarrs/COLDLINE-RICEVUTA-AR-DEL-04_03_2026.jpeg?rlkey=7a7ik626ztlys4337blfgztxr&dl=0?raw=1",
-              "dimensione_kb": 286,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg"
-            }
-          ],
-          "_totale_file": 2291
+          "file": [],
+          "_totale_file": 2292
         }
       ],
       "file": []
