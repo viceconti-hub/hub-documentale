@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T07:54:23Z",
-  "totale_file": 24331,
+  "generato": "2026-04-08T08:05:05Z",
+  "totale_file": 24329,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -58628,7 +58628,7 @@
       "nome": "CREDITI E DEBITI",
       "descrizione": "Crediti e debiti aperti e archiviati",
       "icona": "📋",
-      "totale_file": 334,
+      "totale_file": 332,
       "cartelle": [
         {
           "nome": "CREDITI",
@@ -61331,34 +61331,26 @@
         {
           "nome": "DEBITI",
           "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/DEBITI",
-          "cartelle": [],
-          "file": [
+          "cartelle": [
             {
-              "nome": "Fattura_0000005300347832.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/v3g9t5gq6ucm81eq29me2/Fattura_0000005300347832.pdf?rlkey=4rcavxdv1pnd58pqcnpapguno&dl=0?raw=1",
-              "dimensione_kb": 388,
-              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/DEBITI/Fattura_0000005300347832.pdf"
-            },
-            {
-              "nome": "VICECONTI ENEL FORNITURA CESSATA.png",
-              "tipo": "Immagine",
-              "icona": "🖼️",
-              "link": "https://www.dropbox.com/scl/fi/dcer4juz564pxr37qwzfh/VICECONTI-ENEL-FORNITURA-CESSATA.png?rlkey=x6ntzt6tk6igdd4jolo3peip1&dl=0?raw=1",
-              "dimensione_kb": 109,
-              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/DEBITI/VICECONTI ENEL FORNITURA CESSATA.png"
-            },
-            {
-              "nome": "VICECONTIG-VICECONTIG_[Raccomandata_26020216200876].tn.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mkh3mz3y5txydbgqqe364/VICECONTIG-VICECONTIG_-Raccomandata_26020216200876-.tn.pdf?rlkey=o1mzo9kznbask6iq0e6kr37qf&dl=0?raw=1",
-              "dimensione_kb": 197,
-              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/DEBITI/VICECONTIG-VICECONTIG_[Raccomandata_26020216200876].tn.pdf"
+              "nome": "ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/DEBITI/ARCHIVIO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "VICECONTIG-VICECONTIG_[Raccomandata_26020216200876].tn.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mkh3mz3y5txydbgqqe364/VICECONTIG-VICECONTIG_-Raccomandata_26020216200876-.tn.pdf?rlkey=o1mzo9kznbask6iq0e6kr37qf&dl=0?raw=1",
+                  "dimensione_kb": 197,
+                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/DEBITI/ARCHIVIO/VICECONTIG-VICECONTIG_[Raccomandata_26020216200876].tn.pdf"
+                }
+              ],
+              "_totale_file": 1
             }
           ],
-          "_totale_file": 3
+          "file": [],
+          "_totale_file": 1
         }
       ],
       "file": []
