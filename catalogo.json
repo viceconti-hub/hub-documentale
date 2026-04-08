@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T15:51:41Z",
-  "totale_file": 24344,
+  "generato": "2026-04-08T15:56:46Z",
+  "totale_file": 24345,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61753,7 +61753,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 57,
+      "totale_file": 58,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -62078,7 +62078,48 @@
         {
           "nome": "PASSION SUSHI",
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI",
-          "cartelle": [],
+          "cartelle": [
+            {
+              "nome": ".claude",
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/.claude",
+              "cartelle": [
+                {
+                  "nome": "skills",
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/.claude/skills",
+                  "cartelle": [
+                    {
+                      "nome": "branding",
+                      "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/.claude/skills/branding",
+                      "cartelle": [
+                        {
+                          "nome": "assets",
+                          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/.claude/skills/branding/assets",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "logo-viceconti-esteso-color.png",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/cg45fjkr6c7m1tnanuuoh/logo-viceconti-esteso-color.png?rlkey=0c7prrlv062t17q4jhg9lh9zq&dl=0?raw=1",
+                              "dimensione_kb": 49,
+                              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/.claude/skills/branding/assets/logo-viceconti-esteso-color.png"
+                            }
+                          ],
+                          "_totale_file": 1
+                        }
+                      ],
+                      "file": [],
+                      "_totale_file": 1
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 1
+                }
+              ],
+              "file": [],
+              "_totale_file": 1
+            }
+          ],
           "file": [
             {
               "nome": "005.PASSION SUSHI DATI ANAGRAFICI (1).jpeg",
@@ -62225,7 +62266,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/W5UG-P.pdf"
             }
           ],
-          "_totale_file": 18
+          "_totale_file": 19
         }
       ],
       "file": [
