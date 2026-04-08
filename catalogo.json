@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T12:06:36Z",
-  "totale_file": 24343,
+  "generato": "2026-04-08T15:51:41Z",
+  "totale_file": 24344,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61753,7 +61753,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 56,
+      "totale_file": 57,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -62161,6 +62161,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/CUOCIPASTA MODULAR F65-40CPE-1V20-T.pdf"
             },
             {
+              "nome": "Elenco Attrezzature Passion Sushi.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/aek5lk65hfbojc12sdkyh/Elenco-Attrezzature-Passion-Sushi.docx?rlkey=q75yocyjecgkuwh1ssyl4yk6d&dl=0?raw=1",
+              "dimensione_kb": 12,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Elenco Attrezzature Passion Sushi.docx"
+            },
+            {
               "nome": "F60-60FTE-SLR-T.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62217,7 +62225,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/W5UG-P.pdf"
             }
           ],
-          "_totale_file": 17
+          "_totale_file": 18
         }
       ],
       "file": [
