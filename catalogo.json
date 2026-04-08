@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T10:31:30Z",
-  "totale_file": 24341,
+  "generato": "2026-04-08T11:16:32Z",
+  "totale_file": 24342,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61753,7 +61753,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 54,
+      "totale_file": 55,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -62161,6 +62161,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/PASSION SUSHI GRAFICI.dwg"
             },
             {
+              "nome": "PASSION SUSHI RITAGLIO CUCINA.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/t0u8s0qyzx04n7ps3kalc/PASSION-SUSHI-RITAGLIO-CUCINA.png?rlkey=ao839pmx1u0pyom7eg4cb6cev&dl=0?raw=1",
+              "dimensione_kb": 222,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/PASSION SUSHI RITAGLIO CUCINA.png"
+            },
+            {
               "nome": "PASSION SUSHI esecutivo_ristorante.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62201,7 +62209,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/W5UG-P.pdf"
             }
           ],
-          "_totale_file": 15
+          "_totale_file": 16
         }
       ],
       "file": [
