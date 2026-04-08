@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T10:18:04Z",
-  "totale_file": 24341,
+  "generato": "2026-04-08T10:26:43Z",
+  "totale_file": 24342,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61753,7 +61753,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 54,
+      "totale_file": 55,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -62177,6 +62177,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Piastra a induzione mod. 3500 D Hendi Food, struttura in acciaio inox, touch screen digitale, temperatura e timer.pdf"
             },
             {
+              "nome": "SAPRI SUSHI_sol DEFINITIVA ARREDATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rvnhvwhrm09vg58c5h68y/SAPRI-SUSHI_sol-DEFINITIVA-ARREDATA.pdf?rlkey=dicpclqa1j7xdllpt2llibe1k&dl=0?raw=1",
+              "dimensione_kb": 201,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/SAPRI SUSHI_sol DEFINITIVA ARREDATA.pdf"
+            },
+            {
               "nome": "Tavolo refrigerato ventilato gastronomia 4 porte GN 1_1 con alzatina, -18°_-22°C, mod. G-GN4200BT, 223x70x86_96h cm.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62193,7 +62201,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/W5UG-P.pdf"
             }
           ],
-          "_totale_file": 14
+          "_totale_file": 15
         }
       ],
       "file": [
