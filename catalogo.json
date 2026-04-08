@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T02:19:00Z",
-  "totale_file": 24325,
+  "generato": "2026-04-08T04:59:27Z",
+  "totale_file": 24329,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5576,
+      "totale_file": 5580,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -278,6 +278,38 @@
               "link": "https://www.dropbox.com/scl/fi/5g2lp99vzytj15x3fes5v/CAVALIERE-DI-NICOLA-GUERRESE-Fattura-di-vendita_2600059_20260323_174727.pdf?rlkey=xooy75s10dsae15zqqj9d8ke9&dl=0?raw=1",
               "dimensione_kb": 71,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/CAVALIERE DI NICOLA GUERRESE Fattura di vendita_2600059_20260323_174727.pdf"
+            },
+            {
+              "nome": "CENTAL MARKET Fattura di vendita_2600061_20260407_201137.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s31vztpjvir7rtx1ymlkh/CENTAL-MARKET-Fattura-di-vendita_2600061_20260407_201137.pdf?rlkey=dk5x06hvgld3z024ytsv8gtbu&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/CENTAL MARKET Fattura di vendita_2600061_20260407_201137.pdf"
+            },
+            {
+              "nome": "CENTAL MARKET Fattura di vendita_2600062_20260407_201238.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1g0dcpzgj7fbh993lj6k9/CENTAL-MARKET-Fattura-di-vendita_2600062_20260407_201238.pdf?rlkey=ars6isrz5j46t5f1qjh6upuir&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/CENTAL MARKET Fattura di vendita_2600062_20260407_201238.pdf"
+            },
+            {
+              "nome": "CENTRAL MARKET Fattura di vendita_2600062_20260407_201037.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wx2lr7enlqp3x7sgxes6s/CENTRAL-MARKET-Fattura-di-vendita_2600062_20260407_201037.pdf?rlkey=m640061u3qa9vozlegqjpiyfa&dl=0?raw=1",
+              "dimensione_kb": 82,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/CENTRAL MARKET Fattura di vendita_2600062_20260407_201037.pdf"
+            },
+            {
+              "nome": "CENTRO CARNI Fattura di vendita_2600060_20260407_183159.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7geytxe4ink3npof5bj2k/CENTRO-CARNI-Fattura-di-vendita_2600060_20260407_183159.pdf?rlkey=j0ki5kmulmej4l3nrgy4watwb&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/CENTRO CARNI Fattura di vendita_2600060_20260407_183159.pdf"
             },
             {
               "nome": "CHECK SRL Fattura di vendita_2500665_20250916_191615.pdf",
@@ -1024,7 +1056,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 112
+          "_totale_file": 116
         },
         {
           "nome": "OFFERTE DI VENDITA",
