@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-08T18:26:45Z",
-  "totale_file": 24346,
+  "generato": "2026-04-09T00:18:39Z",
+  "totale_file": 24353,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62332,7 +62332,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7020,
+      "totale_file": 7027,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -120387,58 +120387,114 @@
                 {
                   "nome": "HOTEL PISACANE AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA",
-                  "cartelle": [],
-                  "file": [
+                  "cartelle": [
                     {
-                      "nome": "3ea69862-549b-4308-9fa7-709e0e5e1882.jpg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/zqar4ore7srkcqrbceegm/3ea69862-549b-4308-9fa7-709e0e5e1882.jpg?rlkey=s584o2wn4hf5zr34kv0zo3wad&dl=0?raw=1",
-                      "dimensione_kb": 102,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/3ea69862-549b-4308-9fa7-709e0e5e1882.jpg"
-                    },
-                    {
-                      "nome": "ACFrOgC1shXJcqj7MqDDLC8_VcgTAr9nLoE-neVXvQC8IcQV_Q7PJf4P6BUsymHL-dDvQqtyBCwdiCEyXt4GzmgEljAM4S-mf5HTTRgVUSulK3maWB846eao7XWHLn8=.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/4wbe931jke3werxvlfg8x/ACFrOgC1shXJcqj7MqDDLC8_VcgTAr9nLoE-neVXvQC8IcQV_Q7PJf4P6BUsymHL-dDvQqtyBCwdiCEyXt4GzmgEljAM4S-mf5HTTRgVUSulK3maWB846eao7XWHLn8.pdf?rlkey=s8f3yktazlljj77i7dsdl13bj&dl=0?raw=1",
-                      "dimensione_kb": 153,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/ACFrOgC1shXJcqj7MqDDLC8_VcgTAr9nLoE-neVXvQC8IcQV_Q7PJf4P6BUsymHL-dDvQqtyBCwdiCEyXt4GzmgEljAM4S-mf5HTTRgVUSulK3maWB846eao7XWHLn8=.pdf"
-                    },
-                    {
-                      "nome": "HOTEL PISACANE Consegna_211489_20230825_121242.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/7u5utyebvt98zp475g8xy/HOTEL-PISACANE-Consegna_211489_20230825_121242.pdf?rlkey=sb0ge9602zk5d1meiydgqn06y&dl=0?raw=1",
-                      "dimensione_kb": 59,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/HOTEL PISACANE Consegna_211489_20230825_121242.pdf"
-                    },
-                    {
-                      "nome": "HOTEL PISACANE ORDINE RICAMBI CONSIGLIATI 08_04_2022.jpg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/nmhkz0ez0jhb5ee29c7jr/HOTEL-PISACANE-ORDINE-RICAMBI-CONSIGLIATI-08_04_2022.jpg?rlkey=houtzsbrva9baw5l2izfo68od&dl=0?raw=1",
-                      "dimensione_kb": 1860,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/HOTEL PISACANE ORDINE RICAMBI CONSIGLIATI 08_04_2022.jpg"
-                    },
-                    {
-                      "nome": "X20-112-PIANO-MANUTENZIONE-EN-02.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/nrr49dxgwuep91845dorg/X20-112-PIANO-MANUTENZIONE-EN-02.pdf?rlkey=v6arooo3msbbezvrxzswxs9u1&dl=0?raw=1",
-                      "dimensione_kb": 8162,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/X20-112-PIANO-MANUTENZIONE-EN-02.pdf"
-                    },
-                    {
-                      "nome": "f4bbffe9-aa24-4820-95b0-0ef3a7da3f71.jpg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/9cim2vtekxpkpknh30p0r/f4bbffe9-aa24-4820-95b0-0ef3a7da3f71.jpg?rlkey=n444gg4jxl690m8aye8oa2mlt&dl=0?raw=1",
-                      "dimensione_kb": 51,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/f4bbffe9-aa24-4820-95b0-0ef3a7da3f71.jpg"
+                      "nome": "MACCHINA CAFFE FAEMA X20 CP10 MILK PS",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "2023_08_25 Consegna_231135_20260408_101547.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/1ksgchcarkkjkvrkqror3/2023_08_25-Consegna_231135_20260408_101547.pdf?rlkey=hj60iydmn7pgoftfhlyh3gf3i&dl=0?raw=1",
+                          "dimensione_kb": 73,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/2023_08_25 Consegna_231135_20260408_101547.pdf"
+                        },
+                        {
+                          "nome": "2023_08_25 Consegna_231138_20260408_102306.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/ewa5wfjzfjbedgqolqu39/2023_08_25-Consegna_231138_20260408_102306.pdf?rlkey=2zt5pn78x75oabo4raxl9nicc&dl=0?raw=1",
+                          "dimensione_kb": 73,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/2023_08_25 Consegna_231138_20260408_102306.pdf"
+                        },
+                        {
+                          "nome": "2024_09_25 Consegna_241436_20260408_102612.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/z39jw8gktf7ne63cjgs3u/2024_09_25-Consegna_241436_20260408_102612.pdf?rlkey=n64rcmv7zd1zt7q80ky8pu9y2&dl=0?raw=1",
+                          "dimensione_kb": 76,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/2024_09_25 Consegna_241436_20260408_102612.pdf"
+                        },
+                        {
+                          "nome": "2025_03_14 Consegna_250183_20260408_102659.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/dpc7bvwlqul02xj51xvjn/2025_03_14-Consegna_250183_20260408_102659.pdf?rlkey=f2fq2so0vhwyv78hgn4nd9kch&dl=0?raw=1",
+                          "dimensione_kb": 76,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/2025_03_14 Consegna_250183_20260408_102659.pdf"
+                        },
+                        {
+                          "nome": "2025_04_30 Consegna_240715_20260408_102412.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/e0opt9ixz9iwgs3npi0ld/2025_04_30-Consegna_240715_20260408_102412.pdf?rlkey=hqrce6qx9ujkamxgdiymqpinu&dl=0?raw=1",
+                          "dimensione_kb": 73,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/2025_04_30 Consegna_240715_20260408_102412.pdf"
+                        },
+                        {
+                          "nome": "3ea69862-549b-4308-9fa7-709e0e5e1882.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/zqar4ore7srkcqrbceegm/3ea69862-549b-4308-9fa7-709e0e5e1882.jpg?rlkey=s584o2wn4hf5zr34kv0zo3wad&dl=0?raw=1",
+                          "dimensione_kb": 102,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/3ea69862-549b-4308-9fa7-709e0e5e1882.jpg"
+                        },
+                        {
+                          "nome": "ACFrOgC1shXJcqj7MqDDLC8_VcgTAr9nLoE-neVXvQC8IcQV_Q7PJf4P6BUsymHL-dDvQqtyBCwdiCEyXt4GzmgEljAM4S-mf5HTTRgVUSulK3maWB846eao7XWHLn8=.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/4wbe931jke3werxvlfg8x/ACFrOgC1shXJcqj7MqDDLC8_VcgTAr9nLoE-neVXvQC8IcQV_Q7PJf4P6BUsymHL-dDvQqtyBCwdiCEyXt4GzmgEljAM4S-mf5HTTRgVUSulK3maWB846eao7XWHLn8.pdf?rlkey=s8f3yktazlljj77i7dsdl13bj&dl=0?raw=1",
+                          "dimensione_kb": 153,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/ACFrOgC1shXJcqj7MqDDLC8_VcgTAr9nLoE-neVXvQC8IcQV_Q7PJf4P6BUsymHL-dDvQqtyBCwdiCEyXt4GzmgEljAM4S-mf5HTTRgVUSulK3maWB846eao7XWHLn8=.pdf"
+                        },
+                        {
+                          "nome": "HOTEL PISACANE Consegna_211489_20230825_121242.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/7u5utyebvt98zp475g8xy/HOTEL-PISACANE-Consegna_211489_20230825_121242.pdf?rlkey=sb0ge9602zk5d1meiydgqn06y&dl=0?raw=1",
+                          "dimensione_kb": 59,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/HOTEL PISACANE Consegna_211489_20230825_121242.pdf"
+                        },
+                        {
+                          "nome": "HOTEL PISACANE ORDINE RICAMBI CONSIGLIATI 08_04_2022.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/nmhkz0ez0jhb5ee29c7jr/HOTEL-PISACANE-ORDINE-RICAMBI-CONSIGLIATI-08_04_2022.jpg?rlkey=houtzsbrva9baw5l2izfo68od&dl=0?raw=1",
+                          "dimensione_kb": 1860,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/HOTEL PISACANE ORDINE RICAMBI CONSIGLIATI 08_04_2022.jpg"
+                        },
+                        {
+                          "nome": "Storico_Manutenzioni_FAEMA_X20_Hotel_Pisacane.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/9gy6o3y1bfpd3ra10e77v/Storico_Manutenzioni_FAEMA_X20_Hotel_Pisacane.pdf?rlkey=w4n3xz62qbd7v57lsw8szy62r&dl=0?raw=1",
+                          "dimensione_kb": 9,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/Storico_Manutenzioni_FAEMA_X20_Hotel_Pisacane.pdf"
+                        },
+                        {
+                          "nome": "X20-112-PIANO-MANUTENZIONE-EN-02.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/nrr49dxgwuep91845dorg/X20-112-PIANO-MANUTENZIONE-EN-02.pdf?rlkey=v6arooo3msbbezvrxzswxs9u1&dl=0?raw=1",
+                          "dimensione_kb": 8162,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/X20-112-PIANO-MANUTENZIONE-EN-02.pdf"
+                        },
+                        {
+                          "nome": "f4bbffe9-aa24-4820-95b0-0ef3a7da3f71.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/9cim2vtekxpkpknh30p0r/f4bbffe9-aa24-4820-95b0-0ef3a7da3f71.jpg?rlkey=n444gg4jxl690m8aye8oa2mlt&dl=0?raw=1",
+                          "dimensione_kb": 51,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/f4bbffe9-aa24-4820-95b0-0ef3a7da3f71.jpg"
+                        }
+                      ],
+                      "_totale_file": 12
                     }
                   ],
-                  "_totale_file": 6
+                  "file": [],
+                  "_totale_file": 12
                 }
               ],
               "file": [
@@ -120547,6 +120603,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE Fattura di vendita_2300286_20230605_095207.pdf"
                 },
                 {
+                  "nome": "HOTEL PISACANE Lista di_ conti Consegne TUTTE AL 07_04_2026.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/95yedj986fm8ocilzc17e/HOTEL-PISACANE-Lista-di_-conti-Consegne-TUTTE-AL-07_04_2026.txt?rlkey=is1210gfc8t3jfo2rlvu279ou&dl=0?raw=1",
+                  "dimensione_kb": 13,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE Lista di_ conti Consegne TUTTE AL 07_04_2026.txt"
+                },
+                {
                   "nome": "HOTEL PISACANE SITUAZIONE CONTABILE AL 9_10_2024.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -120579,7 +120643,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/PISACANE ELENCO ATTREZZATURE AL 06_04_2023.pdf"
                 }
               ],
-              "_totale_file": 23
+              "_totale_file": 30
             },
             {
               "nome": "HOTEL POSIDONIA",
@@ -121243,7 +121307,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 139
+          "_totale_file": 146
         },
         {
           "nome": "SARCONI",
