@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-09T15:20:36Z",
+  "generato": "2026-04-09T15:24:35Z",
   "totale_file": 24309,
   "totale_sezioni": 8,
   "sezioni": [
@@ -61756,20 +61756,36 @@
       "totale_file": 15,
       "cartelle": [
         {
-          "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
+          "nome": "10_04_2026",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/10_04_2026",
           "cartelle": [],
           "file": [
             {
-              "nome": "MISA SO20251194_VICECONTI - Conferma Ordine RIF.BUFALA.pdf",
+              "nome": "BELLADONNA ILAMA CONFERMA Preventivo 1288PRE del 19-03-2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nxe4sq9mgcaaol8etz3or/MISA-SO20251194_VICECONTI-Conferma-Ordine-RIF.BUFALA.pdf?rlkey=147e4cx8vn56i4lyz00kde3xp&dl=0?raw=1",
-              "dimensione_kb": 560,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA/MISA SO20251194_VICECONTI - Conferma Ordine RIF.BUFALA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/k75lc60bq1ga78o6vq9jq/BELLADONNA-ILAMA-CONFERMA-Preventivo-1288PRE-del-19-03-2026.pdf?rlkey=5ly7otnp9t4a65t2u4bzc39sx&dl=0?raw=1",
+              "dimensione_kb": 208,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/10_04_2026/BELLADONNA ILAMA CONFERMA Preventivo 1288PRE del 19-03-2026.pdf"
+            },
+            {
+              "nome": "LA MITO KLIMATIALIA FA TU Conferma d'Ordine-Klimaitalia-P-2271.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8ly45rqw21vgkq35cyxfw/LA-MITO-KLIMATIALIA-FA-TU-Conferma-d-Ordine-Klimaitalia-P-2271.pdf?rlkey=wvdoukgu5m198xp8480nomyhx&dl=0?raw=1",
+              "dimensione_kb": 178,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/10_04_2026/LA MITO KLIMATIALIA FA TU Conferma d'Ordine-Klimaitalia-P-2271.pdf"
+            },
+            {
+              "nome": "ZINCO GROUP IMALA CONFERMA VICECONTI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ndyhez70ipg2hy2gondk9/ZINCO-GROUP-IMALA-CONFERMA-VICECONTI.pdf?rlkey=vwjcnkm7sfztovt986cz58wy1&dl=0?raw=1",
+              "dimensione_kb": 631,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/10_04_2026/ZINCO GROUP IMALA CONFERMA VICECONTI.pdf"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 3
         },
         {
           "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
@@ -61900,24 +61916,7 @@
           "_totale_file": 3
         }
       ],
-      "file": [
-        {
-          "nome": "CALA DEL CITRO ORDINE ANNO 2024 Ordine cliente_240903_20260324_085640.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/ylu521y6nr9vhiewev2nz/CALA-DEL-CITRO-ORDINE-ANNO-2024-Ordine-cliente_240903_20260324_085640.pdf?rlkey=hipgy4z8b9ho6c9q5arc3yg51&dl=0?raw=1",
-          "dimensione_kb": 72,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CALA DEL CITRO ORDINE ANNO 2024 Ordine cliente_240903_20260324_085640.pdf"
-        },
-        {
-          "nome": "NERA ORDINE ANNO 2024 Ordine cliente_240899_20260324_085516.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/xehhbhux50rd5fkokr163/NERA-ORDINE-ANNO-2024-Ordine-cliente_240899_20260324_085516.pdf?rlkey=e2e7wx23tq86d56vzej92dw2s&dl=0?raw=1",
-          "dimensione_kb": 83,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/NERA ORDINE ANNO 2024 Ordine cliente_240899_20260324_085516.pdf"
-        }
-      ]
+      "file": []
     },
     {
       "nome": "CLIENTI",
