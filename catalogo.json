@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-09T08:13:43Z",
-  "totale_file": 24353,
+  "generato": "2026-04-09T09:06:51Z",
+  "totale_file": 24354,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61753,7 +61753,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 59,
+      "totale_file": 60,
       "cartelle": [
         {
           "nome": "BUFALA EXPRESS SPOSTAMENTO CELLA E MOTORE REMOTO CELLA MISA",
@@ -62266,6 +62266,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/Tavolo refrigerato ventilato gastronomia 4 porte GN 1_1 con alzatina, -2°_+8°C, mod. G-GN4200TN, 223x70x86_96h cm.pdf"
             },
             {
+              "nome": "VENTILATORE CENTRIFUGO CASSONATO E INVERTER TRIFASE.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/oja6vugr42oq9q6nhfeul/VENTILATORE-CENTRIFUGO-CASSONATO-E-INVERTER-TRIFASE.png?rlkey=4sh7ix34p86y19oe251lite96&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/VENTILATORE CENTRIFUGO CASSONATO E INVERTER TRIFASE.png"
+            },
+            {
               "nome": "W5UG-P.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62274,7 +62282,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/PASSION SUSHI/W5UG-P.pdf"
             }
           ],
-          "_totale_file": 20
+          "_totale_file": 21
         }
       ],
       "file": [
