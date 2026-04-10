@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-10T06:52:09Z",
-  "totale_file": 24345,
+  "generato": "2026-04-10T07:53:53Z",
+  "totale_file": 24349,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -213857,7 +213857,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2310,
+      "totale_file": 2314,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -213973,6 +213973,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/ILAMA BONIFICO DEL 16_03_2026.pdf"
                 },
                 {
+                  "nome": "MeM BONIFICO MPS DEL 9_04_2026.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/83tkl94xi4kjet8n4hvi4/MeM-BONIFICO-MPS-DEL-9_04_2026.jpeg?rlkey=m54lsqob8svgx4celch5zn68b&dl=0?raw=1",
+                  "dimensione_kb": 210,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/MeM BONIFICO MPS DEL 9_04_2026.jpeg"
+                },
+                {
                   "nome": "RADICI 20251103_Bonifico_-_Viceconti_SNC_Di_Antonio_e_Prospero_Viceconti_Conto_1000-00004634_02-360892658.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214005,7 +214013,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/VE.RO. COPIA TITOLI.jpeg"
                 }
               ],
-              "_totale_file": 17
+              "_totale_file": 18
             }
           ],
           "file": [
@@ -214018,7 +214026,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/COLDLINE Conferma ordine n°26-02112 RIF.A.M DI ANTONELLA MANCINO CORRETTA.pdf"
             }
           ],
-          "_totale_file": 18
+          "_totale_file": 19
         },
         {
           "nome": "PAGAMENTI IN USCITA",
@@ -214038,6 +214046,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/ARISTARCO TITOLI BPER APRILE_LUGLIO_2026.pdf"
                 },
                 {
+                  "nome": "CASELLA GIUSEPPE Dettaglio bonifico istantaneo 9_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/eq9uhsdhdlsoic2agh4ww/CASELLA-GIUSEPPE-Dettaglio-bonifico-istantaneo-9_04_2026.pdf?rlkey=9vbr23q2o0r1piuxkpyjt0r1g&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/CASELLA GIUSEPPE Dettaglio bonifico istantaneo 9_04_2026.pdf"
+                },
+                {
                   "nome": "CB Dettaglio bonifico istantaneo DEL 24_03_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214052,6 +214068,14 @@
                   "link": "https://www.dropbox.com/scl/fi/maw0kjm6dyeilhjq6kjh6/CB-Dettaglio-bonifico-istantaneo-DEL-30_03_2026.pdf?rlkey=g5h5pdldo8zszxmgqpn4vha9y&dl=0?raw=1",
                   "dimensione_kb": 109,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/CB Dettaglio bonifico istantaneo DEL 30_03_2026.pdf"
+                },
+                {
+                  "nome": "COLDLINE COPIA TITOLI BPER AR 09_04_2026.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/65yent3n2xzsgvw3h9myl/COLDLINE-COPIA-TITOLI-BPER-AR-09_04_2026.jpeg?rlkey=8wuodithy4o6gqwy8ndoab48l&dl=0?raw=1",
+                  "dimensione_kb": 351,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/COLDLINE COPIA TITOLI BPER AR 09_04_2026.jpeg"
                 },
                 {
                   "nome": "COLDLINE COPIA TITOLI INTESA FEBBRAIO MARZO APRILE 2026.jpeg",
@@ -214074,7 +214098,7 @@
                   "tipo": "Excel",
                   "icona": "📊",
                   "link": "https://www.dropbox.com/scl/fi/xk70d6tk5smggg8ts0wsc/COLDLINE-IMPORTO-TITOLI-04_03_2026.xlsx?rlkey=yqph296cb2um63fznhf7zcq9a&dl=0?raw=1",
-                  "dimensione_kb": 10,
+                  "dimensione_kb": 13,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/COLDLINE IMPORTO TITOLI 04_03_2026.xlsx"
                 },
                 {
@@ -214254,6 +214278,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/IFI Dettaglio bonifico istantaneo DEL 19_02_2026.pdf"
                 },
                 {
+                  "nome": "LA MITO KLIMAIALIA Dettaglio bonifico istantaneo DEL 09_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6xji6f2cdjwu76r7wmdn4/LA-MITO-KLIMAIALIA-Dettaglio-bonifico-istantaneo-DEL-09_04_2026.pdf?rlkey=sg34yqmokkmogbqs2qr9eegnn&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/LA MITO KLIMAIALIA Dettaglio bonifico istantaneo DEL 09_04_2026.pdf"
+                },
+                {
                   "nome": "MECNOSUD COPIA TITOLI BRT 25_09_2025.jpeg",
                   "tipo": "Immagine",
                   "icona": "🖼️",
@@ -214390,7 +214422,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 45
+              "_totale_file": 48
             },
             {
               "nome": "ARCHIVIO",
@@ -216087,7 +216119,7 @@
                       "nome": "Banca MPS – Lista movimenti titoli.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/jw1lnfxsvudgqfqtq98mm/Banca-MPS-Lista-movimenti-titoli.pdf?rlkey=udq6ljkbditnzs9di9l8rxexe&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 77,
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 18_01_2022/Banca MPS – Lista movimenti titoli.pdf"
                     },
@@ -234690,7 +234722,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 2292
+          "_totale_file": 2295
         }
       ],
       "file": []
