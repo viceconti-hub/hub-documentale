@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-10T02:15:14Z",
-  "totale_file": 24339,
+  "generato": "2026-04-10T04:57:13Z",
+  "totale_file": 24340,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5580,
+      "totale_file": 5581,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -108,6 +108,14 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/LANTERNA VERDE Consegna_260076_20260306_171648.pdf"
                 },
                 {
+                  "nome": "NOCERA STREET FOOD Consegna_260178_20260409_104827.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1p2tjr81vgxyd7agc6vni/NOCERA-STREET-FOOD-Consegna_260178_20260409_104827.pdf?rlkey=r79ho4jmm8lcnqi53979ltxnb&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/NOCERA STREET FOOD Consegna_260178_20260409_104827.pdf"
+                },
+                {
                   "nome": "PANAINO SRL Consegna_260068_20260226_102358.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -116,11 +124,11 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/APERTE/PANAINO SRL Consegna_260068_20260226_102358.pdf"
                 }
               ],
-              "_totale_file": 12
+              "_totale_file": 13
             }
           ],
           "file": [],
-          "_totale_file": 12
+          "_totale_file": 13
         },
         {
           "nome": "FATTURE DI VENDITA",
