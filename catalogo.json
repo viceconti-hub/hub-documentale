@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-11T08:02:02Z",
-  "totale_file": 24322,
+  "generato": "2026-04-11T15:35:38Z",
+  "totale_file": 24325,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61529,7 +61529,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 15,
+      "totale_file": 18,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -61655,9 +61655,33 @@
               "link": "https://www.dropbox.com/scl/fi/q3e28hvfii2nrpy0pc59h/MODULO_7186_06_04_2026.html?rlkey=7s06ho4b171vtppn9lmdrykmz&dl=0?raw=1",
               "dimensione_kb": 24,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7186_06_04_2026.html"
+            },
+            {
+              "nome": "MODULO_7188_06_04_2026.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/bg5kh80majpfxwk6p0uiq/MODULO_7188_06_04_2026.html?rlkey=65uxwdtgvgx1qh1lyywo65mfq&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7188_06_04_2026.html"
+            },
+            {
+              "nome": "MODULO_7188_11_04_2026 V4 SECONDA MODIFICA.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/d4w39l1dxxnkzl3yf1wth/MODULO_7188_11_04_2026-V4-SECONDA-MODIFICA.html?rlkey=hkmrlyi67lf2mcgtc588c7rk4&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7188_11_04_2026 V4 SECONDA MODIFICA.html"
+            },
+            {
+              "nome": "MODULO_7188_11_04_2026 V4.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/t7dx73yvxh96wfrfoeidi/MODULO_7188_11_04_2026-V4.html?rlkey=a2w0p73bm643gsiv7fx9ml91k&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7188_11_04_2026 V4.html"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 4
         },
         {
           "nome": "MeM ASPIRAZIONE",
