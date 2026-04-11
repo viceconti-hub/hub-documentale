@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-11T15:35:38Z",
-  "totale_file": 24325,
+  "generato": "2026-04-11T15:55:39Z",
+  "totale_file": 24326,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61529,7 +61529,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 18,
+      "totale_file": 19,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -61679,9 +61679,17 @@
               "link": "https://www.dropbox.com/scl/fi/t7dx73yvxh96wfrfoeidi/MODULO_7188_11_04_2026-V4.html?rlkey=a2w0p73bm643gsiv7fx9ml91k&dl=0?raw=1",
               "dimensione_kb": 25,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7188_11_04_2026 V4.html"
+            },
+            {
+              "nome": "MODULO_modulo_11_04_2026 HAPPY MOMENTS FORNO MBM.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/7ocvps61st06zhrb8mh0r/MODULO_modulo_11_04_2026-HAPPY-MOMENTS-FORNO-MBM.html?rlkey=3kp4h9041lt3v14618x93l9g3&dl=0?raw=1",
+              "dimensione_kb": 24,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_modulo_11_04_2026 HAPPY MOMENTS FORNO MBM.html"
             }
           ],
-          "_totale_file": 4
+          "_totale_file": 5
         },
         {
           "nome": "MeM ASPIRAZIONE",
