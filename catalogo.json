@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-11T16:00:36Z",
-  "totale_file": 24326,
+  "generato": "2026-04-11T16:10:39Z",
+  "totale_file": 24327,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61529,7 +61529,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 19,
+      "totale_file": 20,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -61681,6 +61681,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7188_11_04_2026 V4.html"
             },
             {
+              "nome": "MODULO_modulo_11_04_2026 AI CARCONI CON NOTE PER CLAUDE.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/6pmsyilpda6iwy2lvw18i/MODULO_modulo_11_04_2026-AI-CARCONI-CON-NOTE-PER-CLAUDE.html?rlkey=1b6m6bzaptefkcx06lftovsej&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_modulo_11_04_2026 AI CARCONI CON NOTE PER CLAUDE.html"
+            },
+            {
               "nome": "MODULO_modulo_11_04_2026 HAPPY MOMENTS FORNO MBM.html",
               "tipo": "File",
               "icona": "📎",
@@ -61689,7 +61697,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_modulo_11_04_2026 HAPPY MOMENTS FORNO MBM.html"
             }
           ],
-          "_totale_file": 5
+          "_totale_file": 6
         },
         {
           "nome": "MeM ASPIRAZIONE",
