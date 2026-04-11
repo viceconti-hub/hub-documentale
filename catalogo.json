@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-11T07:45:14Z",
-  "totale_file": 24349,
+  "generato": "2026-04-11T07:57:08Z",
+  "totale_file": 24322,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -58636,7 +58636,7 @@
       "nome": "CREDITI E DEBITI",
       "descrizione": "Crediti e debiti aperti e archiviati",
       "icona": "📋",
-      "totale_file": 332,
+      "totale_file": 305,
       "cartelle": [
         {
           "nome": "CREDITI",
@@ -58685,238 +58685,6 @@
                   ],
                   "file": [],
                   "_totale_file": 3
-                },
-                {
-                  "nome": "CREDITI ANTONIO",
-                  "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO",
-                  "cartelle": [
-                    {
-                      "nome": "ARCHIVIO",
-                      "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "ACQUARIO SRL SITUAZIONE AL 9_08_2022.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/1xo0xpwbxym2ngf963tvx/ACQUARIO-SRL-SITUAZIONE-AL-9_08_2022.pdf?rlkey=zpnwp04l9sn87pdmay3hpda14&dl=0?raw=1",
-                          "dimensione_kb": 57,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/ACQUARIO SRL SITUAZIONE AL 9_08_2022.pdf"
-                        },
-                        {
-                          "nome": "ARPAIA Fattura di vendita - Bozza documento_220269_20220528_170639.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/drlqjzy9yzxkfhrmwby8q/ARPAIA-Fattura-di-vendita-Bozza-documento_220269_20220528_170639.pdf?rlkey=xff64vrm3xspjtnznd4mx68ja&dl=0?raw=1",
-                          "dimensione_kb": 76,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/ARPAIA Fattura di vendita - Bozza documento_220269_20220528_170639.pdf"
-                        },
-                        {
-                          "nome": "BAR CHIOSCO Situazione Contabile.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/30bo5ulheldlpik1eckwv/BAR-CHIOSCO-Situazione-Contabile.pdf?rlkey=t1bfzozlxi44bfsshvmrmb8uo&dl=0?raw=1",
-                          "dimensione_kb": 56,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/BAR CHIOSCO Situazione Contabile.pdf"
-                        },
-                        {
-                          "nome": "CALA DEL CITRO SITUAZIONE AL 23_03_2022.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/u4da0rldj0nfday24kl55/CALA-DEL-CITRO-SITUAZIONE-AL-23_03_2022.pdf?rlkey=z7mnyjr25g5mom46925t1hk93&dl=0?raw=1",
-                          "dimensione_kb": 58,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/CALA DEL CITRO SITUAZIONE AL 23_03_2022.pdf"
-                        },
-                        {
-                          "nome": "CAMPOLEROSE SITUAZIONE AL 28_05_2022.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/dljey8gli63ak8fsw1ged/CAMPOLEROSE-SITUAZIONE-AL-28_05_2022.pdf?rlkey=33k1e644o69ya6hgra2915l4l&dl=0?raw=1",
-                          "dimensione_kb": 57,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/CAMPOLEROSE SITUAZIONE AL 28_05_2022.pdf"
-                        },
-                        {
-                          "nome": "CREDITI ANTONIO AL 28_05_2022.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/w0vvs5vcdnkj8tckn198z/CREDITI-ANTONIO-AL-28_05_2022.pdf?rlkey=rj828iwmvm0qr12pizq70unss&dl=0?raw=1",
-                          "dimensione_kb": 60,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/CREDITI ANTONIO AL 28_05_2022.pdf"
-                        },
-                        {
-                          "nome": "CREDITI ANTONIO AL 6_08_2024.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/bfczw8w2vyw8df90k6hrf/CREDITI-ANTONIO-AL-6_08_2024.pdf?rlkey=83oqfotpnxboyd5fmuxbec7tz&dl=0?raw=1",
-                          "dimensione_kb": 59,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/CREDITI ANTONIO AL 6_08_2024.pdf"
-                        },
-                        {
-                          "nome": "CREDITI ANTONIO RECENTI DA REGOLARE AL 13_06_2022.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/exegw9jb7llzvqubrqte1/CREDITI-ANTONIO-RECENTI-DA-REGOLARE-AL-13_06_2022.pdf?rlkey=lshl55buxv7q0fvyeec2dbb2q&dl=0?raw=1",
-                          "dimensione_kb": 72,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/CREDITI ANTONIO RECENTI DA REGOLARE AL 13_06_2022.pdf"
-                        },
-                        {
-                          "nome": "F2G SITUAZIONE CONTABILE AL 15_01_2025.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/k2wgqconqr75rsjxpymdc/F2G-SITUAZIONE-CONTABILE-AL-15_01_2025.pdf?rlkey=0elu6gxad3lk93zgstq9xkncb&dl=0?raw=1",
-                          "dimensione_kb": 58,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/F2G SITUAZIONE CONTABILE AL 15_01_2025.pdf"
-                        },
-                        {
-                          "nome": "FRATTA Situazione Contabile CREDITI.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/bx69m24jglp5g3ay7h6nk/FRATTA-Situazione-Contabile-CREDITI.pdf?rlkey=o6u5bembilbxmviap3yflra47&dl=0?raw=1",
-                          "dimensione_kb": 57,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/FRATTA Situazione Contabile CREDITI.pdf"
-                        },
-                        {
-                          "nome": "GLOBAL HOTEL SITUAZIONE AL 03_09_2024.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/uggl38naign4outajf6qj/GLOBAL-HOTEL-SITUAZIONE-AL-03_09_2024.pdf?rlkey=ql828dfkmb7k7ghxbu2gvdxnt&dl=0?raw=1",
-                          "dimensione_kb": 57,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/GLOBAL HOTEL SITUAZIONE AL 03_09_2024.pdf"
-                        },
-                        {
-                          "nome": "GRUPPO PALMIERI SITUAZIONE AL 01_03_2022.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/m258a1tgdq9ypai7vtwud/GRUPPO-PALMIERI-SITUAZIONE-AL-01_03_2022.pdf?rlkey=9c3stflmjga3jaepzql32llax&dl=0?raw=1",
-                          "dimensione_kb": 57,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/GRUPPO PALMIERI SITUAZIONE AL 01_03_2022.pdf"
-                        },
-                        {
-                          "nome": "HOTEL RISTORANTE LA TANA SITUAZIONE AL 15_07_2024.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/ubda5yw6p8zf4vo9mlf8g/HOTEL-RISTORANTE-LA-TANA-SITUAZIONE-AL-15_07_2024.pdf?rlkey=dirtmuuwmqnvauyesui9ymj57&dl=0?raw=1",
-                          "dimensione_kb": 59,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/HOTEL RISTORANTE LA TANA SITUAZIONE AL 15_07_2024.pdf"
-                        },
-                        {
-                          "nome": "HOTEL RISTORANTE LA TANA SITUAZIONE AL 27_07_2023.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/1d1bcutjjxpup1ncne1pb/HOTEL-RISTORANTE-LA-TANA-SITUAZIONE-AL-27_07_2023.pdf?rlkey=le4vyqvzf89phf6l71go5er6r&dl=0?raw=1",
-                          "dimensione_kb": 58,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/HOTEL RISTORANTE LA TANA SITUAZIONE AL 27_07_2023.pdf"
-                        },
-                        {
-                          "nome": "HOTEL RISTORANTE LA TANA SITUAZIONE AL 28_08_2023.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/1yfduhfnrxkpkjfchllp9/HOTEL-RISTORANTE-LA-TANA-SITUAZIONE-AL-28_08_2023.pdf?rlkey=qu5glbfadbkrwisnqploum5ft&dl=0?raw=1",
-                          "dimensione_kb": 143,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/HOTEL RISTORANTE LA TANA SITUAZIONE AL 28_08_2023.pdf"
-                        },
-                        {
-                          "nome": "I CARNALI SITUAZIONE AL 02_09_2022.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/0bd1hwy2tyvbzkdp0iih6/I-CARNALI-SITUAZIONE-AL-02_09_2022.pdf?rlkey=p64gzhcgudbr7qkjr990k8j7a&dl=0?raw=1",
-                          "dimensione_kb": 57,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/I CARNALI SITUAZIONE AL 02_09_2022.pdf"
-                        },
-                        {
-                          "nome": "LE DELIZIE DEL GRANO Fattura di vendita_2300427_20230801_192819.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/68bvxlsj6g9g527dlbhlj/LE-DELIZIE-DEL-GRANO-Fattura-di-vendita_2300427_20230801_192819.pdf?rlkey=fpjqhkfg0kqej9i9lrkyeswb7&dl=0?raw=1",
-                          "dimensione_kb": 74,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/LE DELIZIE DEL GRANO Fattura di vendita_2300427_20230801_192819.pdf"
-                        },
-                        {
-                          "nome": "LE DELIZIE DEL GRANO SITUAZIONE AL 01_08_2023.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/ixmwwnoytj74lni0umoz0/LE-DELIZIE-DEL-GRANO-SITUAZIONE-AL-01_08_2023.pdf?rlkey=h2n6b1hypn1zduj5bqpm1zofg&dl=0?raw=1",
-                          "dimensione_kb": 57,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/LE DELIZIE DEL GRANO SITUAZIONE AL 01_08_2023.pdf"
-                        },
-                        {
-                          "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_ANTONIO) ).pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/s5ilxhamwo4rzdjux56c0/Lista-Movimenti-NON-EFFETTUATI-CREDITI_ANTONIO.pdf?rlkey=erylyjjbbao3u7p4bo6hckxoh&dl=0?raw=1",
-                          "dimensione_kb": 64,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_ANTONIO) ).pdf"
-                        },
-                        {
-                          "nome": "Lista Movimenti NON EFFETTUATI ( CREDITI_ANTONIO) 20_04_2022.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/pcwmj298unxtmn1a0zpv8/Lista-Movimenti-NON-EFFETTUATI-CREDITI_ANTONIO-20_04_2022.pdf?rlkey=wi52dq7e1l1udto4d2lx7pr3i&dl=0?raw=1",
-                          "dimensione_kb": 64,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/Lista Movimenti NON EFFETTUATI ( CREDITI_ANTONIO) 20_04_2022.pdf"
-                        },
-                        {
-                          "nome": "MAMMARITA SITUAZIONE AL 9_08_2022.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/w2f44yvqkiyeit6vx1bje/MAMMARITA-SITUAZIONE-AL-9_08_2022.pdf?rlkey=g1t6ppin5caa2k30xzwvlq039&dl=0?raw=1",
-                          "dimensione_kb": 57,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/MAMMARITA SITUAZIONE AL 9_08_2022.pdf"
-                        },
-                        {
-                          "nome": "PISTOR SRL SITUAZIONE AL 01_03_2022.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/r216ypzg1helsjc5jl9qj/PISTOR-SRL-SITUAZIONE-AL-01_03_2022.pdf?rlkey=kbpesj57lr6d2h4kf6ilrd15q&dl=0?raw=1",
-                          "dimensione_kb": 57,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/PISTOR SRL SITUAZIONE AL 01_03_2022.pdf"
-                        },
-                        {
-                          "nome": "RIEPILOGO FORNITURE AL 09_06_2022.xlsx",
-                          "tipo": "Excel",
-                          "icona": "📊",
-                          "link": "https://www.dropbox.com/scl/fi/0iul7ae9m8695781bfqzv/RIEPILOGO-FORNITURE-AL-09_06_2022.xlsx?rlkey=uj5jxur2orwd42do2kqgj9st6&dl=0?raw=1",
-                          "dimensione_kb": 10,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/RIEPILOGO FORNITURE AL 09_06_2022.xlsx"
-                        },
-                        {
-                          "nome": "RUSTICHELLI Situazione Contabile AL 16_07_2025.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/d13gk7kzs9tcjomtjgpiy/RUSTICHELLI-Situazione-Contabile-AL-16_07_2025.pdf?rlkey=v1ltxe0tq6rtbhya4e8ne92h8&dl=0?raw=1",
-                          "dimensione_kb": 79,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/RUSTICHELLI Situazione Contabile AL 16_07_2025.pdf"
-                        },
-                        {
-                          "nome": "SOLELUNA Consegna_210421_20220528_171123.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/hmtb0xrmuyeskj23tm4uc/SOLELUNA-Consegna_210421_20220528_171123.pdf?rlkey=eltr47mnipys07q5iyx9d0ksp&dl=0?raw=1",
-                          "dimensione_kb": 56,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/SOLELUNA Consegna_210421_20220528_171123.pdf"
-                        },
-                        {
-                          "nome": "TERZI ALESSANDRO Fattura di vendita_2300359_20230801_192921.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/wzaqwlanzkiyjtd16k67y/TERZI-ALESSANDRO-Fattura-di-vendita_2300359_20230801_192921.pdf?rlkey=crrzwklnpy4c71ane6skj2ttv&dl=0?raw=1",
-                          "dimensione_kb": 73,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/TERZI ALESSANDRO Fattura di vendita_2300359_20230801_192921.pdf"
-                        },
-                        {
-                          "nome": "TERZI ALESSANDRO SITUAZIONE AL 01_08_2023.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/b1m08bahs5cfrofp8b0nr/TERZI-ALESSANDRO-SITUAZIONE-AL-01_08_2023.pdf?rlkey=3e87s48pc8w21qpe7bekg3syg&dl=0?raw=1",
-                          "dimensione_kb": 57,
-                          "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/CREDITI ANTONIO/ARCHIVIO/TERZI ALESSANDRO SITUAZIONE AL 01_08_2023.pdf"
-                        }
-                      ],
-                      "_totale_file": 27
-                    }
-                  ],
-                  "file": [],
-                  "_totale_file": 27
                 }
               ],
               "file": [
@@ -61177,7 +60945,7 @@
                   "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/ARCHIVIO/happy cafe' situazione al 13_02_2025.pdf"
                 }
               ],
-              "_totale_file": 312
+              "_totale_file": 285
             }
           ],
           "file": [
@@ -61334,7 +61102,7 @@
               "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - CO52305 A&M COMPANY DI ALAGIA ANDREA MAURONE AGOSTINO & C. S.N.C._20260204_174527.pdf"
             }
           ],
-          "_totale_file": 331
+          "_totale_file": 304
         },
         {
           "nome": "DEBITI",
