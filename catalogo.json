@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-12T14:25:42Z",
+  "generato": "2026-04-12T15:30:42Z",
   "totale_file": 24355,
   "totale_sezioni": 8,
   "sezioni": [
@@ -61931,21 +61931,20 @@
                   "link": "https://www.dropbox.com/scl/fi/7ocvps61st06zhrb8mh0r/MODULO_modulo_11_04_2026-HAPPY-MOMENTS-FORNO-MBM.html?rlkey=3kp4h9041lt3v14618x93l9g3&dl=0?raw=1",
                   "dimensione_kb": 24,
                   "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/ARCHIVIO/MODULO_modulo_11_04_2026 HAPPY MOMENTS FORNO MBM.html"
+                },
+                {
+                  "nome": "files.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/t8kphu3t89ogrhdttxaky/files.zip?rlkey=t1btlvd7gku2lbgab4xafwjlf&dl=0?raw=1",
+                  "dimensione_kb": 20,
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/ARCHIVIO/files.zip"
                 }
               ],
-              "_totale_file": 6
+              "_totale_file": 7
             }
           ],
-          "file": [
-            {
-              "nome": "files.zip",
-              "tipo": "Archivio",
-              "icona": "🗜️",
-              "link": "https://www.dropbox.com/scl/fi/t8kphu3t89ogrhdttxaky/files.zip?rlkey=t1btlvd7gku2lbgab4xafwjlf&dl=0?raw=1",
-              "dimensione_kb": 20,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/files.zip"
-            }
-          ],
+          "file": [],
           "_totale_file": 7
         },
         {
