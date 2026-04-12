@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-12T15:35:41Z",
-  "totale_file": 24355,
+  "generato": "2026-04-12T15:50:48Z",
+  "totale_file": 24357,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61761,7 +61761,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 21,
+      "totale_file": 23,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -61944,8 +61944,25 @@
               "_totale_file": 7
             }
           ],
-          "file": [],
-          "_totale_file": 7
+          "file": [
+            {
+              "nome": "MODULO_7204_12_04_2026.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/ivx17tetd97okwk6948me/MODULO_7204_12_04_2026.html?rlkey=vgg7zmophusomxkgt946k7j65&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7204_12_04_2026.html"
+            },
+            {
+              "nome": "modulo-tecnico-v4.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/2yg6v35s54dt644y0044t/modulo-tecnico-v4.html?rlkey=n4ekv4cqcd3gb4t1w7kym51hy&dl=0?raw=1",
+              "dimensione_kb": 35,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/modulo-tecnico-v4.html"
+            }
+          ],
+          "_totale_file": 9
         },
         {
           "nome": "MeM ASPIRAZIONE",
