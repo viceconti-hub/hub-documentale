@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-12T07:10:41Z",
-  "totale_file": 24328,
+  "generato": "2026-04-12T07:16:10Z",
+  "totale_file": 24339,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61529,7 +61529,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 21,
+      "totale_file": 32,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -61646,39 +61646,104 @@
         {
           "nome": "MODULI ATTIVITA' APERTE",
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE",
-          "cartelle": [],
+          "cartelle": [
+            {
+              "nome": "ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/ARCHIVIO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "MODULO_7186_06_04_2026.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/q3e28hvfii2nrpy0pc59h/MODULO_7186_06_04_2026.html?rlkey=7s06ho4b171vtppn9lmdrykmz&dl=0?raw=1",
+                  "dimensione_kb": 24,
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/ARCHIVIO/MODULO_7186_06_04_2026.html"
+                },
+                {
+                  "nome": "MODULO_7188_06_04_2026.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/bg5kh80majpfxwk6p0uiq/MODULO_7188_06_04_2026.html?rlkey=65uxwdtgvgx1qh1lyywo65mfq&dl=0?raw=1",
+                  "dimensione_kb": 25,
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/ARCHIVIO/MODULO_7188_06_04_2026.html"
+                },
+                {
+                  "nome": "MODULO_7188_11_04_2026 V4 SECONDA MODIFICA.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/d4w39l1dxxnkzl3yf1wth/MODULO_7188_11_04_2026-V4-SECONDA-MODIFICA.html?rlkey=hkmrlyi67lf2mcgtc588c7rk4&dl=0?raw=1",
+                  "dimensione_kb": 25,
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/ARCHIVIO/MODULO_7188_11_04_2026 V4 SECONDA MODIFICA.html"
+                },
+                {
+                  "nome": "MODULO_7188_11_04_2026 V4.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/t7dx73yvxh96wfrfoeidi/MODULO_7188_11_04_2026-V4.html?rlkey=a2w0p73bm643gsiv7fx9ml91k&dl=0?raw=1",
+                  "dimensione_kb": 25,
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/ARCHIVIO/MODULO_7188_11_04_2026 V4.html"
+                },
+                {
+                  "nome": "MODULO_modulo_11_04_2026 AI CARCONI CON NOTE PER CLAUDE.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/6pmsyilpda6iwy2lvw18i/MODULO_modulo_11_04_2026-AI-CARCONI-CON-NOTE-PER-CLAUDE.html?rlkey=1b6m6bzaptefkcx06lftovsej&dl=0?raw=1",
+                  "dimensione_kb": 25,
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/ARCHIVIO/MODULO_modulo_11_04_2026 AI CARCONI CON NOTE PER CLAUDE.html"
+                },
+                {
+                  "nome": "MODULO_modulo_11_04_2026 HAPPY MOMENTS FORNO MBM.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/7ocvps61st06zhrb8mh0r/MODULO_modulo_11_04_2026-HAPPY-MOMENTS-FORNO-MBM.html?rlkey=3kp4h9041lt3v14618x93l9g3&dl=0?raw=1",
+                  "dimensione_kb": 24,
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/ARCHIVIO/MODULO_modulo_11_04_2026 HAPPY MOMENTS FORNO MBM.html"
+                }
+              ],
+              "_totale_file": 6
+            }
+          ],
           "file": [
             {
-              "nome": "MODULO_7186_06_04_2026.html",
+              "nome": "MODULO_7011_12_04_2026.html",
               "tipo": "File",
               "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/q3e28hvfii2nrpy0pc59h/MODULO_7186_06_04_2026.html?rlkey=7s06ho4b171vtppn9lmdrykmz&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/30mjwrntw49nc8ukuvjqv/MODULO_7011_12_04_2026.html?rlkey=p6330vdtq97jh86pgi6otfpim&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7011_12_04_2026.html"
+            },
+            {
+              "nome": "MODULO_7182_12_04_2026.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/v41uxevju7usfttu25t16/MODULO_7182_12_04_2026.html?rlkey=ob24rn4pcr9iyzyss9occib0b&dl=0?raw=1",
               "dimensione_kb": 24,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7186_06_04_2026.html"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7182_12_04_2026.html"
             },
             {
-              "nome": "MODULO_7188_06_04_2026.html",
+              "nome": "MODULO_7192_12_04_2026.html",
               "tipo": "File",
               "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/bg5kh80majpfxwk6p0uiq/MODULO_7188_06_04_2026.html?rlkey=65uxwdtgvgx1qh1lyywo65mfq&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/ocejfv77hjdf7sp5qty8j/MODULO_7192_12_04_2026.html?rlkey=04j4b3gmerjd9exyczpgffjfy&dl=0?raw=1",
               "dimensione_kb": 25,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7188_06_04_2026.html"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7192_12_04_2026.html"
             },
             {
-              "nome": "MODULO_7188_11_04_2026 V4 SECONDA MODIFICA.html",
+              "nome": "MODULO_7196_12_04_2026.html",
               "tipo": "File",
               "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/d4w39l1dxxnkzl3yf1wth/MODULO_7188_11_04_2026-V4-SECONDA-MODIFICA.html?rlkey=hkmrlyi67lf2mcgtc588c7rk4&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/crxd5c0ss08qg38neobje/MODULO_7196_12_04_2026.html?rlkey=jtgraiasphoi384wypp7hox8l&dl=0?raw=1",
               "dimensione_kb": 25,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7188_11_04_2026 V4 SECONDA MODIFICA.html"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7196_12_04_2026.html"
             },
             {
-              "nome": "MODULO_7188_11_04_2026 V4.html",
+              "nome": "MODULO_7201_12_04_2026.html",
               "tipo": "File",
               "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/t7dx73yvxh96wfrfoeidi/MODULO_7188_11_04_2026-V4.html?rlkey=a2w0p73bm643gsiv7fx9ml91k&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/axp4edavcojl554epsn5c/MODULO_7201_12_04_2026.html?rlkey=hngi82totbyhxd5bqtudznoao&dl=0?raw=1",
               "dimensione_kb": 25,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7188_11_04_2026 V4.html"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7201_12_04_2026.html"
             },
             {
               "nome": "MODULO_7204_12_04_2026.html",
@@ -61689,23 +61754,55 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7204_12_04_2026.html"
             },
             {
-              "nome": "MODULO_modulo_11_04_2026 AI CARCONI CON NOTE PER CLAUDE.html",
+              "nome": "MODULO_7206_12_04_2026.html",
               "tipo": "File",
               "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/6pmsyilpda6iwy2lvw18i/MODULO_modulo_11_04_2026-AI-CARCONI-CON-NOTE-PER-CLAUDE.html?rlkey=1b6m6bzaptefkcx06lftovsej&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/w374r6hcdohl81efvj5ad/MODULO_7206_12_04_2026.html?rlkey=klzb4nc7dnjiwgv8fp2t3funv&dl=0?raw=1",
               "dimensione_kb": 25,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_modulo_11_04_2026 AI CARCONI CON NOTE PER CLAUDE.html"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7206_12_04_2026.html"
             },
             {
-              "nome": "MODULO_modulo_11_04_2026 HAPPY MOMENTS FORNO MBM.html",
+              "nome": "MODULO_7207_12_04_2026.html",
               "tipo": "File",
               "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/7ocvps61st06zhrb8mh0r/MODULO_modulo_11_04_2026-HAPPY-MOMENTS-FORNO-MBM.html?rlkey=3kp4h9041lt3v14618x93l9g3&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/x7li7fqudn2en43fll05h/MODULO_7207_12_04_2026.html?rlkey=p6aisv3mpvkohchgpuxpu8iy4&dl=0?raw=1",
               "dimensione_kb": 24,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_modulo_11_04_2026 HAPPY MOMENTS FORNO MBM.html"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7207_12_04_2026.html"
+            },
+            {
+              "nome": "MODULO_7208_12_04_2026.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/tnhyq67bvrhhidjn2cm5l/MODULO_7208_12_04_2026.html?rlkey=totltce3ljjrwq11n76g887ke&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7208_12_04_2026.html"
+            },
+            {
+              "nome": "MODULO_7209_12_04_2026.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/x8pj1tzilucffmq0cc4qw/MODULO_7209_12_04_2026.html?rlkey=a7d7b86ysb8fyr19wqthy6n9x&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7209_12_04_2026.html"
+            },
+            {
+              "nome": "MODULO_7210_12_04_2026.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/72vvvgtx0snsttjtrv2lh/MODULO_7210_12_04_2026.html?rlkey=tt35d00vikdhfmifszeitzav0&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7210_12_04_2026.html"
+            },
+            {
+              "nome": "MODULO_7211_12_04_2026.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/gz4sxf1obskm7tdpmlqan/MODULO_7211_12_04_2026.html?rlkey=qp5ackydax347ylt9umx8jmy6&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7211_12_04_2026.html"
             }
           ],
-          "_totale_file": 7
+          "_totale_file": 18
         },
         {
           "nome": "MeM ASPIRAZIONE",
