@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-13T07:53:51Z",
-  "totale_file": 24451,
+  "generato": "2026-04-13T07:58:04Z",
+  "totale_file": 24452,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61761,7 +61761,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 117,
+      "totale_file": 118,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62712,9 +62712,17 @@
               "link": "https://www.dropbox.com/scl/fi/590c6nnttjrpi1x8ah5hp/MODULO_7225_12_04_2026.html?rlkey=7uqqmf083422s2x4emdee3rff&dl=0?raw=1",
               "dimensione_kb": 2,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7225_12_04_2026.html"
+            },
+            {
+              "nome": "RIAPRI E MODIFICA MODULO TECNICO.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/x1ws9s0ezrwwn8bisrqzi/RIAPRI-E-MODIFICA-MODULO-TECNICO.html?rlkey=ejtsg4d4s46i3tonnqh5d8fmi&dl=0?raw=1",
+              "dimensione_kb": 36,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/RIAPRI E MODIFICA MODULO TECNICO.html"
             }
           ],
-          "_totale_file": 103
+          "_totale_file": 104
         },
         {
           "nome": "MeM ASPIRAZIONE",
