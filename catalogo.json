@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-14T08:13:02Z",
-  "totale_file": 24463,
+  "generato": "2026-04-14T14:43:07Z",
+  "totale_file": 24464,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61761,7 +61761,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 120,
+      "totale_file": 121,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -61794,6 +61794,22 @@
             }
           ],
           "_totale_file": 3
+        },
+        {
+          "nome": "CAMPOLEROSE CANTIERE APRILE 2026",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "CAMPOLEROSE INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_&_Tedesco.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5nzz6t0o1h4q4uhl4hv83/CAMPOLEROSE-INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_-_Tedesco.pdf?rlkey=xweg971udljhvjhuvby1ps0f8&dl=0?raw=1",
+              "dimensione_kb": 301,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/CAMPOLEROSE INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_&_Tedesco.pdf"
+            }
+          ],
+          "_totale_file": 1
         },
         {
           "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
