@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-14T07:27:59Z",
-  "totale_file": 24458,
+  "generato": "2026-04-14T07:57:04Z",
+  "totale_file": 24461,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61761,7 +61761,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 120,
+      "totale_file": 118,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62757,24 +62757,7 @@
           "_totale_file": 3
         }
       ],
-      "file": [
-        {
-          "nome": "COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/dul7ifcn709x7e4vn73mu/COLDLINE-PACKING-LIST-DEL-01-04-2026_260019_20260401_103937.pdf?rlkey=wqj5d5b1xo1vs26t4ztmoik2v&dl=0?raw=1",
-          "dimensione_kb": 76,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf"
-        },
-        {
-          "nome": "MODULA PACKING LIST DEL 26_03_2026.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/z60pef8rihujunalojhs8/MODULA-PACKING-LIST-DEL-26_03_2026.pdf?rlkey=bmnj3ix51zdsyefkpii57vgop&dl=0?raw=1",
-          "dimensione_kb": 78,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULA PACKING LIST DEL 26_03_2026.pdf"
-        }
-      ]
+      "file": []
     },
     {
       "nome": "CLIENTI",
@@ -214739,7 +214722,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2314,
+      "totale_file": 2319,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -214831,14 +214814,6 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/DELIZIE DEL FORNO temp8691005503623848773.pdf"
                 },
                 {
-                  "nome": "FIMAR COPIA TITOLO BPER SCADENZA 02_03_2026.jpeg",
-                  "tipo": "Immagine",
-                  "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/tm6mo1t1bpjnnjx7n4cq0/FIMAR-COPIA-TITOLO-BPER-SCADENZA-02_03_2026.jpeg?rlkey=f7dam3eyin60kf2a6teas7fbo&dl=0?raw=1",
-                  "dimensione_kb": 283,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/FIMAR COPIA TITOLO BPER SCADENZA 02_03_2026.jpeg"
-                },
-                {
                   "nome": "HAPPY MOMENTS BONIFICO_VICECONT_ATT_FT_691_26.09.25.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214853,6 +214828,14 @@
                   "link": "https://www.dropbox.com/scl/fi/ddie2tpv7yde59dkl8uh4/ILAMA-BONIFICO-DEL-16_03_2026.pdf?rlkey=k8odelax8de6w56vn01cosvz6&dl=0?raw=1",
                   "dimensione_kb": 7,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/ILAMA BONIFICO DEL 16_03_2026.pdf"
+                },
+                {
+                  "nome": "MARATEA SERVIZI BONIFICO MARZO 2026 SU INTESA 31086575INFOCC1776087357309081.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/h124uqh1n5ovg7armpe10/MARATEA-SERVIZI-BONIFICO-MARZO-2026-SU-INTESA-31086575INFOCC1776087357309081.pdf?rlkey=y6gj8ks67ku5xr048ch7siglt&dl=0?raw=1",
+                  "dimensione_kb": 62,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/MARATEA SERVIZI BONIFICO MARZO 2026 SU INTESA 31086575INFOCC1776087357309081.pdf"
                 },
                 {
                   "nome": "MeM BONIFICO MPS DEL 9_04_2026.jpeg",
@@ -215008,6 +214991,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/COSENTINO ANTONELLA Dettaglio bonifico istantaneo DEL 8_01_2026.pdf"
                 },
                 {
+                  "nome": "De Michele Alejandro s.a.s. Dettaglio bonifico DEL 13_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/743ee9mwosab330miv2yz/De-Michele-Alejandro-s.a.s.-Dettaglio-bonifico-DEL-13_04_2026.pdf?rlkey=cdqxdrup9z3ufk6f56kdllelo&dl=0?raw=1",
+                  "dimensione_kb": 102,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/De Michele Alejandro s.a.s. Dettaglio bonifico DEL 13_04_2026.pdf"
+                },
+                {
                   "nome": "Dettaglio bonifico istantaneo.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -215062,6 +215053,14 @@
                   "link": "https://www.dropbox.com/scl/fi/xnoe4b860otlru9kw0zfo/FAMAG-Dettaglio-bonifico-istantaneo-DEL-04_02_2026.pdf?rlkey=6kaq5kexcsz1mels76wfo0khq&dl=0?raw=1",
                   "dimensione_kb": 109,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/FAMAG Dettaglio bonifico istantaneo DEL 04_02_2026.pdf"
+                },
+                {
+                  "nome": "FIMAR COPIA TITOLO BPER SCADENZA 02_03_2026.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/tm6mo1t1bpjnnjx7n4cq0/FIMAR-COPIA-TITOLO-BPER-SCADENZA-02_03_2026.jpeg?rlkey=f7dam3eyin60kf2a6teas7fbo&dl=0?raw=1",
+                  "dimensione_kb": 283,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/FIMAR COPIA TITOLO BPER SCADENZA 02_03_2026.jpeg"
                 },
                 {
                   "nome": "FIMAR COPIA TITOLO BPER SCADENZA 31_03_2026.pdf",
@@ -215168,6 +215167,22 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/LA MITO KLIMAIALIA Dettaglio bonifico istantaneo DEL 09_04_2026.pdf"
                 },
                 {
+                  "nome": "LOTUS Dettaglio bonifico istantaneo DEL 13_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xg3wuqx3w0wbkdubufsss/LOTUS-Dettaglio-bonifico-istantaneo-DEL-13_04_2026.pdf?rlkey=8x2glnnb0c3anlnq3xbj86b8j&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/LOTUS Dettaglio bonifico istantaneo DEL 13_04_2026.pdf"
+                },
+                {
+                  "nome": "LOTUS NOCERA STREET FOOD CONFERMA 00000000385952_00000000066483400.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m7q9vi2m1hc096xjg7jmy/LOTUS-NOCERA-STREET-FOOD-CONFERMA-00000000385952_00000000066483400.pdf?rlkey=l2wba2yn89e2doke0d00gxz82&dl=0?raw=1",
+                  "dimensione_kb": 317,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/LOTUS NOCERA STREET FOOD CONFERMA 00000000385952_00000000066483400.pdf"
+                },
+                {
                   "nome": "MECNOSUD COPIA TITOLI BRT 25_09_2025.jpeg",
                   "tipo": "Immagine",
                   "icona": "🖼️",
@@ -215248,6 +215263,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/REPA Dettaglio bonifico istantaneo DEL 17_03_2026.pdf"
                 },
                 {
+                  "nome": "SIRMAN Dettaglio bonifico istantaneo DEL 13_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0nxp9mejfgdoc4b0fgj39/SIRMAN-Dettaglio-bonifico-istantaneo-DEL-13_04_2026.pdf?rlkey=qsnm7ocicjzf0ujz65a74ww63&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/SIRMAN Dettaglio bonifico istantaneo DEL 13_04_2026.pdf"
+                },
+                {
                   "nome": "STAFF ICE SYSTEM SRL Dettaglio bonifico istantaneo DEL 28_01_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -215304,7 +215327,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 48
+              "_totale_file": 53
             },
             {
               "nome": "ARCHIVIO",
@@ -235604,7 +235627,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 2295
+          "_totale_file": 2300
         }
       ],
       "file": []
