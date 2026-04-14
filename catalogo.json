@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-14T08:03:02Z",
-  "totale_file": 24463,
+  "generato": "2026-04-14T08:05:39Z",
+  "totale_file": 24461,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61761,7 +61761,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 120,
+      "totale_file": 118,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62757,24 +62757,7 @@
           "_totale_file": 3
         }
       ],
-      "file": [
-        {
-          "nome": "COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/dul7ifcn709x7e4vn73mu/COLDLINE-PACKING-LIST-DEL-01-04-2026_260019_20260401_103937.pdf?rlkey=wqj5d5b1xo1vs26t4ztmoik2v&dl=0?raw=1",
-          "dimensione_kb": 76,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf"
-        },
-        {
-          "nome": "MODULA PACKING LIST DEL 26_03_2026.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/z60pef8rihujunalojhs8/MODULA-PACKING-LIST-DEL-26_03_2026.pdf?rlkey=bmnj3ix51zdsyefkpii57vgop&dl=0?raw=1",
-          "dimensione_kb": 78,
-          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULA PACKING LIST DEL 26_03_2026.pdf"
-        }
-      ]
+      "file": []
     },
     {
       "nome": "CLIENTI",
