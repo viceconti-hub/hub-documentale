@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-14T05:00:27Z",
-  "totale_file": 24452,
+  "generato": "2026-04-14T06:55:20Z",
+  "totale_file": 24456,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -174954,7 +174954,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4667,
+      "totale_file": 4671,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -184577,6 +184577,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX ILAMA CONFERMA CLI-PREVEN-0002691-00-13042026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/98rfoeeg8s266qi2r7n5m/IDEAM-INOX-ILAMA-CONFERMA-CLI-PREVEN-0002691-00-13042026.pdf?rlkey=zwowltoepzp5tb6w0pky5rlid&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX ILAMA CONFERMA CLI-PREVEN-0002691-00-13042026.pdf"
+                },
+                {
                   "nome": "IDEAM INOX Ordine dacquisto_260033_20260401_184716 RIF.MeM.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -184713,6 +184721,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR Ordine dacquisto_260030_20260330_174203 RIF. DETERGENTE.pdf"
                 },
                 {
+                  "nome": "MORINI GRISOLIA CASTELLUCCIO LIBERTY Ordine dacquisto_260042_20260413_182355.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xbb074zhe5abr7sq2g9o9/MORINI-GRISOLIA-CASTELLUCCIO-LIBERTY-Ordine-dacquisto_260042_20260413_182355.pdf?rlkey=lhdvbuhggat91aqcojwlbqd5b&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MORINI GRISOLIA CASTELLUCCIO LIBERTY Ordine dacquisto_260042_20260413_182355.pdf"
+                },
+                {
                   "nome": "MORINI ORDINE DEL 2026_03_11 003OC20262125613.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -184775,6 +184791,22 @@
                   "link": "https://www.dropbox.com/scl/fi/j6qujsb3fpz80b65ed2bi/PRIOLINOX-Ordine-dacquisto_260001_20260126_182456-RIF.ARTE-DOLCIARIA.pdf?rlkey=cra9yyaoml5taye5o4evgqcdl&dl=0?raw=1",
                   "dimensione_kb": 72,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/PRIOLINOX Ordine dacquisto_260001_20260126_182456 RIF.ARTE DOLCIARIA.pdf"
+                },
+                {
+                  "nome": "SIRMAN 3AM VASCA CONFERMA ORDINE viceconti.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7knd48hr0oyhh03t7d6uh/SIRMAN-3AM-VASCA-CONFERMA-ORDINE-viceconti.pdf?rlkey=8f5m570pe9txr16q9apokeffu&dl=0?raw=1",
+                  "dimensione_kb": 132,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/SIRMAN 3AM VASCA CONFERMA ORDINE viceconti.pdf"
+                },
+                {
+                  "nome": "SIRMAN De Michele Alejandro s.a.s. CONFERMA viceconti.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rvwcgk8e71m076aoryx2c/SIRMAN-De-Michele-Alejandro-s.a.s.-CONFERMA-viceconti.pdf?rlkey=to42u1jqdx42gayqfbm0kmq2i&dl=0?raw=1",
+                  "dimensione_kb": 133,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/SIRMAN De Michele Alejandro s.a.s. CONFERMA viceconti.pdf"
                 },
                 {
                   "nome": "SIRMAN Ordine dacquisto_260031_20260330_173647 RIF.DE MICHELE.pdf",
@@ -184865,7 +184897,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 71
+              "_totale_file": 75
             },
             {
               "nome": "ARCHIVIO",
@@ -189581,7 +189613,7 @@
                       "nome": "ITALIANA MACCHI ORDINE RIF. CARNI LIMONGI.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/toj1zw1diwwkdlqmmp2rm/ITALIANA-MACCHI-ORDINE-RIF.-CARNI-LIMONGI.pdf?rlkey=7ocp4ugx6q4gfg7knokc2yhsc&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 71,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ARCHIVIO ORDINI D'ACQUISTO/ITALIANA MACCHI ORDINE RIF. CARNI LIMONGI.pdf"
                     },
@@ -214681,7 +214713,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3515
+          "_totale_file": 3519
         }
       ],
       "file": []
