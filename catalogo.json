@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-14T14:43:07Z",
-  "totale_file": 24464,
+  "generato": "2026-04-14T14:48:09Z",
+  "totale_file": 24466,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61761,7 +61761,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 121,
+      "totale_file": 123,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -61807,9 +61807,25 @@
               "link": "https://www.dropbox.com/scl/fi/5nzz6t0o1h4q4uhl4hv83/CAMPOLEROSE-INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_-_Tedesco.pdf?rlkey=xweg971udljhvjhuvby1ps0f8&dl=0?raw=1",
               "dimensione_kb": 301,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/CAMPOLEROSE INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_&_Tedesco.pdf"
+            },
+            {
+              "nome": "CAMPOLEROSE PROGETTO SELEZIONE CUCINA E LAVAGGIO 14_04_2026.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/3b64ao12x4fe0grthb71l/CAMPOLEROSE-PROGETTO-SELEZIONE-CUCINA-E-LAVAGGIO-14_04_2026.png?rlkey=hqvvacixcwvhfnlwpxhfdskfq&dl=0?raw=1",
+              "dimensione_kb": 173,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/CAMPOLEROSE PROGETTO SELEZIONE CUCINA E LAVAGGIO 14_04_2026.png"
+            },
+            {
+              "nome": "CAMPOLEROSE PROGETTO SELEZIONE DISPENSA 14_04_2026.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/svak0fn7w9l60acc3tmbl/CAMPOLEROSE-PROGETTO-SELEZIONE-DISPENSA-14_04_2026.png?rlkey=eu993glxwq4fx44kustvjt8q2&dl=0?raw=1",
+              "dimensione_kb": 163,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/CAMPOLEROSE PROGETTO SELEZIONE DISPENSA 14_04_2026.png"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 3
         },
         {
           "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
