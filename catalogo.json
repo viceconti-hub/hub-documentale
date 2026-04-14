@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-14T16:33:59Z",
-  "totale_file": 24501,
+  "generato": "2026-04-14T16:38:57Z",
+  "totale_file": 24502,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61761,7 +61761,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 158,
+      "totale_file": 159,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62002,52 +62002,60 @@
           ],
           "file": [
             {
-              "nome": "025.CAMPOLEROSE A3 - Viggianello Agriturismo Propato & Tedesco Bozza Progetto Soluzione del 18 06 2025.pdf",
+              "nome": "150.CAMPOLEROSE ELENCO ATTREZZATURE Ordine cliente_250801_20260414_162318.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/7n26rf2blg3tev5447r9p/025.CAMPOLEROSE-A3-Viggianello-Agriturismo-Propato-Tedesco-Bozza-Progetto-Soluzione-del-18-06-2025.pdf?rlkey=yisrro6zwhdtxhvsv3fi9diae&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/1uqs31akgvjlsl6hjkghf/150.CAMPOLEROSE-ELENCO-ATTREZZATURE-Ordine-cliente_250801_20260414_162318.pdf?rlkey=jwb8qartt0vflw99cjmtuz5is&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/150.CAMPOLEROSE ELENCO ATTREZZATURE Ordine cliente_250801_20260414_162318.pdf"
+            },
+            {
+              "nome": "250.CAMPOLEROSE A3 - Viggianello Agriturismo Propato & Tedesco Bozza Progetto Soluzione del 18 06 2025.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7n26rf2blg3tev5447r9p/250.CAMPOLEROSE-A3-Viggianello-Agriturismo-Propato-Tedesco-Bozza-Progetto-Soluzione-del-18-06-2025.pdf?rlkey=yisrro6zwhdtxhvsv3fi9diae&dl=0?raw=1",
               "dimensione_kb": 441,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/025.CAMPOLEROSE A3 - Viggianello Agriturismo Propato & Tedesco Bozza Progetto Soluzione del 18 06 2025.pdf"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/250.CAMPOLEROSE A3 - Viggianello Agriturismo Propato & Tedesco Bozza Progetto Soluzione del 18 06 2025.pdf"
             },
             {
-              "nome": "026.CAMPOLEROSE PROGETTO SELEZIONE CUCINA E LAVAGGIO 14_04_2026.png",
+              "nome": "260.CAMPOLEROSE PROGETTO SELEZIONE CUCINA E LAVAGGIO 14_04_2026.png",
               "tipo": "Immagine",
               "icona": "🖼️",
-              "link": "https://www.dropbox.com/scl/fi/3b64ao12x4fe0grthb71l/026.CAMPOLEROSE-PROGETTO-SELEZIONE-CUCINA-E-LAVAGGIO-14_04_2026.png?rlkey=hqvvacixcwvhfnlwpxhfdskfq&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/3b64ao12x4fe0grthb71l/260.CAMPOLEROSE-PROGETTO-SELEZIONE-CUCINA-E-LAVAGGIO-14_04_2026.png?rlkey=hqvvacixcwvhfnlwpxhfdskfq&dl=0?raw=1",
               "dimensione_kb": 173,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/026.CAMPOLEROSE PROGETTO SELEZIONE CUCINA E LAVAGGIO 14_04_2026.png"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/260.CAMPOLEROSE PROGETTO SELEZIONE CUCINA E LAVAGGIO 14_04_2026.png"
             },
             {
-              "nome": "027.CAMPOLEROSE PROGETTO SELEZIONE DISPENSA 14_04_2026.png",
+              "nome": "270.CAMPOLEROSE PROGETTO SELEZIONE DISPENSA 14_04_2026.png",
               "tipo": "Immagine",
               "icona": "🖼️",
-              "link": "https://www.dropbox.com/scl/fi/svak0fn7w9l60acc3tmbl/027.CAMPOLEROSE-PROGETTO-SELEZIONE-DISPENSA-14_04_2026.png?rlkey=eu993glxwq4fx44kustvjt8q2&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/svak0fn7w9l60acc3tmbl/270.CAMPOLEROSE-PROGETTO-SELEZIONE-DISPENSA-14_04_2026.png?rlkey=eu993glxwq4fx44kustvjt8q2&dl=0?raw=1",
               "dimensione_kb": 163,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/027.CAMPOLEROSE PROGETTO SELEZIONE DISPENSA 14_04_2026.png"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/270.CAMPOLEROSE PROGETTO SELEZIONE DISPENSA 14_04_2026.png"
             },
             {
-              "nome": "035.A0 - INDICAZIONI ELETTRICO - Viggianello Agriturismo Propato & Tedesco Bozza Progetto del 18 06 2025.pdf",
+              "nome": "350.A0 - INDICAZIONI ELETTRICO - Viggianello Agriturismo Propato & Tedesco Bozza Progetto del 18 06 2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hvpt3dqgd2hxlna6r3dhp/035.A0-INDICAZIONI-ELETTRICO-Viggianello-Agriturismo-Propato-Tedesco-Bozza-Progetto-del-18-06-2025.pdf?rlkey=yszchbbl6j6p26vrksbri6bpg&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/hvpt3dqgd2hxlna6r3dhp/350.A0-INDICAZIONI-ELETTRICO-Viggianello-Agriturismo-Propato-Tedesco-Bozza-Progetto-del-18-06-2025.pdf?rlkey=yszchbbl6j6p26vrksbri6bpg&dl=0?raw=1",
               "dimensione_kb": 305,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/035.A0 - INDICAZIONI ELETTRICO - Viggianello Agriturismo Propato & Tedesco Bozza Progetto del 18 06 2025.pdf"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/350.A0 - INDICAZIONI ELETTRICO - Viggianello Agriturismo Propato & Tedesco Bozza Progetto del 18 06 2025.pdf"
             },
             {
-              "nome": "035.CAMPOLEROSE INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_&_Tedesco.pdf",
+              "nome": "350.CAMPOLEROSE INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_&_Tedesco.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/5nzz6t0o1h4q4uhl4hv83/035.CAMPOLEROSE-INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_-_Tedesco.pdf?rlkey=xweg971udljhvjhuvby1ps0f8&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/5nzz6t0o1h4q4uhl4hv83/350.CAMPOLEROSE-INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_-_Tedesco.pdf?rlkey=xweg971udljhvjhuvby1ps0f8&dl=0?raw=1",
               "dimensione_kb": 301,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/035.CAMPOLEROSE INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_&_Tedesco.pdf"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/350.CAMPOLEROSE INDICAZIONI_ELETTRICO_Viggianello_Agriturismo_Propato_&_Tedesco.pdf"
             },
             {
-              "nome": "045.A2 - INDICAZIONI IDRAULICO - Viggianello Agriturismo Propato & Tedesco Bozza Progetto del 18 06 2025.pdf",
+              "nome": "450.A2 - INDICAZIONI IDRAULICO - Viggianello Agriturismo Propato & Tedesco Bozza Progetto del 18 06 2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/zcz0yw2wr88pcgax48gk0/045.A2-INDICAZIONI-IDRAULICO-Viggianello-Agriturismo-Propato-Tedesco-Bozza-Progetto-del-18-06-2025.pdf?rlkey=bbf5ss9q1rrqsc4vjowcpkos8&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/zcz0yw2wr88pcgax48gk0/450.A2-INDICAZIONI-IDRAULICO-Viggianello-Agriturismo-Propato-Tedesco-Bozza-Progetto-del-18-06-2025.pdf?rlkey=bbf5ss9q1rrqsc4vjowcpkos8&dl=0?raw=1",
               "dimensione_kb": 214,
-              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/045.A2 - INDICAZIONI IDRAULICO - Viggianello Agriturismo Propato & Tedesco Bozza Progetto del 18 06 2025.pdf"
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/450.A2 - INDICAZIONI IDRAULICO - Viggianello Agriturismo Propato & Tedesco Bozza Progetto del 18 06 2025.pdf"
             },
             {
               "nome": "AGRITURISMO MASSERIA CAMPOLEROSE - Offerta di vendita N° 250610.pdf",
@@ -62122,7 +62130,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/Viggianello Agriturismo Propato & Tedesco Bozza Progetto Soluzione del 23 06 2025.dwg"
             }
           ],
-          "_totale_file": 38
+          "_totale_file": 39
         },
         {
           "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
