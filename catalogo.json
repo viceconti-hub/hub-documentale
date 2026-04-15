@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-15T08:38:58Z",
-  "totale_file": 24505,
+  "generato": "2026-04-15T15:29:11Z",
+  "totale_file": 24506,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61761,7 +61761,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 162,
+      "totale_file": 163,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62122,6 +62122,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/Fattura di vendita_2500507 GRENKE Rif. Capolerose.pdf"
             },
             {
+              "nome": "IFI VETRINA SNACK FREDDO VENTILATO SEZIONE Immagine 2026-04-15 172053.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/9jko84k0pi2n626cwrumj/IFI-VETRINA-SNACK-FREDDO-VENTILATO-SEZIONE-Immagine-2026-04-15-172053.png?rlkey=3wsqn5zwz92orzoawpk8ux5s4&dl=0?raw=1",
+              "dimensione_kb": 203,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/IFI VETRINA SNACK FREDDO VENTILATO SEZIONE Immagine 2026-04-15 172053.png"
+            },
+            {
               "nome": "Render.jpeg",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -62154,7 +62162,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/Viggianello Agriturismo Propato & Tedesco Bozza Progetto Soluzione del 23 06 2025.dwg"
             }
           ],
-          "_totale_file": 42
+          "_totale_file": 43
         },
         {
           "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
