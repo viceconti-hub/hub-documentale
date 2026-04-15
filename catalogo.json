@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-14T16:38:57Z",
-  "totale_file": 24502,
+  "generato": "2026-04-15T07:04:01Z",
+  "totale_file": 24503,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61761,7 +61761,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 159,
+      "totale_file": 160,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62090,6 +62090,14 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/Bozza Progetto Banco Bar e Retro MC.dwg"
             },
             {
+              "nome": "Campolerose_Riepilogo_14042026.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/szu4zf2hh5xprw2ljetsx/Campolerose_Riepilogo_14042026.docx?rlkey=xphkxiy3n4m7uy9xnlys3nxz8&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/Campolerose_Riepilogo_14042026.docx"
+            },
+            {
               "nome": "Fattura di vendita_2500507 GRENKE Rif. Capolerose.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62130,7 +62138,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/Viggianello Agriturismo Propato & Tedesco Bozza Progetto Soluzione del 23 06 2025.dwg"
             }
           ],
-          "_totale_file": 39
+          "_totale_file": 40
         },
         {
           "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
