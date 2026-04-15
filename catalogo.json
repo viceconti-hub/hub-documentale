@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-15T07:43:46Z",
-  "totale_file": 24503,
+  "generato": "2026-04-15T07:53:54Z",
+  "totale_file": 24505,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61761,7 +61761,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 160,
+      "totale_file": 162,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62010,6 +62010,22 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/110.Campolerose_Riepilogo_14042026.docx"
             },
             {
+              "nome": "111.Campolerose_Riepilogo_14042026 X ANTONIO.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/yw7herlmrwtrxtbh6htkz/111.Campolerose_Riepilogo_14042026-X-ANTONIO.docx?rlkey=4c08q7jlqmgzgwtrxq4dkjk0g&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/111.Campolerose_Riepilogo_14042026 X ANTONIO.docx"
+            },
+            {
+              "nome": "111.Campolerose_Riepilogo_14042026 X ANTONIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/t1c94ye2yq8hc74zdryt7/111.Campolerose_Riepilogo_14042026-X-ANTONIO.pdf?rlkey=hr2w78lv2x93g38vo6y50yc6h&dl=0?raw=1",
+              "dimensione_kb": 123,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/111.Campolerose_Riepilogo_14042026 X ANTONIO.pdf"
+            },
+            {
               "nome": "150.CAMPOLEROSE ELENCO ATTREZZATURE Ordine cliente_250801_20260414_162318.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62138,7 +62154,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/CAMPOLEROSE CANTIERE APRILE 2026/Viggianello Agriturismo Propato & Tedesco Bozza Progetto Soluzione del 23 06 2025.dwg"
             }
           ],
-          "_totale_file": 40
+          "_totale_file": 42
         },
         {
           "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
