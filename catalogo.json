@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-16T05:01:15Z",
-  "totale_file": 24519,
+  "generato": "2026-04-16T06:58:28Z",
+  "totale_file": 24525,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -175452,7 +175452,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4671,
+      "totale_file": 4677,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -184947,12 +184947,12 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf"
                 },
                 {
-                  "nome": "COLDLINE Conferma ordine n°26-05163 RIF. NERA_FA TU.pdf",
+                  "nome": "COLDLINE Conferma ordine n°26-05163 RIF.NERA_FA TU.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/h2ccxjlhnwyvktxg0cydr/COLDLINE-Conferma-ordine-n-26-05163-RIF.-NERA_FA-TU.pdf?rlkey=0aceo50zbvgl5gznoyniz7gyb&dl=0?raw=1",
+                  "link": "https://www.dropbox.com/scl/fi/h2ccxjlhnwyvktxg0cydr/COLDLINE-Conferma-ordine-n-26-05163-RIF.NERA_FA-TU.pdf?rlkey=0aceo50zbvgl5gznoyniz7gyb&dl=0?raw=1",
                   "dimensione_kb": 114,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-05163 RIF. NERA_FA TU.pdf"
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-05163 RIF.NERA_FA TU.pdf"
                 },
                 {
                   "nome": "COLDLINE Conferma ordine n°26-05738 RIF.ARTE DOLCIARIA MeM.pdf",
@@ -185059,6 +185059,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/HOSHIZAKI Ordine dacquisto_250447_20251110_125550 RIF.CALA DEL CITRO.pdf"
                 },
                 {
+                  "nome": "IDEA CONFERMA ORDINE doc04976320260415085118 RIF.PADURARU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rkxhnu2k6e5de8ghrh3mk/IDEA-CONFERMA-ORDINE-doc04976320260415085118-RIF.PADURARU.pdf?rlkey=m2cq0b2ciu8bwaueqpm757k5b&dl=0?raw=1",
+                  "dimensione_kb": 333,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEA CONFERMA ORDINE doc04976320260415085118 RIF.PADURARU.pdf"
+                },
+                {
                   "nome": "IDEA CONFERMA_NR0000000110_2025 DEL 23_10_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -185067,12 +185075,44 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEA CONFERMA_NR0000000110_2025 DEL 23_10_2025.pdf"
                 },
                 {
+                  "nome": "IDEA Ordine dacquisto_260043_20260415_085515 RIF.PADURARU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/g4kasg35d6o5704brcqii/IDEA-Ordine-dacquisto_260043_20260415_085515-RIF.PADURARU.pdf?rlkey=lttv653zrc20qm8yyy2mmt67m&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEA Ordine dacquisto_260043_20260415_085515 RIF.PADURARU.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/oexpf2fqcez2gojvya3m9/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002405-00-01042026-RIF.-FA-TU.pdf?rlkey=yzxeompp16rtfag1wd6g25z1h&dl=0?raw=1",
                   "dimensione_kb": 83,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002579-00-08042026 RIF. RUGGIERO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ci56ef9qdb1tuhe468an3/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002579-00-08042026-RIF.-RUGGIERO.pdf?rlkey=786vy9lyrd848vt8xfebr5v5s&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002579-00-08042026 RIF. RUGGIERO.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600014049_N0001537 RIF.FA TU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/na0ntfkslnzm8w6x7vcgr/IDEAM-INOX-CONFERMA-ORDINE-1ID202600014049_N0001537-RIF.FA-TU.pdf?rlkey=9au67gbn5k0wsr6tg7oopsjm1&dl=0?raw=1",
+                  "dimensione_kb": 56,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600014049_N0001537 RIF.FA TU.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600015896_N0001759 RIF. RUGGIERO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/f6hvxav1ksrdr6qxyy2gn/IDEAM-INOX-CONFERMA-ORDINE-1ID202600015896_N0001759-RIF.-RUGGIERO.pdf?rlkey=arid4h54nva69oggrsjfb2dm1&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600015896_N0001759 RIF. RUGGIERO.pdf"
                 },
                 {
                   "nome": "IDEAM INOX ILAMA CONFERMA CLI-PREVEN-0002691-00-13042026.pdf",
@@ -185171,18 +185211,10 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULA PACKING LIST DEL 26_03_2026.pdf"
                 },
                 {
-                  "nome": "MODULAR CONFERMA 26_00619 RIF.FA TU FRIGGITRICI 900.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/8mtcvi6knkg6xtbxuei24/MODULAR-CONFERMA-26_00619-RIF.FA-TU-FRIGGITRICI-900.pdf?rlkey=7pfc97k59ii2jfqo5t37no3ir&dl=0?raw=1",
-                  "dimensione_kb": 151,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_00619 RIF.FA TU FRIGGITRICI 900.pdf"
-                },
-                {
                   "nome": "MODULAR CONFERMA 26_01014 MD_SaleOrdForm_2022 RIF.MeM.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/zwfkiyr5i76bjhp0j6mcc/MODULAR-CONFERMA-26_01014-MD_SaleOrdForm_2022-RIF.MeM.pdf?rlkey=85f2r3x66op77p56visb3apt7&dl=0?raw=1",
+                  "link": "https://www.dropbox.com/scl/fi/z9ni307q046m78c35l73g/MODULAR-CONFERMA-26_01014-MD_SaleOrdForm_2022-RIF.MeM.pdf?rlkey=q4ab3a2a7khmxgw3gkb81awrg&dl=0?raw=1",
                   "dimensione_kb": 139,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_01014 MD_SaleOrdForm_2022 RIF.MeM.pdf"
                 },
@@ -185195,28 +185227,20 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_02043 MD_SaleOrdForm_2022 RIF.FA TU_FRIGGTRICI 90.pdf"
                 },
                 {
-                  "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.MeM_TULS.pdf",
+                  "nome": "MODULAR CONFERMA 26_02641 MD_SaleOrdForm_2022 RIF.MeM_TULS.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/u08hlqin3uvt8zrvhr713/MODULAR-CONFERMA-MD_SaleOrdForm_2022-RIF.MeM_TULS.pdf?rlkey=ee2iyzfcwvy9w1d3wzmih4kaq&dl=0?raw=1",
+                  "link": "https://www.dropbox.com/scl/fi/u08hlqin3uvt8zrvhr713/MODULAR-CONFERMA-26_02641-MD_SaleOrdForm_2022-RIF.MeM_TULS.pdf?rlkey=ee2iyzfcwvy9w1d3wzmih4kaq&dl=0?raw=1",
                   "dimensione_kb": 141,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.MeM_TULS.pdf"
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_02641 MD_SaleOrdForm_2022 RIF.MeM_TULS.pdf"
                 },
                 {
-                  "nome": "MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.MeM.pdf",
+                  "nome": "MODULAR CONFERMA 26_02841 MD_SaleOrdForm_2022 DETERGENTE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/z9ni307q046m78c35l73g/MODULAR-CONFERMA-ORDINE-MD_SaleOrdForm_2022-RIF.MeM.pdf?rlkey=q4ab3a2a7khmxgw3gkb81awrg&dl=0?raw=1",
-                  "dimensione_kb": 139,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.MeM.pdf"
-                },
-                {
-                  "nome": "MODULAR Ordine dacquisto_260030_20260330_174203 RIF. DETERGENTE.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/f3ztm7t9kqsl3i81jtvab/MODULAR-Ordine-dacquisto_260030_20260330_174203-RIF.-DETERGENTE.pdf?rlkey=c6iehs20d7an4pr11v0hshajc&dl=0?raw=1",
-                  "dimensione_kb": 72,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR Ordine dacquisto_260030_20260330_174203 RIF. DETERGENTE.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/k15fhhov779iuj3a5w4wl/MODULAR-CONFERMA-26_02841-MD_SaleOrdForm_2022-DETERGENTE.pdf?rlkey=ccxji0sdoxroj2mbr2mxjefoy&dl=0?raw=1",
+                  "dimensione_kb": 140,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_02841 MD_SaleOrdForm_2022 DETERGENTE.pdf"
                 },
                 {
                   "nome": "MORINI GRISOLIA CASTELLUCCIO LIBERTY Ordine dacquisto_260042_20260413_182355.pdf",
@@ -185289,6 +185313,14 @@
                   "link": "https://www.dropbox.com/scl/fi/j6qujsb3fpz80b65ed2bi/PRIOLINOX-Ordine-dacquisto_260001_20260126_182456-RIF.ARTE-DOLCIARIA.pdf?rlkey=cra9yyaoml5taye5o4evgqcdl&dl=0?raw=1",
                   "dimensione_kb": 72,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/PRIOLINOX Ordine dacquisto_260001_20260126_182456 RIF.ARTE DOLCIARIA.pdf"
+                },
+                {
+                  "nome": "REPA PREV-1010970-083208.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9g2rfwfbgbq8gztb3uftk/REPA-PREV-1010970-083208.PDF?rlkey=xul6bqhnzfcyrj9rynyfloy12&dl=0?raw=1",
+                  "dimensione_kb": 572,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/REPA PREV-1010970-083208.PDF"
                 },
                 {
                   "nome": "SIRMAN 3AM VASCA CONFERMA ORDINE viceconti.pdf",
@@ -185395,7 +185427,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 75
+              "_totale_file": 79
             },
             {
               "nome": "ARCHIVIO",
@@ -190111,7 +190143,7 @@
                       "nome": "ITALIANA MACCHI ORDINE RIF. CARNI LIMONGI.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/toj1zw1diwwkdlqmmp2rm/ITALIANA-MACCHI-ORDINE-RIF.-CARNI-LIMONGI.pdf?rlkey=7ocp4ugx6q4gfg7knokc2yhsc&dl=0?raw=1",
                       "dimensione_kb": 71,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ARCHIVIO ORDINI D'ACQUISTO/ITALIANA MACCHI ORDINE RIF. CARNI LIMONGI.pdf"
                     },
@@ -214751,6 +214783,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MOBILTECNO conferma Viceconti RIF. PANAINO.pdf"
                 },
                 {
+                  "nome": "MODULAR CONFERMA 26_00619 RIF.FA TU FRIGGITRICI 900.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8mtcvi6knkg6xtbxuei24/MODULAR-CONFERMA-26_00619-RIF.FA-TU-FRIGGITRICI-900.pdf?rlkey=7pfc97k59ii2jfqo5t37no3ir&dl=0?raw=1",
+                  "dimensione_kb": 151,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULAR CONFERMA 26_00619 RIF.FA TU FRIGGITRICI 900.pdf"
+                },
+                {
                   "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.CAMPOLEROSE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214805,6 +214845,14 @@
                   "link": "https://www.dropbox.com/scl/fi/3xzasqkvne28uwgmthknp/MODULAR-Ordine-dacquisto_250453_20251118_160327-RIF.DECALCIFICANTE.pdf?rlkey=hq01ywkpwd6j6a68vzxy9iuwb&dl=0?raw=1",
                   "dimensione_kb": 73,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULAR Ordine dacquisto_250453_20251118_160327 RIF.DECALCIFICANTE.pdf"
+                },
+                {
+                  "nome": "MODULAR Ordine dacquisto_260030_20260330_174203 RIF. DETERGENTE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/f3ztm7t9kqsl3i81jtvab/MODULAR-Ordine-dacquisto_260030_20260330_174203-RIF.-DETERGENTE.pdf?rlkey=c6iehs20d7an4pr11v0hshajc&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULAR Ordine dacquisto_260030_20260330_174203 RIF. DETERGENTE.pdf"
                 },
                 {
                   "nome": "MODULAR PACKING LISTI DEL 27_11_2025.pdf",
@@ -215207,11 +215255,11 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3444
+              "_totale_file": 3446
             }
           ],
           "file": [],
-          "_totale_file": 3519
+          "_totale_file": 3525
         }
       ],
       "file": []
