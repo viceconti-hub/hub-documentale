@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-16T00:20:11Z",
-  "totale_file": 24507,
+  "generato": "2026-04-16T02:17:50Z",
+  "totale_file": 24509,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -133441,7 +133441,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4339,
+      "totale_file": 4341,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -160981,6 +160981,30 @@
                 }
               ],
               "_totale_file": 4
+            },
+            {
+              "nome": "IDEAM INOX SCHEDE TECNICHE",
+              "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/IDEAM INOX SCHEDE TECNICHE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "INVERTER SCHEDA TECNICA INV1 INV2 INV3 PAGINA 1.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mub6dzdv7b2j0beao5cmy/INVERTER-SCHEDA-TECNICA-INV1-INV2-INV3-PAGINA-1.pdf?rlkey=g8s8jwnfqun35j65pnclnffjn&dl=0?raw=1",
+                  "dimensione_kb": 94,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/IDEAM INOX SCHEDE TECNICHE/INVERTER SCHEDA TECNICA INV1 INV2 INV3 PAGINA 1.pdf"
+                },
+                {
+                  "nome": "INVERTER SCHEDA TECNICA INV1 INV2 INV3.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/a3lr5z20q9cvm34rdi320/INVERTER-SCHEDA-TECNICA-INV1-INV2-INV3.pdf?rlkey=lm5vrrj1ddpoltlgixrtsz9ic&dl=0?raw=1",
+                  "dimensione_kb": 1180,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/IDEAM INOX SCHEDE TECNICHE/INVERTER SCHEDA TECNICA INV1 INV2 INV3.pdf"
+                }
+              ],
+              "_totale_file": 2
             }
           ],
           "file": [
@@ -161001,7 +161025,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/IDEAM INOX PUGLIAINOX Listino2022-EspositoriRefrigerati.pdf"
             }
           ],
-          "_totale_file": 7
+          "_totale_file": 9
         },
         {
           "nome": "IFI",
