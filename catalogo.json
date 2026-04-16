@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-16T06:58:28Z",
-  "totale_file": 24525,
+  "generato": "2026-04-16T08:01:20Z",
+  "totale_file": 24530,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -215268,7 +215268,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2319,
+      "totale_file": 2324,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -215422,9 +215422,17 @@
                   "link": "https://www.dropbox.com/scl/fi/x0sl5fppd8dfc73x5nzfx/VE.RO.-COPIA-TITOLI.jpeg?rlkey=njs5vwtziicvo9zkew0pkv6qo&dl=0?raw=1",
                   "dimensione_kb": 230,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/VE.RO. COPIA TITOLI.jpeg"
+                },
+                {
+                  "nome": "VELARDI RIEPILOGO TITOLI RITIRATI IL 14_4_2026.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/eb7hkzzs8l7wwc7r7exwj/VELARDI-RIEPILOGO-TITOLI-RITIRATI-IL-14_4_2026.xlsx?rlkey=1ymniofje4vkht68pmhev1de3&dl=0?raw=1",
+                  "dimensione_kb": 9,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/VELARDI RIEPILOGO TITOLI RITIRATI IL 14_4_2026.xlsx"
                 }
               ],
-              "_totale_file": 18
+              "_totale_file": 19
             }
           ],
           "file": [
@@ -215437,7 +215445,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/COLDLINE Conferma ordine n°26-02112 RIF.A.M DI ANTONELLA MANCINO CORRETTA.pdf"
             }
           ],
-          "_totale_file": 19
+          "_totale_file": 20
         },
         {
           "nome": "PAGAMENTI IN USCITA",
@@ -215448,6 +215456,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI",
               "cartelle": [],
               "file": [
+                {
+                  "nome": "AMETRANO BONIFICO ISTANTANEO SMART CBI - Firma DEL 16_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2o6o1a2rmsuut4rfdec73/AMETRANO-BONIFICO-ISTANTANEO-SMART-CBI-Firma-DEL-16_04_2026.pdf?rlkey=waixmygpd2zgggkcy0ybua60x&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/AMETRANO BONIFICO ISTANTANEO SMART CBI - Firma DEL 16_04_2026.pdf"
+                },
                 {
                   "nome": "ARISTARCO TITOLI BPER APRILE_LUGLIO_2026.pdf",
                   "tipo": "PDF",
@@ -215761,6 +215777,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/MODULAR COPIA TITOLI BRT 30_07_2025 ! FARE BONIFICI.pdf"
                 },
                 {
+                  "nome": "MODULAR Dettaglio bonifico istantaneo DEL 14_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/h3n5h6ki36b1safp70ywt/MODULAR-Dettaglio-bonifico-istantaneo-DEL-14_04_2026.pdf?rlkey=cso76v1jg6ebusclbmndebj5g&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/MODULAR Dettaglio bonifico istantaneo DEL 14_04_2026.pdf"
+                },
+                {
                   "nome": "MODULAR Dettaglio bonifico istantaneo DEL 30_01_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -215799,6 +215823,22 @@
                   "link": "https://www.dropbox.com/scl/fi/fr2s9u054nmndekmw3zn7/REPA-Dettaglio-bonifico-DEL-10_03_2026.pdf?rlkey=7r1a40uk5stwcx3o2szk8a6pg&dl=0?raw=1",
                   "dimensione_kb": 47,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/REPA Dettaglio bonifico DEL 10_03_2026.pdf"
+                },
+                {
+                  "nome": "REPA Dettaglio bonifico istantaneo DEL 14_04_2026 BIS.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gb4gnq6e8pa92n0c65xby/REPA-Dettaglio-bonifico-istantaneo-DEL-14_04_2026-BIS.pdf?rlkey=6afonvg7vr1qhw0ljs1mpg4pj&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/REPA Dettaglio bonifico istantaneo DEL 14_04_2026 BIS.pdf"
+                },
+                {
+                  "nome": "REPA Dettaglio bonifico istantaneo DEL 14_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/iovc997dijlxncsfpthvk/REPA-Dettaglio-bonifico-istantaneo-DEL-14_04_2026.pdf?rlkey=vel9s7weaxoxd8g2ij5kdmzly&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/REPA Dettaglio bonifico istantaneo DEL 14_04_2026.pdf"
                 },
                 {
                   "nome": "REPA Dettaglio bonifico istantaneo DEL 17_03_2026.pdf",
@@ -215873,7 +215913,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 53
+              "_totale_file": 57
             },
             {
               "nome": "ARCHIVIO",
@@ -236173,7 +236213,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 2300
+          "_totale_file": 2304
         }
       ],
       "file": []
