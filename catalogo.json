@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-17T02:15:03Z",
-  "totale_file": 24531,
+  "generato": "2026-04-17T04:57:18Z",
+  "totale_file": 24532,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5591,
+      "totale_file": 5592,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -58487,6 +58487,14 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/SALUMERIA SCOLLO Gmail - [Viceconti Store] New order _ #206 - WOLXCAQZR.pdf"
                 },
                 {
+                  "nome": "SAMMARTINO ISACCO Ordine cliente_260102_20260416_120338.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ct8tsrb0dtarn38hog08a/SAMMARTINO-ISACCO-Ordine-cliente_260102_20260416_120338.pdf?rlkey=povi6fqd7s2tufyvdgzpqomcn&dl=0?raw=1",
+                  "dimensione_kb": 70,
+                  "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/SAMMARTINO ISACCO Ordine cliente_260102_20260416_120338.pdf"
+                },
+                {
                   "nome": "SOGNO DEL MARE Gmail - Fwd_ [Viceconti Store] New order _ #219 - SPLIMWPHE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -58527,7 +58535,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/APERTI/VELARDI Ordine cliente_260092_20260402_122630.pdf"
                 }
               ],
-              "_totale_file": 22
+              "_totale_file": 23
             },
             {
               "nome": "ARCHIVIO",
@@ -58707,7 +58715,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 43
+          "_totale_file": 44
         }
       ],
       "file": []
