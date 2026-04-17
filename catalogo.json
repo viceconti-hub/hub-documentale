@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-17T06:49:39Z",
-  "totale_file": 24537,
+  "generato": "2026-04-17T07:51:26Z",
+  "totale_file": 24538,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -215333,7 +215333,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2324,
+      "totale_file": 2325,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -215528,6 +215528,14 @@
                   "link": "https://www.dropbox.com/scl/fi/2o6o1a2rmsuut4rfdec73/AMETRANO-BONIFICO-ISTANTANEO-SMART-CBI-Firma-DEL-16_04_2026.pdf?rlkey=waixmygpd2zgggkcy0ybua60x&dl=0?raw=1",
                   "dimensione_kb": 2,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/AMETRANO BONIFICO ISTANTANEO SMART CBI - Firma DEL 16_04_2026.pdf"
+                },
+                {
+                  "nome": "ARISTARCO Dettaglio bonifico istantaneo DEL 16_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/sd595gqf890wgkk688cos/ARISTARCO-Dettaglio-bonifico-istantaneo-DEL-16_04_2026.pdf?rlkey=aqrqa80s6osa5hzcmb2sna4ma&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/ARISTARCO Dettaglio bonifico istantaneo DEL 16_04_2026.pdf"
                 },
                 {
                   "nome": "ARISTARCO TITOLI BPER APRILE_LUGLIO_2026.pdf",
@@ -215978,7 +215986,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 57
+              "_totale_file": 58
             },
             {
               "nome": "ARCHIVIO",
@@ -231732,7 +231740,7 @@
                       "nome": "PADERNO BONIFICO DEL 10_11_2023.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/v44juchw9dqoryrqwx6hf/PADERNO-BONIFICO-DEL-10_11_2023.pdf?rlkey=nv23rj5gjizdxcdc4u02qo56m&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 100,
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/PADERNO PAGAMENTI/PADERNO BONIFICO DEL 10_11_2023.pdf"
                     },
@@ -236278,7 +236286,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 2304
+          "_totale_file": 2305
         }
       ],
       "file": []
