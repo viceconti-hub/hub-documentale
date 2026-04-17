@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-17T04:57:18Z",
-  "totale_file": 24532,
+  "generato": "2026-04-17T06:49:39Z",
+  "totale_file": 24537,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -175476,7 +175476,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4677,
+      "totale_file": 4682,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -175494,6 +175494,30 @@
                   "link": "https://www.dropbox.com/scl/fi/mx8jr0cskydf33k06c5az/2026-02964VICECONTI-SNC-DI-ANTONIO-E-PROSPERO_Rep2.PDF?rlkey=d3kvxf85ndcgh5hwngedljo84&dl=0?raw=1",
                   "dimensione_kb": 141,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/APERTE/2026 02964VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF"
+                },
+                {
+                  "nome": "FIMAR DDT 2026 06615VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0ovh66qkfhq8u9v6rua1u/FIMAR-DDT-2026-06615VICECONTI-SNC-DI-ANTONIO-E-PROSPERO_Rep2.PDF?rlkey=5czcd3kvvgwxqnfa198otbct1&dl=0?raw=1",
+                  "dimensione_kb": 144,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/APERTE/FIMAR DDT 2026 06615VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF"
+                },
+                {
+                  "nome": "FIMAR DDT 2026 07283VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lwkd52rnjitxl1z9fa019/FIMAR-DDT-2026-07283VICECONTI-SNC-DI-ANTONIO-E-PROSPERO_Rep2.PDF?rlkey=0gn9gjtebe3dcbuai9cyxir4g&dl=0?raw=1",
+                  "dimensione_kb": 142,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/APERTE/FIMAR DDT 2026 07283VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF"
+                },
+                {
+                  "nome": "FIMAR DDT 2026 08408VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9t2kw5436uhi21imj6u24/FIMAR-DDT-2026-08408VICECONTI-SNC-DI-ANTONIO-E-PROSPERO_Rep2.PDF?rlkey=vyuancy335uduxjz586yeu5wj&dl=0?raw=1",
+                  "dimensione_kb": 144,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/APERTE/FIMAR DDT 2026 08408VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF"
                 },
                 {
                   "nome": "REPA 27898.PDF",
@@ -175520,7 +175544,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/APERTE/REPA 29183.PDF"
                 }
               ],
-              "_totale_file": 4
+              "_totale_file": 7
             },
             {
               "nome": "ARCHIVIO",
@@ -175756,7 +175780,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 32
+          "_totale_file": 35
         },
         {
           "nome": "FATTURE DA FORNITORE",
@@ -184851,12 +184875,12 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ACCIAIO TeD DISEGNO TAVOLO RIF.BRUTIUM.pdf"
                 },
                 {
-                  "nome": "ARISTARCO Ordine dacquisto_250446_20251120_161255 RIF.CALA DEL CITRO.pdf",
+                  "nome": "ARISTARCO Preventivo Viceconti FORNITURA MARZO 2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/lcaus6qkwgl9jiq3iqbad/ARISTARCO-Ordine-dacquisto_250446_20251120_161255-RIF.CALA-DEL-CITRO.pdf?rlkey=knrbm2r8nbou1xsuy5ktsqrlb&dl=0?raw=1",
-                  "dimensione_kb": 71,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARISTARCO Ordine dacquisto_250446_20251120_161255 RIF.CALA DEL CITRO.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/800h86er0vx06ebjtzpyd/ARISTARCO-Preventivo-Viceconti-FORNITURA-MARZO-2026.pdf?rlkey=gb1njwi61zv3moi4onahu0q2c&dl=0?raw=1",
+                  "dimensione_kb": 271,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARISTARCO Preventivo Viceconti FORNITURA MARZO 2026.pdf"
                 },
                 {
                   "nome": "ARISTARCO RICHIESTA DI OFFERTA SPECIALE PROMOZIONE MARZO 2026_260027_20260330_134721.pdf",
@@ -184955,22 +184979,6 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/CB VALKO CONFERMA offerta  VICECONTI RIF.CARNI LIMONGI_CILINDRI PNEUMATICI.pdf"
                 },
                 {
-                  "nome": "COLDLINE Conferma ordine n°26-03168 RIF.CORRADO MICHELA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/vxmkz8yiiuq9wy88re17l/COLDLINE-Conferma-ordine-n-26-03168-RIF.CORRADO-MICHELA.pdf?rlkey=a5uk7o0ps9c1goqy4vfc1vnuz&dl=0?raw=1",
-                  "dimensione_kb": 97,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-03168 RIF.CORRADO MICHELA.pdf"
-                },
-                {
-                  "nome": "COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/181awnhuzryo2qd2ruyiv/COLDLINE-Conferma-ordine-n-26-03532-RIF.CENTRAL-PECORONE-e-MeM-CORRETTA.pdf?rlkey=gv46ktuq4gdhmnu3bxgdregbl&dl=0?raw=1",
-                  "dimensione_kb": 96,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf"
-                },
-                {
                   "nome": "COLDLINE Conferma ordine n°26-05163 RIF.NERA_FA TU.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -185033,6 +185041,14 @@
                   "link": "https://www.dropbox.com/scl/fi/rl3dpw1ro22zu0k3t4nku/FIMEL-PREVENTIVO-A-CLIENTE-152025-DEL-19-02-2026-VICECONTI-SNC-DI-PROSPERO-VICECONTI.PDF?rlkey=o8llm07ulggnkas6ea4zjrc50&dl=0?raw=1",
                   "dimensione_kb": 434,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/FIMEL PREVENTIVO A CLIENTE 152025 DEL 19-02-2026  VICECONTI SNC DI PROSPERO VICECONTI.PDF"
+                },
+                {
+                  "nome": "Fimar_Importazione_SAP.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/lcqyxm1xo2mbejch6h1vo/Fimar_Importazione_SAP.xlsx?rlkey=bwn775fislkr5a572fj6t8q7r&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/Fimar_Importazione_SAP.xlsx"
                 },
                 {
                   "nome": "GIMETAL 1_PKLIST-GM_5288_0000949_11032026_VICECONTI SNC.pdf",
@@ -185113,6 +185129,14 @@
                   "link": "https://www.dropbox.com/scl/fi/oexpf2fqcez2gojvya3m9/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002405-00-01042026-RIF.-FA-TU.pdf?rlkey=yzxeompp16rtfag1wd6g25z1h&dl=0?raw=1",
                   "dimensione_kb": 83,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002471-00-02042026 RIF.MeM_CAPPE E MOTORI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/g062e89qdngjc5obhouqr/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002471-00-02042026-RIF.MeM_CAPPE-E-MOTORI.pdf?rlkey=mqd81wf2sbkzjm9zj8pyukxv2&dl=0?raw=1",
+                  "dimensione_kb": 61,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002471-00-02042026 RIF.MeM_CAPPE E MOTORI.pdf"
                 },
                 {
                   "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002579-00-08042026 RIF. RUGGIERO.pdf",
@@ -215282,8 +215306,25 @@
               "_totale_file": 3446
             }
           ],
-          "file": [],
-          "_totale_file": 3525
+          "file": [
+            {
+              "nome": "COLDLINE Conferma ordine n°26-03168 RIF.CORRADO MICHELA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vxmkz8yiiuq9wy88re17l/COLDLINE-Conferma-ordine-n-26-03168-RIF.CORRADO-MICHELA.pdf?rlkey=a5uk7o0ps9c1goqy4vfc1vnuz&dl=0?raw=1",
+              "dimensione_kb": 97,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-03168 RIF.CORRADO MICHELA.pdf"
+            },
+            {
+              "nome": "COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/181awnhuzryo2qd2ruyiv/COLDLINE-Conferma-ordine-n-26-03532-RIF.CENTRAL-PECORONE-e-MeM-CORRETTA.pdf?rlkey=gv46ktuq4gdhmnu3bxgdregbl&dl=0?raw=1",
+              "dimensione_kb": 96,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf"
+            }
+          ],
+          "_totale_file": 3527
         }
       ],
       "file": []
