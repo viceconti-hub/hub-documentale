@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-16T08:17:27Z",
-  "totale_file": 24530,
+  "generato": "2026-04-17T00:17:02Z",
+  "totale_file": 24531,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -63237,7 +63237,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7057,
+      "totale_file": 7058,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -79669,12 +79669,12 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI",
               "cartelle": [
                 {
-                  "nome": "AREA TECNICA CARNI LIMONGI",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI",
+                  "nome": "CARNI LIMONGI AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA",
                   "cartelle": [
                     {
                       "nome": "AFFETTATRICE CARNE OMAS",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/AFFETTATRICE CARNE OMAS",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/AFFETTATRICE CARNE OMAS",
                       "cartelle": [],
                       "file": [
                         {
@@ -79683,14 +79683,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/4x49v76xtfzvlrz20q388/WhatsApp-Image-2025-06-11-at-16.21.32.jpeg?rlkey=r4qfut48d3w9couuwvijicthe&dl=0?raw=1",
                           "dimensione_kb": 133,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/AFFETTATRICE CARNE OMAS/WhatsApp Image 2025-06-11 at 16.21.32.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/AFFETTATRICE CARNE OMAS/WhatsApp Image 2025-06-11 at 16.21.32.jpeg"
                         }
                       ],
                       "_totale_file": 1
                     },
                     {
                       "nome": "BILANCE ITALIANA MACCHI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI",
                       "cartelle": [],
                       "file": [
                         {
@@ -79699,7 +79699,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/brab4emum0q9x4fw7a3tk/0576100m000174_1.00.pdf?rlkey=9rsqlyrpau4bhbiqh53hmsm1v&dl=0?raw=1",
                           "dimensione_kb": 2729,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/0576100m000174_1.00.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/0576100m000174_1.00.pdf"
                         },
                         {
                           "nome": "CARNI LIMONGI SALUMIFICIO MATR. MACH 8000 1.JPG",
@@ -79707,7 +79707,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/1bbbhxdehvspjln8pr8xn/CARNI-LIMONGI-SALUMIFICIO-MATR.-MACH-8000-1.JPG?rlkey=s6tc0978uo54i5x4wsp6sno4m&dl=0?raw=1",
                           "dimensione_kb": 73,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/CARNI LIMONGI SALUMIFICIO MATR. MACH 8000 1.JPG"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/CARNI LIMONGI SALUMIFICIO MATR. MACH 8000 1.JPG"
                         },
                         {
                           "nome": "CARNI LIMONGI SALUMIFICIO MATR. MACH 8000 2.JPG",
@@ -79715,7 +79715,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/uj8o542r53aowoj63ulqg/CARNI-LIMONGI-SALUMIFICIO-MATR.-MACH-8000-2.JPG?rlkey=42jj3gi3ktuzxm6tmep7o6bfu&dl=0?raw=1",
                           "dimensione_kb": 86,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/CARNI LIMONGI SALUMIFICIO MATR. MACH 8000 2.JPG"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/CARNI LIMONGI SALUMIFICIO MATR. MACH 8000 2.JPG"
                         },
                         {
                           "nome": "CE9000_P_007186_REV-K.pdf",
@@ -79723,7 +79723,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/4g4paogpzl2ezamqviyo5/CE9000_P_007186_REV-K.pdf?rlkey=99opxkrfw5n87l35gdsr7ktnz&dl=0?raw=1",
                           "dimensione_kb": 1030,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/CE9000_P_007186_REV-K.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/CE9000_P_007186_REV-K.pdf"
                         },
                         {
                           "nome": "WhatsApp Image 2021-10-08 at 18.51.05 (1).jpeg",
@@ -79731,7 +79731,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/kq4173gh6ko9w07bcmycq/WhatsApp-Image-2021-10-08-at-18.51.05-1.jpeg?rlkey=dwxi79a8g8eg2ocn2yxxw9d9q&dl=0?raw=1",
                           "dimensione_kb": 111,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/WhatsApp Image 2021-10-08 at 18.51.05 (1).jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/WhatsApp Image 2021-10-08 at 18.51.05 (1).jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2021-10-08 at 18.51.05.jpeg",
@@ -79739,7 +79739,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/brp56465fu3ms380y51np/WhatsApp-Image-2021-10-08-at-18.51.05.jpeg?rlkey=chfy437af21cofzk7obpy1cbq&dl=0?raw=1",
                           "dimensione_kb": 168,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/WhatsApp Image 2021-10-08 at 18.51.05.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/WhatsApp Image 2021-10-08 at 18.51.05.jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2021-10-08 at 18.51.06.jpeg",
@@ -79747,7 +79747,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/of0f8x5u8lcvj8u0bb9nw/WhatsApp-Image-2021-10-08-at-18.51.06.jpeg?rlkey=u2lv66o331ulq1ew9mc6pvk22&dl=0?raw=1",
                           "dimensione_kb": 150,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/WhatsApp Image 2021-10-08 at 18.51.06.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/WhatsApp Image 2021-10-08 at 18.51.06.jpeg"
                         },
                         {
                           "nome": "ce9000_t_007180_rev-h.pdf",
@@ -79755,7 +79755,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/3bbsf3u0yuq28vq8ukwqq/ce9000_t_007180_rev-h.pdf?rlkey=51mg3s893oc8umbplkuk9v88u&dl=0?raw=1",
                           "dimensione_kb": 5574,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/ce9000_t_007180_rev-h.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/ce9000_t_007180_rev-h.pdf"
                         },
                         {
                           "nome": "ce9000evo_u_007269_rev-a5.pdf",
@@ -79763,7 +79763,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/bfqthf75y33mq4g1p2w6k/ce9000evo_u_007269_rev-a5.pdf?rlkey=ck1qs0y5t2ksvkea7z3hofyur&dl=0?raw=1",
                           "dimensione_kb": 18949,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/ce9000evo_u_007269_rev-a5.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/ce9000evo_u_007269_rev-a5.pdf"
                         },
                         {
                           "nome": "collegamenti_t_007092_rev-n.pdf",
@@ -79771,7 +79771,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/uu2apni606wydjtwzrp6c/collegamenti_t_007092_rev-n.pdf?rlkey=abihd9xdhf90q15aflna737gl&dl=0?raw=1",
                           "dimensione_kb": 1967,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/collegamenti_t_007092_rev-n.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/collegamenti_t_007092_rev-n.pdf"
                         },
                         {
                           "nome": "esploso_mach_8000-ita_rev_d_1.pdf",
@@ -79779,7 +79779,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/xinuak5cc7joen53of8e7/esploso_mach_8000-ita_rev_d_1.pdf?rlkey=rqzak58cdw3bate4cki9t8xj4&dl=0?raw=1",
                           "dimensione_kb": 1996,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/esploso_mach_8000-ita_rev_d_1.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/esploso_mach_8000-ita_rev_d_1.pdf"
                         },
                         {
                           "nome": "gr_ce9000_78100m000046_1.00.pdf",
@@ -79787,14 +79787,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ag8fvxpqpxfgnajci9d06/gr_ce9000_78100m000046_1.00.pdf?rlkey=ldzz1d0bydwrrk0gm2398yug9&dl=0?raw=1",
                           "dimensione_kb": 3355,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCE ITALIANA MACCHI/gr_ce9000_78100m000046_1.00.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/gr_ce9000_78100m000046_1.00.pdf"
                         }
                       ],
                       "_totale_file": 12
                     },
                     {
                       "nome": "BILANCIA AEREA ITALIANA MACCHI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCIA AEREA ITALIANA MACCHI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA AEREA ITALIANA MACCHI",
                       "cartelle": [],
                       "file": [
                         {
@@ -79803,7 +79803,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/a7zxsjeiklagh8hg6lnf0/BRILLANTANTE-ACIDO-SCHEDA-TECNICA-E-SICUREZZA.pdf?rlkey=kifriir8b9gkzxrnkuh32jizj&dl=0?raw=1",
                           "dimensione_kb": 114,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCIA AEREA ITALIANA MACCHI/BRILLANTANTE ACIDO SCHEDA TECNICA E SICUREZZA.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA AEREA ITALIANA MACCHI/BRILLANTANTE ACIDO SCHEDA TECNICA E SICUREZZA.pdf"
                         },
                         {
                           "nome": "WhatsApp Image 2022-12-06 at 13.13.07 (1).jpeg",
@@ -79811,7 +79811,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/8nwpn3lap9hvfa4teiox3/WhatsApp-Image-2022-12-06-at-13.13.07-1.jpeg?rlkey=n91qudqvugw32jwa2t0y69h2m&dl=0?raw=1",
                           "dimensione_kb": 120,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCIA AEREA ITALIANA MACCHI/WhatsApp Image 2022-12-06 at 13.13.07 (1).jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA AEREA ITALIANA MACCHI/WhatsApp Image 2022-12-06 at 13.13.07 (1).jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2022-12-06 at 13.13.07.jpeg",
@@ -79819,14 +79819,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/jndggtmoh09mw2b6gnhpl/WhatsApp-Image-2022-12-06-at-13.13.07.jpeg?rlkey=ab6ofpldhv0fip21uzsgfcqxt&dl=0?raw=1",
                           "dimensione_kb": 112,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/BILANCIA AEREA ITALIANA MACCHI/WhatsApp Image 2022-12-06 at 13.13.07.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA AEREA ITALIANA MACCHI/WhatsApp Image 2022-12-06 at 13.13.07.jpeg"
                         }
                       ],
                       "_totale_file": 3
                     },
                     {
                       "nome": "FRYTOP MODULAR",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/FRYTOP MODULAR",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/FRYTOP MODULAR",
                       "cartelle": [],
                       "file": [
                         {
@@ -79835,7 +79835,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/exxm91fsfv0xgdq68avty/WhatsApp-Image-2022-10-17-at-09.58.40.jpeg?rlkey=l3s6gznbxd43hir4fz9hbc1gf&dl=0?raw=1",
                           "dimensione_kb": 214,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/FRYTOP MODULAR/WhatsApp Image 2022-10-17 at 09.58.40.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/FRYTOP MODULAR/WhatsApp Image 2022-10-17 at 09.58.40.jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2022-10-17 at 09.58.41 (1).jpeg",
@@ -79843,7 +79843,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/d9z1a43dhlqcq3kjx4w17/WhatsApp-Image-2022-10-17-at-09.58.41-1.jpeg?rlkey=05ykz6zlmmg9mx9eqbhryenv4&dl=0?raw=1",
                           "dimensione_kb": 121,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/FRYTOP MODULAR/WhatsApp Image 2022-10-17 at 09.58.41 (1).jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/FRYTOP MODULAR/WhatsApp Image 2022-10-17 at 09.58.41 (1).jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2022-10-17 at 09.58.41.jpeg",
@@ -79851,7 +79851,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/x66jehrtwautmgmle9wbf/WhatsApp-Image-2022-10-17-at-09.58.41.jpeg?rlkey=w2wg3tluu7z73nummgyyimz6z&dl=0?raw=1",
                           "dimensione_kb": 189,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/FRYTOP MODULAR/WhatsApp Image 2022-10-17 at 09.58.41.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/FRYTOP MODULAR/WhatsApp Image 2022-10-17 at 09.58.41.jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2022-10-17 at 09.58.42.jpeg",
@@ -79859,14 +79859,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/vmpex6kkuswi577kyoo50/WhatsApp-Image-2022-10-17-at-09.58.42.jpeg?rlkey=f7b9zpsvmyrggjp24zbtv7a9o&dl=0?raw=1",
                           "dimensione_kb": 198,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/FRYTOP MODULAR/WhatsApp Image 2022-10-17 at 09.58.42.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/FRYTOP MODULAR/WhatsApp Image 2022-10-17 at 09.58.42.jpeg"
                         }
                       ],
                       "_totale_file": 4
                     },
                     {
                       "nome": "HAMBURGATRICE FIMAR CARNI LIMONGI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/HAMBURGATRICE FIMAR CARNI LIMONGI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/HAMBURGATRICE FIMAR CARNI LIMONGI",
                       "cartelle": [],
                       "file": [
                         {
@@ -79875,7 +79875,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/vjv0nhbeajvzbpqrx2n7j/Esploso-ricambi-per-pressamburger-Fimar.-F10-Bianchi-Attrezzature-per-la-ristorazione.pdf?rlkey=bptuimfwkwp9oxw4eylyx94em&dl=0?raw=1",
                           "dimensione_kb": 478,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/HAMBURGATRICE FIMAR CARNI LIMONGI/Esploso ricambi per pressamburger Fimar. F10 - Bianchi - Attrezzature per la ristorazione.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/HAMBURGATRICE FIMAR CARNI LIMONGI/Esploso ricambi per pressamburger Fimar. F10 - Bianchi - Attrezzature per la ristorazione.pdf"
                         },
                         {
                           "nome": "HAMBURGATRICE FIMAR CARNI LIMONGI DATI MACCHINA.jpeg",
@@ -79883,14 +79883,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/u2z01zjko2nj6ele2e0d4/HAMBURGATRICE-FIMAR-CARNI-LIMONGI-DATI-MACCHINA.jpeg?rlkey=ce0gq5ckaggemskgsr7cfcqrr&dl=0?raw=1",
                           "dimensione_kb": 200,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/HAMBURGATRICE FIMAR CARNI LIMONGI/HAMBURGATRICE FIMAR CARNI LIMONGI DATI MACCHINA.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/HAMBURGATRICE FIMAR CARNI LIMONGI/HAMBURGATRICE FIMAR CARNI LIMONGI DATI MACCHINA.jpeg"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "MURALE EUROCRYOR",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/MURALE EUROCRYOR",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/MURALE EUROCRYOR",
                       "cartelle": [],
                       "file": [
                         {
@@ -79899,7 +79899,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/xhjx26oj7mhhobusy5p22/4-Ricambi-New-Country.pdf?rlkey=o4zp270f4ro6ejpvzuoygsi1w&dl=0?raw=1",
                           "dimensione_kb": 405,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/MURALE EUROCRYOR/4-Ricambi New Country.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/MURALE EUROCRYOR/4-Ricambi New Country.pdf"
                         },
                         {
                           "nome": "EUROCRYOR MURALE ESPLOSO.pdf",
@@ -79907,7 +79907,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ovji9xzfbm7yfwb3ce8l4/EUROCRYOR-MURALE-ESPLOSO.pdf?rlkey=bk91ommb0fkr1g921merhvrbu&dl=0?raw=1",
                           "dimensione_kb": 404,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/MURALE EUROCRYOR/EUROCRYOR MURALE ESPLOSO.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/MURALE EUROCRYOR/EUROCRYOR MURALE ESPLOSO.pdf"
                         },
                         {
                           "nome": "Gmail - I_ Viceconti Snc_ richiesta preventivo ricambi RIF. CARNI LIMONGI.pdf",
@@ -79915,14 +79915,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/xge103sv6qlup42uzpdh6/Gmail-I_-Viceconti-Snc_-richiesta-preventivo-ricambi-RIF.-CARNI-LIMONGI.pdf?rlkey=t27yej5aolb1ezpv75wzb50sh&dl=0?raw=1",
                           "dimensione_kb": 529,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/MURALE EUROCRYOR/Gmail - I_ Viceconti Snc_ richiesta preventivo ricambi RIF. CARNI LIMONGI.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/MURALE EUROCRYOR/Gmail - I_ Viceconti Snc_ richiesta preventivo ricambi RIF. CARNI LIMONGI.pdf"
                         }
                       ],
                       "_totale_file": 3
                     },
                     {
                       "nome": "SOTTOVUOTO GHIZZONI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/SOTTOVUOTO GHIZZONI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/SOTTOVUOTO GHIZZONI",
                       "cartelle": [],
                       "file": [
                         {
@@ -79931,7 +79931,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/mzt0q8bmc1ex9bpsuym2q/CARNI-LIMONGI-GHIZZONI-ESPLOSO-CAMPANA-CARRELLATA-SU-RUOTE.pdf?rlkey=50oy7e29lplo6k1e8hu682nz6&dl=0?raw=1",
                           "dimensione_kb": 401,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/SOTTOVUOTO GHIZZONI/CARNI LIMONGI GHIZZONI ESPLOSO CAMPANA CARRELLATA SU RUOTE.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/SOTTOVUOTO GHIZZONI/CARNI LIMONGI GHIZZONI ESPLOSO CAMPANA CARRELLATA SU RUOTE.pdf"
                         },
                         {
                           "nome": "GHIZZONI ORDINE RICAMMBI RIF. CARNI LIMONGI.pdf",
@@ -79939,14 +79939,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ssuldguh3uosfmthtzhzo/GHIZZONI-ORDINE-RICAMMBI-RIF.-CARNI-LIMONGI.pdf?rlkey=e2otd45cdhu1e2lna4q2udjku&dl=0?raw=1",
                           "dimensione_kb": 198,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/SOTTOVUOTO GHIZZONI/GHIZZONI ORDINE RICAMMBI RIF. CARNI LIMONGI.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/SOTTOVUOTO GHIZZONI/GHIZZONI ORDINE RICAMMBI RIF. CARNI LIMONGI.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TERMOSIGILLATRICE VALKO",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TERMOSIGILLATRICE VALKO",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TERMOSIGILLATRICE VALKO",
                       "cartelle": [],
                       "file": [
                         {
@@ -79955,7 +79955,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/bzfyyvycd35oebcdcwik0/CARNI-LIMONGI-VALKO-ESPLOSO-TVG-60-COD.1410V115A.pdf?rlkey=tae62sw222scpqpobxikfls51&dl=0?raw=1",
                           "dimensione_kb": 533,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TERMOSIGILLATRICE VALKO/CARNI LIMONGI VALKO ESPLOSO TVG 60 COD.1410V115A.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TERMOSIGILLATRICE VALKO/CARNI LIMONGI VALKO ESPLOSO TVG 60 COD.1410V115A.pdf"
                         },
                         {
                           "nome": "Gmail - Viceconti Snc_ richiesta di offerta ricambi RIF. CARNI LIMONGI.pdf",
@@ -79963,7 +79963,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/oza6b5n7pabh2swjq1m2h/Gmail-Viceconti-Snc_-richiesta-di-offerta-ricambi-RIF.-CARNI-LIMONGI.pdf?rlkey=sg2w392y0stgd0ftg2c4efmsp&dl=0?raw=1",
                           "dimensione_kb": 150,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TERMOSIGILLATRICE VALKO/Gmail - Viceconti Snc_ richiesta di offerta ricambi RIF. CARNI LIMONGI.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TERMOSIGILLATRICE VALKO/Gmail - Viceconti Snc_ richiesta di offerta ricambi RIF. CARNI LIMONGI.pdf"
                         },
                         {
                           "nome": "Gmail - Viceconti Snc_ richiesta preventivo ricambi RIF. CARNI LIMONGI.pdf",
@@ -79971,7 +79971,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/7elc297w1s02e302s2it0/Gmail-Viceconti-Snc_-richiesta-preventivo-ricambi-RIF.-CARNI-LIMONGI.pdf?rlkey=hqbqy1kan84emsg4slimqpu0x&dl=0?raw=1",
                           "dimensione_kb": 142,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TERMOSIGILLATRICE VALKO/Gmail - Viceconti Snc_ richiesta preventivo ricambi RIF. CARNI LIMONGI.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TERMOSIGILLATRICE VALKO/Gmail - Viceconti Snc_ richiesta preventivo ricambi RIF. CARNI LIMONGI.pdf"
                         },
                         {
                           "nome": "Gmail - conferma d'ordine.pdf",
@@ -79979,7 +79979,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/okp5i136l4chvcb1h59gm/Gmail-conferma-d-ordine.pdf?rlkey=jf9kv5avawohyy2afqe72hgnl&dl=0?raw=1",
                           "dimensione_kb": 772,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TERMOSIGILLATRICE VALKO/Gmail - conferma d'ordine.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TERMOSIGILLATRICE VALKO/Gmail - conferma d'ordine.pdf"
                         },
                         {
                           "nome": "TERMOSIGILLATRICE VALKO DATI MOTORE.jpg",
@@ -79987,7 +79987,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/75xputo2pfx1c7yeyuxa7/TERMOSIGILLATRICE-VALKO-DATI-MOTORE.jpg?rlkey=m4bjwi4mm5zj47rukz2oatpq7&dl=0?raw=1",
                           "dimensione_kb": 121,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TERMOSIGILLATRICE VALKO/TERMOSIGILLATRICE VALKO DATI MOTORE.jpg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TERMOSIGILLATRICE VALKO/TERMOSIGILLATRICE VALKO DATI MOTORE.jpg"
                         },
                         {
                           "nome": "TERMOSIGILLATRICE VALKO MOD TVG 60 DATI MACCHINA.jpeg",
@@ -79995,7 +79995,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/aawma0easeq2cpjhtqk1c/TERMOSIGILLATRICE-VALKO-MOD-TVG-60-DATI-MACCHINA.jpeg?rlkey=01074xgqsv2cjz03v4i57xmo2&dl=0?raw=1",
                           "dimensione_kb": 391,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TERMOSIGILLATRICE VALKO/TERMOSIGILLATRICE VALKO MOD TVG 60 DATI MACCHINA.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TERMOSIGILLATRICE VALKO/TERMOSIGILLATRICE VALKO MOD TVG 60 DATI MACCHINA.jpeg"
                         },
                         {
                           "nome": "TERMOSIGILLATRICE VALKO MOD TVG 60 FOTO MACCHINA.jpeg",
@@ -80003,7 +80003,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/f2ucedbx8mwvnygra00jv/TERMOSIGILLATRICE-VALKO-MOD-TVG-60-FOTO-MACCHINA.jpeg?rlkey=e5exn7g5qccjha9peww8ji3ij&dl=0?raw=1",
                           "dimensione_kb": 400,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TERMOSIGILLATRICE VALKO/TERMOSIGILLATRICE VALKO MOD TVG 60 FOTO MACCHINA.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TERMOSIGILLATRICE VALKO/TERMOSIGILLATRICE VALKO MOD TVG 60 FOTO MACCHINA.jpeg"
                         },
                         {
                           "nome": "TERMOSIGILLATRICE VALKO RICHIESTA RICAMBI DEL 23_03_2026 EMAIL.jpg",
@@ -80011,7 +80011,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/5d3nnpnz1x737br8n2bug/TERMOSIGILLATRICE-VALKO-RICHIESTA-RICAMBI-DEL-23_03_2026-EMAIL.jpg?rlkey=giqaj0r9cyuy8ykd1ekuorc3m&dl=0?raw=1",
                           "dimensione_kb": 128,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TERMOSIGILLATRICE VALKO/TERMOSIGILLATRICE VALKO RICHIESTA RICAMBI DEL 23_03_2026 EMAIL.jpg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TERMOSIGILLATRICE VALKO/TERMOSIGILLATRICE VALKO RICHIESTA RICAMBI DEL 23_03_2026 EMAIL.jpg"
                         },
                         {
                           "nome": "WhatsApp Image 2023-09-22 at 17.46.13.jpeg",
@@ -80019,14 +80019,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/d1dhlwq8pz4ltdlvqmgif/WhatsApp-Image-2023-09-22-at-17.46.13.jpeg?rlkey=pgqwoyfj3bq349dfgpvp5w4o5&dl=0?raw=1",
                           "dimensione_kb": 98,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TERMOSIGILLATRICE VALKO/WhatsApp Image 2023-09-22 at 17.46.13.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TERMOSIGILLATRICE VALKO/WhatsApp Image 2023-09-22 at 17.46.13.jpeg"
                         }
                       ],
                       "_totale_file": 9
                     },
                     {
                       "nome": "TRITACARNE AMB",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TRITACARNE AMB",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TRITACARNE AMB",
                       "cartelle": [],
                       "file": [
                         {
@@ -80035,7 +80035,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/645mxv3ioi3z6qah5juft/WhatsApp-Image-2025-06-11-at-10.21.10.jpeg?rlkey=rcq41517um48xtqp5y2o2qscq&dl=0?raw=1",
                           "dimensione_kb": 137,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/TRITACARNE AMB/WhatsApp Image 2025-06-11 at 10.21.10.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/TRITACARNE AMB/WhatsApp Image 2025-06-11 at 10.21.10.jpeg"
                         }
                       ],
                       "_totale_file": 1
@@ -80048,7 +80048,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/5domrpoj8abmoqr59cbf5/ABM-SCHEDA-TECNICA-F-1000.pdf?rlkey=p1ufa7cnydreucruuzn2usoj5&dl=0?raw=1",
                       "dimensione_kb": 284,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/ABM SCHEDA TECNICA F-1000.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/ABM SCHEDA TECNICA F-1000.pdf"
                     },
                     {
                       "nome": "CARNI LIMONGI OFFERTA AFFETTATRICE IN COMODATO.pdf",
@@ -80056,7 +80056,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/v7kxt2xk11axweue48yc2/CARNI-LIMONGI-OFFERTA-AFFETTATRICE-IN-COMODATO.pdf?rlkey=d27yk3b28pmqv832ip3ypp38r&dl=0?raw=1",
                       "dimensione_kb": 78,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/CARNI LIMONGI OFFERTA AFFETTATRICE IN COMODATO.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/CARNI LIMONGI OFFERTA AFFETTATRICE IN COMODATO.pdf"
                     },
                     {
                       "nome": "CARNI LIMONGI OFFERTA INTERVENTO SU AFFETTATRICE 09_12_2020.pdf",
@@ -80064,7 +80064,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/chwdm617un4wc97md31om/CARNI-LIMONGI-OFFERTA-INTERVENTO-SU-AFFETTATRICE-09_12_2020.pdf?rlkey=n4d61focghbltjmg9hv7kz65c&dl=0?raw=1",
                       "dimensione_kb": 78,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/CARNI LIMONGI OFFERTA INTERVENTO SU AFFETTATRICE 09_12_2020.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/CARNI LIMONGI OFFERTA INTERVENTO SU AFFETTATRICE 09_12_2020.pdf"
                     },
                     {
                       "nome": "PRODOTTI per CLIENTE.pdf",
@@ -80072,7 +80072,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/jed64zzbrbb4es72aawt2/PRODOTTI-per-CLIENTE.pdf?rlkey=0ps2xkc1fhvzc4l38vs5ftwc0&dl=0?raw=1",
                       "dimensione_kb": 161,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/AREA TECNICA CARNI LIMONGI/PRODOTTI per CLIENTE.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/PRODOTTI per CLIENTE.pdf"
                     }
                   ],
                   "_totale_file": 41
@@ -110242,6 +110242,22 @@
               "_totale_file": 8
             },
             {
+              "nome": "MILORD SRL",
+              "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/MILORD SRL",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "001.MILORD SRL PASQUALE CIACCO RAGIONE SOCIALE.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/8wfcqwvml98wj37qw9kar/001.MILORD-SRL-PASQUALE-CIACCO-RAGIONE-SOCIALE.jpeg?rlkey=fo1sk0gcyy0vmd100bbh3wb7j&dl=0?raw=1",
+                  "dimensione_kb": 134,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/MILORD SRL/001.MILORD SRL PASQUALE CIACCO RAGIONE SOCIALE.jpeg"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
               "nome": "MORRONE PETROLI",
               "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/MORRONE PETROLI",
               "cartelle": [
@@ -113245,7 +113261,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 685
+          "_totale_file": 686
         },
         {
           "nome": "RIMINI",
