@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-18T03:21:14Z",
-  "totale_file": 24538,
+  "generato": "2026-04-18T06:12:01Z",
+  "totale_file": 24539,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5592,
+      "totale_file": 5593,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -11361,7 +11361,7 @@
                               "nome": "ZANUSSI GRIGLIA SCHEDA TECNICA.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/tve32y5blp99isl6tr523/ZANUSSI-GRIGLIA-SCHEDA-TECNICA.pdf?rlkey=zenvd6qd6v0m1m66vftfqsidp&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 189,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE MARE/DE MARE GRIGLIA ZANUSSI/ZANUSSI GRIGLIA SCHEDA TECNICA.pdf"
                             }
@@ -58336,10 +58336,26 @@
                 }
               ],
               "_totale_file": 11
+            },
+            {
+              "nome": "2026_04_17 FRYLLOS ABBATTITORE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_17 FRYLLOS ABBATTITORE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "W5XG.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ugzr72dtku4k46xn253rb/W5XG.pdf?rlkey=v4k8fa686v34ki2t5qjxd4663&dl=0?raw=1",
+                  "dimensione_kb": 142,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_17 FRYLLOS ABBATTITORE/W5XG.pdf"
+                }
+              ],
+              "_totale_file": 1
             }
           ],
           "file": [],
-          "_totale_file": 5417
+          "_totale_file": 5418
         },
         {
           "nome": "ORDINI CLIENTE",
