@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-19T00:12:35Z",
+  "generato": "2026-04-19T02:07:32Z",
   "totale_file": 24544,
   "totale_sezioni": 8,
   "sezioni": [
@@ -151910,6 +151910,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/FIMAR MANUALI E SCHEDE TECNICHE/FIMAR_Listino_19_20.pdf"
                 },
                 {
+                  "nome": "IMPASTATRICI PLANETARIE TABELLA CAPACITA' IMPASTO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/md5ecxt1619ys0f1u3wvs/IMPASTATRICI-PLANETARIE-TABELLA-CAPACITA-IMPASTO.pdf?rlkey=aupvju0883qvqg7mfw4hppocq&dl=0?raw=1",
+                  "dimensione_kb": 148,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/FIMAR MANUALI E SCHEDE TECNICHE/IMPASTATRICI PLANETARIE TABELLA CAPACITA' IMPASTO.pdf"
+                },
+                {
                   "nome": "mod021v09 7-12-18-25-38-50 sn-fn-cns-ln.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -151918,41 +151926,33 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/FIMAR MANUALI E SCHEDE TECNICHE/mod021v09 7-12-18-25-38-50 sn-fn-cns-ln.pdf"
                 }
               ],
-              "_totale_file": 6
+              "_totale_file": 7
             }
           ],
           "file": [
             {
-              "nome": "FIMAR LISTINO dal_01.11_FIMAR_Catalogue&Price_25.26.pdf",
+              "nome": "001.FIMAR LISTINO dal_01.11_FIMAR_Catalogue&Price_25.26.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/saubr1lt7kjeqjoi47wyr/FIMAR-LISTINO-dal_01.11_FIMAR_Catalogue-Price_25.26.pdf?rlkey=5rjdpy7p5sex40xjraq4mdm9o&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/saubr1lt7kjeqjoi47wyr/001.FIMAR-LISTINO-dal_01.11_FIMAR_Catalogue-Price_25.26.pdf?rlkey=5rjdpy7p5sex40xjraq4mdm9o&dl=0?raw=1",
               "dimensione_kb": 25531,
-              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/FIMAR LISTINO dal_01.11_FIMAR_Catalogue&Price_25.26.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/001.FIMAR LISTINO dal_01.11_FIMAR_Catalogue&Price_25.26.pdf"
             },
             {
-              "nome": "FORCAR_MULTISERVICE_Catalogue&Price_25.26.pdf",
+              "nome": "001.FORCAR_MULTISERVICE_Catalogue&Price_25.26.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ubuo5pf76ns79z4nj5bep/FORCAR_MULTISERVICE_Catalogue-Price_25.26.pdf?rlkey=85d8k6j551n5wmhkwfu4vib33&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/ubuo5pf76ns79z4nj5bep/001.FORCAR_MULTISERVICE_Catalogue-Price_25.26.pdf?rlkey=85d8k6j551n5wmhkwfu4vib33&dl=0?raw=1",
               "dimensione_kb": 13539,
-              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/FORCAR_MULTISERVICE_Catalogue&Price_25.26.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/001.FORCAR_MULTISERVICE_Catalogue&Price_25.26.pdf"
             },
             {
-              "nome": "FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf",
+              "nome": "001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gubi6aeatx5s3179cu18d/FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf?rlkey=d2xs1q48eq7q0w0iv55j5q09l&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/gubi6aeatx5s3179cu18d/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf?rlkey=d2xs1q48eq7q0w0iv55j5q09l&dl=0?raw=1",
               "dimensione_kb": 12899,
-              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf"
-            },
-            {
-              "nome": "IMPASTATRICI PLANETARIE TABELLA CAPACITA' IMPASTO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/md5ecxt1619ys0f1u3wvs/IMPASTATRICI-PLANETARIE-TABELLA-CAPACITA-IMPASTO.pdf?rlkey=aupvju0883qvqg7mfw4hppocq&dl=0?raw=1",
-              "dimensione_kb": 148,
-              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/IMPASTATRICI PLANETARIE TABELLA CAPACITA' IMPASTO.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf"
             }
           ],
           "_totale_file": 71
