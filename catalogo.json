@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-20T02:12:16Z",
-  "totale_file": 24542,
+  "generato": "2026-04-20T04:54:05Z",
+  "totale_file": 24544,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5591,
+      "totale_file": 5593,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -47550,6 +47550,30 @@
                   "_totale_file": 10
                 },
                 {
+                  "nome": "PADRE NELLO CUCINA",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2025_12_31 ARCHIVIO OFFERTE/PADRE NELLO CUCINA",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "Offerta di vendita_250756_20250829_112410.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/t48s83gk3sg1q7crs4gji/Offerta-di-vendita_250756_20250829_112410.pdf?rlkey=2vtkiuwuo01xde5ztvmva505v&dl=0?raw=1",
+                      "dimensione_kb": 81,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2025_12_31 ARCHIVIO OFFERTE/PADRE NELLO CUCINA/Offerta di vendita_250756_20250829_112410.pdf"
+                    },
+                    {
+                      "nome": "R70-120CFG.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/6wmkaj6bvmigf2p2d42be/R70-120CFG.pdf?rlkey=ucg6jub9opv454p9qgqspuv62&dl=0?raw=1",
+                      "dimensione_kb": 224,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2025_12_31 ARCHIVIO OFFERTE/PADRE NELLO CUCINA/R70-120CFG.pdf"
+                    }
+                  ],
+                  "_totale_file": 2
+                },
+                {
                   "nome": "PALIA'S CELLA FERMALIEVITAZIONE",
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2025_12_31 ARCHIVIO OFFERTE/PALIA'S CELLA FERMALIEVITAZIONE",
                   "cartelle": [],
@@ -57191,7 +57215,7 @@
                 }
               ],
               "file": [],
-              "_totale_file": 5309
+              "_totale_file": 5311
             },
             {
               "nome": "2026_02_24 GIOIA MARIA PENTOLE",
@@ -58331,7 +58355,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5416
+          "_totale_file": 5418
         },
         {
           "nome": "ORDINI CLIENTE",
