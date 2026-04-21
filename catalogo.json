@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-21T05:08:28Z",
-  "totale_file": 24547,
+  "generato": "2026-04-21T07:07:38Z",
+  "totale_file": 24555,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -175580,7 +175580,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4682,
+      "totale_file": 4690,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -175678,6 +175678,14 @@
                   "link": "https://www.dropbox.com/scl/fi/7qxzetqzykm0ki5dvz58t/COLDLINE-DDT-RIF.M-M.pdf?rlkey=v4itxt29mc7svvy54iktskeeh&dl=0?raw=1",
                   "dimensione_kb": 107,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ARCHIVIO/COLDLINE DDT RIF.M&M.pdf"
+                },
+                {
+                  "nome": "DDT n°000837.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hrneo6kemkff59njr8576/DDT-n-000837.pdf?rlkey=zzm3o0v3xud0ofqr1q1b4kfk0&dl=0?raw=1",
+                  "dimensione_kb": 125,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ARCHIVIO/DDT n°000837.pdf"
                 },
                 {
                   "nome": "FAC CLI-DDT_0002201_08102025_00 RIF.ILAMA.pdf",
@@ -175880,11 +175888,11 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ARCHIVIO/fatture-pdf 09_12_2025.zip"
                 }
               ],
-              "_totale_file": 28
+              "_totale_file": 29
             }
           ],
           "file": [],
-          "_totale_file": 35
+          "_totale_file": 36
         },
         {
           "nome": "FATTURE DA FORNITORE",
@@ -183152,7 +183160,7 @@
                       "nome": "IT13378520152_X52W1.xml",
                       "tipo": "File",
                       "icona": "📎",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/tfnl9x6vl1586lbnj0xi3/IT13378520152_X52W1.xml?rlkey=tzotsemboici9oqd3j1g5zb44&dl=0?raw=1",
                       "dimensione_kb": 4,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/old/fatture-xml wind da registrare al 29_03_2026/IT13378520152_X52W1.xml"
                     },
@@ -183160,7 +183168,7 @@
                       "nome": "IT13378520152_X5DF4.xml",
                       "tipo": "File",
                       "icona": "📎",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/ke60z42hs4v2wmu6ncm0k/IT13378520152_X5DF4.xml?rlkey=hnvj4as1575i86fve2v3qqoma&dl=0?raw=1",
                       "dimensione_kb": 4,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/old/fatture-xml wind da registrare al 29_03_2026/IT13378520152_X5DF4.xml"
                     },
@@ -184947,60 +184955,20 @@
               "cartelle": [],
               "file": [
                 {
-                  "nome": "ACCIAIO T&D CONFERMA ORDVE-000988-2026 RIF.ACAL.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/opi23y8zkgkmbddyzliwi/ACCIAIO-T-D-CONFERMA-ORDVE-000988-2026-RIF.ACAL.pdf?rlkey=apqmtlq8h713393evh9ou8pf1&dl=0?raw=1",
-                  "dimensione_kb": 743,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ACCIAIO T&D CONFERMA ORDVE-000988-2026 RIF.ACAL.pdf"
-                },
-                {
-                  "nome": "ACCIAIO TeD CONFERMA OFFVE-001268-2026 RIF.ACAL.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/etigxplh7npati5wjwerw/ACCIAIO-TeD-CONFERMA-OFFVE-001268-2026-RIF.ACAL.pdf?rlkey=zsbhjziysbz4wy86yatjn48jd&dl=0?raw=1",
-                  "dimensione_kb": 687,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ACCIAIO TeD CONFERMA OFFVE-001268-2026 RIF.ACAL.pdf"
-                },
-                {
-                  "nome": "ACCIAIO TeD CONFERMA ORDVE-00618 RIF.BRUTIUM CANNAZZARO.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/5orr3r3m4o45030ohz54d/ACCIAIO-TeD-CONFERMA-ORDVE-00618-RIF.BRUTIUM-CANNAZZARO.pdf?rlkey=zhsl1vho03n869qd8xepas0gv&dl=0?raw=1",
-                  "dimensione_kb": 733,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ACCIAIO TeD CONFERMA ORDVE-00618 RIF.BRUTIUM CANNAZZARO.pdf"
-                },
-                {
-                  "nome": "ACCIAIO TeD DISEGNO TAVOLO RIF.BRUTIUM.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/mqdcq26m016ud23xl0864/ACCIAIO-TeD-DISEGNO-TAVOLO-RIF.BRUTIUM.pdf?rlkey=c0qklpae5hdjv9drvn27xm2yr&dl=0?raw=1",
-                  "dimensione_kb": 589,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ACCIAIO TeD DISEGNO TAVOLO RIF.BRUTIUM.pdf"
-                },
-                {
-                  "nome": "ARISTARCO Preventivo Viceconti FORNITURA MARZO 2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/800h86er0vx06ebjtzpyd/ARISTARCO-Preventivo-Viceconti-FORNITURA-MARZO-2026.pdf?rlkey=gb1njwi61zv3moi4onahu0q2c&dl=0?raw=1",
-                  "dimensione_kb": 271,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARISTARCO Preventivo Viceconti FORNITURA MARZO 2026.pdf"
-                },
-                {
-                  "nome": "ARISTARCO RICHIESTA DI OFFERTA SPECIALE PROMOZIONE MARZO 2026_260027_20260330_134721.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/0mw96vwtcda2g2mn28k68/ARISTARCO-RICHIESTA-DI-OFFERTA-SPECIALE-PROMOZIONE-MARZO-2026_260027_20260330_134721.pdf?rlkey=f6ztt5g7gv8gkxkgtaqf6sm4s&dl=0?raw=1",
-                  "dimensione_kb": 74,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARISTARCO RICHIESTA DI OFFERTA SPECIALE PROMOZIONE MARZO 2026_260027_20260330_134721.pdf"
-                },
-                {
                   "nome": "ARRIS Ordine dacquisto_260005_20260129_103254.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/4t45i66xtmbi26vmgkfpc/ARRIS-Ordine-dacquisto_260005_20260129_103254.pdf?rlkey=rwg2y7z4hu7ieyaysquw29nnt&dl=0?raw=1",
                   "dimensione_kb": 74,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARRIS Ordine dacquisto_260005_20260129_103254.pdf"
+                },
+                {
+                  "nome": "ARTINOX CONFERMA Viceconti_co 1569_ecocolor RIF.FA TU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dpb0u5x3ybqcm43r6ytz9/ARTINOX-CONFERMA-Viceconti_co-1569_ecocolor-RIF.FA-TU.pdf?rlkey=t8v0kbylghnumpc4ww9yokos3&dl=0?raw=1",
+                  "dimensione_kb": 86,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARTINOX CONFERMA Viceconti_co 1569_ecocolor RIF.FA TU.pdf"
                 },
                 {
                   "nome": "ARTINOX MISURE PER SCAFFALE ECOCOLOR RIF. FA TU.jpeg",
@@ -185059,14 +185027,6 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/BREMA Ordine dacquisto_250442_20251110_125521 RIF. FA' TU.pdf"
                 },
                 {
-                  "nome": "BRT Conferma prenotazione ritiro MORETTI.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/7kspcgwlk0y3why3d36ah/BRT-Conferma-prenotazione-ritiro-MORETTI.pdf?rlkey=dfwxocscinrr4eio0blqpn6lp&dl=0?raw=1",
-                  "dimensione_kb": 191,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/BRT Conferma prenotazione ritiro MORETTI.pdf"
-                },
-                {
                   "nome": "CB CONFERMA ORDINE E22C5C33-A5E3-40AD-B69B-91D57487DBE5 RIF.PERRETTA.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -185099,20 +185059,20 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE Conferma ordine n°26-05738 RIF.ARTE DOLCIARIA MeM.pdf"
                 },
                 {
-                  "nome": "COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/kzkbbh0pcza3mrf3z7qr0/COLDLINE-PACKING-LIST-DEL-01-04-2026_260019_20260401_103937.pdf?rlkey=e2upvvpsfngqtynw70janfz5r&dl=0?raw=1",
-                  "dimensione_kb": 76,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf"
-                },
-                {
                   "nome": "COMENDA CO OC - 10290 VICECONTI SNC RIF.CENTRAL MARKET.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/9jfa3xtoc6eyi561a7b24/COMENDA-CO-OC-10290-VICECONTI-SNC-RIF.CENTRAL-MARKET.PDF?rlkey=7xbmn9c8zc2xnilldom8kxyzx&dl=0?raw=1",
                   "dimensione_kb": 85,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COMENDA CO OC - 10290 VICECONTI SNC RIF.CENTRAL MARKET.PDF"
+                },
+                {
+                  "nome": "CUPPONE OC_01_20260420_00594_021773 VICECONTI Snc di A. e P. Viceconti RIF.FA TU.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lc20ws3o1rabugf54o5so/CUPPONE-OC_01_20260420_00594_021773-VICECONTI-Snc-di-A.-e-P.-Viceconti-RIF.FA-TU.PDF?rlkey=o7mh1zfquqw8dt81hsv5xbx6q&dl=0?raw=1",
+                  "dimensione_kb": 82,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/CUPPONE OC_01_20260420_00594_021773 VICECONTI Snc di A. e P. Viceconti RIF.FA TU.PDF"
                 },
                 {
                   "nome": "ECOSAN FORNITURA Ordine dacquisto_260024_20260323_125559.pdf",
@@ -185145,14 +185105,6 @@
                   "link": "https://www.dropbox.com/scl/fi/rl3dpw1ro22zu0k3t4nku/FIMEL-PREVENTIVO-A-CLIENTE-152025-DEL-19-02-2026-VICECONTI-SNC-DI-PROSPERO-VICECONTI.PDF?rlkey=o8llm07ulggnkas6ea4zjrc50&dl=0?raw=1",
                   "dimensione_kb": 434,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/FIMEL PREVENTIVO A CLIENTE 152025 DEL 19-02-2026  VICECONTI SNC DI PROSPERO VICECONTI.PDF"
-                },
-                {
-                  "nome": "Fimar_Importazione_SAP.xlsx",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/lcqyxm1xo2mbejch6h1vo/Fimar_Importazione_SAP.xlsx?rlkey=bwn775fislkr5a572fj6t8q7r&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/Fimar_Importazione_SAP.xlsx"
                 },
                 {
                   "nome": "GIMETAL 1_PKLIST-GM_5288_0000949_11032026_VICECONTI SNC.pdf",
@@ -185355,22 +185307,6 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MECNOSUD Ordine dacquisto_260014_20260223_224509 RIF.CORRDO MICHELA.pdf"
                 },
                 {
-                  "nome": "MODULA PACKING LIST DEL 26_03_2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/gvgsukpekis8zj6kt4xts/MODULA-PACKING-LIST-DEL-26_03_2026.pdf?rlkey=5z4hxdkq7c9vtss6qrqdjui2k&dl=0?raw=1",
-                  "dimensione_kb": 78,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULA PACKING LIST DEL 26_03_2026.pdf"
-                },
-                {
-                  "nome": "MODULAR CONFERMA 26_01014 MD_SaleOrdForm_2022 RIF.MeM.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/z9ni307q046m78c35l73g/MODULAR-CONFERMA-26_01014-MD_SaleOrdForm_2022-RIF.MeM.pdf?rlkey=q4ab3a2a7khmxgw3gkb81awrg&dl=0?raw=1",
-                  "dimensione_kb": 139,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_01014 MD_SaleOrdForm_2022 RIF.MeM.pdf"
-                },
-                {
                   "nome": "MODULAR CONFERMA 26_02043 MD_SaleOrdForm_2022 RIF.FA TU_FRIGGTRICI 90.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -185387,12 +185323,12 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_02641 MD_SaleOrdForm_2022 RIF.MeM_TULS.pdf"
                 },
                 {
-                  "nome": "MODULAR CONFERMA 26_02841 MD_SaleOrdForm_2022 DETERGENTE.pdf",
+                  "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.YELLOW BOAT_BRUCIATORI.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/k15fhhov779iuj3a5w4wl/MODULAR-CONFERMA-26_02841-MD_SaleOrdForm_2022-DETERGENTE.pdf?rlkey=ccxji0sdoxroj2mbr2mxjefoy&dl=0?raw=1",
-                  "dimensione_kb": 140,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA 26_02841 MD_SaleOrdForm_2022 DETERGENTE.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/69rmrcavpwmdfl8qsuj16/MODULAR-CONFERMA-MD_SaleOrdForm_2022-RIF.YELLOW-BOAT_BRUCIATORI.pdf?rlkey=5ffys0yvgabgfvpive3c9zi26&dl=0?raw=1",
+                  "dimensione_kb": 141,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.YELLOW BOAT_BRUCIATORI.pdf"
                 },
                 {
                   "nome": "MORINI GRISOLIA CASTELLUCCIO LIBERTY Ordine dacquisto_260042_20260413_182355.pdf",
@@ -185579,7 +185515,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 79
+              "_totale_file": 70
             },
             {
               "nome": "ARCHIVIO",
@@ -213863,6 +213799,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ACCIAIO T&D CONFERMA OFFVE-004456-2025 RIF.JOEL.pdf"
                 },
                 {
+                  "nome": "ACCIAIO T&D CONFERMA ORDVE-000988-2026 RIF.ACAL.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/opi23y8zkgkmbddyzliwi/ACCIAIO-T-D-CONFERMA-ORDVE-000988-2026-RIF.ACAL.pdf?rlkey=apqmtlq8h713393evh9ou8pf1&dl=0?raw=1",
+                  "dimensione_kb": 743,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ACCIAIO T&D CONFERMA ORDVE-000988-2026 RIF.ACAL.pdf"
+                },
+                {
                   "nome": "ACCIAIO T&D CONFERMA ORDVE-002494-2025 RIF.RUGGIERO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214007,6 +213951,30 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ACCIAIO T&D RICHIESTA DI OFFERTA_250829_20251027_163919 RIF.MARATEA SERVIZI.pdf"
                 },
                 {
+                  "nome": "ACCIAIO TeD CONFERMA OFFVE-001268-2026 RIF.ACAL.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/etigxplh7npati5wjwerw/ACCIAIO-TeD-CONFERMA-OFFVE-001268-2026-RIF.ACAL.pdf?rlkey=zsbhjziysbz4wy86yatjn48jd&dl=0?raw=1",
+                  "dimensione_kb": 687,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ACCIAIO TeD CONFERMA OFFVE-001268-2026 RIF.ACAL.pdf"
+                },
+                {
+                  "nome": "ACCIAIO TeD CONFERMA ORDVE-00618 RIF.BRUTIUM CANNAZZARO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5orr3r3m4o45030ohz54d/ACCIAIO-TeD-CONFERMA-ORDVE-00618-RIF.BRUTIUM-CANNAZZARO.pdf?rlkey=zhsl1vho03n869qd8xepas0gv&dl=0?raw=1",
+                  "dimensione_kb": 733,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ACCIAIO TeD CONFERMA ORDVE-00618 RIF.BRUTIUM CANNAZZARO.pdf"
+                },
+                {
+                  "nome": "ACCIAIO TeD DISEGNO TAVOLO RIF.BRUTIUM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mqdcq26m016ud23xl0864/ACCIAIO-TeD-DISEGNO-TAVOLO-RIF.BRUTIUM.pdf?rlkey=c0qklpae5hdjv9drvn27xm2yr&dl=0?raw=1",
+                  "dimensione_kb": 589,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ACCIAIO TeD DISEGNO TAVOLO RIF.BRUTIUM.pdf"
+                },
+                {
                   "nome": "ACCIAO T&D CONFERMA OFFVE-003741-2025 RIF. ILAMA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214029,6 +213997,22 @@
                   "link": "https://www.dropbox.com/scl/fi/zm09o6t41a1ygxfwapjab/AIRFAN-CONFERMA-3744-VICECONTI-SNC-DI-ANTONIO-E-PROSPERO-VICECONTI-CO-RIF.-RUGGIERO.pdf?rlkey=rotj7xw2flq5wnbuniob91sf2&dl=0?raw=1",
                   "dimensione_kb": 107,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/AIRFAN CONFERMA 3744 VICECONTI SNC DI ANTONIO E PROSPERO VICECONTI CO RIF. RUGGIERO.pdf"
+                },
+                {
+                  "nome": "ARISTARCO Preventivo Viceconti FORNITURA MARZO 2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/800h86er0vx06ebjtzpyd/ARISTARCO-Preventivo-Viceconti-FORNITURA-MARZO-2026.pdf?rlkey=gb1njwi61zv3moi4onahu0q2c&dl=0?raw=1",
+                  "dimensione_kb": 271,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ARISTARCO Preventivo Viceconti FORNITURA MARZO 2026.pdf"
+                },
+                {
+                  "nome": "ARISTARCO RICHIESTA DI OFFERTA SPECIALE PROMOZIONE MARZO 2026_260027_20260330_134721.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0mw96vwtcda2g2mn28k68/ARISTARCO-RICHIESTA-DI-OFFERTA-SPECIALE-PROMOZIONE-MARZO-2026_260027_20260330_134721.pdf?rlkey=f6ztt5g7gv8gkxkgtaqf6sm4s&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ARISTARCO RICHIESTA DI OFFERTA SPECIALE PROMOZIONE MARZO 2026_260027_20260330_134721.pdf"
                 },
                 {
                   "nome": "ARTINOX CONFERMA Viceconti_co 4043_ecocolor RIF.RUGGIERO.pdf",
@@ -214101,6 +214085,14 @@
                   "link": "https://www.dropbox.com/scl/fi/27awvz43u75k3d1y2ipil/BIZERBA-CONFERMA-PREV.168_VICECONTI_TUZIO.pdf?rlkey=32ct9wv8jf4cgh5nddhimwef0&dl=0?raw=1",
                   "dimensione_kb": 25,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/BIZERBA CONFERMA PREV.168_VICECONTI_TUZIO.pdf"
+                },
+                {
+                  "nome": "BRT Conferma prenotazione ritiro MORETTI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7kspcgwlk0y3why3d36ah/BRT-Conferma-prenotazione-ritiro-MORETTI.pdf?rlkey=dfwxocscinrr4eio0blqpn6lp&dl=0?raw=1",
+                  "dimensione_kb": 191,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/BRT Conferma prenotazione ritiro MORETTI.pdf"
                 },
                 {
                   "nome": "C&C Conferma d'ordine 1-MT del 03-01-2024  Vic econti Società In Nome Collettivo di A.pdf",
@@ -214223,6 +214215,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Conferma ordine n°26-01725 RIF.IL LUCANO.pdf"
                 },
                 {
+                  "nome": "COLDLINE Conferma ordine n°26-03168 RIF.CORRADO MICHELA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vxmkz8yiiuq9wy88re17l/COLDLINE-Conferma-ordine-n-26-03168-RIF.CORRADO-MICHELA.pdf?rlkey=a5uk7o0ps9c1goqy4vfc1vnuz&dl=0?raw=1",
+                  "dimensione_kb": 97,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Conferma ordine n°26-03168 RIF.CORRADO MICHELA.pdf"
+                },
+                {
+                  "nome": "COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/181awnhuzryo2qd2ruyiv/COLDLINE-Conferma-ordine-n-26-03532-RIF.CENTRAL-PECORONE-e-MeM-CORRETTA.pdf?rlkey=gv46ktuq4gdhmnu3bxgdregbl&dl=0?raw=1",
+                  "dimensione_kb": 96,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf"
+                },
+                {
                   "nome": "COLDLINE Conferma ordine n°26-03675 RIF.3AM GUARNIZIONI E GUIDE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214285,6 +214293,14 @@
                   "link": "https://www.dropbox.com/scl/fi/36ahf7lfuch3oelnyu7wm/COLDLINE-Ordine-dacquisto_260032_20260401_104339-ARTE-DOLCIARIA-MeM.pdf?rlkey=mm3py3fc31lms9t4hy498s5cp&dl=0?raw=1",
                   "dimensione_kb": 71,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Ordine dacquisto_260032_20260401_104339 ARTE DOLCIARIA MeM.pdf"
+                },
+                {
+                  "nome": "COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kzkbbh0pcza3mrf3z7qr0/COLDLINE-PACKING-LIST-DEL-01-04-2026_260019_20260401_103937.pdf?rlkey=e2upvvpsfngqtynw70janfz5r&dl=0?raw=1",
+                  "dimensione_kb": 76,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf"
                 },
                 {
                   "nome": "COLDLINE PACKING LIST DEL 04_03_2026.pdf",
@@ -214373,6 +214389,14 @@
                   "link": "https://www.dropbox.com/scl/fi/ld8ym9p63ay1bgp6axtib/CUPPONE-PL_01_20250918_00663_021773-RIF.CORRADO_CAPPA.PDF?rlkey=026bfzjxh37pl3ezp8vk7wb5o&dl=0?raw=1",
                   "dimensione_kb": 65,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/CUPPONE PL_01_20250918_00663_021773 RIF.CORRADO_CAPPA.PDF"
+                },
+                {
+                  "nome": "CUPPONE PR_07_20260323_00439_01_021773 VICECONTI Snc di A. e P. Viceconti.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lm72h51w1as2g1ama0vb4/CUPPONE-PR_07_20260323_00439_01_021773-VICECONTI-Snc-di-A.-e-P.-Viceconti.PDF?rlkey=nqlxbvwqfm2jhtkg5gnoq8c6t&dl=0?raw=1",
+                  "dimensione_kb": 98,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/CUPPONE PR_07_20260323_00439_01_021773 VICECONTI Snc di A. e P. Viceconti.PDF"
                 },
                 {
                   "nome": "CUPPPONE PACKING LIST RP_01_20250918_00663_021773 RIF.CORRADO_CAPPA.PDF",
@@ -214533,6 +214557,14 @@
                   "link": "https://www.dropbox.com/scl/fi/zq9ahh7xko5exv86zci4k/FRIGOMAT-V1-.25.01_002154_25DA002764_161025-RIF.COLLA.pdf?rlkey=iek860ae1qry9dror80munrdg&dl=0?raw=1",
                   "dimensione_kb": 101,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/FRIGOMAT V1 .25.01_002154_25DA002764_161025 RIF.COLLA.pdf"
+                },
+                {
+                  "nome": "Fimar_Importazione_SAP.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/lcqyxm1xo2mbejch6h1vo/Fimar_Importazione_SAP.xlsx?rlkey=bwn775fislkr5a572fj6t8q7r&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/Fimar_Importazione_SAP.xlsx"
                 },
                 {
                   "nome": "GO PACK Ordine dacquisto_250479_20251210_155550 URGENTE RIF.CARNI LIMONGI.pdf",
@@ -214935,12 +214967,36 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MOBILTECNO conferma Viceconti RIF. PANAINO.pdf"
                 },
                 {
+                  "nome": "MODULA PACKING LIST DEL 26_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gvgsukpekis8zj6kt4xts/MODULA-PACKING-LIST-DEL-26_03_2026.pdf?rlkey=5z4hxdkq7c9vtss6qrqdjui2k&dl=0?raw=1",
+                  "dimensione_kb": 78,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULA PACKING LIST DEL 26_03_2026.pdf"
+                },
+                {
                   "nome": "MODULAR CONFERMA 26_00619 RIF.FA TU FRIGGITRICI 900.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/8mtcvi6knkg6xtbxuei24/MODULAR-CONFERMA-26_00619-RIF.FA-TU-FRIGGITRICI-900.pdf?rlkey=7pfc97k59ii2jfqo5t37no3ir&dl=0?raw=1",
                   "dimensione_kb": 151,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULAR CONFERMA 26_00619 RIF.FA TU FRIGGITRICI 900.pdf"
+                },
+                {
+                  "nome": "MODULAR CONFERMA 26_01014 MD_SaleOrdForm_2022 RIF.MeM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z9ni307q046m78c35l73g/MODULAR-CONFERMA-26_01014-MD_SaleOrdForm_2022-RIF.MeM.pdf?rlkey=q4ab3a2a7khmxgw3gkb81awrg&dl=0?raw=1",
+                  "dimensione_kb": 139,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULAR CONFERMA 26_01014 MD_SaleOrdForm_2022 RIF.MeM.pdf"
+                },
+                {
+                  "nome": "MODULAR CONFERMA 26_02841 MD_SaleOrdForm_2022 DETERGENTE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k15fhhov779iuj3a5w4wl/MODULAR-CONFERMA-26_02841-MD_SaleOrdForm_2022-DETERGENTE.pdf?rlkey=ccxji0sdoxroj2mbr2mxjefoy&dl=0?raw=1",
+                  "dimensione_kb": 140,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULAR CONFERMA 26_02841 MD_SaleOrdForm_2022 DETERGENTE.pdf"
                 },
                 {
                   "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.CAMPOLEROSE.pdf",
@@ -215407,28 +215463,36 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3446
+              "_totale_file": 3461
             }
           ],
           "file": [
             {
-              "nome": "COLDLINE Conferma ordine n°26-03168 RIF.CORRADO MICHELA.pdf",
+              "nome": "COLDLINE Packing list ordine n°26-05163.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/vxmkz8yiiuq9wy88re17l/COLDLINE-Conferma-ordine-n-26-03168-RIF.CORRADO-MICHELA.pdf?rlkey=a5uk7o0ps9c1goqy4vfc1vnuz&dl=0?raw=1",
-              "dimensione_kb": 97,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-03168 RIF.CORRADO MICHELA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/dz5jq0r5kl1qhc5jo3fx8/COLDLINE-Packing-list-ordine-n-26-05163.pdf?rlkey=2njkcpjkjarw3o8wqgokhizh9&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Packing list ordine n°26-05163.pdf"
             },
             {
-              "nome": "COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf",
+              "nome": "COLDLINE Packing list ordine n°26-05738.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/181awnhuzryo2qd2ruyiv/COLDLINE-Conferma-ordine-n-26-03532-RIF.CENTRAL-PECORONE-e-MeM-CORRETTA.pdf?rlkey=gv46ktuq4gdhmnu3bxgdregbl&dl=0?raw=1",
-              "dimensione_kb": 96,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-03532 RIF.CENTRAL PECORONE e MeM CORRETTA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/dafbamyxqev5xnbs34772/COLDLINE-Packing-list-ordine-n-26-05738.pdf?rlkey=p29bdipgyl5ctmdmvbw33m7nj&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Packing list ordine n°26-05738.pdf"
+            },
+            {
+              "nome": "MODULAR PACKING LIST DEL 20_04_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jqriowti3h5zk292yhva4/MODULAR-PACKING-LIST-DEL-20_04_2026.pdf?rlkey=a8j4ethfgvtys3s0000kggrn8&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PACKING LIST DEL 20_04_2026.pdf"
             }
           ],
-          "_totale_file": 3527
+          "_totale_file": 3534
         }
       ],
       "file": []
