@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-21T02:22:25Z",
-  "totale_file": 24544,
+  "generato": "2026-04-21T05:08:28Z",
+  "totale_file": 24547,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5593,
+      "totale_file": 5596,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -57551,6 +57551,22 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI/IT_EN-Acqua_Pro.pdf"
                 },
                 {
+                  "nome": "MANHATTAN BTM 145 + ALASKA TOP 145 _ MANHATTAN BTM 210 + ALASKA TOP 210.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kw4tugdqwfd25yveg0136/MANHATTAN-BTM-145-ALASKA-TOP-145-_-MANHATTAN-BTM-210-ALASKA-TOP-210.pdf?rlkey=h1ke4vlom6cxsndp5x67ikje4&dl=0?raw=1",
+                  "dimensione_kb": 521,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI/MANHATTAN BTM 145 + ALASKA TOP 145 _ MANHATTAN BTM 210 + ALASKA TOP 210.pdf"
+                },
+                {
+                  "nome": "MONDIAL FRAMEC IT_EN-Expo_NST.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zz1du980qzqi7kjn66y32/MONDIAL-FRAMEC-IT_EN-Expo_NST.pdf?rlkey=cswfdokwtmjsysop2qwa7ruw9&dl=0?raw=1",
+                  "dimensione_kb": 252,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI/MONDIAL FRAMEC IT_EN-Expo_NST.pdf"
+                },
+                {
                   "nome": "MONDIAL_IT-EN-Oasi_A.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -57583,7 +57599,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_03_09 TESSIER MASSIMILIANO CONGELATORI ORIZZONTALI/TESSIERE MASSIMILIANO Offerta di vendita_260049_20260309_122217.pdf"
                 }
               ],
-              "_totale_file": 6
+              "_totale_file": 8
             },
             {
               "nome": "2026_03_10 CORRADO FRIGGITRICE FERRO",
@@ -58352,10 +58368,26 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_04_20 CAFFE' DREAM BRITA E RICAMBI",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_20 CAFFE' DREAM BRITA E RICAMBI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Offerta di vendita_260118_20260420_132300.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0s3reo2i6a51r59b2iwnr/Offerta-di-vendita_260118_20260420_132300.pdf?rlkey=lk4g0v90hdpxj8v74ubpc0no4&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_20 CAFFE' DREAM BRITA E RICAMBI/Offerta di vendita_260118_20260420_132300.pdf"
+                }
+              ],
+              "_totale_file": 1
             }
           ],
           "file": [],
-          "_totale_file": 5418
+          "_totale_file": 5421
         },
         {
           "nome": "ORDINI CLIENTE",
