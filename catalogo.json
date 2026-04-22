@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-22T00:29:54Z",
-  "totale_file": 24562,
+  "generato": "2026-04-22T02:34:38Z",
+  "totale_file": 24563,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -133665,7 +133665,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4341,
+      "totale_file": 4342,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -160765,6 +160765,14 @@
           ],
           "file": [
             {
+              "nome": "001.HENDI Listino prezzi del catalogo _IT_2025_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/61lh2263gxks2d5e1ixwd/001.HENDI-Listino-prezzi-del-catalogo-_IT_2025_2026.pdf?rlkey=8yyz710a8jm6cjhh3u63uar17&dl=0?raw=1",
+              "dimensione_kb": 2485,
+              "path": "/HUB DOCUMENTALE/FORNITORI/HENDI/001.HENDI Listino prezzi del catalogo _IT_2025_2026.pdf"
+            },
+            {
               "nome": "HENDI CATALOGO E PREZZI DAL-01.09.2024.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -160789,7 +160797,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/HENDI/IT_HENDI.pdf"
             }
           ],
-          "_totale_file": 25
+          "_totale_file": 26
         },
         {
           "nome": "HORECATECH",
@@ -161233,20 +161241,20 @@
           ],
           "file": [
             {
-              "nome": "IDEAM INOX PUGLIAINOX Listino 2022-ArredamentoAcciaio.pdf",
+              "nome": "001.IDEAM INOX PUGLIAINOX Listino 2022-ArredamentoAcciaio.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mbya8n2egclofku4z13vf/IDEAM-INOX-PUGLIAINOX-Listino-2022-ArredamentoAcciaio.pdf?rlkey=slbwb8vjvo9c8pfaf4cc4carn&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/mbya8n2egclofku4z13vf/001.IDEAM-INOX-PUGLIAINOX-Listino-2022-ArredamentoAcciaio.pdf?rlkey=slbwb8vjvo9c8pfaf4cc4carn&dl=0?raw=1",
               "dimensione_kb": 9921,
-              "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/IDEAM INOX PUGLIAINOX Listino 2022-ArredamentoAcciaio.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/001.IDEAM INOX PUGLIAINOX Listino 2022-ArredamentoAcciaio.pdf"
             },
             {
-              "nome": "IDEAM INOX PUGLIAINOX Listino2022-EspositoriRefrigerati.pdf",
+              "nome": "001.IDEAM INOX PUGLIAINOX Listino2022-EspositoriRefrigerati.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/kd27ca463p15kl4tf10fk/IDEAM-INOX-PUGLIAINOX-Listino2022-EspositoriRefrigerati.pdf?rlkey=pv167ju5lbe7kaftu5wbl4f7n&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/kd27ca463p15kl4tf10fk/001.IDEAM-INOX-PUGLIAINOX-Listino2022-EspositoriRefrigerati.pdf?rlkey=pv167ju5lbe7kaftu5wbl4f7n&dl=0?raw=1",
               "dimensione_kb": 6779,
-              "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/IDEAM INOX PUGLIAINOX Listino2022-EspositoriRefrigerati.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/001.IDEAM INOX PUGLIAINOX Listino2022-EspositoriRefrigerati.pdf"
             }
           ],
           "_totale_file": 9
