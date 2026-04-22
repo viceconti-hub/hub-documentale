@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-21T08:28:23Z",
-  "totale_file": 24560,
+  "generato": "2026-04-22T00:29:54Z",
+  "totale_file": 24562,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -63293,7 +63293,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7063,
+      "totale_file": 7065,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -84069,6 +84069,14 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/RATIONAL/I PASTICCI FATTURA DI ASSISTENZA DEL 18 12 2025 Fattura di vendita_2500819_20260401_175202.pdf"
                         },
                         {
+                          "nome": "RATIONAL ESPLOSO RICAMBI 2389427_it I PASTICCI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/i5kq5hvi8e55ck3ofubu0/RATIONAL-ESPLOSO-RICAMBI-2389427_it-I-PASTICCI.pdf?rlkey=enu57a6zs1byedkdsx7p7qm6x&dl=0?raw=1",
+                          "dimensione_kb": 1301,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/RATIONAL/RATIONAL ESPLOSO RICAMBI 2389427_it I PASTICCI.pdf"
+                        },
+                        {
                           "nome": "RATIONAL I PASTICCI DI WALTER DATI MACCHINA.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -84077,7 +84085,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/RATIONAL/RATIONAL I PASTICCI DI WALTER DATI MACCHINA.jpg"
                         }
                       ],
-                      "_totale_file": 2
+                      "_totale_file": 3
                     },
                     {
                       "nome": "ROSSANESE",
@@ -84186,7 +84194,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/WhatsApp Image 2022-03-08 at 17.02.30.jpeg"
                     }
                   ],
-                  "_totale_file": 24
+                  "_totale_file": 25
                 }
               ],
               "file": [
@@ -84223,7 +84231,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/file.pdf"
                 }
               ],
-              "_totale_file": 28
+              "_totale_file": 29
             },
             {
               "nome": "IL FUNGO",
@@ -86492,9 +86500,17 @@
                           "link": "https://www.dropbox.com/scl/fi/v2bncrkiupaiepn90dm6c/BILANCIA-CUSTOM-ICONA-PANIFICIO-FERRARO-DATI-MACCHINA.jpeg?rlkey=n5qruojcpxjgkytew236lkp4x&dl=0?raw=1",
                           "dimensione_kb": 306,
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/BILANCIA CUSTOM ICONA 11_2024/BILANCIA CUSTOM ICONA PANIFICIO FERRARO DATI MACCHINA.jpeg"
+                        },
+                        {
+                          "nome": "ICONA C  CUSTOM MANUALE TECNICO 0575100M000115_1.00 FERRARO.PDF",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/o2a0f5wmlvr8yai5j7gcr/ICONA-C-CUSTOM-MANUALE-TECNICO-0575100M000115_1.00-FERRARO.PDF?rlkey=la2grvsfklrntaep4cqruokoo&dl=0?raw=1",
+                          "dimensione_kb": 16507,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/BILANCIA CUSTOM ICONA 11_2024/ICONA C  CUSTOM MANUALE TECNICO 0575100M000115_1.00 FERRARO.PDF"
                         }
                       ],
-                      "_totale_file": 3
+                      "_totale_file": 4
                     }
                   ],
                   "file": [
@@ -86539,7 +86555,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/image003.png"
                     }
                   ],
-                  "_totale_file": 8
+                  "_totale_file": 9
                 }
               ],
               "file": [
@@ -86592,7 +86608,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/WhatsApp Image 2023-08-28 at 17.25.59.jpeg"
                 }
               ],
-              "_totale_file": 16
+              "_totale_file": 17
             },
             {
               "nome": "PECCATI DI GOLA",
@@ -91405,7 +91421,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1284
+          "_totale_file": 1286
         },
         {
           "nome": "LAVELLO",
