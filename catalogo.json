@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-22T02:34:38Z",
-  "totale_file": 24563,
+  "generato": "2026-04-22T05:25:36Z",
+  "totale_file": 24565,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5596,
+      "totale_file": 5598,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -406,6 +406,14 @@
               "link": "https://www.dropbox.com/scl/fi/kqwugk0vrbey3hxhx346t/DE-FILIPPO-Fattura-di-vendita_2500672_20250918_123407.pdf?rlkey=sykl20ovp4fcs9xn4vpy3ekn1&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/DE FILIPPO Fattura di vendita_2500672_20250918_123407.pdf"
+            },
+            {
+              "nome": "DE MICHELE ALEJANDRO Fattura di vendita_2600085_20260421_114956.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hbx6kyb9ty6fask2xrdgt/DE-MICHELE-ALEJANDRO-Fattura-di-vendita_2600085_20260421_114956.pdf?rlkey=0am1n1a1m9h7l134bzkn4yzt9&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/DE MICHELE ALEJANDRO Fattura di vendita_2600085_20260421_114956.pdf"
             },
             {
               "nome": "F24_ravvedimento_fatture_ritardo.pdf",
@@ -1080,7 +1088,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 117
+          "_totale_file": 118
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -58384,10 +58392,26 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_04_21 ARTE DOLCIARIA ATTREZZATURE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_21 ARTE DOLCIARIA ATTREZZATURE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ARTE DOLCIARIA Offerta di vendita_260121_20260421_173613.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mtvphrtfbgpxinkczdrbr/ARTE-DOLCIARIA-Offerta-di-vendita_260121_20260421_173613.pdf?rlkey=t0yq59ewfgaxg9je7z8e557j8&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_21 ARTE DOLCIARIA ATTREZZATURE/ARTE DOLCIARIA Offerta di vendita_260121_20260421_173613.pdf"
+                }
+              ],
+              "_totale_file": 1
             }
           ],
           "file": [],
-          "_totale_file": 5421
+          "_totale_file": 5422
         },
         {
           "nome": "ORDINI CLIENTE",
