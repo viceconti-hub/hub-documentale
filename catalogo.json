@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-22T05:25:36Z",
-  "totale_file": 24565,
+  "generato": "2026-04-22T07:29:32Z",
+  "totale_file": 24566,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -175628,7 +175628,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4690,
+      "totale_file": 4691,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -185411,6 +185411,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MORINI Ordine dacquisto_260025_20260323_133347 RIF.ESCOPOCO_PANAINO_I SAPORI_ AGUALOCA.pdf"
                 },
                 {
+                  "nome": "NUOVA RICAMBI Ordini_clienti.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xev0p9oq36v0wof64a2cz/NUOVA-RICAMBI-Ordini_clienti.PDF?rlkey=tj0abnwi0a30i2d6gee61heyn&dl=0?raw=1",
+                  "dimensione_kb": 25,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/NUOVA RICAMBI Ordini_clienti.PDF"
+                },
+                {
                   "nome": "PADERNO ORDINE SBT-26002693 RIF.GEROLAMO BINDA + MAG.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -185563,7 +185571,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 70
+              "_totale_file": 71
             },
             {
               "nome": "ARCHIVIO",
@@ -215540,7 +215548,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PACKING LIST DEL 20_04_2026.pdf"
             }
           ],
-          "_totale_file": 3534
+          "_totale_file": 3535
         }
       ],
       "file": []
