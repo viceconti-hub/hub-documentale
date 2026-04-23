@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-23T02:23:00Z",
-  "totale_file": 24571,
+  "generato": "2026-04-23T05:11:23Z",
+  "totale_file": 24577,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5598,
+      "totale_file": 5604,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -58408,10 +58408,74 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_04_22 CAMPOLEROSE CELLA",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_22 CAMPOLEROSE CELLA",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "CAMPLEROSE CELLA IFI Offerta di vendita_260122_20260422_163351.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dd9vdvlzkw0k4e4nq45wz/CAMPLEROSE-CELLA-IFI-Offerta-di-vendita_260122_20260422_163351.pdf?rlkey=ywpis1eq7j5b1d2sm71mslklj&dl=0?raw=1",
+                  "dimensione_kb": 86,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_22 CAMPOLEROSE CELLA/CAMPLEROSE CELLA IFI Offerta di vendita_260122_20260422_163351.pdf"
+                },
+                {
+                  "nome": "CAMPLOEROSE VASCA DIAMETRO 42 Offerta di vendita_260123_20260422_164731.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hpblllo89d7oln38o12bs/CAMPLOEROSE-VASCA-DIAMETRO-42-Offerta-di-vendita_260123_20260422_164731.pdf?rlkey=qho204p6bur9y5iqdrbhsicoc&dl=0?raw=1",
+                  "dimensione_kb": 82,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_22 CAMPOLEROSE CELLA/CAMPLOEROSE VASCA DIAMETRO 42 Offerta di vendita_260123_20260422_164731.pdf"
+                },
+                {
+                  "nome": "IFI_LEADER_H770_celle +T°_VENTILATE_10.2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d1wy9iubw1j0mr2nv8242/IFI_LEADER_H770_celle-T-_VENTILATE_10.2025.pdf?rlkey=plq4hawuqcnkj2l7cl0dcwsvp&dl=0?raw=1",
+                  "dimensione_kb": 3803,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_22 CAMPOLEROSE CELLA/IFI_LEADER_H770_celle +T°_VENTILATE_10.2025.pdf"
+                },
+                {
+                  "nome": "IFI_LEADER_celle_refrigerators +T°.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/0019yhn5cjk52q2i8gbqa/IFI_LEADER_celle_refrigerators-T.zip?rlkey=gm9ywfkadxjshiqw4yrgiw6wb&dl=0?raw=1",
+                  "dimensione_kb": 10671,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_22 CAMPOLEROSE CELLA/IFI_LEADER_celle_refrigerators +T°.zip"
+                }
+              ],
+              "_totale_file": 4
+            },
+            {
+              "nome": "2026_04_22 CHALET BOSCO DIFESA IMPASTATRICE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_22 CHALET BOSCO DIFESA IMPASTATRICE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Offerta di vendita_260124_20260422_181210.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/de5bruu9l4drhxlucwlyl/Offerta-di-vendita_260124_20260422_181210.pdf?rlkey=crvys3nqsp0ga3ylk9c9pjliw&dl=0?raw=1",
+                  "dimensione_kb": 81,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_22 CHALET BOSCO DIFESA IMPASTATRICE/Offerta di vendita_260124_20260422_181210.pdf"
+                },
+                {
+                  "nome": "shop.fimargroup.it_interactive1_index.php_route=product_documentation&product_id=3653&filter_category_id=2156.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dtjrr7z34c1wzkjhduglx/shop.fimargroup.it_interactive1_index.php_route-product_documentation-product_id-3653-filter_category_id-2156.pdf?rlkey=2fgyj6919tna6tquqm5yagz1u&dl=0?raw=1",
+                  "dimensione_kb": 101,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_22 CHALET BOSCO DIFESA IMPASTATRICE/shop.fimargroup.it_interactive1_index.php_route=product_documentation&product_id=3653&filter_category_id=2156.pdf"
+                }
+              ],
+              "_totale_file": 2
             }
           ],
           "file": [],
-          "_totale_file": 5422
+          "_totale_file": 5428
         },
         {
           "nome": "ORDINI CLIENTE",
