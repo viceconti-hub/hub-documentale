@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-23T00:21:35Z",
-  "totale_file": 24569,
+  "generato": "2026-04-23T02:23:00Z",
+  "totale_file": 24571,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -133730,7 +133730,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4342,
+      "totale_file": 4344,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -152060,6 +152060,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/001.FORCAR_MULTISERVICE_Catalogue&Price_25.26.pdf"
             },
             {
+              "nome": "001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26 BACK BAR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dpkywl8lybzrn6hz9c4ig/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26-BACK-BAR.pdf?rlkey=v73tbv6x94duxz2d2qyx7wnjk&dl=0?raw=1",
+              "dimensione_kb": 275,
+              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26 BACK BAR.pdf"
+            },
+            {
               "nome": "001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -152068,7 +152076,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf"
             }
           ],
-          "_totale_file": 71
+          "_totale_file": 72
         },
         {
           "nome": "FIMEL",
@@ -161611,6 +161619,14 @@
           ],
           "file": [
             {
+              "nome": "001.IFI_ITA_1.1_CELLE_listino prezzi_01.2025.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bn6efvvpdnoekyl4e8ick/001.IFI_ITA_1.1_CELLE_listino-prezzi_01.2025.pdf?rlkey=pr6b00rfvj2inew3s5o4lz03e&dl=0?raw=1",
+              "dimensione_kb": 30025,
+              "path": "/HUB DOCUMENTALE/FORNITORI/IFI/001.IFI_ITA_1.1_CELLE_listino prezzi_01.2025.pdf"
+            },
+            {
               "nome": "Gmail - Area Service_ riferimenti utili e nuovo contatto ricambi Italia.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -161707,7 +161723,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/IFI/vetrine disponibili al 21.02.2022.xlsx"
             }
           ],
-          "_totale_file": 43
+          "_totale_file": 44
         },
         {
           "nome": "IGF",
