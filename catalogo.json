@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-23T07:09:50Z",
+  "generato": "2026-04-23T08:19:31Z",
   "totale_file": 24577,
   "totale_sezioni": 8,
   "sezioni": [
@@ -216219,14 +216219,6 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/MODULAR COPIA TITOLI BRT 26_11_2025.pdf"
                 },
                 {
-                  "nome": "MODULAR COPIA TITOLI BRT 30_07_2025 ! FARE BONIFICI.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/ybcwjadrx97xw2atb7m7a/MODULAR-COPIA-TITOLI-BRT-30_07_2025-FARE-BONIFICI.pdf?rlkey=9chdzbm8u1hrpqayebcxpzsri&dl=0?raw=1",
-                  "dimensione_kb": 222,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/MODULAR COPIA TITOLI BRT 30_07_2025 ! FARE BONIFICI.pdf"
-                },
-                {
                   "nome": "MODULAR Dettaglio bonifico istantaneo DEL 14_04_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -216249,14 +216241,6 @@
                   "link": "https://www.dropbox.com/scl/fi/vyowsw1pa6uh3l512hr7m/MODULAR-Dettaglio-bonifico-istantaneo-DEL-30_01_2026.pdf?rlkey=rm49j7ly8cqe8fqiq17y1dnzm&dl=0?raw=1",
                   "dimensione_kb": 108,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/MODULAR Dettaglio bonifico istantaneo DEL 30_01_2026.pdf"
-                },
-                {
-                  "nome": "MODULAR image002.jpg",
-                  "tipo": "Immagine",
-                  "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/ndfk00skr2glrdda700po/MODULAR-image002.jpg?rlkey=t5tw2jxq3wcnrhv7x3phda9xc&dl=0?raw=1",
-                  "dimensione_kb": 16,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/MODULAR image002.jpg"
                 },
                 {
                   "nome": "PADERNO Dettaglio bonifico istantaneo DEL 10_02_2026.pdf",
@@ -216371,7 +216355,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
                 }
               ],
-              "_totale_file": 63
+              "_totale_file": 61
             },
             {
               "nome": "ARCHIVIO",
@@ -236670,7 +236654,24 @@
               "_totale_file": 2247
             }
           ],
-          "file": [],
+          "file": [
+            {
+              "nome": "MODULAR COPIA TITOLI BRT 30_07_2025 ! FARE BONIFICI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ybcwjadrx97xw2atb7m7a/MODULAR-COPIA-TITOLI-BRT-30_07_2025-FARE-BONIFICI.pdf?rlkey=9chdzbm8u1hrpqayebcxpzsri&dl=0?raw=1",
+              "dimensione_kb": 222,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR COPIA TITOLI BRT 30_07_2025 ! FARE BONIFICI.pdf"
+            },
+            {
+              "nome": "MODULAR image002.jpg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/ndfk00skr2glrdda700po/MODULAR-image002.jpg?rlkey=t5tw2jxq3wcnrhv7x3phda9xc&dl=0?raw=1",
+              "dimensione_kb": 16,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR image002.jpg"
+            }
+          ],
           "_totale_file": 2310
         }
       ],
