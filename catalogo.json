@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-24T07:26:18Z",
-  "totale_file": 24592,
+  "generato": "2026-04-24T08:30:53Z",
+  "totale_file": 24597,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -215813,7 +215813,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2330,
+      "totale_file": 2335,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -216122,6 +216122,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/CUPPONE Dettaglio bonifico istantaneo DEL 20_04_2026.pdf"
                 },
                 {
+                  "nome": "CUPPONE Dettaglio bonifico istantaneo DEL 22_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ho69hpkyehrxhcxxgvewf/CUPPONE-Dettaglio-bonifico-istantaneo-DEL-22_04_2026.pdf?rlkey=v41phnae35bumm3r6tir0qao4&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/CUPPONE Dettaglio bonifico istantaneo DEL 22_04_2026.pdf"
+                },
+                {
                   "nome": "De Michele Alejandro s.a.s. Dettaglio bonifico DEL 13_04_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -216306,6 +216314,30 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/IFI Dettaglio bonifico istantaneo DEL 19_02_2026.pdf"
                 },
                 {
+                  "nome": "IFI Dettaglio bonifico istantaneo DEL 23_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2uzub9gcphpvmkp575n0x/IFI-Dettaglio-bonifico-istantaneo-DEL-23_04_2026.pdf?rlkey=jnmkyoggv1ob4q23kp99pqv80&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/IFI Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
+                },
+                {
+                  "nome": "IFI RICAMBI CONFERMA 26002366 RIF.ACAL_PISTONI TONDA e KIT SCORREVOLI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nkw902ib6r5smskklpv9q/IFI-RICAMBI-CONFERMA-26002366-RIF.ACAL_PISTONI-TONDA-e-KIT-SCORREVOLI.pdf?rlkey=5gulb60so4xyb1y51mgpkfq14&dl=0?raw=1",
+                  "dimensione_kb": 121,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/IFI RICAMBI CONFERMA 26002366 RIF.ACAL_PISTONI TONDA e KIT SCORREVOLI.pdf"
+                },
+                {
+                  "nome": "IMPOSTA DI BOLLO Quietanza F24 MPS.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/40phhk83vortcfmhe5qqm/IMPOSTA-DI-BOLLO-Quietanza-F24-MPS.pdf?rlkey=uchgte6r557xuezp3xo0g6d3n&dl=0?raw=1",
+                  "dimensione_kb": 207,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/IMPOSTA DI BOLLO Quietanza F24 MPS.pdf"
+                },
+                {
                   "nome": "LA MITO KLIMAIALIA Dettaglio bonifico istantaneo DEL 09_04_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -216488,9 +216520,17 @@
                   "link": "https://www.dropbox.com/scl/fi/xfyiqtq36i6u228noaqqx/WUERTH-Dettaglio-bonifico-DEL-22_10_2025.pdf?rlkey=b8fd64na74ntxkmwxhehhfhkn&dl=0?raw=1",
                   "dimensione_kb": 102,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
+                },
+                {
+                  "nome": "Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3qglzmyxuowcr8b4dawnx/Z3-ENGINERING-Dettaglio-bonifico-istantaneo-DEL-23_04_2026.pdf?rlkey=fjdpoicnr7acr2gpg8xvnb9qg&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
                 }
               ],
-              "_totale_file": 61
+              "_totale_file": 66
             },
             {
               "nome": "ARCHIVIO",
@@ -236450,6 +236490,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/MODULAR COPIA TITOLI BRT 13_05_2025.pdf"
                 },
                 {
+                  "nome": "MODULAR COPIA TITOLI BRT 30_07_2025 ! FARE BONIFICI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ybcwjadrx97xw2atb7m7a/MODULAR-COPIA-TITOLI-BRT-30_07_2025-FARE-BONIFICI.pdf?rlkey=9chdzbm8u1hrpqayebcxpzsri&dl=0?raw=1",
+                  "dimensione_kb": 222,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/MODULAR COPIA TITOLI BRT 30_07_2025 ! FARE BONIFICI.pdf"
+                },
+                {
                   "nome": "MODULAR Dettaglio bonifico istantaneo DEL 18_11_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -236786,18 +236834,10 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ZMATIK Dettaglio bonifico istantaneo DEL 22_09_2025.pdf"
                 }
               ],
-              "_totale_file": 2247
+              "_totale_file": 2248
             }
           ],
           "file": [
-            {
-              "nome": "MODULAR COPIA TITOLI BRT 30_07_2025 ! FARE BONIFICI.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ybcwjadrx97xw2atb7m7a/MODULAR-COPIA-TITOLI-BRT-30_07_2025-FARE-BONIFICI.pdf?rlkey=9chdzbm8u1hrpqayebcxpzsri&dl=0?raw=1",
-              "dimensione_kb": 222,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR COPIA TITOLI BRT 30_07_2025 ! FARE BONIFICI.pdf"
-            },
             {
               "nome": "MODULAR image002.jpg",
               "tipo": "Immagine",
@@ -236807,7 +236847,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR image002.jpg"
             }
           ],
-          "_totale_file": 2310
+          "_totale_file": 2315
         }
       ],
       "file": []
