@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-24T05:25:08Z",
-  "totale_file": 24590,
+  "generato": "2026-04-24T07:26:18Z",
+  "totale_file": 24592,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -175869,7 +175869,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4691,
+      "totale_file": 4693,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -185356,6 +185356,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/COMENDA CO OC - 10290 VICECONTI SNC RIF.CENTRAL MARKET.PDF"
                 },
                 {
+                  "nome": "CUPPONE CONFERMA RICAMBI OC_01_20260422_00607_021773 VICECONTI Snc RIF.CORRADO_PORTA LAMPADA E LAMPADE.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/f9ahaoqjh4arx9eb9vkwi/CUPPONE-CONFERMA-RICAMBI-OC_01_20260422_00607_021773-VICECONTI-Snc-RIF.CORRADO_PORTA-LAMPADA-E-LAMPADE.PDF?rlkey=nj6mahkixwr7fv6ofwkpd7lln&dl=0?raw=1",
+                  "dimensione_kb": 93,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/CUPPONE CONFERMA RICAMBI OC_01_20260422_00607_021773 VICECONTI Snc RIF.CORRADO_PORTA LAMPADA E LAMPADE.PDF"
+                },
+                {
                   "nome": "CUPPONE OC_01_20260420_00594_021773 VICECONTI Snc di A. e P. Viceconti RIF.FA TU.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -185522,6 +185530,14 @@
                   "link": "https://www.dropbox.com/scl/fi/537nldjps9s5za2t0huwk/IFI-CONFERMA-ORDINE-326000578-RIF.LA-REGINA_CONTROLLORE_MURALE.pdf?rlkey=al8oxg6f97wwykmxg7redz7so&dl=0?raw=1",
                   "dimensione_kb": 136,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IFI CONFERMA ORDINE 326000578 RIF.LA REGINA_CONTROLLORE_MURALE.pdf"
+                },
+                {
+                  "nome": "IFI Ordine dacquisto_260021_20260423_085317 RIF. ACAL + MAG.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/t7mtt8e4088eha72i46l7/IFI-Ordine-dacquisto_260021_20260423_085317-RIF.-ACAL-MAG.pdf?rlkey=by3ucoi21zwtonvogwgoimwdy&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IFI Ordine dacquisto_260021_20260423_085317 RIF. ACAL + MAG.pdf"
                 },
                 {
                   "nome": "KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-2271 RIF.FA TU.pdf",
@@ -185780,7 +185796,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 67
+              "_totale_file": 69
             },
             {
               "nome": "ARCHIVIO",
@@ -214616,6 +214632,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Packing list ordine n°25-16740 RIF.M&M.pdf"
                 },
                 {
+                  "nome": "COLDLINE Packing list ordine n°26-05163.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dz5jq0r5kl1qhc5jo3fx8/COLDLINE-Packing-list-ordine-n-26-05163.pdf?rlkey=2njkcpjkjarw3o8wqgokhizh9&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Packing list ordine n°26-05163.pdf"
+                },
+                {
+                  "nome": "COLDLINE Packing list ordine n°26-05738.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dafbamyxqev5xnbs34772/COLDLINE-Packing-list-ordine-n-26-05738.pdf?rlkey=p29bdipgyl5ctmdmvbw33m7nj&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/COLDLINE Packing list ordine n°26-05738.pdf"
+                },
+                {
                   "nome": "COMENDA CONFERMA CO OC - 92745 RIF.CORRADO.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214840,6 +214872,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/GO PACK Ordine dacquisto_250479_20251210_155550 URGENTE RIF.CARNI LIMONGI.pdf"
                 },
                 {
+                  "nome": "Gmail - Re_ Viceconti Snc_ richiesta ritiro uregente presso Coldline RIF.AM DI MANCINO_IL LUCANO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oh5lcuz8aatijb2qedbw2/Gmail-Re_-Viceconti-Snc_-richiesta-ritiro-uregente-presso-Coldline-RIF.AM-DI-MANCINO_IL-LUCANO.pdf?rlkey=n055jucao6vssjnp4ozvbnf3o&dl=0?raw=1",
+                  "dimensione_kb": 340,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/Gmail - Re_ Viceconti Snc_ richiesta ritiro uregente presso Coldline RIF.AM DI MANCINO_IL LUCANO.pdf"
+                },
+                {
                   "nome": "HENDI AB_AI251009275_701341_20251021 RIF.CONVIVIO.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214952,6 +214992,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/IDEAM INOX CONFERMA CLI-PREVEN-0002404-00-01042026 RIF.NERA SRL.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oexpf2fqcez2gojvya3m9/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002405-00-01042026-RIF.-FA-TU.pdf?rlkey=yzxeompp16rtfag1wd6g25z1h&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002579-00-08042026 RIF. RUGGIERO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ci56ef9qdb1tuhe468an3/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002579-00-08042026-RIF.-RUGGIERO.pdf?rlkey=786vy9lyrd848vt8xfebr5v5s&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/IDEAM INOX CONFERMA CLI-PREVEN-0002579-00-08042026 RIF. RUGGIERO.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0006806-00-07102025 RIF.ILAMA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -215062,6 +215118,14 @@
                   "link": "https://www.dropbox.com/scl/fi/nwg7dudwdzjuxh9etxl3h/IDEAM-INOX-Ordine-dacquisto_250476_20251205_121730-RIF.MARATEA-SERVIZI.pdf?rlkey=vstr0ig4mn0vknr853w4b8377&dl=0?raw=1",
                   "dimensione_kb": 70,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/IDEAM INOX Ordine dacquisto_250476_20251205_121730 RIF.MARATEA SERVIZI.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX Ordine dacquisto_260033_20260401_184716 RIF.MeM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/37w0rx2zt90ec69m5m13e/IDEAM-INOX-Ordine-dacquisto_260033_20260401_184716-RIF.MeM.pdf?rlkey=h1bvmu233wa6b1g6rcvvmrv3f&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/IDEAM INOX Ordine dacquisto_260033_20260401_184716 RIF.MeM.pdf"
                 },
                 {
                   "nome": "IDEAM INOX PREVENTIVO CLI-PREVEN-0006509-00-26092025 RIF. CAMPOLEROSE.pdf",
@@ -215326,6 +215390,14 @@
                   "link": "https://www.dropbox.com/scl/fi/f3ztm7t9kqsl3i81jtvab/MODULAR-Ordine-dacquisto_260030_20260330_174203-RIF.-DETERGENTE.pdf?rlkey=c6iehs20d7an4pr11v0hshajc&dl=0?raw=1",
                   "dimensione_kb": 72,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULAR Ordine dacquisto_260030_20260330_174203 RIF. DETERGENTE.pdf"
+                },
+                {
+                  "nome": "MODULAR PACKING LIST DEL 20_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jqriowti3h5zk292yhva4/MODULAR-PACKING-LIST-DEL-20_04_2026.pdf?rlkey=a8j4ethfgvtys3s0000kggrn8&dl=0?raw=1",
+                  "dimensione_kb": 77,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULAR PACKING LIST DEL 20_04_2026.pdf"
                 },
                 {
                   "nome": "MODULAR PACKING LISTI DEL 27_11_2025.pdf",
@@ -215728,68 +215800,11 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3461
+              "_totale_file": 3468
             }
           ],
-          "file": [
-            {
-              "nome": "COLDLINE Packing list ordine n°26-05163.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/dz5jq0r5kl1qhc5jo3fx8/COLDLINE-Packing-list-ordine-n-26-05163.pdf?rlkey=2njkcpjkjarw3o8wqgokhizh9&dl=0?raw=1",
-              "dimensione_kb": 73,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Packing list ordine n°26-05163.pdf"
-            },
-            {
-              "nome": "COLDLINE Packing list ordine n°26-05738.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/dafbamyxqev5xnbs34772/COLDLINE-Packing-list-ordine-n-26-05738.pdf?rlkey=p29bdipgyl5ctmdmvbw33m7nj&dl=0?raw=1",
-              "dimensione_kb": 72,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Packing list ordine n°26-05738.pdf"
-            },
-            {
-              "nome": "Gmail - Re_ Viceconti Snc_ richiesta ritiro uregente presso Coldline RIF.AM DI MANCINO_IL LUCANO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/oh5lcuz8aatijb2qedbw2/Gmail-Re_-Viceconti-Snc_-richiesta-ritiro-uregente-presso-Coldline-RIF.AM-DI-MANCINO_IL-LUCANO.pdf?rlkey=n055jucao6vssjnp4ozvbnf3o&dl=0?raw=1",
-              "dimensione_kb": 340,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Gmail - Re_ Viceconti Snc_ richiesta ritiro uregente presso Coldline RIF.AM DI MANCINO_IL LUCANO.pdf"
-            },
-            {
-              "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/oexpf2fqcez2gojvya3m9/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002405-00-01042026-RIF.-FA-TU.pdf?rlkey=yzxeompp16rtfag1wd6g25z1h&dl=0?raw=1",
-              "dimensione_kb": 83,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA CLI-PREVEN-0002405-00-01042026 RIF. FA TU.pdf"
-            },
-            {
-              "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002579-00-08042026 RIF. RUGGIERO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ci56ef9qdb1tuhe468an3/IDEAM-INOX-CONFERMA-CLI-PREVEN-0002579-00-08042026-RIF.-RUGGIERO.pdf?rlkey=786vy9lyrd848vt8xfebr5v5s&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA CLI-PREVEN-0002579-00-08042026 RIF. RUGGIERO.pdf"
-            },
-            {
-              "nome": "IDEAM INOX Ordine dacquisto_260033_20260401_184716 RIF.MeM.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/37w0rx2zt90ec69m5m13e/IDEAM-INOX-Ordine-dacquisto_260033_20260401_184716-RIF.MeM.pdf?rlkey=h1bvmu233wa6b1g6rcvvmrv3f&dl=0?raw=1",
-              "dimensione_kb": 71,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX Ordine dacquisto_260033_20260401_184716 RIF.MeM.pdf"
-            },
-            {
-              "nome": "MODULAR PACKING LIST DEL 20_04_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/jqriowti3h5zk292yhva4/MODULAR-PACKING-LIST-DEL-20_04_2026.pdf?rlkey=a8j4ethfgvtys3s0000kggrn8&dl=0?raw=1",
-              "dimensione_kb": 77,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PACKING LIST DEL 20_04_2026.pdf"
-            }
-          ],
-          "_totale_file": 3535
+          "file": [],
+          "_totale_file": 3537
         }
       ],
       "file": []
