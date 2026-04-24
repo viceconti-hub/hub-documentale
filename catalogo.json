@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-23T12:09:32Z",
-  "totale_file": 24578,
+  "generato": "2026-04-24T00:29:16Z",
+  "totale_file": 24579,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -63389,7 +63389,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7068,
+      "totale_file": 7069,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -103243,22 +103243,6 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA/VETRINA TONDA IFI/ACAL Consegna_130541_20220809_130220.pdf"
                         },
                         {
-                          "nome": "RC6513C_000.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/pcgct88c0bj1b5h2kbacs/RC6513C_000.pdf?rlkey=0e5z8kiandjgxzz4u6t3us3vr&dl=0?raw=1",
-                          "dimensione_kb": 1985,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA/VETRINA TONDA IFI/RC6513C_000.pdf"
-                        },
-                        {
-                          "nome": "RC6513E_000.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/09phgtiof8zj256v7m8u7/RC6513E_000.pdf?rlkey=8o6f9f6yqffqkqu57ftdxyzv8&dl=0?raw=1",
-                          "dimensione_kb": 1266,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA/VETRINA TONDA IFI/RC6513E_000.pdf"
-                        },
-                        {
                           "nome": "Tonda_Gelato_Pasticceria_Pastry_IFI_CE_V6x-IT schema elettrico.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
@@ -103275,15 +103259,39 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA/VETRINA TONDA IFI/Tonda_Gelato_Pasticceria_Pastry_IFI_CE_V6x-IT.pdf"
                         },
                         {
-                          "nome": "WhatsApp Image 2022-02-21 at 17.47.51.jpeg",
+                          "nome": "VETRINA TONDA IFI DATI MACCHINA.txt",
+                          "tipo": "Testo",
+                          "icona": "📃",
+                          "link": "https://www.dropbox.com/scl/fi/i4nvdwd4q0n0pnwyetp8h/VETRINA-TONDA-IFI-DATI-MACCHINA.txt?rlkey=p73xfi1qvckc2powxj5r6epf8&dl=0?raw=1",
+                          "dimensione_kb": 0,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA/VETRINA TONDA IFI/VETRINA TONDA IFI DATI MACCHINA.txt"
+                        },
+                        {
+                          "nome": "VETRINA TONDA IFI ESPLOSO RICAMBI CE RC6513C_000.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/pcgct88c0bj1b5h2kbacs/VETRINA-TONDA-IFI-ESPLOSO-RICAMBI-CE-RC6513C_000.pdf?rlkey=0e5z8kiandjgxzz4u6t3us3vr&dl=0?raw=1",
+                          "dimensione_kb": 1985,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA/VETRINA TONDA IFI/VETRINA TONDA IFI ESPLOSO RICAMBI CE RC6513C_000.pdf"
+                        },
+                        {
+                          "nome": "VETRINA TONDA IFI ESPLOSO RICAMBI ETL RC6513E_000.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/09phgtiof8zj256v7m8u7/VETRINA-TONDA-IFI-ESPLOSO-RICAMBI-ETL-RC6513E_000.pdf?rlkey=8o6f9f6yqffqkqu57ftdxyzv8&dl=0?raw=1",
+                          "dimensione_kb": 1266,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA/VETRINA TONDA IFI/VETRINA TONDA IFI ESPLOSO RICAMBI ETL RC6513E_000.pdf"
+                        },
+                        {
+                          "nome": "VETRINA TONDA IFI FOTO PARTICOLARE PISTONE.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/m32rwyvp4xapn9nz4yhtw/WhatsApp-Image-2022-02-21-at-17.47.51.jpeg?rlkey=lmh8sct69u73azjr9qewciftk&dl=0?raw=1",
+                          "link": "https://www.dropbox.com/scl/fi/m32rwyvp4xapn9nz4yhtw/VETRINA-TONDA-IFI-FOTO-PARTICOLARE-PISTONE.jpeg?rlkey=lmh8sct69u73azjr9qewciftk&dl=0?raw=1",
                           "dimensione_kb": 103,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA/VETRINA TONDA IFI/WhatsApp Image 2022-02-21 at 17.47.51.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA/VETRINA TONDA IFI/VETRINA TONDA IFI FOTO PARTICOLARE PISTONE.jpeg"
                         }
                       ],
-                      "_totale_file": 6
+                      "_totale_file": 7
                     },
                     {
                       "nome": "VETRINE LONGONI",
@@ -103344,7 +103352,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA/ACAL Consegna_130541_20220809_130220.pdf"
                     }
                   ],
-                  "_totale_file": 46
+                  "_totale_file": 47
                 }
               ],
               "file": [
@@ -103493,7 +103501,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ricevuta_operazione_2976623243.pdf"
                 }
               ],
-              "_totale_file": 140
+              "_totale_file": 141
             },
             {
               "nome": "AGRIBOSCO DI CARRAZZONE",
@@ -106355,7 +106363,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 446
+          "_totale_file": 447
         },
         {
           "nome": "ORIOLO",
