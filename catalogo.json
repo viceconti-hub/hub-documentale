@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-24T02:34:14Z",
-  "totale_file": 24580,
+  "generato": "2026-04-24T05:25:08Z",
+  "totale_file": 24590,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5604,
+      "totale_file": 5614,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -768,6 +768,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/MACELLERIA DI PATITUCCI MAURIZIO Fattura di vendita_2600056_20260313_112644.pdf"
             },
             {
+              "nome": "MADI Fattura di vendita_2600087_20260423_165317.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2t4ar40njme98hqyqr1k5/MADI-Fattura-di-vendita_2600087_20260423_165317.pdf?rlkey=hgt6zjpjqp5fo2y8tbaf6qrl9&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/MADI Fattura di vendita_2600087_20260423_165317.pdf"
+            },
+            {
               "nome": "MARATEA SERVIZI Fattura di vendita_2500793_20251211_210224.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1088,7 +1096,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 118
+          "_totale_file": 119
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -58472,10 +58480,98 @@
                 }
               ],
               "_totale_file": 2
+            },
+            {
+              "nome": "2026_04_23 FRYLLOS ABBATTITORE E CONGELATORE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 FRYLLOS ABBATTITORE E CONGELATORE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "A70-1BE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/05qjf083vftxkm4ckqf7n/A70-1BE.pdf?rlkey=u4du2u2v0i0cxlwbtinf13srb&dl=0?raw=1",
+                  "dimensione_kb": 94,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 FRYLLOS ABBATTITORE E CONGELATORE/A70-1BE.pdf"
+                },
+                {
+                  "nome": "ABBATTITORE COLDLINE 10 TEGELIE FOTO 1.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/guuiluswlqkceie3qekwo/ABBATTITORE-COLDLINE-10-TEGELIE-FOTO-1.jpg?rlkey=retwbyswjf142p2x3h21qwmok&dl=0?raw=1",
+                  "dimensione_kb": 96,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 FRYLLOS ABBATTITORE E CONGELATORE/ABBATTITORE COLDLINE 10 TEGELIE FOTO 1.jpg"
+                },
+                {
+                  "nome": "ABBATTITORE COLDLINE 10 TEGELIE FOTO 2.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/7g4gw6g7h3lx3iy7fofoy/ABBATTITORE-COLDLINE-10-TEGELIE-FOTO-2.jpg?rlkey=dn2jhppd6zinxli2q2f9fwmbx&dl=0?raw=1",
+                  "dimensione_kb": 55,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 FRYLLOS ABBATTITORE E CONGELATORE/ABBATTITORE COLDLINE 10 TEGELIE FOTO 2.jpg"
+                },
+                {
+                  "nome": "ABBATTITORE COLDLINE 10 TEGELIE FOTO 3.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/hbuqlai9qs1o1n44pxm6r/ABBATTITORE-COLDLINE-10-TEGELIE-FOTO-3.jpg?rlkey=3b2uzxzava1rdy4sp0f6ykv69&dl=0?raw=1",
+                  "dimensione_kb": 20,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 FRYLLOS ABBATTITORE E CONGELATORE/ABBATTITORE COLDLINE 10 TEGELIE FOTO 3.jpg"
+                },
+                {
+                  "nome": "FRYLLOS Offerta di vendita_260126_20260423_131035.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gr070hkvu80c9xdlx98zj/FRYLLOS-Offerta-di-vendita_260126_20260423_131035.pdf?rlkey=djer1fuvtxvv6i48uxymtb6jz&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 FRYLLOS ABBATTITORE E CONGELATORE/FRYLLOS Offerta di vendita_260126_20260423_131035.pdf"
+                },
+                {
+                  "nome": "W10X.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yermtdvjrklxw0ir1294q/W10X.pdf?rlkey=f1q3wnvribsmq17qm0s8ayykt&dl=0?raw=1",
+                  "dimensione_kb": 189,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 FRYLLOS ABBATTITORE E CONGELATORE/W10X.pdf"
+                }
+              ],
+              "_totale_file": 6
+            },
+            {
+              "nome": "2026_04_23 PANAINO MACCHINA GELATO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 PANAINO MACCHINA GELATO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "001.MONDIAL LISTINO 2026 listino_mf-2026_r00 VETRINE GELATO FRAMEC.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/btklrx181ojzjkjb2hpog/001.MONDIAL-LISTINO-2026-listino_mf-2026_r00-VETRINE-GELATO-FRAMEC.pdf?rlkey=on0adyxsv9q6g0fjezt81qava&dl=0?raw=1",
+                  "dimensione_kb": 86,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 PANAINO MACCHINA GELATO/001.MONDIAL LISTINO 2026 listino_mf-2026_r00 VETRINE GELATO FRAMEC.pdf"
+                },
+                {
+                  "nome": "GX6 (1).pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6pfkzxm6x7pwp5ra6y4kw/GX6-1.pdf?rlkey=wfnkvqrlkxc2v44dy316ij24v&dl=0?raw=1",
+                  "dimensione_kb": 2117,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 PANAINO MACCHINA GELATO/GX6 (1).pdf"
+                },
+                {
+                  "nome": "GX6.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ic63zim0zns5edk2o4f2n/GX6.pdf?rlkey=7vc6dr7hlsmjaomrvmh3t1j3n&dl=0?raw=1",
+                  "dimensione_kb": 2117,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_23 PANAINO MACCHINA GELATO/GX6.pdf"
+                }
+              ],
+              "_totale_file": 3
             }
           ],
           "file": [],
-          "_totale_file": 5428
+          "_totale_file": 5437
         },
         {
           "nome": "ORDINI CLIENTE",
