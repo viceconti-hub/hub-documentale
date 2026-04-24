@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-24T08:30:53Z",
-  "totale_file": 24597,
+  "generato": "2026-04-24T08:39:39Z",
+  "totale_file": 24598,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -58956,7 +58956,7 @@
       "nome": "CREDITI E DEBITI",
       "descrizione": "Crediti e debiti aperti e archiviati",
       "icona": "📋",
-      "totale_file": 332,
+      "totale_file": 333,
       "cartelle": [
         {
           "nome": "CREDITI",
@@ -61558,6 +61558,14 @@
               "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/LAVINIUM SITUAZIONE CONTABILE AL 14_02_2023.pdf"
             },
             {
+              "nome": "MADI SNC di DISMA CASELLA & C. Saldo contabile - CO52077 _20260423_165543.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1zc0lf9vbshjrn1zxycvz/MADI-SNC-di-DISMA-CASELLA-C.-Saldo-contabile-CO52077-_20260423_165543.pdf?rlkey=r5e8z7hd70l42whjaz2tb6chp&dl=0?raw=1",
+              "dimensione_kb": 48,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/MADI SNC di DISMA CASELLA & C. Saldo contabile - CO52077 _20260423_165543.pdf"
+            },
+            {
               "nome": "MICELI LUIGI SITUAZIONE AL 29_08_2022.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -61654,7 +61662,7 @@
               "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - CO52305 A&M COMPANY DI ALAGIA ANDREA MAURONE AGOSTINO & C. S.N.C._20260204_174527.pdf"
             }
           ],
-          "_totale_file": 331
+          "_totale_file": 332
         },
         {
           "nome": "DEBITI",
