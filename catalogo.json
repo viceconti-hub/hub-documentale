@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-24T00:29:16Z",
-  "totale_file": 24579,
+  "generato": "2026-04-24T02:34:14Z",
+  "totale_file": 24580,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -133810,7 +133810,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4344,
+      "totale_file": 4345,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -166360,6 +166360,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/ARCHIVIO MONDIALFRAMEC/LETTERA PRESENTAZIONE LISTINI 2022.pdf"
                 },
                 {
+                  "nome": "MONDIAL FRAMEC LISTINO 2025_rev.01.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vbimxy8xh8ed96n2m4mi9/MONDIAL-FRAMEC-LISTINO-2025_rev.01.pdf?rlkey=auixdub9p85md01l48pjibjwb&dl=0?raw=1",
+                  "dimensione_kb": 4850,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/ARCHIVIO MONDIALFRAMEC/MONDIAL FRAMEC LISTINO 2025_rev.01.pdf"
+                },
+                {
                   "nome": "MONDIAL FRAMEC listino_MF-2021_r00 SCONTO 20%.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -166512,6 +166520,22 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/ARCHIVIO MONDIALFRAMEC/MONDIALFRAMEC listino_mf-2022_rev.02 (VALIDITA' 31_12_2022).pdf"
                 },
                 {
+                  "nome": "cat_FRAMEC_r00.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2yptmfnru2b2ln63umeyc/cat_FRAMEC_r00.pdf?rlkey=gihefeagq5lnzf53sjsqdu3r4&dl=0?raw=1",
+                  "dimensione_kb": 10784,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/ARCHIVIO MONDIALFRAMEC/cat_FRAMEC_r00.pdf"
+                },
+                {
+                  "nome": "cat_MONDIAL_r00.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d6en418hawei3617affiz/cat_MONDIAL_r00.pdf?rlkey=y1plkaxe4tc0b6bjjb4dqvw36&dl=0?raw=1",
+                  "dimensione_kb": 10778,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/ARCHIVIO MONDIALFRAMEC/cat_MONDIAL_r00.pdf"
+                },
+                {
                   "nome": "listino_mf-2023_rev.01(1).pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -166520,7 +166544,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/ARCHIVIO MONDIALFRAMEC/listino_mf-2023_rev.01(1).pdf"
                 }
               ],
-              "_totale_file": 31
+              "_totale_file": 34
             },
             {
               "nome": "MONDIALFRAMEC AREA TECNICA",
@@ -166669,12 +166693,20 @@
           ],
           "file": [
             {
-              "nome": "MONDIAL FRAMEC LISTINO 2025_rev.01.pdf",
+              "nome": "001.MONDIAL LISTINO 2026 listino_mf-2026_r00 VETRINE GELATO FRAMEC.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/vbimxy8xh8ed96n2m4mi9/MONDIAL-FRAMEC-LISTINO-2025_rev.01.pdf?rlkey=auixdub9p85md01l48pjibjwb&dl=0?raw=1",
-              "dimensione_kb": 4850,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/MONDIAL FRAMEC LISTINO 2025_rev.01.pdf"
+              "link": "https://www.dropbox.com/scl/fi/usn2a89z026m75v6d0ue0/001.MONDIAL-LISTINO-2026-listino_mf-2026_r00-VETRINE-GELATO-FRAMEC.pdf?rlkey=g1349qxzwuwt3aan18r91lng3&dl=0?raw=1",
+              "dimensione_kb": 515,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/001.MONDIAL LISTINO 2026 listino_mf-2026_r00 VETRINE GELATO FRAMEC.pdf"
+            },
+            {
+              "nome": "001.MONDIAL LISTINO 2026 listino_mf-2026_r00.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w84wfbwdwgkwnz9ovryl3/001.MONDIAL-LISTINO-2026-listino_mf-2026_r00.pdf?rlkey=x10e8wdp290ejl97arhhctb3e&dl=0?raw=1",
+              "dimensione_kb": 4492,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/001.MONDIAL LISTINO 2026 listino_mf-2026_r00.pdf"
             },
             {
               "nome": "MONDIAL FRAMEC NEWS 2025.pdf",
@@ -166685,39 +166717,15 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/MONDIAL FRAMEC NEWS 2025.pdf"
             },
             {
-              "nome": "MONDIAL LISTINO 2026 listino_mf-2026_r00.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/w84wfbwdwgkwnz9ovryl3/MONDIAL-LISTINO-2026-listino_mf-2026_r00.pdf?rlkey=x10e8wdp290ejl97arhhctb3e&dl=0?raw=1",
-              "dimensione_kb": 4492,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/MONDIAL LISTINO 2026 listino_mf-2026_r00.pdf"
-            },
-            {
               "nome": "Novità 2025 Mondial - Framec.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/swumnds4j64cl3qqh2f85/Novit-2025-Mondial-Framec.pdf?rlkey=0yv7l4n59agvni8ug5srklzob&dl=0?raw=1",
               "dimensione_kb": 3833,
               "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/Novità 2025 Mondial - Framec.pdf"
-            },
-            {
-              "nome": "cat_FRAMEC_r00.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2yptmfnru2b2ln63umeyc/cat_FRAMEC_r00.pdf?rlkey=gihefeagq5lnzf53sjsqdu3r4&dl=0?raw=1",
-              "dimensione_kb": 10784,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/cat_FRAMEC_r00.pdf"
-            },
-            {
-              "nome": "cat_MONDIAL_r00.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/d6en418hawei3617affiz/cat_MONDIAL_r00.pdf?rlkey=y1plkaxe4tc0b6bjjb4dqvw36&dl=0?raw=1",
-              "dimensione_kb": 10778,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/cat_MONDIAL_r00.pdf"
             }
           ],
-          "_totale_file": 51
+          "_totale_file": 52
         },
         {
           "nome": "MORANO",
