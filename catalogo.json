@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-24T08:39:39Z",
-  "totale_file": 24598,
+  "generato": "2026-04-24T08:43:04Z",
+  "totale_file": 24633,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61695,7 +61695,7 @@
       "nome": "VICECONTI SNC",
       "descrizione": "Documenti aziendali, formazione e comunicazione",
       "icona": "🏢",
-      "totale_file": 44,
+      "totale_file": 79,
       "cartelle": [
         {
           "nome": "ARCHIVIO DOCUMENTI",
@@ -61754,46 +61754,6 @@
           "_totale_file": 4
         },
         {
-          "nome": "GREEN PASS",
-          "path": "/HUB DOCUMENTALE/VICECONTI SNC/GREEN PASS",
-          "cartelle": [],
-          "file": [
-            {
-              "nome": "GREEN PASS VICECONTI ANTONIO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/lo74s20wgdxhy2gblhzte/GREEN-PASS-VICECONTI-ANTONIO.pdf?rlkey=8g1vhcq8cxrxphjn70jsway6n&dl=0?raw=1",
-              "dimensione_kb": 45,
-              "path": "/HUB DOCUMENTALE/VICECONTI SNC/GREEN PASS/GREEN PASS VICECONTI ANTONIO.pdf"
-            },
-            {
-              "nome": "VICECONTI FRANCESCA dgc-certificate-1628441219676.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/fvxynd7ika7q6qhijn5j0/VICECONTI-FRANCESCA-dgc-certificate-1628441219676.pdf?rlkey=ngbbyvprdui34or7l045zlmw4&dl=0?raw=1",
-              "dimensione_kb": 45,
-              "path": "/HUB DOCUMENTALE/VICECONTI SNC/GREEN PASS/VICECONTI FRANCESCA dgc-certificate-1628441219676.pdf"
-            },
-            {
-              "nome": "VICECONTI GIUSEPPE dgc-certificate-1628441768167.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/jla1xy763sdlgswtbe1ue/VICECONTI-GIUSEPPE-dgc-certificate-1628441768167.pdf?rlkey=ece4s4rrgli69j6jpmu5f9elw&dl=0?raw=1",
-              "dimensione_kb": 45,
-              "path": "/HUB DOCUMENTALE/VICECONTI SNC/GREEN PASS/VICECONTI GIUSEPPE dgc-certificate-1628441768167.pdf"
-            },
-            {
-              "nome": "VICECONTI PROSPERO dgc-certificate-1628442346112.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/69zabwiscl2czemh2p1a1/VICECONTI-PROSPERO-dgc-certificate-1628442346112.pdf?rlkey=wpjeuqych6230miktl2vv94wu&dl=0?raw=1",
-              "dimensione_kb": 45,
-              "path": "/HUB DOCUMENTALE/VICECONTI SNC/GREEN PASS/VICECONTI PROSPERO dgc-certificate-1628442346112.pdf"
-            }
-          ],
-          "_totale_file": 4
-        },
-        {
           "nome": "LIBERATORIE",
           "path": "/HUB DOCUMENTALE/VICECONTI SNC/LIBERATORIE",
           "cartelle": [],
@@ -61816,6 +61776,352 @@
             }
           ],
           "_totale_file": 2
+        },
+        {
+          "nome": "UTILITA' e MODULI",
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI",
+          "cartelle": [
+            {
+              "nome": "BILANCE VERIFICA PERIODICA",
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA",
+              "cartelle": [
+                {
+                  "nome": "ARCHIVIO",
+                  "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/ARCHIVIO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "MODULO X RICHIESTA VERIFICA PERIODICA BILANCE (PZ).doc",
+                      "tipo": "Word",
+                      "icona": "📝",
+                      "link": "https://www.dropbox.com/scl/fi/i5v91tz6vf78fi6bnd3f4/MODULO-X-RICHIESTA-VERIFICA-PERIODICA-BILANCE-PZ.doc?rlkey=eh2ve01n8w5ks4su6qat17ytc&dl=0?raw=1",
+                      "dimensione_kb": 56,
+                      "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/ARCHIVIO/MODULO X RICHIESTA VERIFICA PERIODICA BILANCE (PZ).doc"
+                    },
+                    {
+                      "nome": "MODULO X RICHIESTA VERIFICA PERIODICA BILANCE (PZ).pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ccfo7yny0rz9tedyl9jx2/MODULO-X-RICHIESTA-VERIFICA-PERIODICA-BILANCE-PZ.pdf?rlkey=70ql41ip1xlah1ohrkkeya8rp&dl=0?raw=1",
+                      "dimensione_kb": 36,
+                      "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/ARCHIVIO/MODULO X RICHIESTA VERIFICA PERIODICA BILANCE (PZ).pdf"
+                    },
+                    {
+                      "nome": "Modello di Form Publisher 1.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/0j9jyxb9t188hywafbqko/Modello-di-Form-Publisher-1.pdf?rlkey=uw39v3bt9h1kehhv2bvw885zl&dl=0?raw=1",
+                      "dimensione_kb": 18,
+                      "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/ARCHIVIO/Modello di Form Publisher 1.pdf"
+                    },
+                    {
+                      "nome": "Tariffe metriche TABELLA A.xls",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/b5s3ebu0t8g557solqsag/Tariffe-metriche-TABELLA-A.xls?rlkey=ekn5ombj648oiesbkgfinxyrj&dl=0?raw=1",
+                      "dimensione_kb": 35,
+                      "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/ARCHIVIO/Tariffe metriche TABELLA A.xls"
+                    },
+                    {
+                      "nome": "Tariffe metriche TABELLA A.xls.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/vxcyq25uaz4rl36rojgpz/Tariffe-metriche-TABELLA-A.xls.pdf?rlkey=6qjojrq1a91qaucr31j34cwlz&dl=0?raw=1",
+                      "dimensione_kb": 26,
+                      "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/ARCHIVIO/Tariffe metriche TABELLA A.xls.pdf"
+                    },
+                    {
+                      "nome": "VERIFICA PERIODICA TARIFFARIO COSENZA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/c039hiudwd5s1e21pbmqp/VERIFICA-PERIODICA-TARIFFARIO-COSENZA.pdf?rlkey=zaaihoxgtrq52q8ayz4g83irf&dl=0?raw=1",
+                      "dimensione_kb": 51,
+                      "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/ARCHIVIO/VERIFICA PERIODICA TARIFFARIO COSENZA.pdf"
+                    },
+                    {
+                      "nome": "VICECONTI SNC Richiesta Verifica Periodica Bilance.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/rty91fjukhhbrvxu91c0y/VICECONTI-SNC-Richiesta-Verifica-Periodica-Bilance.pdf?rlkey=cly7mdbl33dw93b5aya8tpe1a&dl=0?raw=1",
+                      "dimensione_kb": 359,
+                      "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/ARCHIVIO/VICECONTI SNC Richiesta Verifica Periodica Bilance.pdf"
+                    },
+                    {
+                      "nome": "istruz_verifica_strumenti_metrici def.doc",
+                      "tipo": "Word",
+                      "icona": "📝",
+                      "link": "https://www.dropbox.com/scl/fi/xoo4q3uqsfzplr6xbc6u7/istruz_verifica_strumenti_metrici-def.doc?rlkey=2bqflktya586c5plwfu762ajj&dl=0?raw=1",
+                      "dimensione_kb": 106,
+                      "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/ARCHIVIO/istruz_verifica_strumenti_metrici def.doc"
+                    }
+                  ],
+                  "_totale_file": 8
+                }
+              ],
+              "file": [
+                {
+                  "nome": "BILANCE DIVISIONE LEGALE PER ATTIVITA'.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/hjre7tbf8agsyohzumv7w/BILANCE-DIVISIONE-LEGALE-PER-ATTIVITA.jpg?rlkey=9rt1ysg2opml8rnip0hnpt7a6&dl=0?raw=1",
+                  "dimensione_kb": 94,
+                  "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/BILANCE DIVISIONE LEGALE PER ATTIVITA'.jpg"
+                },
+                {
+                  "nome": "MODULO X RICHIESTA VERIFICA PERIODICA BILANCE (PZ) CON TARIFFE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5ipwgs1lz4e4onr4eh5ii/MODULO-X-RICHIESTA-VERIFICA-PERIODICA-BILANCE-PZ-CON-TARIFFE.pdf?rlkey=e2vn3xq4gx9oil9cz6xhnis6o&dl=0?raw=1",
+                  "dimensione_kb": 51,
+                  "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/BILANCE VERIFICA PERIODICA/MODULO X RICHIESTA VERIFICA PERIODICA BILANCE (PZ) CON TARIFFE.pdf"
+                }
+              ],
+              "_totale_file": 10
+            },
+            {
+              "nome": "DICHIARAZIONI PER CLIENTI",
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/DICHIARAZIONI PER CLIENTI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "dichiarazione sostitutiva.docx",
+                  "tipo": "Word",
+                  "icona": "📝",
+                  "link": "https://www.dropbox.com/scl/fi/jvvq2qd5zj1r5pvxix5d3/dichiarazione-sostitutiva.docx?rlkey=hxze50a2ixhf7ehb1eysnte4i&dl=0?raw=1",
+                  "dimensione_kb": 45,
+                  "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/DICHIARAZIONI PER CLIENTI/dichiarazione sostitutiva.docx"
+                },
+                {
+                  "nome": "quitanza liberatoria.docx",
+                  "tipo": "Word",
+                  "icona": "📝",
+                  "link": "https://www.dropbox.com/scl/fi/enpw0ygb2rutwat42rojs/quitanza-liberatoria.docx?rlkey=ngq4jpl8zggz233yb4n376w4f&dl=0?raw=1",
+                  "dimensione_kb": 40,
+                  "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/DICHIARAZIONI PER CLIENTI/quitanza liberatoria.docx"
+                }
+              ],
+              "_totale_file": 2
+            },
+            {
+              "nome": "SCHEDE DI SICUREZZA RATIONAL",
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/SCHEDE DI SICUREZZA RATIONAL",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "RATIONAL SCHEDA DI SICUREZZA DETERGENTE RATIONAL.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/tufbzkodxk582iul02lon/RATIONAL-SCHEDA-DI-SICUREZZA-DETERGENTE-RATIONAL.pdf?rlkey=ymeuqpkevu113dlbdmfb856ke&dl=0?raw=1",
+                  "dimensione_kb": 211,
+                  "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/SCHEDE DI SICUREZZA RATIONAL/RATIONAL SCHEDA DI SICUREZZA DETERGENTE RATIONAL.pdf"
+                },
+                {
+                  "nome": "sdbecherratio141_-_RATIONAL_Brillantante_per_il_sistema_di_lavaggio_CleanJet®_(IT).pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/le16x13gs9l0b1tuawe62/sdbecherratio141_-_RATIONAL_Brillantante_per_il_sistema_di_lavaggio_CleanJet-_-IT.pdf?rlkey=8hjh95dggdbhbbjf32u239zb0&dl=0?raw=1",
+                  "dimensione_kb": 136,
+                  "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/SCHEDE DI SICUREZZA RATIONAL/sdbecherratio141_-_RATIONAL_Brillantante_per_il_sistema_di_lavaggio_CleanJet®_(IT).pdf"
+                }
+              ],
+              "_totale_file": 2
+            }
+          ],
+          "file": [
+            {
+              "nome": "CAPPE MOTORI  DIAMETRO TUBAZIONE.xlsx",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/2xizyonoj022j493974k6/CAPPE-MOTORI-DIAMETRO-TUBAZIONE.xlsx?rlkey=lolw4zlrnzeauy45g330gk7bp&dl=0?raw=1",
+              "dimensione_kb": 17,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/CAPPE MOTORI  DIAMETRO TUBAZIONE.xlsx"
+            },
+            {
+              "nome": "COLD LINE Modulo registrazione demo.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3z9gdi03cdbysi9mbgnr5/COLD-LINE-Modulo-registrazione-demo.pdf?rlkey=qf4csuq1cast2jqo4ds77qhoc&dl=0?raw=1",
+              "dimensione_kb": 1174,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/COLD LINE Modulo registrazione demo.pdf"
+            },
+            {
+              "nome": "CONDIZIONI DI VENDITA Viceconti snc pdf.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4s0n1sduyk4o9qjqivazk/CONDIZIONI-DI-VENDITA-Viceconti-snc-pdf.pdf?rlkey=hjpndz7rl5tepi4qj6qfsc5b3&dl=0?raw=1",
+              "dimensione_kb": 35,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/CONDIZIONI DI VENDITA Viceconti snc pdf.pdf"
+            },
+            {
+              "nome": "CONDIZIONI DI VENDITA Viceconti snc word.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/nzwaj7q2t128bzbusoz3p/CONDIZIONI-DI-VENDITA-Viceconti-snc-word.docx?rlkey=4wfhofawrxnnri8qntvf5hhg9&dl=0?raw=1",
+              "dimensione_kb": 21,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/CONDIZIONI DI VENDITA Viceconti snc word.docx"
+            },
+            {
+              "nome": "CONTRATTO VENDITA generico1 pdf.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/j5385astk3gi1uhvx286u/CONTRATTO-VENDITA-generico1-pdf.pdf?rlkey=mltfu4hrfzilcwvatzbt8038n&dl=0?raw=1",
+              "dimensione_kb": 49,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/CONTRATTO VENDITA generico1 pdf.pdf"
+            },
+            {
+              "nome": "CONTRATTO VENDITA generico1 word.doc",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/1z8u68lu3chssyufhjkam/CONTRATTO-VENDITA-generico1-word.doc?rlkey=oos9s1lcwabi2c297mk6yc41f&dl=0?raw=1",
+              "dimensione_kb": 46,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/CONTRATTO VENDITA generico1 word.doc"
+            },
+            {
+              "nome": "DICHIARAZIONE CONFORMITA' ATTREZZATURE.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/eq49zbs2ux2moiz5slxy4/DICHIARAZIONE-CONFORMITA-ATTREZZATURE.docx?rlkey=10hq9c1eqvyrk0yumlatzhsx7&dl=0?raw=1",
+              "dimensione_kb": 42,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/DICHIARAZIONE CONFORMITA' ATTREZZATURE.docx"
+            },
+            {
+              "nome": "DICHIARAZIONE CONFORMITA' Aspirazione Cappe VIRGILIO srl.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/5i25yubm15qgf559fxm8j/DICHIARAZIONE-CONFORMITA-Aspirazione-Cappe-VIRGILIO-srl.docx?rlkey=ziy1ckj2inz7l8oycwd2r7uok&dl=0?raw=1",
+              "dimensione_kb": 40,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/DICHIARAZIONE CONFORMITA' Aspirazione Cappe VIRGILIO srl.docx"
+            },
+            {
+              "nome": "GONG scheda di sicurezza.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wt2hsb7e0nb0m5zlz79jl/GONG-scheda-di-sicurezza.pdf?rlkey=6x5c0l9f0n0yv04za8tltz1of&dl=0?raw=1",
+              "dimensione_kb": 86,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/GONG scheda di sicurezza.pdf"
+            },
+            {
+              "nome": "MODULO TECNICO con CHIAMATA STAMPARE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mkwvb5ixvbg5iik97uxjs/MODULO-TECNICO-con-CHIAMATA-STAMPARE.pdf?rlkey=yc2gmwk94sat4q4rkw10u8i6v&dl=0?raw=1",
+              "dimensione_kb": 84,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/MODULO TECNICO con CHIAMATA STAMPARE.pdf"
+            },
+            {
+              "nome": "RATIONAL SCHEDA APPUNTI  CookingLive.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f8hm48qvsqec2ho4q89sf/RATIONAL-SCHEDA-APPUNTI-CookingLive.pdf?rlkey=al327xvtv382vok4e5gdhiozy&dl=0?raw=1",
+              "dimensione_kb": 386,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/RATIONAL SCHEDA APPUNTI  CookingLive.pdf"
+            },
+            {
+              "nome": "RATIONAL SCHEDA DEMO Viceconti_Scheda.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s0jycresnptm41c0p8n48/RATIONAL-SCHEDA-DEMO-Viceconti_Scheda.pdf?rlkey=orjbz42ehz45cc9j6c2pu5nt6&dl=0?raw=1",
+              "dimensione_kb": 197,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/RATIONAL SCHEDA DEMO Viceconti_Scheda.pdf"
+            },
+            {
+              "nome": "SANTANDER privacy 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/i9dsli20evu42ikd9cm1p/SANTANDER-privacy-2.pdf?rlkey=otv1azxoyg9e8j7jrhygc191a&dl=0?raw=1",
+              "dimensione_kb": 155,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/SANTANDER privacy 2.pdf"
+            },
+            {
+              "nome": "SANTANDER privacy.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/e4j6ud1vb3zcevohdq88f/SANTANDER-privacy.pdf?rlkey=xldl84a1x6nlxgor9m0g6gxdp&dl=0?raw=1",
+              "dimensione_kb": 847,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/SANTANDER privacy.pdf"
+            },
+            {
+              "nome": "VICECONTI SNC CHIUSI MATTINA.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/k32b83ghr19bs3r9jv76k/VICECONTI-SNC-CHIUSI-MATTINA.docx?rlkey=hkgyish6pl7d8xfmo4699yi8p&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/VICECONTI SNC CHIUSI MATTINA.docx"
+            },
+            {
+              "nome": "VICECONTI SNC CHIUSI PER FERIE.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/bs6pivt6mcd60k0togfgs/VICECONTI-SNC-CHIUSI-PER-FERIE.docx?rlkey=1vba3fci8m7l3xu5v8mx5inlb&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/VICECONTI SNC CHIUSI PER FERIE.docx"
+            },
+            {
+              "nome": "VICECONTI SNC CODICE UNIVOCO PER FATTURAZIONE ELETTRONICA.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/4tj0zs7bpufl9w1qt3nkw/VICECONTI-SNC-CODICE-UNIVOCO-PER-FATTURAZIONE-ELETTRONICA.docx?rlkey=9llmbxesflipl62nf79g99pz9&dl=0?raw=1",
+              "dimensione_kb": 1430,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/VICECONTI SNC CODICE UNIVOCO PER FATTURAZIONE ELETTRONICA.docx"
+            },
+            {
+              "nome": "VICECONTI SNC DATI ANAGRAFICI 12_01_2024.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/jl0u55y7224g4fhlsp7no/VICECONTI-SNC-DATI-ANAGRAFICI-12_01_2024.docx?rlkey=iyz364ttnercir3t0cfdknumz&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/VICECONTI SNC DATI ANAGRAFICI 12_01_2024.docx"
+            },
+            {
+              "nome": "VICECONTI SNC DATI ANAGRAFICI 12_01_2024.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/y1ik1dem3ew6neb2lh1fm/VICECONTI-SNC-DATI-ANAGRAFICI-12_01_2024.pdf?rlkey=iz4qzqz1w8tchvlhbcb8zfg6n&dl=0?raw=1",
+              "dimensione_kb": 79,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/VICECONTI SNC DATI ANAGRAFICI 12_01_2024.pdf"
+            },
+            {
+              "nome": "VICECONTI SNC TORNO SUBITO.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/sqqrhkg25c65cxmfi9vz0/VICECONTI-SNC-TORNO-SUBITO.docx?rlkey=ux0lxh4fs7p4tclarfzz6cet8&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/VICECONTI SNC TORNO SUBITO.docx"
+            },
+            {
+              "nome": "VICECONTI SNC UFFICI E NEGOZI SU APPUNTAMENTO 2026.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/vebr0uj48gg82oe45ae6e/VICECONTI-SNC-UFFICI-E-NEGOZI-SU-APPUNTAMENTO-2026.docx?rlkey=ft0yxf30p2hact3tzgz8g5rlw&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/VICECONTI SNC UFFICI E NEGOZI SU APPUNTAMENTO 2026.docx"
+            },
+            {
+              "nome": "VICECONTI SNC delega.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sl007e27glln9ic9v44lf/VICECONTI-SNC-delega.pdf?rlkey=5l5uftkmu3pmxqz1d6heg773c&dl=0?raw=1",
+              "dimensione_kb": 205,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/VICECONTI SNC delega.pdf"
+            },
+            {
+              "nome": "avviso_appuntamento.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gcd249xb5tz14k9k3ebe5/avviso_appuntamento.pdf?rlkey=newggq44yd0kpr4argcs9x2jp&dl=0?raw=1",
+              "dimensione_kb": 2,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/avviso_appuntamento.pdf"
+            },
+            {
+              "nome": "cartello_appuntamento_2026.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/pfv6kjvtvro3njg888wpw/cartello_appuntamento_2026.docx?rlkey=4wxu32cc4wqnuaajhm1uf15q0&dl=0?raw=1",
+              "dimensione_kb": 36,
+              "path": "/HUB DOCUMENTALE/VICECONTI SNC/UTILITA' e MODULI/cartello_appuntamento_2026.docx"
+            }
+          ],
+          "_totale_file": 38
         }
       ],
       "file": [
@@ -61826,6 +62132,14 @@
           "link": "https://www.dropbox.com/scl/fi/g479nbp920pownlhvcizx/FIRMA-C.jpg?rlkey=ig9yelhk87ffqewabgncs4pob&dl=0?raw=1",
           "dimensione_kb": 7,
           "path": "/HUB DOCUMENTALE/VICECONTI SNC/FIRMA C.jpg"
+        },
+        {
+          "nome": "MODULO TECNICO con CHIAMATA STAMPARE AREA ASSISTENZA.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/9n0xf7zh8unaiiqze0bvv/MODULO-TECNICO-con-CHIAMATA-STAMPARE-AREA-ASSISTENZA.pdf?rlkey=3dg8vozw1weqjb946r8uuxe2j&dl=0?raw=1",
+          "dimensione_kb": 84,
+          "path": "/HUB DOCUMENTALE/VICECONTI SNC/MODULO TECNICO con CHIAMATA STAMPARE AREA ASSISTENZA.pdf"
         },
         {
           "nome": "VICECONTI ANTONIO C.I. SCADENZA 2034.pdf",
