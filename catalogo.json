@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-27T03:52:04Z",
-  "totale_file": 24633,
+  "generato": "2026-04-27T07:18:48Z",
+  "totale_file": 24634,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5614,
+      "totale_file": 5615,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -2437,6 +2437,22 @@
                 }
               ],
               "_totale_file": 3
+            },
+            {
+              "nome": "2026_04_26 ARKEIDOS CLIENTE WEB LAVABAR AF.40 ESI DD RB",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_26 ARKEIDOS CLIENTE WEB LAVABAR AF.40 ESI DD RB",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ARKIDOS LAVBAR Offerta di vendita_260130_20260426_225513.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ar6sdnn6dcdky1d09wef6/ARKIDOS-LAVBAR-Offerta-di-vendita_260130_20260426_225513.pdf?rlkey=utiuqg8lvfxfxzyyxgdemcq0o&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_26 ARKEIDOS CLIENTE WEB LAVABAR AF.40 ESI DD RB/ARKIDOS LAVBAR Offerta di vendita_260130_20260426_225513.pdf"
+                }
+              ],
+              "_totale_file": 1
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -17035,7 +17051,7 @@
                           "nome": "Offerta di vendita_200801_LA CAMBUSA SCONTI.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/3v3gmwwa370epad7sy6zu/Offerta-di-vendita_200801_LA-CAMBUSA-SCONTI.pdf?rlkey=tugobu6890bf6mok4fv5zpbzn&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 74,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/LA CAMBUSA/Offerta di vendita_200801_LA CAMBUSA SCONTI.pdf"
                         },
@@ -58571,7 +58587,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5437
+          "_totale_file": 5438
         },
         {
           "nome": "ORDINI CLIENTE",
