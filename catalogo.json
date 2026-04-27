@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-27T07:18:48Z",
-  "totale_file": 24634,
+  "generato": "2026-04-27T09:23:18Z",
+  "totale_file": 24684,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176207,7 +176207,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4693,
+      "totale_file": 4743,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -176535,683 +176535,11 @@
                   "tipo": "File",
                   "icona": "📎",
                   "link": "https://www.dropbox.com/scl/fi/sbg0t18rtpupz49dg8g6w/settings.local.json?rlkey=7ctnf8mwmo33o03xljz4ui6hz&dl=0?raw=1",
-                  "dimensione_kb": 1,
+                  "dimensione_kb": 2,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/.claude/settings.local.json"
                 }
               ],
               "_totale_file": 1
-            },
-            {
-              "nome": "APERTE",
-              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE",
-              "cartelle": [],
-              "file": [
-                {
-                  "nome": "Amazon EU S.a r.l., Succursale Italiana_IT26-AEUI-4514472_2026-03-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/uzgsa6xbxpzaut5wit9ik/Amazon-EU-S.a-r.l.-Succursale-Italiana_IT26-AEUI-4514472_2026-03-23.xml?rlkey=d6sdb8b8y4rzbrbj9h9hji5nn&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Amazon EU S.a r.l., Succursale Italiana_IT26-AEUI-4514472_2026-03-23.xml"
-                },
-                {
-                  "nome": "Amazon EU S.a r.l., Succursale Italiana_IT26-AEUI-910677_2026-01-19.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/0u89yli8u7ycyxl7edk72/Amazon-EU-S.a-r.l.-Succursale-Italiana_IT26-AEUI-910677_2026-01-19.xml?rlkey=tfftlf5m1v33t79er40z3moxp&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Amazon EU S.a r.l., Succursale Italiana_IT26-AEUI-910677_2026-01-19.xml"
-                },
-                {
-                  "nome": "Apple Retail Italia S.r.l_562A2025000009642_2025-12-14.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/0x8pxztxg3mq3w4y5tq4b/Apple-Retail-Italia-S.r.l_562A2025000009642_2025-12-14.xml?rlkey=kmmpsj3e9bkaw3o94pnpnzp84&dl=0?raw=1",
-                  "dimensione_kb": 6,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Apple Retail Italia S.r.l_562A2025000009642_2025-12-14.xml"
-                },
-                {
-                  "nome": "C B srl_1048_26_1_2026-03-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/5bquzp6fmi3u6d7twwqr8/C-B-srl_1048_26_1_2026-03-31.xml?rlkey=d39sj6w37qajfacw0nfzp2ys1&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/C B srl_1048_26_1_2026-03-31.xml"
-                },
-                {
-                  "nome": "C B srl_814_26_101_2026-03-30.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/xxzbepwcs5y6eqqyrq587/C-B-srl_814_26_101_2026-03-30.xml?rlkey=1zo49gxo408kchgs0f6l62udp&dl=0?raw=1",
-                  "dimensione_kb": 9,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/C B srl_814_26_101_2026-03-30.xml"
-                },
-                {
-                  "nome": "COLD LINE S.r.L_000639E_2026-02-17.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/sdkfz5y9w6sp4k3rr1ht0/COLD-LINE-S.r.L_000639E_2026-02-17.xml?rlkey=0yme322g79fyt4jhagjprai19&dl=0?raw=1",
-                  "dimensione_kb": 15,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COLD LINE S.r.L_000639E_2026-02-17.xml"
-                },
-                {
-                  "nome": "COLD LINE S.r.L_000932E_2026-02-28.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/s8e7x0unq5zjibdnluz90/COLD-LINE-S.r.L_000932E_2026-02-28.xml?rlkey=tp0qihpp8pyyji1h65l6b8zsc&dl=0?raw=1",
-                  "dimensione_kb": 11,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COLD LINE S.r.L_000932E_2026-02-28.xml"
-                },
-                {
-                  "nome": "COLD LINE S.r.L_001275E_2026-03-17.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/d0l050t1yzosz2c0rdv2u/COLD-LINE-S.r.L_001275E_2026-03-17.xml?rlkey=7t9h1acit0zp917uula7mdjpb&dl=0?raw=1",
-                  "dimensione_kb": 14,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COLD LINE S.r.L_001275E_2026-03-17.xml"
-                },
-                {
-                  "nome": "COLD LINE S.r.L_001276E_2026-03-17.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/ijxonnm0fggfbsb8v2xj9/COLD-LINE-S.r.L_001276E_2026-03-17.xml?rlkey=dshmvf953i4v2kk9o35x8ma70&dl=0?raw=1",
-                  "dimensione_kb": 9,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COLD LINE S.r.L_001276E_2026-03-17.xml"
-                },
-                {
-                  "nome": "COLD LINE S.r.L_006292E_2025-11-26.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/eg6q3rpd9h10fuont2gwb/COLD-LINE-S.r.L_006292E_2025-11-26.xml?rlkey=s3xc8g09cqay6eysr8vpf2i27&dl=0?raw=1",
-                  "dimensione_kb": 15,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COLD LINE S.r.L_006292E_2025-11-26.xml"
-                },
-                {
-                  "nome": "COLD LINE S.r.L_006753E_2025-12-10.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/deuoenur93hjuqdzcvijj/COLD-LINE-S.r.L_006753E_2025-12-10.xml?rlkey=ec8my67j1bk3qv6uv1tzdd0pk&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COLD LINE S.r.L_006753E_2025-12-10.xml"
-                },
-                {
-                  "nome": "COLD LINE S.r.L_006771E_2025-12-10.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/ubgybykmzm9bcrdwey88a/COLD-LINE-S.r.L_006771E_2025-12-10.xml?rlkey=ed8ph4ixfhlkx2lye35lgemv8&dl=0?raw=1",
-                  "dimensione_kb": 9,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COLD LINE S.r.L_006771E_2025-12-10.xml"
-                },
-                {
-                  "nome": "COLD LINE S.r.L_006819E_2025-12-15.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/y1zatr5su2m5krlmvmarb/COLD-LINE-S.r.L_006819E_2025-12-15.xml?rlkey=qh2rqftjcxz36z1x0i0igmzf0&dl=0?raw=1",
-                  "dimensione_kb": 9,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COLD LINE S.r.L_006819E_2025-12-15.xml"
-                },
-                {
-                  "nome": "COLD LINE S.r.L_006820E_2025-12-15.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/6xoemfoyazngrc9x0w715/COLD-LINE-S.r.L_006820E_2025-12-15.xml?rlkey=i9u2tqwgs4460d4davchuobr4&dl=0?raw=1",
-                  "dimensione_kb": 8,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COLD LINE S.r.L_006820E_2025-12-15.xml"
-                },
-                {
-                  "nome": "COMENDA ALI GROUP SRL_2026-VIC-0260505_2026-02-11.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/c68dd8metyd4oe36znicu/COMENDA-ALI-GROUP-SRL_2026-VIC-0260505_2026-02-11.xml?rlkey=92yoz97483c2uv91k0je3tuw1&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COMENDA ALI GROUP SRL_2026-VIC-0260505_2026-02-11.xml"
-                },
-                {
-                  "nome": "COMPASS BANCA SPA_C1AV20024009_2026-03-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/e6h80v5abyw375olkhums/COMPASS-BANCA-SPA_C1AV20024009_2026-03-31.xml?rlkey=3pjsv8shnuru9pbnxzlaj2lnm&dl=0?raw=1",
-                  "dimensione_kb": 157,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COMPASS BANCA SPA_C1AV20024009_2026-03-31.xml"
-                },
-                {
-                  "nome": "COSMOPOL FATS202601498.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/fpv88wmoavbtjhs6by1hq/COSMOPOL-FATS202601498.pdf?rlkey=w8ivmus2j881hlbogd4i7mh6y&dl=0?raw=1",
-                  "dimensione_kb": 17,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/COSMOPOL FATS202601498.pdf"
-                },
-                {
-                  "nome": "CUPPONE S.R.L_03054V_2025-10-24.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/a06ngz2eqy6p4d9876dre/CUPPONE-S.R.L_03054V_2025-10-24.xml?rlkey=we2bil1lx0factgpee02n9qe4&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/CUPPONE S.R.L_03054V_2025-10-24.xml"
-                },
-                {
-                  "nome": "Cimbali Group S.p.A._0010006114_2026-03-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/vkem47crfe7f9maag03ty/Cimbali-Group-S.p.A._0010006114_2026-03-31.xml?rlkey=sw6ktljx1lpqo3vukb9jbiy5m&dl=0?raw=1",
-                  "dimensione_kb": 212,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Cimbali Group S.p.A._0010006114_2026-03-31.xml"
-                },
-                {
-                  "nome": "DIENI GIUSEPPE_6302025_2025-11-28.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/r4wkef5ekrtc6owhh49jy/DIENI-GIUSEPPE_6302025_2025-11-28.xml?rlkey=5g0vs5r1wv6m2ilxyvrxrmhqd&dl=0?raw=1",
-                  "dimensione_kb": 36,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/DIENI GIUSEPPE_6302025_2025-11-28.xml"
-                },
-                {
-                  "nome": "ELETTRO 2D s.r.l_16082025_2025-11-19.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/nqm2ylf4wtwz2wai43t9y/ELETTRO-2D-s.r.l_16082025_2025-11-19.xml?rlkey=fnv3xgmk9llm0vyg11astgq2r&dl=0?raw=1",
-                  "dimensione_kb": 76,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/ELETTRO 2D s.r.l_16082025_2025-11-19.xml"
-                },
-                {
-                  "nome": "EURODOMUS SRL_548_2026-02-21.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/tn8t9qjvd5ag4hlg7cxxc/EURODOMUS-SRL_548_2026-02-21.xml?rlkey=d8wdu16fky19sa5a1v0k9t06w&dl=0?raw=1",
-                  "dimensione_kb": 20,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/EURODOMUS SRL_548_2026-02-21.xml"
-                },
-                {
-                  "nome": "Ecosan SRL_000000000000103_02_2026-03-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/0wf8fs2d6pvr0gvfo67p3/Ecosan-SRL_000000000000103_02_2026-03-31.xml?rlkey=rsoguwpk2v6x11zckh06l8d4m&dl=0?raw=1",
-                  "dimensione_kb": 10,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Ecosan SRL_000000000000103_02_2026-03-31.xml"
-                },
-                {
-                  "nome": "Ecosan SRL_00000000000036802_2025-10-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/iux5zdmccalzz5jce9sbs/Ecosan-SRL_00000000000036802_2025-10-31.xml?rlkey=q0tejxvm2fpq4vo1yobybxcwz&dl=0?raw=1",
-                  "dimensione_kb": 8,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Ecosan SRL_00000000000036802_2025-10-31.xml"
-                },
-                {
-                  "nome": "Ecosan SRL_00000000000047602_2025-12-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/llajtng89w0h7mn9sc7di/Ecosan-SRL_00000000000047602_2025-12-23.xml?rlkey=3tgsw11y10q82buy39lbws4g6&dl=0?raw=1",
-                  "dimensione_kb": 16,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Ecosan SRL_00000000000047602_2025-12-23.xml"
-                },
-                {
-                  "nome": "FA.M.A.G. SRL_15226_2026-02-04.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/qzr3kejv2ggdhfd3qhu5g/FA.M.A.G.-SRL_15226_2026-02-04.xml?rlkey=b6es783lkfosljbty2cub3j8l&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/FA.M.A.G. SRL_15226_2026-02-04.xml"
-                },
-                {
-                  "nome": "FIMAR s.p.a._4736_2026-03-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/dbfqaa48t7tz2r83bmuc7/FIMAR-s.p.a._4736_2026-03-31.xml?rlkey=lgjjho0pnld0ubp2acqg1mi1y&dl=0?raw=1",
-                  "dimensione_kb": 134,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/FIMAR s.p.a._4736_2026-03-31.xml"
-                },
-                {
-                  "nome": "FIMAR s.p.a_1766_2026-02-11.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/t6at7mapoww45r4i98d6l/FIMAR-s.p.a_1766_2026-02-11.xml?rlkey=3h1pw10vt6nuyjl9f3z5t5fqc&dl=0?raw=1",
-                  "dimensione_kb": 124,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/FIMAR s.p.a_1766_2026-02-11.xml"
-                },
-                {
-                  "nome": "FIMAR s.p.a_2393_2026-02-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/7e1a8qvu0qrx701wxomy3/FIMAR-s.p.a_2393_2026-02-23.xml?rlkey=hwsex1mknwwe21jdoq1wx5fsy&dl=0?raw=1",
-                  "dimensione_kb": 124,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/FIMAR s.p.a_2393_2026-02-23.xml"
-                },
-                {
-                  "nome": "FIMAR s.p.a_2935_2026-02-27.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/fs4lz2pzjed0fggctw03a/FIMAR-s.p.a_2935_2026-02-27.xml?rlkey=hd0weczhzwa5wseuo9uqv1bpp&dl=0?raw=1",
-                  "dimensione_kb": 125,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/FIMAR s.p.a_2935_2026-02-27.xml"
-                },
-                {
-                  "nome": "FIMAR s.p.a_3461_2026-03-11.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/2vbzcgq2kmofbg8ldq1t6/FIMAR-s.p.a_3461_2026-03-11.xml?rlkey=s7xvzqauxqaj15i025zfxafbu&dl=0?raw=1",
-                  "dimensione_kb": 124,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/FIMAR s.p.a_3461_2026-03-11.xml"
-                },
-                {
-                  "nome": "FIMAR s.p.a_4064_2026-03-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/9b5tgkyenou6n90nut92m/FIMAR-s.p.a_4064_2026-03-23.xml?rlkey=nc3640k0bhwag356w02kdd6ra&dl=0?raw=1",
-                  "dimensione_kb": 122,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/FIMAR s.p.a_4064_2026-03-23.xml"
-                },
-                {
-                  "nome": "Fimel Soc.Coop. S.n.c._136_2026_2026-03-25.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/wht0ftg5dx1wz3rw04n9t/Fimel-Soc.Coop.-S.n.c._136_2026_2026-03-25.xml?rlkey=9w222zn5mhteuuc2kas2h7cxi&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Fimel Soc.Coop. S.n.c._136_2026_2026-03-25.xml"
-                },
-                {
-                  "nome": "GI.METAL SRL_33600_2026-03-12.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/8hrwzgjnasold48h1yuzl/GI.METAL-SRL_33600_2026-03-12.xml?rlkey=don5q1e62l59dbj7pdxl8207m&dl=0?raw=1",
-                  "dimensione_kb": 104,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/GI.METAL SRL_33600_2026-03-12.xml"
-                },
-                {
-                  "nome": "GIUSEPPE CASELLA_35_2025-10-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/f4m54ffaajtx36om2s99p/GIUSEPPE-CASELLA_35_2025-10-23.xml?rlkey=3dmmowkibrnu86l6bkpo8h7bj&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/GIUSEPPE CASELLA_35_2025-10-23.xml"
-                },
-                {
-                  "nome": "GOPACK S.R.L. a socio unico_000686_26_2026-03-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/pr0nbwquxcufrguqb3os6/GOPACK-S.R.L.-a-socio-unico_000686_26_2026-03-31.xml?rlkey=wafdz3iqyim1y7qf6u9twmxv0&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/GOPACK S.R.L. a socio unico_000686_26_2026-03-31.xml"
-                },
-                {
-                  "nome": "HOTEL PLAZA TARANTO SRL_1832026H_2026-02-19.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/7xfedpum4ev4pgzpb9wvk/HOTEL-PLAZA-TARANTO-SRL_1832026H_2026-02-19.xml?rlkey=x9umoovj46adcm2higp4h56z7&dl=0?raw=1",
-                  "dimensione_kb": 6,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/HOTEL PLAZA TARANTO SRL_1832026H_2026-02-19.xml"
-                },
-                {
-                  "nome": "IFI S.p.a_1250504900_2025-12-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/mql3s54isibzba009yswz/IFI-S.p.a_1250504900_2025-12-23.xml?rlkey=q1n8ipt63t5skvgi3ypb87n6v&dl=0?raw=1",
-                  "dimensione_kb": 44,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/IFI S.p.a_1250504900_2025-12-23.xml"
-                },
-                {
-                  "nome": "IFI S.p.a_1260500609_2026-02-27.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/xy40uxgxae4c11za08qbp/IFI-S.p.a_1260500609_2026-02-27.xml?rlkey=ukv5rx2272ldwdky6irz2b441&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/IFI S.p.a_1260500609_2026-02-27.xml"
-                },
-                {
-                  "nome": "IMS IDROMETAL SCHETTINI S.R.L_FPR 688_2025-09-27.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/hxkf53jnbrq5lzu6xezx2/IMS-IDROMETAL-SCHETTINI-S.R.L_FPR-688_2025-09-27.xml?rlkey=zfqclitu1itd6nz6nsaw4frp8&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/IMS IDROMETAL SCHETTINI S.R.L_FPR 688_2025-09-27.xml"
-                },
-                {
-                  "nome": "MECNOSUD SRL_8921_2026-03-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/kkjqyin401cafkbdyb6x7/MECNOSUD-SRL_8921_2026-03-23.xml?rlkey=etsolk1738s6awf5jcd08vds5&dl=0?raw=1",
-                  "dimensione_kb": 8,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/MECNOSUD SRL_8921_2026-03-23.xml"
-                },
-                {
-                  "nome": "MORINI S.R.L. - Soc.Unipersonale_26F101974_2026-02-12.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/9n3ocm68tyfr6fj3nftcz/MORINI-S.R.L.-Soc.Unipersonale_26F101974_2026-02-12.xml?rlkey=kfk1uxy9tagd4y0ebuw7vmj7y&dl=0?raw=1",
-                  "dimensione_kb": 11,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/MORINI S.R.L. - Soc.Unipersonale_26F101974_2026-02-12.xml"
-                },
-                {
-                  "nome": "MORINI S.R.L. - Soc.Unipersonale_26F103659_2026-03-12.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/364t7cxmpzdj4vot2vwhe/MORINI-S.R.L.-Soc.Unipersonale_26F103659_2026-03-12.xml?rlkey=4ilo76gnoqblp11xkaasgky7b&dl=0?raw=1",
-                  "dimensione_kb": 14,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/MORINI S.R.L. - Soc.Unipersonale_26F103659_2026-03-12.xml"
-                },
-                {
-                  "nome": "MORINI S.R.L. - Soc.Unipersonale_26F104413_2026-03-25.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/cvh4srq4yvqa7s30vb3ec/MORINI-S.R.L.-Soc.Unipersonale_26F104413_2026-03-25.xml?rlkey=nhw0e5prp00sk0ewta59v6j4i&dl=0?raw=1",
-                  "dimensione_kb": 21,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/MORINI S.R.L. - Soc.Unipersonale_26F104413_2026-03-25.xml"
-                },
-                {
-                  "nome": "MURGIA RESORT SRL_596H2025_2025-12-18.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/oeqlgmhvibqe16l5dlvpz/MURGIA-RESORT-SRL_596H2025_2025-12-18.xml?rlkey=9sqrwlhmuf9tjrg3mhx4zl7qk&dl=0?raw=1",
-                  "dimensione_kb": 4,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/MURGIA RESORT SRL_596H2025_2025-12-18.xml"
-                },
-                {
-                  "nome": "Mediterraneo s.r.l_54_2026-02-19.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/texjc1jv47leakyr4otty/Mediterraneo-s.r.l_54_2026-02-19.xml?rlkey=brrs4s9110pfu9ublda2ahz4l&dl=0?raw=1",
-                  "dimensione_kb": 12,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Mediterraneo s.r.l_54_2026-02-19.xml"
-                },
-                {
-                  "nome": "Modular Professional SRL_000183_2026-02-13.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/dwphq6amrqn180r50wzi1/Modular-Professional-SRL_000183_2026-02-13.xml?rlkey=iypzkpaquhk13seqmh8qjtdgn&dl=0?raw=1",
-                  "dimensione_kb": 175,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Modular Professional SRL_000183_2026-02-13.xml"
-                },
-                {
-                  "nome": "Modular Professional SRL_000565_2026-03-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/qlqqi9jf04j2y60iizksr/Modular-Professional-SRL_000565_2026-03-31.xml?rlkey=9wjk2bvh8y9infr2njpm98chn&dl=0?raw=1",
-                  "dimensione_kb": 176,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Modular Professional SRL_000565_2026-03-31.xml"
-                },
-                {
-                  "nome": "NTA SRL_292025_2025-09-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/p82ey4shhbo3s98m50d3s/NTA-SRL_292025_2025-09-23.xml?rlkey=9dob9btgc1gd39nw2mg9v49wk&dl=0?raw=1",
-                  "dimensione_kb": 164,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/NTA SRL_292025_2025-09-23.xml"
-                },
-                {
-                  "nome": "Over Costruzioni S.r.l_14452025_2025-11-28.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/pg1cv65jismo9c3ux6lti/Over-Costruzioni-S.r.l_14452025_2025-11-28.xml?rlkey=xsaj9ephw86tjn7ymuxiqo69m&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Over Costruzioni S.r.l_14452025_2025-11-28.xml"
-                },
-                {
-                  "nome": "Over Costruzioni S.r.l_2492026_2026-03-10.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/lunlx4nsibshvqgwz6r64/Over-Costruzioni-S.r.l_2492026_2026-03-10.xml?rlkey=gn17jm5yndcrtmsk4rxq3ejpx&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Over Costruzioni S.r.l_2492026_2026-03-10.xml"
-                },
-                {
-                  "nome": "PAPALEO RAG GIACOMO SRL_202503710_2025-12-30.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/a5645xejqjd14ro34clvp/PAPALEO-RAG-GIACOMO-SRL_202503710_2025-12-30.xml?rlkey=v7skh1i2qeg9dufi8ft6brr12&dl=0?raw=1",
-                  "dimensione_kb": 6,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/PAPALEO RAG GIACOMO SRL_202503710_2025-12-30.xml"
-                },
-                {
-                  "nome": "PRIOLINOX S.P.A_106_2026-01-30.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/l7mzbi1tt5k5hxztkbtek/PRIOLINOX-S.P.A_106_2026-01-30.xml?rlkey=gg2qjgf48j9p6robswj5kbxrp&dl=0?raw=1",
-                  "dimensione_kb": 83,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/PRIOLINOX S.P.A_106_2026-01-30.xml"
-                },
-                {
-                  "nome": "Plasticart.com Snc di OLIVIERI Francesco & C_17947_2025-10-28.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/kxsp26j0bbryocv8ya6qe/Plasticart.com-Snc-di-OLIVIERI-Francesco-C_17947_2025-10-28.xml?rlkey=txt16ts7rawrvnz29f0jb30tj&dl=0?raw=1",
-                  "dimensione_kb": 6,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Plasticart.com Snc di OLIVIERI Francesco & C_17947_2025-10-28.xml"
-                },
-                {
-                  "nome": "Pomitourist s.a.s. di Romano Paolo_1119_2025-11-19.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/4o7lrw189qqar6yvhd9i4/Pomitourist-s.a.s.-di-Romano-Paolo_1119_2025-11-19.xml?rlkey=2wjtwmix3yqgsp4eqcx4wrl09&dl=0?raw=1",
-                  "dimensione_kb": 4,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Pomitourist s.a.s. di Romano Paolo_1119_2025-11-19.xml"
-                },
-                {
-                  "nome": "REFRICELL SERVICE SRL_1245_2025-12-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/joidjpbrgw2ie5vrdk0ha/REFRICELL-SERVICE-SRL_1245_2025-12-31.xml?rlkey=2igdkbm7656itfjo8ro69x6oj&dl=0?raw=1",
-                  "dimensione_kb": 8,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/REFRICELL SERVICE SRL_1245_2025-12-31.xml"
-                },
-                {
-                  "nome": "REPA ITALIA SRL_20250129975_2025-12-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/72zvbluk4v517vzcu33dw/REPA-ITALIA-SRL_20250129975_2025-12-23.xml?rlkey=4kzb5c3u40307z8hoa6j5fi74&dl=0?raw=1",
-                  "dimensione_kb": 38,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/REPA ITALIA SRL_20250129975_2025-12-23.xml"
-                },
-                {
-                  "nome": "REPA ITALIA SRL_2026013283_2026-02-28.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/lwqrk015hbrkq5rbzrtda/REPA-ITALIA-SRL_2026013283_2026-02-28.xml?rlkey=kxfv7w72e0nievi1jyif9bawi&dl=0?raw=1",
-                  "dimensione_kb": 34,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/REPA ITALIA SRL_2026013283_2026-02-28.xml"
-                },
-                {
-                  "nome": "REPA ITALIA SRL_2026015469_2026-03-19.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/72ytae3bjxnhivy54v5y3/REPA-ITALIA-SRL_2026015469_2026-03-19.xml?rlkey=d22v2hvyq378whjmgvb4zayyn&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/REPA ITALIA SRL_2026015469_2026-03-19.xml"
-                },
-                {
-                  "nome": "REPA ITALIA SRL_2026015470_2026-03-19.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/2w9ysdkjb40xhl8ynj4l5/REPA-ITALIA-SRL_2026015470_2026-03-19.xml?rlkey=ja79rkh28cgr9sxo2mm6f738c&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/REPA ITALIA SRL_2026015470_2026-03-19.xml"
-                },
-                {
-                  "nome": "REPA ITALIA SRL_202601602_2026-01-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/e8pkcj6pjduqpi5gv32cv/REPA-ITALIA-SRL_202601602_2026-01-31.xml?rlkey=9xic9e69xd4rtvn0u2mliyn21&dl=0?raw=1",
-                  "dimensione_kb": 22,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/REPA ITALIA SRL_202601602_2026-01-31.xml"
-                },
-                {
-                  "nome": "REPA ITALIA SRL_2026_01_6022_2026-03-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/ye0pnyjpq2hjapjn4gxpx/REPA-ITALIA-SRL_2026_01_6022_2026-03-31.xml?rlkey=cpc75efev7bjgqulbvk93w0hz&dl=0?raw=1",
-                  "dimensione_kb": 46,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/REPA ITALIA SRL_2026_01_6022_2026-03-31.xml"
-                },
-                {
-                  "nome": "SAMBONET PADERNO INDUSTRIE S.P.A_S0304160_2026-02-12.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/imttdcnejscrbwi594ue8/SAMBONET-PADERNO-INDUSTRIE-S.P.A_S0304160_2026-02-12.xml?rlkey=c2i47ax9m536kibs53pjui4em&dl=0?raw=1",
-                  "dimensione_kb": 375,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/SAMBONET PADERNO INDUSTRIE S.P.A_S0304160_2026-02-12.xml"
-                },
-                {
-                  "nome": "SATRIANO SRL_894_2026-03-14.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/scyr35e4v7a6mg0rggqqk/SATRIANO-SRL_894_2026-03-14.xml?rlkey=desy22y5capqn6f8ogc43hlq4&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/SATRIANO SRL_894_2026-03-14.xml"
-                },
-                {
-                  "nome": "SIRMAN SPA A SOCIO UNICO_0010021292_2025-11-26.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/6u5k88mvbdi7e2qf1f4wr/SIRMAN-SPA-A-SOCIO-UNICO_0010021292_2025-11-26.xml?rlkey=v0iqe8qumjjkpp0bdwvkbcoyk&dl=0?raw=1",
-                  "dimensione_kb": 102,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/SIRMAN SPA A SOCIO UNICO_0010021292_2025-11-26.xml"
-                },
-                {
-                  "nome": "SLAYER BLADES SRL_26FA001134_2026-02-06.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/1eqbt1l87y6rgbhf4rl2s/SLAYER-BLADES-SRL_26FA001134_2026-02-06.xml?rlkey=y3oeslkj09bnmmrppgv08vvg9&dl=0?raw=1",
-                  "dimensione_kb": 9,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/SLAYER BLADES SRL_26FA001134_2026-02-06.xml"
-                },
-                {
-                  "nome": "SLAYER BLADES SRL_26FA001902_2026-03-02.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/kvnj5ujcrmem4mokdke0h/SLAYER-BLADES-SRL_26FA001902_2026-03-02.xml?rlkey=wc3net6aueb8mwn5dkdiucu85&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/SLAYER BLADES SRL_26FA001902_2026-03-02.xml"
-                },
-                {
-                  "nome": "SO.GE.AL. DI FRANCESCO PARENTE & C. SAS_3912_2025-10-30.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/bvr56zagxvxx31b9ergjl/SO.GE.AL.-DI-FRANCESCO-PARENTE-C.-SAS_3912_2025-10-30.xml?rlkey=cptjek2fbq8e9vw76m7554s6x&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/SO.GE.AL. DI FRANCESCO PARENTE & C. SAS_3912_2025-10-30.xml"
-                },
-                {
-                  "nome": "STUDIO ANTONELLA DOTT. COSENTINO_23100_2025-11-14.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/ki4cvlr84ol676a6usdgu/STUDIO-ANTONELLA-DOTT.-COSENTINO_23100_2025-11-14.xml?rlkey=jfd99i7l504qbd4r97dkhgagm&dl=0?raw=1",
-                  "dimensione_kb": 11,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/STUDIO ANTONELLA DOTT. COSENTINO_23100_2025-11-14.xml"
-                },
-                {
-                  "nome": "STUDIO ANTONELLA DOTT. COSENTINO_800_2026-01-15.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/i43wpafqef4qhnlk79esd/STUDIO-ANTONELLA-DOTT.-COSENTINO_800_2026-01-15.xml?rlkey=0jf6n53ot32swwh5w2xxddxc1&dl=0?raw=1",
-                  "dimensione_kb": 13,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/STUDIO ANTONELLA DOTT. COSENTINO_800_2026-01-15.xml"
-                },
-                {
-                  "nome": "Staff Ice System srl_202600048_2026-01-29.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/6l4k21paq0y2axn5mdan0/Staff-Ice-System-srl_202600048_2026-01-29.xml?rlkey=xhpt4m73hro2xd40lb1gqdlhn&dl=0?raw=1",
-                  "dimensione_kb": 124,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Staff Ice System srl_202600048_2026-01-29.xml"
-                },
-                {
-                  "nome": "TECNOINOX SRL SOCIO UNICO_1128_2026-03-03.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/9gvmwz4nnhksjpnbgwr8p/TECNOINOX-SRL-SOCIO-UNICO_1128_2026-03-03.xml?rlkey=y0oo7cueto82xa65rdfbpvy18&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/TECNOINOX SRL SOCIO UNICO_1128_2026-03-03.xml"
-                },
-                {
-                  "nome": "TECNOINOX SRL SOCIO UNICO_1766_2026-03-31.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/5o346qjridq3uchs7ucxg/TECNOINOX-SRL-SOCIO-UNICO_1766_2026-03-31.xml?rlkey=8a6omnt7kew5666lk3z16j5fn&dl=0?raw=1",
-                  "dimensione_kb": 9,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/TECNOINOX SRL SOCIO UNICO_1766_2026-03-31.xml"
-                },
-                {
-                  "nome": "TECNOINOX SRL SOCIO UNICO_24_2026-01-09.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/001m5bb3lsrs87kneqfpf/TECNOINOX-SRL-SOCIO-UNICO_24_2026-01-09.xml?rlkey=teykjd7ixzir2vqddnpmzgbvn&dl=0?raw=1",
-                  "dimensione_kb": 5,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/TECNOINOX SRL SOCIO UNICO_24_2026-01-09.xml"
-                },
-                {
-                  "nome": "TECNOINOX SRL SOCIO UNICO_461_2026-01-30.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/fjlufw4hq95nm0yfb8ooa/TECNOINOX-SRL-SOCIO-UNICO_461_2026-01-30.xml?rlkey=t0c159n815vn3rvq3vsq5e1to&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/TECNOINOX SRL SOCIO UNICO_461_2026-01-30.xml"
-                },
-                {
-                  "nome": "Tourist Service Snc dei f.lli Colapietro & C_209_2026-03-08.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/cof21yc7phb0gpzlu12fv/Tourist-Service-Snc-dei-f.lli-Colapietro-C_209_2026-03-08.xml?rlkey=ul0m66dq7nvnpyvfewj5effy9&dl=0?raw=1",
-                  "dimensione_kb": 4,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Tourist Service Snc dei f.lli Colapietro & C_209_2026-03-08.xml"
-                },
-                {
-                  "nome": "VAN BERKEL INTERNATIONAL SRL_F1 001178_2026-03-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/rh1vjif89xczcnbqjhshx/VAN-BERKEL-INTERNATIONAL-SRL_F1-001178_2026-03-23.xml?rlkey=siqjzg9q817iq5zy890xkm8n7&dl=0?raw=1",
-                  "dimensione_kb": 129,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/VAN BERKEL INTERNATIONAL SRL_F1 001178_2026-03-23.xml"
-                },
-                {
-                  "nome": "VIRGILIO S.R.L_8A_2025-10-12.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/4ce3kod7ska8gfuigjont/VIRGILIO-S.R.L_8A_2025-10-12.xml?rlkey=7zsgrqfm8udglm9odkso359lh&dl=0?raw=1",
-                  "dimensione_kb": 81,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/VIRGILIO S.R.L_8A_2025-10-12.xml"
-                },
-                {
-                  "nome": "Wuerth S.r.l_4503956128_2026-03-11.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/3622qnjc8dgblj4plb8zl/Wuerth-S.r.l_4503956128_2026-03-11.xml?rlkey=sp2p3tvys8ua44l8xsxbs12om&dl=0?raw=1",
-                  "dimensione_kb": 18,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Wuerth S.r.l_4503956128_2026-03-11.xml"
-                },
-                {
-                  "nome": "Würth S.r.l_82459_2025-10-10.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/mn6ud8tgny5ob04605694/W-rth-S.r.l_82459_2025-10-10.xml?rlkey=73xdf382gykgr8cpquvhu1ief&dl=0?raw=1",
-                  "dimensione_kb": 4,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Würth S.r.l_82459_2025-10-10.xml"
-                },
-                {
-                  "nome": "Würth S.r.l_84608_2025-10-24.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/q7rbyxp8lvj2s3azamzpb/W-rth-S.r.l_84608_2025-10-24.xml?rlkey=p6uceg4h9i18mlonfusivev2c&dl=0?raw=1",
-                  "dimensione_kb": 3,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Würth S.r.l_84608_2025-10-24.xml"
-                },
-                {
-                  "nome": "Z.MATIK SRL_136_2025-09-23.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/jgufzauwwbny5enz7edwg/Z.MATIK-SRL_136_2025-09-23.xml?rlkey=abid5v4swqcdd1z0a5s8vouxe&dl=0?raw=1",
-                  "dimensione_kb": 12,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/Z.MATIK SRL_136_2025-09-23.xml"
-                },
-                {
-                  "nome": "ZINCO GROUP Srl_2026 248_2026-03-06.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/m49pdjells5e00op1b54f/ZINCO-GROUP-Srl_2026-248_2026-03-06.xml?rlkey=v6bhnmkjrhg6c2sfsqambqcju&dl=0?raw=1",
-                  "dimensione_kb": 930,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/APERTE/ZINCO GROUP Srl_2026 248_2026-03-06.xml"
-                }
-              ],
-              "_totale_file": 83
             },
             {
               "nome": "ARCHIVIO",
@@ -177265,6 +176593,14 @@
                   "link": "https://www.dropbox.com/scl/fi/rcngikf7g0vpp1rscuf51/ACCIAIO-T.-D.-SRL_236_2026-02-20.xml?rlkey=l3l3263k4cyh21ibnqrwl0nt5&dl=0?raw=1",
                   "dimensione_kb": 7,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ACCIAIO T. & D. SRL_236_2026-02-20.xml"
+                },
+                {
+                  "nome": "ACCIAIO T. & D. SRL_627_2026-04-17.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/cnn45pjq8ldnjgbtydke8/ACCIAIO-T.-D.-SRL_627_2026-04-17.xml?rlkey=5pa3w30ma4x9mmvsujw5djviq&dl=0?raw=1",
+                  "dimensione_kb": 14,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ACCIAIO T. & D. SRL_627_2026-04-17.xml"
                 },
                 {
                   "nome": "AIRFAN s.r.l_2033_2025-09-30.xml",
@@ -177339,6 +176675,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ALD Automotive Italia S.r.l_INR1519114_2025-12-01.xml"
                 },
                 {
+                  "nome": "ARTINOX  S.P.A._1071_2026-04-21.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/fz2dhvna6dvt1o5vadk80/ARTINOX-S.P.A._1071_2026-04-21.xml?rlkey=nd6aiz7iiu5duytxmd4l54fg9&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ARTINOX  S.P.A._1071_2026-04-21.xml"
+                },
+                {
                   "nome": "ARVAL SERVICE LEASE ITALIA SPA_FC0012707593_2025-10-13.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -177385,6 +176729,14 @@
                   "link": "https://www.dropbox.com/scl/fi/nq8eoqymquj7euma8kg8a/ARVAL-SERVICE-LEASE-ITALIA-SPA_FC0013549414_2026-03-11.xml?rlkey=f8kepw86q8hzq6jb6d1sv2ni5&dl=0?raw=1",
                   "dimensione_kb": 5,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ARVAL SERVICE LEASE ITALIA SPA_FC0013549414_2026-03-11.xml"
+                },
+                {
+                  "nome": "ARVAL SERVICE LEASE ITALIA SPA_FC0013712922_2026-04-13.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/h1fwwoc9hsiyrcfhowb1i/ARVAL-SERVICE-LEASE-ITALIA-SPA_FC0013712922_2026-04-13.xml?rlkey=xrw8eyd131gb5qwcw37c6pek6&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ARVAL SERVICE LEASE ITALIA SPA_FC0013712922_2026-04-13.xml"
                 },
                 {
                   "nome": "ARVAL SERVICE LEASE ITALIA SPA_FT0012780402_2025-10-13.xml",
@@ -177475,6 +176827,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Apple Retail Italia S.r.l_562A2025000009642_2025-12-14.xml"
                 },
                 {
+                  "nome": "BELLADONNA SRL_512_2026-03-30.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/c9kwe2sfwmadmx2erpqeh/BELLADONNA-SRL_512_2026-03-30.xml?rlkey=uvcvyi73chpbah3kwf0xatnvy&dl=0?raw=1",
+                  "dimensione_kb": 6,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/BELLADONNA SRL_512_2026-03-30.xml"
+                },
+                {
                   "nome": "BERTO'S SPA_17613_2025-11-20.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -177489,6 +176849,14 @@
                   "link": "https://www.dropbox.com/scl/fi/yz973kfa98pokzr4rvu3n/BIZZOCA-ARREDI-COMMERCIALI-S.R.L_84825_2025-11-17.xml?rlkey=w3hrjjveluhmm95eaj6hgs3f4&dl=0?raw=1",
                   "dimensione_kb": 8,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/BIZZOCA ARREDI COMMERCIALI S.R.L_84825_2025-11-17.xml"
+                },
+                {
+                  "nome": "BPER Banca S.p.A._05387-4160492220-76_2026-04-02.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/mol5lh6l3leelcemlj47b/BPER-Banca-S.p.A._05387-4160492220-76_2026-04-02.xml?rlkey=aybznqcaeqtntq79pn2uwzge7&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/BPER Banca S.p.A._05387-4160492220-76_2026-04-02.xml"
                 },
                 {
                   "nome": "BPER Banca S.p.A_05387-4160020493-76_2026-01-05.xml",
@@ -177795,6 +177163,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Cimbali Group S.p.A._0010006114_2026-03-31.xml"
                 },
                 {
+                  "nome": "Cosmopol Vigilanza s.r.l._S2273_2026-04-07.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/na09pk0zbn6pvgaglptnr/Cosmopol-Vigilanza-s.r.l._S2273_2026-04-07.xml?rlkey=5v8ldtuyelq3i1glfarkbzd48&dl=0?raw=1",
+                  "dimensione_kb": 27,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Cosmopol Vigilanza s.r.l._S2273_2026-04-07.xml"
+                },
+                {
                   "nome": "Cosmopol Vigilanza s.r.l_S1498_2026-03-05.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -177841,6 +177217,22 @@
                   "link": "https://www.dropbox.com/scl/fi/hlcqkb5bnvzh0lya6otcx/Cosmopol-Vigilanza-s.r.l_S7829_2025-12-04.xml?rlkey=bubk65xcgx22idp4h06l5692w&dl=0?raw=1",
                   "dimensione_kb": 27,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Cosmopol Vigilanza s.r.l_S7829_2025-12-04.xml"
+                },
+                {
+                  "nome": "DE LUCA SRL_004105_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/rw92ajrq0ojbhoz2o5qix/DE-LUCA-SRL_004105_2026-04-10.xml?rlkey=x5ymaesmn9wgdn4ozwr9bw97m&dl=0?raw=1",
+                  "dimensione_kb": 14,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/DE LUCA SRL_004105_2026-04-10.xml"
+                },
+                {
+                  "nome": "DE LUCA SRL_004106_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/mqq1wnjbba0e1nrhoib3l/DE-LUCA-SRL_004106_2026-04-10.xml?rlkey=yaw1skcyyu6k255v3l31q67je&dl=0?raw=1",
+                  "dimensione_kb": 35,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/DE LUCA SRL_004106_2026-04-10.xml"
                 },
                 {
                   "nome": "DE LUCA SRL_011711_2025-09-30.xml",
@@ -177931,6 +177323,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Ecosan SRL_00000000000047602_2025-12-23.xml"
                 },
                 {
+                  "nome": "Enel Energia S.p.A._005430223660_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/mtluhczxmogz0xfkeu6j7/Enel-Energia-S.p.A._005430223660_2026-04-10.xml?rlkey=ydkmm85ynpedbb0q1xeaiuhzy&dl=0?raw=1",
+                  "dimensione_kb": 32,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Enel Energia S.p.A._005430223660_2026-04-10.xml"
+                },
+                {
                   "nome": "Enel Energia S.p.A_005279982086_2025-10-09.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -177977,6 +177377,14 @@
                   "link": "https://www.dropbox.com/scl/fi/yk11xhcy9y77m8eh1bs08/Enel-Energia-S.p.A_005424517352_2026-03-11.xml?rlkey=4vyhi0cnbsbneiokns1ff4xf4&dl=0?raw=1",
                   "dimensione_kb": 22,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Enel Energia S.p.A_005424517352_2026-03-11.xml"
+                },
+                {
+                  "nome": "EniMoov S.p.A._2026-FE18740-1602_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/cgn9nwzppd0ubaw70sy56/EniMoov-S.p.A._2026-FE18740-1602_2026-04-10.xml?rlkey=5aspg83qjaf8e9uf26znoxtoc&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/EniMoov S.p.A._2026-FE18740-1602_2026-04-10.xml"
                 },
                 {
                   "nome": "F.A.C. SRL_139400_2025-10-13.xml",
@@ -178315,6 +177723,30 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Grenke Italia S.p.A_00001376342026_2026-03-24.xml"
                 },
                 {
+                  "nome": "Grenke Italia S.p.A_00003122032026_2026-04-24.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/sur5rj7cze07unnabokhe/Grenke-Italia-S.p.A_00003122032026_2026-04-24.xml?rlkey=19hncavnquo5j6j0gjup7xdq3&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Grenke Italia S.p.A_00003122032026_2026-04-24.xml"
+                },
+                {
+                  "nome": "Grenke Italia S.p.A_00003122152026_2026-04-24.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/12e3eyblgjqiqz5whw0be/Grenke-Italia-S.p.A_00003122152026_2026-04-24.xml?rlkey=va2hehsd66p6qbjr2uirzjmjm&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Grenke Italia S.p.A_00003122152026_2026-04-24.xml"
+                },
+                {
+                  "nome": "Grenke Italia S.p.A_00003260212026_2026-04-24.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/ds6a9zgrhsrx2uysyxopq/Grenke-Italia-S.p.A_00003260212026_2026-04-24.xml?rlkey=qsqmivqmyg9vbqk7bjww0udd0&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Grenke Italia S.p.A_00003260212026_2026-04-24.xml"
+                },
+                {
                   "nome": "Grenke Italia S.p.A_00008378712025_2025-10-24.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -178539,6 +177971,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Intesa Sanpaolo S.p.a_01S620262800126089_2026-01-16.xml"
                 },
                 {
+                  "nome": "Intesa Sanpaolo S.p.a_01S620262800266366_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/hpderi4d1ea0j9foee3yz/Intesa-Sanpaolo-S.p.a_01S620262800266366_2026-04-15.xml?rlkey=j8qpd004bz5h3m82bmg9j80v9&dl=0?raw=1",
+                  "dimensione_kb": 6,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Intesa Sanpaolo S.p.a_01S620262800266366_2026-04-15.xml"
+                },
+                {
                   "nome": "KAREL SRL_1006477_2025-11-28.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -178555,6 +177995,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/KAREL SRL_1006845_2025-12-19.xml"
                 },
                 {
+                  "nome": "LA MITO S.R.L. DISTRIBUZIONE_27682026_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/cv5gdxfvxxpa1dbmsrmof/LA-MITO-S.R.L.-DISTRIBUZIONE_27682026_2026-04-10.xml?rlkey=6pnb5wwmlw7r03ejik0snt3vy&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/LA MITO S.R.L. DISTRIBUZIONE_27682026_2026-04-10.xml"
+                },
+                {
                   "nome": "LA MITO S.R.L. DISTRIBUZIONE_89092025_2025-11-13.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -178569,6 +178017,14 @@
                   "link": "https://www.dropbox.com/scl/fi/hqlntj9sl4axg9ubb9eus/LA-MITO-S.R.L.-DISTRIBUZIONE_89232025_2025-11-13.xml?rlkey=awuoya202fa0nupea9o8sgzr7&dl=0?raw=1",
                   "dimensione_kb": 7,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/LA MITO S.R.L. DISTRIBUZIONE_89232025_2025-11-13.xml"
+                },
+                {
+                  "nome": "LOTUS S.p.A._1602I_2026-04-13.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/dsa7bjovkqpae8u7g7scx/LOTUS-S.p.A._1602I_2026-04-13.xml?rlkey=feymp1dpa829winlg9rws6f7s&dl=0?raw=1",
+                  "dimensione_kb": 407,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/LOTUS S.p.A._1602I_2026-04-13.xml"
                 },
                 {
                   "nome": "MACTE S.R.L.S_FPR 107625_2025-12-18.xml",
@@ -178609,6 +178065,14 @@
                   "link": "https://www.dropbox.com/scl/fi/8ozsxqf1hjyer17k6zjnu/MECNOSUD-SRL_8921_2026-03-23.xml?rlkey=1u8rjy90667f6gsugxmwz1sgc&dl=0?raw=1",
                   "dimensione_kb": 8,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/MECNOSUD SRL_8921_2026-03-23.xml"
+                },
+                {
+                  "nome": "MG AUTO di MAMMI' GAETANO_FPR-O 1526_2026-04-21.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/84latroyongh82bas9bom/MG-AUTO-di-MAMMI-GAETANO_FPR-O-1526_2026-04-21.xml?rlkey=80qjls5f5xgux02m0opy66feo&dl=0?raw=1",
+                  "dimensione_kb": 8,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/MG AUTO di MAMMI' GAETANO_FPR-O 1526_2026-04-21.xml"
                 },
                 {
                   "nome": "MG AUTO di MAMMI' GAETANO_FPR-O 6925_2025-12-05.xml",
@@ -178739,6 +178203,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/MORINI S.R.L. - Soc.Unipersonale_26F104413_2026-03-25.xml"
                 },
                 {
+                  "nome": "MORINI S.R.L. - Soc.Unipersonale_26F106111_2026-04-16.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/yyx97e8gnswsk0obkfh0r/MORINI-S.R.L.-Soc.Unipersonale_26F106111_2026-04-16.xml?rlkey=wtej2hlhp6oo828wcbk888i9w&dl=0?raw=1",
+                  "dimensione_kb": 11,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/MORINI S.R.L. - Soc.Unipersonale_26F106111_2026-04-16.xml"
+                },
+                {
                   "nome": "MURGIA RESORT SRL_596H2025_2025-12-18.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -178785,6 +178257,14 @@
                   "link": "https://www.dropbox.com/scl/fi/rcr85oiuic6ub9wsb7zjl/Modular-Professional-SRL_001962_2025-11-28.xml?rlkey=nvp2023up7m38bv3a3hb3jem0&dl=0?raw=1",
                   "dimensione_kb": 177,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Modular Professional SRL_001962_2025-11-28.xml"
+                },
+                {
+                  "nome": "NEXI PAYMENTS S.p.A._2739779_2026-04-09.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/2y5qg3fd2dhukcl1aer2c/NEXI-PAYMENTS-S.p.A._2739779_2026-04-09.xml?rlkey=kytea6ihnhyk4xb6800l6117n&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/NEXI PAYMENTS S.p.A._2739779_2026-04-09.xml"
                 },
                 {
                   "nome": "NEXI PAYMENTS S.p.A_2322382_2026-01-29.xml",
@@ -178851,6 +178331,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/PAPALEO RAG GIACOMO SRL_202503710_2025-12-30.xml"
                 },
                 {
+                  "nome": "PERRETTA SERVICE DI PERRETTA IMMACOLATO EGIDIO_28_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/if76oycwif5fhde1nqez6/PERRETTA-SERVICE-DI-PERRETTA-IMMACOLATO-EGIDIO_28_2026-04-15.xml?rlkey=kpmes3xn6z8zxt1190hyik6yb&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/PERRETTA SERVICE DI PERRETTA IMMACOLATO EGIDIO_28_2026-04-15.xml"
+                },
+                {
                   "nome": "PESCE NICOLA_17872025_2025-10-04.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -178873,6 +178361,14 @@
                   "link": "https://www.dropbox.com/scl/fi/n55sto2h4ay6igsh252ea/PESCE-NICOLA_20822025_2025-11-22.xml?rlkey=72pbg1ppjd8ch4dl7h1t9rsvq&dl=0?raw=1",
                   "dimensione_kb": 4,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/PESCE NICOLA_20822025_2025-11-22.xml"
+                },
+                {
+                  "nome": "PIAZZA EFFEPI S.R.L._2026-FC1-0000862_2026-04-08.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/aegk0t3tl5i7tmbc0ily8/PIAZZA-EFFEPI-S.R.L._2026-FC1-0000862_2026-04-08.xml?rlkey=ch4qgeicf0j9qrhjzkphhz48t&dl=0?raw=1",
+                  "dimensione_kb": 6,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/PIAZZA EFFEPI S.R.L._2026-FC1-0000862_2026-04-08.xml"
                 },
                 {
                   "nome": "PIZETA SRL_4288_2025-12-17.xml",
@@ -179131,6 +178627,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/SEOZOOM S.R.L_1543ZOOM_2026-02-02.xml"
                 },
                 {
+                  "nome": "SIRMAN SPA A SOCIO UNICO_0010006384_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/2b4tdb5lmisjyb1byro3c/SIRMAN-SPA-A-SOCIO-UNICO_0010006384_2026-04-15.xml?rlkey=8e3x45w9rx3ggnda31g1fg8bh&dl=0?raw=1",
+                  "dimensione_kb": 104,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/SIRMAN SPA A SOCIO UNICO_0010006384_2026-04-15.xml"
+                },
+                {
+                  "nome": "SIRMAN SPA A SOCIO UNICO_0010006514_2026-04-16.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/3ozqbg5l8kf8uho6yewbm/SIRMAN-SPA-A-SOCIO-UNICO_0010006514_2026-04-16.xml?rlkey=co1grwth7rlw5g0rjbvit97fe&dl=0?raw=1",
+                  "dimensione_kb": 101,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/SIRMAN SPA A SOCIO UNICO_0010006514_2026-04-16.xml"
+                },
+                {
                   "nome": "SIRMAN SPA A SOCIO UNICO_0010019321_2025-10-29.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -179331,6 +178843,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/TECNOINOX SRL SOCIO UNICO_461_2026-01-30.xml"
                 },
                 {
+                  "nome": "TERMOIMPIANTI LIMONGI SRL_2596_2026-03-26.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/3pudchd9c2brjai5kxb9h/TERMOIMPIANTI-LIMONGI-SRL_2596_2026-03-26.xml?rlkey=abuqqtdlf6fj1pnf4875fsaic&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/TERMOIMPIANTI LIMONGI SRL_2596_2026-03-26.xml"
+                },
+                {
                   "nome": "TOP SERVICE DI TRIESTINO PANETTA_3A_2026-02-05.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -179345,6 +178865,30 @@
                   "link": "https://www.dropbox.com/scl/fi/ij57xlp0cgav4ezy2967u/TRASPORTI-AMETRANO-SRL_378-0_2026-03-06.xml?rlkey=qg0vyla90w9ipcyjwx6wkpu38&dl=0?raw=1",
                   "dimensione_kb": 364,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/TRASPORTI AMETRANO SRL_378-0_2026-03-06.xml"
+                },
+                {
+                  "nome": "TRASPORTI AMETRANO SRL_619-0_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/zqfukci18owsj6viedbzz/TRASPORTI-AMETRANO-SRL_619-0_2026-03-31.xml?rlkey=lgl7n6x5qnxux0m6byzgr8wyr&dl=0?raw=1",
+                  "dimensione_kb": 364,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/TRASPORTI AMETRANO SRL_619-0_2026-03-31.xml"
+                },
+                {
+                  "nome": "TRASPORTI AMETRANO SRL_635-0_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/iikn59xrbpfvb504z78ik/TRASPORTI-AMETRANO-SRL_635-0_2026-04-15.xml?rlkey=kbqv74t28waboslk05oiw3v5a&dl=0?raw=1",
+                  "dimensione_kb": 365,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/TRASPORTI AMETRANO SRL_635-0_2026-04-15.xml"
+                },
+                {
+                  "nome": "TRASPORTI AMETRANO SRL_657-0_2026-04-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/y12yns47plpm229cf1vgx/TRASPORTI-AMETRANO-SRL_657-0_2026-04-23.xml?rlkey=lesw4eoipeku8lqriylbkvhdx&dl=0?raw=1",
+                  "dimensione_kb": 266,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/TRASPORTI AMETRANO SRL_657-0_2026-04-23.xml"
                 },
                 {
                   "nome": "Tourist Service Snc dei f.lli Colapietro & C_209_2026-03-08.xml",
@@ -179385,6 +178929,14 @@
                   "link": "https://www.dropbox.com/scl/fi/lzf4r1eyukbdlc8n86pn3/VAR-GROUP-SPA_252A034349_2025-12-31.xml?rlkey=87woiwjdf13ki2ll643dbtjm3&dl=0?raw=1",
                   "dimensione_kb": 119,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/VAR GROUP SPA_252A034349_2025-12-31.xml"
+                },
+                {
+                  "nome": "VAR GROUP SPA_262A008376_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/lle4rkmy134s1v1ekjaz3/VAR-GROUP-SPA_262A008376_2026-03-31.xml?rlkey=a7lvsqayx65pzhdb2728xft7w&dl=0?raw=1",
+                  "dimensione_kb": 119,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/VAR GROUP SPA_262A008376_2026-03-31.xml"
                 },
                 {
                   "nome": "VAR ONE srl_2026001771_2026-03-03.xml",
@@ -180147,6 +179699,46 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Wind Tre S.p.A._TS2600158548_2026-03-15.xml"
                 },
                 {
+                  "nome": "Wind Tre S.p.A._TS2600198983_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/k1cqjxe61bgbylqx7xcfm/Wind-Tre-S.p.A._TS2600198983_2026-04-15.xml?rlkey=jmgumss9gkv2hjkjjoxj1gtwj&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Wind Tre S.p.A._TS2600198983_2026-04-15.xml"
+                },
+                {
+                  "nome": "Wind Tre S.p.A._TS2600199327_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/y7pzw9bguz45w059yv3td/Wind-Tre-S.p.A._TS2600199327_2026-04-15.xml?rlkey=pcm7jvqagk05xnitfmy41buiw&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Wind Tre S.p.A._TS2600199327_2026-04-15.xml"
+                },
+                {
+                  "nome": "Wind Tre S.p.A._TS2600202915_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/pfyzco8eu9uqrihweqbvy/Wind-Tre-S.p.A._TS2600202915_2026-04-15.xml?rlkey=lrjz2s9emtz3vn4ktb2nwpw6u&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Wind Tre S.p.A._TS2600202915_2026-04-15.xml"
+                },
+                {
+                  "nome": "Wind Tre S.p.A._TS2600213678_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/qgnmmxcajstwndg84xd37/Wind-Tre-S.p.A._TS2600213678_2026-04-15.xml?rlkey=j0fs5p4bx0gr5cfvs3mihk9uz&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Wind Tre S.p.A._TS2600213678_2026-04-15.xml"
+                },
+                {
+                  "nome": "Wind Tre S.p.A._TS2600216756_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/y5qcyffd9ygps2j5mfiem/Wind-Tre-S.p.A._TS2600216756_2026-04-15.xml?rlkey=jgvce5mkifrgizmaoz81p1h3i&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/Wind Tre S.p.A._TS2600216756_2026-04-15.xml"
+                },
+                {
                   "nome": "Wind Tre S.p.A_F2529744206_2025-10-22.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -180483,6 +180075,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ZINCO GROUP Srl_2025 1658A_2025-11-17.xml"
                 },
                 {
+                  "nome": "ZINCO GROUP Srl_2026   511A_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/yjzt00fwqhpuvfh7hmsrj/ZINCO-GROUP-Srl_2026-511A_2026-04-10.xml?rlkey=ewdatf185u8jjnpueulkdevd1&dl=0?raw=1",
+                  "dimensione_kb": 895,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ZINCO GROUP Srl_2026   511A_2026-04-10.xml"
+                },
+                {
                   "nome": "ZINCO GROUP Srl_2026 248_2026-03-06.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -180491,15 +180091,815 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/ZINCO GROUP Srl_2026 248_2026-03-06.xml"
                 },
                 {
+                  "nome": "fatture-xml (1).zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/uq0ef5rj15my4p2ri42ky/fatture-xml-1.zip?rlkey=adcr4k91to8samrrvj2w7ccix&dl=0?raw=1",
+                  "dimensione_kb": 1525,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/fatture-xml (1).zip"
+                },
+                {
                   "nome": "fatture-xml 31_03_2026 03_04_2026.zip",
                   "tipo": "Archivio",
                   "icona": "🗜️",
                   "link": "https://www.dropbox.com/scl/fi/8a2xgrmgaqgt8ca5nkg4l/fatture-xml-31_03_2026-03_04_2026.zip?rlkey=f1p27qbenhuz4av78jppf72h5&dl=0?raw=1",
                   "dimensione_kb": 1430,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/fatture-xml 31_03_2026 03_04_2026.zip"
+                },
+                {
+                  "nome": "fatture-xml.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/8vjd5148cpb4mn8ty1ny9/fatture-xml.zip?rlkey=pk4aiw6fd7exci5ddlxh8jo15&dl=0?raw=1",
+                  "dimensione_kb": 1484,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ARCHIVIO/fatture-xml.zip"
                 }
               ],
-              "_totale_file": 410
+              "_totale_file": 446
+            },
+            {
+              "nome": "DA REGISTRARE IN SAP",
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ARTINOX  S.P.A._1071_2026-04-21.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/1ig79yiqlfw3q82vqwj8s/ARTINOX-S.P.A._1071_2026-04-21.xml?rlkey=8ttjzuw6n9i3h2yuc9phl466p&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/ARTINOX  S.P.A._1071_2026-04-21.xml"
+                },
+                {
+                  "nome": "Amazon EU S.a r.l., Succursale Italiana_IT26-AEUI-4514472_2026-03-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/uzgsa6xbxpzaut5wit9ik/Amazon-EU-S.a-r.l.-Succursale-Italiana_IT26-AEUI-4514472_2026-03-23.xml?rlkey=d6sdb8b8y4rzbrbj9h9hji5nn&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Amazon EU S.a r.l., Succursale Italiana_IT26-AEUI-4514472_2026-03-23.xml"
+                },
+                {
+                  "nome": "Amazon EU S.a r.l., Succursale Italiana_IT26-AEUI-910677_2026-01-19.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/0u89yli8u7ycyxl7edk72/Amazon-EU-S.a-r.l.-Succursale-Italiana_IT26-AEUI-910677_2026-01-19.xml?rlkey=tfftlf5m1v33t79er40z3moxp&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Amazon EU S.a r.l., Succursale Italiana_IT26-AEUI-910677_2026-01-19.xml"
+                },
+                {
+                  "nome": "Apple Retail Italia S.r.l_562A2025000009642_2025-12-14.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/0x8pxztxg3mq3w4y5tq4b/Apple-Retail-Italia-S.r.l_562A2025000009642_2025-12-14.xml?rlkey=kmmpsj3e9bkaw3o94pnpnzp84&dl=0?raw=1",
+                  "dimensione_kb": 6,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Apple Retail Italia S.r.l_562A2025000009642_2025-12-14.xml"
+                },
+                {
+                  "nome": "BELLADONNA SRL_512_2026-03-30.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/biv7dbyzkm6qq3isgpl0x/BELLADONNA-SRL_512_2026-03-30.xml?rlkey=l22w889pjgchiv3ropu4kpzo3&dl=0?raw=1",
+                  "dimensione_kb": 6,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/BELLADONNA SRL_512_2026-03-30.xml"
+                },
+                {
+                  "nome": "C B srl_1048_26_1_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/5bquzp6fmi3u6d7twwqr8/C-B-srl_1048_26_1_2026-03-31.xml?rlkey=d39sj6w37qajfacw0nfzp2ys1&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/C B srl_1048_26_1_2026-03-31.xml"
+                },
+                {
+                  "nome": "C B srl_814_26_101_2026-03-30.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/xxzbepwcs5y6eqqyrq587/C-B-srl_814_26_101_2026-03-30.xml?rlkey=1zo49gxo408kchgs0f6l62udp&dl=0?raw=1",
+                  "dimensione_kb": 9,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/C B srl_814_26_101_2026-03-30.xml"
+                },
+                {
+                  "nome": "COLD LINE S.r.L_000639E_2026-02-17.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/sdkfz5y9w6sp4k3rr1ht0/COLD-LINE-S.r.L_000639E_2026-02-17.xml?rlkey=0yme322g79fyt4jhagjprai19&dl=0?raw=1",
+                  "dimensione_kb": 15,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COLD LINE S.r.L_000639E_2026-02-17.xml"
+                },
+                {
+                  "nome": "COLD LINE S.r.L_000932E_2026-02-28.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/s8e7x0unq5zjibdnluz90/COLD-LINE-S.r.L_000932E_2026-02-28.xml?rlkey=tp0qihpp8pyyji1h65l6b8zsc&dl=0?raw=1",
+                  "dimensione_kb": 11,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COLD LINE S.r.L_000932E_2026-02-28.xml"
+                },
+                {
+                  "nome": "COLD LINE S.r.L_001275E_2026-03-17.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/d0l050t1yzosz2c0rdv2u/COLD-LINE-S.r.L_001275E_2026-03-17.xml?rlkey=7t9h1acit0zp917uula7mdjpb&dl=0?raw=1",
+                  "dimensione_kb": 14,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COLD LINE S.r.L_001275E_2026-03-17.xml"
+                },
+                {
+                  "nome": "COLD LINE S.r.L_001276E_2026-03-17.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/ijxonnm0fggfbsb8v2xj9/COLD-LINE-S.r.L_001276E_2026-03-17.xml?rlkey=dshmvf953i4v2kk9o35x8ma70&dl=0?raw=1",
+                  "dimensione_kb": 9,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COLD LINE S.r.L_001276E_2026-03-17.xml"
+                },
+                {
+                  "nome": "COLD LINE S.r.L_006292E_2025-11-26.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/eg6q3rpd9h10fuont2gwb/COLD-LINE-S.r.L_006292E_2025-11-26.xml?rlkey=s3xc8g09cqay6eysr8vpf2i27&dl=0?raw=1",
+                  "dimensione_kb": 15,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COLD LINE S.r.L_006292E_2025-11-26.xml"
+                },
+                {
+                  "nome": "COLD LINE S.r.L_006753E_2025-12-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/deuoenur93hjuqdzcvijj/COLD-LINE-S.r.L_006753E_2025-12-10.xml?rlkey=ec8my67j1bk3qv6uv1tzdd0pk&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COLD LINE S.r.L_006753E_2025-12-10.xml"
+                },
+                {
+                  "nome": "COLD LINE S.r.L_006771E_2025-12-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/ubgybykmzm9bcrdwey88a/COLD-LINE-S.r.L_006771E_2025-12-10.xml?rlkey=ed8ph4ixfhlkx2lye35lgemv8&dl=0?raw=1",
+                  "dimensione_kb": 9,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COLD LINE S.r.L_006771E_2025-12-10.xml"
+                },
+                {
+                  "nome": "COLD LINE S.r.L_006819E_2025-12-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/y1zatr5su2m5krlmvmarb/COLD-LINE-S.r.L_006819E_2025-12-15.xml?rlkey=qh2rqftjcxz36z1x0i0igmzf0&dl=0?raw=1",
+                  "dimensione_kb": 9,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COLD LINE S.r.L_006819E_2025-12-15.xml"
+                },
+                {
+                  "nome": "COLD LINE S.r.L_006820E_2025-12-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/6xoemfoyazngrc9x0w715/COLD-LINE-S.r.L_006820E_2025-12-15.xml?rlkey=i9u2tqwgs4460d4davchuobr4&dl=0?raw=1",
+                  "dimensione_kb": 8,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COLD LINE S.r.L_006820E_2025-12-15.xml"
+                },
+                {
+                  "nome": "COMENDA ALI GROUP SRL_2026-VIC-0260505_2026-02-11.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/c68dd8metyd4oe36znicu/COMENDA-ALI-GROUP-SRL_2026-VIC-0260505_2026-02-11.xml?rlkey=92yoz97483c2uv91k0je3tuw1&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COMENDA ALI GROUP SRL_2026-VIC-0260505_2026-02-11.xml"
+                },
+                {
+                  "nome": "COMPASS BANCA SPA_C1AV20024009_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/e6h80v5abyw375olkhums/COMPASS-BANCA-SPA_C1AV20024009_2026-03-31.xml?rlkey=3pjsv8shnuru9pbnxzlaj2lnm&dl=0?raw=1",
+                  "dimensione_kb": 157,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COMPASS BANCA SPA_C1AV20024009_2026-03-31.xml"
+                },
+                {
+                  "nome": "COSMOPOL FATS202601498.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fpv88wmoavbtjhs6by1hq/COSMOPOL-FATS202601498.pdf?rlkey=w8ivmus2j881hlbogd4i7mh6y&dl=0?raw=1",
+                  "dimensione_kb": 17,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/COSMOPOL FATS202601498.pdf"
+                },
+                {
+                  "nome": "CUPPONE S.R.L_03054V_2025-10-24.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/a06ngz2eqy6p4d9876dre/CUPPONE-S.R.L_03054V_2025-10-24.xml?rlkey=we2bil1lx0factgpee02n9qe4&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/CUPPONE S.R.L_03054V_2025-10-24.xml"
+                },
+                {
+                  "nome": "Cimbali Group S.p.A._0010006114_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/vkem47crfe7f9maag03ty/Cimbali-Group-S.p.A._0010006114_2026-03-31.xml?rlkey=sw6ktljx1lpqo3vukb9jbiy5m&dl=0?raw=1",
+                  "dimensione_kb": 212,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Cimbali Group S.p.A._0010006114_2026-03-31.xml"
+                },
+                {
+                  "nome": "DE LUCA SRL_004105_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/dsg42cyt8x20fefilw8tr/DE-LUCA-SRL_004105_2026-04-10.xml?rlkey=93xe13wgtd68pdhcmbxy2b3dn&dl=0?raw=1",
+                  "dimensione_kb": 14,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/DE LUCA SRL_004105_2026-04-10.xml"
+                },
+                {
+                  "nome": "DE LUCA SRL_004106_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/jfy4wjtnst9fg536vtkfo/DE-LUCA-SRL_004106_2026-04-10.xml?rlkey=yncwguw3ylfls35xs1ekmkbd9&dl=0?raw=1",
+                  "dimensione_kb": 35,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/DE LUCA SRL_004106_2026-04-10.xml"
+                },
+                {
+                  "nome": "DIENI GIUSEPPE_6302025_2025-11-28.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/r4wkef5ekrtc6owhh49jy/DIENI-GIUSEPPE_6302025_2025-11-28.xml?rlkey=5g0vs5r1wv6m2ilxyvrxrmhqd&dl=0?raw=1",
+                  "dimensione_kb": 36,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/DIENI GIUSEPPE_6302025_2025-11-28.xml"
+                },
+                {
+                  "nome": "ELETTRO 2D s.r.l_16082025_2025-11-19.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/nqm2ylf4wtwz2wai43t9y/ELETTRO-2D-s.r.l_16082025_2025-11-19.xml?rlkey=fnv3xgmk9llm0vyg11astgq2r&dl=0?raw=1",
+                  "dimensione_kb": 76,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/ELETTRO 2D s.r.l_16082025_2025-11-19.xml"
+                },
+                {
+                  "nome": "EURODOMUS SRL_548_2026-02-21.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/tn8t9qjvd5ag4hlg7cxxc/EURODOMUS-SRL_548_2026-02-21.xml?rlkey=d8wdu16fky19sa5a1v0k9t06w&dl=0?raw=1",
+                  "dimensione_kb": 20,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/EURODOMUS SRL_548_2026-02-21.xml"
+                },
+                {
+                  "nome": "Ecosan SRL_000000000000103_02_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/0wf8fs2d6pvr0gvfo67p3/Ecosan-SRL_000000000000103_02_2026-03-31.xml?rlkey=rsoguwpk2v6x11zckh06l8d4m&dl=0?raw=1",
+                  "dimensione_kb": 10,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Ecosan SRL_000000000000103_02_2026-03-31.xml"
+                },
+                {
+                  "nome": "Ecosan SRL_00000000000036802_2025-10-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/iux5zdmccalzz5jce9sbs/Ecosan-SRL_00000000000036802_2025-10-31.xml?rlkey=q0tejxvm2fpq4vo1yobybxcwz&dl=0?raw=1",
+                  "dimensione_kb": 8,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Ecosan SRL_00000000000036802_2025-10-31.xml"
+                },
+                {
+                  "nome": "Ecosan SRL_00000000000047602_2025-12-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/llajtng89w0h7mn9sc7di/Ecosan-SRL_00000000000047602_2025-12-23.xml?rlkey=3tgsw11y10q82buy39lbws4g6&dl=0?raw=1",
+                  "dimensione_kb": 16,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Ecosan SRL_00000000000047602_2025-12-23.xml"
+                },
+                {
+                  "nome": "EniMoov S.p.A._2026-FE18740-1602_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/mcrz18j71zv9hyq4s95qi/EniMoov-S.p.A._2026-FE18740-1602_2026-04-10.xml?rlkey=041duwxaj2tst65q5rj2knz7e&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/EniMoov S.p.A._2026-FE18740-1602_2026-04-10.xml"
+                },
+                {
+                  "nome": "FA.M.A.G. SRL_15226_2026-02-04.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/qzr3kejv2ggdhfd3qhu5g/FA.M.A.G.-SRL_15226_2026-02-04.xml?rlkey=b6es783lkfosljbty2cub3j8l&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/FA.M.A.G. SRL_15226_2026-02-04.xml"
+                },
+                {
+                  "nome": "FIMAR s.p.a._4736_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/dbfqaa48t7tz2r83bmuc7/FIMAR-s.p.a._4736_2026-03-31.xml?rlkey=lgjjho0pnld0ubp2acqg1mi1y&dl=0?raw=1",
+                  "dimensione_kb": 134,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/FIMAR s.p.a._4736_2026-03-31.xml"
+                },
+                {
+                  "nome": "FIMAR s.p.a_1766_2026-02-11.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/t6at7mapoww45r4i98d6l/FIMAR-s.p.a_1766_2026-02-11.xml?rlkey=3h1pw10vt6nuyjl9f3z5t5fqc&dl=0?raw=1",
+                  "dimensione_kb": 124,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/FIMAR s.p.a_1766_2026-02-11.xml"
+                },
+                {
+                  "nome": "FIMAR s.p.a_2393_2026-02-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/7e1a8qvu0qrx701wxomy3/FIMAR-s.p.a_2393_2026-02-23.xml?rlkey=hwsex1mknwwe21jdoq1wx5fsy&dl=0?raw=1",
+                  "dimensione_kb": 124,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/FIMAR s.p.a_2393_2026-02-23.xml"
+                },
+                {
+                  "nome": "FIMAR s.p.a_2935_2026-02-27.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/fs4lz2pzjed0fggctw03a/FIMAR-s.p.a_2935_2026-02-27.xml?rlkey=hd0weczhzwa5wseuo9uqv1bpp&dl=0?raw=1",
+                  "dimensione_kb": 125,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/FIMAR s.p.a_2935_2026-02-27.xml"
+                },
+                {
+                  "nome": "FIMAR s.p.a_3461_2026-03-11.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/2vbzcgq2kmofbg8ldq1t6/FIMAR-s.p.a_3461_2026-03-11.xml?rlkey=s7xvzqauxqaj15i025zfxafbu&dl=0?raw=1",
+                  "dimensione_kb": 124,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/FIMAR s.p.a_3461_2026-03-11.xml"
+                },
+                {
+                  "nome": "FIMAR s.p.a_4064_2026-03-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/9b5tgkyenou6n90nut92m/FIMAR-s.p.a_4064_2026-03-23.xml?rlkey=nc3640k0bhwag356w02kdd6ra&dl=0?raw=1",
+                  "dimensione_kb": 122,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/FIMAR s.p.a_4064_2026-03-23.xml"
+                },
+                {
+                  "nome": "Fimel Soc.Coop. S.n.c._136_2026_2026-03-25.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/wht0ftg5dx1wz3rw04n9t/Fimel-Soc.Coop.-S.n.c._136_2026_2026-03-25.xml?rlkey=9w222zn5mhteuuc2kas2h7cxi&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Fimel Soc.Coop. S.n.c._136_2026_2026-03-25.xml"
+                },
+                {
+                  "nome": "GI.METAL SRL_33600_2026-03-12.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/8hrwzgjnasold48h1yuzl/GI.METAL-SRL_33600_2026-03-12.xml?rlkey=don5q1e62l59dbj7pdxl8207m&dl=0?raw=1",
+                  "dimensione_kb": 104,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/GI.METAL SRL_33600_2026-03-12.xml"
+                },
+                {
+                  "nome": "GIUSEPPE CASELLA_35_2025-10-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/f4m54ffaajtx36om2s99p/GIUSEPPE-CASELLA_35_2025-10-23.xml?rlkey=3dmmowkibrnu86l6bkpo8h7bj&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/GIUSEPPE CASELLA_35_2025-10-23.xml"
+                },
+                {
+                  "nome": "GOPACK S.R.L. a socio unico_000686_26_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/pr0nbwquxcufrguqb3os6/GOPACK-S.R.L.-a-socio-unico_000686_26_2026-03-31.xml?rlkey=wafdz3iqyim1y7qf6u9twmxv0&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/GOPACK S.R.L. a socio unico_000686_26_2026-03-31.xml"
+                },
+                {
+                  "nome": "HOTEL PLAZA TARANTO SRL_1832026H_2026-02-19.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/7xfedpum4ev4pgzpb9wvk/HOTEL-PLAZA-TARANTO-SRL_1832026H_2026-02-19.xml?rlkey=x9umoovj46adcm2higp4h56z7&dl=0?raw=1",
+                  "dimensione_kb": 6,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/HOTEL PLAZA TARANTO SRL_1832026H_2026-02-19.xml"
+                },
+                {
+                  "nome": "IFI S.p.a_1250504900_2025-12-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/mql3s54isibzba009yswz/IFI-S.p.a_1250504900_2025-12-23.xml?rlkey=q1n8ipt63t5skvgi3ypb87n6v&dl=0?raw=1",
+                  "dimensione_kb": 44,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/IFI S.p.a_1250504900_2025-12-23.xml"
+                },
+                {
+                  "nome": "IFI S.p.a_1260500609_2026-02-27.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/xy40uxgxae4c11za08qbp/IFI-S.p.a_1260500609_2026-02-27.xml?rlkey=ukv5rx2272ldwdky6irz2b441&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/IFI S.p.a_1260500609_2026-02-27.xml"
+                },
+                {
+                  "nome": "IMS IDROMETAL SCHETTINI S.R.L_FPR 688_2025-09-27.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/hxkf53jnbrq5lzu6xezx2/IMS-IDROMETAL-SCHETTINI-S.R.L_FPR-688_2025-09-27.xml?rlkey=zfqclitu1itd6nz6nsaw4frp8&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/IMS IDROMETAL SCHETTINI S.R.L_FPR 688_2025-09-27.xml"
+                },
+                {
+                  "nome": "LA MITO S.R.L. DISTRIBUZIONE_27682026_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/rjmfgzuru2ke1h5yh6ego/LA-MITO-S.R.L.-DISTRIBUZIONE_27682026_2026-04-10.xml?rlkey=3bohtu0wkf7qj991bry98wfqo&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/LA MITO S.R.L. DISTRIBUZIONE_27682026_2026-04-10.xml"
+                },
+                {
+                  "nome": "LOTUS S.p.A._1602I_2026-04-13.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/d6748b6tebyxaqcch147x/LOTUS-S.p.A._1602I_2026-04-13.xml?rlkey=3ma2cs57i94mxcseukvkmz8wl&dl=0?raw=1",
+                  "dimensione_kb": 407,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/LOTUS S.p.A._1602I_2026-04-13.xml"
+                },
+                {
+                  "nome": "MECNOSUD SRL_8921_2026-03-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/kkjqyin401cafkbdyb6x7/MECNOSUD-SRL_8921_2026-03-23.xml?rlkey=etsolk1738s6awf5jcd08vds5&dl=0?raw=1",
+                  "dimensione_kb": 8,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/MECNOSUD SRL_8921_2026-03-23.xml"
+                },
+                {
+                  "nome": "MORINI S.R.L. - Soc.Unipersonale_26F101974_2026-02-12.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/9n3ocm68tyfr6fj3nftcz/MORINI-S.R.L.-Soc.Unipersonale_26F101974_2026-02-12.xml?rlkey=kfk1uxy9tagd4y0ebuw7vmj7y&dl=0?raw=1",
+                  "dimensione_kb": 11,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/MORINI S.R.L. - Soc.Unipersonale_26F101974_2026-02-12.xml"
+                },
+                {
+                  "nome": "MORINI S.R.L. - Soc.Unipersonale_26F103659_2026-03-12.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/364t7cxmpzdj4vot2vwhe/MORINI-S.R.L.-Soc.Unipersonale_26F103659_2026-03-12.xml?rlkey=4ilo76gnoqblp11xkaasgky7b&dl=0?raw=1",
+                  "dimensione_kb": 14,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/MORINI S.R.L. - Soc.Unipersonale_26F103659_2026-03-12.xml"
+                },
+                {
+                  "nome": "MORINI S.R.L. - Soc.Unipersonale_26F104413_2026-03-25.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/cvh4srq4yvqa7s30vb3ec/MORINI-S.R.L.-Soc.Unipersonale_26F104413_2026-03-25.xml?rlkey=nhw0e5prp00sk0ewta59v6j4i&dl=0?raw=1",
+                  "dimensione_kb": 21,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/MORINI S.R.L. - Soc.Unipersonale_26F104413_2026-03-25.xml"
+                },
+                {
+                  "nome": "MORINI S.R.L. - Soc.Unipersonale_26F106111_2026-04-16.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/wgrj9x5tz2shn0rmeznfh/MORINI-S.R.L.-Soc.Unipersonale_26F106111_2026-04-16.xml?rlkey=3rckw2o15nsojxcbq6wd67ic6&dl=0?raw=1",
+                  "dimensione_kb": 11,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/MORINI S.R.L. - Soc.Unipersonale_26F106111_2026-04-16.xml"
+                },
+                {
+                  "nome": "MURGIA RESORT SRL_596H2025_2025-12-18.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/oeqlgmhvibqe16l5dlvpz/MURGIA-RESORT-SRL_596H2025_2025-12-18.xml?rlkey=9sqrwlhmuf9tjrg3mhx4zl7qk&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/MURGIA RESORT SRL_596H2025_2025-12-18.xml"
+                },
+                {
+                  "nome": "Mediterraneo s.r.l_54_2026-02-19.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/texjc1jv47leakyr4otty/Mediterraneo-s.r.l_54_2026-02-19.xml?rlkey=brrs4s9110pfu9ublda2ahz4l&dl=0?raw=1",
+                  "dimensione_kb": 12,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Mediterraneo s.r.l_54_2026-02-19.xml"
+                },
+                {
+                  "nome": "Modular Professional SRL_000183_2026-02-13.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/dwphq6amrqn180r50wzi1/Modular-Professional-SRL_000183_2026-02-13.xml?rlkey=iypzkpaquhk13seqmh8qjtdgn&dl=0?raw=1",
+                  "dimensione_kb": 175,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Modular Professional SRL_000183_2026-02-13.xml"
+                },
+                {
+                  "nome": "Modular Professional SRL_000565_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/qlqqi9jf04j2y60iizksr/Modular-Professional-SRL_000565_2026-03-31.xml?rlkey=9wjk2bvh8y9infr2njpm98chn&dl=0?raw=1",
+                  "dimensione_kb": 176,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Modular Professional SRL_000565_2026-03-31.xml"
+                },
+                {
+                  "nome": "NTA SRL_292025_2025-09-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/p82ey4shhbo3s98m50d3s/NTA-SRL_292025_2025-09-23.xml?rlkey=9dob9btgc1gd39nw2mg9v49wk&dl=0?raw=1",
+                  "dimensione_kb": 164,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/NTA SRL_292025_2025-09-23.xml"
+                },
+                {
+                  "nome": "Over Costruzioni S.r.l_14452025_2025-11-28.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/pg1cv65jismo9c3ux6lti/Over-Costruzioni-S.r.l_14452025_2025-11-28.xml?rlkey=xsaj9ephw86tjn7ymuxiqo69m&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Over Costruzioni S.r.l_14452025_2025-11-28.xml"
+                },
+                {
+                  "nome": "Over Costruzioni S.r.l_2492026_2026-03-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/lunlx4nsibshvqgwz6r64/Over-Costruzioni-S.r.l_2492026_2026-03-10.xml?rlkey=gn17jm5yndcrtmsk4rxq3ejpx&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Over Costruzioni S.r.l_2492026_2026-03-10.xml"
+                },
+                {
+                  "nome": "PAPALEO RAG GIACOMO SRL_202503710_2025-12-30.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/a5645xejqjd14ro34clvp/PAPALEO-RAG-GIACOMO-SRL_202503710_2025-12-30.xml?rlkey=v7skh1i2qeg9dufi8ft6brr12&dl=0?raw=1",
+                  "dimensione_kb": 6,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/PAPALEO RAG GIACOMO SRL_202503710_2025-12-30.xml"
+                },
+                {
+                  "nome": "PERRETTA SERVICE DI PERRETTA IMMACOLATO EGIDIO_28_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/j3bo1etip13542jpnmjea/PERRETTA-SERVICE-DI-PERRETTA-IMMACOLATO-EGIDIO_28_2026-04-15.xml?rlkey=83jyuwfbaqzmpfua1nm260tn8&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/PERRETTA SERVICE DI PERRETTA IMMACOLATO EGIDIO_28_2026-04-15.xml"
+                },
+                {
+                  "nome": "PIAZZA EFFEPI S.R.L._2026-FC1-0000862_2026-04-08.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/opdz62eyqyagv8xsc7fao/PIAZZA-EFFEPI-S.R.L._2026-FC1-0000862_2026-04-08.xml?rlkey=sn1cciif1f9ib54mtwgtas9fw&dl=0?raw=1",
+                  "dimensione_kb": 6,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/PIAZZA EFFEPI S.R.L._2026-FC1-0000862_2026-04-08.xml"
+                },
+                {
+                  "nome": "PRIOLINOX S.P.A_106_2026-01-30.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/l7mzbi1tt5k5hxztkbtek/PRIOLINOX-S.P.A_106_2026-01-30.xml?rlkey=gg2qjgf48j9p6robswj5kbxrp&dl=0?raw=1",
+                  "dimensione_kb": 83,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/PRIOLINOX S.P.A_106_2026-01-30.xml"
+                },
+                {
+                  "nome": "Plasticart.com Snc di OLIVIERI Francesco & C_17947_2025-10-28.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/kxsp26j0bbryocv8ya6qe/Plasticart.com-Snc-di-OLIVIERI-Francesco-C_17947_2025-10-28.xml?rlkey=txt16ts7rawrvnz29f0jb30tj&dl=0?raw=1",
+                  "dimensione_kb": 6,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Plasticart.com Snc di OLIVIERI Francesco & C_17947_2025-10-28.xml"
+                },
+                {
+                  "nome": "Pomitourist s.a.s. di Romano Paolo_1119_2025-11-19.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/4o7lrw189qqar6yvhd9i4/Pomitourist-s.a.s.-di-Romano-Paolo_1119_2025-11-19.xml?rlkey=2wjtwmix3yqgsp4eqcx4wrl09&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Pomitourist s.a.s. di Romano Paolo_1119_2025-11-19.xml"
+                },
+                {
+                  "nome": "REFRICELL SERVICE SRL_1245_2025-12-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/joidjpbrgw2ie5vrdk0ha/REFRICELL-SERVICE-SRL_1245_2025-12-31.xml?rlkey=2igdkbm7656itfjo8ro69x6oj&dl=0?raw=1",
+                  "dimensione_kb": 8,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/REFRICELL SERVICE SRL_1245_2025-12-31.xml"
+                },
+                {
+                  "nome": "REPA ITALIA SRL_20250129975_2025-12-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/72zvbluk4v517vzcu33dw/REPA-ITALIA-SRL_20250129975_2025-12-23.xml?rlkey=4kzb5c3u40307z8hoa6j5fi74&dl=0?raw=1",
+                  "dimensione_kb": 38,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/REPA ITALIA SRL_20250129975_2025-12-23.xml"
+                },
+                {
+                  "nome": "REPA ITALIA SRL_2026013283_2026-02-28.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/lwqrk015hbrkq5rbzrtda/REPA-ITALIA-SRL_2026013283_2026-02-28.xml?rlkey=kxfv7w72e0nievi1jyif9bawi&dl=0?raw=1",
+                  "dimensione_kb": 34,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/REPA ITALIA SRL_2026013283_2026-02-28.xml"
+                },
+                {
+                  "nome": "REPA ITALIA SRL_2026015469_2026-03-19.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/72ytae3bjxnhivy54v5y3/REPA-ITALIA-SRL_2026015469_2026-03-19.xml?rlkey=d22v2hvyq378whjmgvb4zayyn&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/REPA ITALIA SRL_2026015469_2026-03-19.xml"
+                },
+                {
+                  "nome": "REPA ITALIA SRL_2026015470_2026-03-19.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/2w9ysdkjb40xhl8ynj4l5/REPA-ITALIA-SRL_2026015470_2026-03-19.xml?rlkey=ja79rkh28cgr9sxo2mm6f738c&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/REPA ITALIA SRL_2026015470_2026-03-19.xml"
+                },
+                {
+                  "nome": "REPA ITALIA SRL_202601602_2026-01-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/e8pkcj6pjduqpi5gv32cv/REPA-ITALIA-SRL_202601602_2026-01-31.xml?rlkey=9xic9e69xd4rtvn0u2mliyn21&dl=0?raw=1",
+                  "dimensione_kb": 22,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/REPA ITALIA SRL_202601602_2026-01-31.xml"
+                },
+                {
+                  "nome": "REPA ITALIA SRL_2026_01_6022_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/ye0pnyjpq2hjapjn4gxpx/REPA-ITALIA-SRL_2026_01_6022_2026-03-31.xml?rlkey=cpc75efev7bjgqulbvk93w0hz&dl=0?raw=1",
+                  "dimensione_kb": 46,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/REPA ITALIA SRL_2026_01_6022_2026-03-31.xml"
+                },
+                {
+                  "nome": "SAMBONET PADERNO INDUSTRIE S.P.A_S0304160_2026-02-12.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/imttdcnejscrbwi594ue8/SAMBONET-PADERNO-INDUSTRIE-S.P.A_S0304160_2026-02-12.xml?rlkey=c2i47ax9m536kibs53pjui4em&dl=0?raw=1",
+                  "dimensione_kb": 375,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/SAMBONET PADERNO INDUSTRIE S.P.A_S0304160_2026-02-12.xml"
+                },
+                {
+                  "nome": "SATRIANO SRL_894_2026-03-14.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/scyr35e4v7a6mg0rggqqk/SATRIANO-SRL_894_2026-03-14.xml?rlkey=desy22y5capqn6f8ogc43hlq4&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/SATRIANO SRL_894_2026-03-14.xml"
+                },
+                {
+                  "nome": "SIRMAN SPA A SOCIO UNICO_0010006384_2026-04-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/tgvpryg5ycy8ykyt6d6bh/SIRMAN-SPA-A-SOCIO-UNICO_0010006384_2026-04-15.xml?rlkey=4yhetjlgikompuc57kis9nkyy&dl=0?raw=1",
+                  "dimensione_kb": 104,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/SIRMAN SPA A SOCIO UNICO_0010006384_2026-04-15.xml"
+                },
+                {
+                  "nome": "SIRMAN SPA A SOCIO UNICO_0010006514_2026-04-16.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/s9zp1o0vl3b15yjvsruzo/SIRMAN-SPA-A-SOCIO-UNICO_0010006514_2026-04-16.xml?rlkey=vfopqqggb54936hv1b0ckdhzx&dl=0?raw=1",
+                  "dimensione_kb": 101,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/SIRMAN SPA A SOCIO UNICO_0010006514_2026-04-16.xml"
+                },
+                {
+                  "nome": "SIRMAN SPA A SOCIO UNICO_0010021292_2025-11-26.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/6u5k88mvbdi7e2qf1f4wr/SIRMAN-SPA-A-SOCIO-UNICO_0010021292_2025-11-26.xml?rlkey=v0iqe8qumjjkpp0bdwvkbcoyk&dl=0?raw=1",
+                  "dimensione_kb": 102,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/SIRMAN SPA A SOCIO UNICO_0010021292_2025-11-26.xml"
+                },
+                {
+                  "nome": "SLAYER BLADES SRL_26FA001134_2026-02-06.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/1eqbt1l87y6rgbhf4rl2s/SLAYER-BLADES-SRL_26FA001134_2026-02-06.xml?rlkey=y3oeslkj09bnmmrppgv08vvg9&dl=0?raw=1",
+                  "dimensione_kb": 9,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/SLAYER BLADES SRL_26FA001134_2026-02-06.xml"
+                },
+                {
+                  "nome": "SLAYER BLADES SRL_26FA001902_2026-03-02.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/kvnj5ujcrmem4mokdke0h/SLAYER-BLADES-SRL_26FA001902_2026-03-02.xml?rlkey=wc3net6aueb8mwn5dkdiucu85&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/SLAYER BLADES SRL_26FA001902_2026-03-02.xml"
+                },
+                {
+                  "nome": "SO.GE.AL. DI FRANCESCO PARENTE & C. SAS_3912_2025-10-30.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/bvr56zagxvxx31b9ergjl/SO.GE.AL.-DI-FRANCESCO-PARENTE-C.-SAS_3912_2025-10-30.xml?rlkey=cptjek2fbq8e9vw76m7554s6x&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/SO.GE.AL. DI FRANCESCO PARENTE & C. SAS_3912_2025-10-30.xml"
+                },
+                {
+                  "nome": "STUDIO ANTONELLA DOTT. COSENTINO_23100_2025-11-14.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/ki4cvlr84ol676a6usdgu/STUDIO-ANTONELLA-DOTT.-COSENTINO_23100_2025-11-14.xml?rlkey=jfd99i7l504qbd4r97dkhgagm&dl=0?raw=1",
+                  "dimensione_kb": 11,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/STUDIO ANTONELLA DOTT. COSENTINO_23100_2025-11-14.xml"
+                },
+                {
+                  "nome": "STUDIO ANTONELLA DOTT. COSENTINO_800_2026-01-15.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/i43wpafqef4qhnlk79esd/STUDIO-ANTONELLA-DOTT.-COSENTINO_800_2026-01-15.xml?rlkey=0jf6n53ot32swwh5w2xxddxc1&dl=0?raw=1",
+                  "dimensione_kb": 13,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/STUDIO ANTONELLA DOTT. COSENTINO_800_2026-01-15.xml"
+                },
+                {
+                  "nome": "Staff Ice System srl_202600048_2026-01-29.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/6l4k21paq0y2axn5mdan0/Staff-Ice-System-srl_202600048_2026-01-29.xml?rlkey=xhpt4m73hro2xd40lb1gqdlhn&dl=0?raw=1",
+                  "dimensione_kb": 124,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Staff Ice System srl_202600048_2026-01-29.xml"
+                },
+                {
+                  "nome": "TECNOINOX SRL SOCIO UNICO_1128_2026-03-03.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/9gvmwz4nnhksjpnbgwr8p/TECNOINOX-SRL-SOCIO-UNICO_1128_2026-03-03.xml?rlkey=y0oo7cueto82xa65rdfbpvy18&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/TECNOINOX SRL SOCIO UNICO_1128_2026-03-03.xml"
+                },
+                {
+                  "nome": "TECNOINOX SRL SOCIO UNICO_1766_2026-03-31.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/5o346qjridq3uchs7ucxg/TECNOINOX-SRL-SOCIO-UNICO_1766_2026-03-31.xml?rlkey=8a6omnt7kew5666lk3z16j5fn&dl=0?raw=1",
+                  "dimensione_kb": 9,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/TECNOINOX SRL SOCIO UNICO_1766_2026-03-31.xml"
+                },
+                {
+                  "nome": "TECNOINOX SRL SOCIO UNICO_24_2026-01-09.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/001m5bb3lsrs87kneqfpf/TECNOINOX-SRL-SOCIO-UNICO_24_2026-01-09.xml?rlkey=teykjd7ixzir2vqddnpmzgbvn&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/TECNOINOX SRL SOCIO UNICO_24_2026-01-09.xml"
+                },
+                {
+                  "nome": "TECNOINOX SRL SOCIO UNICO_461_2026-01-30.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/fjlufw4hq95nm0yfb8ooa/TECNOINOX-SRL-SOCIO-UNICO_461_2026-01-30.xml?rlkey=t0c159n815vn3rvq3vsq5e1to&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/TECNOINOX SRL SOCIO UNICO_461_2026-01-30.xml"
+                },
+                {
+                  "nome": "TERMOIMPIANTI LIMONGI SRL_2596_2026-03-26.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/svc385l4nsy1ot7m8x98i/TERMOIMPIANTI-LIMONGI-SRL_2596_2026-03-26.xml?rlkey=2psjbu33i0gtjk1l4v7vxboqg&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/TERMOIMPIANTI LIMONGI SRL_2596_2026-03-26.xml"
+                },
+                {
+                  "nome": "Tourist Service Snc dei f.lli Colapietro & C_209_2026-03-08.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/cof21yc7phb0gpzlu12fv/Tourist-Service-Snc-dei-f.lli-Colapietro-C_209_2026-03-08.xml?rlkey=ul0m66dq7nvnpyvfewj5effy9&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Tourist Service Snc dei f.lli Colapietro & C_209_2026-03-08.xml"
+                },
+                {
+                  "nome": "VAN BERKEL INTERNATIONAL SRL_F1 001178_2026-03-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/rh1vjif89xczcnbqjhshx/VAN-BERKEL-INTERNATIONAL-SRL_F1-001178_2026-03-23.xml?rlkey=siqjzg9q817iq5zy890xkm8n7&dl=0?raw=1",
+                  "dimensione_kb": 129,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/VAN BERKEL INTERNATIONAL SRL_F1 001178_2026-03-23.xml"
+                },
+                {
+                  "nome": "VIRGILIO S.R.L_8A_2025-10-12.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/4ce3kod7ska8gfuigjont/VIRGILIO-S.R.L_8A_2025-10-12.xml?rlkey=7zsgrqfm8udglm9odkso359lh&dl=0?raw=1",
+                  "dimensione_kb": 81,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/VIRGILIO S.R.L_8A_2025-10-12.xml"
+                },
+                {
+                  "nome": "Wuerth S.r.l_4503956128_2026-03-11.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/3622qnjc8dgblj4plb8zl/Wuerth-S.r.l_4503956128_2026-03-11.xml?rlkey=sp2p3tvys8ua44l8xsxbs12om&dl=0?raw=1",
+                  "dimensione_kb": 18,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Wuerth S.r.l_4503956128_2026-03-11.xml"
+                },
+                {
+                  "nome": "Würth S.r.l_82459_2025-10-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/mn6ud8tgny5ob04605694/W-rth-S.r.l_82459_2025-10-10.xml?rlkey=73xdf382gykgr8cpquvhu1ief&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Würth S.r.l_82459_2025-10-10.xml"
+                },
+                {
+                  "nome": "Würth S.r.l_84608_2025-10-24.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/q7rbyxp8lvj2s3azamzpb/W-rth-S.r.l_84608_2025-10-24.xml?rlkey=p6uceg4h9i18mlonfusivev2c&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Würth S.r.l_84608_2025-10-24.xml"
+                },
+                {
+                  "nome": "Z.MATIK SRL_136_2025-09-23.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/jgufzauwwbny5enz7edwg/Z.MATIK-SRL_136_2025-09-23.xml?rlkey=abid5v4swqcdd1z0a5s8vouxe&dl=0?raw=1",
+                  "dimensione_kb": 12,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/Z.MATIK SRL_136_2025-09-23.xml"
+                },
+                {
+                  "nome": "ZINCO GROUP Srl_2026   511A_2026-04-10.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/0d30h30815mmg9shhlplg/ZINCO-GROUP-Srl_2026-511A_2026-04-10.xml?rlkey=9sc6h4qpure863na4bswp9pwo&dl=0?raw=1",
+                  "dimensione_kb": 895,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/ZINCO GROUP Srl_2026   511A_2026-04-10.xml"
+                },
+                {
+                  "nome": "ZINCO GROUP Srl_2026 248_2026-03-06.xml",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/m49pdjells5e00op1b54f/ZINCO-GROUP-Srl_2026-248_2026-03-06.xml?rlkey=v6bhnmkjrhg6c2sfsqambqcju&dl=0?raw=1",
+                  "dimensione_kb": 930,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/DA REGISTRARE IN SAP/ZINCO GROUP Srl_2026 248_2026-03-06.xml"
+                }
+              ],
+              "_totale_file": 97
             },
             {
               "nome": "REGISTRATE",
@@ -185514,7 +185914,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/Report_Finale_Automazione_Fatture_29-03-2026.docx"
             }
           ],
-          "_totale_file": 1114
+          "_totale_file": 1164
         },
         {
           "nome": "OFFERTE DI ACQUISTO",
