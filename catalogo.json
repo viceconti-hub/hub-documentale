@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-28T01:06:35Z",
+  "generato": "2026-04-28T03:13:40Z",
   "totale_file": 24684,
   "totale_sezioni": 8,
   "sezioni": [
@@ -145784,7 +145784,7 @@
                       "nome": "ORIENTE srl_Bilancio xbrl 2022.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/i0rdsoyrdvl0148v29mqb/ORIENTE-srl_Bilancio-xbrl-2022.pdf?rlkey=mhgosoap4w4idpu9oybhpmhtr&dl=0?raw=1",
                       "dimensione_kb": 29,
                       "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/SAN NICOLA ARCELLA/ORIENTE srl/ORIENTE srl_Bilancio xbrl 2022.pdf"
                     },
@@ -152988,6 +152988,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/FRIGOMAT/ARCHIVIO/Frigomat - Listino Prezzi Euro 2023 R1 - IT EN.pdf"
                 },
                 {
+                  "nome": "Frigomat - Listino Prezzi Euro 2024 R1 - IT EN.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gv0q4iwnymbutc1ha9g63/Frigomat-Listino-Prezzi-Euro-2024-R1-IT-EN.pdf?rlkey=wpieax5pzaas314wi7lnlbfio&dl=0?raw=1",
+                  "dimensione_kb": 2199,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/FRIGOMAT/ARCHIVIO/Frigomat - Listino Prezzi Euro 2024 R1 - IT EN.pdf"
+                },
+                {
                   "nome": "Listino Ricambi 01.02.2023 rev 07-2023 (tolti coperchi soft).xlsx.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -152996,7 +153004,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/FRIGOMAT/ARCHIVIO/Listino Ricambi 01.02.2023 rev 07-2023 (tolti coperchi soft).xlsx.pdf"
                 }
               ],
-              "_totale_file": 10
+              "_totale_file": 11
             },
             {
               "nome": "AREA TECNICA FRIGOMAT",
@@ -153425,14 +153433,6 @@
             }
           ],
           "file": [
-            {
-              "nome": "Frigomat - Listino Prezzi Euro 2024 R1 - IT EN.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gv0q4iwnymbutc1ha9g63/Frigomat-Listino-Prezzi-Euro-2024-R1-IT-EN.pdf?rlkey=wpieax5pzaas314wi7lnlbfio&dl=0?raw=1",
-              "dimensione_kb": 2199,
-              "path": "/HUB DOCUMENTALE/FORNITORI/FRIGOMAT/Frigomat - Listino Prezzi Euro 2024 R1 - IT EN.pdf"
-            },
             {
               "nome": "Frigomat - Listino Prezzi Euro 2025 R1 - IT EN.pdf",
               "tipo": "PDF",
