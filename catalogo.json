@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-28T08:30:28Z",
-  "totale_file": 24689,
+  "generato": "2026-04-28T09:36:17Z",
+  "totale_file": 24691,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -216599,7 +216599,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2335,
+      "totale_file": 2337,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -217132,6 +217132,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/LA MITO KLIMAIALIA Dettaglio bonifico istantaneo DEL 09_04_2026.pdf"
                 },
                 {
+                  "nome": "LA MITO KLIMAITALIA Dettaglio bonifico istantaneo DEL 28_04_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6pbzx9ocxrlnxiwng2wwm/LA-MITO-KLIMAITALIA-Dettaglio-bonifico-istantaneo-DEL-28_04_2026.pdf?rlkey=nx9pijt12sw6506dh2bwp0gil&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/LA MITO KLIMAITALIA Dettaglio bonifico istantaneo DEL 28_04_2026.pdf"
+                },
+                {
                   "nome": "LOTUS Dettaglio bonifico istantaneo DEL 13_04_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -217170,6 +217178,14 @@
                   "link": "https://www.dropbox.com/scl/fi/73vizrb9xuvpyapd0oalq/MODULAR-COPIA-TITOLI-BRT-26_11_2025.pdf?rlkey=ansg88dl2v98u23hu1p0bc9ur&dl=0?raw=1",
                   "dimensione_kb": 833,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/MODULAR COPIA TITOLI BRT 26_11_2025.pdf"
+                },
+                {
+                  "nome": "MODULAR COPIA TITOLO INTESA CO 26_02641 Scansione 28 apr 2026, 08.38.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2balhtykeupr2htmen7j0/MODULAR-COPIA-TITOLO-INTESA-CO-26_02641-Scansione-28-apr-2026-08.38.pdf?rlkey=rc37le3o95wpyttcvqfmp7bbz&dl=0?raw=1",
+                  "dimensione_kb": 690,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/MODULAR COPIA TITOLO INTESA CO 26_02641 Scansione 28 apr 2026, 08.38.pdf"
                 },
                 {
                   "nome": "MODULAR Dettaglio bonifico istantaneo DEL 14_04_2026.pdf",
@@ -217316,7 +217332,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/APERTI/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
                 }
               ],
-              "_totale_file": 66
+              "_totale_file": 68
             },
             {
               "nome": "ARCHIVIO",
@@ -217475,7 +217491,7 @@
                       "nome": "ABM BONIFICO DEL 24_10_2022.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/bye7tzbag0letbe6e7el9/ABM-BONIFICO-DEL-24_10_2022.pdf?rlkey=bu5fvoghm0i15jzcbc5r7c3br&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 96,
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ABM/ABM BONIFICO DEL 24_10_2022.pdf"
                     },
@@ -237633,7 +237649,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR image002.jpg"
             }
           ],
-          "_totale_file": 2315
+          "_totale_file": 2317
         }
       ],
       "file": []
