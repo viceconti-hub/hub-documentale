@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-28T06:18:58Z",
-  "totale_file": 24685,
+  "generato": "2026-04-28T08:30:28Z",
+  "totale_file": 24689,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176223,7 +176223,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4743,
+      "totale_file": 4747,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -186238,6 +186238,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002691-00-13042026 RIF. ILAMA.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0003154-00-27042026 RIF.FA TU INTEGRAZIONE TAVOLO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/s8jp0k4jutovsweky4dmt/IDEAM-INOX-CONFERMA-CLI-PREVEN-0003154-00-27042026-RIF.FA-TU-INTEGRAZIONE-TAVOLO.pdf?rlkey=bga0suoe52jkw3yzrjcav7alt&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0003154-00-27042026 RIF.FA TU INTEGRAZIONE TAVOLO.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600014049_N0001537 RIF. FA TU.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -186302,6 +186310,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-2271 RIF.FA TU.pdf"
                 },
                 {
+                  "nome": "LA MITO KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-3023 RIF.SAMMARTINO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/e3gun5lx22qgfjigp00jm/LA-MITO-KLIMAITALIA-Conferma-d-Ordine-Klimaitalia-P-3023-RIF.SAMMARTINO.pdf?rlkey=1xzge45x298atd8qomc7jn1yb&dl=0?raw=1",
+                  "dimensione_kb": 177,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/LA MITO KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-3023 RIF.SAMMARTINO.pdf"
+                },
+                {
                   "nome": "LA MITO KLIMATIALIA FA TU Conferma d'Ordine-Klimaitalia-P-2271.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -186334,6 +186350,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MECNOSUD Ordine dacquisto_260014_20260223_224509 RIF.CORRDO MICHELA.pdf"
                 },
                 {
+                  "nome": "MODULAR COMFERMA ORDINE 26_02641 MD_SaleOrdForm_2022 RIF.MeM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/a6hs6zwsjjb23s3stjifn/MODULAR-COMFERMA-ORDINE-26_02641-MD_SaleOrdForm_2022-RIF.MeM.pdf?rlkey=17mxohxf1dnq4cpsh5v59lzjr&dl=0?raw=1",
+                  "dimensione_kb": 141,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR COMFERMA ORDINE 26_02641 MD_SaleOrdForm_2022 RIF.MeM.pdf"
+                },
+                {
                   "nome": "MODULAR CONFERMA 26_02043 MD_SaleOrdForm_2022 RIF.FA TU_FRIGGTRICI 90.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -186356,6 +186380,14 @@
                   "link": "https://www.dropbox.com/scl/fi/69rmrcavpwmdfl8qsuj16/MODULAR-CONFERMA-MD_SaleOrdForm_2022-RIF.YELLOW-BOAT_BRUCIATORI.pdf?rlkey=5ffys0yvgabgfvpive3c9zi26&dl=0?raw=1",
                   "dimensione_kb": 141,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.YELLOW BOAT_BRUCIATORI.pdf"
+                },
+                {
+                  "nome": "MODULAR MD_SaleOrdForm_2022 RIF.MeM Packing listi.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vaq0hx3oiyflyj49viksl/MODULAR-MD_SaleOrdForm_2022-RIF.MeM-Packing-listi.pdf?rlkey=52abg4u8eb61jmn0uv5qiovp6&dl=0?raw=1",
+                  "dimensione_kb": 145,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/MODULAR MD_SaleOrdForm_2022 RIF.MeM Packing listi.pdf"
                 },
                 {
                   "nome": "MORINI GRISOLIA CASTELLUCCIO LIBERTY Ordine dacquisto_260042_20260413_182355.pdf",
@@ -186550,7 +186582,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 69
+              "_totale_file": 73
             },
             {
               "nome": "ARCHIVIO",
@@ -216558,7 +216590,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3537
+          "_totale_file": 3541
         }
       ],
       "file": []
