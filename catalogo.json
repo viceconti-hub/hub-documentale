@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-29T07:48:28Z",
-  "totale_file": 24700,
+  "generato": "2026-04-29T07:56:53Z",
+  "totale_file": 24701,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -59004,7 +59004,7 @@
       "nome": "CREDITI E DEBITI",
       "descrizione": "Crediti e debiti aperti e archiviati",
       "icona": "📋",
-      "totale_file": 333,
+      "totale_file": 334,
       "cartelle": [
         {
           "nome": "CREDITI",
@@ -61638,6 +61638,14 @@
               "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/NERA Situazione Contabile AL 24_09_2025.pdf"
             },
             {
+              "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Saldo contabile - C001308 _20260428_180929.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0fdd4ywrhpbu0pjweqx97/SOC.-COOP.-MARATEA-SERVIZI-A.R.L.-Saldo-contabile-C001308-_20260428_180929.pdf?rlkey=i5f2l4n18yhulwx6px5vepx2q&dl=0?raw=1",
+              "dimensione_kb": 48,
+              "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/SOC. COOP. MARATEA SERVIZI A.R.L. Saldo contabile - C001308 _20260428_180929.pdf"
+            },
+            {
               "nome": "SUPERMERCATO BELLO SITUAZIONE AL 03_05_2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -61710,7 +61718,7 @@
               "path": "/HUB DOCUMENTALE/CREDITI E DEBITI/CREDITI/Saldo contabile - CO52305 A&M COMPANY DI ALAGIA ANDREA MAURONE AGOSTINO & C. S.N.C._20260204_174527.pdf"
             }
           ],
-          "_totale_file": 332
+          "_totale_file": 333
         },
         {
           "nome": "DEBITI",
