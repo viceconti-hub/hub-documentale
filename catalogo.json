@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-29T00:20:11Z",
-  "totale_file": 24691,
+  "generato": "2026-04-29T02:14:31Z",
+  "totale_file": 24694,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -134260,7 +134260,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4345,
+      "totale_file": 4348,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -153285,6 +153285,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/FRIGOMAT/AREA TECNICA FRIGOMAT/FRIGOMAT - PEB 30 60 2X60 LCD italiano.pdf"
                 },
                 {
+                  "nome": "FRIGOMAT ESCPLOSO TITAN 1-2-3  s.01 rotativo.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ge3zpd22i1gpgw6ty1cpd/FRIGOMAT-ESCPLOSO-TITAN-1-2-3-s.01-rotativo.pdf?rlkey=eyy0cnrqgkx94u3vpc2p6k0x6&dl=0?raw=1",
+                  "dimensione_kb": 1953,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/FRIGOMAT/AREA TECNICA FRIGOMAT/FRIGOMAT ESCPLOSO TITAN 1-2-3  s.01 rotativo.pdf"
+                },
+                {
                   "nome": "FRIGOMAT ESPLOSO PA 100 s03 RIF. TERZI.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -153421,7 +153429,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/FRIGOMAT/AREA TECNICA FRIGOMAT/VIBE 8 serie 04  senza esplosi.pdf"
                 }
               ],
-              "_totale_file": 48
+              "_totale_file": 49
             },
             {
               "nome": "FRIGOMAT SCHEDE TECNICHE PRODOTTI",
@@ -153458,7 +153466,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/FRIGOMAT/Frigomat - Listino Prezzi Euro 2025 R1 - IT EN.pdf"
             }
           ],
-          "_totale_file": 62
+          "_totale_file": 63
         },
         {
           "nome": "FRIGOMECCANICA",
@@ -169052,6 +169060,22 @@
           ],
           "file": [
             {
+              "nome": "002.PIAZZA catalogo 2026-2027 CONTENITORI GN PLASTICA POLIPROPILENE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/63ek37wdrkbb233f24prq/002.PIAZZA-catalogo-2026-2027-CONTENITORI-GN-PLASTICA-POLIPROPILENE.pdf?rlkey=1p9t0e1acwwe963e3mqc79eld&dl=0?raw=1",
+              "dimensione_kb": 408,
+              "path": "/HUB DOCUMENTALE/FORNITORI/PIAZZA/002.PIAZZA catalogo 2026-2027 CONTENITORI GN PLASTICA POLIPROPILENE.pdf"
+            },
+            {
+              "nome": "002.PIAZZA catalogo 2026-2027.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/51xz7mostk0serosf6rhh/002.PIAZZA-catalogo-2026-2027.pdf?rlkey=n8tbxgd3ldsmumkjybmzzx150&dl=0?raw=1",
+              "dimensione_kb": 40046,
+              "path": "/HUB DOCUMENTALE/FORNITORI/PIAZZA/002.PIAZZA catalogo 2026-2027.pdf"
+            },
+            {
               "nome": "00_Listino Piazza 2025_Rel.01_01Dic2024.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -169068,7 +169092,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/PIAZZA/Gmail - Fwd_ Viceconti Snc_ richiesta listino e condizioni commerciali.pdf"
             }
           ],
-          "_totale_file": 10
+          "_totale_file": 12
         },
         {
           "nome": "PINTINOX",
