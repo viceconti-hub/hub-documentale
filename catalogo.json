@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-29T08:03:39Z",
-  "totale_file": 24701,
+  "generato": "2026-04-29T15:49:15Z",
+  "totale_file": 24702,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62459,7 +62459,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 165,
+      "totale_file": 166,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -63840,6 +63840,14 @@
           "link": "https://www.dropbox.com/scl/fi/dul7ifcn709x7e4vn73mu/COLDLINE-PACKING-LIST-DEL-01-04-2026_260019_20260401_103937.pdf?rlkey=wqj5d5b1xo1vs26t4ztmoik2v&dl=0?raw=1",
           "dimensione_kb": 76,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf"
+        },
+        {
+          "nome": "MAGAZZINO 2026.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/m0kjkebcjr5c2n0b4dp75/MAGAZZINO-2026.pdf?rlkey=90mxjmyurpikujiyizms13l2l&dl=0?raw=1",
+          "dimensione_kb": 117,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MAGAZZINO 2026.pdf"
         },
         {
           "nome": "MODULA PACKING LIST DEL 26_03_2026.pdf",
