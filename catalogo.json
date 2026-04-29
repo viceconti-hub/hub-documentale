@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-29T02:14:31Z",
-  "totale_file": 24694,
+  "generato": "2026-04-29T04:52:56Z",
+  "totale_file": 24696,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5616,
+      "totale_file": 5618,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -792,6 +792,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/MARATEA SERVIZI Fattura di vendita_2500794_20251211_210329.pdf"
             },
             {
+              "nome": "MARATEA SERVIZI Fattura di vendita_2600090_20260428_175443 ATTREZZATURE RESIDUE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8ud0hij1c83gjjctdot03/MARATEA-SERVIZI-Fattura-di-vendita_2600090_20260428_175443-ATTREZZATURE-RESIDUE.pdf?rlkey=cbnx7gorslzzfqg3lslwtzh80&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/MARATEA SERVIZI Fattura di vendita_2600090_20260428_175443 ATTREZZATURE RESIDUE.pdf"
+            },
+            {
+              "nome": "MARATEA SERVIZI Fattura di vendita_2600091_20260428_175527 ASSISTENZE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/q4k0z2fovcz99swe2soc7/MARATEA-SERVIZI-Fattura-di-vendita_2600091_20260428_175527-ASSISTENZE.pdf?rlkey=m3dqoq4bticnbuf99g3xyh8d5&dl=0?raw=1",
+              "dimensione_kb": 82,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/MARATEA SERVIZI Fattura di vendita_2600091_20260428_175527 ASSISTENZE.pdf"
+            },
+            {
               "nome": "MEDITERRANEA QUALITY FOOR SRL Fattura di vendita_170022_20251022_115254.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1096,7 +1112,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 119
+          "_totale_file": 121
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -23243,7 +23259,7 @@
                               "nome": "Fattura di vendita_200009_marie2.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/su0dgmz2adpev04w3lyt3/Fattura-di-vendita_200009_marie2.pdf?rlkey=fxitspoe4dhp0u2wt3sczeuc2&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 70,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/marie/Fattura di vendita_200009_marie2.pdf"
                             },
@@ -49942,7 +49958,7 @@
                       "nome": "ekf-423.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/yrkvnx20oqtdlccb9rrut/ekf-423.pdf?rlkey=6bv7z2klb0lsss2pe5z1y1we9&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 1719,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/PASTICCERIA MILLE VOGLIE GAMMA FORNI/ekf-423.pdf"
                     }
@@ -56651,7 +56667,7 @@
                       "nome": "R70-40IND-T.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/93aaki04z7ognff00es7t/R70-40IND-T.pdf?rlkey=ok4mwlhcbi5tgd0mzejrdnb33&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 46,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/TUZIO INDUZIONE/R70-40IND-T.pdf"
                     },
@@ -56691,7 +56707,7 @@
                       "nome": "FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_03.06.24 600.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/a9r4vlmwb2026tpe1lhsg/FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_03.06.24-600.pdf?rlkey=jm69ormr4p9o8f53t0c4q0u7o&dl=0?raw=1",
                       "dimensione_kb": 175,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ULV/FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_03.06.24 600.pdf"
                     },
