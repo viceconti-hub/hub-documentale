@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-29T04:52:56Z",
-  "totale_file": 24696,
+  "generato": "2026-04-29T06:47:32Z",
+  "totale_file": 24700,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176263,7 +176263,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4747,
+      "totale_file": 4751,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -185986,6 +185986,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/OFFERTE DI ACQUISTO/003OC20262129763.XLSX"
             },
             {
+              "nome": "AIRFAN OFFERTA FILTRI 2092 VICECONTI SNC OFF RIF. MACELLERIA DE DIEGO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jba52a11mge5d8x4jr8cz/AIRFAN-OFFERTA-FILTRI-2092-VICECONTI-SNC-OFF-RIF.-MACELLERIA-DE-DIEGO.pdf?rlkey=yu1vkx1fnq2ghteaxqktd7npu&dl=0?raw=1",
+              "dimensione_kb": 279,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/OFFERTE DI ACQUISTO/AIRFAN OFFERTA FILTRI 2092 VICECONTI SNC OFF RIF. MACELLERIA DE DIEGO.pdf"
+            },
+            {
               "nome": "Copia DA INVIARE A CLIENTE.XLSX",
               "tipo": "Excel",
               "icona": "📊",
@@ -186026,7 +186034,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/OFFERTE DI ACQUISTO/MORINI_Ordine_2129763.pdf"
             }
           ],
-          "_totale_file": 6
+          "_totale_file": 7
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -186310,12 +186318,28 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600015896_N0001759 RIF. RUGGIERO.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600018292_N0002046 RIF.FA TU INTEGRAZIONE TAVOLO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/g9m0m7qnq9vgfnrapvhfi/IDEAM-INOX-CONFERMA-ORDINE-1ID202600018292_N0002046-RIF.FA-TU-INTEGRAZIONE-TAVOLO.pdf?rlkey=f8o0jhsbef7kuo2pr3cewun9y&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600018292_N0002046 RIF.FA TU INTEGRAZIONE TAVOLO.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA ORDINE1ID202600014048_N0001536 RIF. NERA .pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/w5yhz0x5fzuw6588hot55/IDEAM-INOX-CONFERMA-ORDINE1ID202600014048_N0001536-RIF.-NERA.pdf?rlkey=iymupukj6mm3esjyyrly3za9p&dl=0?raw=1",
                   "dimensione_kb": 68,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE1ID202600014048_N0001536 RIF. NERA .pdf"
+                },
+                {
+                  "nome": "IDEAM INOX Ordine dacquisto_260061_20260428_171537 RIF.MeM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gvxzqtzsizn7bclqnhk7r/IDEAM-INOX-Ordine-dacquisto_260061_20260428_171537-RIF.MeM.pdf?rlkey=0700pwhrmidvme852x20wio4n&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX Ordine dacquisto_260061_20260428_171537 RIF.MeM.pdf"
                 },
                 {
                   "nome": "IFI CONFERMA ORDINE 26000883 RIF.TERMINAL_CENTRALINA_MURALE.pdf",
@@ -186526,6 +186550,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/SIRMAN 3AM VASCA CONFERMA ORDINE viceconti.pdf"
                 },
                 {
+                  "nome": "SIRMAN CONFERMA ORDINE RIF. ARTE DOLCIARIA_PLUTONE 10.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/p75b1vui3vyffpgqyaaii/SIRMAN-CONFERMA-ORDINE-RIF.-ARTE-DOLCIARIA_PLUTONE-10.pdf?rlkey=9frlp4tzrmpjpuro8mi2resf9&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/SIRMAN CONFERMA ORDINE RIF. ARTE DOLCIARIA_PLUTONE 10.pdf"
+                },
+                {
                   "nome": "SIRMAN De Michele Alejandro s.a.s. CONFERMA viceconti.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -186622,7 +186654,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 73
+              "_totale_file": 76
             },
             {
               "nome": "ARCHIVIO",
@@ -216630,7 +216662,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3541
+          "_totale_file": 3544
         }
       ],
       "file": []
