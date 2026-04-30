@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-30T08:20:27Z",
-  "totale_file": 24704,
+  "generato": "2026-04-30T15:44:29Z",
+  "totale_file": 24705,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62459,7 +62459,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 166,
+      "totale_file": 167,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -63840,6 +63840,14 @@
           "link": "https://www.dropbox.com/scl/fi/dul7ifcn709x7e4vn73mu/COLDLINE-PACKING-LIST-DEL-01-04-2026_260019_20260401_103937.pdf?rlkey=wqj5d5b1xo1vs26t4ztmoik2v&dl=0?raw=1",
           "dimensione_kb": 76,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf"
+        },
+        {
+          "nome": "Lista registr. magazzino in base a BP_20260430_173646.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/u1os9918abhlivsys38ev/Lista-registr.-magazzino-in-base-a-BP_20260430_173646.pdf?rlkey=zlr8tb8m92l4g8ynrl55ryxbv&dl=0?raw=1",
+          "dimensione_kb": 125,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/Lista registr. magazzino in base a BP_20260430_173646.pdf"
         },
         {
           "nome": "MAGAZZINO 2026.pdf",
