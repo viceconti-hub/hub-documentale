@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-04-30T05:01:03Z",
-  "totale_file": 24702,
+  "generato": "2026-04-30T06:59:06Z",
+  "totale_file": 24704,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176279,7 +176279,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4751,
+      "totale_file": 4753,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -186286,6 +186286,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEA Ordine dacquisto_260043_20260415_085515 RIF.PADURARU.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX CONFERAM Ordine FIRMATO RIF.MeM_CAPPA e MOTORI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k7rcygxnxymott33cu34p/IDEAM-INOX-CONFERAM-Ordine-FIRMATO-RIF.MeM_CAPPA-e-MOTORI.pdf?rlkey=4txms61qgsekd316hiitq3nm2&dl=0?raw=1",
+                  "dimensione_kb": 217,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERAM Ordine FIRMATO RIF.MeM_CAPPA e MOTORI.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0002471-00-02042026 RIF. MeM_CAPPE E MOTORI.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -186308,6 +186316,14 @@
                   "link": "https://www.dropbox.com/scl/fi/s8jp0k4jutovsweky4dmt/IDEAM-INOX-CONFERMA-CLI-PREVEN-0003154-00-27042026-RIF.FA-TU-INTEGRAZIONE-TAVOLO.pdf?rlkey=bga0suoe52jkw3yzrjcav7alt&dl=0?raw=1",
                   "dimensione_kb": 68,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0003154-00-27042026 RIF.FA TU INTEGRAZIONE TAVOLO.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0003162-00-28042026 RIF.MeM 4 TAVOLI 80X90.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/erarj3amcr8n62yizfeve/IDEAM-INOX-CONFERMA-CLI-PREVEN-0003162-00-28042026-RIF.MeM-4-TAVOLI-80X90.pdf?rlkey=s2hlpw0d0sqt7lab8czius9o7&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0003162-00-28042026 RIF.MeM 4 TAVOLI 80X90.pdf"
                 },
                 {
                   "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600014049_N0001537 RIF. FA TU.pdf",
@@ -186670,7 +186686,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 76
+              "_totale_file": 78
             },
             {
               "nome": "ARCHIVIO",
@@ -216678,7 +216694,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3544
+          "_totale_file": 3546
         }
       ],
       "file": []
