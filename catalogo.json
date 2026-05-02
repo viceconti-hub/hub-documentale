@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-02T08:23:50Z",
-  "totale_file": 24705,
+  "generato": "2026-05-02T14:29:30Z",
+  "totale_file": 24706,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62459,7 +62459,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 167,
+      "totale_file": 168,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -63840,6 +63840,14 @@
           "link": "https://www.dropbox.com/scl/fi/dul7ifcn709x7e4vn73mu/COLDLINE-PACKING-LIST-DEL-01-04-2026_260019_20260401_103937.pdf?rlkey=wqj5d5b1xo1vs26t4ztmoik2v&dl=0?raw=1",
           "dimensione_kb": 76,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf"
+        },
+        {
+          "nome": "Lista articoli MORINI SAP 02_05_2026.csv",
+          "tipo": "File",
+          "icona": "📎",
+          "link": "https://www.dropbox.com/scl/fi/ar96sojyid011bpyc65hp/Lista-articoli-MORINI-SAP-02_05_2026.csv?rlkey=5yyxfz28xps27z4niei1jjc5s&dl=0?raw=1",
+          "dimensione_kb": 2228,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/Lista articoli MORINI SAP 02_05_2026.csv"
         },
         {
           "nome": "Lista registr. magazzino in base a BP_20260430_173646.pdf",
