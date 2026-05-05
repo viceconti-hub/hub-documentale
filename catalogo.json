@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-05T04:58:00Z",
-  "totale_file": 24707,
+  "generato": "2026-05-05T06:51:28Z",
+  "totale_file": 24708,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176303,7 +176303,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4753,
+      "totale_file": 4754,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -186230,6 +186230,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ECOSAN RAPIDO Ordine dacquisto_260023_20260323_125505.pdf"
                 },
                 {
+                  "nome": "FAMA INDUSTRIE 021133_OFF_CLI_2026-OFC-0000652 RIF. I SAPORI DI MARIANNA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z3dbmwxoqkma30fadvuxj/FAMA-INDUSTRIE-021133_OFF_CLI_2026-OFC-0000652-RIF.-I-SAPORI-DI-MARIANNA.pdf?rlkey=fubp3cns1xosn4duls82wi2pa&dl=0?raw=1",
+                  "dimensione_kb": 303,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/FAMA INDUSTRIE 021133_OFF_CLI_2026-OFC-0000652 RIF. I SAPORI DI MARIANNA.pdf"
+                },
+                {
                   "nome": "FAMAG Ordine dacquisto_260003_20260128_132452 RIF.AGUA LOCA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -186710,7 +186718,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 78
+              "_totale_file": 79
             },
             {
               "nome": "ARCHIVIO",
@@ -190938,7 +190946,7 @@
                       "nome": "GIMAR VICECONTI rif. Guidovia per cinghiali 20-10-21.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/3y7xpthdn9vqdihywkwhc/GIMAR-VICECONTI-rif.-Guidovia-per-cinghiali-20-10-21.pdf?rlkey=r80qctjju2xkfm5gjjri01i2o&dl=0?raw=1",
                       "dimensione_kb": 198,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/ARCHIVIO ORDINI D'ACQUISTO/GIMAR VICECONTI rif. Guidovia per cinghiali 20-10-21.pdf"
                     },
@@ -216269,7 +216277,7 @@
                   "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.MARATEA SERVIZI.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/n5v48yxrllq06l8d2uqk6/MODULAR-CONFERMA-MD_SaleOrdForm_2022-RIF.MARATEA-SERVIZI.pdf?rlkey=7enpgos7p2emt1pk1ko10bk8x&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 128,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.MARATEA SERVIZI.pdf"
                 },
@@ -216718,7 +216726,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 3546
+          "_totale_file": 3547
         }
       ],
       "file": []
