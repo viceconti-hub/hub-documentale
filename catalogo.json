@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-05T00:18:41Z",
-  "totale_file": 24706,
+  "generato": "2026-05-05T02:17:21Z",
+  "totale_file": 24705,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -134308,7 +134308,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4348,
+      "totale_file": 4347,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -155019,22 +155019,6 @@
                               "_totale_file": 2
                             },
                             {
-                              "nome": "Elenco Attrezzature con Dati Tecnici",
-                              "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/GRENKE - RR.VICECONTI - lAURETTA79@/CLIENTI/CASTEL SAN GIORGIO/Castel San Giorgio - PEPE LUIGI ALFONSO/Elenco Attrezzature con Dati Tecnici",
-                              "cartelle": [],
-                              "file": [
-                                {
-                                  "nome": "Elenco Attrezzature con Dati Tecnici.docx",
-                                  "tipo": "Word",
-                                  "icona": "📝",
-                                  "link": "https://www.dropbox.com/scl/fi/g646566j33g0o068zy7xo/Elenco-Attrezzature-con-Dati-Tecnici.docx?rlkey=bgj8uzt1mo7xgr380khe2rm56&dl=0?raw=1",
-                                  "dimensione_kb": 15,
-                                  "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/GRENKE - RR.VICECONTI - lAURETTA79@/CLIENTI/CASTEL SAN GIORGIO/Castel San Giorgio - PEPE LUIGI ALFONSO/Elenco Attrezzature con Dati Tecnici/Elenco Attrezzature con Dati Tecnici.docx"
-                                }
-                              ],
-                              "_totale_file": 1
-                            },
-                            {
                               "nome": "Offerte",
                               "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/GRENKE - RR.VICECONTI - lAURETTA79@/CLIENTI/CASTEL SAN GIORGIO/Castel San Giorgio - PEPE LUIGI ALFONSO/Offerte",
                               "cartelle": [],
@@ -155068,11 +155052,11 @@
                             }
                           ],
                           "file": [],
-                          "_totale_file": 18
+                          "_totale_file": 17
                         }
                       ],
                       "file": [],
-                      "_totale_file": 18
+                      "_totale_file": 17
                     },
                     {
                       "nome": "LAURIA",
@@ -158636,7 +158620,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 379
+                  "_totale_file": 378
                 },
                 {
                   "nome": "GRENKE Master RENT",
@@ -159100,7 +159084,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/GRENKE - RR.VICECONTI - lAURETTA79@/VICECONTI SNC CARTA INTESTATA WORD.docx"
                 }
               ],
-              "_totale_file": 429
+              "_totale_file": 428
             },
             {
               "nome": "GRENKE ISTRUZIONI",
@@ -159369,7 +159353,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/ce 062410722.pdf"
             }
           ],
-          "_totale_file": 476
+          "_totale_file": 475
         },
         {
           "nome": "GRILLO ITALO GRILLO ANNARITA",
