@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-05T02:17:21Z",
-  "totale_file": 24705,
+  "generato": "2026-05-05T04:58:00Z",
+  "totale_file": 24707,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5618,
+      "totale_file": 5620,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -896,6 +896,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/PANIFICIO FERRARO Fattura di vendita_2500765_20251104_085251.pdf"
             },
             {
+              "nome": "PASSION SUSHI Fattura anticipo cliente_2610003_20260504_094625.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/l0qvnhnow28flafa9m2hd/PASSION-SUSHI-Fattura-anticipo-cliente_2610003_20260504_094625.pdf?rlkey=mvxai1ydstrozuh7bvzqmfgzn&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/PASSION SUSHI Fattura anticipo cliente_2610003_20260504_094625.pdf"
+            },
+            {
               "nome": "PASTICCERIA TUZIO Fattura anticipo cliente_2510017_20251112_181717.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1112,7 +1120,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 121
+          "_totale_file": 122
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -2482,6 +2490,22 @@
                   "link": "https://www.dropbox.com/scl/fi/8q2l40z1rbzrx0s1wi00r/FRIGGITRICE-MODULAR-F60-60FRGV-2V8-T.pdf?rlkey=1c6f5yo8wcr1gj30fqdvpdvz5&dl=0?raw=1",
                   "dimensione_kb": 91,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_04_27 LA SORGENTE FRIGGITRICE/FRIGGITRICE MODULAR F60-60FRGV-2V8-T.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_05_04 NARDOZZA",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_05_04 NARDOZZA",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "NARDOZZA ELETTROPOMPA Offerta di vendita_260140_20260504_165034 .pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/369cbbvtzt2pk7w44nnlh/NARDOZZA-ELETTROPOMPA-Offerta-di-vendita_260140_20260504_165034.pdf?rlkey=84wuctxynelriih4ywxjk695l&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_05_04 NARDOZZA/NARDOZZA ELETTROPOMPA Offerta di vendita_260140_20260504_165034 .pdf"
                 }
               ],
               "_totale_file": 1
@@ -58619,7 +58643,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5439
+          "_totale_file": 5440
         },
         {
           "nome": "ORDINI CLIENTE",
