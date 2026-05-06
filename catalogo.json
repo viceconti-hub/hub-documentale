@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-06T06:52:48Z",
-  "totale_file": 24713,
+  "generato": "2026-05-06T08:05:00Z",
+  "totale_file": 24714,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -216768,7 +216768,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2339,
+      "totale_file": 2340,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -237389,6 +237389,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/CUPPONE Dettaglio bonifico istantaneo DEL 22_04_2026.pdf"
                 },
                 {
+                  "nome": "DE LUCA COPIA TITOLO INTESA SCADENZA 30_06_2026.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/j57gr3b3ja786eejkszz9/DE-LUCA-COPIA-TITOLO-INTESA-SCADENZA-30_06_2026.jpeg?rlkey=v5u4ene3j6gykgfapyci5ffkw&dl=0?raw=1",
+                  "dimensione_kb": 106,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/DE LUCA COPIA TITOLO INTESA SCADENZA 30_06_2026.jpeg"
+                },
+                {
                   "nome": "De Michele Alejandro s.a.s. Dettaglio bonifico DEL 13_04_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -237829,11 +237837,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
                 }
               ],
-              "_totale_file": 71
+              "_totale_file": 72
             }
           ],
           "file": [],
-          "_totale_file": 2319
+          "_totale_file": 2320
         }
       ],
       "file": []
