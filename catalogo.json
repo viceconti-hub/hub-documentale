@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-06T04:58:23Z",
-  "totale_file": 24711,
+  "generato": "2026-05-06T06:52:48Z",
+  "totale_file": 24713,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176319,7 +176319,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4754,
+      "totale_file": 4756,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -186358,14 +186358,6 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0002691-00-13042026 RIF. ILAMA.pdf"
                 },
                 {
-                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0003154-00-27042026 RIF.FA TU INTEGRAZIONE TAVOLO.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/s8jp0k4jutovsweky4dmt/IDEAM-INOX-CONFERMA-CLI-PREVEN-0003154-00-27042026-RIF.FA-TU-INTEGRAZIONE-TAVOLO.pdf?rlkey=bga0suoe52jkw3yzrjcav7alt&dl=0?raw=1",
-                  "dimensione_kb": 68,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0003154-00-27042026 RIF.FA TU INTEGRAZIONE TAVOLO.pdf"
-                },
-                {
                   "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0003162-00-28042026 RIF.MeM 4 TAVOLI 80X90.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -186374,20 +186366,12 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0003162-00-28042026 RIF.MeM 4 TAVOLI 80X90.pdf"
                 },
                 {
-                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600014049_N0001537 RIF. FA TU.pdf",
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0003243-00-30042026 RIF.MeM.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/na0ntfkslnzm8w6x7vcgr/IDEAM-INOX-CONFERMA-ORDINE-1ID202600014049_N0001537-RIF.-FA-TU.pdf?rlkey=9au67gbn5k0wsr6tg7oopsjm1&dl=0?raw=1",
-                  "dimensione_kb": 56,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600014049_N0001537 RIF. FA TU.pdf"
-                },
-                {
-                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600014322_N0001563 RIF. VELARDI .pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/9w21nj1e62kswzxyjdr57/IDEAM-INOX-CONFERMA-ORDINE-1ID202600014322_N0001563-RIF.-VELARDI.pdf?rlkey=bk5akkqyindrek8yeu6ih7k8x&dl=0?raw=1",
+                  "link": "https://www.dropbox.com/scl/fi/mzqnvibzuok94amc7x43b/IDEAM-INOX-CONFERMA-CLI-PREVEN-0003243-00-30042026-RIF.MeM.pdf?rlkey=eigelfy0609lsra3je7vfe8wq&dl=0?raw=1",
                   "dimensione_kb": 68,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600014322_N0001563 RIF. VELARDI .pdf"
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA CLI-PREVEN-0003243-00-30042026 RIF.MeM.pdf"
                 },
                 {
                   "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600015896_N0001759 RIF. RUGGIERO.pdf",
@@ -186398,12 +186382,20 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600015896_N0001759 RIF. RUGGIERO.pdf"
                 },
                 {
-                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600018292_N0002046 RIF.FA TU INTEGRAZIONE TAVOLO.pdf",
+                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600018292_N0002046 RIF. FA TU INTEGRAZIONE TAVOLO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/g9m0m7qnq9vgfnrapvhfi/IDEAM-INOX-CONFERMA-ORDINE-1ID202600018292_N0002046-RIF.FA-TU-INTEGRAZIONE-TAVOLO.pdf?rlkey=f8o0jhsbef7kuo2pr3cewun9y&dl=0?raw=1",
+                  "link": "https://www.dropbox.com/scl/fi/g9m0m7qnq9vgfnrapvhfi/IDEAM-INOX-CONFERMA-ORDINE-1ID202600018292_N0002046-RIF.-FA-TU-INTEGRAZIONE-TAVOLO.pdf?rlkey=f8o0jhsbef7kuo2pr3cewun9y&dl=0?raw=1",
                   "dimensione_kb": 67,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600018292_N0002046 RIF.FA TU INTEGRAZIONE TAVOLO.pdf"
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600018292_N0002046 RIF. FA TU INTEGRAZIONE TAVOLO.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600019557_N0002162 RIF.MeM APPRONTAMENTO 28_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/042dz3wb1ste8ab8v7qw3/IDEAM-INOX-CONFERMA-ORDINE-1ID202600019557_N0002162-RIF.MeM-APPRONTAMENTO-28_05_2026.pdf?rlkey=qz415hgdmn3lv3yyf63rzyv91&dl=0?raw=1",
+                  "dimensione_kb": 56,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE 1ID202600019557_N0002162 RIF.MeM APPRONTAMENTO 28_05_2026.pdf"
                 },
                 {
                   "nome": "IDEAM INOX CONFERMA ORDINE1ID202600014048_N0001536 RIF. NERA .pdf",
@@ -186414,12 +186406,12 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX CONFERMA ORDINE1ID202600014048_N0001536 RIF. NERA .pdf"
                 },
                 {
-                  "nome": "IDEAM INOX Ordine dacquisto_260061_20260428_171537 RIF.MeM.pdf",
+                  "nome": "IDEAM INOX Ordine dacquisto_260061_20260428_171537 RIF. MeM.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/gvxzqtzsizn7bclqnhk7r/IDEAM-INOX-Ordine-dacquisto_260061_20260428_171537-RIF.MeM.pdf?rlkey=0700pwhrmidvme852x20wio4n&dl=0?raw=1",
+                  "link": "https://www.dropbox.com/scl/fi/gvxzqtzsizn7bclqnhk7r/IDEAM-INOX-Ordine-dacquisto_260061_20260428_171537-RIF.-MeM.pdf?rlkey=0700pwhrmidvme852x20wio4n&dl=0?raw=1",
                   "dimensione_kb": 73,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX Ordine dacquisto_260061_20260428_171537 RIF.MeM.pdf"
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/IDEAM INOX Ordine dacquisto_260061_20260428_171537 RIF. MeM.pdf"
                 },
                 {
                   "nome": "IFI CONFERMA ORDINE 26000883 RIF.TERMINAL_CENTRALINA_MURALE.pdf",
@@ -186734,7 +186726,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 79
+              "_totale_file": 78
             },
             {
               "nome": "ARCHIVIO",
@@ -216293,7 +216285,7 @@
                   "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.MARATEA SERVIZI.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/n5v48yxrllq06l8d2uqk6/MODULAR-CONFERMA-MD_SaleOrdForm_2022-RIF.MARATEA-SERVIZI.pdf?rlkey=7enpgos7p2emt1pk1ko10bk8x&dl=0?raw=1",
                   "dimensione_kb": 128,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.MARATEA SERVIZI.pdf"
                 },
@@ -216741,8 +216733,33 @@
               "_totale_file": 3468
             }
           ],
-          "file": [],
-          "_totale_file": 3547
+          "file": [
+            {
+              "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0003154-00-27042026 RIF.FA TU INTEGRAZIONE TAVOLO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s8jp0k4jutovsweky4dmt/IDEAM-INOX-CONFERMA-CLI-PREVEN-0003154-00-27042026-RIF.FA-TU-INTEGRAZIONE-TAVOLO.pdf?rlkey=bga0suoe52jkw3yzrjcav7alt&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA CLI-PREVEN-0003154-00-27042026 RIF.FA TU INTEGRAZIONE TAVOLO.pdf"
+            },
+            {
+              "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600014049_N0001537 RIF. FA TU.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/na0ntfkslnzm8w6x7vcgr/IDEAM-INOX-CONFERMA-ORDINE-1ID202600014049_N0001537-RIF.-FA-TU.pdf?rlkey=9au67gbn5k0wsr6tg7oopsjm1&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600014049_N0001537 RIF. FA TU.pdf"
+            },
+            {
+              "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600014322_N0001563 RIF. VELARDI .pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9w21nj1e62kswzxyjdr57/IDEAM-INOX-CONFERMA-ORDINE-1ID202600014322_N0001563-RIF.-VELARDI.pdf?rlkey=bk5akkqyindrek8yeu6ih7k8x&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600014322_N0001563 RIF. VELARDI .pdf"
+            }
+          ],
+          "_totale_file": 3549
         }
       ],
       "file": []
