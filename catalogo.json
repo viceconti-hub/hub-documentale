@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-06T08:24:23Z",
-  "totale_file": 24714,
+  "generato": "2026-05-07T01:10:02Z",
+  "totale_file": 24716,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -63911,7 +63911,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7069,
+      "totale_file": 7071,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -111266,6 +111266,14 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/PANIFICIO OLIVA/PANIFICIO OLIVA AREA TECNICA/MINIPACK TORRE PANIFICIO OLIVA/MINIPACK FM111001_0 Libretto FM75-76scE.pdf"
                         },
                         {
+                          "nome": "MINIPACK PANIFICIO OLIVA VIDEO DEL 6_05_2026.mp4",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/g2tw3s7qgfs4ueqdsj0ic/MINIPACK-PANIFICIO-OLIVA-VIDEO-DEL-6_05_2026.mp4?rlkey=qvjpmo0pefe0l55bqpj6jj8sg&dl=0?raw=1",
+                          "dimensione_kb": 5373,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/PANIFICIO OLIVA/PANIFICIO OLIVA AREA TECNICA/MINIPACK TORRE PANIFICIO OLIVA/MINIPACK PANIFICIO OLIVA VIDEO DEL 6_05_2026.mp4"
+                        },
+                        {
                           "nome": "MINIPACK TORRE PANIFICIO OLIVA DATI MACCHINA.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -111274,11 +111282,11 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/PANIFICIO OLIVA/PANIFICIO OLIVA AREA TECNICA/MINIPACK TORRE PANIFICIO OLIVA/MINIPACK TORRE PANIFICIO OLIVA DATI MACCHINA.jpeg"
                         }
                       ],
-                      "_totale_file": 3
+                      "_totale_file": 4
                     }
                   ],
                   "file": [],
-                  "_totale_file": 3
+                  "_totale_file": 4
                 }
               ],
               "file": [
@@ -111315,7 +111323,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/PANIFICIO OLIVA/plutone.pdf"
                 }
               ],
-              "_totale_file": 7
+              "_totale_file": 8
             },
             {
               "nome": "PASTICCERIA CICCIU'",
@@ -113983,7 +113991,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 686
+          "_totale_file": 687
         },
         {
           "nome": "RIMINI",
@@ -121767,7 +121775,7 @@
                   "nome": "ALTANA DICHIARAZIONE BENI NUOVI DI FABBRICA VICECONTI SNC 23_04_2023.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/gmk72p7m09gs7yibglzln/ALTANA-DICHIARAZIONE-BENI-NUOVI-DI-FABBRICA-VICECONTI-SNC-23_04_2023.pdf?rlkey=38v3q8ox3ocrsorbssok6fqbb&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 210,
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/ALTANA/ALTANA DICHIARAZIONE BENI NUOVI DI FABBRICA VICECONTI SNC 23_04_2023.pdf"
                 },
@@ -122168,7 +122176,7 @@
                           "nome": "3ea69862-549b-4308-9fa7-709e0e5e1882.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/voutsbwwz3forxae38hkc/3ea69862-549b-4308-9fa7-709e0e5e1882.jpg?rlkey=n5i8j96ynda1jjrdcbrauskuf&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 102,
                           "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/3ea69862-549b-4308-9fa7-709e0e5e1882.jpg"
                         },
@@ -122281,7 +122289,7 @@
                   "nome": "Fattura di vendita_2400710_20241009_112856.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/mfdcsqxo1vdw1qbfyyufy/Fattura-di-vendita_2400710_20241009_112856.pdf?rlkey=3d56m0m76kj6wjbrsf9voqtsx&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 71,
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/Fattura di vendita_2400710_20241009_112856.pdf"
                 },
@@ -123083,13 +123091,21 @@
                       "link": "https://www.dropbox.com/scl/fi/l18a9znz48twa949tdnuh/360.Elenco-Attrezzature-Passion-Sushi-v2.docx?rlkey=ox0g2c41fbutu4vkfgwzjn9tp&dl=0?raw=1",
                       "dimensione_kb": 60,
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/PASSION SUSHI PROGETTO APRILE 2026/360.Elenco Attrezzature Passion Sushi v2.docx"
+                    },
+                    {
+                      "nome": "BELLADONNA BELAI PREVENTIVO ORIGINALE A CLIENTE.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/r20jtv9i36tfb3ry1dinu/BELLADONNA-BELAI-PREVENTIVO-ORIGINALE-A-CLIENTE.jpg?rlkey=al8z0jg4bymtyycmnexiqxxnk&dl=0?raw=1",
+                      "dimensione_kb": 194,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/PASSION SUSHI PROGETTO APRILE 2026/BELLADONNA BELAI PREVENTIVO ORIGINALE A CLIENTE.jpg"
                     }
                   ],
-                  "_totale_file": 27
+                  "_totale_file": 28
                 }
               ],
               "file": [],
-              "_totale_file": 27
+              "_totale_file": 28
             },
             {
               "nome": "VE.RO SRLS",
@@ -123287,7 +123303,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 170
+          "_totale_file": 171
         },
         {
           "nome": "SARCONI",
