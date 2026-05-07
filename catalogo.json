@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-07T06:13:36Z",
-  "totale_file": 24719,
+  "generato": "2026-05-07T08:17:48Z",
+  "totale_file": 24720,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176367,7 +176367,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4756,
+      "totale_file": 4757,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -186150,6 +186150,14 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "ARISTARCO Ordine dacquisto_260062_20260506_163802 RIF.MeM BASAMENTO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/erfbwlnc4selqsq99c5gb/ARISTARCO-Ordine-dacquisto_260062_20260506_163802-RIF.MeM-BASAMENTO.pdf?rlkey=f2sc7xx5jc34ryi75zavn53lg&dl=0?raw=1",
+                  "dimensione_kb": 69,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ARISTARCO Ordine dacquisto_260062_20260506_163802 RIF.MeM BASAMENTO.pdf"
+                },
+                {
                   "nome": "ARRIS Ordine dacquisto_260005_20260129_103254.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -186674,7 +186682,7 @@
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/p75b1vui3vyffpgqyaaii/SIRMAN-CONFERMA-ORDINE-RIF.-ARTE-DOLCIARIA_PLUTONE-10.pdf?rlkey=9frlp4tzrmpjpuro8mi2resf9&dl=0?raw=1",
-                  "dimensione_kb": 67,
+                  "dimensione_kb": 78,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/SIRMAN CONFERMA ORDINE RIF. ARTE DOLCIARIA_PLUTONE 10.pdf"
                 },
                 {
@@ -186774,7 +186782,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/APERTI/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 }
               ],
-              "_totale_file": 78
+              "_totale_file": 79
             },
             {
               "nome": "ARCHIVIO",
@@ -216807,7 +216815,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600014322_N0001563 RIF. VELARDI .pdf"
             }
           ],
-          "_totale_file": 3549
+          "_totale_file": 3550
         }
       ],
       "file": []
