@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-07T01:10:02Z",
-  "totale_file": 24716,
+  "generato": "2026-05-07T06:13:36Z",
+  "totale_file": 24719,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5620,
+      "totale_file": 5623,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -2509,6 +2509,38 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_05_06 AGRITURISMO LA CAPPELLINA VETRINE IFI",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_05_06 AGRITURISMO LA CAPPELLINA VETRINE IFI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "LA CAPPELLINA Offerta di vendita_260143_20260506_121308 VETRINA MIX 150 VETRI BASSI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1dfa9zj9xf87pvkcb260v/LA-CAPPELLINA-Offerta-di-vendita_260143_20260506_121308-VETRINA-MIX-150-VETRI-BASSI.pdf?rlkey=tucrf4sj3o2qbox8noprziu63&dl=0?raw=1",
+                  "dimensione_kb": 85,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_05_06 AGRITURISMO LA CAPPELLINA VETRINE IFI/LA CAPPELLINA Offerta di vendita_260143_20260506_121308 VETRINA MIX 150 VETRI BASSI.pdf"
+                },
+                {
+                  "nome": "LA CAPPELLINA Offerta di vendita_260144_20260506_122636 VETRINA MIX 150 VETRI ALTI E MENSOLA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zytwoakuwg06bvbyk4ifo/LA-CAPPELLINA-Offerta-di-vendita_260144_20260506_122636-VETRINA-MIX-150-VETRI-ALTI-E-MENSOLA.pdf?rlkey=8h18u46w29oswwrl43z9d8hwb&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_05_06 AGRITURISMO LA CAPPELLINA VETRINE IFI/LA CAPPELLINA Offerta di vendita_260144_20260506_122636 VETRINA MIX 150 VETRI ALTI E MENSOLA.pdf"
+                },
+                {
+                  "nome": "LA CAPPELLINA Offerta di vendita_260145_20260506_123230 VETRINA FORCAR CORNETTI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oxlpx3e6t66qgixqgumwo/LA-CAPPELLINA-Offerta-di-vendita_260145_20260506_123230-VETRINA-FORCAR-CORNETTI.pdf?rlkey=tqla1vb7kg1ow6trc76ccy6su&dl=0?raw=1",
+                  "dimensione_kb": 85,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_05_06 AGRITURISMO LA CAPPELLINA VETRINE IFI/LA CAPPELLINA Offerta di vendita_260145_20260506_123230 VETRINA FORCAR CORNETTI.pdf"
+                }
+              ],
+              "_totale_file": 3
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -58643,7 +58675,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5440
+          "_totale_file": 5443
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -148520,6 +148552,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/ARCHIVIO/CUPPONE_LISTINO_01-2019.pdf"
                 },
                 {
+                  "nome": "CUPPONE_LISTINO_2024_compressed (1).pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/b56fs47dht59y0ogdz887/CUPPONE_LISTINO_2024_compressed-1.pdf?rlkey=p2xpsm2gzfbgbfjvp04mky7ul&dl=0?raw=1",
+                  "dimensione_kb": 15920,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/ARCHIVIO/CUPPONE_LISTINO_2024_compressed (1).pdf"
+                },
+                {
                   "nome": "CUPPONE_LISTINO_N01_2020.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -148566,9 +148606,17 @@
                   "link": "https://www.dropbox.com/scl/fi/0aaxnuozvczk8jsdgfh96/Gmail-Nuovo-Listino-Cuppone-validit-1-Settembre-2022-Chiusura-Estiva.pdf?rlkey=fxnf0vtk46yzc743dckxx0pf5&dl=0?raw=1",
                   "dimensione_kb": 123,
                   "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/ARCHIVIO/Gmail - Nuovo Listino Cuppone validità 1 Settembre 2022 - Chiusura Estiva.pdf"
+                },
+                {
+                  "nome": "MAIL LISTINO 2024.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/43ba8qn50rdvsieqf2gaj/MAIL-LISTINO-2024.PDF?rlkey=y4rqihip7dopz1lnx1p4v9x35&dl=0?raw=1",
+                  "dimensione_kb": 50,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/ARCHIVIO/MAIL LISTINO 2024.PDF"
                 }
               ],
-              "_totale_file": 9
+              "_totale_file": 11
             },
             {
               "nome": "CUPPONE ESPLOSI SILEA DA REPA",
@@ -148701,28 +148749,12 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/CUPPONE_CATALOGO_2025_compressed.pdf"
             },
             {
-              "nome": "CUPPONE_LISTINO_2024_compressed (1).pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/b56fs47dht59y0ogdz887/CUPPONE_LISTINO_2024_compressed-1.pdf?rlkey=p2xpsm2gzfbgbfjvp04mky7ul&dl=0?raw=1",
-              "dimensione_kb": 15920,
-              "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/CUPPONE_LISTINO_2024_compressed (1).pdf"
-            },
-            {
               "nome": "CUPPONE_LISTINO_2025_compressed.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/mng2jobecdr0tnnadlz1h/CUPPONE_LISTINO_2025_compressed.pdf?rlkey=wss66d5pkfyx19wec66a4jsgq&dl=0?raw=1",
               "dimensione_kb": 12541,
               "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/CUPPONE_LISTINO_2025_compressed.pdf"
-            },
-            {
-              "nome": "MAIL LISTINO 2024.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/43ba8qn50rdvsieqf2gaj/MAIL-LISTINO-2024.PDF?rlkey=y4rqihip7dopz1lnx1p4v9x35&dl=0?raw=1",
-              "dimensione_kb": 50,
-              "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/MAIL LISTINO 2024.PDF"
             },
             {
               "nome": "Relazione transizione 4.0 CR-GT-LN-ML.PDF",
@@ -160947,7 +160979,7 @@
                           "nome": "MC11-4.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/uvht04mfwri3imbcy6i62/MC11-4.pdf?rlkey=s5kd5vtda8szpplqhiqutc1jz&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 53,
                           "path": "/HUB DOCUMENTALE/FORNITORI/GRUPPO CIMBALI FAEMA/FAEMA AREA TECNICA/MACINADOSATORI/Md MC90 (MC11 4-MC14 3)/MC11-4.pdf"
                         },
