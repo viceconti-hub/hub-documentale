@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-07T08:17:48Z",
-  "totale_file": 24720,
+  "generato": "2026-05-07T09:24:09Z",
+  "totale_file": 24721,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -216824,7 +216824,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2340,
+      "totale_file": 2341,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -237821,6 +237821,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/SCARDINO Dettaglio bonifico istantaneo DEL 4_05_2026.pdf"
                 },
                 {
+                  "nome": "SIRMAN Dettaglio bonifico istantaneo DEL 06_05_2026pdf.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fmxjiej63a9ndfouqaeho/SIRMAN-Dettaglio-bonifico-istantaneo-DEL-06_05_2026pdf.pdf?rlkey=y8fo2g75fl4kongtpncpmtewf&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/SIRMAN Dettaglio bonifico istantaneo DEL 06_05_2026pdf.pdf"
+                },
+                {
                   "nome": "SIRMAN Dettaglio bonifico istantaneo DEL 13_04_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -237893,11 +237901,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
                 }
               ],
-              "_totale_file": 72
+              "_totale_file": 73
             }
           ],
           "file": [],
-          "_totale_file": 2320
+          "_totale_file": 2321
         }
       ],
       "file": []
