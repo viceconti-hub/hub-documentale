@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-07T09:39:40Z",
-  "totale_file": 24721,
+  "generato": "2026-05-08T00:13:39Z",
+  "totale_file": 24723,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -63943,7 +63943,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7071,
+      "totale_file": 7073,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -94259,7 +94259,7 @@
                           "tipo": "PDF",
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/xpsqst057nmu3oc7yttza/CUCINA-ZANUSSI-SCHEDA-TECNICA-EVO900-6-Burner-Gas-Boiling-Top_392033_Italian.pdf?rlkey=xg5do89m6fptp461zfhe6nklc&dl=0?raw=1",
-                          "dimensione_kb": 231,
+                          "dimensione_kb": 235,
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/CUCINA 6 FUOCHI ZANUSSI LINEA 90/CUCINA ZANUSSI SCHEDA TECNICA EVO900 6-Burner Gas Boiling Top_392033_Italian.pdf"
                         }
                       ],
@@ -94282,6 +94282,22 @@
                       "_totale_file": 1
                     },
                     {
+                      "nome": "CUOCIPASTA ZANUSSI EVO 900 ANNO 2025",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/CUOCIPASTA ZANUSSI EVO 900 ANNO 2025",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "Cuocipasta a gas ZANUSSI SCHEDA TECNICA codice 392111.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/wi9l203ysc7jr65unobuv/Cuocipasta-a-gas-ZANUSSI-SCHEDA-TECNICA-codice-392111.pdf?rlkey=7ah3rxr1pxzjabt3r92um3ffy&dl=0?raw=1",
+                          "dimensione_kb": 237,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/CUOCIPASTA ZANUSSI EVO 900 ANNO 2025/Cuocipasta a gas ZANUSSI SCHEDA TECNICA codice 392111.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "FRIGGITRICE ZANUSSI",
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/FRIGGITRICE ZANUSSI",
                       "cartelle": [],
@@ -94293,6 +94309,22 @@
                           "link": "https://www.dropbox.com/scl/fi/c2hypr8b21z0oehvbuhtx/e2fa4944-bc2e-49cd-a2c9-7877f7e67b38.pdf?rlkey=wxd7rrzprrw35n9xlcotu3t4a&dl=0?raw=1",
                           "dimensione_kb": 114,
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/FRIGGITRICE ZANUSSI/e2fa4944-bc2e-49cd-a2c9-7877f7e67b38.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "FRIGGITRICE ZANUSSI EVO 900 ANNO 2025",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/FRIGGITRICE ZANUSSI EVO 900 ANNO 2025",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "FRIGGITRICE ZANUSSI 2 VASCHE 23 LITRI SCHEDA TECNICA 392332_Italian.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/65d0wcooc3d45yxx4u1uc/FRIGGITRICE-ZANUSSI-2-VASCHE-23-LITRI-SCHEDA-TECNICA-392332_Italian.pdf?rlkey=s0yx9a28onysqtiwgittvc0zh&dl=0?raw=1",
+                          "dimensione_kb": 303,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/FRIGGITRICE ZANUSSI EVO 900 ANNO 2025/FRIGGITRICE ZANUSSI 2 VASCHE 23 LITRI SCHEDA TECNICA 392332_Italian.pdf"
                         }
                       ],
                       "_totale_file": 1
@@ -94427,7 +94459,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 17
+                  "_totale_file": 19
                 },
                 {
                   "nome": "DE FILIPPO ROCCO DOCUMENTAZIONE 4.0",
@@ -94728,7 +94760,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/modello dichiarazione sost. I4.0.docx"
                 }
               ],
-              "_totale_file": 50
+              "_totale_file": 52
             },
             {
               "nome": "DIMAC",
@@ -101226,7 +101258,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 889
+          "_totale_file": 891
         },
         {
           "nome": "MARCELLINA",
@@ -121807,7 +121839,7 @@
                   "nome": "ALTANA DICHIARAZIONE BENI NUOVI DI FABBRICA VICECONTI SNC 23_04_2023.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/gmk72p7m09gs7yibglzln/ALTANA-DICHIARAZIONE-BENI-NUOVI-DI-FABBRICA-VICECONTI-SNC-23_04_2023.pdf?rlkey=38v3q8ox3ocrsorbssok6fqbb&dl=0?raw=1",
                   "dimensione_kb": 210,
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/ALTANA/ALTANA DICHIARAZIONE BENI NUOVI DI FABBRICA VICECONTI SNC 23_04_2023.pdf"
                 },
@@ -122208,7 +122240,7 @@
                           "nome": "3ea69862-549b-4308-9fa7-709e0e5e1882.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/voutsbwwz3forxae38hkc/3ea69862-549b-4308-9fa7-709e0e5e1882.jpg?rlkey=n5i8j96ynda1jjrdcbrauskuf&dl=0?raw=1",
                           "dimensione_kb": 102,
                           "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE AREA TECNICA/MACCHINA CAFFE FAEMA X20 CP10 MILK PS/3ea69862-549b-4308-9fa7-709e0e5e1882.jpg"
                         },
@@ -122321,7 +122353,7 @@
                   "nome": "Fattura di vendita_2400710_20241009_112856.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/mfdcsqxo1vdw1qbfyyufy/Fattura-di-vendita_2400710_20241009_112856.pdf?rlkey=3d56m0m76kj6wjbrsf9voqtsx&dl=0?raw=1",
                   "dimensione_kb": 71,
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/Fattura di vendita_2400710_20241009_112856.pdf"
                 },
