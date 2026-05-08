@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-08T09:47:46Z",
-  "totale_file": 24719,
+  "generato": "2026-05-08T12:04:10Z",
+  "totale_file": 24721,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62458,7 +62458,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 168,
+      "totale_file": 170,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -63839,6 +63839,22 @@
           "link": "https://www.dropbox.com/scl/fi/dul7ifcn709x7e4vn73mu/COLDLINE-PACKING-LIST-DEL-01-04-2026_260019_20260401_103937.pdf?rlkey=wqj5d5b1xo1vs26t4ztmoik2v&dl=0?raw=1",
           "dimensione_kb": 76,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf"
+        },
+        {
+          "nome": "FA TU Ordine cliente_260120_20260508_135228.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/igg7fl0k8tpztknd1501x/FA-TU-Ordine-cliente_260120_20260508_135228.pdf?rlkey=0svegrl96crq5c4ohi3o3czf8&dl=0?raw=1",
+          "dimensione_kb": 73,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU Ordine cliente_260120_20260508_135228.pdf"
+        },
+        {
+          "nome": "IL LUCANO Ordine cliente_260128_20260508_135432.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/29le9ct6o0fqwytl39073/IL-LUCANO-Ordine-cliente_260128_20260508_135432.pdf?rlkey=i571raxvcgc44z6ra19235ual&dl=0?raw=1",
+          "dimensione_kb": 71,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/IL LUCANO Ordine cliente_260128_20260508_135432.pdf"
         },
         {
           "nome": "Lista articoli MORINI SAP 02_05_2026.csv",
