@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-08T12:09:09Z",
-  "totale_file": 24721,
+  "generato": "2026-05-09T15:00:12Z",
+  "totale_file": 24725,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62458,7 +62458,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 170,
+      "totale_file": 174,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62488,6 +62488,47 @@
               "link": "https://www.dropbox.com/scl/fi/ndyhez70ipg2hy2gondk9/ZINCO-GROUP-IMALA-CONFERMA-VICECONTI.pdf?rlkey=vwjcnkm7sfztovt986cz58wy1&dl=0?raw=1",
               "dimensione_kb": 631,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/10_04_2026/ZINCO GROUP IMALA CONFERMA VICECONTI.pdf"
+            }
+          ],
+          "_totale_file": 3
+        },
+        {
+          "nome": "510.SINTESI_RIEPILOGHI_COWORK",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK",
+          "cartelle": [
+            {
+              "nome": ".claude",
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/.claude",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "settings.local.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/jv5n0l420gxw0j9f68wn8/settings.local.json?rlkey=ra7kim858edd3rv2ogccbg183&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/.claude/settings.local.json"
+                }
+              ],
+              "_totale_file": 1
+            }
+          ],
+          "file": [
+            {
+              "nome": "index.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/e267ayz072qvnn2s93096/index.html?rlkey=52rfpmyfaga3gloesvoz6cmir&dl=0?raw=1",
+              "dimensione_kb": 11,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/index.html"
+            },
+            {
+              "nome": "index.json",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/y8zyvoywjqxhv00w94rhh/index.json?rlkey=69g0ptd7fmn98gfmwrrqpph0h&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/index.json"
             }
           ],
           "_totale_file": 3
@@ -63847,6 +63888,14 @@
           "link": "https://www.dropbox.com/scl/fi/igg7fl0k8tpztknd1501x/FA-TU-Ordine-cliente_260120_20260508_135228.pdf?rlkey=0svegrl96crq5c4ohi3o3czf8&dl=0?raw=1",
           "dimensione_kb": 73,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU Ordine cliente_260120_20260508_135228.pdf"
+        },
+        {
+          "nome": "GRAN SOLE Consegna_260264_20260509_115418.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/dmwjkxcbh6n36l889m2w7/GRAN-SOLE-Consegna_260264_20260509_115418.pdf?rlkey=bj8dlx0ljqafbfyadak6ljheb&dl=0?raw=1",
+          "dimensione_kb": 56,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/GRAN SOLE Consegna_260264_20260509_115418.pdf"
         },
         {
           "nome": "IL LUCANO Ordine cliente_260128_20260508_135432.pdf",
