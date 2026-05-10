@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-10T06:18:59Z",
-  "totale_file": 24742,
+  "generato": "2026-05-10T08:22:16Z",
+  "totale_file": 24745,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176528,7 +176528,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4758,
+      "totale_file": 4761,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -186203,6 +186203,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/Fattura da fornitore SCARDINO per correzione registrazione.txt"
             },
             {
+              "nome": "ISTRUZIONI_CLAUDE_CODE_FATTURE_ACQUISTI.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/5smlxosiud6tjy6o0mwwo/ISTRUZIONI_CLAUDE_CODE_FATTURE_ACQUISTI.md?rlkey=vmb6tklplccd3jv00pv7rzbgo&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ISTRUZIONI_CLAUDE_CODE_FATTURE_ACQUISTI.md"
+            },
+            {
+              "nome": "ISTRUZIONI_REGISTRAZIONE_COMPLETA.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/t4z267vgkzgvvwogkewgb/ISTRUZIONI_REGISTRAZIONE_COMPLETA.md?rlkey=f7qte83a0uzvu8qexjneoxdd5&dl=0?raw=1",
+              "dimensione_kb": 10,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/ISTRUZIONI_REGISTRAZIONE_COMPLETA.md"
+            },
+            {
               "nome": "Indice_Fornitori_SAP.xlsx",
               "tipo": "Excel",
               "icona": "📊",
@@ -186233,9 +186249,17 @@
               "link": "https://www.dropbox.com/scl/fi/8vukzfnqw8dto47g1m1p0/Report_Finale_Automazione_Fatture_29-03-2026.docx?rlkey=jbfhy3gkl8k8hfkrzsswptb6l&dl=0?raw=1",
               "dimensione_kb": 17,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/Report_Finale_Automazione_Fatture_29-03-2026.docx"
+            },
+            {
+              "nome": "WORKFLOW_REGISTRAZIONE_FATTURE.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/kgbr36oiopjxzixtu1i99/WORKFLOW_REGISTRAZIONE_FATTURE.md?rlkey=ksg3qf2i5zdldcm4jlvge3cqy&dl=0?raw=1",
+              "dimensione_kb": 10,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE/WORKFLOW_REGISTRAZIONE_FATTURE.md"
             }
           ],
-          "_totale_file": 1164
+          "_totale_file": 1167
         },
         {
           "nome": "OFFERTE DI ACQUISTO",
@@ -197351,7 +197375,7 @@
                           "nome": "BREMA CONFERMA Ordini_di_Vendi_31279 RIF. VIRGILIO-ANNULLATO.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/wi06s0qd3pcm3ge9n3u03/BREMA-CONFERMA-Ordini_di_Vendi_31279-RIF.-VIRGILIO-ANNULLATO.pdf?rlkey=uhhuz6ffwto6rjbyhr2najikb&dl=0?raw=1",
                           "dimensione_kb": 356,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO/BREMA ORDINI D'ACQUISTO/ARCHIVIO BREMA ODINI D'ACQUISTO/BREMA CONFERMA Ordini_di_Vendi_31279 RIF. VIRGILIO-ANNULLATO.pdf"
                         },
