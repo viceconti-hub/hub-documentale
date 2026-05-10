@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-10T09:44:55Z",
-  "totale_file": 24745,
+  "generato": "2026-05-10T15:19:52Z",
+  "totale_file": 24746,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62466,7 +62466,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 191,
+      "totale_file": 192,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62545,6 +62545,14 @@
               "link": "https://www.dropbox.com/scl/fi/6jpty65sjfb6arfjpdgwy/CALENDAR-RIEPILOGO.md?rlkey=kwpaxtnswwrqipw9t6p5h9vlt&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/CALENDAR RIEPILOGO.md"
+            },
+            {
+              "nome": "CODE CHAT PER ARCHIVIAZIONE DOCUMENTI TEST SU ORDINI CLIENTI 10_05_2026.txt",
+              "tipo": "Testo",
+              "icona": "📃",
+              "link": "https://www.dropbox.com/scl/fi/awkrsw0fphzvq6ke41bl3/CODE-CHAT-PER-ARCHIVIAZIONE-DOCUMENTI-TEST-SU-ORDINI-CLIENTI-10_05_2026.txt?rlkey=c1se96zbjwn5i7vv0j57zant9&dl=0?raw=1",
+              "dimensione_kb": 0,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/CODE CHAT PER ARCHIVIAZIONE DOCUMENTI TEST SU ORDINI CLIENTI 10_05_2026.txt"
             },
             {
               "nome": "DATABASE CENTRALIZZATO RIEPILOGO.md",
@@ -62675,7 +62683,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/n8n RIEPILOGO.md"
             }
           ],
-          "_totale_file": 20
+          "_totale_file": 21
         },
         {
           "nome": "CAMPOLEROSE CANTIERE APRILE 2026",
