@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-09T15:34:35Z",
-  "totale_file": 24742,
+  "generato": "2026-05-10T00:13:54Z",
+  "totale_file": 24743,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -64087,7 +64087,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7073,
+      "totale_file": 7074,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -123063,16 +123063,25 @@
                                   "_totale_file": 1
                                 }
                               ],
-                              "file": [],
-                              "_totale_file": 1
+                              "file": [
+                                {
+                                  "nome": "SKILL.md",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/vat3pwx0thxho18ffddn3/SKILL.md?rlkey=qymjz8r1toc3864ty23rj0yxu&dl=0?raw=1",
+                                  "dimensione_kb": 4,
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/PASSION SUSHI PROGETTO APRILE 2026/.claude/skills/branding/SKILL.md"
+                                }
+                              ],
+                              "_totale_file": 2
                             }
                           ],
                           "file": [],
-                          "_totale_file": 1
+                          "_totale_file": 2
                         }
                       ],
                       "file": [],
-                      "_totale_file": 1
+                      "_totale_file": 2
                     },
                     {
                       "nome": "ARCHIVIO",
@@ -123309,11 +123318,11 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/PASSION SUSHI PROGETTO APRILE 2026/BELLADONNA BELAI PREVENTIVO ORIGINALE A CLIENTE.jpg"
                     }
                   ],
-                  "_totale_file": 28
+                  "_totale_file": 29
                 }
               ],
               "file": [],
-              "_totale_file": 28
+              "_totale_file": 29
             },
             {
               "nome": "VE.RO SRLS",
@@ -123511,7 +123520,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 171
+          "_totale_file": 172
         },
         {
           "nome": "SARCONI",
