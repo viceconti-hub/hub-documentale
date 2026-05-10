@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-10T02:34:20Z",
-  "totale_file": 24741,
+  "generato": "2026-05-10T06:18:59Z",
+  "totale_file": 24742,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5618,
+      "totale_file": 5619,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -704,6 +704,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/IT016417907022025H_0bGN9_RC_002.xml"
             },
             {
+              "nome": "Invoice_2600097.json",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/hcexnafeg6qdx6eaoehit/Invoice_2600097.json?rlkey=mkztu6lecwwxgklbgj28at4v8&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/Invoice_2600097.json"
+            },
+            {
               "nome": "JOEL Fattura di vendita_2600009_20260216_115805.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1120,7 +1128,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VILLA TERRY Fattura di vendita_2600010_20260216_130203.pdf"
             }
           ],
-          "_totale_file": 122
+          "_totale_file": 123
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -2549,6 +2557,22 @@
                 }
               ],
               "_totale_file": 3
+            },
+            {
+              "nome": "2026_05_08 INGROIA",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_05_08 INGROIA",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "220AFCEPR_3f0f2cea-ce18-4dd6-a149-7f2f94f04192.webp",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/z9f4f8te92tljietsvp2r/220AFCEPR_3f0f2cea-ce18-4dd6-a149-7f2f94f04192.webp?rlkey=cm2kk7hasp5dk6542m29r57ya&dl=0?raw=1",
+                  "dimensione_kb": 39,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/2026_05_08 INGROIA/220AFCEPR_3f0f2cea-ce18-4dd6-a149-7f2f94f04192.webp"
+                }
+              ],
+              "_totale_file": 1
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -8028,71 +8052,6 @@
                       "_totale_file": 1
                     },
                     {
-                      "nome": "CAMPING INTERNATIONAL",
-                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CAMPING INTERNATIONAL",
-                      "cartelle": [
-                        {
-                          "nome": "LAINO DONATELLA",
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CAMPING INTERNATIONAL/LAINO DONATELLA",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "TECNODOM LISTINO 2013 SALINA 80.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/tspi0xk7fhdxxfnqudg8f/TECNODOM-LISTINO-2013-SALINA-80.pdf?rlkey=o3hrklhbp6gbdp1d3uqtwfzcy&dl=0?raw=1",
-                              "dimensione_kb": 2093,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CAMPING INTERNATIONAL/LAINO DONATELLA/TECNODOM LISTINO 2013 SALINA 80.pdf"
-                            },
-                            {
-                              "nome": "TECNODOM LISTINO 2013 VULCANO 60.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/gkegr8ke4jrq94a7vsno3/TECNODOM-LISTINO-2013-VULCANO-60.pdf?rlkey=flqegmpeajcn2229x394i47d4&dl=0?raw=1",
-                              "dimensione_kb": 1152,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CAMPING INTERNATIONAL/LAINO DONATELLA/TECNODOM LISTINO 2013 VULCANO 60.pdf"
-                            },
-                            {
-                              "nome": "TECNODOM LISTINO VULCANO 80.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/d2tlc1duj3xi9vthizzq3/TECNODOM-LISTINO-VULCANO-80.pdf?rlkey=f5u95gkicqref3ssuneojm5l5&dl=0?raw=1",
-                              "dimensione_kb": 1316,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CAMPING INTERNATIONAL/LAINO DONATELLA/TECNODOM LISTINO VULCANO 80.pdf"
-                            }
-                          ],
-                          "_totale_file": 3
-                        }
-                      ],
-                      "file": [
-                        {
-                          "nome": "Offerta di vendita_LAINOCM150.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/mn3o3naaw2kms9a5d5o88/Offerta-di-vendita_LAINOCM150.pdf?rlkey=75binswwbzenqr4pun7yioj9g&dl=0?raw=1",
-                          "dimensione_kb": 65,
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CAMPING INTERNATIONAL/Offerta di vendita_LAINOCM150.pdf"
-                        },
-                        {
-                          "nome": "Offerta di vendita_LAINOCM200.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/146ysyad5jemmop3v72j5/Offerta-di-vendita_LAINOCM200.pdf?rlkey=0rv0yvqpq5nmzgpuztj5haugf&dl=0?raw=1",
-                          "dimensione_kb": 65,
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CAMPING INTERNATIONAL/Offerta di vendita_LAINOCM200.pdf"
-                        },
-                        {
-                          "nome": "Offerta di vendita_laino_international.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/z47uhlkl5bcow97lhhvao/Offerta-di-vendita_laino_international.pdf?rlkey=1inazbhu34wcaof5kcauqg5ea&dl=0?raw=1",
-                          "dimensione_kb": 63,
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CAMPING INTERNATIONAL/Offerta di vendita_laino_international.pdf"
-                        }
-                      ],
-                      "_totale_file": 6
-                    },
-                    {
                       "nome": "CANONICO IMPASTATRICE",
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CANONICO IMPASTATRICE",
                       "cartelle": [],
@@ -12449,7 +12408,7 @@
                               "nome": "Offerta di vendita_200311_20200616_184902.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/33tmhps56zks5u9yri8j2/Offerta-di-vendita_200311_20200616_184902.pdf?rlkey=9pa22c7k6iqzn2o6dgj7acbjt&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 70,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/Offerta di vendita_200311_20200616_184902.pdf"
                             },
@@ -13094,7 +13053,7 @@
                           "nome": "2019_05_14_COOLHEAD_04_FREEZER_SENZA-PREZZI.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/kglqns4thlheedonezs88/2019_05_14_COOLHEAD_04_FREEZER_SENZA-PREZZI.pdf?rlkey=t08e0jbz0p1jnfgp6o15bo1qg&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 217,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DI ABBATE MARCO/2019_05_14_COOLHEAD_04_FREEZER_SENZA-PREZZI.pdf"
                         },
@@ -28266,7 +28225,7 @@
                           "nome": "FIMAR_Listino_19_20.pdf TRAFILE.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/9dpahrg6zaaqdamxh6ngw/FIMAR_Listino_19_20.pdf-TRAFILE.pdf?rlkey=5zmn1pr6dwtaybr845low0llm&dl=0?raw=1",
                           "dimensione_kb": 671,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/TERMINE/FIMAR_Listino_19_20.pdf TRAFILE.pdf"
                         },
@@ -29762,6 +29721,71 @@
                           "_totale_file": 3
                         },
                         {
+                          "nome": "CAMPING INTERNATIONAL",
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/offerte clienti/CAMPING INTERNATIONAL",
+                          "cartelle": [
+                            {
+                              "nome": "LAINO DONATELLA",
+                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/offerte clienti/CAMPING INTERNATIONAL/LAINO DONATELLA",
+                              "cartelle": [],
+                              "file": [
+                                {
+                                  "nome": "TECNODOM LISTINO 2013 SALINA 80.pdf",
+                                  "tipo": "PDF",
+                                  "icona": "📄",
+                                  "link": "https://www.dropbox.com/scl/fi/bp7jk0c224ib9t4urlm14/TECNODOM-LISTINO-2013-SALINA-80.pdf?rlkey=qloxtab6y2ikospiuu3kvb67e&dl=0?raw=1",
+                                  "dimensione_kb": 2093,
+                                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/offerte clienti/CAMPING INTERNATIONAL/LAINO DONATELLA/TECNODOM LISTINO 2013 SALINA 80.pdf"
+                                },
+                                {
+                                  "nome": "TECNODOM LISTINO 2013 VULCANO 60.pdf",
+                                  "tipo": "PDF",
+                                  "icona": "📄",
+                                  "link": "https://www.dropbox.com/scl/fi/5kih5sh3twi7y9tn4qo8p/TECNODOM-LISTINO-2013-VULCANO-60.pdf?rlkey=nv37oef0q0ewr6d4zehlfovf6&dl=0?raw=1",
+                                  "dimensione_kb": 1152,
+                                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/offerte clienti/CAMPING INTERNATIONAL/LAINO DONATELLA/TECNODOM LISTINO 2013 VULCANO 60.pdf"
+                                },
+                                {
+                                  "nome": "TECNODOM LISTINO VULCANO 80.pdf",
+                                  "tipo": "PDF",
+                                  "icona": "📄",
+                                  "link": "https://www.dropbox.com/scl/fi/kwpig8hyksyp20d5u3o1m/TECNODOM-LISTINO-VULCANO-80.pdf?rlkey=ldccckjktyvzujcwb8lfaf8le&dl=0?raw=1",
+                                  "dimensione_kb": 1316,
+                                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/offerte clienti/CAMPING INTERNATIONAL/LAINO DONATELLA/TECNODOM LISTINO VULCANO 80.pdf"
+                                }
+                              ],
+                              "_totale_file": 3
+                            }
+                          ],
+                          "file": [
+                            {
+                              "nome": "Offerta di vendita_LAINOCM150.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/ohuhzgrnmy5b7ucri41ao/Offerta-di-vendita_LAINOCM150.pdf?rlkey=7258sn90t3t27b202mpb84shl&dl=0?raw=1",
+                              "dimensione_kb": 65,
+                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/offerte clienti/CAMPING INTERNATIONAL/Offerta di vendita_LAINOCM150.pdf"
+                            },
+                            {
+                              "nome": "Offerta di vendita_LAINOCM200.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/1vc5xt6k0707wpdvtvj2t/Offerta-di-vendita_LAINOCM200.pdf?rlkey=zbdwf07uddfb385gglnegdlwr&dl=0?raw=1",
+                              "dimensione_kb": 65,
+                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/offerte clienti/CAMPING INTERNATIONAL/Offerta di vendita_LAINOCM200.pdf"
+                            },
+                            {
+                              "nome": "Offerta di vendita_laino_international.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/wcv920disrq20m8n51vb0/Offerta-di-vendita_laino_international.pdf?rlkey=449mc7x4wx27dm893d8hsv47l&dl=0?raw=1",
+                              "dimensione_kb": 63,
+                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/offerte clienti/CAMPING INTERNATIONAL/Offerta di vendita_laino_international.pdf"
+                            }
+                          ],
+                          "_totale_file": 6
+                        },
+                        {
                           "nome": "CAOS OFFERTA PRODUTTORE +",
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/offerte clienti/CAOS OFFERTA PRODUTTORE +",
                           "cartelle": [],
@@ -29804,7 +29828,7 @@
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/offerte clienti/GIARDINI DEGLI DEI OFFERTA RICAMBIO.pdf"
                         }
                       ],
-                      "_totale_file": 12
+                      "_totale_file": 18
                     }
                   ],
                   "file": [
@@ -31432,22 +31456,6 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/BISCOTTIFICIO CAUCCI",
                   "cartelle": [
                     {
-                      "nome": "BISCOTTIFICIO CAUCCI CELLA DI LIEVITAZIONE",
-                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/BISCOTTIFICIO CAUCCI/BISCOTTIFICIO CAUCCI CELLA DI LIEVITAZIONE",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "BISCOTTIFICIO CAUCCI Offerta di vendita_220691_20221019_164927.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/vfu14gfz17scql663p3pp/BISCOTTIFICIO-CAUCCI-Offerta-di-vendita_220691_20221019_164927.pdf?rlkey=23pqnreb56p73yfx9l6z9kje1&dl=0?raw=1",
-                          "dimensione_kb": 82,
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/BISCOTTIFICIO CAUCCI/BISCOTTIFICIO CAUCCI CELLA DI LIEVITAZIONE/BISCOTTIFICIO CAUCCI Offerta di vendita_220691_20221019_164927.pdf"
-                        }
-                      ],
-                      "_totale_file": 1
-                    },
-                    {
                       "nome": "BISCOTTIFICIO CAUCCI CELLE",
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/BISCOTTIFICIO CAUCCI/BISCOTTIFICIO CAUCCI CELLE",
                       "cartelle": [],
@@ -31546,7 +31554,7 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Fino al 2025_12_31 ARCHIVIO OFFERTE/BISCOTTIFICIO CAUCCI/J160-2M.pdf"
                     }
                   ],
-                  "_totale_file": 11
+                  "_totale_file": 10
                 },
                 {
                   "nome": "BISCOTTIFICIO CAUCCI RUOTE FORNO ROTOR",
@@ -58614,7 +58622,7 @@
                 }
               ],
               "file": [],
-              "_totale_file": 5305
+              "_totale_file": 5304
             }
           ],
           "file": [],
