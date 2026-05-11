@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-11T00:38:31Z",
-  "totale_file": 24747,
+  "generato": "2026-05-11T02:44:25Z",
+  "totale_file": 24749,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -134589,7 +134589,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4346,
+      "totale_file": 4348,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -142175,7 +142175,7 @@
                       "nome": "I PASTICCI DI WALTER PRIVACY.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/e6i4j2k3qr8ckha2s3ono/I-PASTICCI-DI-WALTER-PRIVACY.pdf?rlkey=4kvd6d1w197qxkbpdd5fgw6xn&dl=0?raw=1",
                       "dimensione_kb": 1217,
                       "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/LAURIA/I PASTICCI DI WALTER COMPASS MAGGIO 2025/I PASTICCI DI WALTER PRIVACY.pdf"
                     },
@@ -172814,7 +172814,7 @@
               "nome": "Listino Refrigeratori 2023 Gennaio.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/bztjmb2t97dqwr4p1kn54/Listino-Refrigeratori-2023-Gennaio.pdf?rlkey=bjvag8ikn3n7g27gkn88wrmi1&dl=0?raw=1",
               "dimensione_kb": 85,
               "path": "/HUB DOCUMENTALE/FORNITORI/TECNOCRIO/Listino Refrigeratori 2023 Gennaio.pdf"
             },
@@ -172822,7 +172822,7 @@
               "nome": "TECNOCRIO_ Condizioni di vendita 2020.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/rqzx00x6w5pt19cc6ppt8/TECNOCRIO_-Condizioni-di-vendita-2020.pdf?rlkey=jaovg4v0pt1z35ejercz1mw26&dl=0?raw=1",
               "dimensione_kb": 24,
               "path": "/HUB DOCUMENTALE/FORNITORI/TECNOCRIO/TECNOCRIO_ Condizioni di vendita 2020.pdf"
             }
@@ -173182,7 +173182,7 @@
                       "nome": "PREZZI ARMADI PERFEKT.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/n7km488ipfff6qy2ioicu/PREZZI-ARMADI-PERFEKT.pdf?rlkey=0mosemensx8vea1tlisibr4gu&dl=0?raw=1",
                       "dimensione_kb": 80,
                       "path": "/HUB DOCUMENTALE/FORNITORI/TECNODOM/ARCHIVIO/TECNODOM LISTINI 2023/PREZZI ARMADI PERFEKT.pdf"
                     },
@@ -174308,6 +174308,22 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/TRASPORTATORI/ARCHIVIO",
               "cartelle": [
                 {
+                  "nome": "25_05_2020 LAINO",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/TRASPORTATORI/ARCHIVIO/25_05_2020 LAINO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FORNITORI INDIRIZZI.xlsx.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/bww4olg9yzas02n77cs7s/FORNITORI-INDIRIZZI.xlsx.pdf?rlkey=bfoze1effrlji69asly3y38uw&dl=0?raw=1",
+                      "dimensione_kb": 34,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/TRASPORTATORI/ARCHIVIO/25_05_2020 LAINO/FORNITORI INDIRIZZI.xlsx.pdf"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
                   "nome": "RITIRI APRILE 2019",
                   "path": "/HUB DOCUMENTALE/FORNITORI/TRASPORTATORI/ARCHIVIO/RITIRI APRILE 2019",
                   "cartelle": [],
@@ -174454,7 +174470,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/TRASPORTATORI/ARCHIVIO/RITIRO CUPPONE.pdf"
                 }
               ],
-              "_totale_file": 15
+              "_totale_file": 16
             },
             {
               "nome": "AUTORIZZAZIONI RITIRO",
@@ -174523,7 +174539,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/TRASPORTATORI/VICECONTI SNC - COMPENSAZIONE AL 13.07.2022.pdf"
             }
           ],
-          "_totale_file": 20
+          "_totale_file": 21
         },
         {
           "nome": "TULS Neutro",
@@ -176289,6 +176305,22 @@
                 }
               ],
               "_totale_file": 13
+            },
+            {
+              "nome": "ZANUSSI SCHEDE TECNICHE ARTICOLI TOP",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ZANUSSI/ZANUSSI SCHEDE TECNICHE ARTICOLI TOP",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ZANUSSI Frigo digitale 670 lt, 1 porta, -2+10°C, AISI 304, gas R290.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0jlzowycecbliakc6xpot/ZANUSSI-Frigo-digitale-670-lt-1-porta-2-10-C-AISI-304-gas-R290.pdf?rlkey=fr2pojgprzdp47by8h4gib88o&dl=0?raw=1",
+                  "dimensione_kb": 274,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ZANUSSI/ZANUSSI SCHEDE TECNICHE ARTICOLI TOP/ZANUSSI Frigo digitale 670 lt, 1 porta, -2+10°C, AISI 304, gas R290.pdf"
+                }
+              ],
+              "_totale_file": 1
             }
           ],
           "file": [
@@ -176373,7 +176405,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ZANUSSI/SPX_Spare Parts Campaign_1_1_2021_Catalistino_ELux_prezzi_CST.pdf"
             }
           ],
-          "_totale_file": 39
+          "_totale_file": 40
         },
         {
           "nome": "ZINCO GROUP",
