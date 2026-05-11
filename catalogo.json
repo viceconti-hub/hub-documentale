@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-11T05:35:51Z",
-  "totale_file": 24584,
+  "generato": "2026-05-11T10:58:50Z",
+  "totale_file": 24585,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61147,7 +61147,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 193,
+      "totale_file": 194,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62137,7 +62137,7 @@
               "nome": "MODULO_7077_12_04_2026.html",
               "tipo": "File",
               "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/qnkiqmomb3uyk5f8as69i/MODULO_7077_12_04_2026.html?rlkey=6fyl6d17ajjrxinc16o4nsf0p&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 2,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7077_12_04_2026.html"
             },
@@ -62706,6 +62706,14 @@
         }
       ],
       "file": [
+        {
+          "nome": "COLDLINE C16600001001-C - Manuale a corredo Balance 11_05_2026.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/7ehkrqam1f66ut82zuitc/COLDLINE-C16600001001-C-Manuale-a-corredo-Balance-11_05_2026.pdf?rlkey=m3luye1xivm7sixl6mv8eztqb&dl=0?raw=1",
+          "dimensione_kb": 20378,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/COLDLINE C16600001001-C - Manuale a corredo Balance 11_05_2026.pdf"
+        },
         {
           "nome": "COLDLINE PACKING LIST DEL 01 04 2026_260019_20260401_103937.pdf",
           "tipo": "PDF",
