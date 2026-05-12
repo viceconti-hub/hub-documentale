@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-12T08:00:02Z",
-  "totale_file": 24583,
+  "generato": "2026-05-12T08:55:13Z",
+  "totale_file": 24587,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61360,7 +61360,7 @@
               "tipo": "File",
               "icona": "📎",
               "link": "https://www.dropbox.com/scl/fi/ije94knya900i2zeorurt/SINTESI-ECOSISTEMA-VICECONTI-RIEPILOGO.md?rlkey=fmpl2bdwww96fgwvuzkcfx6ts&dl=0?raw=1",
-              "dimensione_kb": 39,
+              "dimensione_kb": 34,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/SINTESI ECOSISTEMA VICECONTI RIEPILOGO.md"
             },
             {
@@ -62169,7 +62169,7 @@
               "nome": "MODULO_7077_12_04_2026.html",
               "tipo": "File",
               "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/qnkiqmomb3uyk5f8as69i/MODULO_7077_12_04_2026.html?rlkey=6fyl6d17ajjrxinc16o4nsf0p&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 2,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/MODULI ATTIVITA' APERTE/MODULO_7077_12_04_2026.html"
             },
@@ -215721,7 +215721,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2341,
+      "totale_file": 2345,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -235630,6 +235630,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FIMEL Dettaglio bonifico istantaneo DEL 11_02_2026.pdf"
                 },
                 {
+                  "nome": "FIMEL Dettaglio bonifico istantaneo DEL 12_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mk7pudr8xbpoa4f1yoep7/FIMEL-Dettaglio-bonifico-istantaneo-DEL-12_05_2026.pdf?rlkey=xds03655qgwpl3tpm33bghn0r&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FIMEL Dettaglio bonifico istantaneo DEL 12_05_2026.pdf"
+                },
+                {
                   "nome": "FIMEL Dettaglio bonifico istantaneo DEL 23_02_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -236206,7 +236214,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ZMATIK Dettaglio bonifico istantaneo DEL 22_09_2025.pdf"
                 }
               ],
-              "_totale_file": 2248
+              "_totale_file": 2249
             },
             {
               "nome": "DA REGISTRARE IN SAP",
@@ -236220,6 +236228,14 @@
                   "link": "https://www.dropbox.com/scl/fi/2o6o1a2rmsuut4rfdec73/AMETRANO-BONIFICO-ISTANTANEO-SMART-CBI-Firma-DEL-16_04_2026.pdf?rlkey=waixmygpd2zgggkcy0ybua60x&dl=0?raw=1",
                   "dimensione_kb": 2,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/AMETRANO BONIFICO ISTANTANEO SMART CBI - Firma DEL 16_04_2026.pdf"
+                },
+                {
+                  "nome": "ARISTARCO Dettaglio bonifico istantaneo DEL 12_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/c2d2k5k4lis98nd3sg4f9/ARISTARCO-Dettaglio-bonifico-istantaneo-DEL-12_05_2026.pdf?rlkey=q3f1iew3j5qgqr3rft82qfyy1&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/ARISTARCO Dettaglio bonifico istantaneo DEL 12_05_2026.pdf"
                 },
                 {
                   "nome": "ARISTARCO Dettaglio bonifico istantaneo DEL 16_04_2026.pdf",
@@ -236244,6 +236260,14 @@
                   "link": "https://www.dropbox.com/scl/fi/5klsapnvtamzco3oi96bv/ARTINOX-Dettaglio-bonifico-istantaneo-DEL-20_04_2026.pdf?rlkey=62rcta1q53yaz85em4xlmv2ip&dl=0?raw=1",
                   "dimensione_kb": 108,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/ARTINOX Dettaglio bonifico istantaneo DEL 20_04_2026.pdf"
+                },
+                {
+                  "nome": "BRT Dettaglio bonifico istantaneo DEL 12_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/45t75ufu5aaainbkomqt3/BRT-Dettaglio-bonifico-istantaneo-DEL-12_05_2026.pdf?rlkey=rl336k76octcjcmclbmoghz5e&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/BRT Dettaglio bonifico istantaneo DEL 12_05_2026.pdf"
                 },
                 {
                   "nome": "CASELLA GIUSEPPE Dettaglio bonifico istantaneo 9_04_2026.pdf",
@@ -236342,12 +236366,12 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/CUPPONE Dettaglio bonifico istantaneo DEL 22_04_2026.pdf"
                 },
                 {
-                  "nome": "DE LUCA COPIA TITOLO INTESA SCADENZA 30_06_2026.jpeg",
+                  "nome": "DE LUCA COPIA TITOLO INTESA SCADENZA 30_06_2026 FC.jpeg",
                   "tipo": "Immagine",
                   "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/j57gr3b3ja786eejkszz9/DE-LUCA-COPIA-TITOLO-INTESA-SCADENZA-30_06_2026.jpeg?rlkey=v5u4ene3j6gykgfapyci5ffkw&dl=0?raw=1",
+                  "link": "https://www.dropbox.com/scl/fi/j57gr3b3ja786eejkszz9/DE-LUCA-COPIA-TITOLO-INTESA-SCADENZA-30_06_2026-FC.jpeg?rlkey=v5u4ene3j6gykgfapyci5ffkw&dl=0?raw=1",
                   "dimensione_kb": 106,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/DE LUCA COPIA TITOLO INTESA SCADENZA 30_06_2026.jpeg"
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/DE LUCA COPIA TITOLO INTESA SCADENZA 30_06_2026 FC.jpeg"
                 },
                 {
                   "nome": "De Michele Alejandro s.a.s. Dettaglio bonifico DEL 13_04_2026.pdf",
@@ -236494,6 +236518,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/IDEAM INOX COPIA TITOLO INTESA SCADENZA 31_01_2026.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX COPIA TITOLO INTESA SCADENZA 31_07_2026 FC.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3so2byt8o7c8v3xkhc4x1/IDEAM-INOX-COPIA-TITOLO-INTESA-SCADENZA-31_07_2026-FC.pdf?rlkey=kjaixv8y9fnwek9w3x3jjzwtu&dl=0?raw=1",
+                  "dimensione_kb": 718,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/IDEAM INOX COPIA TITOLO INTESA SCADENZA 31_07_2026 FC.pdf"
+                },
+                {
                   "nome": "IDEAM INOX COPIA TITOLO MPS SCADENZA 30_01_2026 - 28_02_2026.pdf.jpg",
                   "tipo": "Immagine",
                   "icona": "🖼️",
@@ -236622,12 +236654,12 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/MODULAR COPIA TITOLI BRT 26_11_2025.pdf"
                 },
                 {
-                  "nome": "MODULAR COPIA TITOLO INTESA CO 26_02641 Scansione 28 apr 2026, 08.38.pdf",
+                  "nome": "MODULAR COPIA TITOLO INTESA CO 26_02641 Scansione 28 apr 2026, 08.38 FC.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/2balhtykeupr2htmen7j0/MODULAR-COPIA-TITOLO-INTESA-CO-26_02641-Scansione-28-apr-2026-08.38.pdf?rlkey=rc37le3o95wpyttcvqfmp7bbz&dl=0?raw=1",
+                  "link": "https://www.dropbox.com/scl/fi/2balhtykeupr2htmen7j0/MODULAR-COPIA-TITOLO-INTESA-CO-26_02641-Scansione-28-apr-2026-08.38-FC.pdf?rlkey=rc37le3o95wpyttcvqfmp7bbz&dl=0?raw=1",
                   "dimensione_kb": 690,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/MODULAR COPIA TITOLO INTESA CO 26_02641 Scansione 28 apr 2026, 08.38.pdf"
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/MODULAR COPIA TITOLO INTESA CO 26_02641 Scansione 28 apr 2026, 08.38 FC.pdf"
                 },
                 {
                   "nome": "MODULAR Dettaglio bonifico istantaneo DEL 14_04_2026.pdf",
@@ -236798,11 +236830,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
                 }
               ],
-              "_totale_file": 73
+              "_totale_file": 76
             }
           ],
           "file": [],
-          "_totale_file": 2321
+          "_totale_file": 2325
         }
       ],
       "file": []
