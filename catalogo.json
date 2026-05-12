@@ -1,20 +1,28 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-12T02:14:56Z",
-  "totale_file": 24586,
+  "generato": "2026-05-12T05:47:38Z",
+  "totale_file": 24590,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5454,
+      "totale_file": 5458,
       "cartelle": [
         {
           "nome": "CONSEGNE",
           "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE",
           "cartelle": [],
           "file": [
+            {
+              "nome": "DIMAC SRL Consegna_260266_20260511_201939 RIF. DETERGENTE RATIONAL ROSSO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vwvhfcs2hnwevygvdzhri/DIMAC-SRL-Consegna_260266_20260511_201939-RIF.-DETERGENTE-RATIONAL-ROSSO.pdf?rlkey=uwbliw504rtsse5k1avfegtt3&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DIMAC SRL Consegna_260266_20260511_201939 RIF. DETERGENTE RATIONAL ROSSO.pdf"
+            },
             {
               "nome": "GRAN SOLE S.r.l. Consegna_260264_20260510_123412.pdf",
               "tipo": "PDF",
@@ -24,13 +32,21 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260264_20260510_123412.pdf"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 2
         },
         {
           "nome": "OFFERTE DI VENDITA",
           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA",
           "cartelle": [],
           "file": [
+            {
+              "nome": "DA SPECIFICARE Offerta di vendita_260149_20260511_184212.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ovcqhhtjha3c9bcr6uace/DA-SPECIFICARE-Offerta-di-vendita_260149_20260511_184212.pdf?rlkey=rwltigcrwp4zwiaogx3sewnv1&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260149_20260511_184212.pdf"
+            },
             {
               "nome": "INGROIA ANTONIO Offerta di vendita_260148_20260510_123348.pdf",
               "tipo": "PDF",
@@ -40,7 +56,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/INGROIA ANTONIO Offerta di vendita_260148_20260510_123348.pdf"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 2
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -57627,12 +57643,28 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "CALA DEL CITRO S.R.L.S. Ordine cliente_250769_20260510_212540.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8lobnwzgu4l1lf8ly5hxg/CALA-DEL-CITRO-S.R.L.S.-Ordine-cliente_250769_20260510_212540.pdf?rlkey=etjj1sag3hvm64q8dxp7xthbm&dl=0?raw=1",
+              "dimensione_kb": 86,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CALA DEL CITRO S.R.L.S. Ordine cliente_250769_20260510_212540.pdf"
+            },
+            {
               "nome": "CHALET BOSCO DIFESA di GIOIA NATALE Ordine cliente_260131_20260510_191141 RIF. IMPASTATRICE FIMAR 25 KG.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/c00uktjn3dlbr04ed8176/CHALET-BOSCO-DIFESA-di-GIOIA-NATALE-Ordine-cliente_260131_20260510_191141-RIF.-IMPASTATRICE-FIMAR-25-KG.pdf?rlkey=4rd0vdmevebgf8rw1uf1xpxbj&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHALET BOSCO DIFESA di GIOIA NATALE Ordine cliente_260131_20260510_191141 RIF. IMPASTATRICE FIMAR 25 KG.pdf"
+            },
+            {
+              "nome": "DIMAC SRL Ordine cliente_260135_20260511_201925.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tl7um257j91fqeyu6ei6l/DIMAC-SRL-Ordine-cliente_260135_20260511_201925.pdf?rlkey=wyl3zo0benrtputkfkbxridn4&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DIMAC SRL Ordine cliente_260135_20260511_201925.pdf"
             },
             {
               "nome": "IL LUCANO SRLS Ordine cliente_260128_20260510_191200 RIF. COPERCHIO POLIPROPILENE.pdf",
@@ -57667,12 +57699,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/OCTO SRLS Ordine cliente_260001_20260510_210215 RIF. prova.pdf"
             },
             {
-              "nome": "SANTOS SRL Ordine cliente_260134_20260510_191116 RIF. BACK BAR.pdf",
+              "nome": "SANTOS SRL Ordine cliente_260134_20260511_190325 RIF. BACK BAR.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hw6n7h9v4se2rcjl503n0/SANTOS-SRL-Ordine-cliente_260134_20260510_191116-RIF.-BACK-BAR.pdf?rlkey=al072fctd3za6pn0do0tlxtd2&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/6d27p5qehplrpl7qx7pqe/SANTOS-SRL-Ordine-cliente_260134_20260511_190325-RIF.-BACK-BAR.pdf?rlkey=so0zd34bzuq2cn1levw7svnvi&dl=0?raw=1",
               "dimensione_kb": 70,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SANTOS SRL Ordine cliente_260134_20260510_191116 RIF. BACK BAR.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SANTOS SRL Ordine cliente_260134_20260511_190325 RIF. BACK BAR.pdf"
             },
             {
               "nome": "TURIST CALABRIA SRL LA MANTINERA Ordine cliente_260133_20260510_191124 RIF. DETERGENTE RATIONAL VERDE.pdf",
@@ -57683,7 +57715,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/TURIST CALABRIA SRL LA MANTINERA Ordine cliente_260133_20260510_191124 RIF. DETERGENTE RATIONAL VERDE.pdf"
             }
           ],
-          "_totale_file": 7
+          "_totale_file": 9
         }
       ],
       "file": []
