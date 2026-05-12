@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-12T00:17:29Z",
-  "totale_file": 24585,
+  "generato": "2026-05-12T02:14:56Z",
+  "totale_file": 24586,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -133278,7 +133278,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4348,
+      "totale_file": 4349,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -139779,6 +139779,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/COLDLINE ABBATTITORE MODI UP W5U 60X40.pdf"
                 },
                 {
+                  "nome": "COLDLINE C16600001001-C - Manuale a corredo Balance 11_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gov408fz6aluyff2c072e/COLDLINE-C16600001001-C-Manuale-a-corredo-Balance-11_05_2026.pdf?rlkey=9yv4t4cflnecxlx4mkhzaphal&dl=0?raw=1",
+                  "dimensione_kb": 20378,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/COLDLINE C16600001001-C - Manuale a corredo Balance 11_05_2026.pdf"
+                },
+                {
                   "nome": "COLDLINE SCHEDA ARMADIO SMART 1400 -2+8.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -139923,7 +139931,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/manuale_vetrine_5_lingue.pdf"
                 }
               ],
-              "_totale_file": 19
+              "_totale_file": 20
             },
             {
               "nome": "Documenti inviati per App",
@@ -140257,7 +140265,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/wetransfer_01-w5-w6-firmware-v124_2025-07-21_0753.zip"
             }
           ],
-          "_totale_file": 109
+          "_totale_file": 110
         },
         {
           "nome": "COLDMARK",
