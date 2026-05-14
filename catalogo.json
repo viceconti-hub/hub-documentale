@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-12T09:14:52Z",
-  "totale_file": 24587,
+  "generato": "2026-05-14T00:20:19Z",
+  "totale_file": 24596,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62832,7 +62832,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7074,
+      "totale_file": 7083,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -67645,6 +67645,54 @@
               "_totale_file": 1
             },
             {
+              "nome": "TENUTA LAGALA ARNALDO",
+              "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA LAGALA ARNALDO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "AHT FOTO 1.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/5oq3da3ga1ggc75544w3z/AHT-FOTO-1.jpeg?rlkey=0y4ca5xnd9sicwu9vuphow70m&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA LAGALA ARNALDO/AHT FOTO 1.jpeg"
+                },
+                {
+                  "nome": "AHT FOTO 2.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/j207sjrssduxw43gmzjqv/AHT-FOTO-2.jpeg?rlkey=nat3hdnewewnj8t0iiwdvwbnq&dl=0?raw=1",
+                  "dimensione_kb": 113,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA LAGALA ARNALDO/AHT FOTO 2.jpeg"
+                },
+                {
+                  "nome": "AHT FOTO 3.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/0xfo29zsrkpidww7zg1fn/AHT-FOTO-3.jpeg?rlkey=du7bso59vve3cpdbbblxsojff&dl=0?raw=1",
+                  "dimensione_kb": 147,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA LAGALA ARNALDO/AHT FOTO 3.jpeg"
+                },
+                {
+                  "nome": "AHT FOTO 4.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/x412uubbojgqclials12t/AHT-FOTO-4.jpeg?rlkey=kkjyf7j7514sf208ki9qxy8xb&dl=0?raw=1",
+                  "dimensione_kb": 201,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA LAGALA ARNALDO/AHT FOTO 4.jpeg"
+                },
+                {
+                  "nome": "AHT FOTO 5.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/76uzn5awym39a5ilf42xu/AHT-FOTO-5.jpeg?rlkey=bor61m4cdn4kb5yb4by6u0dr7&dl=0?raw=1",
+                  "dimensione_kb": 33,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA LAGALA ARNALDO/AHT FOTO 5.jpeg"
+                }
+              ],
+              "_totale_file": 5
+            },
+            {
               "nome": "TENUTA PETRABIANCA",
               "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA PETRABIANCA",
               "cartelle": [
@@ -67904,7 +67952,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/Granocielo SRL Consegna_260145_20260326_192810.pdf"
             }
           ],
-          "_totale_file": 273
+          "_totale_file": 278
         },
         {
           "nome": "COSENZA",
@@ -68838,7 +68886,7 @@
                       "nome": "CENTRAL MARKET FT 180034 DEL 31 GEN 2018.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/nebf2iz4x2gyqp90o31cb/CENTRAL-MARKET-FT-180034-DEL-31-GEN-2018.pdf?rlkey=py0zet96o1cdnex1dxuaxl8ub&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 64,
                       "path": "/HUB DOCUMENTALE/CLIENTI/DA ARCHIVIARE/FATTURE VENDITA ARCHIVIO/ARCHIVIO FATTURE VENDITA/CENTRAL MARKET FT 180034 DEL 31 GEN 2018.pdf"
                     },
@@ -90465,7 +90513,7 @@
                       "nome": "09 Isola Vetrata VT200 GREEN EMOTION matr. 2130F007069 Vista Esterna.jpeg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/foeuw3f1yueavprcuysq2/09-Isola-Vetrata-VT200-GREEN-EMOTION-matr.-2130F007069-Vista-Esterna.jpeg?rlkey=as786xchgpv1f65bv2t42mtka&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 74,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VIRGILIO SRL/Foto VIRGILIO/09 Isola Vetrata VT200 GREEN EMOTION matr. 2130F007069 Vista Esterna.jpeg"
                     },
@@ -99371,6 +99419,22 @@
               "_totale_file": 5
             },
             {
+              "nome": "RISTORANTE SANTA LUCIA",
+              "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/RISTORANTE SANTA LUCIA",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "GRIGLIA A PIETRA LAVICA MODULAR SCHEDA TECNICA MODELLO R90-80GRLI-P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hfa7rceyql0wifv47mtkn/GRIGLIA-A-PIETRA-LAVICA-MODULAR-SCHEDA-TECNICA-MODELLO-R90-80GRLI-P.pdf?rlkey=7xyegzz8uza1jh7a88rhsn26c&dl=0?raw=1",
+                  "dimensione_kb": 111,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/RISTORANTE SANTA LUCIA/GRIGLIA A PIETRA LAVICA MODULAR SCHEDA TECNICA MODELLO R90-80GRLI-P.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
               "nome": "RISTORANTE ZA' MARIUCCIA",
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/RISTORANTE ZA' MARIUCCIA",
               "cartelle": [
@@ -100026,6 +100090,38 @@
                     }
                   ],
                   "_totale_file": 25
+                },
+                {
+                  "nome": "VELARDI PIAZZA EUROPA FORNITURA ARREDO INOX MAGGIO 2026",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI PIAZZA EUROPA FORNITURA ARREDO INOX MAGGIO 2026",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "VELARDI ELENCO ATTREZZATURE FORNITURA MAGGIO 2026.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/5wbqvvfyifl2tznby0191/VELARDI-ELENCO-ATTREZZATURE-FORNITURA-MAGGIO-2026.pdf?rlkey=0g1x22e8c7cm8cj4e17vj1ogb&dl=0?raw=1",
+                      "dimensione_kb": 56,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI PIAZZA EUROPA FORNITURA ARREDO INOX MAGGIO 2026/VELARDI ELENCO ATTREZZATURE FORNITURA MAGGIO 2026.pdf"
+                    },
+                    {
+                      "nome": "VELARDI PIAZZA EUROPA PRIMA SOLUZIONE DEL CLIENTE Tavoli in acciaio Viceconti.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/34o9057599lvyf8mpk0jr/VELARDI-PIAZZA-EUROPA-PRIMA-SOLUZIONE-DEL-CLIENTE-Tavoli-in-acciaio-Viceconti.pdf?rlkey=4qe3yh8w9nrvmeabiu05jvcou&dl=0?raw=1",
+                      "dimensione_kb": 175,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI PIAZZA EUROPA FORNITURA ARREDO INOX MAGGIO 2026/VELARDI PIAZZA EUROPA PRIMA SOLUZIONE DEL CLIENTE Tavoli in acciaio Viceconti.pdf"
+                    },
+                    {
+                      "nome": "VELARDI PIAZZA EUROPA SOLUZIONE DEFINITIVA POSIZIONE LAVELLO.jpeg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/dox6506o9c4z1oe63w108/VELARDI-PIAZZA-EUROPA-SOLUZIONE-DEFINITIVA-POSIZIONE-LAVELLO.jpeg?rlkey=lxi68i0yj73wb9tdi805ha8m7&dl=0?raw=1",
+                      "dimensione_kb": 53,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI PIAZZA EUROPA FORNITURA ARREDO INOX MAGGIO 2026/VELARDI PIAZZA EUROPA SOLUZIONE DEFINITIVA POSIZIONE LAVELLO.jpeg"
+                    }
+                  ],
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -100134,7 +100230,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI SITUAZIONE AL 17_05_2022.pdf"
                 }
               ],
-              "_totale_file": 38
+              "_totale_file": 41
             }
           ],
           "file": [
@@ -100147,7 +100243,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 891
+          "_totale_file": 895
         },
         {
           "nome": "MARCELLINA",
