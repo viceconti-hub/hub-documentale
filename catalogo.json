@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-14T02:16:42Z",
-  "totale_file": 24596,
+  "generato": "2026-05-14T04:55:17Z",
+  "totale_file": 24611,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5458,
+      "totale_file": 5473,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -16,12 +16,20 @@
           "cartelle": [],
           "file": [
             {
-              "nome": "DIMAC SRL Consegna_260266_20260511_201939 RIF. DETERGENTE RATIONAL ROSSO.pdf",
+              "nome": "3AM SRL HOTEL MARTINO Consegna_260265_20260511_202534.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/vwvhfcs2hnwevygvdzhri/DIMAC-SRL-Consegna_260266_20260511_201939-RIF.-DETERGENTE-RATIONAL-ROSSO.pdf?rlkey=uwbliw504rtsse5k1avfegtt3&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/tnqoy5s0vva660aikqo6b/3AM-SRL-HOTEL-MARTINO-Consegna_260265_20260511_202534.pdf?rlkey=k7cmekrz38r4hdd3kukdzggeb&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/3AM SRL HOTEL MARTINO Consegna_260265_20260511_202534.pdf"
+            },
+            {
+              "nome": "DIMAC SRL Consegna_260266_20260512_100144 RIF. DETERGENTE RATIONAL ROSSO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/x451jt2m5jc7fiyfudzjz/DIMAC-SRL-Consegna_260266_20260512_100144-RIF.-DETERGENTE-RATIONAL-ROSSO.pdf?rlkey=x7vyb6i2w0mz9d0mecx57tdj4&dl=0?raw=1",
               "dimensione_kb": 50,
-              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DIMAC SRL Consegna_260266_20260511_201939 RIF. DETERGENTE RATIONAL ROSSO.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DIMAC SRL Consegna_260266_20260512_100144 RIF. DETERGENTE RATIONAL ROSSO.pdf"
             },
             {
               "nome": "GRAN SOLE S.r.l. Consegna_260264_20260510_123412.pdf",
@@ -30,9 +38,25 @@
               "link": "https://www.dropbox.com/scl/fi/b4bijfausyz95s0yp0wu8/GRAN-SOLE-S.r.l.-Consegna_260264_20260510_123412.pdf?rlkey=9h2nbk1scg1hy333xjptk5e2d&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260264_20260510_123412.pdf"
+            },
+            {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260268_20260513_112936 RIF. DETERGENTE LAVABAR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/avlk6wujyoxq6hkb0ujrr/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Consegna_260268_20260513_112936-RIF.-DETERGENTE-LAVABAR.pdf?rlkey=o8hbn51ge9c1lpigk2mm5ieud&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260268_20260513_112936 RIF. DETERGENTE LAVABAR.pdf"
+            },
+            {
+              "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260267_20260512_101043 RIF. TAGLIO PER IMPERIA E ADATTATORE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0qsj5h6w16730plwhd5dc/I-SAPORI-DI-MARIANNA-TRATTORIA-E-CUCINA-D-ASPORTO-DI-PEZZULLO-MARIANNA-Consegna_260267_20260512_101043-RIF.-TAGLIO-PER-IMPERIA-E-ADATTATORE.pdf?rlkey=9b4hjo1o06igr4oxqxrk1l12f&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260267_20260512_101043 RIF. TAGLIO PER IMPERIA E ADATTATORE.pdf"
             }
           ],
-          "_totale_file": 2
+          "_totale_file": 5
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -48,15 +72,63 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260149_20260511_184212.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Offerta di vendita_260152_20260513_124128 RIF. TAVOLOLO CON VASCA INCASSATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sjl0xm1lbjzprp5xpcvs8/DA-SPECIFICARE-Offerta-di-vendita_260152_20260513_124128-RIF.-TAVOLOLO-CON-VASCA-INCASSATA.pdf?rlkey=49fvwag8xcioad3rwdffrjy6t&dl=0?raw=1",
+              "dimensione_kb": 80,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260152_20260513_124128 RIF. TAVOLOLO CON VASCA INCASSATA.pdf"
+            },
+            {
+              "nome": "DA SPECIFICARE Offerta di vendita_260155_20260513_124140 RIF. TAVOLO COLDLINE 3 SPORTELLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dt24ovoei8dtoa9mqahmn/DA-SPECIFICARE-Offerta-di-vendita_260155_20260513_124140-RIF.-TAVOLO-COLDLINE-3-SPORTELLI.pdf?rlkey=hh0h5wl9b4qakxqnpfni3552a&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260155_20260513_124140 RIF. TAVOLO COLDLINE 3 SPORTELLI.pdf"
+            },
+            {
+              "nome": "DA SPECIFICARE Offerta di vendita_260156_20260513_124247 RIF. TAVOLO COLDLINE 2 SPORTELLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fytee8ms2g4qcu2ap8o8c/DA-SPECIFICARE-Offerta-di-vendita_260156_20260513_124247-RIF.-TAVOLO-COLDLINE-2-SPORTELLI.pdf?rlkey=9j1fwz7d6mi46t3kpg5eqyzew&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260156_20260513_124247 RIF. TAVOLO COLDLINE 2 SPORTELLI.pdf"
+            },
+            {
               "nome": "INGROIA ANTONIO Offerta di vendita_260148_20260510_123348.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/0psar36rwq09722hmiql9/INGROIA-ANTONIO-Offerta-di-vendita_260148_20260510_123348.pdf?rlkey=z209m3ph2ly2z8ffedr109tnu&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/INGROIA ANTONIO Offerta di vendita_260148_20260510_123348.pdf"
+            },
+            {
+              "nome": "LIDO POINT BREAK Offerta di vendita_260151_20260513_123123 RIF. TAVOLOLO CON VASCA INCASSATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lftw4e44w9scoiwr78xae/LIDO-POINT-BREAK-Offerta-di-vendita_260151_20260513_123123-RIF.-TAVOLOLO-CON-VASCA-INCASSATA.pdf?rlkey=zdkvaqzgues95pwr6lrx5vk9m&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO POINT BREAK Offerta di vendita_260151_20260513_123123 RIF. TAVOLOLO CON VASCA INCASSATA.pdf"
+            },
+            {
+              "nome": "LIDO POINT BREAK Offerta di vendita_260153_20260513_123656 RIF. TAVOLO COLDLINE 2 SPORTELLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4x9uess3sutqtjbnvig6t/LIDO-POINT-BREAK-Offerta-di-vendita_260153_20260513_123656-RIF.-TAVOLO-COLDLINE-2-SPORTELLI.pdf?rlkey=qhzn5fv7qrqljbycyaze4i0cs&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO POINT BREAK Offerta di vendita_260153_20260513_123656 RIF. TAVOLO COLDLINE 2 SPORTELLI.pdf"
+            },
+            {
+              "nome": "LIDO POINT BREAK Offerta di vendita_260154_20260513_123753 RIF. TAVOLO COLDLINE 3 SPORTELLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7gwepa1vjhtmygjl131la/LIDO-POINT-BREAK-Offerta-di-vendita_260154_20260513_123753-RIF.-TAVOLO-COLDLINE-3-SPORTELLI.pdf?rlkey=ggb33i4lxhh1xbg70l9u2ay0v&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO POINT BREAK Offerta di vendita_260154_20260513_123753 RIF. TAVOLO COLDLINE 3 SPORTELLI.pdf"
             }
           ],
-          "_totale_file": 2
+          "_totale_file": 8
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -57659,12 +57731,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHALET BOSCO DIFESA di GIOIA NATALE Ordine cliente_260131_20260510_191141 RIF. IMPASTATRICE FIMAR 25 KG.pdf"
             },
             {
-              "nome": "DIMAC SRL Ordine cliente_260135_20260511_201925.pdf",
+              "nome": "CHECK Srl BAR MATER DEI Ordine cliente_260140_20260512_170003 RIF. DETERGENTE ECOSAN DET 6 QTA'1.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/tl7um257j91fqeyu6ei6l/DIMAC-SRL-Ordine-cliente_260135_20260511_201925.pdf?rlkey=wyl3zo0benrtputkfkbxridn4&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/8j3hib9bd1qlnkbo8ypw2/CHECK-Srl-BAR-MATER-DEI-Ordine-cliente_260140_20260512_170003-RIF.-DETERGENTE-ECOSAN-DET-6-QTA-1.pdf?rlkey=yjn6lymjk2eg00nmtqffj6otw&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHECK Srl BAR MATER DEI Ordine cliente_260140_20260512_170003 RIF. DETERGENTE ECOSAN DET 6 QTA'1.pdf"
+            },
+            {
+              "nome": "DIMAC SRL Ordine cliente_260135_20260512_100211.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vvtgwugc1iz0ob3l696s3/DIMAC-SRL-Ordine-cliente_260135_20260512_100211.pdf?rlkey=vgkk3dq3ok5jecnmk1mjl9giu&dl=0?raw=1",
               "dimensione_kb": 64,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DIMAC SRL Ordine cliente_260135_20260511_201925.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DIMAC SRL Ordine cliente_260135_20260512_100211.pdf"
+            },
+            {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260144_20260513_111800 RIF. DETERGENTE LAVABAR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dxavwmzse1jsurwifygca/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Ordine-cliente_260144_20260513_111800-RIF.-DETERGENTE-LAVABAR.pdf?rlkey=7wv8lmv3dis98ia3er7sg5bgh&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260144_20260513_111800 RIF. DETERGENTE LAVABAR.pdf"
             },
             {
               "nome": "IL LUCANO SRLS Ordine cliente_260128_20260510_191200 RIF. COPERCHIO POLIPROPILENE.pdf",
@@ -57683,6 +57771,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/INGROIA ANTONIO Ordine cliente_260132_20260510_191132 RIF. AFFETTATRICE URGENTE.pdf"
             },
             {
+              "nome": "LA SORGENTE ORDINE FRIGGTRICE A GAS MODULAR MAGGIO 2026.jpg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/djeju1430wgkjlw08udu9/LA-SORGENTE-ORDINE-FRIGGTRICE-A-GAS-MODULAR-MAGGIO-2026.jpg?rlkey=gt9pf7e3qb2lpngy8cug2y340&dl=0?raw=1",
+              "dimensione_kb": 168,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA SORGENTE ORDINE FRIGGTRICE A GAS MODULAR MAGGIO 2026.jpg"
+            },
+            {
               "nome": "Macelleria DA PEPPINO Ordine cliente_260130_20260510_191147 RIF. SPATOLA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -57699,6 +57795,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/OCTO SRLS Ordine cliente_260001_20260510_210215 RIF. prova.pdf"
             },
             {
+              "nome": "Ristorante SANTA LUCIA DI APICELLA TERESA Ordine cliente_260123_20260513_131748 RIF. ATTREZZATURE URGENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/i657t1gadodiuwgsb1q4i/Ristorante-SANTA-LUCIA-DI-APICELLA-TERESA-Ordine-cliente_260123_20260513_131748-RIF.-ATTREZZATURE-URGENTE.pdf?rlkey=x48m0d9lio2w31ar1w590wpc4&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Ristorante SANTA LUCIA DI APICELLA TERESA Ordine cliente_260123_20260513_131748 RIF. ATTREZZATURE URGENTE.pdf"
+            },
+            {
               "nome": "SANTOS SRL Ordine cliente_260134_20260511_190325 RIF. BACK BAR.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -57707,15 +57811,31 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SANTOS SRL Ordine cliente_260134_20260511_190325 RIF. BACK BAR.pdf"
             },
             {
+              "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Ordine cliente_260142_20260512_184921 RIF. SACCO DI PIETRA LAVICA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/niemf7sexk2oowv40w53r/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Ordine-cliente_260142_20260512_184921-RIF.-SACCO-DI-PIETRA-LAVICA.pdf?rlkey=ddemq3x6w7qrf0n849zcoa8so&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Ordine cliente_260142_20260512_184921 RIF. SACCO DI PIETRA LAVICA.pdf"
+            },
+            {
               "nome": "TURIST CALABRIA SRL LA MANTINERA Ordine cliente_260133_20260510_191124 RIF. DETERGENTE RATIONAL VERDE.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/tscax6dvyl268r0e57koc/TURIST-CALABRIA-SRL-LA-MANTINERA-Ordine-cliente_260133_20260510_191124-RIF.-DETERGENTE-RATIONAL-VERDE.pdf?rlkey=cbjdzpfbxdnbzgoy1flliu9j7&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/TURIST CALABRIA SRL LA MANTINERA Ordine cliente_260133_20260510_191124 RIF. DETERGENTE RATIONAL VERDE.pdf"
+            },
+            {
+              "nome": "VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/i1wbwx2m91ewayv4s01do/VELARDI-Srl-Ordine-cliente_260092_20260513_160026-RIF.-ARREDO-INOX-PIAZZA-EUROPA.pdf?rlkey=u3kapw85m13oux4vfevxffert&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 9
+          "_totale_file": 15
         }
       ],
       "file": []
