@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-14T06:55:09Z",
-  "totale_file": 24650,
+  "generato": "2026-05-14T07:58:20Z",
+  "totale_file": 24654,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -216234,7 +216234,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2345,
+      "totale_file": 2349,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -227317,14 +227317,6 @@
                   "cartelle": [],
                   "file": [
                     {
-                      "nome": "FAC BONIFICO DEL 9_11_2022.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/m0xycnfaoxsmnfgdhk5e4/FAC-BONIFICO-DEL-9_11_2022.pdf?rlkey=j2ku0mwm7bsoe83x1926gwt3c&dl=0?raw=1",
-                      "dimensione_kb": 100,
-                      "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FAC PAGAMENTI/FAC BONIFICO DEL 9_11_2022.pdf"
-                    },
-                    {
                       "nome": "FAC COPIA TITOLO BPER 24_05_2024.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -227373,7 +227365,7 @@
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FAC PAGAMENTI/Fac copia titolo BRT 17_12_2024.pdf"
                     }
                   ],
-                  "_totale_file": 7
+                  "_totale_file": 6
                 },
                 {
                   "nome": "FALEGNAMERIA REALE SRL",
@@ -232401,7 +232393,7 @@
                       "nome": "PERRETTA SERVICE Dettaglio bonifico istantaneo DEL 07_08_2025.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/dx2mv47ykdei2x2utcoj2/PERRETTA-SERVICE-Dettaglio-bonifico-istantaneo-DEL-07_08_2025.pdf?rlkey=z5htgnhpl10nfk1546wnjo5q6&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 94,
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/PERRETTA SERVICE PAGAMENTI/PERRETTA SERVICE Dettaglio bonifico istantaneo DEL 07_08_2025.pdf"
                     }
@@ -236007,6 +235999,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ENERGETIC GAS Dettaglio bonifico DEL 17_02_2026.pdf"
                 },
                 {
+                  "nome": "FAC BONIFICO DEL 9_11_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m0xycnfaoxsmnfgdhk5e4/FAC-BONIFICO-DEL-9_11_2022.pdf?rlkey=j2ku0mwm7bsoe83x1926gwt3c&dl=0?raw=1",
+                  "dimensione_kb": 100,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/FAC BONIFICO DEL 9_11_2022.pdf"
+                },
+                {
                   "nome": "FE.MA. Dettaglio bonifico istantaneo DEL 3_10_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -236791,6 +236791,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/CASELLA GIUSEPPE Dettaglio bonifico istantaneo 9_04_2026.pdf"
                 },
                 {
+                  "nome": "CB Dettaglio bonifico istantaneo DEL 13_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bhraamgqehewklexiy6sl/CB-Dettaglio-bonifico-istantaneo-DEL-13_05_2026.pdf?rlkey=lvgxwkx2lxlzdqw9v7b1qsh2v&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/CB Dettaglio bonifico istantaneo DEL 13_05_2026.pdf"
+                },
+                {
                   "nome": "CB Dettaglio bonifico istantaneo DEL 24_03_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -236831,6 +236839,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/COLDLINE COPIA TITOLI MPS AR 04_03_2026.pdf"
                 },
                 {
+                  "nome": "COLDLINE Dettaglio bonifico istantaneo DEL 13_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4ogxam5g1zcjnnsfz99p6/COLDLINE-Dettaglio-bonifico-istantaneo-DEL-13_05_2026.pdf?rlkey=ersa7lozpa0fcd35iiz9qrerr&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/COLDLINE Dettaglio bonifico istantaneo DEL 13_05_2026.pdf"
+                },
+                {
                   "nome": "COLDLINE IMPORTO TITOLI 04_03_2026.xlsx",
                   "tipo": "Excel",
                   "icona": "📊",
@@ -236845,6 +236861,14 @@
                   "link": "https://www.dropbox.com/scl/fi/bqkysff5ebxwjuvd6223v/COMENDA-Dettaglio-bonifico-istantaneo-DEL-09_02_2026.pdf?rlkey=mdm5f67quge9wpnv3siwe8l13&dl=0?raw=1",
                   "dimensione_kb": 109,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/COMENDA Dettaglio bonifico istantaneo DEL 09_02_2026.pdf"
+                },
+                {
+                  "nome": "COSENTINO ANTONELLA Dettaglio bonifico istantaneo DEL 13_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/uhxtoj0dhxg0ne5ppqtik/COSENTINO-ANTONELLA-Dettaglio-bonifico-istantaneo-DEL-13_05_2026.pdf?rlkey=q8xqkhgj1wmboa85y06caj2tp&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/COSENTINO ANTONELLA Dettaglio bonifico istantaneo DEL 13_05_2026.pdf"
                 },
                 {
                   "nome": "COSENTINO ANTONELLA Dettaglio bonifico istantaneo DEL 14_11_2025.pdf",
@@ -236941,6 +236965,14 @@
                   "link": "https://www.dropbox.com/scl/fi/xpi46g8ktlf35c5zxf2zq/FAC-COPIA-TITOLO-INTESA-SCADENZA-31_12_2025.pdf?rlkey=l2156rgomu1c263fwjvrif2bk&dl=0?raw=1",
                   "dimensione_kb": 525,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/FAC COPIA TITOLO INTESA SCADENZA 31_12_2025.pdf"
+                },
+                {
+                  "nome": "FAC Dettaglio bonifico DEL 12_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3wvyrc3xiuwn2gi92swot/FAC-Dettaglio-bonifico-DEL-12_05_2026.pdf?rlkey=cdydhix8bxk41dgj94v1mwdxt&dl=0?raw=1",
+                  "dimensione_kb": 102,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/FAC Dettaglio bonifico DEL 12_05_2026.pdf"
                 },
                 {
                   "nome": "FAMA INDUSTRIE SRL Dettaglio bonifico istantaneo DEL 04_05_2026.pdf",
@@ -237343,11 +237375,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
                 }
               ],
-              "_totale_file": 76
+              "_totale_file": 80
             }
           ],
           "file": [],
-          "_totale_file": 2325
+          "_totale_file": 2329
         }
       ],
       "file": []
