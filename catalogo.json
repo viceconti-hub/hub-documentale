@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-15T05:01:00Z",
+  "generato": "2026-05-15T07:56:44Z",
   "totale_file": 24669,
   "totale_sezioni": 8,
   "sezioni": [
@@ -176118,14 +176118,6 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/DA REGISTRARE IN SAP/Cimbali Group S.p.A._0010006114_2026-03-31.xml"
                 },
                 {
-                  "nome": "DE LUCA SRL_004105_2026-04-10.xml",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/dsg42cyt8x20fefilw8tr/DE-LUCA-SRL_004105_2026-04-10.xml?rlkey=93xe13wgtd68pdhcmbxy2b3dn&dl=0?raw=1",
-                  "dimensione_kb": 14,
-                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/DA REGISTRARE IN SAP/DE LUCA SRL_004105_2026-04-10.xml"
-                },
-                {
                   "nome": "DE LUCA SRL_004106_2026-04-10.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -176710,7 +176702,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/DA REGISTRARE IN SAP/ZINCO GROUP Srl_2026 248_2026-03-06.xml"
                 }
               ],
-              "_totale_file": 93
+              "_totale_file": 92
             },
             {
               "nome": "REGISTRATE",
@@ -181765,7 +181757,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/report_ordini_acquisto.md"
             }
           ],
-          "_totale_file": 719
+          "_totale_file": 718
         },
         {
           "nome": "FATTURE DA FORNITORE XML",
@@ -216066,12 +216058,20 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260088_20260512_121547 RIF. PASSION SUSHI.pdf"
             },
             {
-              "nome": "AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260512_192537 RIF. FILTRI PER CENTRALINA.pdf",
+              "nome": "AIRFAN dI MANENTI & C. s.n.c. CONFERMA ORDINE 2092 DEL 14_05_2026 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/kj9uybyyv2wcpuyi6bvxg/AIRFAN-dI-MANENTI-C.-s.n.c.-Ordine-dacquisto_260093_20260512_192537-RIF.-FILTRI-PER-CENTRALINA.pdf?rlkey=ldlhjdyqz8k4kvtr7fykkd0eq&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260512_192537 RIF. FILTRI PER CENTRALINA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/t8ytqadzld6ugkgavgx0g/AIRFAN-dI-MANENTI-C.-s.n.c.-CONFERMA-ORDINE-2092-DEL-14_05_2026-RIF.-MACELLERIA-DE-DIEGO-FILTRI-PER-CENTRALINA.pdf?rlkey=al66v9c3k3p7qk0q2frkaamhz&dl=0?raw=1",
+              "dimensione_kb": 288,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN dI MANENTI & C. s.n.c. CONFERMA ORDINE 2092 DEL 14_05_2026 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf"
+            },
+            {
+              "nome": "AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260512_192537 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/kj9uybyyv2wcpuyi6bvxg/AIRFAN-dI-MANENTI-C.-s.n.c.-Ordine-dacquisto_260093_20260512_192537-RIF.-MACELLERIA-DE-DIEGO-FILTRI-PER-CENTRALINA.pdf?rlkey=ldlhjdyqz8k4kvtr7fykkd0eq&dl=0?raw=1",
+              "dimensione_kb": 277,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260512_192537 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf"
             },
             {
               "nome": "ARISTARCO SPA Ordine dacquisto_260062_20260512_110258.pdf",
@@ -216362,7 +216362,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3594
+          "_totale_file": 3595
         }
       ],
       "file": []
