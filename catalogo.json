@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-15T00:22:25Z",
-  "totale_file": 24659,
+  "generato": "2026-05-15T02:21:00Z",
+  "totale_file": 24660,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -133574,7 +133574,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4349,
+      "totale_file": 4350,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -149706,7 +149706,7 @@
                   "nome": "DINI ARGEO PAG bilancia divisione 0,1 gr 2013.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/c8q8rwfpyyygeag9xxrne/DINI-ARGEO-PAG-bilancia-divisione-0-1-gr-2013.pdf?rlkey=8f3u2pjw0dnwvrp2yuykpjuyp&dl=0?raw=1",
                   "dimensione_kb": 173,
                   "path": "/HUB DOCUMENTALE/FORNITORI/DINI ARGEO/ARCHIVIO/DINI ARGEO PAG bilancia divisione 0,1 gr 2013.pdf"
                 }
@@ -159937,7 +159937,7 @@
                       "nome": "CARISMA FAEMA ESPLOSO.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/9pvgh7k61kw0oo4eui9jx/CARISMA-FAEMA-ESPLOSO.pdf?rlkey=nbt008ift35g72n2hmyavipft&dl=0?raw=1",
                       "dimensione_kb": 1508,
                       "path": "/HUB DOCUMENTALE/FORNITORI/GRUPPO CIMBALI FAEMA/FAEMA AREA TECNICA/MACCHINE DA CAFFE'/CARISMA FAEMA ESPLOSO.pdf"
                     },
@@ -164962,7 +164962,64 @@
             {
               "nome": "ARCHIVIO",
               "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "OneDrive_2021-11-12",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO/OneDrive_2021-11-12",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "Listino Lotus 11 2021.xls",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/4s35dpvjgttb9ixnj8e93/Listino-Lotus-11-2021.xls?rlkey=mxvbm4mwdpta69k5869vxhfz1&dl=0?raw=1",
+                      "dimensione_kb": 3485,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO/OneDrive_2021-11-12/Listino Lotus 11 2021.xls"
+                    },
+                    {
+                      "nome": "Listino Lotus MARINA 11 2021.xls",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/o2cwdcg2adl1v0tsbrzia/Listino-Lotus-MARINA-11-2021.xls?rlkey=atw5rcooufw0n0qk6wycdgnpm&dl=0?raw=1",
+                      "dimensione_kb": 1198,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO/OneDrive_2021-11-12/Listino Lotus MARINA 11 2021.xls"
+                    },
+                    {
+                      "nome": "Listino Lotus OVENeSPECIAL MACHINES 11 2021.xls",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/hz7ni85dwtg47n9l1blxq/Listino-Lotus-OVENeSPECIAL-MACHINES-11-2021.xls?rlkey=khr48j2svprpnsycqnkabix2e&dl=0?raw=1",
+                      "dimensione_kb": 370,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO/OneDrive_2021-11-12/Listino Lotus OVENeSPECIAL MACHINES 11 2021.xls"
+                    },
+                    {
+                      "nome": "Listino_Lotus_11_2021.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/zgn4gprdmdb5k31smsxjk/Listino_Lotus_11_2021.pdf?rlkey=hlsif7bzixrdklt64wzxrsm49&dl=0?raw=1",
+                      "dimensione_kb": 7377,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO/OneDrive_2021-11-12/Listino_Lotus_11_2021.pdf"
+                    },
+                    {
+                      "nome": "Listino_lotus_Marine_11_2021.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ehano0fd7t6ijprp0bcdo/Listino_lotus_Marine_11_2021.pdf?rlkey=rbfdo8ydsxz5cgm0upasubggx&dl=0?raw=1",
+                      "dimensione_kb": 2390,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO/OneDrive_2021-11-12/Listino_lotus_Marine_11_2021.pdf"
+                    },
+                    {
+                      "nome": "Listino_lotus_Ovens&SpecialMachines_11_2021.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/90ie6qm6qnvo1d3e3hvau/Listino_lotus_Ovens-SpecialMachines_11_2021.pdf?rlkey=8l5tww2lop0iq4ozg55pyodq5&dl=0?raw=1",
+                      "dimensione_kb": 2124,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO/OneDrive_2021-11-12/Listino_lotus_Ovens&SpecialMachines_11_2021.pdf"
+                    }
+                  ],
+                  "_totale_file": 6
+                }
+              ],
               "file": [
                 {
                   "nome": "Gmail - I_ NEW PRICE LIST 11_21 - NUOVO LISTINO PREZZI 11_21.pdf",
@@ -165029,6 +165086,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO/Lotus_Book_2023.pdf"
                 },
                 {
+                  "nome": "Lotus_listino_04_2024.pdf_aggiornato al 28_04_25.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m8iox57edy63jzpoypmte/Lotus_listino_04_2024.pdf_aggiornato-al-28_04_25.pdf?rlkey=cyouoba3x1mksp9vv9ebwu6ev&dl=0?raw=1",
+                  "dimensione_kb": 7500,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO/Lotus_listino_04_2024.pdf_aggiornato al 28_04_25.pdf"
+                },
+                {
                   "nome": "OneDrive_2021-11-12.zip",
                   "tipo": "Archivio",
                   "icona": "🗜️",
@@ -165037,7 +165102,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/ARCHIVIO/OneDrive_2021-11-12.zip"
                 }
               ],
-              "_totale_file": 9
+              "_totale_file": 16
             },
             {
               "nome": "LOTUS AREA TECNICA",
@@ -165056,105 +165121,57 @@
               "_totale_file": 1
             },
             {
-              "nome": "OneDrive_2021-11-12",
-              "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/OneDrive_2021-11-12",
+              "nome": "LOTUS SCHEDE TECNICHE",
+              "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/LOTUS SCHEDE TECNICHE",
               "cartelle": [],
               "file": [
                 {
-                  "nome": "Listino Lotus 11 2021.xls",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/4s35dpvjgttb9ixnj8e93/Listino-Lotus-11-2021.xls?rlkey=mxvbm4mwdpta69k5869vxhfz1&dl=0?raw=1",
-                  "dimensione_kb": 3485,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/OneDrive_2021-11-12/Listino Lotus 11 2021.xls"
-                },
-                {
-                  "nome": "Listino Lotus MARINA 11 2021.xls",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/o2cwdcg2adl1v0tsbrzia/Listino-Lotus-MARINA-11-2021.xls?rlkey=atw5rcooufw0n0qk6wycdgnpm&dl=0?raw=1",
-                  "dimensione_kb": 1198,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/OneDrive_2021-11-12/Listino Lotus MARINA 11 2021.xls"
-                },
-                {
-                  "nome": "Listino Lotus OVENeSPECIAL MACHINES 11 2021.xls",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/hz7ni85dwtg47n9l1blxq/Listino-Lotus-OVENeSPECIAL-MACHINES-11-2021.xls?rlkey=khr48j2svprpnsycqnkabix2e&dl=0?raw=1",
-                  "dimensione_kb": 370,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/OneDrive_2021-11-12/Listino Lotus OVENeSPECIAL MACHINES 11 2021.xls"
-                },
-                {
-                  "nome": "Listino_Lotus_11_2021.pdf",
+                  "nome": "FMPE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/zgn4gprdmdb5k31smsxjk/Listino_Lotus_11_2021.pdf?rlkey=hlsif7bzixrdklt64wzxrsm49&dl=0?raw=1",
-                  "dimensione_kb": 7377,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/OneDrive_2021-11-12/Listino_Lotus_11_2021.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/zr0sikkqn7gnw4f2pg614/FMPE.pdf?rlkey=0rjaiixy2i6ipr48b415n0ure&dl=0?raw=1",
+                  "dimensione_kb": 777,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/LOTUS SCHEDE TECNICHE/FMPE.pdf"
                 },
                 {
-                  "nome": "Listino_lotus_Marine_11_2021.pdf",
+                  "nome": "FMPG.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/ehano0fd7t6ijprp0bcdo/Listino_lotus_Marine_11_2021.pdf?rlkey=rbfdo8ydsxz5cgm0upasubggx&dl=0?raw=1",
-                  "dimensione_kb": 2390,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/OneDrive_2021-11-12/Listino_lotus_Marine_11_2021.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/mfg9ugpptklsx62cpbspa/FMPG.pdf?rlkey=7ikom9bd2q7m3yne24p95wnub&dl=0?raw=1",
+                  "dimensione_kb": 892,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/LOTUS SCHEDE TECNICHE/FMPG.pdf"
                 },
                 {
-                  "nome": "Listino_lotus_Ovens&SpecialMachines_11_2021.pdf",
+                  "nome": "FPE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/90ie6qm6qnvo1d3e3hvau/Listino_lotus_Ovens-SpecialMachines_11_2021.pdf?rlkey=8l5tww2lop0iq4ozg55pyodq5&dl=0?raw=1",
-                  "dimensione_kb": 2124,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/OneDrive_2021-11-12/Listino_lotus_Ovens&SpecialMachines_11_2021.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/q1hhvfsskwbcbhegx4rb4/FPE.pdf?rlkey=l0y3hifpnq3y9dxh57b74ha8n&dl=0?raw=1",
+                  "dimensione_kb": 882,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/LOTUS SCHEDE TECNICHE/FPE.pdf"
+                },
+                {
+                  "nome": "FPG.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4gd8451qm2oik0dftrvnj/FPG.pdf?rlkey=7t3nmb1suzvpqii88j9o2msz8&dl=0?raw=1",
+                  "dimensione_kb": 746,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/LOTUS SCHEDE TECNICHE/FPG.pdf"
                 }
               ],
-              "_totale_file": 6
+              "_totale_file": 4
             }
           ],
           "file": [
             {
-              "nome": "FMPE.pdf",
+              "nome": "001.LOTUS LISTINO Cookers 04_2026 low.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/zr0sikkqn7gnw4f2pg614/FMPE.pdf?rlkey=0rjaiixy2i6ipr48b415n0ure&dl=0?raw=1",
-              "dimensione_kb": 777,
-              "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/FMPE.pdf"
-            },
-            {
-              "nome": "FMPG.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mfg9ugpptklsx62cpbspa/FMPG.pdf?rlkey=7ikom9bd2q7m3yne24p95wnub&dl=0?raw=1",
-              "dimensione_kb": 892,
-              "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/FMPG.pdf"
-            },
-            {
-              "nome": "FPE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/q1hhvfsskwbcbhegx4rb4/FPE.pdf?rlkey=l0y3hifpnq3y9dxh57b74ha8n&dl=0?raw=1",
-              "dimensione_kb": 882,
-              "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/FPE.pdf"
-            },
-            {
-              "nome": "FPG.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/4gd8451qm2oik0dftrvnj/FPG.pdf?rlkey=7t3nmb1suzvpqii88j9o2msz8&dl=0?raw=1",
-              "dimensione_kb": 746,
-              "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/FPG.pdf"
-            },
-            {
-              "nome": "Lotus_listino_04_2024.pdf_aggiornato al 28_04_25.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/m8iox57edy63jzpoypmte/Lotus_listino_04_2024.pdf_aggiornato-al-28_04_25.pdf?rlkey=cyouoba3x1mksp9vv9ebwu6ev&dl=0?raw=1",
-              "dimensione_kb": 7500,
-              "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/Lotus_listino_04_2024.pdf_aggiornato al 28_04_25.pdf"
+              "link": "https://www.dropbox.com/scl/fi/3igum67cp24mr383lsv6o/001.LOTUS-LISTINO-Cookers-04_2026-low.pdf?rlkey=dnewhrzxtygy2q14ahenztrnk&dl=0?raw=1",
+              "dimensione_kb": 15680,
+              "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/001.LOTUS LISTINO Cookers 04_2026 low.pdf"
             }
           ],
-          "_totale_file": 21
+          "_totale_file": 22
         },
         {
           "nome": "LVA VETRINE",
