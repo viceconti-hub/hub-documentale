@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-15T02:21:00Z",
-  "totale_file": 24660,
+  "generato": "2026-05-15T05:01:00Z",
+  "totale_file": 24669,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5473,
+      "totale_file": 5482,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -30,6 +30,14 @@
               "link": "https://www.dropbox.com/scl/fi/x451jt2m5jc7fiyfudzjz/DIMAC-SRL-Consegna_260266_20260512_100144-RIF.-DETERGENTE-RATIONAL-ROSSO.pdf?rlkey=x7vyb6i2w0mz9d0mecx57tdj4&dl=0?raw=1",
               "dimensione_kb": 50,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DIMAC SRL Consegna_260266_20260512_100144 RIF. DETERGENTE RATIONAL ROSSO.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_260270_20260514_103109 RIF. CONENTITORI POLIPROPILENE URGENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5i44w0y6rnnbiznxuwx7f/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_260270_20260514_103109-RIF.-CONENTITORI-POLIPROPILENE-URGENTE.pdf?rlkey=ev2glv1taise16p1sqr2fxczq&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260270_20260514_103109 RIF. CONENTITORI POLIPROPILENE URGENTE.pdf"
             },
             {
               "nome": "GRAN SOLE S.r.l. Consegna_260264_20260510_123412.pdf",
@@ -54,15 +62,31 @@
               "link": "https://www.dropbox.com/scl/fi/0qsj5h6w16730plwhd5dc/I-SAPORI-DI-MARIANNA-TRATTORIA-E-CUCINA-D-ASPORTO-DI-PEZZULLO-MARIANNA-Consegna_260267_20260512_101043-RIF.-TAGLIO-PER-IMPERIA-E-ADATTATORE.pdf?rlkey=9b4hjo1o06igr4oxqxrk1l12f&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260267_20260512_101043 RIF. TAGLIO PER IMPERIA E ADATTATORE.pdf"
+            },
+            {
+              "nome": "INGROIA ANTONIO Consegna_260258_20260514_130853.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2gck15vqzoeiop45tplvn/INGROIA-ANTONIO-Consegna_260258_20260514_130853.pdf?rlkey=79at76mrgfezhyq4muio07l46&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/INGROIA ANTONIO Consegna_260258_20260514_130853.pdf"
             }
           ],
-          "_totale_file": 5
+          "_totale_file": 7
         },
         {
           "nome": "OFFERTE DI VENDITA",
           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA",
           "cartelle": [],
           "file": [
+            {
+              "nome": "DA SPECIFICARE Offerta di vendita_200479_20260514_173119.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/onyeovwithnz3s44cgc6t/DA-SPECIFICARE-Offerta-di-vendita_200479_20260514_173119.pdf?rlkey=t5ky0x249th5p18f24djfzym6&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_200479_20260514_173119.pdf"
+            },
             {
               "nome": "DA SPECIFICARE Offerta di vendita_260149_20260511_184212.pdf",
               "tipo": "PDF",
@@ -96,6 +120,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260156_20260513_124247 RIF. TAVOLO COLDLINE 2 SPORTELLI.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Offerta di vendita_260158_20260514_122327 RIF. OFFERTA SPECIALE TAVOLO CASSETTIERA NUOVA MAGAZZINO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7dob730bn2vpq5uvaql04/DA-SPECIFICARE-Offerta-di-vendita_260158_20260514_122327-RIF.-OFFERTA-SPECIALE-TAVOLO-CASSETTIERA-NUOVA-MAGAZZINO.pdf?rlkey=o2t56b9fnceeuxp5ogqkehv9y&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260158_20260514_122327 RIF. OFFERTA SPECIALE TAVOLO CASSETTIERA NUOVA MAGAZZINO.pdf"
+            },
+            {
               "nome": "INGROIA ANTONIO Offerta di vendita_260148_20260510_123348.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -126,9 +158,49 @@
               "link": "https://www.dropbox.com/scl/fi/7gwepa1vjhtmygjl131la/LIDO-POINT-BREAK-Offerta-di-vendita_260154_20260513_123753-RIF.-TAVOLO-COLDLINE-3-SPORTELLI.pdf?rlkey=ggb33i4lxhh1xbg70l9u2ay0v&dl=0?raw=1",
               "dimensione_kb": 78,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO POINT BREAK Offerta di vendita_260154_20260513_123753 RIF. TAVOLO COLDLINE 3 SPORTELLI.pdf"
+            },
+            {
+              "nome": "LIDO POINT BREAK Offerta di vendita_260163_20260514_195129 RIF. TAVOLO A GIORNO 150 X 70.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4h02c1wq0gw9xbkgbsbiu/LIDO-POINT-BREAK-Offerta-di-vendita_260163_20260514_195129-RIF.-TAVOLO-A-GIORNO-150-X-70.pdf?rlkey=iokehbt4a3p4xpia6imvszy5q&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO POINT BREAK Offerta di vendita_260163_20260514_195129 RIF. TAVOLO A GIORNO 150 X 70.pdf"
+            },
+            {
+              "nome": "RUGGERINI MAURIZIO Offerta di vendita_260157_20260514_122119 RIF. TAVOLOLO CON VASCA INCASSATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zdoe5sibctmbb3ut96t4t/RUGGERINI-MAURIZIO-Offerta-di-vendita_260157_20260514_122119-RIF.-TAVOLOLO-CON-VASCA-INCASSATA.pdf?rlkey=8kt261sqdh4zetsvi2i0iwaux&dl=0?raw=1",
+              "dimensione_kb": 79,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RUGGERINI MAURIZIO Offerta di vendita_260157_20260514_122119 RIF. TAVOLOLO CON VASCA INCASSATA.pdf"
+            },
+            {
+              "nome": "RUGGERINI MAURIZIO Offerta di vendita_260159_20260514_122425 RIF. OFFERTA SPECIALE TAVOLO CASSETTIERA NUOVA MAGAZZINO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xbpayh1ynzexutuwgabme/RUGGERINI-MAURIZIO-Offerta-di-vendita_260159_20260514_122425-RIF.-OFFERTA-SPECIALE-TAVOLO-CASSETTIERA-NUOVA-MAGAZZINO.pdf?rlkey=lb9btmc8xub029h5vgjuocphm&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RUGGERINI MAURIZIO Offerta di vendita_260159_20260514_122425 RIF. OFFERTA SPECIALE TAVOLO CASSETTIERA NUOVA MAGAZZINO.pdf"
+            },
+            {
+              "nome": "RUGGERINI MAURIZIO Offerta di vendita_260160_20260514_124313 RIF. CUCINA 4 FUOCHI CON FORNO ELETTRICO 60X60 LOTUS.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/k03mxu464vqvgk78ngis8/RUGGERINI-MAURIZIO-Offerta-di-vendita_260160_20260514_124313-RIF.-CUCINA-4-FUOCHI-CON-FORNO-ELETTRICO-60X60-LOTUS.pdf?rlkey=yn3usz1eeynw9y5jkqqvelxlb&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RUGGERINI MAURIZIO Offerta di vendita_260160_20260514_124313 RIF. CUCINA 4 FUOCHI CON FORNO ELETTRICO 60X60 LOTUS.pdf"
+            },
+            {
+              "nome": "RUGGERINI MAURIZIO Offerta di vendita_260161_20260514_124826 RIF. PENSILE 100 X 40 X 60.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/t5iwi0a9z8gbd4n848koo/RUGGERINI-MAURIZIO-Offerta-di-vendita_260161_20260514_124826-RIF.-PENSILE-100-X-40-X-60.pdf?rlkey=fkkxldunpflqlq3giunqnrwln&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RUGGERINI MAURIZIO Offerta di vendita_260161_20260514_124826 RIF. PENSILE 100 X 40 X 60.pdf"
             }
           ],
-          "_totale_file": 8
+          "_totale_file": 15
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
