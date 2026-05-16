@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-16T02:09:50Z",
-  "totale_file": 24669,
+  "generato": "2026-05-16T05:12:29Z",
+  "totale_file": 24684,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5482,
+      "totale_file": 5497,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -64,15 +64,39 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260267_20260512_101043 RIF. TAGLIO PER IMPERIA E ADATTATORE.pdf"
             },
             {
+              "nome": "IL LUCANO SRLS Consegna_260272_20260515_123039 RIF. PINZA PER AFFETTATTI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9u3rhzoljlew1xld4vcic/IL-LUCANO-SRLS-Consegna_260272_20260515_123039-RIF.-PINZA-PER-AFFETTATTI.pdf?rlkey=jiq0ck13iqgkevr7q6k8d8opo&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IL LUCANO SRLS Consegna_260272_20260515_123039 RIF. PINZA PER AFFETTATTI.pdf"
+            },
+            {
               "nome": "INGROIA ANTONIO Consegna_260258_20260514_130853.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/2gck15vqzoeiop45tplvn/INGROIA-ANTONIO-Consegna_260258_20260514_130853.pdf?rlkey=79at76mrgfezhyq4muio07l46&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/INGROIA ANTONIO Consegna_260258_20260514_130853.pdf"
+            },
+            {
+              "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260273_20260515_124403 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s90uak5duc6ey4617y30k/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Consegna_260273_20260515_124403-RIF.-DETERGENTE-RATIONAL-ROSSO-QTA-2.pdf?rlkey=t9qidlzsj604jicd5z9c29kaq&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260273_20260515_124403 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf"
+            },
+            {
+              "nome": "VELARDI Srl Consegna_260271_20260515_100703 RIF. ARREDO INOX PIAZZA EUROPA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vp6dce0yr873nfpndgrxw/VELARDI-Srl-Consegna_260271_20260515_100703-RIF.-ARREDO-INOX-PIAZZA-EUROPA.pdf?rlkey=2m96dp9dbry9wjypt2eapwi2n&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/VELARDI Srl Consegna_260271_20260515_100703 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 7
+          "_totale_file": 10
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -128,6 +152,30 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260158_20260514_122327 RIF. OFFERTA SPECIALE TAVOLO CASSETTIERA NUOVA MAGAZZINO.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Offerta di vendita_260165_20260514_203416.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dc3wh61bo43k5tzn9owlp/DA-SPECIFICARE-Offerta-di-vendita_260165_20260514_203416.pdf?rlkey=40a1j2i8lrt9p6pzgjmwoqaib&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260165_20260514_203416.pdf"
+            },
+            {
+              "nome": "DIMAC SRL Offerta di vendita_260164_20260515_105156 RIF. CARTUCCE A CARBONE ATTIVO PER GRUPPO DI FILTRAZIONE CF1115.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iogedassu4wpu6kowvn0d/DIMAC-SRL-Offerta-di-vendita_260164_20260515_105156-RIF.-CARTUCCE-A-CARBONE-ATTIVO-PER-GRUPPO-DI-FILTRAZIONE-CF1115.pdf?rlkey=7r61hlrvoi3qjf3qly6pq8bvf&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DIMAC SRL Offerta di vendita_260164_20260515_105156 RIF. CARTUCCE A CARBONE ATTIVO PER GRUPPO DI FILTRAZIONE CF1115.pdf"
+            },
+            {
+              "nome": "ESCOPOCO S.R.L. Offerta di vendita_260171_20260515_190457 RIF. GRIGLIA FORATA PER GRIGLIARE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qul29gdzgirwtz272jxtf/ESCOPOCO-S.R.L.-Offerta-di-vendita_260171_20260515_190457-RIF.-GRIGLIA-FORATA-PER-GRIGLIARE.pdf?rlkey=8nylmlqryl7ixpyyv27ts4aua&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ESCOPOCO S.R.L. Offerta di vendita_260171_20260515_190457 RIF. GRIGLIA FORATA PER GRIGLIARE.pdf"
+            },
+            {
               "nome": "INGROIA ANTONIO Offerta di vendita_260148_20260510_123348.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -160,12 +208,36 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO POINT BREAK Offerta di vendita_260154_20260513_123753 RIF. TAVOLO COLDLINE 3 SPORTELLI.pdf"
             },
             {
-              "nome": "LIDO POINT BREAK Offerta di vendita_260163_20260514_195129 RIF. TAVOLO A GIORNO 150 X 70.pdf",
+              "nome": "LIDO POINT BREAK Offerta di vendita_260163_20260514_202046 RIF. TAVOLO A GIORNO 150 X 70.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/4h02c1wq0gw9xbkgbsbiu/LIDO-POINT-BREAK-Offerta-di-vendita_260163_20260514_195129-RIF.-TAVOLO-A-GIORNO-150-X-70.pdf?rlkey=iokehbt4a3p4xpia6imvszy5q&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/vmqatynwn98u99aowt8nk/LIDO-POINT-BREAK-Offerta-di-vendita_260163_20260514_202046-RIF.-TAVOLO-A-GIORNO-150-X-70.pdf?rlkey=d5p3q9xbi01xyv8oqce45s8ep&dl=0?raw=1",
               "dimensione_kb": 78,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO POINT BREAK Offerta di vendita_260163_20260514_195129 RIF. TAVOLO A GIORNO 150 X 70.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO POINT BREAK Offerta di vendita_260163_20260514_202046 RIF. TAVOLO A GIORNO 150 X 70.pdf"
+            },
+            {
+              "nome": "LUTIPICO SRLS Offerta di vendita_260162_20260514_202207.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sgxcb2mo90da9zapqd8ka/LUTIPICO-SRLS-Offerta-di-vendita_260162_20260514_202207.pdf?rlkey=e4r32pbrxsejkt346bnyfoft7&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LUTIPICO SRLS Offerta di vendita_260162_20260514_202207.pdf"
+            },
+            {
+              "nome": "PANAINO SRL UNIPERSONALE Offerta di vendita_260167_20260515_165151 RIF. TAVOLO REFRIGERATO 2 SPORTELLI 151X80.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/meczxiew9nr554fhp7iqa/PANAINO-SRL-UNIPERSONALE-Offerta-di-vendita_260167_20260515_165151-RIF.-TAVOLO-REFRIGERATO-2-SPORTELLI-151X80.pdf?rlkey=f97z9xvwgk7xlsiyw3dyrw6p3&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PANAINO SRL UNIPERSONALE Offerta di vendita_260167_20260515_165151 RIF. TAVOLO REFRIGERATO 2 SPORTELLI 151X80.pdf"
+            },
+            {
+              "nome": "PANAINO SRL UNIPERSONALE Offerta di vendita_260168_20260515_175035.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f2jgownje8t3ezxgxcu5f/PANAINO-SRL-UNIPERSONALE-Offerta-di-vendita_260168_20260515_175035.pdf?rlkey=n54t0enacsa6i1kt6mor6yj70&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PANAINO SRL UNIPERSONALE Offerta di vendita_260168_20260515_175035.pdf"
             },
             {
               "nome": "RUGGERINI MAURIZIO Offerta di vendita_260157_20260514_122119 RIF. TAVOLOLO CON VASCA INCASSATA.pdf",
@@ -198,9 +270,33 @@
               "link": "https://www.dropbox.com/scl/fi/t5iwi0a9z8gbd4n848koo/RUGGERINI-MAURIZIO-Offerta-di-vendita_260161_20260514_124826-RIF.-PENSILE-100-X-40-X-60.pdf?rlkey=fkkxldunpflqlq3giunqnrwln&dl=0?raw=1",
               "dimensione_kb": 74,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RUGGERINI MAURIZIO Offerta di vendita_260161_20260514_124826 RIF. PENSILE 100 X 40 X 60.pdf"
+            },
+            {
+              "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260166_20260515_120913 RIF. MIXER A IMMERSIONE FIMAR MX 25.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9ql1iskadz7tdfsu8wjv5/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Offerta-di-vendita_260166_20260515_120913-RIF.-MIXER-A-IMMERSIONE-FIMAR-MX-25.pdf?rlkey=c8xr8omrmx5b7ko7a9h1ggkz1&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260166_20260515_120913 RIF. MIXER A IMMERSIONE FIMAR MX 25.pdf"
+            },
+            {
+              "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260169_20260515_181927 RIF. CALICI BIRRA COLLEZIONE EXECUTIVE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/e4p7uefzr6u1sxq2jzbru/TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO-Offerta-di-vendita_260169_20260515_181927-RIF.-CALICI-BIRRA-COLLEZIONE-EXECUTIVE.pdf?rlkey=k5myvpbj8trgjsofa97002s3f&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260169_20260515_181927 RIF. CALICI BIRRA COLLEZIONE EXECUTIVE.pdf"
+            },
+            {
+              "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260170_20260515_182140 RIF. CALICI BIRRA WEIZEN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f04c2lhg1qrdinn5h7l0h/TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO-Offerta-di-vendita_260170_20260515_182140-RIF.-CALICI-BIRRA-WEIZEN.pdf?rlkey=bsgwukd4lig70uis8jyp0qudu&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260170_20260515_182140 RIF. CALICI BIRRA WEIZEN.pdf"
             }
           ],
-          "_totale_file": 15
+          "_totale_file": 24
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -1642,6 +1738,22 @@
                   "link": "https://www.dropbox.com/scl/fi/z9f4f8te92tljietsvp2r/220AFCEPR_3f0f2cea-ce18-4dd6-a149-7f2f94f04192.webp?rlkey=cm2kk7hasp5dk6542m29r57ya&dl=0?raw=1",
                   "dimensione_kb": 39,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_05_08 INGROIA/220AFCEPR_3f0f2cea-ce18-4dd6-a149-7f2f94f04192.webp"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_05_15 PANAINO RUA TAVOLO REFRIGERATO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_05_15 PANAINO RUA TAVOLO REFRIGERATO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26 TAVOLI REFRIGERATI PASTICCERIA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0z9xhcaiol610h146gtbg/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26-TAVOLI-REFRIGERATI-PASTICCERIA.pdf?rlkey=5gf83ytr0h4tg4i1fbclio459&dl=0?raw=1",
+                  "dimensione_kb": 445,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_05_15 PANAINO RUA TAVOLO REFRIGERATO/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26 TAVOLI REFRIGERATI PASTICCERIA.pdf"
                 }
               ],
               "_totale_file": 1
@@ -57779,7 +57891,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5445
+          "_totale_file": 5446
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -57835,6 +57947,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/IL LUCANO SRLS Ordine cliente_260128_20260510_191200 RIF. COPERCHIO POLIPROPILENE.pdf"
             },
             {
+              "nome": "IL LUCANO SRLS Ordine cliente_260146_20260515_114833 RIF. PINZA PER AFFETTATTI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c04dqrz9x42b6rp99l4kv/IL-LUCANO-SRLS-Ordine-cliente_260146_20260515_114833-RIF.-PINZA-PER-AFFETTATTI.pdf?rlkey=a1z4gx312wukv86up9h5hszvh&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/IL LUCANO SRLS Ordine cliente_260146_20260515_114833 RIF. PINZA PER AFFETTATTI.pdf"
+            },
+            {
               "nome": "INGROIA ANTONIO Ordine cliente_260132_20260510_191132 RIF. AFFETTATRICE URGENTE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -57849,6 +57969,14 @@
               "link": "https://www.dropbox.com/scl/fi/djeju1430wgkjlw08udu9/LA-SORGENTE-ORDINE-FRIGGTRICE-A-GAS-MODULAR-MAGGIO-2026.jpg?rlkey=gt9pf7e3qb2lpngy8cug2y340&dl=0?raw=1",
               "dimensione_kb": 168,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA SORGENTE ORDINE FRIGGTRICE A GAS MODULAR MAGGIO 2026.jpg"
+            },
+            {
+              "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260147_20260515_120044 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ctle9kl1jdenjfyethzt1/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Ordine-cliente_260147_20260515_120044-RIF.-DETERGENTE-RATIONAL-ROSSO-QTA-2.pdf?rlkey=2sk6eqru8znb6gg7e3urmiqj1&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260147_20260515_120044 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf"
             },
             {
               "nome": "Macelleria DA PEPPINO Ordine cliente_260130_20260510_191147 RIF. SPATOLA.pdf",
@@ -57907,7 +58035,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 15
+          "_totale_file": 17
         }
       ],
       "file": []
