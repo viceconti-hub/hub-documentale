@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-18T05:47:54Z",
-  "totale_file": 24685,
+  "generato": "2026-05-18T07:55:02Z",
+  "totale_file": 24686,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -175721,7 +175721,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4796,
+      "totale_file": 4797,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -216129,6 +216129,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-002064-2026 RIF. SANTA LUCIA.pdf"
             },
             {
+              "nome": "ACCIAIO T&D CONFERMA OFFVE-002088-2026 RIF.PASSION SUSHI CORRETTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yq6nenfkralcj8ggw9ta5/ACCIAIO-T-D-CONFERMA-OFFVE-002088-2026-RIF.PASSION-SUSHI-CORRETTA.pdf?rlkey=jq1uweav6fksse6s6fo62kf3z&dl=0?raw=1",
+              "dimensione_kb": 678,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-002088-2026 RIF.PASSION SUSHI CORRETTA.pdf"
+            },
+            {
               "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260512_183335 RIF. SANTA LUCIA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -216449,7 +216457,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3595
+          "_totale_file": 3596
         }
       ],
       "file": []
