@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-18T02:51:40Z",
-  "totale_file": 24691,
+  "generato": "2026-05-18T05:47:54Z",
+  "totale_file": 24685,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5497,
+      "totale_file": 5491,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -11616,71 +11616,6 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO",
                       "cartelle": [
                         {
-                          "nome": "DE FILIPPO 06_2020",
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020",
-                          "cartelle": [
-                            {
-                              "nome": "DOCCIA PRELAVAGGIO",
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/DOCCIA PRELAVAGGIO",
-                              "cartelle": [],
-                              "file": [
-                                {
-                                  "nome": "Offerta di vendita_200328_20200618_184717.pdf",
-                                  "tipo": "PDF",
-                                  "icona": "📄",
-                                  "link": "https://www.dropbox.com/scl/fi/eqd13hib0tfwv7ql98prp/Offerta-di-vendita_200328_20200618_184717.pdf?rlkey=mew3u9tjgqbz44mp1ghmq9se1&dl=0?raw=1",
-                                  "dimensione_kb": 67,
-                                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/DOCCIA PRELAVAGGIO/Offerta di vendita_200328_20200618_184717.pdf"
-                                }
-                              ],
-                              "_totale_file": 1
-                            }
-                          ],
-                          "file": [
-                            {
-                              "nome": "DE FILIPPO OFFERTA PEDANE + SCAFFALI.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/qfh9cag4okype94nmwu6j/DE-FILIPPO-OFFERTA-PEDANE-SCAFFALI.pdf?rlkey=xeo5fozmgen4z1uq6pbe65c6s&dl=0?raw=1",
-                              "dimensione_kb": 76,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/DE FILIPPO OFFERTA PEDANE + SCAFFALI.pdf"
-                            },
-                            {
-                              "nome": "Klarco - catalogo STYL201002.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/fsgqhbo55oc1gd2q9kui9/Klarco-catalogo-STYL201002.pdf?rlkey=bvm5o4jf6a4n3wya4z5l0r7gf&dl=0?raw=1",
-                              "dimensione_kb": 16954,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/Klarco - catalogo STYL201002.pdf"
-                            },
-                            {
-                              "nome": "Offerta di vendita_200311_20200616_184902.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/33tmhps56zks5u9yri8j2/Offerta-di-vendita_200311_20200616_184902.pdf?rlkey=9pa22c7k6iqzn2o6dgj7acbjt&dl=0?raw=1",
-                              "dimensione_kb": 70,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/Offerta di vendita_200311_20200616_184902.pdf"
-                            },
-                            {
-                              "nome": "Offerta di vendita_200321_20200618_102830.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/obovppskac1ek5ho18khq/Offerta-di-vendita_200321_20200618_102830.pdf?rlkey=6qnvq5ipkgmc0bcewq922pxxa&dl=0?raw=1",
-                              "dimensione_kb": 68,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/Offerta di vendita_200321_20200618_102830.pdf"
-                            },
-                            {
-                              "nome": "lf_rubinetteria_new_2017_IT.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/ff4hu8sbnsjo4en2h8h4t/lf_rubinetteria_new_2017_IT.pdf?rlkey=otvolnpxpsjbgkejxbbo9e9wx&dl=0?raw=1",
-                              "dimensione_kb": 6645,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/lf_rubinetteria_new_2017_IT.pdf"
-                            }
-                          ],
-                          "_totale_file": 6
-                        },
-                        {
                           "nome": "DE FILIPPO LIDO LE PERGOLE",
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO LIDO LE PERGOLE",
                           "cartelle": [],
@@ -11858,7 +11793,7 @@
                         }
                       ],
                       "file": [],
-                      "_totale_file": 22
+                      "_totale_file": 16
                     },
                     {
                       "nome": "DE FRANCO GIUSEPPE",
@@ -29106,7 +29041,7 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/Ordine dacquisto_210779_NUOVO ORDINE KONTIKY.pdf"
                     }
                   ],
-                  "_totale_file": 2403
+                  "_totale_file": 2397
                 },
                 {
                   "nome": "ARCI",
@@ -57887,11 +57822,11 @@
                 }
               ],
               "file": [],
-              "_totale_file": 5311
+              "_totale_file": 5305
             }
           ],
           "file": [],
-          "_totale_file": 5446
+          "_totale_file": 5440
         },
         {
           "nome": "ORDINI CLIENTE",
