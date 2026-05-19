@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-19T05:22:22Z",
-  "totale_file": 24712,
+  "generato": "2026-05-19T07:28:44Z",
+  "totale_file": 24718,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -175954,7 +175954,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4797,
+      "totale_file": 4803,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -176122,6 +176122,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/GO PACK DDT nr  002367 del 11-12-2025.pdf"
             },
             {
+              "nome": "GO PACK S.R.L. a socio unico Entrata merci da fornitore_260065_20260516_155855.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lf2dlf002t1426gfqv841/GO-PACK-S.R.L.-a-socio-unico-Entrata-merci-da-fornitore_260065_20260516_155855.pdf?rlkey=59bzke61vlocgtep3to3ccqv1&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/GO PACK S.R.L. a socio unico Entrata merci da fornitore_260065_20260516_155855.pdf"
+            },
+            {
+              "nome": "IDEA S.R.L. Entrata merci da fornitore_260066_20260518_174421.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ft5u8x84kdw8yc81ipwmr/IDEA-S.R.L.-Entrata-merci-da-fornitore_260066_20260518_174421.pdf?rlkey=l50phv67075swuh78w69aqabz&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEA S.R.L. Entrata merci da fornitore_260066_20260518_174421.pdf"
+            },
+            {
               "nome": "IDEAM INOX SRL Entrata merci da fornitore_260041_20260510_192305.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -176234,7 +176250,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SIRMAN DDT N° 2025141250 DEL 19.12.2025.pdf"
             }
           ],
-          "_totale_file": 34
+          "_totale_file": 36
         },
         {
           "nome": "FATTURE DA FORNITORE WORKSPACE",
@@ -176246,6 +176262,14 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "settings.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/s7swxkd2j6kg4ogghirrx/settings.json?rlkey=1yu9jg0sa7wfhuzfa0lvcxgxh&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/.claude/settings.json"
+                },
+                {
                   "nome": "settings.local.json",
                   "tipo": "File",
                   "icona": "📎",
@@ -176254,7 +176278,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/.claude/settings.local.json"
                 }
               ],
-              "_totale_file": 1
+              "_totale_file": 2
             },
             {
               "nome": "DA REGISTRARE IN SAP",
@@ -181977,7 +182001,7 @@
               "tipo": "File",
               "icona": "📎",
               "link": "https://www.dropbox.com/scl/fi/5bngasy9x8f586v5eyxti/CLAUDE.md?rlkey=v5fl2wp8w7d6hp5ulbjw60soh&dl=0?raw=1",
-              "dimensione_kb": 3,
+              "dimensione_kb": 4,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/CLAUDE.md"
             },
             {
@@ -181993,8 +182017,16 @@
               "tipo": "File",
               "icona": "📎",
               "link": "https://www.dropbox.com/scl/fi/v2voulp07knpt7mi04q64/GUIDA_SAP_SERVICE_LAYER.md?rlkey=9zjux1f2qrh4g365alffn0sm1&dl=0?raw=1",
-              "dimensione_kb": 18,
+              "dimensione_kb": 19,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/GUIDA_SAP_SERVICE_LAYER.md"
+            },
+            {
+              "nome": "HOUSEKEEPING_REPORT_2026_05_18.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/pvwhs0x2velvjh802ump1/HOUSEKEEPING_REPORT_2026_05_18.md?rlkey=0az6puorbatpmrdzh4j10vkcn&dl=0?raw=1",
+              "dimensione_kb": 24,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/HOUSEKEEPING_REPORT_2026_05_18.md"
             },
             {
               "nome": "ISTRUZIONI_CLAUDE_CODE_FATTURE_ACQUISTI.md",
@@ -182077,7 +182109,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/report_ordini_acquisto.md"
             }
           ],
-          "_totale_file": 721
+          "_totale_file": 723
         },
         {
           "nome": "FATTURE DA FORNITORE XML",
@@ -213909,6 +213941,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA OFFVE-000080-2026 RIF.TATA & CO SRL.pdf"
                 },
                 {
+                  "nome": "ACCIAIO T&D CONFERMA OFFVE-002064-2026 RIF. SANTA LUCIA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/07ch3bo3bceblydfudpjt/ACCIAIO-T-D-CONFERMA-OFFVE-002064-2026-RIF.-SANTA-LUCIA.pdf?rlkey=wpny11xw52f0hw3y4l7niy9lc&dl=0?raw=1",
+                  "dimensione_kb": 686,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA OFFVE-002064-2026 RIF. SANTA LUCIA.pdf"
+                },
+                {
+                  "nome": "ACCIAIO T&D CONFERMA OFFVE-002088-2026 RIF.PASSION SUSHI CORRETTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yq6nenfkralcj8ggw9ta5/ACCIAIO-T-D-CONFERMA-OFFVE-002088-2026-RIF.PASSION-SUSHI-CORRETTA.pdf?rlkey=jq1uweav6fksse6s6fo62kf3z&dl=0?raw=1",
+                  "dimensione_kb": 728,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA OFFVE-002088-2026 RIF.PASSION SUSHI CORRETTA.pdf"
+                },
+                {
                   "nome": "ACCIAIO T&D CONFERMA OFFVE-003956-2025 RIF.CAMPOLEROSE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214093,12 +214141,36 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D RICHIESTA DI OFFERTA_250829_20251027_163919 RIF.MARATEA SERVIZI.pdf"
                 },
                 {
+                  "nome": "ACCIAIO T. & D. SRL CONFERMA OFFVE-002064-2026 RIF. SANTA LUCIA CORRETTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ny0cjisofhp6jur7w25i2/ACCIAIO-T.-D.-SRL-CONFERMA-OFFVE-002064-2026-RIF.-SANTA-LUCIA-CORRETTA.pdf?rlkey=xwrdnpi2lv2p77gmpacj0yk0a&dl=0?raw=1",
+                  "dimensione_kb": 686,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL CONFERMA OFFVE-002064-2026 RIF. SANTA LUCIA CORRETTA.pdf"
+                },
+                {
                   "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260512_183335 RIF. SANTA LUCIA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/gn26hicbhu45rxt1p0omc/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260079_20260512_183335-RIF.-SANTA-LUCIA.pdf?rlkey=ty7gdqo68jkue9qi78hmmnuym&dl=0?raw=1",
                   "dimensione_kb": 67,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260512_183335 RIF. SANTA LUCIA.pdf"
+                },
+                {
+                  "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260518_092736 RIF. SANTA LUCIA modificato.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cfz5krai14116rqka3dhg/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260079_20260518_092736-RIF.-SANTA-LUCIA-modificato.pdf?rlkey=kjo5zhb3ochmd6jqemwlesozd&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260518_092736 RIF. SANTA LUCIA modificato.pdf"
+                },
+                {
+                  "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260088_20260512_121547 RIF. PASSION SUSHI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vqxrupp3xzu1ju8jpu0y3/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260088_20260512_121547-RIF.-PASSION-SUSHI.pdf?rlkey=rqqvkzwqodr99iphlr38ucka2&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL Ordine dacquisto_260088_20260512_121547 RIF. PASSION SUSHI.pdf"
                 },
                 {
                   "nome": "ACCIAIO TeD CONFERMA OFFVE-001268-2026 RIF.ACAL.pdf",
@@ -214147,6 +214219,14 @@
                   "link": "https://www.dropbox.com/scl/fi/zm09o6t41a1ygxfwapjab/AIRFAN-CONFERMA-3744-VICECONTI-SNC-DI-ANTONIO-E-PROSPERO-VICECONTI-CO-RIF.-RUGGIERO.pdf?rlkey=rotj7xw2flq5wnbuniob91sf2&dl=0?raw=1",
                   "dimensione_kb": 107,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/AIRFAN CONFERMA 3744 VICECONTI SNC DI ANTONIO E PROSPERO VICECONTI CO RIF. RUGGIERO.pdf"
+                },
+                {
+                  "nome": "AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260514_172842 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m2mb8spm0c6912odl164d/AIRFAN-dI-MANENTI-C.-s.n.c.-Ordine-dacquisto_260093_20260514_172842-RIF.-MACELLERIA-DE-DIEGO-FILTRI-PER-CENTRALINA.pdf?rlkey=wp9jgzw8cyi96wvxzdflc1xus&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260514_172842 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf"
                 },
                 {
                   "nome": "ARISTARCO Preventivo Viceconti FORNITURA MARZO 2026.pdf",
@@ -214781,6 +214861,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FABIO LEONARDI SRL CONFERMA VICECONTI RIF.REALE GIACOMO.pdf"
                 },
                 {
+                  "nome": "FAC CONFERMA CLI-ORDINE-WEB_VICECONTI SNC di Viceconti_11052026_0000986_00 RIF. .pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/j548326ccrxdr36y0gexh/FAC-CONFERMA-CLI-ORDINE-WEB_VICECONTI-SNC-di-Viceconti_11052026_0000986_00-RIF..pdf?rlkey=s4trk5sqc3un16l3yxi70zt5l&dl=0?raw=1",
+                  "dimensione_kb": 85,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FAC CONFERMA CLI-ORDINE-WEB_VICECONTI SNC di Viceconti_11052026_0000986_00 RIF. .pdf"
+                },
+                {
                   "nome": "FAC Ordine dacquisto_250396_20251006_120723 RIF.ILAMA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214883,6 +214971,14 @@
                   "link": "https://www.dropbox.com/scl/fi/ezfgitt59x1l1yr0zxvgx/FIMAR-s.p.a.-Ordine-dacquisto_260073_20260510_192201-RIF.-AFFETTATRICE-PER-GIOIA-CHALET.pdf?rlkey=vfhqg6mz71vucq1t2wn9ik71f&dl=0?raw=1",
                   "dimensione_kb": 70,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR s.p.a. Ordine dacquisto_260073_20260510_192201 RIF. AFFETTATRICE PER GIOIA CHALET.pdf"
+                },
+                {
+                  "nome": "FIMAR s.p.a. Ordine dacquisto_260073_20260510_192201 RIF. IMPASTATRICE PER GIOIA CHALET.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/w80c9ctq4eq39wsamdq1g/FIMAR-s.p.a.-Ordine-dacquisto_260073_20260510_192201-RIF.-IMPASTATRICE-PER-GIOIA-CHALET.pdf?rlkey=628xch93radcf7sblywn8038c&dl=0?raw=1",
+                  "dimensione_kb": 70,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR s.p.a. Ordine dacquisto_260073_20260510_192201 RIF. IMPASTATRICE PER GIOIA CHALET.pdf"
                 },
                 {
                   "nome": "FIMAR s.p.a. Ordine dacquisto_260084_20260512_194907 RIF. PASSION SUSHI.pdf",
@@ -215181,6 +215277,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX CONFERMA CLI-PREVEN-0003154-00-27042026 RIF. FA TU INTEGRAZIONE TAVOLO.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0003162-00-28042026 RIF.MeM 4 TAVOLI 80X90.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/erarj3amcr8n62yizfeve/IDEAM-INOX-CONFERMA-CLI-PREVEN-0003162-00-28042026-RIF.MeM-4-TAVOLI-80X90.pdf?rlkey=s2hlpw0d0sqt7lab8czius9o7&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX CONFERMA CLI-PREVEN-0003162-00-28042026 RIF.MeM 4 TAVOLI 80X90.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0003243-00-30042026 RIF.MeM.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -215355,6 +215459,30 @@
                   "link": "https://www.dropbox.com/scl/fi/agin3foma66oaf3w2609x/IDEAM-INOX-PREVENTIVO-CLI-PREVEN-0006509-00-26092025-RIF.-CAMPOLEROSE.pdf?rlkey=8u66r4s0ikt3ri3nqokur792r&dl=0?raw=1",
                   "dimensione_kb": 107,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX PREVENTIVO CLI-PREVEN-0006509-00-26092025 RIF. CAMPOLEROSE.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX SRL Ordine dacquisto_260070_20260510_192221.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/n6a0lrqu6j84sh307kuwx/IDEAM-INOX-SRL-Ordine-dacquisto_260070_20260510_192221.pdf?rlkey=8au697em11mbqs852gmiz892j&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX SRL Ordine dacquisto_260070_20260510_192221.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX SRL Ordine dacquisto_260071_20260510_192214.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/llilw377jl056uypa2oki/IDEAM-INOX-SRL-Ordine-dacquisto_260071_20260510_192214.pdf?rlkey=1d6ddi62tpf884yypchcscalf&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX SRL Ordine dacquisto_260071_20260510_192214.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX SRL Ordine dacquisto_260072_20260510_192208.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mhn41x8rbtt7ewvlis3w3/IDEAM-INOX-SRL-Ordine-dacquisto_260072_20260510_192208.pdf?rlkey=czx4719j2n73yhyqm0vfnaiyv&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX SRL Ordine dacquisto_260072_20260510_192208.pdf"
                 },
                 {
                   "nome": "IDEAM INOX SRL Ordine dacquisto_260085_20260512_194753 RIF. PASSION SUSHI CAPPA E MOTORE.pdf",
@@ -216349,41 +216477,41 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3554
+              "_totale_file": 3566
             }
           ],
           "file": [
             {
-              "nome": "ACCIAIO T&D CONFERMA OFFVE-002064-2026 RIF. SANTA LUCIA.pdf",
+              "nome": "ACCIAIO CONFERMA OFFVE-002088-2026 RIF. PASSION SUSHI CORRETTA FIRMATA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/07ch3bo3bceblydfudpjt/ACCIAIO-T-D-CONFERMA-OFFVE-002064-2026-RIF.-SANTA-LUCIA.pdf?rlkey=wpny11xw52f0hw3y4l7niy9lc&dl=0?raw=1",
-              "dimensione_kb": 686,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-002064-2026 RIF. SANTA LUCIA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/ggz6kx97zy2iasgzx4dix/ACCIAIO-CONFERMA-OFFVE-002088-2026-RIF.-PASSION-SUSHI-CORRETTA-FIRMATA.pdf?rlkey=6ln4092q99iex4atfwu2yrhly&dl=0?raw=1",
+              "dimensione_kb": 689,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO CONFERMA OFFVE-002088-2026 RIF. PASSION SUSHI CORRETTA FIRMATA.pdf"
             },
             {
-              "nome": "ACCIAIO T&D CONFERMA OFFVE-002088-2026 RIF.PASSION SUSHI CORRETTA.pdf",
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-001661-2026 RIF. SANTA LUCIA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/yq6nenfkralcj8ggw9ta5/ACCIAIO-T-D-CONFERMA-OFFVE-002088-2026-RIF.PASSION-SUSHI-CORRETTA.pdf?rlkey=jq1uweav6fksse6s6fo62kf3z&dl=0?raw=1",
-              "dimensione_kb": 678,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-002088-2026 RIF.PASSION SUSHI CORRETTA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/0b8wvdtk2powh98croj7k/ACCIAIO-T-D-CONFERMA-ORDVE-001661-2026-RIF.-SANTA-LUCIA.pdf?rlkey=l8sokyrmfrm0j8f08j5w2r5v5&dl=0?raw=1",
+              "dimensione_kb": 742,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001661-2026 RIF. SANTA LUCIA.pdf"
             },
             {
-              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260512_183335 RIF. SANTA LUCIA.pdf",
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-001662-2026 RIF. PASSION SUSHI.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/0unxmuuvo1hhq28fxt4s7/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260079_20260512_183335-RIF.-SANTA-LUCIA.pdf?rlkey=smil39430bjeoj6wsnou8p9ly&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260512_183335 RIF. SANTA LUCIA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/hwiq0n0pyvz5hev5v7le5/ACCIAIO-T-D-CONFERMA-ORDVE-001662-2026-RIF.-PASSION-SUSHI.pdf?rlkey=3iuf0qxk7l3ll1rutwtuenicf&dl=0?raw=1",
+              "dimensione_kb": 733,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001662-2026 RIF. PASSION SUSHI.pdf"
             },
             {
-              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260088_20260512_121547 RIF. PASSION SUSHI.pdf",
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260518_092736 RIF. SANTA LUCIA modificato.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/vqxrupp3xzu1ju8jpu0y3/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260088_20260512_121547-RIF.-PASSION-SUSHI.pdf?rlkey=rqqvkzwqodr99iphlr38ucka2&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260088_20260512_121547 RIF. PASSION SUSHI.pdf"
+              "link": "https://www.dropbox.com/scl/fi/h7qrbbr56wotm6g5mm7gu/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260079_20260518_092736-RIF.-SANTA-LUCIA-modificato.pdf?rlkey=qtob27udl3ijs5bmjdmyb6wds&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260518_092736 RIF. SANTA LUCIA modificato.pdf"
             },
             {
               "nome": "AIRFAN dI MANENTI & C. s.n.c. CONFERMA ORDINE 2092 DEL 14_05_2026 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf",
@@ -216394,12 +216522,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN dI MANENTI & C. s.n.c. CONFERMA ORDINE 2092 DEL 14_05_2026 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf"
             },
             {
-              "nome": "AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260512_192537 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf",
+              "nome": "AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260514_172842 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/kj9uybyyv2wcpuyi6bvxg/AIRFAN-dI-MANENTI-C.-s.n.c.-Ordine-dacquisto_260093_20260512_192537-RIF.-MACELLERIA-DE-DIEGO-FILTRI-PER-CENTRALINA.pdf?rlkey=ldlhjdyqz8k4kvtr7fykkd0eq&dl=0?raw=1",
-              "dimensione_kb": 277,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260512_192537 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/7neftbmfl9087as9qd483/AIRFAN-dI-MANENTI-C.-s.n.c.-Ordine-dacquisto_260093_20260514_172842-RIF.-MACELLERIA-DE-DIEGO-FILTRI-PER-CENTRALINA.pdf?rlkey=8kivzktn9xo6m1wvrp48m8e88&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260514_172842 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf"
             },
             {
               "nome": "ARISTARCO SPA Ordine dacquisto_260062_20260512_110258.pdf",
@@ -216434,14 +216562,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB CONFERMA ORDINE FE1A0399-BCD6-42DA-88A5-42D9705B286C RIF. PIETRA LAVICA 1 PER CARCONI.PDF"
             },
             {
-              "nome": "CB SRL Ordine dacquisto_260092_20260512_190159 RIF. SACCO DI PIETRA LAVICA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/eapo2t4qlos58x07j7qxs/CB-SRL-Ordine-dacquisto_260092_20260512_190159-RIF.-SACCO-DI-PIETRA-LAVICA.pdf?rlkey=basu4bmy368f5xalwqm3s3w87&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB SRL Ordine dacquisto_260092_20260512_190159 RIF. SACCO DI PIETRA LAVICA.pdf"
-            },
-            {
               "nome": "COLDLINE Conferma ordine n°26-08367 RIF. LO RUSSO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -216458,36 +216578,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-08381 RIF. PASSION SUSHI.pdf"
             },
             {
-              "nome": "COLDLINE srl Ordine dacquisto_260086_20260512_194234 RIF. PASSION SUSHI.pdf",
+              "nome": "FIMAR CONFERMA ORDINE 2026W03882VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. CARCONI MAG MIXER.PDF",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ow5rds282yhn6ppiq07nl/COLDLINE-srl-Ordine-dacquisto_260086_20260512_194234-RIF.-PASSION-SUSHI.pdf?rlkey=rau7ff9uxcps4j1jsy2ogtjpc&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE srl Ordine dacquisto_260086_20260512_194234 RIF. PASSION SUSHI.pdf"
-            },
-            {
-              "nome": "COLDLINE srl Ordine dacquisto_260090_20260512_163814 RIF. LO RUSSO GRIGLIE PLASTIFICATE COLDLINE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/oe1fb9kyyqdl4c1owatqr/COLDLINE-srl-Ordine-dacquisto_260090_20260512_163814-RIF.-LO-RUSSO-GRIGLIE-PLASTIFICATE-COLDLINE.pdf?rlkey=iga40qo8hdhf3a0lhjdco755s&dl=0?raw=1",
-              "dimensione_kb": 65,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE srl Ordine dacquisto_260090_20260512_163814 RIF. LO RUSSO GRIGLIE PLASTIFICATE COLDLINE.pdf"
-            },
-            {
-              "nome": "FAC CONFERMA CLI-ORDINE-WEB_VICECONTI SNC di Viceconti_11052026_0000986_00 RIF. .pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/j548326ccrxdr36y0gexh/FAC-CONFERMA-CLI-ORDINE-WEB_VICECONTI-SNC-di-Viceconti_11052026_0000986_00-RIF..pdf?rlkey=s4trk5sqc3un16l3yxi70zt5l&dl=0?raw=1",
-              "dimensione_kb": 85,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FAC CONFERMA CLI-ORDINE-WEB_VICECONTI SNC di Viceconti_11052026_0000986_00 RIF. .pdf"
-            },
-            {
-              "nome": "FAMA INDUSTRIE SRL Ordine dacquisto_260075_20260512_100530 RIF. TAGLIO PER SFOGLIATRICE E ADATTATORE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/l3uoh05u7obub6efdanmw/FAMA-INDUSTRIE-SRL-Ordine-dacquisto_260075_20260512_100530-RIF.-TAGLIO-PER-SFOGLIATRICE-E-ADATTATORE.pdf?rlkey=u4m2znuitjbtsd7draah2ir1e&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FAMA INDUSTRIE SRL Ordine dacquisto_260075_20260512_100530 RIF. TAGLIO PER SFOGLIATRICE E ADATTATORE.pdf"
+              "link": "https://www.dropbox.com/scl/fi/rnxkjw35ffav3qubfu83d/FIMAR-CONFERMA-ORDINE-2026W03882VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.-CARCONI-MAG-MIXER.PDF?rlkey=bayyxyky6ywmz5jr39485anl0&dl=0?raw=1",
+              "dimensione_kb": 132,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W03882VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. CARCONI MAG MIXER.PDF"
             },
             {
               "nome": "FIMAR CONFERMA ORDINE 3693 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF",
@@ -216498,20 +216594,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 3693 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF"
             },
             {
-              "nome": "FIMAR s.p.a. Ordine dacquisto_260073_20260510_192201 RIF. AFFETTATRICE PER GIOIA CHALET.pdf",
+              "nome": "GO PACK S.R.L. a socio unico Ordine dacquisto_260099_20260518_094118.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/w80c9ctq4eq39wsamdq1g/FIMAR-s.p.a.-Ordine-dacquisto_260073_20260510_192201-RIF.-AFFETTATRICE-PER-GIOIA-CHALET.pdf?rlkey=628xch93radcf7sblywn8038c&dl=0?raw=1",
-              "dimensione_kb": 70,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260073_20260510_192201 RIF. AFFETTATRICE PER GIOIA CHALET.pdf"
-            },
-            {
-              "nome": "FIMAR s.p.a. Ordine dacquisto_260084_20260512_194907 RIF. PASSION SUSHI.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/swpogt1pc3aumrnd9c2uw/FIMAR-s.p.a.-Ordine-dacquisto_260084_20260512_194907-RIF.-PASSION-SUSHI.pdf?rlkey=bfsvfsaevym5o61eivlgiekzr&dl=0?raw=1",
-              "dimensione_kb": 71,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260084_20260512_194907 RIF. PASSION SUSHI.pdf"
+              "link": "https://www.dropbox.com/scl/fi/4u2bwa31ylgsa7t0d0dkh/GO-PACK-S.R.L.-a-socio-unico-Ordine-dacquisto_260099_20260518_094118.pdf?rlkey=cn10vafyhgh58dcaolstyx2lw&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/GO PACK S.R.L. a socio unico Ordine dacquisto_260099_20260518_094118.pdf"
             },
             {
               "nome": "HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF",
@@ -216522,14 +216610,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF"
             },
             {
-              "nome": "HENDI ITALIA SRL Ordine dacquisto_260089_20260512_120736 RIF. PASSION SUSHI INDUZIONE E VETRINA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/o6w7iy9njr7flpgqmffke/HENDI-ITALIA-SRL-Ordine-dacquisto_260089_20260512_120736-RIF.-PASSION-SUSHI-INDUZIONE-E-VETRINA.pdf?rlkey=4gfh0qwrw0huboklesiq1lpm6&dl=0?raw=1",
-              "dimensione_kb": 58,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HENDI ITALIA SRL Ordine dacquisto_260089_20260512_120736 RIF. PASSION SUSHI INDUZIONE E VETRINA.pdf"
-            },
-            {
               "nome": "HOSHIZAKI Ordine dacquisto_250447_20251110_125550 RIF.CALA DEL CITRO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -216538,12 +216618,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HOSHIZAKI Ordine dacquisto_250447_20251110_125550 RIF.CALA DEL CITRO.pdf"
             },
             {
-              "nome": "IDEAM INOX CONFERMA CLI-PREVEN-0003162-00-28042026 RIF.MeM 4 TAVOLI 80X90.pdf",
+              "nome": "IDEA S.R.L. Ordine dacquisto_260101_20260518_164534 RIF. AFFETTATRICE IDEA 25 CASA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/erarj3amcr8n62yizfeve/IDEAM-INOX-CONFERMA-CLI-PREVEN-0003162-00-28042026-RIF.MeM-4-TAVOLI-80X90.pdf?rlkey=s2hlpw0d0sqt7lab8czius9o7&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA CLI-PREVEN-0003162-00-28042026 RIF.MeM 4 TAVOLI 80X90.pdf"
+              "link": "https://www.dropbox.com/scl/fi/dwxhca284yn21fzedsypo/IDEA-S.R.L.-Ordine-dacquisto_260101_20260518_164534-RIF.-AFFETTATRICE-IDEA-25-CASA.pdf?rlkey=6avd5l804qmxtm06c5vt5debq&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEA S.R.L. Ordine dacquisto_260101_20260518_164534 RIF. AFFETTATRICE IDEA 25 CASA.pdf"
             },
             {
               "nome": "IDEAM INOX CONFERMA ORDINE 1ID000000000000_N0001829 RIF.MeM_CAPPA e MOTORI.pdf",
@@ -216570,6 +216650,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600018292_N0002046 RIF. FA TU INTEGRAZIONE TAVOLO.pdf"
             },
             {
+              "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600018403_N0002061 RIF. MeM 4 TAVOLI 80X90.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zbxnv4domqe1ntkwzpb7g/IDEAM-INOX-CONFERMA-ORDINE-1ID202600018403_N0002061-RIF.-MeM-4-TAVOLI-80X90.pdf?rlkey=zm9mtxtnp0zptyh4uoo6qvfas&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600018403_N0002061 RIF. MeM 4 TAVOLI 80X90.pdf"
+            },
+            {
               "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600019557_N0002162 RIF. MeM APPRONTAMENTO 28_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -216592,38 +216680,6 @@
               "link": "https://www.dropbox.com/scl/fi/72i0novcrmairbrp67pki/IDEAM-INOX-CONFERMA-ORDINE-1ID202600021025_N0002353-RIF.-PASSION-SUSHI-CAPPA-E-MOTORE.pdf?rlkey=f8lze4low0ehb4uk10f5ao52m&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600021025_N0002353 RIF. PASSION SUSHI CAPPA E MOTORE.pdf"
-            },
-            {
-              "nome": "IDEAM INOX SRL Ordine dacquisto_260070_20260510_192221.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/n6a0lrqu6j84sh307kuwx/IDEAM-INOX-SRL-Ordine-dacquisto_260070_20260510_192221.pdf?rlkey=8au697em11mbqs852gmiz892j&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX SRL Ordine dacquisto_260070_20260510_192221.pdf"
-            },
-            {
-              "nome": "IDEAM INOX SRL Ordine dacquisto_260071_20260510_192214.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/llilw377jl056uypa2oki/IDEAM-INOX-SRL-Ordine-dacquisto_260071_20260510_192214.pdf?rlkey=1d6ddi62tpf884yypchcscalf&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX SRL Ordine dacquisto_260071_20260510_192214.pdf"
-            },
-            {
-              "nome": "IDEAM INOX SRL Ordine dacquisto_260072_20260510_192208.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mhn41x8rbtt7ewvlis3w3/IDEAM-INOX-SRL-Ordine-dacquisto_260072_20260510_192208.pdf?rlkey=czx4719j2n73yhyqm0vfnaiyv&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX SRL Ordine dacquisto_260072_20260510_192208.pdf"
-            },
-            {
-              "nome": "IDEAM INOX SRL Ordine dacquisto_260085_20260512_194753 RIF. PASSION SUSHI CAPPA E MOTORE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/q0i1881b4y3dfbqc2go5z/IDEAM-INOX-SRL-Ordine-dacquisto_260085_20260512_194753-RIF.-PASSION-SUSHI-CAPPA-E-MOTORE.pdf?rlkey=6d2fdqqpfh91dg0raxvdct8km&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX SRL Ordine dacquisto_260085_20260512_194753 RIF. PASSION SUSHI CAPPA E MOTORE.pdf"
             },
             {
               "nome": "MECNOSUD S.R.L. Ordine dacquisto_260044_20260513_183524 RIF. MeM IMPASTATRICE IM25D.pdf",
@@ -216661,25 +216717,17 @@
               "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260080_20260513_131433 RIF. SANTA LUCIA CIUCINA E GRIGLIA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/jaa2qfy2kuqs4wxtr0frr/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260080_20260513_131433-RIF.-SANTA-LUCIA-CIUCINA-E-GRIGLIA.pdf?rlkey=kfx4id97u3kr3pafh1ye30b2q&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/scfbfytouzdph5d29bco6/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260080_20260513_131433-RIF.-SANTA-LUCIA-CIUCINA-E-GRIGLIA.pdf?rlkey=jcwshujy9vtvmgn9dj96ufq0i&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260080_20260513_131433 RIF. SANTA LUCIA CIUCINA E GRIGLIA.pdf"
             },
             {
-              "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260081_20260512_172941 RIF. LA SORGENTE FRIGGITRICE MODULAR.pdf",
+              "nome": "SIRMAN spa Ordine dacquisto_260087_20260518_171047 RIF. PASSION SUSHI CUOCIPASTA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nfzaxsuneky7t6kx562km/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260081_20260512_172941-RIF.-LA-SORGENTE-FRIGGITRICE-MODULAR.pdf?rlkey=w9evebjalhwfdqdto5xfu9gzc&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260081_20260512_172941 RIF. LA SORGENTE FRIGGITRICE MODULAR.pdf"
-            },
-            {
-              "nome": "SIRMAN spa Ordine dacquisto_260087_20260512_122652 RIF. PASSION SUSHI CUOCIPASTA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nd8p3a7414zg1tcmcdq3o/SIRMAN-spa-Ordine-dacquisto_260087_20260512_122652-RIF.-PASSION-SUSHI-CUOCIPASTA.pdf?rlkey=ymgla0qmrsiwiuuqtpkozr2j9&dl=0?raw=1",
-              "dimensione_kb": 58,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260087_20260512_122652 RIF. PASSION SUSHI CUOCIPASTA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/blwba1h5uxawxxvecife1/SIRMAN-spa-Ordine-dacquisto_260087_20260518_171047-RIF.-PASSION-SUSHI-CUOCIPASTA.pdf?rlkey=5ojth4srz1708ohig2orlhxlx&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260087_20260518_171047 RIF. PASSION SUSHI CUOCIPASTA.pdf"
             },
             {
               "nome": "TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf",
@@ -216690,7 +216738,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3596
+          "_totale_file": 3598
         }
       ],
       "file": []
