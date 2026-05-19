@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-19T00:28:42Z",
-  "totale_file": 24686,
+  "generato": "2026-05-19T02:32:41Z",
+  "totale_file": 24691,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -133709,7 +133709,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4350,
+      "totale_file": 4355,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -144696,7 +144696,7 @@
                       "nome": "Privacy Turist Calabria srl.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/th473sjy3lj0n50lesb5f/Privacy-Turist-Calabria-srl.pdf?rlkey=j3pp3yicnuaizrdgq9dnprlbz&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 19663,
                       "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/PRAIA A MARE/TURIST CALABRIA srl La Mantinera/Privacy Turist Calabria srl.pdf"
                     },
@@ -170725,6 +170725,46 @@
           ],
           "file": [
             {
+              "nome": "001.SEDEX XLINE_BASAMENTI_2026_LISTINO PIANI HPL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1uzg32ijbqi8ztzdm21jd/001.SEDEX-XLINE_BASAMENTI_2026_LISTINO-PIANI-HPL.pdf?rlkey=vkst24oz3ac9eo2vdiv0rwoop&dl=0?raw=1",
+              "dimensione_kb": 309,
+              "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/001.SEDEX XLINE_BASAMENTI_2026_LISTINO PIANI HPL.pdf"
+            },
+            {
+              "nome": "001.SEDEX XLINE_BASAMENTI_2026_LISTINO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ubn7d27k1p7u3wnbj9vd8/001.SEDEX-XLINE_BASAMENTI_2026_LISTINO.pdf?rlkey=9apmmk83czvtbnjade9fcbjf8&dl=0?raw=1",
+              "dimensione_kb": 4998,
+              "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/001.SEDEX XLINE_BASAMENTI_2026_LISTINO.pdf"
+            },
+            {
+              "nome": "002.SEDEX XLINE_BASAMENTI_2026_CATALOGO PAGINA HPL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6dqv0iex43cx2a6snyl4v/002.SEDEX-XLINE_BASAMENTI_2026_CATALOGO-PAGINA-HPL.pdf?rlkey=8jrqtgczqdp3n4gmyro52vwqq&dl=0?raw=1",
+              "dimensione_kb": 264,
+              "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/002.SEDEX XLINE_BASAMENTI_2026_CATALOGO PAGINA HPL.pdf"
+            },
+            {
+              "nome": "002.SEDEX XLINE_BASAMENTI_2026_CATALOGO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g78w0pt3gcbhuksisx2rd/002.SEDEX-XLINE_BASAMENTI_2026_CATALOGO.pdf?rlkey=6wj885wwx4vtgdo0h5ztaqkg4&dl=0?raw=1",
+              "dimensione_kb": 12517,
+              "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/002.SEDEX XLINE_BASAMENTI_2026_CATALOGO.pdf"
+            },
+            {
+              "nome": "COND VEND 2026 IT.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1rctlt15pjcrwonxwm5kw/COND-VEND-2026-IT.pdf?rlkey=0a92drgxnsuv45qo7aodxtd7t&dl=0?raw=1",
+              "dimensione_kb": 258,
+              "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/COND VEND 2026 IT.pdf"
+            },
+            {
               "nome": "MAIL DEL 24_05_2022.jpg",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -170765,7 +170805,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/XLINE_sedie_cat_2022.pdf"
             }
           ],
-          "_totale_file": 23
+          "_totale_file": 28
         },
         {
           "nome": "SELMABIPIEMME",
