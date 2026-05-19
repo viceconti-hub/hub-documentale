@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-19T07:28:44Z",
-  "totale_file": 24718,
+  "generato": "2026-05-19T08:34:11Z",
+  "totale_file": 24719,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -216747,7 +216747,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2353,
+      "totale_file": 2354,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -229491,7 +229491,7 @@
                               "nome": "IDEA BONIFICO DEL 07_12_2023.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": null,
+                              "link": "https://www.dropbox.com/scl/fi/edpsxrq8udz7c36qhtwh0/IDEA-BONIFICO-DEL-07_12_2023.pdf?rlkey=7puv9rctdqd4y6d5vgc7agt6s&dl=0?raw=1",
                               "dimensione_kb": 96,
                               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/ARCHIVIO/ARCHIVIO DEL 15_05_2026/IDEA SRL PAGAMENTI/IDEA BONIFICO DEL 07_12_2023.pdf"
                             },
@@ -237265,6 +237265,14 @@
               ],
               "file": [
                 {
+                  "nome": "AIRFAN Dettaglio bonifico istantaneo DEL 19_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4ulkf0u9ujhkbulqfhhnf/AIRFAN-Dettaglio-bonifico-istantaneo-DEL-19_05_2026.pdf?rlkey=aq4r9zyv6gr0la8ltv2n8oqav&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/AIRFAN Dettaglio bonifico istantaneo DEL 19_05_2026.pdf"
+                },
+                {
                   "nome": "AMETRANO BONIFICO ISTANTANEO SMART CBI - Firma DEL 16_04_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -237929,11 +237937,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
                 }
               ],
-              "_totale_file": 2333
+              "_totale_file": 2334
             }
           ],
           "file": [],
-          "_totale_file": 2333
+          "_totale_file": 2334
         }
       ],
       "file": []
