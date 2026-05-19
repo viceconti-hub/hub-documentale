@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-19T02:32:41Z",
-  "totale_file": 24691,
+  "generato": "2026-05-19T05:22:22Z",
+  "totale_file": 24712,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5491,
+      "totale_file": 5512,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -22,6 +22,22 @@
               "link": "https://www.dropbox.com/scl/fi/tnqoy5s0vva660aikqo6b/3AM-SRL-HOTEL-MARTINO-Consegna_260265_20260511_202534.pdf?rlkey=k7cmekrz38r4hdd3kukdzggeb&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/3AM SRL HOTEL MARTINO Consegna_260265_20260511_202534.pdf"
+            },
+            {
+              "nome": "CARNI LIMONGI SRL Consegna_260276_20260516_155927 RIF. LEVA NERA PER MISCELATORE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mki1g91z9lpbs6sv9e92k/CARNI-LIMONGI-SRL-Consegna_260276_20260516_155927-RIF.-LEVA-NERA-PER-MISCELATORE.pdf?rlkey=h2le62j3aauxz0lg3zv89opu3&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CARNI LIMONGI SRL Consegna_260276_20260516_155927 RIF. LEVA NERA PER MISCELATORE.pdf"
+            },
+            {
+              "nome": "CARNI LIMONGI SRL Consegna_260277_20260516_160028 RIF. PELLICOLA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4d4jqtq90349zir6a800h/CARNI-LIMONGI-SRL-Consegna_260277_20260516_160028-RIF.-PELLICOLA.pdf?rlkey=u9r1pr7s8ama3i2q89j5d33ar&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CARNI LIMONGI SRL Consegna_260277_20260516_160028 RIF. PELLICOLA.pdf"
             },
             {
               "nome": "DIMAC SRL Consegna_260266_20260512_100144 RIF. DETERGENTE RATIONAL ROSSO.pdf",
@@ -38,6 +54,14 @@
               "link": "https://www.dropbox.com/scl/fi/5i44w0y6rnnbiznxuwx7f/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_260270_20260514_103109-RIF.-CONENTITORI-POLIPROPILENE-URGENTE.pdf?rlkey=ev2glv1taise16p1sqr2fxczq&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260270_20260514_103109 RIF. CONENTITORI POLIPROPILENE URGENTE.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_260274_20260516_102950.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/257dc12gs1tf60zn45mh6/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_260274_20260516_102950.pdf?rlkey=5l1d0njt5igomphzs2o8i5hbf&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260274_20260516_102950.pdf"
             },
             {
               "nome": "GRAN SOLE S.r.l. Consegna_260264_20260510_123412.pdf",
@@ -80,6 +104,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/INGROIA ANTONIO Consegna_260258_20260514_130853.pdf"
             },
             {
+              "nome": "LA SECCA E IL MIRTO SOCIETA' COOPERATIVA Consegna_260275_20260516_105236 RIF. TUBO SCARICO PER LAVASTOVIGLIE COMENDA RG20.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rhpbm7ggmm8irnxqdbb3k/LA-SECCA-E-IL-MIRTO-SOCIETA-COOPERATIVA-Consegna_260275_20260516_105236-RIF.-TUBO-SCARICO-PER-LAVASTOVIGLIE-COMENDA-RG20.pdf?rlkey=94wrnolkr2jvcdhqtnshqzlvf&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA SECCA E IL MIRTO SOCIETA' COOPERATIVA Consegna_260275_20260516_105236 RIF. TUBO SCARICO PER LAVASTOVIGLIE COMENDA RG20.pdf"
+            },
+            {
               "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260273_20260515_124403 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -96,13 +128,37 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/VELARDI Srl Consegna_260271_20260515_100703 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 10
+          "_totale_file": 14
+        },
+        {
+          "nome": "FATTURE DI VENDITA",
+          "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "VELARDI Srl Fattura di vendita_2600101_20260515_172849 RIF. ARREDO INOX PIAZZA EUROPA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/h605tdddbvvpcb2kdfqnl/VELARDI-Srl-Fattura-di-vendita_2600101_20260515_172849-RIF.-ARREDO-INOX-PIAZZA-EUROPA.pdf?rlkey=gujfv3kg6zdlh9pzs02taq62t&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VELARDI Srl Fattura di vendita_2600101_20260515_172849 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
+            }
+          ],
+          "_totale_file": 1
         },
         {
           "nome": "OFFERTE DI VENDITA",
           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA",
           "cartelle": [],
           "file": [
+            {
+              "nome": "CARACOJ PRAJA SRL Offerta di vendita_260174_20260518_183252 RIF. ATTREZZATURE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1fx9sb8z4f6gpnjn7eddj/CARACOJ-PRAJA-SRL-Offerta-di-vendita_260174_20260518_183252-RIF.-ATTREZZATURE.pdf?rlkey=3e33wm1t7d0t0h5xhlwep0vc5&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CARACOJ PRAJA SRL Offerta di vendita_260174_20260518_183252 RIF. ATTREZZATURE.pdf"
+            },
             {
               "nome": "DA SPECIFICARE Offerta di vendita_200479_20260514_173119.pdf",
               "tipo": "PDF",
@@ -160,6 +216,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260165_20260514_203416.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Offerta di vendita_260172_20260516_101024.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pzkzv8zs7lzoymq24s6cx/DA-SPECIFICARE-Offerta-di-vendita_260172_20260516_101024.pdf?rlkey=qqy97acdx9nn23kepmg20hi8e&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260172_20260516_101024.pdf"
+            },
+            {
               "nome": "DIMAC SRL Offerta di vendita_260164_20260515_105156 RIF. CARTUCCE A CARBONE ATTIVO PER GRUPPO DI FILTRAZIONE CF1115.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -174,6 +238,14 @@
               "link": "https://www.dropbox.com/scl/fi/qul29gdzgirwtz272jxtf/ESCOPOCO-S.R.L.-Offerta-di-vendita_260171_20260515_190457-RIF.-GRIGLIA-FORATA-PER-GRIGLIARE.pdf?rlkey=8nylmlqryl7ixpyyv27ts4aua&dl=0?raw=1",
               "dimensione_kb": 74,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ESCOPOCO S.R.L. Offerta di vendita_260171_20260515_190457 RIF. GRIGLIA FORATA PER GRIGLIARE.pdf"
+            },
+            {
+              "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Offerta di vendita_260173_20260518_170338.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/77rdyd0018c3xiniu2nbv/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Offerta-di-vendita_260173_20260518_170338.pdf?rlkey=rts891aegess4j0dvad93strb&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Offerta di vendita_260173_20260518_170338.pdf"
             },
             {
               "nome": "INGROIA ANTONIO Offerta di vendita_260148_20260510_123348.pdf",
@@ -222,6 +294,14 @@
               "link": "https://www.dropbox.com/scl/fi/sgxcb2mo90da9zapqd8ka/LUTIPICO-SRLS-Offerta-di-vendita_260162_20260514_202207.pdf?rlkey=e4r32pbrxsejkt346bnyfoft7&dl=0?raw=1",
               "dimensione_kb": 77,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LUTIPICO SRLS Offerta di vendita_260162_20260514_202207.pdf"
+            },
+            {
+              "nome": "ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260518_184806.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rt8xx6a2rkb426xkj3wte/ONY-ROBY-PAOLINO-SRL-Offerta-di-vendita_260175_20260518_184806.pdf?rlkey=9v9lri03cvfixnqw7uxp4plvm&dl=0?raw=1",
+              "dimensione_kb": 83,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260518_184806.pdf"
             },
             {
               "nome": "PANAINO SRL UNIPERSONALE Offerta di vendita_260167_20260515_165151 RIF. TAVOLO REFRIGERATO 2 SPORTELLI 151X80.pdf",
@@ -296,7 +376,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260170_20260515_182140 RIF. CALICI BIRRA WEIZEN.pdf"
             }
           ],
-          "_totale_file": 24
+          "_totale_file": 28
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -11616,6 +11696,71 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO",
                       "cartelle": [
                         {
+                          "nome": "DE FILIPPO 06_2020",
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020",
+                          "cartelle": [
+                            {
+                              "nome": "DOCCIA PRELAVAGGIO",
+                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/DOCCIA PRELAVAGGIO",
+                              "cartelle": [],
+                              "file": [
+                                {
+                                  "nome": "Offerta di vendita_200328_20200618_184717.pdf",
+                                  "tipo": "PDF",
+                                  "icona": "📄",
+                                  "link": "https://www.dropbox.com/scl/fi/eqd13hib0tfwv7ql98prp/Offerta-di-vendita_200328_20200618_184717.pdf?rlkey=mew3u9tjgqbz44mp1ghmq9se1&dl=0?raw=1",
+                                  "dimensione_kb": 67,
+                                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/DOCCIA PRELAVAGGIO/Offerta di vendita_200328_20200618_184717.pdf"
+                                }
+                              ],
+                              "_totale_file": 1
+                            }
+                          ],
+                          "file": [
+                            {
+                              "nome": "DE FILIPPO OFFERTA PEDANE + SCAFFALI.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/qfh9cag4okype94nmwu6j/DE-FILIPPO-OFFERTA-PEDANE-SCAFFALI.pdf?rlkey=xeo5fozmgen4z1uq6pbe65c6s&dl=0?raw=1",
+                              "dimensione_kb": 76,
+                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/DE FILIPPO OFFERTA PEDANE + SCAFFALI.pdf"
+                            },
+                            {
+                              "nome": "Klarco - catalogo STYL201002.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/fsgqhbo55oc1gd2q9kui9/Klarco-catalogo-STYL201002.pdf?rlkey=bvm5o4jf6a4n3wya4z5l0r7gf&dl=0?raw=1",
+                              "dimensione_kb": 16954,
+                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/Klarco - catalogo STYL201002.pdf"
+                            },
+                            {
+                              "nome": "Offerta di vendita_200311_20200616_184902.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/33tmhps56zks5u9yri8j2/Offerta-di-vendita_200311_20200616_184902.pdf?rlkey=9pa22c7k6iqzn2o6dgj7acbjt&dl=0?raw=1",
+                              "dimensione_kb": 70,
+                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/Offerta di vendita_200311_20200616_184902.pdf"
+                            },
+                            {
+                              "nome": "Offerta di vendita_200321_20200618_102830.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/obovppskac1ek5ho18khq/Offerta-di-vendita_200321_20200618_102830.pdf?rlkey=6qnvq5ipkgmc0bcewq922pxxa&dl=0?raw=1",
+                              "dimensione_kb": 68,
+                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/Offerta di vendita_200321_20200618_102830.pdf"
+                            },
+                            {
+                              "nome": "lf_rubinetteria_new_2017_IT.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/ff4hu8sbnsjo4en2h8h4t/lf_rubinetteria_new_2017_IT.pdf?rlkey=otvolnpxpsjbgkejxbbo9e9wx&dl=0?raw=1",
+                              "dimensione_kb": 6645,
+                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO 06_2020/lf_rubinetteria_new_2017_IT.pdf"
+                            }
+                          ],
+                          "_totale_file": 6
+                        },
+                        {
                           "nome": "DE FILIPPO LIDO LE PERGOLE",
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DE FILIPPO/DE FILIPPO LIDO LE PERGOLE",
                           "cartelle": [],
@@ -11793,7 +11938,7 @@
                         }
                       ],
                       "file": [],
-                      "_totale_file": 16
+                      "_totale_file": 22
                     },
                     {
                       "nome": "DE FRANCO GIUSEPPE",
@@ -29041,7 +29186,7 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/Ordine dacquisto_210779_NUOVO ORDINE KONTIKY.pdf"
                     }
                   ],
-                  "_totale_file": 2397
+                  "_totale_file": 2403
                 },
                 {
                   "nome": "ARCI",
@@ -57822,11 +57967,11 @@
                 }
               ],
               "file": [],
-              "_totale_file": 5305
+              "_totale_file": 5311
             }
           ],
           "file": [],
-          "_totale_file": 5440
+          "_totale_file": 5446
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -57842,12 +57987,20 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CALA DEL CITRO S.R.L.S. Ordine cliente_250769_20260510_212540.pdf"
             },
             {
-              "nome": "CHALET BOSCO DIFESA di GIOIA NATALE Ordine cliente_260131_20260510_191141 RIF. IMPASTATRICE FIMAR 25 KG.pdf",
+              "nome": "CARNI LIMONGI SRL Ordine cliente_260149_20260516_160013 RIF. PELLICOLA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/c00uktjn3dlbr04ed8176/CHALET-BOSCO-DIFESA-di-GIOIA-NATALE-Ordine-cliente_260131_20260510_191141-RIF.-IMPASTATRICE-FIMAR-25-KG.pdf?rlkey=4rd0vdmevebgf8rw1uf1xpxbj&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHALET BOSCO DIFESA di GIOIA NATALE Ordine cliente_260131_20260510_191141 RIF. IMPASTATRICE FIMAR 25 KG.pdf"
+              "link": "https://www.dropbox.com/scl/fi/a3pfrvp4506ivnoo17n4s/CARNI-LIMONGI-SRL-Ordine-cliente_260149_20260516_160013-RIF.-PELLICOLA.pdf?rlkey=vnw4xuc27c03b2aave3bjk272&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CARNI LIMONGI SRL Ordine cliente_260149_20260516_160013 RIF. PELLICOLA.pdf"
+            },
+            {
+              "nome": "CHALET BOSCO DIFESA di GIOIA NATALE Ordine cliente_260131_20260516_160328 RIF. IMPASTATRICE FIMAR 25 KG.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u85lq93g4n7e67djndm5p/CHALET-BOSCO-DIFESA-di-GIOIA-NATALE-Ordine-cliente_260131_20260516_160328-RIF.-IMPASTATRICE-FIMAR-25-KG.pdf?rlkey=nns12pkho6ag0jvy72olcsa5e&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHALET BOSCO DIFESA di GIOIA NATALE Ordine cliente_260131_20260516_160328 RIF. IMPASTATRICE FIMAR 25 KG.pdf"
             },
             {
               "nome": "CHECK Srl BAR MATER DEI Ordine cliente_260140_20260512_170003 RIF. DETERGENTE ECOSAN DET 6 QTA'1.pdf",
@@ -57874,6 +58027,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260144_20260513_111800 RIF. DETERGENTE LAVABAR.pdf"
             },
             {
+              "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260153_20260518_170835.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ksvverm5xh8y4wi5ci4un/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Ordine-cliente_260153_20260518_170835.pdf?rlkey=hc3hh83q5e48goi4ysltfhhy4&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260153_20260518_170835.pdf"
+            },
+            {
+              "nome": "IELPO NICOLA Ordine cliente_260152_20260518_162835 RIF. AFFETTATRICE IDEA 25 CASA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/12s4j5xigcuuxfiypvbua/IELPO-NICOLA-Ordine-cliente_260152_20260518_162835-RIF.-AFFETTATRICE-IDEA-25-CASA.pdf?rlkey=r8d8vs56v8a9p6vxt1aai8m7z&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/IELPO NICOLA Ordine cliente_260152_20260518_162835 RIF. AFFETTATRICE IDEA 25 CASA.pdf"
+            },
+            {
               "nome": "IL LUCANO SRLS Ordine cliente_260128_20260510_191200 RIF. COPERCHIO POLIPROPILENE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -57898,6 +58067,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/INGROIA ANTONIO Ordine cliente_260132_20260510_191132 RIF. AFFETTATRICE URGENTE.pdf"
             },
             {
+              "nome": "LA SECCA E IL MIRTO SOCIETA' COOPERATIVA Ordine cliente_260148_20260516_104835 RIF. TUBO SCARICO PER LAVASTOVIGLIE COMENDA RG20.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ya2xmsgspfumrzc1h07p3/LA-SECCA-E-IL-MIRTO-SOCIETA-COOPERATIVA-Ordine-cliente_260148_20260516_104835-RIF.-TUBO-SCARICO-PER-LAVASTOVIGLIE-COMENDA-RG20.pdf?rlkey=7zdt59am67oqk9koex93w5fj5&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA SECCA E IL MIRTO SOCIETA' COOPERATIVA Ordine cliente_260148_20260516_104835 RIF. TUBO SCARICO PER LAVASTOVIGLIE COMENDA RG20.pdf"
+            },
+            {
               "nome": "LA SORGENTE ORDINE FRIGGTRICE A GAS MODULAR MAGGIO 2026.jpg",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -57912,6 +58089,14 @@
               "link": "https://www.dropbox.com/scl/fi/ctle9kl1jdenjfyethzt1/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Ordine-cliente_260147_20260515_120044-RIF.-DETERGENTE-RATIONAL-ROSSO-QTA-2.pdf?rlkey=2sk6eqru8znb6gg7e3urmiqj1&dl=0?raw=1",
               "dimensione_kb": 57,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260147_20260515_120044 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf"
+            },
+            {
+              "nome": "MAGONETTI SNC DI ANDREA GIORGETTI E CHIARA MAGONARA Ordine cliente_260150_20260516_165845 RIF. CONTENITORE ISOTERMICO CON COPERCHIO LT 53.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fevz6fid7p99qu0twv2wq/MAGONETTI-SNC-DI-ANDREA-GIORGETTI-E-CHIARA-MAGONARA-Ordine-cliente_260150_20260516_165845-RIF.-CONTENITORE-ISOTERMICO-CON-COPERCHIO-LT-53.pdf?rlkey=cy7gkojcr5u5ru7h7mfl3z9jq&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MAGONETTI SNC DI ANDREA GIORGETTI E CHIARA MAGONARA Ordine cliente_260150_20260516_165845 RIF. CONTENITORE ISOTERMICO CON COPERCHIO LT 53.pdf"
             },
             {
               "nome": "Macelleria DA PEPPINO Ordine cliente_260130_20260510_191147 RIF. SPATOLA.pdf",
@@ -57954,6 +58139,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Ordine cliente_260142_20260512_184921 RIF. SACCO DI PIETRA LAVICA.pdf"
             },
             {
+              "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Ordine cliente_260151_20260518_133211 RIF. MIXER A IMMERSIONE FIMAR MX 25.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7u5k2y1lo3ywlpgwh02cr/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Ordine-cliente_260151_20260518_133211-RIF.-MIXER-A-IMMERSIONE-FIMAR-MX-25.pdf?rlkey=5yu4ix28q9f5wn4hut5md2q3z&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Ordine cliente_260151_20260518_133211 RIF. MIXER A IMMERSIONE FIMAR MX 25.pdf"
+            },
+            {
               "nome": "TURIST CALABRIA SRL LA MANTINERA Ordine cliente_260133_20260510_191124 RIF. DETERGENTE RATIONAL VERDE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -57970,7 +58163,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 17
+          "_totale_file": 23
         }
       ],
       "file": []
