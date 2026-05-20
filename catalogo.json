@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-20T04:53:57Z",
-  "totale_file": 24729,
+  "generato": "2026-05-20T07:52:43Z",
+  "totale_file": 24738,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176034,7 +176034,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4803,
+      "totale_file": 4811,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -176186,6 +176186,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR DDT 2025G01738VICECONTI SNC DI ANTONIO E PROSPERO_Rep2 RIF.RUSSO_TAZZA INOX.PDF"
             },
             {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260067_20260519_074750 RIF. AFFETTATRICE PER GIOIA CHALET.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rr4kshzo4in64fz4yriee/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260067_20260519_074750-RIF.-AFFETTATRICE-PER-GIOIA-CHALET.pdf?rlkey=l9gocnln3oru36wk01kdol7n4&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260067_20260519_074750 RIF. AFFETTATRICE PER GIOIA CHALET.pdf"
+            },
+            {
               "nome": "FIMEL DOCUMENTO DI TRASPORTO 1842025 DEL 22-12-2025  VICECONTI SNC DI PROSPERO VICECONTI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -176330,7 +176338,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SIRMAN DDT N° 2025141250 DEL 19.12.2025.pdf"
             }
           ],
-          "_totale_file": 36
+          "_totale_file": 37
         },
         {
           "nome": "FATTURE DA FORNITORE WORKSPACE",
@@ -214005,6 +214013,14 @@
               ],
               "file": [
                 {
+                  "nome": "ACCIAIO CONFERMA OFFVE-002088-2026 RIF. PASSION SUSHI CORRETTA FIRMATA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ggz6kx97zy2iasgzx4dix/ACCIAIO-CONFERMA-OFFVE-002088-2026-RIF.-PASSION-SUSHI-CORRETTA-FIRMATA.pdf?rlkey=6ln4092q99iex4atfwu2yrhly&dl=0?raw=1",
+                  "dimensione_kb": 689,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO CONFERMA OFFVE-002088-2026 RIF. PASSION SUSHI CORRETTA FIRMATA.pdf"
+                },
+                {
                   "nome": "ACCIAIO T&D CONFEMRA ORDVE-000060-2026 RIF.TATA & CO SRL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -214475,6 +214491,14 @@
                   "link": "https://www.dropbox.com/scl/fi/yegsuhiw1da8hs8ig6mcp/CB-CONFERMA-ORDINE-E22C5C33-A5E3-40AD-B69B-91D57487DBE5-RIF.PERRETTA.PDF?rlkey=4bbfm0k5q0kwfw94c56h1p7n8&dl=0?raw=1",
                   "dimensione_kb": 422,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CB CONFERMA ORDINE E22C5C33-A5E3-40AD-B69B-91D57487DBE5 RIF.PERRETTA.PDF"
+                },
+                {
+                  "nome": "CB CONFERMA ORDINE FE1A0399-BCD6-42DA-88A5-42D9705B286C RIF. PIETRA LAVICA 1 PER CARCONI.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gzlrerdgxokog220fpvzu/CB-CONFERMA-ORDINE-FE1A0399-BCD6-42DA-88A5-42D9705B286C-RIF.-PIETRA-LAVICA-1-PER-CARCONI.PDF?rlkey=m09mi193rhmlpv8pd3kp796f8&dl=0?raw=1",
+                  "dimensione_kb": 525,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CB CONFERMA ORDINE FE1A0399-BCD6-42DA-88A5-42D9705B286C RIF. PIETRA LAVICA 1 PER CARCONI.PDF"
                 },
                 {
                   "nome": "CB SRL Ordine dacquisto_260092_20260512_190159 RIF. SACCO DI PIETRA LAVICA.pdf",
@@ -215973,6 +215997,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR PROFESSIONAL srl Ordine dacquisto_260081_20260512_172941 RIF. LA SORGENTE FRIGGITRICE MODULAR.pdf"
                 },
                 {
+                  "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260104_20260519_133953 RIF. GRIGLIA FORATA PER GRIGLIARE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/eqsrrz7cd7ua08bo31ot3/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260104_20260519_133953-RIF.-GRIGLIA-FORATA-PER-GRIGLIARE.pdf?rlkey=vpz3q7upfpqu98k14abn4o0it&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR PROFESSIONAL srl Ordine dacquisto_260104_20260519_133953 RIF. GRIGLIA FORATA PER GRIGLIARE.pdf"
+                },
+                {
                   "nome": "MORINI CONFERMA 003OC20252098803 DEL 02_09_2025.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -216557,18 +216589,10 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3566
+              "_totale_file": 3569
             }
           ],
           "file": [
-            {
-              "nome": "ACCIAIO CONFERMA OFFVE-002088-2026 RIF. PASSION SUSHI CORRETTA FIRMATA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ggz6kx97zy2iasgzx4dix/ACCIAIO-CONFERMA-OFFVE-002088-2026-RIF.-PASSION-SUSHI-CORRETTA-FIRMATA.pdf?rlkey=6ln4092q99iex4atfwu2yrhly&dl=0?raw=1",
-              "dimensione_kb": 689,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO CONFERMA OFFVE-002088-2026 RIF. PASSION SUSHI CORRETTA FIRMATA.pdf"
-            },
             {
               "nome": "ACCIAIO T&D CONFERMA ORDVE-001661-2026 RIF. SANTA LUCIA.pdf",
               "tipo": "PDF",
@@ -216582,14 +216606,14 @@
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/hwiq0n0pyvz5hev5v7le5/ACCIAIO-T-D-CONFERMA-ORDVE-001662-2026-RIF.-PASSION-SUSHI.pdf?rlkey=3iuf0qxk7l3ll1rutwtuenicf&dl=0?raw=1",
-              "dimensione_kb": 733,
+              "dimensione_kb": 745,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001662-2026 RIF. PASSION SUSHI.pdf"
             },
             {
               "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260518_092736 RIF. SANTA LUCIA modificato.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/h7qrbbr56wotm6g5mm7gu/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260079_20260518_092736-RIF.-SANTA-LUCIA-modificato.pdf?rlkey=qtob27udl3ijs5bmjdmyb6wds&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/i0duuimd064hi86c63g19/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260079_20260518_092736-RIF.-SANTA-LUCIA-modificato.pdf?rlkey=qfytsh5jf2usrgau4cflt45a1&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260079_20260518_092736 RIF. SANTA LUCIA modificato.pdf"
             },
@@ -216605,7 +216629,7 @@
               "nome": "AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260514_172842 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/7neftbmfl9087as9qd483/AIRFAN-dI-MANENTI-C.-s.n.c.-Ordine-dacquisto_260093_20260514_172842-RIF.-MACELLERIA-DE-DIEGO-FILTRI-PER-CENTRALINA.pdf?rlkey=8kivzktn9xo6m1wvrp48m8e88&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/c0madowivt1d28ev7n5oo/AIRFAN-dI-MANENTI-C.-s.n.c.-Ordine-dacquisto_260093_20260514_172842-RIF.-MACELLERIA-DE-DIEGO-FILTRI-PER-CENTRALINA.pdf?rlkey=1rsg39puqpnxneuqnz42mmxfp&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260093_20260514_172842 RIF. MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf"
             },
@@ -216632,14 +216656,6 @@
               "link": "https://www.dropbox.com/scl/fi/1nvb69rb24mkycvholsfl/BELLADONNA-DE-DIEGO-80X80-Preventivo-1463PRE-del-27-03-2026.pdf?rlkey=9submrwiw64r23lgwd0r4c34e&dl=0?raw=1",
               "dimensione_kb": 162,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf"
-            },
-            {
-              "nome": "CB CONFERMA ORDINE FE1A0399-BCD6-42DA-88A5-42D9705B286C RIF. PIETRA LAVICA 1 PER CARCONI.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gzlrerdgxokog220fpvzu/CB-CONFERMA-ORDINE-FE1A0399-BCD6-42DA-88A5-42D9705B286C-RIF.-PIETRA-LAVICA-1-PER-CARCONI.PDF?rlkey=m09mi193rhmlpv8pd3kp796f8&dl=0?raw=1",
-              "dimensione_kb": 525,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB CONFERMA ORDINE FE1A0399-BCD6-42DA-88A5-42D9705B286C RIF. PIETRA LAVICA 1 PER CARCONI.PDF"
             },
             {
               "nome": "COLDLINE Conferma ordine n°26-08367 RIF. LO RUSSO.pdf",
@@ -216696,6 +216712,14 @@
               "link": "https://www.dropbox.com/scl/fi/cs6576ps4p9nyz3xcun3r/HOSHIZAKI-Ordine-dacquisto_250447_20251110_125550-RIF.CALA-DEL-CITRO.pdf?rlkey=ieax5dmf51ak5redlb38uv5gd&dl=0?raw=1",
               "dimensione_kb": 60,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HOSHIZAKI Ordine dacquisto_250447_20251110_125550 RIF.CALA DEL CITRO.pdf"
+            },
+            {
+              "nome": "IDEA CONFERMA_NR0000000059_2026 RIF.IELPO_NEW BAR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ave4wkz681x3xwmryllda/IDEA-CONFERMA_NR0000000059_2026-RIF.IELPO_NEW-BAR.pdf?rlkey=o4fbqjgvruhd04spk1o7cxvea&dl=0?raw=1",
+              "dimensione_kb": 37,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEA CONFERMA_NR0000000059_2026 RIF.IELPO_NEW BAR.pdf"
             },
             {
               "nome": "IDEA S.R.L. Ordine dacquisto_260101_20260518_164534 RIF. AFFETTATRICE IDEA 25 CASA.pdf",
@@ -216762,6 +216786,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600021025_N0002353 RIF. PASSION SUSHI CAPPA E MOTORE.pdf"
             },
             {
+              "nome": "IDEAM INOX CONFERMA PREVENTIVO CLI-PREVEN-0002691-00-13042026 RIF. ILAMA .pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/srynuktuia1cpprpzy5fl/IDEAM-INOX-CONFERMA-PREVENTIVO-CLI-PREVEN-0002691-00-13042026-RIF.-ILAMA.pdf?rlkey=er1dvc6ge1unz8duami7mou11&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA PREVENTIVO CLI-PREVEN-0002691-00-13042026 RIF. ILAMA .pdf"
+            },
+            {
               "nome": "MECNOSUD S.R.L. Ordine dacquisto_260044_20260513_183524 RIF. MeM IMPASTATRICE IM25D.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -216802,6 +216834,38 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260080_20260513_131433 RIF. SANTA LUCIA CIUCINA E GRIGLIA.pdf"
             },
             {
+              "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260104_20260519_133953 RIF. GRIGLIA FORATA PER GRIGLIARE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/di2revtgxsfj5woc5xdyq/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260104_20260519_133953-RIF.-GRIGLIA-FORATA-PER-GRIGLIARE.pdf?rlkey=bb38fn8bxadk3mdzvpdutpxuj&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260104_20260519_133953 RIF. GRIGLIA FORATA PER GRIGLIARE.pdf"
+            },
+            {
+              "nome": "RBA CONFERMA ORDINE 26RC06452 RIF. FALCONE WEB LAMA.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7xsmanbo9jjk6y5n12pe3/RBA-CONFERMA-ORDINE-26RC06452-RIF.-FALCONE-WEB-LAMA.PDF?rlkey=ezaugfvyfwlqfzsq5peasl26y&dl=0?raw=1",
+              "dimensione_kb": 46,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/RBA CONFERMA ORDINE 26RC06452 RIF. FALCONE WEB LAMA.PDF"
+            },
+            {
+              "nome": "RBA CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/z7o13s45ric93o5chymsl/RBA-CONFERMA-ORDINE-26RC06453-RIF.-CULURGIONI-WEB-LAMA.PDF?rlkey=ib0smww7byha6kofy8pzp7y1i&dl=0?raw=1",
+              "dimensione_kb": 45,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/RBA CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF"
+            },
+            {
+              "nome": "RBA Conferma prenotazione ritiro BRT.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6hnt0bgnvls4ywj3bv9au/RBA-Conferma-prenotazione-ritiro-BRT.pdf?rlkey=lopvirz2h46lgdlpssgsmu41w&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/RBA Conferma prenotazione ritiro BRT.pdf"
+            },
+            {
               "nome": "SIRMAN spa Ordine dacquisto_260087_20260518_171047 RIF. PASSION SUSHI CUOCIPASTA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -216818,7 +216882,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3598
+          "_totale_file": 3605
         }
       ],
       "file": []
@@ -216827,7 +216891,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2354,
+      "totale_file": 2355,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -237681,6 +237745,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/IDEA Dettaglio bonifico istantaneo DEL 15_04_2026.pdf"
                 },
                 {
+                  "nome": "IDEA Dettaglio bonifico istantaneo DEL 19_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ljg8fdbyfumor6jttw9nq/IDEA-Dettaglio-bonifico-istantaneo-DEL-19_05_2026.pdf?rlkey=0toszaz008bpa07ho6z1lytpx&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/IDEA Dettaglio bonifico istantaneo DEL 19_05_2026.pdf"
+                },
+                {
                   "nome": "IDEAM INOX COPIA TITOLO BPER SCADENZA 29_05_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -238017,11 +238089,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
                 }
               ],
-              "_totale_file": 2334
+              "_totale_file": 2335
             }
           ],
           "file": [],
-          "_totale_file": 2334
+          "_totale_file": 2335
         }
       ],
       "file": []
