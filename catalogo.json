@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-19T08:51:13Z",
-  "totale_file": 24719,
+  "generato": "2026-05-20T00:18:04Z",
+  "totale_file": 24722,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -63328,7 +63328,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7083,
+      "totale_file": 7086,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -68146,6 +68146,14 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "AHT DATI MACCHINA.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/rkhy517wl4rt6atool6ad/AHT-DATI-MACCHINA.jpeg?rlkey=6tq9fjf5avuqkjvh53hvpk67z&dl=0?raw=1",
+                  "dimensione_kb": 170,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA LAGALA ARNALDO/AHT DATI MACCHINA.jpeg"
+                },
+                {
                   "nome": "AHT FOTO 1.jpeg",
                   "tipo": "Immagine",
                   "icona": "🖼️",
@@ -68184,9 +68192,25 @@
                   "link": "https://www.dropbox.com/scl/fi/76uzn5awym39a5ilf42xu/AHT-FOTO-5.jpeg?rlkey=bor61m4cdn4kb5yb4by6u0dr7&dl=0?raw=1",
                   "dimensione_kb": 33,
                   "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA LAGALA ARNALDO/AHT FOTO 5.jpeg"
+                },
+                {
+                  "nome": "AHT_OPERATING_MANUAL_EN.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wrawc1hde56yeiyu3qve4/AHT_OPERATING_MANUAL_EN.pdf?rlkey=gg3r1v0hawooxj77n94aske02&dl=0?raw=1",
+                  "dimensione_kb": 5332,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA LAGALA ARNALDO/AHT_OPERATING_MANUAL_EN.pdf"
+                },
+                {
+                  "nome": "Manuale 3445358 WI-601_en - Error Messages and Error Handling for Secop GP Controllers.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jhn5f75006qvw5ip3qg2c/Manuale-3445358-WI-601_en-Error-Messages-and-Error-Handling-for-Secop-GP-Controllers.pdf?rlkey=ae2308b1oyby43628lxzm7npm&dl=0?raw=1",
+                  "dimensione_kb": 733,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/TENUTA LAGALA ARNALDO/Manuale 3445358 WI-601_en - Error Messages and Error Handling for Secop GP Controllers.pdf"
                 }
               ],
-              "_totale_file": 5
+              "_totale_file": 8
             },
             {
               "nome": "TENUTA PETRABIANCA",
@@ -68448,7 +68472,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/Granocielo SRL Consegna_260145_20260326_192810.pdf"
             }
           ],
-          "_totale_file": 278
+          "_totale_file": 281
         },
         {
           "nome": "COSENZA",
