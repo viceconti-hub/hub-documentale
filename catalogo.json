@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-20T00:18:04Z",
-  "totale_file": 24722,
+  "generato": "2026-05-20T02:15:21Z",
+  "totale_file": 24723,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -133926,7 +133926,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4355,
+      "totale_file": 4356,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -134966,6 +134966,14 @@
           ],
           "file": [
             {
+              "nome": "100.AIRFAN DATI + IBAN AIRFAN 2024.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2b2vxkssm18y26ipi67sj/100.AIRFAN-DATI-IBAN-AIRFAN-2024.pdf?rlkey=vocxp29cy7lnmdmqdc32i13rc&dl=0?raw=1",
+              "dimensione_kb": 127,
+              "path": "/HUB DOCUMENTALE/FORNITORI/AIRFAN/100.AIRFAN DATI + IBAN AIRFAN 2024.pdf"
+            },
+            {
               "nome": "AIRFAN LISTINO 29 AGGIORNATO AL 19_11_2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -134974,7 +134982,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/AIRFAN/AIRFAN LISTINO 29 AGGIORNATO AL 19_11_2025.pdf"
             }
           ],
-          "_totale_file": 16
+          "_totale_file": 17
         },
         {
           "nome": "ALAGIA STEFANO",
@@ -144913,7 +144921,7 @@
                       "nome": "Privacy Turist Calabria srl.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/th473sjy3lj0n50lesb5f/Privacy-Turist-Calabria-srl.pdf?rlkey=j3pp3yicnuaizrdgq9dnprlbz&dl=0?raw=1",
                       "dimensione_kb": 19663,
                       "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/PRAIA A MARE/TURIST CALABRIA srl La Mantinera/Privacy Turist Calabria srl.pdf"
                     },
