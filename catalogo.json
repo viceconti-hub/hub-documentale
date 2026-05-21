@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-21T02:14:00Z",
-  "totale_file": 24738,
+  "generato": "2026-05-21T04:51:19Z",
+  "totale_file": 24747,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5518,
+      "totale_file": 5527,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -54,6 +54,22 @@
               "link": "https://www.dropbox.com/scl/fi/x451jt2m5jc7fiyfudzjz/DIMAC-SRL-Consegna_260266_20260512_100144-RIF.-DETERGENTE-RATIONAL-ROSSO.pdf?rlkey=x7vyb6i2w0mz9d0mecx57tdj4&dl=0?raw=1",
               "dimensione_kb": 50,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DIMAC SRL Consegna_260266_20260512_100144 RIF. DETERGENTE RATIONAL ROSSO.pdf"
+            },
+            {
+              "nome": "DITTA CANTISANI MARIA Consegna_260279_20260520_112443.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wq07i8ad9if4kskwilgjc/DITTA-CANTISANI-MARIA-Consegna_260279_20260520_112443.pdf?rlkey=sawzhke59n7qba080m44cw1n6&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DITTA CANTISANI MARIA Consegna_260279_20260520_112443.pdf"
+            },
+            {
+              "nome": "DITTA CANTISANI MARIA Consegna_260280_20260520_113008.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oz67497cqz7bgyb48iycj/DITTA-CANTISANI-MARIA-Consegna_260280_20260520_113008.pdf?rlkey=a4w08stb3tx9z8fio4985rotv&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DITTA CANTISANI MARIA Consegna_260280_20260520_113008.pdf"
             },
             {
               "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_260270_20260514_103109 RIF. CONENTITORI POLIPROPILENE URGENTE.pdf",
@@ -136,7 +152,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/VELARDI Srl Consegna_260271_20260515_100703 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 15
+          "_totale_file": 17
         },
         {
           "nome": "FATTURE DI VENDITA",
@@ -159,6 +175,22 @@
           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA",
           "cartelle": [],
           "file": [
+            {
+              "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Offerta di vendita_260143_20260519_200817.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/n3razqrr2hgmawv3imbrb/AZIENDA-AGRICOLA-LA-CAPPELLINA-DI-ROSA-FORASTIERO-Offerta-di-vendita_260143_20260519_200817.pdf?rlkey=8kvlxkap57mo6bm8npob2z3pe&dl=0?raw=1",
+              "dimensione_kb": 86,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Offerta di vendita_260143_20260519_200817.pdf"
+            },
+            {
+              "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Offerta di vendita_260144_20260519_201302.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wckhu0ruj1yb7q6tpt9wc/AZIENDA-AGRICOLA-LA-CAPPELLINA-DI-ROSA-FORASTIERO-Offerta-di-vendita_260144_20260519_201302.pdf?rlkey=2s9qkcwrkh7zulj5jgf6iokl8&dl=0?raw=1",
+              "dimensione_kb": 82,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Offerta di vendita_260144_20260519_201302.pdf"
+            },
             {
               "nome": "BHOTEL SRL Offerta di vendita_260177_20260519_185944 RIF. BICCHIERE CORTINA COOLER.pdf",
               "tipo": "PDF",
@@ -238,6 +270,22 @@
               "link": "https://www.dropbox.com/scl/fi/pzkzv8zs7lzoymq24s6cx/DA-SPECIFICARE-Offerta-di-vendita_260172_20260516_101024.pdf?rlkey=qqy97acdx9nn23kepmg20hi8e&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260172_20260516_101024.pdf"
+            },
+            {
+              "nome": "DA SPECIFICARE Offerta di vendita_260179_20260520_102948.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/weqi1wwy4q01jdoupkjrx/DA-SPECIFICARE-Offerta-di-vendita_260179_20260520_102948.pdf?rlkey=0mm6np8xij4sgsxmh7lb1zbs8&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260179_20260520_102948.pdf"
+            },
+            {
+              "nome": "DA SPECIFICARE Offerta di vendita_260180_20260520_104520.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9t98iw7m660sop6sx60dd/DA-SPECIFICARE-Offerta-di-vendita_260180_20260520_104520.pdf?rlkey=yzvtknub6q0oh412u14ps8q2a&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260180_20260520_104520.pdf"
             },
             {
               "nome": "DIMAC SRL Offerta di vendita_260164_20260515_105156 RIF. CARTUCCE A CARBONE ATTIVO PER GRUPPO DI FILTRAZIONE CF1115.pdf",
@@ -320,12 +368,20 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LUTIPICO SRLS Offerta di vendita_260162_20260514_202207.pdf"
             },
             {
-              "nome": "ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260518_184806.pdf",
+              "nome": "ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260520_024959.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/rt8xx6a2rkb426xkj3wte/ONY-ROBY-PAOLINO-SRL-Offerta-di-vendita_260175_20260518_184806.pdf?rlkey=9v9lri03cvfixnqw7uxp4plvm&dl=0?raw=1",
-              "dimensione_kb": 83,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260518_184806.pdf"
+              "link": "https://www.dropbox.com/scl/fi/9dyz6bgrfd5jk3pmnbshe/ONY-ROBY-PAOLINO-SRL-Offerta-di-vendita_260175_20260520_024959.pdf?rlkey=epxuaa4pk8q2s4ppa5tqykzk6&dl=0?raw=1",
+              "dimensione_kb": 87,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260520_024959.pdf"
+            },
+            {
+              "nome": "ONY & ROBY PAOLINO SRL Offerta di vendita_260178_20260520_024806.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9ohas9um0s21q6zd33f6q/ONY-ROBY-PAOLINO-SRL-Offerta-di-vendita_260178_20260520_024806.pdf?rlkey=3akqc2wllyb5mdsyb7ntv496o&dl=0?raw=1",
+              "dimensione_kb": 86,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ONY & ROBY PAOLINO SRL Offerta di vendita_260178_20260520_024806.pdf"
             },
             {
               "nome": "PANAINO SRL UNIPERSONALE Offerta di vendita_260167_20260515_165151 RIF. TAVOLO REFRIGERATO 2 SPORTELLI 151X80.pdf",
@@ -400,7 +456,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260170_20260515_182140 RIF. CALICI BIRRA WEIZEN.pdf"
             }
           ],
-          "_totale_file": 30
+          "_totale_file": 35
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -7421,7 +7477,7 @@
                           "nome": "Offerta di vendita_200567_20200818_103914.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/btplh2xlvtgr11d2vblzt/Offerta-di-vendita_200567_20200818_103914.pdf?rlkey=4q7n9kqmyi3f2jp8zv33wbtx9&dl=0?raw=1",
                           "dimensione_kb": 82,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CANONICO IMPASTATRICE/Offerta di vendita_200567_20200818_103914.pdf"
                         }
@@ -58043,6 +58099,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CULURGIONI E C. SNC Ordine cliente_260154_20260519_081106 RIF. CULURGIONI E C. SNC LAMA.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Ordine cliente_260157_20260520_104753.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/094ftsrqt42d1vgdwnp4h/DA-SPECIFICARE-Ordine-cliente_260157_20260520_104753.pdf?rlkey=fjtm98lej050kltucqdl9sjx9&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DA SPECIFICARE Ordine cliente_260157_20260520_104753.pdf"
+            },
+            {
               "nome": "DIMAC SRL Ordine cliente_260135_20260512_100211.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58139,6 +58203,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260147_20260515_120044 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf"
             },
             {
+              "nome": "LIDO POINT BREAK Ordine cliente_260158_20260520_120605 RIF. TAVOLOLO CON VASCA INCASSATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bdbgiaw1js2wkqsdggkue/LIDO-POINT-BREAK-Ordine-cliente_260158_20260520_120605-RIF.-TAVOLOLO-CON-VASCA-INCASSATA.pdf?rlkey=njqdayqvirncgd0ud7fnhb54r&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LIDO POINT BREAK Ordine cliente_260158_20260520_120605 RIF. TAVOLOLO CON VASCA INCASSATA.pdf"
+            },
+            {
               "nome": "MAGONETTI SNC DI ANDREA GIORGETTI E CHIARA MAGONARA Ordine cliente_260150_20260516_165845 RIF. CONTENITORE ISOTERMICO CON COPERCHIO LT 53.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58211,7 +58283,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 26
+          "_totale_file": 28
         }
       ],
       "file": []
