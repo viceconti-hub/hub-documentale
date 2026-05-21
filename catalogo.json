@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-21T06:48:28Z",
-  "totale_file": 24760,
+  "generato": "2026-05-21T07:50:42Z",
+  "totale_file": 24765,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -217067,7 +217067,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2355,
+      "totale_file": 2360,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -237601,6 +237601,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/AMETRANO BONIFICO ISTANTANEO SMART CBI - Firma DEL 16_04_2026.pdf"
                 },
                 {
+                  "nome": "ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z630vmk4unutmxgssgtsk/ARISTARCO-COPIA-TITOLI-MPS-SPEDIZIONE-DEL-21_05_2026-SCADENZE-07_08_09_2026.pdf?rlkey=5old0t8l7gj0qgeq7dagyxczu&dl=0?raw=1",
+                  "dimensione_kb": 976,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf"
+                },
+                {
                   "nome": "ARISTARCO Dettaglio bonifico istantaneo DEL 12_05_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -237617,12 +237625,28 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/ARISTARCO Dettaglio bonifico istantaneo DEL 16_04_2026.pdf"
                 },
                 {
+                  "nome": "ARISTARCO Dettaglio bonifico istantaneo DEL 20_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3j185vev35v8yp6nbsdmf/ARISTARCO-Dettaglio-bonifico-istantaneo-DEL-20_05_2026.pdf?rlkey=dsxbopl3npbt01x5vmaktu6lg&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/ARISTARCO Dettaglio bonifico istantaneo DEL 20_05_2026.pdf"
+                },
+                {
                   "nome": "ARISTARCO TITOLI BPER APRILE_LUGLIO_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/iiglwavx0v8upy6tcxr3g/ARISTARCO-TITOLI-BPER-APRILE_LUGLIO_2026.pdf?rlkey=9xqz24wuy6w94fsjj19pcal1s&dl=0?raw=1",
                   "dimensione_kb": 3274,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/ARISTARCO TITOLI BPER APRILE_LUGLIO_2026.pdf"
+                },
+                {
+                  "nome": "ARRIS Dettaglio bonifico istantaneo DEL 20_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/o2hulvrm5wqmphi6gz669/ARRIS-Dettaglio-bonifico-istantaneo-DEL-20_05_2026.pdf?rlkey=m98ufofrv99twsux2mpfsgs3w&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/ARRIS Dettaglio bonifico istantaneo DEL 20_05_2026.pdf"
                 },
                 {
                   "nome": "ARTINOX Dettaglio bonifico istantaneo DEL 20_04_2026.pdf",
@@ -238081,6 +238105,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/MODULAR COPIA TITOLI BRT 26_11_2025.pdf"
                 },
                 {
+                  "nome": "MODULAR COPIA TITOLO INTESA BRT 20_05_2026 SCADENZA 31_07_2026 .pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jq9xpg2ulefu3t2ka7g6i/MODULAR-COPIA-TITOLO-INTESA-BRT-20_05_2026-SCADENZA-31_07_2026.pdf?rlkey=tpanrj64x9xnjapcyjgu2za8e&dl=0?raw=1",
+                  "dimensione_kb": 598,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/MODULAR COPIA TITOLO INTESA BRT 20_05_2026 SCADENZA 31_07_2026 .pdf"
+                },
+                {
                   "nome": "MODULAR COPIA TITOLO INTESA CO 26_02641 Scansione 28 apr 2026, 08.38 FC.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -238185,6 +238217,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/SCARDINO Dettaglio bonifico istantaneo DEL 4_05_2026.pdf"
                 },
                 {
+                  "nome": "SIRMAN COPIA TITOLO MPS SPEDIZIONE 21_05_2026 SCADENZA 31_07_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k8ufemirb1d6g3hfhtngu/SIRMAN-COPIA-TITOLO-MPS-SPEDIZIONE-21_05_2026-SCADENZA-31_07_2026.pdf?rlkey=edb541osydx9dq8zdxgodu5ww&dl=0?raw=1",
+                  "dimensione_kb": 722,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/SIRMAN COPIA TITOLO MPS SPEDIZIONE 21_05_2026 SCADENZA 31_07_2026.pdf"
+                },
+                {
                   "nome": "SIRMAN Dettaglio bonifico istantaneo DEL 06_05_2026pdf.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -238265,11 +238305,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
                 }
               ],
-              "_totale_file": 2335
+              "_totale_file": 2340
             }
           ],
           "file": [],
-          "_totale_file": 2335
+          "_totale_file": 2340
         }
       ],
       "file": []
