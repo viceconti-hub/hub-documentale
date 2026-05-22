@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-21T08:06:55Z",
-  "totale_file": 24765,
+  "generato": "2026-05-22T00:28:36Z",
+  "totale_file": 24771,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -63448,7 +63448,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7086,
+      "totale_file": 7092,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -74211,42 +74211,74 @@
                 {
                   "nome": "LA STRADELLA AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA",
-                  "cartelle": [],
-                  "file": [
+                  "cartelle": [
                     {
-                      "nome": "ABBATTITORE VISION COLDLINE LA STRADELLA DATI MACCHINA.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/g4d41js9h1wu6k5emxoq5/ABBATTITORE-VISION-COLDLINE-LA-STRADELLA-DATI-MACCHINA.jpeg?rlkey=qeouuyuk0q68pigi9mk7t9fy6&dl=0?raw=1",
-                      "dimensione_kb": 142,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/ABBATTITORE VISION COLDLINE LA STRADELLA DATI MACCHINA.jpeg"
+                      "nome": "ABBATTITORE COLDLINE  VISION W6HS MATRICOLA 012300626",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/ABBATTITORE COLDLINE  VISION W6HS MATRICOLA 012300626",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "DATI MACCHINA 2 ABBATTITORE VISION COLDLINE LA STRADELLA DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/g4d41js9h1wu6k5emxoq5/DATI-MACCHINA-2-ABBATTITORE-VISION-COLDLINE-LA-STRADELLA-DATI-MACCHINA.jpeg?rlkey=qeouuyuk0q68pigi9mk7t9fy6&dl=0?raw=1",
+                          "dimensione_kb": 142,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/ABBATTITORE COLDLINE  VISION W6HS MATRICOLA 012300626/DATI MACCHINA 2 ABBATTITORE VISION COLDLINE LA STRADELLA DATI MACCHINA.jpeg"
+                        },
+                        {
+                          "nome": "DATI MACCHINA ABBATTITORE VISION W6HS MATRICOLA 012300626.JPEG",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/l3q44h0o4b0ryhxxhscfl/DATI-MACCHINA-ABBATTITORE-VISION-W6HS-MATRICOLA-012300626.JPEG?rlkey=b5ucynfnovhm8ouwq7slkotxz&dl=0?raw=1",
+                          "dimensione_kb": 1010,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/ABBATTITORE COLDLINE  VISION W6HS MATRICOLA 012300626/DATI MACCHINA ABBATTITORE VISION W6HS MATRICOLA 012300626.JPEG"
+                        },
+                        {
+                          "nome": "Reso - Bozza documento_644_20260330_131109.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/1bqx91lz52t8c6hyow6bf/Reso-Bozza-documento_644_20260330_131109.pdf?rlkey=pfwyvdm83jvuk43z39ieyv5vt&dl=0?raw=1",
+                          "dimensione_kb": 67,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/ABBATTITORE COLDLINE  VISION W6HS MATRICOLA 012300626/Reso - Bozza documento_644_20260330_131109.pdf"
+                        }
+                      ],
+                      "_totale_file": 3
                     },
                     {
-                      "nome": "MACCHINA SOTTOVUOTO ORVED DATI MACCHINA.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/2xwe4pktoyr2nx8deglu5/MACCHINA-SOTTOVUOTO-ORVED-DATI-MACCHINA.jpeg?rlkey=4vn7tz3vh8a69sm4pfb26hd5l&dl=0?raw=1",
-                      "dimensione_kb": 101,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/MACCHINA SOTTOVUOTO ORVED DATI MACCHINA.jpeg"
+                      "nome": "MACCHINA SOTTOVUOTO ORVED",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/MACCHINA SOTTOVUOTO ORVED",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "MACCHINA SOTTOVUOTO ORVED DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/2xwe4pktoyr2nx8deglu5/MACCHINA-SOTTOVUOTO-ORVED-DATI-MACCHINA.jpeg?rlkey=4vn7tz3vh8a69sm4pfb26hd5l&dl=0?raw=1",
+                          "dimensione_kb": 101,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/MACCHINA SOTTOVUOTO ORVED/MACCHINA SOTTOVUOTO ORVED DATI MACCHINA.jpeg"
+                        }
+                      ],
+                      "_totale_file": 1
                     },
                     {
-                      "nome": "RATIONAL LA STRADELLA DATI MACCHINA.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/ahhiekufedp38ayfqokcx/RATIONAL-LA-STRADELLA-DATI-MACCHINA.jpeg?rlkey=g0hoty21i2h3kmvm2227oamfq&dl=0?raw=1",
-                      "dimensione_kb": 77,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/RATIONAL LA STRADELLA DATI MACCHINA.jpeg"
-                    },
-                    {
-                      "nome": "Reso - Bozza documento_644_20260330_131109.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/1bqx91lz52t8c6hyow6bf/Reso-Bozza-documento_644_20260330_131109.pdf?rlkey=pfwyvdm83jvuk43z39ieyv5vt&dl=0?raw=1",
-                      "dimensione_kb": 67,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/Reso - Bozza documento_644_20260330_131109.pdf"
+                      "nome": "RATIONAL",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/RATIONAL",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "RATIONAL LA STRADELLA DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/ahhiekufedp38ayfqokcx/RATIONAL-LA-STRADELLA-DATI-MACCHINA.jpeg?rlkey=g0hoty21i2h3kmvm2227oamfq&dl=0?raw=1",
+                          "dimensione_kb": 77,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA AREA TECNICA/RATIONAL/RATIONAL LA STRADELLA DATI MACCHINA.jpeg"
+                        }
+                      ],
+                      "_totale_file": 1
                     }
                   ],
-                  "_totale_file": 4
+                  "file": [],
+                  "_totale_file": 5
                 },
                 {
                   "nome": "LA STRADELLA DOCUMENTI 4.0",
@@ -74491,7 +74523,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/LA STRADELLA Fattura di vendita_220127_20220330_151742.pdf"
                 }
               ],
-              "_totale_file": 32
+              "_totale_file": 33
             },
             {
               "nome": "LANIFICIO MANGO CAOS SRL",
@@ -75419,7 +75451,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 207
+          "_totale_file": 208
         },
         {
           "nome": "LAINO",
@@ -84259,6 +84291,22 @@
                       "_totale_file": 2
                     },
                     {
+                      "nome": "MULTIFUNZIONE STAFF R151 MAX",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/MULTIFUNZIONE STAFF R151 MAX",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "MULTIFUNZIONE STAFF R151 MAX ESPLOSO RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/7o23yi6958sctxh9f0xjk/MULTIFUNZIONE-STAFF-R151-MAX-ESPLOSO-RICAMBI.pdf?rlkey=f4amgsqrrqxrqny2wx5jwuy38&dl=0?raw=1",
+                          "dimensione_kb": 884,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/MULTIFUNZIONE STAFF R151 MAX/MULTIFUNZIONE STAFF R151 MAX ESPLOSO RICAMBI.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "PLANETARIA COMIDA",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/PLANETARIA COMIDA",
                       "cartelle": [],
@@ -84421,7 +84469,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/I PASTICCI DI WALTER AREA TECNICA/WhatsApp Image 2022-03-08 at 17.02.30.jpeg"
                     }
                   ],
-                  "_totale_file": 25
+                  "_totale_file": 26
                 }
               ],
               "file": [
@@ -84458,7 +84506,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/I PASTICCI DI WALTER/file.pdf"
                 }
               ],
-              "_totale_file": 29
+              "_totale_file": 30
             },
             {
               "nome": "IL FUNGO",
@@ -91648,7 +91696,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1286
+          "_totale_file": 1287
         },
         {
           "nome": "LAVELLO",
@@ -93557,6 +93605,62 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI",
               "cartelle": [
                 {
+                  "nome": "CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "DATI MACCHINA CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0.JPEG",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/vltk7oq70jtvnwuwsbteu/DATI-MACCHINA-CUCINA-ANGELO-PO-4-FUOCHI-MODELLO-191FAAG-CPM0.JPEG?rlkey=rjw1m7hj4esy71e8odtuhn6jx&dl=0?raw=1",
+                      "dimensione_kb": 920,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0/DATI MACCHINA CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0.JPEG"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
+                  "nome": "CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0 07135136003",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0 07135136003",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "DATI MACCHINA CUCINA 4 FUOCHI ANGELO PO.JPEG",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/dlpkqw7h2bjc5w84jxwew/DATI-MACCHINA-CUCINA-4-FUOCHI-ANGELO-PO.JPEG?rlkey=18yiwsa6csyf6dni359mpjxmy&dl=0?raw=1",
+                      "dimensione_kb": 644,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0 07135136003/DATI MACCHINA CUCINA 4 FUOCHI ANGELO PO.JPEG"
+                    },
+                    {
+                      "nome": "ESPLOSO RICAMBI DA REPA 2006.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/oxsqlim8stbw5ma3atnz2/ESPLOSO-RICAMBI-DA-REPA-2006.pdf?rlkey=xp6ursvz5r3kjpb1g2qqzg2w4&dl=0?raw=1",
+                      "dimensione_kb": 781,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0 07135136003/ESPLOSO RICAMBI DA REPA 2006.pdf"
+                    },
+                    {
+                      "nome": "ESPLOSO RICAMBI DA REPA ANNO 2012.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/1jrwey4420x4pmu2plm39/ESPLOSO-RICAMBI-DA-REPA-ANNO-2012.pdf?rlkey=l4lz3d1ayk8zxtsw2p5uk9pgy&dl=0?raw=1",
+                      "dimensione_kb": 813,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0 07135136003/ESPLOSO RICAMBI DA REPA ANNO 2012.pdf"
+                    },
+                    {
+                      "nome": "ESPLOSO RICAMBI.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/fupjo1clq5wxamrtmz8rt/ESPLOSO-RICAMBI.pdf?rlkey=e7slcuqwi4yj3pwa54vg0pwj4&dl=0?raw=1",
+                      "dimensione_kb": 781,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/CUCINA ANGELO PO 4 FUOCHI MODELLO 191FAAG-CPM0 07135136003/ESPLOSO RICAMBI.pdf"
+                    }
+                  ],
+                  "_totale_file": 4
+                },
+                {
                   "nome": "ZANUSSI",
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/ZANUSSI",
                   "cartelle": [],
@@ -93639,7 +93743,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/Offerta di vendita_210316_20210507_103248 CALICI CIAO.pdf"
                 }
               ],
-              "_totale_file": 9
+              "_totale_file": 14
             },
             {
               "nome": "COZZI LUIGINA",
@@ -98680,7 +98784,7 @@
                   "nome": "SITUAZIONE CONTABILE AL 9_9_2020.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/mp4zco032i787yffnov0h/SITUAZIONE-CONTABILE-AL-9_9_2020.pdf?rlkey=nwoxyj4j8w6retym84cd9on50&dl=0?raw=1",
                   "dimensione_kb": 37,
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/SITUAZIONE CONTABILE AL 9_9_2020.pdf"
                 },
@@ -99665,17 +99769,25 @@
                       "_totale_file": 3
                     },
                     {
-                      "nome": "LAVASTOVIGLIE KRUPPS EL51E",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS EL51E",
+                      "nome": "LAVASTOVIGLIE KRUPPS MODELLO EL51E MATRICOLA 202360385",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS MODELLO EL51E MATRICOLA 202360385",
                       "cartelle": [],
                       "file": [
                         {
-                          "nome": "ESPLOSO.pdf",
+                          "nome": "DATI MACCHINA LAVASTOVIGLIE KRUPPS EL51E MATRICOLA 202360385 .jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/hd4n63a2ugsers44z4xck/DATI-MACCHINA-LAVASTOVIGLIE-KRUPPS-EL51E-MATRICOLA-202360385.jpeg?rlkey=m35k2ncjy65gtqmsr90jmt2oq&dl=0?raw=1",
+                          "dimensione_kb": 132,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS MODELLO EL51E MATRICOLA 202360385/DATI MACCHINA LAVASTOVIGLIE KRUPPS EL51E MATRICOLA 202360385 .jpeg"
+                        },
+                        {
+                          "nome": "ESPLOSO RICAMBI LAVASTOVIGLIE KRUPPS EL51E MATRICOLA 202360385 .pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/4ighov8owa3flfeyxv3nb/ESPLOSO.pdf?rlkey=a6f1ipr2twe65m5p7k85y17th&dl=0?raw=1",
+                          "link": "https://www.dropbox.com/scl/fi/4ighov8owa3flfeyxv3nb/ESPLOSO-RICAMBI-LAVASTOVIGLIE-KRUPPS-EL51E-MATRICOLA-202360385.pdf?rlkey=a6f1ipr2twe65m5p7k85y17th&dl=0?raw=1",
                           "dimensione_kb": 6255,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS EL51E/ESPLOSO.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS MODELLO EL51E MATRICOLA 202360385/ESPLOSO RICAMBI LAVASTOVIGLIE KRUPPS EL51E MATRICOLA 202360385 .pdf"
                         },
                         {
                           "nome": "Scansione 23 ott 2023, 19.52.pdf",
@@ -99683,29 +99795,37 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ze35xdl32fy3f5s8j30xn/Scansione-23-ott-2023-19.52.pdf?rlkey=tkutm840bi1v4od230522kc5w&dl=0?raw=1",
                           "dimensione_kb": 2410,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS EL51E/Scansione 23 ott 2023, 19.52.pdf"
-                        },
-                        {
-                          "nome": "WhatsApp Image 2024-07-05 at 17.29.47.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/hd4n63a2ugsers44z4xck/WhatsApp-Image-2024-07-05-at-17.29.47.jpeg?rlkey=m35k2ncjy65gtqmsr90jmt2oq&dl=0?raw=1",
-                          "dimensione_kb": 132,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS EL51E/WhatsApp Image 2024-07-05 at 17.29.47.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS MODELLO EL51E MATRICOLA 202360385/Scansione 23 ott 2023, 19.52.pdf"
                         }
                       ],
                       "_totale_file": 3
+                    },
+                    {
+                      "nome": "LAVASTOVIGLIE KRUPPS MODELLO EL60E MATRICOLA 202630150",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS MODELLO EL60E MATRICOLA 202630150",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "DATI MACCHINA LAVASTOVIGLIE KRUPPS MODELLO EL60E MATRICOLA 202630150.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/rpaxr7ehfetffezae56w8/DATI-MACCHINA-LAVASTOVIGLIE-KRUPPS-MODELLO-EL60E-MATRICOLA-202630150.jpeg?rlkey=hqwyqmcgmj4zibsildqrc4y3h&dl=0?raw=1",
+                          "dimensione_kb": 62,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS MODELLO EL60E MATRICOLA 202630150/DATI MACCHINA LAVASTOVIGLIE KRUPPS MODELLO EL60E MATRICOLA 202630150.jpeg"
+                        },
+                        {
+                          "nome": "Scansione 23 ott 2023, 19.53.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/7r0o8zjweat1k5hrpba2d/Scansione-23-ott-2023-19.53.pdf?rlkey=4su5l3hov6eflway5jsetcv8k&dl=0?raw=1",
+                          "dimensione_kb": 1931,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/LAVASTOVIGLIE KRUPPS MODELLO EL60E MATRICOLA 202630150/Scansione 23 ott 2023, 19.53.pdf"
+                        }
+                      ],
+                      "_totale_file": 2
                     }
                   ],
                   "file": [
-                    {
-                      "nome": "Scansione 23 ott 2023, 19.53.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/7r0o8zjweat1k5hrpba2d/Scansione-23-ott-2023-19.53.pdf?rlkey=4su5l3hov6eflway5jsetcv8k&dl=0?raw=1",
-                      "dimensione_kb": 1931,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/Scansione 23 ott 2023, 19.53.pdf"
-                    },
                     {
                       "nome": "WhatsApp Image 2024-02-01 at 10.38.21 (1).jpeg",
                       "tipo": "Immagine",
@@ -99737,14 +99857,6 @@
                       "link": "https://www.dropbox.com/scl/fi/1d9quz1axtu92tzu537hj/WhatsApp-Image-2024-02-01-at-10.38.22-1.jpeg?rlkey=faukitmyqydvf1a2i2ee3xk2f&dl=0?raw=1",
                       "dimensione_kb": 86,
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/WhatsApp Image 2024-02-01 at 10.38.22 (1).jpeg"
-                    },
-                    {
-                      "nome": "WhatsApp Image 2024-02-01 at 10.38.22 (10).jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/rpaxr7ehfetffezae56w8/WhatsApp-Image-2024-02-01-at-10.38.22-10.jpeg?rlkey=hqwyqmcgmj4zibsildqrc4y3h&dl=0?raw=1",
-                      "dimensione_kb": 62,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/WhatsApp Image 2024-02-01 at 10.38.22 (10).jpeg"
                     },
                     {
                       "nome": "WhatsApp Image 2024-02-01 at 10.38.22 (2).jpeg",
@@ -100883,7 +100995,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 895
+          "_totale_file": 900
         },
         {
           "nome": "MARCELLINA",
@@ -101273,6 +101385,22 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "RATIONAL ESPLOSO RICAMBI CORRADO MICHELA EX BAR ROMA 3100856_it.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/seqpkp8i1cwbg5qteccws/RATIONAL-ESPLOSO-RICAMBI-CORRADO-MICHELA-EX-BAR-ROMA-3100856_it.pdf?rlkey=7wi9een1xol9gggzgi25gme3h&dl=0?raw=1",
+                          "dimensione_kb": 1726,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARCELLINA/CORRADO MICHELA BINARIO 1/CORRADO MICHELA BINARIO 1 AREA TECNICA/RATIONAL I COMBI PRO ELETTRICO 6 TEGLIE ASSETTO PASTICCERIA/RATIONAL ESPLOSO RICAMBI CORRADO MICHELA EX BAR ROMA 3100856_it.pdf"
+                        },
+                        {
+                          "nome": "RATIONAL Gmail - R_ RICHIESTA AIRBAFFLE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/kzhsn5hhq8uwa1xqtfapa/RATIONAL-Gmail-R_-RICHIESTA-AIRBAFFLE.pdf?rlkey=bwiuw423s3uohywp9oa68aqoi&dl=0?raw=1",
+                          "dimensione_kb": 1263,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARCELLINA/CORRADO MICHELA BINARIO 1/CORRADO MICHELA BINARIO 1 AREA TECNICA/RATIONAL I COMBI PRO ELETTRICO 6 TEGLIE ASSETTO PASTICCERIA/RATIONAL Gmail - R_ RICHIESTA AIRBAFFLE.pdf"
+                        },
+                        {
                           "nome": "RATIONAL ICOMBI PRO DATI MACCHINA.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -101281,11 +101409,11 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARCELLINA/CORRADO MICHELA BINARIO 1/CORRADO MICHELA BINARIO 1 AREA TECNICA/RATIONAL I COMBI PRO ELETTRICO 6 TEGLIE ASSETTO PASTICCERIA/RATIONAL ICOMBI PRO DATI MACCHINA.jpg"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 3
                     }
                   ],
                   "file": [],
-                  "_totale_file": 2
+                  "_totale_file": 4
                 }
               ],
               "file": [
@@ -101402,11 +101530,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARCELLINA/CORRADO MICHELA BINARIO 1/bonificoSct_14_04_2025_16_58_46.pdf"
                 }
               ],
-              "_totale_file": 52
+              "_totale_file": 54
             }
           ],
           "file": [],
-          "_totale_file": 52
+          "_totale_file": 54
         },
         {
           "nome": "MARINA DI CAMEROTA",
@@ -134015,32 +134143,7 @@
           "_totale_file": 17
         }
       ],
-      "file": [
-        {
-          "nome": "Fattura di vendita_210577_20250306_164821.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/ua4s6evdukii353m0u2qk/Fattura-di-vendita_210577_20250306_164821.pdf?rlkey=cfv3qtwntdefgqmg0f4zcv23f&dl=0?raw=1",
-          "dimensione_kb": 74,
-          "path": "/HUB DOCUMENTALE/CLIENTI/Fattura di vendita_210577_20250306_164821.pdf"
-        },
-        {
-          "nome": "MEC _ depliant ISLANDA-ALASKA.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/070pmj51iemwq45f3reld/MEC-_-depliant-ISLANDA-ALASKA.pdf?rlkey=871vn0i9kl25zngd7bgoh3vtr&dl=0?raw=1",
-          "dimensione_kb": 2417,
-          "path": "/HUB DOCUMENTALE/CLIENTI/MEC _ depliant ISLANDA-ALASKA.pdf"
-        },
-        {
-          "nome": "Offerta di vendita_250139_20250508_165442.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/60lx9m3x8c8ke3fu6ihew/Offerta-di-vendita_250139_20250508_165442.pdf?rlkey=roxweldeq6scbq7hp7r18vral&dl=0?raw=1",
-          "dimensione_kb": 103,
-          "path": "/HUB DOCUMENTALE/CLIENTI/Offerta di vendita_250139_20250508_165442.pdf"
-        }
-      ]
+      "file": []
     },
     {
       "nome": "FORNITORI",
