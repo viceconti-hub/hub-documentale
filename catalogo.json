@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-22T00:28:36Z",
-  "totale_file": 24771,
+  "generato": "2026-05-22T02:30:53Z",
+  "totale_file": 24775,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -134149,7 +134149,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4356,
+      "totale_file": 4360,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -138608,7 +138608,7 @@
               "nome": "LA PIEDIGROTTA FT.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/sq3inysyqbbjfkedbq8he/LA-PIEDIGROTTA-FT.pdf?rlkey=nk4a9wzuxq38ltpm8khhbr827&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 380,
               "path": "/HUB DOCUMENTALE/FORNITORI/BCC/LA PIEDIGROTTA FT.pdf"
             },
@@ -140554,6 +140554,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/COLDLINE N602483005 - Esploso RIF. PASTICCERIA TUZIO.pdf"
                 },
                 {
+                  "nome": "COLDLINE SCHEMA ELETTRICO E24010952001_G_Cablaggio_quadro_elettrico_W5_W6_W7_Modi_Vision_Levtronic.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z7vvii6r379qzfs679g3r/COLDLINE-SCHEMA-ELETTRICO-E24010952001_G_Cablaggio_quadro_elettrico_W5_W6_W7_Modi_Vision_Levtronic.pdf?rlkey=dbm8jklrznxgwffh7oviy9bgy&dl=0?raw=1",
+                  "dimensione_kb": 1869,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/COLDLINE SCHEMA ELETTRICO E24010952001_G_Cablaggio_quadro_elettrico_W5_W6_W7_Modi_Vision_Levtronic.pdf"
+                },
+                {
                   "nome": "Y11050202001-D-Lista parametri armadi 07 M - XW30LR.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -140586,7 +140594,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/Y43000002801-E-Istruzioni installazione pannello Cosmo.pdf"
                 }
               ],
-              "_totale_file": 23
+              "_totale_file": 24
             },
             {
               "nome": "COLDLINE COPIA FATTURA",
@@ -141144,7 +141152,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/wetransfer_01-w5-w6-firmware-v124_2025-07-21_0753.zip"
             }
           ],
-          "_totale_file": 110
+          "_totale_file": 111
         },
         {
           "nome": "COLDMARK",
@@ -169403,6 +169411,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/ARCHIVIO/RATIONAL LISTINO 2021.pdf"
                 },
                 {
+                  "nome": "RATIONAL LISTINO 2024 email del 12_02_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/t8beke3bvzaroue5n3kew/RATIONAL-LISTINO-2024-email-del-12_02_2024.pdf?rlkey=vjakuazpveglxc2lhabgavwqc&dl=0?raw=1",
+                  "dimensione_kb": 5292,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/ARCHIVIO/RATIONAL LISTINO 2024 email del 12_02_2024.pdf"
+                },
+                {
                   "nome": "RATIONAL LISTINO APRILE 2022.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -169459,6 +169475,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/ARCHIVIO/RATIONAL LISTINO RICAMBI SPPL_IT_it_2024_V20.pdf"
                 },
                 {
+                  "nome": "RATIONAL LISTINO RICAMBI SPPL_IT_it_2025_V21.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d53bzfvvng1cz4mpbm1hm/RATIONAL-LISTINO-RICAMBI-SPPL_IT_it_2025_V21.pdf?rlkey=lwt3t6t4lpgee3skc2b79arnb&dl=0?raw=1",
+                  "dimensione_kb": 2549,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/ARCHIVIO/RATIONAL LISTINO RICAMBI SPPL_IT_it_2025_V21.pdf"
+                },
+                {
                   "nome": "SPPL_IT_2022_V18.xlsx",
                   "tipo": "Excel",
                   "icona": "📊",
@@ -169467,7 +169491,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/ARCHIVIO/SPPL_IT_2022_V18.xlsx"
                 }
               ],
-              "_totale_file": 18
+              "_totale_file": 20
             },
             {
               "nome": "Depliant e Video RATIONAL",
@@ -169724,6 +169748,22 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/ACFrOgB8A8rgsYuJG7yKeWghdxcOQg6DXOxKLWH9gXgOPh9lD7afY9k3JTYhZ4vrE2e2NEO8Hz8V_Ae5yBi7foAybZOdiMBJiVhXhLZSdRGmGFuNTdihNA4SIT4d4D8=.pdf"
                 },
                 {
+                  "nome": "AIR BAFFLE 22.01.022P_L33n. Chr.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/5g92uq7msxzaaukesy3gi/AIR-BAFFLE-22.01.022P_L33n.-Chr.jpeg?rlkey=r9ldndg8dlxpzqrndg3vn3fet&dl=0?raw=1",
+                  "dimensione_kb": 1448,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/AIR BAFFLE 22.01.022P_L33n. Chr.jpeg"
+                },
+                {
+                  "nome": "AIR BAFFLE 22.01.334P_L48n. Chr.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/5bz2hhandjruurd109da0/AIR-BAFFLE-22.01.334P_L48n.-Chr.jpeg?rlkey=7043mw6iocdgo9dyyvu2tq62x&dl=0?raw=1",
+                  "dimensione_kb": 1231,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/AIR BAFFLE 22.01.334P_L48n. Chr.jpeg"
+                },
+                {
                   "nome": "Gmail - IMPORTANTE!!! - Aggiornamento Software Obbligatorio.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -169744,7 +169784,7 @@
                   "tipo": "Excel",
                   "icona": "📊",
                   "link": "https://www.dropbox.com/scl/fi/7q6w5nq7d5yqvyqifpbpg/RATIONAL-ELENCO-MATRICOLE-CLIENTI.xlsx?rlkey=kc8jpa5icayfo9bft9iemnl0b&dl=0?raw=1",
-                  "dimensione_kb": 20,
+                  "dimensione_kb": 19,
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/RATIONAL ELENCO MATRICOLE CLIENTI.xlsx"
                 },
                 {
@@ -169762,6 +169802,14 @@
                   "link": "https://www.dropbox.com/scl/fi/i4b3o2coh6lhfsppiluk3/RATIONAL-SERVICE-ERRORI.pdf?rlkey=zen8orv2dwyked0iw77ork6u1&dl=0?raw=1",
                   "dimensione_kb": 4584,
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/RATIONAL SERVICE ERRORI.pdf"
+                },
+                {
+                  "nome": "RATIONAL air baffle SCHEMA DI RIEPILOGO CODICI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mppw57ctccyi54dlosaa0/RATIONAL-air-baffle-SCHEMA-DI-RIEPILOGO-CODICI.pdf?rlkey=btmvh5br5xpjmyzehlfr867nd&dl=0?raw=1",
+                  "dimensione_kb": 86,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/RATIONAL air baffle SCHEMA DI RIEPILOGO CODICI.pdf"
                 },
                 {
                   "nome": "REPA CATALOGO RICAMBI cottura rational 201803051153 lf.pdf",
@@ -169804,7 +169852,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/flyer-softwareupdate-connectedcooking-it-it.pdf"
                 }
               ],
-              "_totale_file": 30
+              "_totale_file": 33
             },
             {
               "nome": "RATIONAL COPIA PENNA",
@@ -170001,6 +170049,14 @@
           ],
           "file": [
             {
+              "nome": "001.RATIONAL LISTINO RICAMBI 01.04.2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cy4onzbs4axtuquckncz9/001.RATIONAL-LISTINO-RICAMBI-01.04.2026.pdf?rlkey=hcn35gv4g3laip51zt5fs8902&dl=0?raw=1",
+              "dimensione_kb": 3515,
+              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/001.RATIONAL LISTINO RICAMBI 01.04.2026.pdf"
+            },
+            {
               "nome": "Accordi Commerciali 2023 Viceconti FIRMATI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -170081,36 +170137,12 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL INVITO PERSONALE 100 Viceconti 2024.pdf"
             },
             {
-              "nome": "RATIONAL LISTINO 2024 email del 12_02_2024.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/t8beke3bvzaroue5n3kew/RATIONAL-LISTINO-2024-email-del-12_02_2024.pdf?rlkey=vjakuazpveglxc2lhabgavwqc&dl=0?raw=1",
-              "dimensione_kb": 5292,
-              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL LISTINO 2024 email del 12_02_2024.pdf"
-            },
-            {
-              "nome": "RATIONAL LISTINO RICAMBI 01.04.2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/cy4onzbs4axtuquckncz9/RATIONAL-LISTINO-RICAMBI-01.04.2026.pdf?rlkey=hcn35gv4g3laip51zt5fs8902&dl=0?raw=1",
-              "dimensione_kb": 3515,
-              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL LISTINO RICAMBI 01.04.2026.pdf"
-            },
-            {
               "nome": "RATIONAL LISTINO RICAMBI EXCEL SPPL_IT_it_2026_V22.xlsx",
               "tipo": "Excel",
               "icona": "📊",
               "link": "https://www.dropbox.com/scl/fi/vw1n8olq3hd8ct8h5f27j/RATIONAL-LISTINO-RICAMBI-EXCEL-SPPL_IT_it_2026_V22.xlsx?rlkey=z1urhdhby2rar8ounjebtonqp&dl=0?raw=1",
               "dimensione_kb": 764,
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL LISTINO RICAMBI EXCEL SPPL_IT_it_2026_V22.xlsx"
-            },
-            {
-              "nome": "RATIONAL LISTINO RICAMBI SPPL_IT_it_2025_V21.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/d53bzfvvng1cz4mpbm1hm/RATIONAL-LISTINO-RICAMBI-SPPL_IT_it_2025_V21.pdf?rlkey=lwt3t6t4lpgee3skc2b79arnb&dl=0?raw=1",
-              "dimensione_kb": 2549,
-              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL LISTINO RICAMBI SPPL_IT_it_2025_V21.pdf"
             },
             {
               "nome": "RATIONAL-Loader.zip",
@@ -170129,7 +170161,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/cannillo viceconti solo logo.pdf"
             }
           ],
-          "_totale_file": 88
+          "_totale_file": 91
         },
         {
           "nome": "REGINA ATTREZZATURE",
