@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-23T07:08:07Z",
-  "totale_file": 24809,
+  "generato": "2026-05-23T08:11:20Z",
+  "totale_file": 24810,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -217466,7 +217466,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2361,
+      "totale_file": 2362,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -237992,6 +237992,14 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/AIRFAN Dettaglio bonifico istantaneo DEL 19_05_2026.pdf"
                 },
                 {
+                  "nome": "AIRFAN Dettaglio bonifico istantaneo DEL 22_05_2026 SU VOSTRA BANCA INTESA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pz6yn55hoa4yx5z6wfhqd/AIRFAN-Dettaglio-bonifico-istantaneo-DEL-22_05_2026-SU-VOSTRA-BANCA-INTESA.pdf?rlkey=56ikztxjb18zhzvb9gcxcbnte&dl=0?raw=1",
+                  "dimensione_kb": 109,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/AIRFAN Dettaglio bonifico istantaneo DEL 22_05_2026 SU VOSTRA BANCA INTESA.pdf"
+                },
+                {
                   "nome": "AMETRANO BONIFICO ISTANTANEO SMART CBI - Firma DEL 16_04_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -238712,11 +238720,11 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DA REGISTRARE IN SAP/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
                 }
               ],
-              "_totale_file": 2341
+              "_totale_file": 2342
             }
           ],
           "file": [],
-          "_totale_file": 2341
+          "_totale_file": 2342
         }
       ],
       "file": []
