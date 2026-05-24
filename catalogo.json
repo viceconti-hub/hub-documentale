@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-24T08:18:46Z",
-  "totale_file": 24811,
+  "generato": "2026-05-24T08:24:22Z",
+  "totale_file": 24812,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61851,7 +61851,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 199,
+      "totale_file": 200,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -61907,6 +61907,14 @@
             }
           ],
           "file": [
+            {
+              "nome": "2026-05-23 DISPOSITIVO INTERROGAZIONE SAP - RISVOLTI CONCETTUALI.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/favpd2o6d8gfs9t7ab0sx/2026-05-23-DISPOSITIVO-INTERROGAZIONE-SAP-RISVOLTI-CONCETTUALI.md?rlkey=05zrxm5bhpbxaz62cf61ybl11&dl=0?raw=1",
+              "dimensione_kb": 13,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/2026-05-23 DISPOSITIVO INTERROGAZIONE SAP - RISVOLTI CONCETTUALI.md"
+            },
             {
               "nome": "AI HUMAN LAB RIEPILOGO.md",
               "tipo": "File",
@@ -62068,7 +62076,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/n8n RIEPILOGO.md"
             }
           ],
-          "_totale_file": 21
+          "_totale_file": 22
         },
         {
           "nome": "CAMPOLEROSE CANTIERE APRILE 2026",
