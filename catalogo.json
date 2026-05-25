@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-25T07:39:09Z",
-  "totale_file": 25044,
+  "generato": "2026-05-25T07:45:14Z",
+  "totale_file": 25045,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -61851,7 +61851,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 200,
+      "totale_file": 201,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -61962,6 +61962,14 @@
               "link": "https://www.dropbox.com/scl/fi/qx9tdmggdgisqxqrer4vy/FastAPI-RIEPILOGO.md?rlkey=uvxvwem3sywp774nqt1cka7de&dl=0?raw=1",
               "dimensione_kb": 24,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/FastAPI RIEPILOGO.md"
+            },
+            {
+              "nome": "HUB DOCUMENTALE RIEPILOGO 25_05_2026.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/9cil98b70ktxwt6aunbrx/HUB-DOCUMENTALE-RIEPILOGO-25_05_2026.md?rlkey=638d7i0qovrijdesigdyznqgh&dl=0?raw=1",
+              "dimensione_kb": 16,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/HUB DOCUMENTALE RIEPILOGO 25_05_2026.md"
             },
             {
               "nome": "ISTRUZIONI_RIEPILOGO_E_NAMING.md",
@@ -62076,7 +62084,7 @@
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/n8n RIEPILOGO.md"
             }
           ],
-          "_totale_file": 22
+          "_totale_file": 23
         },
         {
           "nome": "CAMPOLEROSE CANTIERE APRILE 2026",
