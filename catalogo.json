@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-25T02:28:24Z",
+  "generato": "2026-05-25T05:13:49Z",
   "totale_file": 24812,
   "totale_sezioni": 8,
   "sezioni": [
@@ -187,8 +187,8 @@
           "_totale_file": 21
         },
         {
-          "nome": "FATTURE DI VENDITA",
-          "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA",
+          "nome": "FATTURE DI VENDITA PDF",
+          "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF",
           "cartelle": [],
           "file": [
             {
@@ -197,7 +197,7 @@
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/h605tdddbvvpcb2kdfqnl/VELARDI-Srl-Fattura-di-vendita_2600101_20260515_172849-RIF.-ARREDO-INOX-PIAZZA-EUROPA.pdf?rlkey=gujfv3kg6zdlh9pzs02taq62t&dl=0?raw=1",
               "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA/VELARDI Srl Fattura di vendita_2600101_20260515_172849 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/VELARDI Srl Fattura di vendita_2600101_20260515_172849 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
           "_totale_file": 1
