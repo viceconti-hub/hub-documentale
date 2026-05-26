@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-26T02:26:01Z",
-  "totale_file": 25045,
+  "generato": "2026-05-26T05:11:08Z",
+  "totale_file": 25061,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5540,
+      "totale_file": 5556,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -22,6 +22,22 @@
               "link": "https://www.dropbox.com/scl/fi/tnqoy5s0vva660aikqo6b/3AM-SRL-HOTEL-MARTINO-Consegna_260265_20260511_202534.pdf?rlkey=k7cmekrz38r4hdd3kukdzggeb&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/3AM SRL HOTEL MARTINO Consegna_260265_20260511_202534.pdf"
+            },
+            {
+              "nome": "AGUA LOCA DI D'IMPERIO NICOLA Consegna_260286_20260523_093138 RIF. Basato su Ordini cliente 260164..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rrw0oqa3gho1avre7x3uu/AGUA-LOCA-DI-D-IMPERIO-NICOLA-Consegna_260286_20260523_093138-RIF.-Basato-su-Ordini-cliente-260164..pdf?rlkey=6yzm96pqsoe8tm35w4letnjxi&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGUA LOCA DI D'IMPERIO NICOLA Consegna_260286_20260523_093138 RIF. Basato su Ordini cliente 260164..pdf"
+            },
+            {
+              "nome": "AGUA LOCA DI D'IMPERIO NICOLA Consegna_260293_20260525_101416 RIF. BRILLANTANTE QTA 1 LASCIATO A NICOLA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/min2aa69kdj4yfsgf2rly/AGUA-LOCA-DI-D-IMPERIO-NICOLA-Consegna_260293_20260525_101416-RIF.-BRILLANTANTE-QTA-1-LASCIATO-A-NICOLA.pdf?rlkey=ouuk81ixexlnwzhr7nglr3c80&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGUA LOCA DI D'IMPERIO NICOLA Consegna_260293_20260525_101416 RIF. BRILLANTANTE QTA 1 LASCIATO A NICOLA.pdf"
             },
             {
               "nome": "CARNI LIMONGI SRL Consegna_260276_20260516_155927 RIF. LEVA NERA PER MISCELATORE.pdf",
@@ -46,6 +62,22 @@
               "link": "https://www.dropbox.com/scl/fi/to76iyu235p02q8jvd0em/CARNI-LIMONGI-SRL-Consegna_260283_20260521_122823-RIF.-PELLICOLA.pdf?rlkey=q9gr55ml26qw3f1dcg0ag83vg&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CARNI LIMONGI SRL Consegna_260283_20260521_122823 RIF. PELLICOLA.pdf"
+            },
+            {
+              "nome": "CHECK Srl BAR MATER DEI Consegna_260288_20260523_093746 RIF. DETERGENTE ECOSAN DET 6 QTA'1 Basato su Ordini cliente 26014 DETERGENTE ECOSAN DET 6 QTA'1.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qdu4cgirbd6ynttn4fj5k/CHECK-Srl-BAR-MATER-DEI-Consegna_260288_20260523_093746-RIF.-DETERGENTE-ECOSAN-DET-6-QTA-1-Basato-su-Ordini-cliente-26014-DETERGENTE-ECOSAN-DET-6-QTA-1.pdf?rlkey=xcii918x7166rosljl07as2wp&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CHECK Srl BAR MATER DEI Consegna_260288_20260523_093746 RIF. DETERGENTE ECOSAN DET 6 QTA'1 Basato su Ordini cliente 26014 DETERGENTE ECOSAN DET 6 QTA'1.pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA Consegna_260212_20260523_170418 RIF. ARMADIO CONGELATORE Basato su Offerte di vendita 250779. 260.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/urgj0czp19yo0b4dc4qh2/CORRADO-MICHELA-Consegna_260212_20260523_170418-RIF.-ARMADIO-CONGELATORE-Basato-su-Offerte-di-vendita-250779.-260.pdf?rlkey=schx9233fc16ivkr78aupab0v&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CORRADO MICHELA Consegna_260212_20260523_170418 RIF. ARMADIO CONGELATORE Basato su Offerte di vendita 250779. 260.pdf"
             },
             {
               "nome": "CULURGIONI E C. SNC Consegna_260278_20260519_082131 RIF. Basato su Ordini cliente 260154. PAGAMENTO IN CONTRASSEGNO € CULURGIONI E C. SNC LAMA.pdf",
@@ -104,6 +136,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260274_20260516_102950.pdf"
             },
             {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_260290_20260523_094841 RIF. CONTENITORI IN POLIPROPILENE Basato su Ordini cliente 260120 CONENTITORI POLIPROPILENE URGENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8rhcfrxoz0nozmnbrdfsx/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_260290_20260523_094841-RIF.-CONTENITORI-IN-POLIPROPILENE-Basato-su-Ordini-cliente-260120-CONENTITORI-POLIPROPILENE-URGENTE.pdf?rlkey=x3kqanraz5c9df2mt9fro72pw&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260290_20260523_094841 RIF. CONTENITORI IN POLIPROPILENE Basato su Ordini cliente 260120 CONENTITORI POLIPROPILENE URGENTE.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_260292_20260524_213002 RIF. ACCESSORI PIZZERIA Basato su Ordini cliente 260167..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lu8uxvnlei6qvlnlyvqak/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_260292_20260524_213002-RIF.-ACCESSORI-PIZZERIA-Basato-su-Ordini-cliente-260167..pdf?rlkey=6xo4uggksd2pq8jciy21rdxkw&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260292_20260524_213002 RIF. ACCESSORI PIZZERIA Basato su Ordini cliente 260167..pdf"
+            },
+            {
               "nome": "GRAN SOLE S.r.l. Consegna_260264_20260510_123412.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -136,6 +184,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IL LUCANO SRLS Consegna_260272_20260515_123039 RIF. PINZA PER AFFETTATTI.pdf"
             },
             {
+              "nome": "ILAMA di D'ARCO PASQUALE Consegna_260291_20260524_174041 RIF. SEDIA CARNABY 10023 COL.TORTORA UF890-28 BELLADONNA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ehn2coiyt8dvks4gbyw8j/ILAMA-di-D-ARCO-PASQUALE-Consegna_260291_20260524_174041-RIF.-SEDIA-CARNABY-10023-COL.TORTORA-UF890-28-BELLADONNA.pdf?rlkey=aip616tw3n4vbg4qch1a2j3mh&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ILAMA di D'ARCO PASQUALE Consegna_260291_20260524_174041 RIF. SEDIA CARNABY 10023 COL.TORTORA UF890-28 BELLADONNA.pdf"
+            },
+            {
               "nome": "INGROIA ANTONIO Consegna_260258_20260514_130853.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -150,6 +206,14 @@
               "link": "https://www.dropbox.com/scl/fi/rhpbm7ggmm8irnxqdbb3k/LA-SECCA-E-IL-MIRTO-SOCIETA-COOPERATIVA-Consegna_260275_20260516_105236-RIF.-TUBO-SCARICO-PER-LAVASTOVIGLIE-COMENDA-RG20.pdf?rlkey=94wrnolkr2jvcdhqtnshqzlvf&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA SECCA E IL MIRTO SOCIETA' COOPERATIVA Consegna_260275_20260516_105236 RIF. TUBO SCARICO PER LAVASTOVIGLIE COMENDA RG20.pdf"
+            },
+            {
+              "nome": "LA TANA GROUP SRL Consegna_260285_20260523_090702 RIF. SEDIA IN POLIPROPILENE MOD. CHIAVARINA, COLORE BIANCO, IMPIL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/698cmkh29i6c3i6ar0xxi/LA-TANA-GROUP-SRL-Consegna_260285_20260523_090702-RIF.-SEDIA-IN-POLIPROPILENE-MOD.-CHIAVARINA-COLORE-BIANCO-IMPIL.pdf?rlkey=k9wfeqxnohta0h9ngoepecyc1&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA TANA GROUP SRL Consegna_260285_20260523_090702 RIF. SEDIA IN POLIPROPILENE MOD. CHIAVARINA, COLORE BIANCO, IMPIL.pdf"
             },
             {
               "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260273_20260515_124403 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf",
@@ -168,6 +232,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LO RUSSO VITO Consegna_260281_20260520_184534 RIF. Basato su Ordini cliente 260139. GRIGLIE PLASTIFICATE COLDLINE.pdf"
             },
             {
+              "nome": "SIRTAKI S.R.L.S Consegna_260287_20260523_093606 RIF. DETERGENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dhx2puz88tkm5axdzrs0w/SIRTAKI-S.R.L.S-Consegna_260287_20260523_093606-RIF.-DETERGENTE.pdf?rlkey=e7tz4719x6woiegcwesyri3dp&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SIRTAKI S.R.L.S Consegna_260287_20260523_093606 RIF. DETERGENTE.pdf"
+            },
+            {
+              "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Consegna_260289_20260523_094527 RIF. MIXER A IMMERSIONE FIMAR MX 25Basato su Offerte di vendita 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/24j0zhavonei0fiegoa0x/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Consegna_260289_20260523_094527-RIF.-MIXER-A-IMMERSIONE-FIMAR-MX-25Basato-su-Offerte-di-vendita-2.pdf?rlkey=2ak43syjplr2sbelf0k2bkyvr&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Consegna_260289_20260523_094527 RIF. MIXER A IMMERSIONE FIMAR MX 25Basato su Offerte di vendita 2.pdf"
+            },
+            {
               "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260282_20260521_122013 RIF. DETERGENTE Basato su Ordini cliente 260160..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -184,7 +264,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/VELARDI Srl Consegna_260271_20260515_100703 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 21
+          "_totale_file": 31
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -432,20 +512,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MARIE SAS DI CARMINE CANTISANI E C. Offerta di vendita_260182_20260521_163932 RIF. ASSISTENZA SU ABBATTITORE COLDLINE DIGRIM DT3S MATRICOLA 091.pdf"
             },
             {
-              "nome": "ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260520_024959.pdf",
+              "nome": "ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260524_103430.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/9dyz6bgrfd5jk3pmnbshe/ONY-ROBY-PAOLINO-SRL-Offerta-di-vendita_260175_20260520_024959.pdf?rlkey=epxuaa4pk8q2s4ppa5tqykzk6&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/sipnarauu7w9e690vma33/ONY-ROBY-PAOLINO-SRL-Offerta-di-vendita_260175_20260524_103430.pdf?rlkey=c7estgoh7u7yidoib4zyqfacp&dl=0?raw=1",
               "dimensione_kb": 87,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260520_024959.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260524_103430.pdf"
             },
             {
-              "nome": "ONY & ROBY PAOLINO SRL Offerta di vendita_260178_20260520_024806.pdf",
+              "nome": "ONY & ROBY PAOLINO SRL Offerta di vendita_260178_20260524_103248.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/9ohas9um0s21q6zd33f6q/ONY-ROBY-PAOLINO-SRL-Offerta-di-vendita_260178_20260520_024806.pdf?rlkey=3akqc2wllyb5mdsyb7ntv496o&dl=0?raw=1",
-              "dimensione_kb": 86,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ONY & ROBY PAOLINO SRL Offerta di vendita_260178_20260520_024806.pdf"
+              "link": "https://www.dropbox.com/scl/fi/yp1twp8r9cky2zg6e0oe0/ONY-ROBY-PAOLINO-SRL-Offerta-di-vendita_260178_20260524_103248.pdf?rlkey=rerhr05j8yzx48ji49t5rmmvx&dl=0?raw=1",
+              "dimensione_kb": 87,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ONY & ROBY PAOLINO SRL Offerta di vendita_260178_20260524_103248.pdf"
+            },
+            {
+              "nome": "ONY & ROBY PAOLINO SRL Offerta di vendita_260185_20260524_103542.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/757ai6vfzqafi3n4ybg1w/ONY-ROBY-PAOLINO-SRL-Offerta-di-vendita_260185_20260524_103542.pdf?rlkey=08ead0pbq9gpqlea1t58s3u87&dl=0?raw=1",
+              "dimensione_kb": 88,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ONY & ROBY PAOLINO SRL Offerta di vendita_260185_20260524_103542.pdf"
             },
             {
               "nome": "PANAINO SRL UNIPERSONALE Offerta di vendita_260167_20260515_165151 RIF. TAVOLO REFRIGERATO 2 SPORTELLI 151X80.pdf",
@@ -520,7 +608,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260170_20260515_182140 RIF. CALICI BIRRA WEIZEN.pdf"
             }
           ],
-          "_totale_file": 39
+          "_totale_file": 40
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -58123,6 +58211,14 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260164_20260523_093129.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ydypllqnzmc5872y71ud6/AGUA-LOCA-DI-D-IMPERIO-NICOLA-Ordine-cliente_260164_20260523_093129.pdf?rlkey=xiybd0xpgzl4gk8j78r6bh43n&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260164_20260523_093129.pdf"
+            },
+            {
               "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Ordine cliente_260159_20260521_110050 RIF. Basato su Offerte di vendita 260143. LA CAPPELLINA VETRINA MIX VBD 150.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58163,6 +58259,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHECK Srl BAR MATER DEI Ordine cliente_260140_20260512_170003 RIF. DETERGENTE ECOSAN DET 6 QTA'1.pdf"
             },
             {
+              "nome": "CORRADO MICHELA Ordine cliente_260166_20260523_194029 RIF. Armadio LevTronic 550 -20°+40°C RH 45÷95% 1 porta.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3osa536z7paxspea2h327/CORRADO-MICHELA-Ordine-cliente_260166_20260523_194029-RIF.-Armadio-LevTronic-550-20-40-C-RH-45-95-1-porta.pdf?rlkey=yj00pfxe9cq5eoqrxwic3qaup&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA Ordine cliente_260166_20260523_194029 RIF. Armadio LevTronic 550 -20°+40°C RH 45÷95% 1 porta.pdf"
+            },
+            {
               "nome": "CULURGIONI E C. SNC Ordine cliente_260154_20260519_081106 RIF. CULURGIONI E C. SNC LAMA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58187,12 +58291,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DIMAC SRL Ordine cliente_260135_20260512_100211.pdf"
             },
             {
+              "nome": "EMMEGIEFFE DI FALCONE MICHELE e C sas Ordine cliente_260168_20260525_133308 RIF. LAMA 300 LAMAFF0012A.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5yv5lpnakozad68c3brdi/EMMEGIEFFE-DI-FALCONE-MICHELE-e-C-sas-Ordine-cliente_260168_20260525_133308-RIF.-LAMA-300-LAMAFF0012A.pdf?rlkey=d07rj36cmyacy7xclvnv99r5r&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/EMMEGIEFFE DI FALCONE MICHELE e C sas Ordine cliente_260168_20260525_133308 RIF. LAMA 300 LAMAFF0012A.pdf"
+            },
+            {
               "nome": "ESCOPOCO S.R.L. Ordine cliente_260156_20260522_152001 RIF. Basato su Offerte di vendita 260171. GRIGLIA FORATA PER GRIGLIARE.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/pk1x7qvipr0rlohijprfa/ESCOPOCO-S.R.L.-Ordine-cliente_260156_20260522_152001-RIF.-Basato-su-Offerte-di-vendita-260171.-GRIGLIA-FORATA-PER-GRIGLIARE.pdf?rlkey=l5j65jsygfbiankvryoeiv6sh&dl=0?raw=1",
               "dimensione_kb": 58,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ESCOPOCO S.R.L. Ordine cliente_260156_20260522_152001 RIF. Basato su Offerte di vendita 260171. GRIGLIA FORATA PER GRIGLIARE.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Ordine cliente_260167_20260524_212913.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hgsy13v23v3bp9scyw5rz/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Ordine-cliente_260167_20260524_212913.pdf?rlkey=pakjz8lcqdbdrksmi6ih1isur&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/FA TU PIZZA AND MORE FA TU SRL Ordine cliente_260167_20260524_212913.pdf"
             },
             {
               "nome": "GIOIA AURELIO Ordine cliente_260162_20260522_151910 RIF. Basato su Offerte di vendita 260183..pdf",
@@ -58347,6 +58467,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SANTOS SRL Ordine cliente_260134_20260511_190325 RIF. BACK BAR.pdf"
             },
             {
+              "nome": "SIRTAKI S.R.L.S Ordine cliente_260165_20260523_093503 RIF. GRIGLIA COMBIGRILL 11 GN RIVESTIM. TRILAX RATIONAL QTA' 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wevpg58ulh24rs85isj1e/SIRTAKI-S.R.L.S-Ordine-cliente_260165_20260523_093503-RIF.-GRIGLIA-COMBIGRILL-11-GN-RIVESTIM.-TRILAX-RATIONAL-QTA-2.pdf?rlkey=zagl6mjjl81b5kgvgm87qnhbh&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SIRTAKI S.R.L.S Ordine cliente_260165_20260523_093503 RIF. GRIGLIA COMBIGRILL 11 GN RIVESTIM. TRILAX RATIONAL QTA' 2.pdf"
+            },
+            {
               "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Ordine cliente_260142_20260512_184921 RIF. SACCO DI PIETRA LAVICA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58387,7 +58515,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 33
+          "_totale_file": 38
         }
       ],
       "file": []
