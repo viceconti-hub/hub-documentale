@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-26T05:11:08Z",
-  "totale_file": 25061,
+  "generato": "2026-05-26T07:22:18Z",
+  "totale_file": 25068,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176489,7 +176489,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5077,
+      "totale_file": 5084,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -176527,6 +176527,30 @@
               "link": "https://www.dropbox.com/scl/fi/2n8va28c5u7eo4hj8i8wg/ARISTARCO-DDT-DDV_2476845_2026_1_4234_21052026-RIF.-CALA-DEL-CITRO-MeM-NERA-CARCONI-MAG.PDF?rlkey=uxz6h6gp4skf779pag4zifgjj&dl=0?raw=1",
               "dimensione_kb": 14,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ARISTARCO DDT  DDV_2476845_2026_1_4234_21052026 RIF. CALA DEL CITRO MeM NERA CARCONI MAG.PDF"
+            },
+            {
+              "nome": "BELLADONNA SRL Entrata merci da fornitore_260079_20260524_171945 RIF. Basato su Ordini d'acquisto 260016. 260017..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xrzmni99sepsc4p42oqmn/BELLADONNA-SRL-Entrata-merci-da-fornitore_260079_20260524_171945-RIF.-Basato-su-Ordini-d-acquisto-260016.-260017..pdf?rlkey=l85cbou41yj9n5sji5f78a3m7&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/BELLADONNA SRL Entrata merci da fornitore_260079_20260524_171945 RIF. Basato su Ordini d'acquisto 260016. 260017..pdf"
+            },
+            {
+              "nome": "BELLADONNA SRL Entrata merci da fornitore_260080_20260524_172731 RIF. FA TU Basato su Ordini cliente 260028. Basato su Ordini d'ac.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g1q9bhilnpyyw80elfzo3/BELLADONNA-SRL-Entrata-merci-da-fornitore_260080_20260524_172731-RIF.-FA-TU-Basato-su-Ordini-cliente-260028.-Basato-su-Ordini-d-ac.pdf?rlkey=y07zvy67dr0spud65s9qj1puk&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/BELLADONNA SRL Entrata merci da fornitore_260080_20260524_172731 RIF. FA TU Basato su Ordini cliente 260028. Basato su Ordini d'ac.pdf"
+            },
+            {
+              "nome": "BELLADONNA SRL Entrata merci da fornitore_260081_20260524_173538 RIF. ILAMA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/h4yeghz28zdnrb6r3294j/BELLADONNA-SRL-Entrata-merci-da-fornitore_260081_20260524_173538-RIF.-ILAMA.pdf?rlkey=6wst3ckojnelvt1cb9vdadcvq&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/BELLADONNA SRL Entrata merci da fornitore_260081_20260524_173538 RIF. ILAMA.pdf"
             },
             {
               "nome": "CB SRL Entrata merci da fornitore_260073_20260520_214413 RIF. Basato su Ordini cliente 260142. Basato su Ordini d'acquisto SACCO DI PIETRA LAVICA.pdf",
@@ -176897,7 +176921,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SIRMAN spa Entrata merci da fornitore_260068_20260520_171929 RIF. Basato su Ordini cliente 260082.De Michele Alejandro s.a.s..pdf"
             }
           ],
-          "_totale_file": 50
+          "_totale_file": 53
         },
         {
           "nome": "FATTURE DA FORNITORE WORKSPACE",
@@ -219128,6 +219152,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf"
             },
             {
+              "nome": "COLD LINE srl Ordine dacquisto_260108_20260521_164303 RIF. MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wwb03m8qjvunyk2zvwtag/COLD-LINE-srl-Ordine-dacquisto_260108_20260521_164303-RIF.-MARIE-VENTOLA-PER-DT3S-MATRICOLA-091711901-Basato-su-Offerte.pdf?rlkey=v0hu3icsgyicklq521zzqzged&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260108_20260521_164303 RIF. MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Ordine dacquisto_260113_20260525_155221 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4ly4gwtbh6rx4q1485m8s/COLD-LINE-srl-Ordine-dacquisto_260113_20260525_155221-RIF.-CORRADO-MICHELA-ARMADIO-LEVETRONIC-500-Basato-su-Ordini-clie.pdf?rlkey=hgm5ypj5k0y6ff24x6hklvaru&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260113_20260525_155221 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf"
+            },
+            {
               "nome": "COLDLINE Conferma ordine n°26-05209 RIF. MARIE MOTORE ASSIALE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -219144,20 +219184,36 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-08381 RIF. PASSION SUSHI.pdf"
             },
             {
-              "nome": "COLDLINE srl Ordine dacquisto_260108_20260521_164303 RIF. MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte.pdf",
+              "nome": "DE LUCA SRL Ordine dacquisto_260109_20260524_205338 RIF. ILAMA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/n5pjge74l86r9lt1gqipe/COLDLINE-srl-Ordine-dacquisto_260108_20260521_164303-RIF.-MARIE-VENTOLA-PER-DT3S-MATRICOLA-091711901-Basato-su-Offerte.pdf?rlkey=4hidvwde80cd5eq7lp3dx8l9r&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE srl Ordine dacquisto_260108_20260521_164303 RIF. MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte.pdf"
+              "link": "https://www.dropbox.com/scl/fi/6v3e0zm3pwy1t4aj031rg/DE-LUCA-SRL-Ordine-dacquisto_260109_20260524_205338-RIF.-ILAMA.pdf?rlkey=44ve9i4hrt8t1o5ugfn8f9qt7&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260109_20260524_205338 RIF. ILAMA.pdf"
             },
             {
-              "nome": "DM COMMERCIALE DI GUAGLIANONE SONNY F. Ordine dacquisto_260107_20260521_132039 RIF. LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260.pdf",
+              "nome": "DE LUCA SRL Ordine dacquisto_260110_20260524_213502.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/pab6w10ag17yj0ktufwt5/DM-COMMERCIALE-DI-GUAGLIANONE-SONNY-F.-Ordine-dacquisto_260107_20260521_132039-RIF.-LA-TANA-GROUP-CHIAVARINA-QTA-10-Basato-su-Ordini-cliente-260.pdf?rlkey=deskdzg5oe00eei0ns5ghj6hb&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/mfsljhphxwhh7e5l2czn4/DE-LUCA-SRL-Ordine-dacquisto_260110_20260524_213502.pdf?rlkey=90heaf75tb1fo4npxg58oyjtf&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260110_20260524_213502.pdf"
+            },
+            {
+              "nome": "DE LUCA SRL Ordine dacquisto_260111_20260524_214102.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gipzo4f6rveydza4sxwpt/DE-LUCA-SRL-Ordine-dacquisto_260111_20260524_214102.pdf?rlkey=t4aryxfxtecvt9g8gol04vnqd&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260111_20260524_214102.pdf"
+            },
+            {
+              "nome": "DM COMMERCIALE S.R.L. Ordine dacquisto_260107_20260521_132039 RIF. LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/icv335yzxollb35bo52al/DM-COMMERCIALE-S.R.L.-Ordine-dacquisto_260107_20260521_132039-RIF.-LA-TANA-GROUP-CHIAVARINA-QTA-10-Basato-su-Ordini-cliente-260.pdf?rlkey=kua63q17r18kg28rltjjt57u3&dl=0?raw=1",
               "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DM COMMERCIALE DI GUAGLIANONE SONNY F. Ordine dacquisto_260107_20260521_132039 RIF. LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260.pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DM COMMERCIALE S.R.L. Ordine dacquisto_260107_20260521_132039 RIF. LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260.pdf"
             },
             {
               "nome": "DM COMMERCIALE SVEMO CONFERMA ORDINE VICECONTI RIF. LA TANA GORUP SEDIA CHIAVARINA 10.pdf",
@@ -219440,7 +219496,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260097_20260519_233227 RIF. PALETTA AFFETTATRICE OMAS MOD. L 37S MATR.02605 VOLT 230.pdf"
             }
           ],
-          "_totale_file": 3625
+          "_totale_file": 3629
         }
       ],
       "file": []
