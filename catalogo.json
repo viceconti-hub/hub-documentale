@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-27T02:26:47Z",
-  "totale_file": 25069,
+  "generato": "2026-05-27T05:11:54Z",
+  "totale_file": 25076,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5556,
+      "totale_file": 5563,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -86,6 +86,14 @@
               "link": "https://www.dropbox.com/scl/fi/izemwmafmxodfszqpx3n1/CULURGIONI-E-C.-SNC-Consegna_260278_20260519_082131-RIF.-Basato-su-Ordini-cliente-260154.-PAGAMENTO-IN-CONTRASSEGNO-CULURGIONI-E-C.-SNC-LAMA.pdf?rlkey=50ymcdhwoajsu3jydc21byqfr&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CULURGIONI E C. SNC Consegna_260278_20260519_082131 RIF. Basato su Ordini cliente 260154. PAGAMENTO IN CONTRASSEGNO € CULURGIONI E C. SNC LAMA.pdf"
+            },
+            {
+              "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260295_20260525_161329 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260169..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dnonv3vqznnmyhgyu7rt0/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Consegna_260295_20260525_161329-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260169..pdf?rlkey=6u12t66ifsdqp4xhakhavq03w&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260295_20260525_161329 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260169..pdf"
             },
             {
               "nome": "DIMAC SRL Consegna_260266_20260512_100144 RIF. DETERGENTE RATIONAL ROSSO.pdf",
@@ -224,6 +232,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260273_20260515_124403 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf"
             },
             {
+              "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260294_20260525_160903 RIF. DETERGENTE RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lqhos17ixt6lbjj6msvkf/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Consegna_260294_20260525_160903-RIF.-DETERGENTE-RATIONAL.pdf?rlkey=32ibxw65ogwcsm1mzma6fgfri&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260294_20260525_160903 RIF. DETERGENTE RATIONAL.pdf"
+            },
+            {
+              "nome": "LIDO POINT BREAK Consegna_260296_20260526_093623 RIF. Basato su Offerte di vendita 260151. Basato su Ordini client TAVOLOLO CON VASCA INCASSATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ufz0fgp9l26vwmb13j7jt/LIDO-POINT-BREAK-Consegna_260296_20260526_093623-RIF.-Basato-su-Offerte-di-vendita-260151.-Basato-su-Ordini-client-TAVOLOLO-CON-VASCA-INCASSATA.pdf?rlkey=0wxym6gjqtxaams4i379m48a4&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LIDO POINT BREAK Consegna_260296_20260526_093623 RIF. Basato su Offerte di vendita 260151. Basato su Ordini client TAVOLOLO CON VASCA INCASSATA.pdf"
+            },
+            {
               "nome": "LO RUSSO VITO Consegna_260281_20260520_184534 RIF. Basato su Ordini cliente 260139. GRIGLIE PLASTIFICATE COLDLINE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -264,7 +288,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/VELARDI Srl Consegna_260271_20260515_100703 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 31
+          "_totale_file": 34
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -326,6 +350,14 @@
               "link": "https://www.dropbox.com/scl/fi/1fx9sb8z4f6gpnjn7eddj/CARACOJ-PRAJA-SRL-Offerta-di-vendita_260174_20260518_183252-RIF.-ATTREZZATURE.pdf?rlkey=3e33wm1t7d0t0h5xhlwep0vc5&dl=0?raw=1",
               "dimensione_kb": 81,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CARACOJ PRAJA SRL Offerta di vendita_260174_20260518_183252 RIF. ATTREZZATURE.pdf"
+            },
+            {
+              "nome": "CIDO SRL Offerta di vendita_260186_20260526_080254 RIF. ASSISTENZA SU CUCINA ANGELO PO CON FORNO ASSISTENZA SU CUCIN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fqvwsh0sh17xpim0vne3x/CIDO-SRL-Offerta-di-vendita_260186_20260526_080254-RIF.-ASSISTENZA-SU-CUCINA-ANGELO-PO-CON-FORNO-ASSISTENZA-SU-CUCIN.pdf?rlkey=ot60opkm9xauql6uhn2627jg3&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CIDO SRL Offerta di vendita_260186_20260526_080254 RIF. ASSISTENZA SU CUCINA ANGELO PO CON FORNO ASSISTENZA SU CUCIN.pdf"
             },
             {
               "nome": "DA SPECIFICARE Offerta di vendita_200479_20260514_173119.pdf",
@@ -608,7 +640,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260170_20260515_182140 RIF. CALICI BIRRA WEIZEN.pdf"
             }
           ],
-          "_totale_file": 40
+          "_totale_file": 41
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -58219,6 +58251,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260164_20260523_093129.pdf"
             },
             {
+              "nome": "ARCENNI SOCIETA' AGRICOLA SRL Ordine cliente_260171_20260526_164759 RIF. COPIIE GUIDA E GRIGLIE PER ARMADIO COLDLINE A701NE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/enk7ka261d33dy1h0xsht/ARCENNI-SOCIETA-AGRICOLA-SRL-Ordine-cliente_260171_20260526_164759-RIF.-COPIIE-GUIDA-E-GRIGLIE-PER-ARMADIO-COLDLINE-A701NE.pdf?rlkey=3pwd7w1bm7d5bull4n49rst32&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ARCENNI SOCIETA' AGRICOLA SRL Ordine cliente_260171_20260526_164759 RIF. COPIIE GUIDA E GRIGLIE PER ARMADIO COLDLINE A701NE.pdf"
+            },
+            {
               "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Ordine cliente_260159_20260521_110050 RIF. Basato su Offerte di vendita 260143. LA CAPPELLINA VETRINA MIX VBD 150.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58283,6 +58323,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DA SPECIFICARE Ordine cliente_260157_20260520_104753.pdf"
             },
             {
+              "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Ordine cliente_260169_20260525_161308 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3a6nwl59uy2d82ygzo34f/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Ordine-cliente_260169_20260525_161308-RIF.-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=hvfnxfjcjfm8wdiguf4e3v5sf&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DELIZIE DEL FORNO di CANTISANI CARMELINA Ordine cliente_260169_20260525_161308 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
+            },
+            {
               "nome": "DIMAC SRL Ordine cliente_260135_20260512_100211.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58315,12 +58363,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/FA TU PIZZA AND MORE FA TU SRL Ordine cliente_260167_20260524_212913.pdf"
             },
             {
-              "nome": "GIOIA AURELIO Ordine cliente_260162_20260522_151910 RIF. Basato su Offerte di vendita 260183..pdf",
+              "nome": "GIOIA AURELIO Ordine cliente_260162_20260522_151910 RIF. TEGLIA IN LAMIERA BLU Basato su Offerte di vendita 260183..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/sg97jzw6ruld181wpqnsn/GIOIA-AURELIO-Ordine-cliente_260162_20260522_151910-RIF.-Basato-su-Offerte-di-vendita-260183..pdf?rlkey=5bg7jqo32z7bgxcsjznpy8e30&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/8gdkr6oggwq9la4od9r7e/GIOIA-AURELIO-Ordine-cliente_260162_20260522_151910-RIF.-TEGLIA-IN-LAMIERA-BLU-Basato-su-Offerte-di-vendita-260183..pdf?rlkey=b9uy7v2wbpcsjzsnzswzic8f5&dl=0?raw=1",
               "dimensione_kb": 60,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GIOIA AURELIO Ordine cliente_260162_20260522_151910 RIF. Basato su Offerte di vendita 260183..pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GIOIA AURELIO Ordine cliente_260162_20260522_151910 RIF. TEGLIA IN LAMIERA BLU Basato su Offerte di vendita 260183..pdf"
             },
             {
               "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260144_20260513_111800 RIF. DETERGENTE LAVABAR.pdf",
@@ -58411,12 +58459,20 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260147_20260515_120044 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf"
             },
             {
-              "nome": "LIDO POINT BREAK Ordine cliente_260158_20260520_120605 RIF. Basato su Offerte di vendita 260151. TAVOLOLO CON VASCA INCASSATA.pdf",
+              "nome": "LIDO POINT BREAK Ordine cliente_260158_20260526_095712 RIF. Basato su Offerte di vendita 260151. TAVOLOLO CON VASCA INCASSATA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xfv3d1elq4x81lw9h5a57/LIDO-POINT-BREAK-Ordine-cliente_260158_20260520_120605-RIF.-Basato-su-Offerte-di-vendita-260151.-TAVOLOLO-CON-VASCA-INCASSATA.pdf?rlkey=83id1d81ipf85mr19d4iq4l1w&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/tcgijybt2jq11971kvyse/LIDO-POINT-BREAK-Ordine-cliente_260158_20260526_095712-RIF.-Basato-su-Offerte-di-vendita-260151.-TAVOLOLO-CON-VASCA-INCASSATA.pdf?rlkey=v5rv1ja9jpgl6sq8g6q6k2ggw&dl=0?raw=1",
               "dimensione_kb": 64,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LIDO POINT BREAK Ordine cliente_260158_20260520_120605 RIF. Basato su Offerte di vendita 260151. TAVOLOLO CON VASCA INCASSATA.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LIDO POINT BREAK Ordine cliente_260158_20260526_095712 RIF. Basato su Offerte di vendita 260151. TAVOLOLO CON VASCA INCASSATA.pdf"
+            },
+            {
+              "nome": "MACELLERIA LOSARDO GIOVANNINO Ordine cliente_260170_20260526_161808 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5in9gbdit0f4rdfm7qh8w/MACELLERIA-LOSARDO-GIOVANNINO-Ordine-cliente_260170_20260526_161808-RIF.-GIRARROSTO-ELETTRICO-CB-MOD.E12-P-S3-E-CAVALLETTO-Basato-su.pdf?rlkey=sas2nib5rzdutjgmzrtzgpi9q&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA LOSARDO GIOVANNINO Ordine cliente_260170_20260526_161808 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf"
             },
             {
               "nome": "MAGONETTI SNC DI ANDREA GIORGETTI E CHIARA MAGONARA Ordine cliente_260150_20260516_165845 RIF. CONTENITORE ISOTERMICO CON COPERCHIO LT 53.pdf",
@@ -58515,7 +58571,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 38
+          "_totale_file": 41
         }
       ],
       "file": []
