@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-27T07:26:44Z",
-  "totale_file": 25089,
+  "generato": "2026-05-27T08:34:58Z",
+  "totale_file": 25090,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -219680,7 +219680,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2362,
+      "totale_file": 2363,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -240866,6 +240866,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/SIRMAN Dettaglio bonifico istantaneo DEL 13_04_2026.pdf"
             },
             {
+              "nome": "STAFF Dettaglio bonifico istantaneo DEL 26_05_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bfs989013bv0lwawejo6c/STAFF-Dettaglio-bonifico-istantaneo-DEL-26_05_2026.pdf?rlkey=gked5wjo3k6q0lxn7esu0pc0y&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/STAFF Dettaglio bonifico istantaneo DEL 26_05_2026.pdf"
+            },
+            {
               "nome": "STAFF ICE SYSTEM SRL Dettaglio bonifico istantaneo DEL 28_01_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -240930,7 +240938,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2342
+          "_totale_file": 2343
         }
       ],
       "file": []
