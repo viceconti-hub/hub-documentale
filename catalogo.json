@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-26T08:46:07Z",
-  "totale_file": 25068,
+  "generato": "2026-05-27T00:26:50Z",
+  "totale_file": 25069,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -63696,7 +63696,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7092,
+      "totale_file": 7093,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -85251,7 +85251,7 @@
                       "nome": "DE MARE Consegna_220523_20230223_085628 VETRINA TONDA.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/n81fjtuy1578d9swx2vjk/DE-MARE-Consegna_220523_20230223_085628-VETRINA-TONDA.pdf?rlkey=95ft3j33lce27qwsybx2ufro2&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 65,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA REGINA/LA REGINA SITUAZIONE CONTABILE AL 23_02_2023/DE MARE Consegna_220523_20230223_085628 VETRINA TONDA.pdf"
                     },
@@ -91292,7 +91292,7 @@
                           "nome": "SPC_595R41300_8_1_595R41300 rev8 tavoli pizza.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/v6cdr5rnxzehmhu6y1nvi/SPC_595R41300_8_1_595R41300-rev8-tavoli-pizza.pdf?rlkey=5jpzut5edtstqy9i7xq6ux117&dl=0?raw=1",
                           "dimensione_kb": 2768,
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/SPC_595R41300_8_1_595R41300 rev8 tavoli pizza.pdf"
                         },
@@ -94288,6 +94288,14 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/LAVASTOVIGLIE ZANUSSI ANNO 2016/DE FILIPPO LAVASTOVIGLIE 2021 DATI MACCHINA .jpeg"
                         },
                         {
+                          "nome": "LAVASTOVIGLIE ZANUSSI 61810028 REPORT TECNICO DEL 26_05_2026.txt",
+                          "tipo": "Testo",
+                          "icona": "📃",
+                          "link": "https://www.dropbox.com/scl/fi/t93hfeeg2ez6l8scsxl1t/LAVASTOVIGLIE-ZANUSSI-61810028-REPORT-TECNICO-DEL-26_05_2026.txt?rlkey=ylyra4ok6wqg91ut6edz8z9ef&dl=0?raw=1",
+                          "dimensione_kb": 2,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/LAVASTOVIGLIE ZANUSSI ANNO 2016/LAVASTOVIGLIE ZANUSSI 61810028 REPORT TECNICO DEL 26_05_2026.txt"
+                        },
+                        {
                           "nome": "SPC_59566UZ00_1_2_59566UZ00.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
@@ -94304,7 +94312,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/DE FILIPPO ROCCO AREA TECNICA/LAVASTOVIGLIE ZANUSSI ANNO 2016/Saldo contabile - C001372 EMILIO GRANDI SELEZIONI - S.A.S. di PANZARDI EMILIO & C_20250822_182447.pdf"
                         }
                       ],
-                      "_totale_file": 3
+                      "_totale_file": 4
                     },
                     {
                       "nome": "LAVASTOVIGLIE ZANUSSI DE FILIPPO",
@@ -94388,7 +94396,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 19
+                  "_totale_file": 20
                 },
                 {
                   "nome": "DE FILIPPO ROCCO DOCUMENTAZIONE 4.0",
@@ -94689,7 +94697,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/DE FILIPPO ROCCO/modello dichiarazione sost. I4.0.docx"
                 }
               ],
-              "_totale_file": 52
+              "_totale_file": 53
             },
             {
               "nome": "DIMAC",
@@ -101243,7 +101251,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 900
+          "_totale_file": 901
         },
         {
           "nome": "MARCELLINA",
