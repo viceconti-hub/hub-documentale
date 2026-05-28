@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-28T08:39:38Z",
-  "totale_file": 25097,
+  "generato": "2026-05-28T08:40:57Z",
+  "totale_file": 25120,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62067,7 +62067,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 178,
+      "totale_file": 201,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62100,6 +62100,207 @@
             }
           ],
           "_totale_file": 3
+        },
+        {
+          "nome": "510.SINTESI_RIEPILOGHI_COWORK",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK",
+          "cartelle": [
+            {
+              "nome": ".claude",
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/.claude",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "settings.local.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/jv5n0l420gxw0j9f68wn8/settings.local.json?rlkey=ra7kim858edd3rv2ogccbg183&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/.claude/settings.local.json"
+                }
+              ],
+              "_totale_file": 1
+            }
+          ],
+          "file": [
+            {
+              "nome": "2026-05-23 DISPOSITIVO INTERROGAZIONE SAP - RISVOLTI CONCETTUALI.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/favpd2o6d8gfs9t7ab0sx/2026-05-23-DISPOSITIVO-INTERROGAZIONE-SAP-RISVOLTI-CONCETTUALI.md?rlkey=05zrxm5bhpbxaz62cf61ybl11&dl=0?raw=1",
+              "dimensione_kb": 13,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/2026-05-23 DISPOSITIVO INTERROGAZIONE SAP - RISVOLTI CONCETTUALI.md"
+            },
+            {
+              "nome": "AI HUMAN LAB RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/8cnq3qa24pjnnh682i684/AI-HUMAN-LAB-RIEPILOGO.md?rlkey=ukisdbwf3nw8je11hw0ftmi99&dl=0?raw=1",
+              "dimensione_kb": 11,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/AI HUMAN LAB RIEPILOGO.md"
+            },
+            {
+              "nome": "AUDIT INFRASTRUTTURA RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/67v6wd18si0gy1ovejinw/AUDIT-INFRASTRUTTURA-RIEPILOGO.md?rlkey=cj59usmjx0wdqkwo61botr3jd&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/AUDIT INFRASTRUTTURA RIEPILOGO.md"
+            },
+            {
+              "nome": "CALENDAR RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/6jpty65sjfb6arfjpdgwy/CALENDAR-RIEPILOGO.md?rlkey=kwpaxtnswwrqipw9t6p5h9vlt&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/CALENDAR RIEPILOGO.md"
+            },
+            {
+              "nome": "CODE CHAT PER ARCHIVIAZIONE DOCUMENTI TEST SU ORDINI CLIENTI 10_05_2026 copia corretta.txt",
+              "tipo": "Testo",
+              "icona": "📃",
+              "link": "https://www.dropbox.com/scl/fi/awkrsw0fphzvq6ke41bl3/CODE-CHAT-PER-ARCHIVIAZIONE-DOCUMENTI-TEST-SU-ORDINI-CLIENTI-10_05_2026-copia-corretta.txt?rlkey=c1se96zbjwn5i7vv0j57zant9&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/CODE CHAT PER ARCHIVIAZIONE DOCUMENTI TEST SU ORDINI CLIENTI 10_05_2026 copia corretta.txt"
+            },
+            {
+              "nome": "DATABASE CENTRALIZZATO RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/2revfbugoz9rt7o9diis4/DATABASE-CENTRALIZZATO-RIEPILOGO.md?rlkey=lpan4xzpnzxfb229iu60jklzi&dl=0?raw=1",
+              "dimensione_kb": 10,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/DATABASE CENTRALIZZATO RIEPILOGO.md"
+            },
+            {
+              "nome": "FastAPI RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/qx9tdmggdgisqxqrer4vy/FastAPI-RIEPILOGO.md?rlkey=uvxvwem3sywp774nqt1cka7de&dl=0?raw=1",
+              "dimensione_kb": 24,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/FastAPI RIEPILOGO.md"
+            },
+            {
+              "nome": "HUB DOCUMENTALE RIEPILOGO 25_05_2026.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/9cil98b70ktxwt6aunbrx/HUB-DOCUMENTALE-RIEPILOGO-25_05_2026.md?rlkey=638d7i0qovrijdesigdyznqgh&dl=0?raw=1",
+              "dimensione_kb": 16,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/HUB DOCUMENTALE RIEPILOGO 25_05_2026.md"
+            },
+            {
+              "nome": "ISTRUZIONI_RIEPILOGO_E_NAMING.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/c2onbcfzga6s46wc59534/ISTRUZIONI_RIEPILOGO_E_NAMING.md?rlkey=p3zuv4ntzqd2zo4tb9quno44c&dl=0?raw=1",
+              "dimensione_kb": 8,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/ISTRUZIONI_RIEPILOGO_E_NAMING.md"
+            },
+            {
+              "nome": "MEMORIA E CONTESTO AI RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/j49gs19y2ew0cmu4pxf66/MEMORIA-E-CONTESTO-AI-RIEPILOGO.md?rlkey=a2esoswufyu2tzttnfn3nfmi3&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/MEMORIA E CONTESTO AI RIEPILOGO.md"
+            },
+            {
+              "nome": "NAMING VICECONTI.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/tmf0nq06h67d7diljlz46/NAMING-VICECONTI.md?rlkey=26od52sm7cuexoevfanw147hl&dl=0?raw=1",
+              "dimensione_kb": 12,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/NAMING VICECONTI.md"
+            },
+            {
+              "nome": "NUOVA STRATEGIA SETTEMBRE 2026 RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/e7gna5fz6m2ncbh2xejjx/NUOVA-STRATEGIA-SETTEMBRE-2026-RIEPILOGO.md?rlkey=40megji2onyqey71pnkyyiucz&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/NUOVA STRATEGIA SETTEMBRE 2026 RIEPILOGO.md"
+            },
+            {
+              "nome": "PIPELINE PRESTASHOP RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/aa81u03xj56mp5rg81hdu/PIPELINE-PRESTASHOP-RIEPILOGO.md?rlkey=bp4t96nl5zu2ryfvz1eh1m0io&dl=0?raw=1",
+              "dimensione_kb": 0,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/PIPELINE PRESTASHOP RIEPILOGO.md"
+            },
+            {
+              "nome": "README_push_github.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/uaru2m1i63tsyunghy1co/README_push_github.md?rlkey=08xcr7sdn9hpzcbkwzxc4psks&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/README_push_github.md"
+            },
+            {
+              "nome": "REPORT_SINCRONIZZAZIONE_09_05_2026.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/lt7kcos323j90omg2i48t/REPORT_SINCRONIZZAZIONE_09_05_2026.md?rlkey=ydfw4fa6grggzs7loh9rb4i3o&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/REPORT_SINCRONIZZAZIONE_09_05_2026.md"
+            },
+            {
+              "nome": "SAP ACADEMY RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/063l1gxne480psvbpk8p7/SAP-ACADEMY-RIEPILOGO.md?rlkey=g4z1wsmx2dmdsnichve3omkra&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/SAP ACADEMY RIEPILOGO.md"
+            },
+            {
+              "nome": "SAP SERVICE LAYER RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/8vji06flzwtvv091efxqx/SAP-SERVICE-LAYER-RIEPILOGO.md?rlkey=llyrek4vcpcy2eu3pupfhglsj&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/SAP SERVICE LAYER RIEPILOGO.md"
+            },
+            {
+              "nome": "SINTESI ECOSISTEMA VICECONTI RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/ije94knya900i2zeorurt/SINTESI-ECOSISTEMA-VICECONTI-RIEPILOGO.md?rlkey=fmpl2bdwww96fgwvuzkcfx6ts&dl=0?raw=1",
+              "dimensione_kb": 39,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/SINTESI ECOSISTEMA VICECONTI RIEPILOGO.md"
+            },
+            {
+              "nome": "STRUMENTI DI CATTURA VOCALE RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/04l2uwrlor0fm7vqlm3ts/STRUMENTI-DI-CATTURA-VOCALE-RIEPILOGO.md?rlkey=vt7sxx0nl0kjrqv8783ux2abe&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/STRUMENTI DI CATTURA VOCALE RIEPILOGO.md"
+            },
+            {
+              "nome": "index.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/e267ayz072qvnn2s93096/index.html?rlkey=52rfpmyfaga3gloesvoz6cmir&dl=0?raw=1",
+              "dimensione_kb": 11,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/index.html"
+            },
+            {
+              "nome": "index.json",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/y8zyvoywjqxhv00w94rhh/index.json?rlkey=69g0ptd7fmn98gfmwrrqpph0h&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/index.json"
+            },
+            {
+              "nome": "n8n RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/nivo0adns3pseu67is75n/n8n-RIEPILOGO.md?rlkey=31wwidja2ltyijfit72tpw2il&dl=0?raw=1",
+              "dimensione_kb": 8,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/n8n RIEPILOGO.md"
+            }
+          ],
+          "_totale_file": 23
         },
         {
           "nome": "CAMPOLEROSE CANTIERE APRILE 2026",
