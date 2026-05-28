@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-28T02:29:13Z",
-  "totale_file": 25090,
+  "generato": "2026-05-28T05:13:40Z",
+  "totale_file": 25094,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5563,
+      "totale_file": 5567,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -440,6 +440,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260180_20260520_104520.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Offerta di vendita_260187_20260526_181816.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1zm8z0v1das83gl3v3wmg/DA-SPECIFICARE-Offerta-di-vendita_260187_20260526_181816.pdf?rlkey=oy3q4q1ovfrmu4i3uussj8rcy&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260187_20260526_181816.pdf"
+            },
+            {
               "nome": "DIMAC SRL Offerta di vendita_260164_20260515_105156 RIF. CARTUCCE A CARBONE ATTIVO PER GRUPPO DI FILTRAZIONE CF1115.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -454,6 +462,14 @@
               "link": "https://www.dropbox.com/scl/fi/qul29gdzgirwtz272jxtf/ESCOPOCO-S.R.L.-Offerta-di-vendita_260171_20260515_190457-RIF.-GRIGLIA-FORATA-PER-GRIGLIARE.pdf?rlkey=8nylmlqryl7ixpyyv27ts4aua&dl=0?raw=1",
               "dimensione_kb": 74,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ESCOPOCO S.R.L. Offerta di vendita_260171_20260515_190457 RIF. GRIGLIA FORATA PER GRIGLIARE.pdf"
+            },
+            {
+              "nome": "FORASTIERO FRANCESCO Offerta di vendita_260188_20260526_183020.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9u7rc5gdc1vf5s2plplly/FORASTIERO-FRANCESCO-Offerta-di-vendita_260188_20260526_183020.pdf?rlkey=pwez1c03yie9ai0pw180pka4r&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/FORASTIERO FRANCESCO Offerta di vendita_260188_20260526_183020.pdf"
             },
             {
               "nome": "GIOIA AURELIO Offerta di vendita_260183_20260521_172537.pdf",
@@ -640,7 +656,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260170_20260515_182140 RIF. CALICI BIRRA WEIZEN.pdf"
             }
           ],
-          "_totale_file": 41
+          "_totale_file": 43
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -58243,6 +58259,14 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "ACAL SRL Ordine cliente_260172_20260527_081809 RIF. MENSOLA A PONTE 2 RIPIANI 140 X 40 AGGANCI LATERALI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/41e3cug6z0vwp5w9hlzig/ACAL-SRL-Ordine-cliente_260172_20260527_081809-RIF.-MENSOLA-A-PONTE-2-RIPIANI-140-X-40-AGGANCI-LATERALI.pdf?rlkey=o718soc5kwcxat3gxrbinrx2c&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ACAL SRL Ordine cliente_260172_20260527_081809 RIF. MENSOLA A PONTE 2 RIPIANI 140 X 40 AGGANCI LATERALI.pdf"
+            },
+            {
               "nome": "AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260164_20260523_093129.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58251,12 +58275,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260164_20260523_093129.pdf"
             },
             {
-              "nome": "ARCENNI SOCIETA' AGRICOLA SRL Ordine cliente_260171_20260526_164759 RIF. COPIIE GUIDA E GRIGLIE PER ARMADIO COLDLINE A701NE.pdf",
+              "nome": "ARCENNI SOCIETA' AGRICOLA SRL Ordine cliente_260171_20260526_164759 RIF. COPPIIE GUIDA E GRIGLIE PER ARMADIO COLDLINE A701NE.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/enk7ka261d33dy1h0xsht/ARCENNI-SOCIETA-AGRICOLA-SRL-Ordine-cliente_260171_20260526_164759-RIF.-COPIIE-GUIDA-E-GRIGLIE-PER-ARMADIO-COLDLINE-A701NE.pdf?rlkey=3pwd7w1bm7d5bull4n49rst32&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/63t1h5zulhktuib46mp6m/ARCENNI-SOCIETA-AGRICOLA-SRL-Ordine-cliente_260171_20260526_164759-RIF.-COPPIIE-GUIDA-E-GRIGLIE-PER-ARMADIO-COLDLINE-A701NE.pdf?rlkey=l25u0vm4vv8if65474itbo0mm&dl=0?raw=1",
               "dimensione_kb": 59,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ARCENNI SOCIETA' AGRICOLA SRL Ordine cliente_260171_20260526_164759 RIF. COPIIE GUIDA E GRIGLIE PER ARMADIO COLDLINE A701NE.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ARCENNI SOCIETA' AGRICOLA SRL Ordine cliente_260171_20260526_164759 RIF. COPPIIE GUIDA E GRIGLIE PER ARMADIO COLDLINE A701NE.pdf"
             },
             {
               "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Ordine cliente_260159_20260521_110050 RIF. Basato su Offerte di vendita 260143. LA CAPPELLINA VETRINA MIX VBD 150.pdf",
@@ -58265,6 +58289,14 @@
               "link": "https://www.dropbox.com/scl/fi/xf7xuvluge881p38r2cbo/AZIENDA-AGRICOLA-LA-CAPPELLINA-DI-ROSA-FORASTIERO-Ordine-cliente_260159_20260521_110050-RIF.-Basato-su-Offerte-di-vendita-260143.-LA-CAPPELLINA-VETRINA-MIX-VBD-150.pdf?rlkey=349lizly97aj6woycvsveziuc&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Ordine cliente_260159_20260521_110050 RIF. Basato su Offerte di vendita 260143. LA CAPPELLINA VETRINA MIX VBD 150.pdf"
+            },
+            {
+              "nome": "BARLASCINI FLAVIO Ordine cliente_260173_20260527_082920 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d1pr1v5mm8dmobttwdozh/BARLASCINI-FLAVIO-Ordine-cliente_260173_20260527_082920-RIF.-LAVELLO-A-GIORNO-2-VASCHE-60x50x30hCM-IN-ACCIAIO-INOX-140.pdf?rlkey=v962f68x8bsdw6d2ipbzymgsg&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BARLASCINI FLAVIO Ordine cliente_260173_20260527_082920 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf"
             },
             {
               "nome": "CALA DEL CITRO S.R.L.S. Ordine cliente_250769_20260510_212540.pdf",
@@ -58571,7 +58603,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 41
+          "_totale_file": 43
         }
       ],
       "file": []
