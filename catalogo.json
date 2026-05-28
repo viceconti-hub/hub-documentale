@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-28T07:04:52Z",
-  "totale_file": 25071,
+  "generato": "2026-05-28T07:25:21Z",
+  "totale_file": 25115,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -62067,7 +62067,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 178,
+      "totale_file": 201,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -62100,6 +62100,207 @@
             }
           ],
           "_totale_file": 3
+        },
+        {
+          "nome": "510.SINTESI_RIEPILOGHI_COWORK",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK",
+          "cartelle": [
+            {
+              "nome": ".claude",
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/.claude",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "settings.local.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/jv5n0l420gxw0j9f68wn8/settings.local.json?rlkey=ra7kim858edd3rv2ogccbg183&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/.claude/settings.local.json"
+                }
+              ],
+              "_totale_file": 1
+            }
+          ],
+          "file": [
+            {
+              "nome": "2026-05-23 DISPOSITIVO INTERROGAZIONE SAP - RISVOLTI CONCETTUALI.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/favpd2o6d8gfs9t7ab0sx/2026-05-23-DISPOSITIVO-INTERROGAZIONE-SAP-RISVOLTI-CONCETTUALI.md?rlkey=05zrxm5bhpbxaz62cf61ybl11&dl=0?raw=1",
+              "dimensione_kb": 13,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/2026-05-23 DISPOSITIVO INTERROGAZIONE SAP - RISVOLTI CONCETTUALI.md"
+            },
+            {
+              "nome": "AI HUMAN LAB RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/8cnq3qa24pjnnh682i684/AI-HUMAN-LAB-RIEPILOGO.md?rlkey=ukisdbwf3nw8je11hw0ftmi99&dl=0?raw=1",
+              "dimensione_kb": 11,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/AI HUMAN LAB RIEPILOGO.md"
+            },
+            {
+              "nome": "AUDIT INFRASTRUTTURA RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/67v6wd18si0gy1ovejinw/AUDIT-INFRASTRUTTURA-RIEPILOGO.md?rlkey=cj59usmjx0wdqkwo61botr3jd&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/AUDIT INFRASTRUTTURA RIEPILOGO.md"
+            },
+            {
+              "nome": "CALENDAR RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/6jpty65sjfb6arfjpdgwy/CALENDAR-RIEPILOGO.md?rlkey=kwpaxtnswwrqipw9t6p5h9vlt&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/CALENDAR RIEPILOGO.md"
+            },
+            {
+              "nome": "CODE CHAT PER ARCHIVIAZIONE DOCUMENTI TEST SU ORDINI CLIENTI 10_05_2026 copia corretta.txt",
+              "tipo": "Testo",
+              "icona": "📃",
+              "link": "https://www.dropbox.com/scl/fi/awkrsw0fphzvq6ke41bl3/CODE-CHAT-PER-ARCHIVIAZIONE-DOCUMENTI-TEST-SU-ORDINI-CLIENTI-10_05_2026-copia-corretta.txt?rlkey=c1se96zbjwn5i7vv0j57zant9&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/CODE CHAT PER ARCHIVIAZIONE DOCUMENTI TEST SU ORDINI CLIENTI 10_05_2026 copia corretta.txt"
+            },
+            {
+              "nome": "DATABASE CENTRALIZZATO RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/2revfbugoz9rt7o9diis4/DATABASE-CENTRALIZZATO-RIEPILOGO.md?rlkey=lpan4xzpnzxfb229iu60jklzi&dl=0?raw=1",
+              "dimensione_kb": 10,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/DATABASE CENTRALIZZATO RIEPILOGO.md"
+            },
+            {
+              "nome": "FastAPI RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/qx9tdmggdgisqxqrer4vy/FastAPI-RIEPILOGO.md?rlkey=uvxvwem3sywp774nqt1cka7de&dl=0?raw=1",
+              "dimensione_kb": 24,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/FastAPI RIEPILOGO.md"
+            },
+            {
+              "nome": "HUB DOCUMENTALE RIEPILOGO 25_05_2026.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/9cil98b70ktxwt6aunbrx/HUB-DOCUMENTALE-RIEPILOGO-25_05_2026.md?rlkey=638d7i0qovrijdesigdyznqgh&dl=0?raw=1",
+              "dimensione_kb": 16,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/HUB DOCUMENTALE RIEPILOGO 25_05_2026.md"
+            },
+            {
+              "nome": "ISTRUZIONI_RIEPILOGO_E_NAMING.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/c2onbcfzga6s46wc59534/ISTRUZIONI_RIEPILOGO_E_NAMING.md?rlkey=p3zuv4ntzqd2zo4tb9quno44c&dl=0?raw=1",
+              "dimensione_kb": 8,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/ISTRUZIONI_RIEPILOGO_E_NAMING.md"
+            },
+            {
+              "nome": "MEMORIA E CONTESTO AI RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/j49gs19y2ew0cmu4pxf66/MEMORIA-E-CONTESTO-AI-RIEPILOGO.md?rlkey=a2esoswufyu2tzttnfn3nfmi3&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/MEMORIA E CONTESTO AI RIEPILOGO.md"
+            },
+            {
+              "nome": "NAMING VICECONTI.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/tmf0nq06h67d7diljlz46/NAMING-VICECONTI.md?rlkey=26od52sm7cuexoevfanw147hl&dl=0?raw=1",
+              "dimensione_kb": 12,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/NAMING VICECONTI.md"
+            },
+            {
+              "nome": "NUOVA STRATEGIA SETTEMBRE 2026 RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/e7gna5fz6m2ncbh2xejjx/NUOVA-STRATEGIA-SETTEMBRE-2026-RIEPILOGO.md?rlkey=40megji2onyqey71pnkyyiucz&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/NUOVA STRATEGIA SETTEMBRE 2026 RIEPILOGO.md"
+            },
+            {
+              "nome": "PIPELINE PRESTASHOP RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/aa81u03xj56mp5rg81hdu/PIPELINE-PRESTASHOP-RIEPILOGO.md?rlkey=bp4t96nl5zu2ryfvz1eh1m0io&dl=0?raw=1",
+              "dimensione_kb": 0,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/PIPELINE PRESTASHOP RIEPILOGO.md"
+            },
+            {
+              "nome": "README_push_github.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/uaru2m1i63tsyunghy1co/README_push_github.md?rlkey=08xcr7sdn9hpzcbkwzxc4psks&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/README_push_github.md"
+            },
+            {
+              "nome": "REPORT_SINCRONIZZAZIONE_09_05_2026.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/lt7kcos323j90omg2i48t/REPORT_SINCRONIZZAZIONE_09_05_2026.md?rlkey=ydfw4fa6grggzs7loh9rb4i3o&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/REPORT_SINCRONIZZAZIONE_09_05_2026.md"
+            },
+            {
+              "nome": "SAP ACADEMY RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/063l1gxne480psvbpk8p7/SAP-ACADEMY-RIEPILOGO.md?rlkey=g4z1wsmx2dmdsnichve3omkra&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/SAP ACADEMY RIEPILOGO.md"
+            },
+            {
+              "nome": "SAP SERVICE LAYER RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/8vji06flzwtvv091efxqx/SAP-SERVICE-LAYER-RIEPILOGO.md?rlkey=llyrek4vcpcy2eu3pupfhglsj&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/SAP SERVICE LAYER RIEPILOGO.md"
+            },
+            {
+              "nome": "SINTESI ECOSISTEMA VICECONTI RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/ije94knya900i2zeorurt/SINTESI-ECOSISTEMA-VICECONTI-RIEPILOGO.md?rlkey=fmpl2bdwww96fgwvuzkcfx6ts&dl=0?raw=1",
+              "dimensione_kb": 39,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/SINTESI ECOSISTEMA VICECONTI RIEPILOGO.md"
+            },
+            {
+              "nome": "STRUMENTI DI CATTURA VOCALE RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/04l2uwrlor0fm7vqlm3ts/STRUMENTI-DI-CATTURA-VOCALE-RIEPILOGO.md?rlkey=vt7sxx0nl0kjrqv8783ux2abe&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/STRUMENTI DI CATTURA VOCALE RIEPILOGO.md"
+            },
+            {
+              "nome": "index.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/e267ayz072qvnn2s93096/index.html?rlkey=52rfpmyfaga3gloesvoz6cmir&dl=0?raw=1",
+              "dimensione_kb": 11,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/index.html"
+            },
+            {
+              "nome": "index.json",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/y8zyvoywjqxhv00w94rhh/index.json?rlkey=69g0ptd7fmn98gfmwrrqpph0h&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/index.json"
+            },
+            {
+              "nome": "n8n RIEPILOGO.md",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/nivo0adns3pseu67is75n/n8n-RIEPILOGO.md?rlkey=31wwidja2ltyijfit72tpw2il&dl=0?raw=1",
+              "dimensione_kb": 8,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/510.SINTESI_RIEPILOGHI_COWORK/n8n RIEPILOGO.md"
+            }
+          ],
+          "_totale_file": 23
         },
         {
           "nome": "CAMPOLEROSE CANTIERE APRILE 2026",
@@ -176384,7 +176585,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5097,
+      "totale_file": 5118,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -176470,6 +176671,14 @@
               "link": "https://www.dropbox.com/scl/fi/pq1drdr4flepxjmhi3qqx/CIMBALI-GROUP-SPA-Entrata-merci-da-fornitore_260071_20260520_213717-RIF.-Basato-su-Ordini-d-acquisto-260029..pdf?rlkey=bzdb0iriegb6cxd34jdy4atdv&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/CIMBALI GROUP SPA Entrata merci da fornitore_260071_20260520_213717 RIF. Basato su Ordini d'acquisto 260029..pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260084_20260526_180040 RIF. MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8vrepl9dgtpifxxye9i8h/COLD-LINE-srl-Entrata-merci-da-fornitore_260084_20260526_180040-RIF.-MARIE-VENTOLA-PER-DT3S-MATRICOLA-091711901-Basato-su-Offerte.pdf?rlkey=3bq7uog2io3ot5a0c4n9k5roj&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260084_20260526_180040 RIF. MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte.pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -176830,9 +177039,25 @@
               "link": "https://www.dropbox.com/scl/fi/d66f3ru1gi8pld49gi1qi/SIRMAN-spa-Entrata-merci-da-fornitore_260068_20260520_171929-RIF.-Basato-su-Ordini-cliente-260082.De-Michele-Alejandro-s.a.s..pdf?rlkey=ht54io8nc7t6dhc46ais0pnas&dl=0?raw=1",
               "dimensione_kb": 56,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SIRMAN spa Entrata merci da fornitore_260068_20260520_171929 RIF. Basato su Ordini cliente 260082.De Michele Alejandro s.a.s..pdf"
+            },
+            {
+              "nome": "STAFF Conferma prenotazione ritiro.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u7h2x3ccbnslfncly8dy2/STAFF-Conferma-prenotazione-ritiro.pdf?rlkey=gytpodc3kw0afl57hh8fz8b6m&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/STAFF Conferma prenotazione ritiro.pdf"
+            },
+            {
+              "nome": "STAFF ddt 510.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rckuunusczexxovqz6y4h/STAFF-ddt-510.pdf?rlkey=t4q749253858w3wqld5w415xz&dl=0?raw=1",
+              "dimensione_kb": 103,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/STAFF ddt 510.pdf"
             }
           ],
-          "_totale_file": 55
+          "_totale_file": 58
         },
         {
           "nome": "FATTURE DA FORNITORE WORKSPACE",
@@ -176883,6 +177108,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/analisi",
               "cartelle": [
                 {
+                  "nome": "baseline_pre_wiki_20260526",
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/analisi/baseline_pre_wiki_20260526",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "ecosistema_baseline.md",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/8ztr5uqf8kcb2wk40ysp0/ecosistema_baseline.md?rlkey=v628b06yyc21s0727qpzp9xfi&dl=0?raw=1",
+                      "dimensione_kb": 44,
+                      "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/analisi/baseline_pre_wiki_20260526/ecosistema_baseline.md"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
                   "nome": "pre_upgrade_20260526",
                   "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/analisi/pre_upgrade_20260526",
                   "cartelle": [],
@@ -176900,7 +177141,7 @@
                 }
               ],
               "file": [],
-              "_totale_file": 1
+              "_totale_file": 2
             },
             {
               "nome": "old",
@@ -180514,6 +180755,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/_REPORT_REGISTRATE_2026-05-26_10-10.txt"
             },
             {
+              "nome": "_REPORT_REGISTRATE_2026-05-27_20-07.txt",
+              "tipo": "Testo",
+              "icona": "📃",
+              "link": "https://www.dropbox.com/scl/fi/8bc3bgda4db9s5wdp5caw/_REPORT_REGISTRATE_2026-05-27_20-07.txt?rlkey=y9sj3foxg5hpd88z265l205bz&dl=0?raw=1",
+              "dimensione_kb": 1,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/_REPORT_REGISTRATE_2026-05-27_20-07.txt"
+            },
+            {
               "nome": "llm-wiki.txt",
               "tipo": "Testo",
               "icona": "📃",
@@ -180538,7 +180787,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/report_ordini_acquisto.md"
             }
           ],
-          "_totale_file": 455
+          "_totale_file": 457
         },
         {
           "nome": "FATTURE DA FORNITORE XML",
@@ -181328,6 +181577,14 @@
               "link": "https://www.dropbox.com/scl/fi/2bkizjuamhulsveejaxed/Alagia-Stefano_25_2025-03-25.xml?rlkey=c1q93yuuazbk198p8t4p3s2xq&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Alagia Stefano_25_2025-03-25.xml"
+            },
+            {
+              "nome": "Alagia Stefano_34_2026-05-27.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/4oc8pm9qmdf9e202myken/Alagia-Stefano_34_2026-05-27.xml?rlkey=nxs81kmwu8y7rbzwgysdbyx5j&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Alagia Stefano_34_2026-05-27.xml"
             },
             {
               "nome": "Alagia Stefano_39_2025-04-29.xml",
@@ -182216,6 +182473,14 @@
               "link": "https://www.dropbox.com/scl/fi/gtn5gokyzxz0tiavl9cx9/COLD-LINE-S.r.L_002492E_2025-05-21.xml?rlkey=ltjmiwyb8j2enznyclpns70eg&dl=0?raw=1",
               "dimensione_kb": 12,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/COLD LINE S.r.L_002492E_2025-05-21.xml"
+            },
+            {
+              "nome": "COLD LINE S.r.L_002600E_2026-05-26.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/alatjqeoprk9tdt4206bv/COLD-LINE-S.r.L_002600E_2026-05-26.xml?rlkey=clqk26l3sp5tjt0xeyxm3shbo&dl=0?raw=1",
+              "dimensione_kb": 10,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/COLD LINE S.r.L_002600E_2026-05-26.xml"
             },
             {
               "nome": "COLD LINE S.r.L_002794E_2025-05-31.xml",
@@ -188026,6 +188291,46 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Wind Tre S.p.A_TS2600216756_2026-04-15.xml"
             },
             {
+              "nome": "Wind Tre S.p.A_TS2600260596_2026-05-15.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/e41513jm7ik433xym5u34/Wind-Tre-S.p.A_TS2600260596_2026-05-15.xml?rlkey=3zt6uvc7j634wrpjxudi442sp&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Wind Tre S.p.A_TS2600260596_2026-05-15.xml"
+            },
+            {
+              "nome": "Wind Tre S.p.A_TS2600270020_2026-05-15.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/jqysm05rzmmrpbl7ipkr0/Wind-Tre-S.p.A_TS2600270020_2026-05-15.xml?rlkey=4x48yx1nyq515yiacxwtf2myh&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Wind Tre S.p.A_TS2600270020_2026-05-15.xml"
+            },
+            {
+              "nome": "Wind Tre S.p.A_TS2600270370_2026-05-15.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/k4teflnuf3udqi32z1n62/Wind-Tre-S.p.A_TS2600270370_2026-05-15.xml?rlkey=x4yu326jduy2cgf0u4bb9dgoz&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Wind Tre S.p.A_TS2600270370_2026-05-15.xml"
+            },
+            {
+              "nome": "Wind Tre S.p.A_TS2600282657_2026-05-15.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/7ybl9e3lrv8wxwch5vyfe/Wind-Tre-S.p.A_TS2600282657_2026-05-15.xml?rlkey=46mtc1qd2h3j8udeuieuv615d&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Wind Tre S.p.A_TS2600282657_2026-05-15.xml"
+            },
+            {
+              "nome": "Wind Tre S.p.A_TS2600283451_2026-05-15.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/3bl5nelzxfx6ekvfeb610/Wind-Tre-S.p.A_TS2600283451_2026-05-15.xml?rlkey=jt9qglj2dajza478clb3gkq5d&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Wind Tre S.p.A_TS2600283451_2026-05-15.xml"
+            },
+            {
               "nome": "Wuerth S.r.l_4502223020_2025-02-28.xml",
               "tipo": "File",
               "icona": "📎",
@@ -188170,7 +188475,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/iMatteo di Bruno Matteo_79_2025-03-25.xml"
             }
           ],
-          "_totale_file": 953
+          "_totale_file": 960
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -198909,7 +199214,64 @@
                 {
                   "nome": "CASELLA GIUSEPPE ORDINI D'ACQUISTO",
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CASELLA GIUSEPPE ORDINI D'ACQUISTO",
-                  "cartelle": [],
+                  "cartelle": [
+                    {
+                      "nome": "ARCHIVIO CASELLA ORDINI D'ACQUISTO",
+                      "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CASELLA GIUSEPPE ORDINI D'ACQUISTO/ARCHIVIO CASELLA ORDINI D'ACQUISTO",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "Nuovo Documento di Microsoft Word.docx",
+                          "tipo": "Word",
+                          "icona": "📝",
+                          "link": "https://www.dropbox.com/scl/fi/cl315fiyxdhn7ip7m7hxg/Nuovo-Documento-di-Microsoft-Word.docx?rlkey=cohoy4erzdh0f67egt8jgul8w&dl=0?raw=1",
+                          "dimensione_kb": 12,
+                          "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CASELLA GIUSEPPE ORDINI D'ACQUISTO/ARCHIVIO CASELLA ORDINI D'ACQUISTO/Nuovo Documento di Microsoft Word.docx"
+                        },
+                        {
+                          "nome": "Preventivo-2-VICECONTI - SOCIETA IN NOME COLLETTIVO DI ANTONIO E PROSPERO VICECONTI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/vv4bouo8b3y1tnebpfcze/Preventivo-2-VICECONTI-SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf?rlkey=eemi967bwdege0c5fxemxzgjw&dl=0?raw=1",
+                          "dimensione_kb": 147,
+                          "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CASELLA GIUSEPPE ORDINI D'ACQUISTO/ARCHIVIO CASELLA ORDINI D'ACQUISTO/Preventivo-2-VICECONTI - SOCIETA IN NOME COLLETTIVO DI ANTONIO E PROSPERO VICECONTI.pdf"
+                        },
+                        {
+                          "nome": "Preventivo-20_2023-VICECONTI---SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/vo546n7vravm9v0896c4z/Preventivo-20_2023-VICECONTI-SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf?rlkey=ds9klaaooz768p0xjga7x4iob&dl=0?raw=1",
+                          "dimensione_kb": 73,
+                          "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CASELLA GIUSEPPE ORDINI D'ACQUISTO/ARCHIVIO CASELLA ORDINI D'ACQUISTO/Preventivo-20_2023-VICECONTI---SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf"
+                        },
+                        {
+                          "nome": "Preventivo-8_2023-VICECONTI---SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI(4).pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/xqir567h7ear7nlqbn7bk/Preventivo-8_2023-VICECONTI-SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI-4.pdf?rlkey=qtbznwo4nuj9ja6hxmq5kp6fa&dl=0?raw=1",
+                          "dimensione_kb": 73,
+                          "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CASELLA GIUSEPPE ORDINI D'ACQUISTO/ARCHIVIO CASELLA ORDINI D'ACQUISTO/Preventivo-8_2023-VICECONTI---SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI(4).pdf"
+                        },
+                        {
+                          "nome": "Pro-Forma-1_2022-VICECONTI---SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/oovj4j66ei4tsvpuvn6ru/Pro-Forma-1_2022-VICECONTI-SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf?rlkey=9cemnfg6ux0lc97kylwlirqao&dl=0?raw=1",
+                          "dimensione_kb": 58,
+                          "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CASELLA GIUSEPPE ORDINI D'ACQUISTO/ARCHIVIO CASELLA ORDINI D'ACQUISTO/Pro-Forma-1_2022-VICECONTI---SOCIETA-IN-NOME-COLLETTIVO-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2023-04-13 at 18.57.15.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/jb9ksy3bsdocon3hwd0bw/WhatsApp-Image-2023-04-13-at-18.57.15.jpeg?rlkey=ufflvqty27g6z0ee0auxh5gty&dl=0?raw=1",
+                          "dimensione_kb": 368,
+                          "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CASELLA GIUSEPPE ORDINI D'ACQUISTO/ARCHIVIO CASELLA ORDINI D'ACQUISTO/WhatsApp Image 2023-04-13 at 18.57.15.jpeg"
+                        }
+                      ],
+                      "_totale_file": 6
+                    }
+                  ],
                   "file": [
                     {
                       "nome": "CASELLA FALEGNAMERIA - collegamento.lnk",
@@ -198936,7 +199298,7 @@
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CASELLA GIUSEPPE ORDINI D'ACQUISTO/CASELLA ORDINE DEL 29_10_2024 RIF.PAMELA.jpeg"
                     }
                   ],
-                  "_totale_file": 3
+                  "_totale_file": 9
                 },
                 {
                   "nome": "CB VALKO ORDINI D'ACQUISTO",
@@ -216617,6 +216979,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL Ordine dacquisto_260088_20260512_121547 RIF. PASSION SUSHI.pdf"
                 },
                 {
+                  "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260117_20260527_083149 RIF. ACAL MENSOLA A PONTE 140X70 Basato su Ordini cliente 260172..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/43mm6a4o9bzzjqk35t3w6/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260117_20260527_083149-RIF.-ACAL-MENSOLA-A-PONTE-140X70-Basato-su-Ordini-cliente-260172..pdf?rlkey=t66x9ftrvj5v3zlzju2fgobz3&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL Ordine dacquisto_260117_20260527_083149 RIF. ACAL MENSOLA A PONTE 140X70 Basato su Ordini cliente 260172..pdf"
+                },
+                {
+                  "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260118_20260527_083320 RIF. FLAVIO BARLASCINI LAVALLO 140X70 Basato su Ordini cliente 26.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z0fbe3ba60x0m58nkz4ar/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260118_20260527_083320-RIF.-FLAVIO-BARLASCINI-LAVALLO-140X70-Basato-su-Ordini-cliente-26.pdf?rlkey=xwjb9qwpxg3vsdilhq1r6xo2t&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL Ordine dacquisto_260118_20260527_083320 RIF. FLAVIO BARLASCINI LAVALLO 140X70 Basato su Ordini cliente 26.pdf"
+                },
+                {
                   "nome": "ACCIAIO TeD CONFERMA OFFVE-001268-2026 RIF.ACAL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -216903,6 +217281,14 @@
                   "link": "https://www.dropbox.com/scl/fi/lyeni26av49qjuhmin3f1/CB-SRL-Ordine-dacquisto_260092_20260512_190159-RIF.-SACCO-DI-PIETRA-LAVICA.pdf?rlkey=g0ubipk1km1yz1hlfzmc6kud1&dl=0?raw=1",
                   "dimensione_kb": 67,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CB SRL Ordine dacquisto_260092_20260512_190159 RIF. SACCO DI PIETRA LAVICA.pdf"
+                },
+                {
+                  "nome": "CB SRL Ordine dacquisto_260115_20260526_162325 RIF. MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dr0tvianq4tfp5sof035c/CB-SRL-Ordine-dacquisto_260115_20260526_162325-RIF.-MACELLERIA-LOSARDO-CAVALLETTO-SMONTABILE-PER-GIRARROSTI-E12.pdf?rlkey=bp97x0ajdk78cbi95bnue9iqz&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CB SRL Ordine dacquisto_260115_20260526_162325 RIF. MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12.pdf"
                 },
                 {
                   "nome": "CB VALKO CONFERMA offerta  VICECONTI RIF.CARNI LIMONGI_CILINDRI PNEUMATICI.pdf",
@@ -219161,7 +219547,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3592
+              "_totale_file": 3601
             }
           ],
           "file": [
@@ -219180,6 +219566,22 @@
               "link": "https://www.dropbox.com/scl/fi/hwiq0n0pyvz5hev5v7le5/ACCIAIO-T-D-CONFERMA-ORDVE-001662-2026-RIF.-PASSION-SUSHI.pdf?rlkey=3iuf0qxk7l3ll1rutwtuenicf&dl=0?raw=1",
               "dimensione_kb": 745,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001662-2026 RIF. PASSION SUSHI.pdf"
+            },
+            {
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-001777-2026 RIF. BARLASCINI WEB LAVELLO 140X70.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cgaumxaf0n25fm00t6mr1/ACCIAIO-T-D-CONFERMA-ORDVE-001777-2026-RIF.-BARLASCINI-WEB-LAVELLO-140X70.pdf?rlkey=vu0xiy15yqm4b38fnu1t4ho4t&dl=0?raw=1",
+              "dimensione_kb": 781,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001777-2026 RIF. BARLASCINI WEB LAVELLO 140X70.pdf"
+            },
+            {
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-001780-2026 RIF. ACAL MENSOLA A PONTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ry0f10olk9sfguwlmao0c/ACCIAIO-T-D-CONFERMA-ORDVE-001780-2026-RIF.-ACAL-MENSOLA-A-PONTE.pdf?rlkey=fvn2bublmfehnobbcpi99saga&dl=0?raw=1",
+              "dimensione_kb": 742,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001780-2026 RIF. ACAL MENSOLA A PONTE.pdf"
             },
             {
               "nome": "ARISTARCO SPA Ordine dacquisto_250351_20260520_164212 RIF. RICAMBI RICAMBI.pdf",
@@ -219206,28 +219608,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf"
             },
             {
-              "nome": "CB SRL Ordine dacquisto_260115_20260526_162325 RIF. MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12.pdf",
+              "nome": "CB CONFERMA ORDINE 3863 DEL 26.05.206 9B1CF45F-6DF2-46C1-825C-9EF9B99504B4 RIF. LOSARDO CAVALLETTO.PDF",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/dr0tvianq4tfp5sof035c/CB-SRL-Ordine-dacquisto_260115_20260526_162325-RIF.-MACELLERIA-LOSARDO-CAVALLETTO-SMONTABILE-PER-GIRARROSTI-E12.pdf?rlkey=bp97x0ajdk78cbi95bnue9iqz&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB SRL Ordine dacquisto_260115_20260526_162325 RIF. MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12.pdf"
-            },
-            {
-              "nome": "COLD LINE srl Ordine dacquisto_260108_20260521_164303 RIF. MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/b0ok6kjtd1x3k6ngdrbkh/COLD-LINE-srl-Ordine-dacquisto_260108_20260521_164303-RIF.-MARIE-VENTOLA-PER-DT3S-MATRICOLA-091711901-Basato-su-Offerte.pdf?rlkey=67e1fray8mj38kk1e8ep0ne4l&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260108_20260521_164303 RIF. MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte.pdf"
-            },
-            {
-              "nome": "COLD LINE srl Ordine dacquisto_260113_20260525_155221 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hljfsput97ociwe12d18x/COLD-LINE-srl-Ordine-dacquisto_260113_20260525_155221-RIF.-CORRADO-MICHELA-ARMADIO-LEVETRONIC-500-Basato-su-Ordini-clie.pdf?rlkey=1u47xllza5t22pjk1782ig7kz&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260113_20260525_155221 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf"
+              "link": "https://www.dropbox.com/scl/fi/7kjqmggn1somc0tl4b33c/CB-CONFERMA-ORDINE-3863-DEL-26.05.206-9B1CF45F-6DF2-46C1-825C-9EF9B99504B4-RIF.-LOSARDO-CAVALLETTO.PDF?rlkey=dh4op6p2f3hwhdvxvnw2cmv1v&dl=0?raw=1",
+              "dimensione_kb": 513,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB CONFERMA ORDINE 3863 DEL 26.05.206 9B1CF45F-6DF2-46C1-825C-9EF9B99504B4 RIF. LOSARDO CAVALLETTO.PDF"
             },
             {
               "nome": "COLDLINE Conferma ordine n°26-08381 RIF. PASSION SUSHI.pdf",
@@ -219244,30 +219630,6 @@
               "link": "https://www.dropbox.com/scl/fi/tzq8xq0j6qgy0vpguspd5/COLDLINE-Conferma-ordine-n-26-09170-RIF.-CORRADO-MICHELA_LEVTRONIC-500-aggiornamento.pdf?rlkey=eplfdzwdtql9143cdcgy2pu43&dl=0?raw=1",
               "dimensione_kb": 97,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09170 RIF. CORRADO MICHELA_LEVTRONIC 500 aggiornamento.pdf"
-            },
-            {
-              "nome": "DE LUCA SRL Ordine dacquisto_260109_20260524_205338 RIF. ILAMA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mh0vt04fbwsjgc4pxmmeg/DE-LUCA-SRL-Ordine-dacquisto_260109_20260524_205338-RIF.-ILAMA.pdf?rlkey=1cqen0mxmef4ytkzt5azhj053&dl=0?raw=1",
-              "dimensione_kb": 71,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260109_20260524_205338 RIF. ILAMA.pdf"
-            },
-            {
-              "nome": "DE LUCA SRL Ordine dacquisto_260110_20260524_213502.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/cq8quu9gdj0wvd1iioah0/DE-LUCA-SRL-Ordine-dacquisto_260110_20260524_213502.pdf?rlkey=r4ghyx50odftkfq25e9rk7sw2&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260110_20260524_213502.pdf"
-            },
-            {
-              "nome": "DE LUCA SRL Ordine dacquisto_260111_20260524_214102.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/kkmv5tb2z4n74uhnc477q/DE-LUCA-SRL-Ordine-dacquisto_260111_20260524_214102.pdf?rlkey=94bhmyjdxpf9untstyh2f4w3q&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260111_20260524_214102.pdf"
             },
             {
               "nome": "DM COMMERCIALE S.R.L. Ordine dacquisto_260107_20260521_132039 RIF. LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260.pdf",
@@ -219316,6 +219678,22 @@
               "link": "https://www.dropbox.com/scl/fi/x3d323200qt2weobdvlui/HENDI-CONFERMA-ORDINE-AB_AI260504823_701341_20260512-RIF.-PASSION-SUSHI.PDF?rlkey=ynbab7tc6fghq6l7ku5fu61nt&dl=0?raw=1",
               "dimensione_kb": 597,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF"
+            },
+            {
+              "nome": "HOSHIZAKI CONFERMA ORDINE HEIT-SO009703 RIF.CALA DEL CITRO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sdiswb06990z390aa2dha/HOSHIZAKI-CONFERMA-ORDINE-HEIT-SO009703-RIF.CALA-DEL-CITRO.pdf?rlkey=apqawiclba8tktybs0x4xtv1m&dl=0?raw=1",
+              "dimensione_kb": 376,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HOSHIZAKI CONFERMA ORDINE HEIT-SO009703 RIF.CALA DEL CITRO.pdf"
+            },
+            {
+              "nome": "HOSHIZAKI HEIT-SO009703 ingombri.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iq3b0bt0t93o7igu9foh7/HOSHIZAKI-HEIT-SO009703-ingombri.pdf?rlkey=e9xtujgxzfuz7bp6zfdigur7o&dl=0?raw=1",
+              "dimensione_kb": 288,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HOSHIZAKI HEIT-SO009703 ingombri.pdf"
             },
             {
               "nome": "HOSHIZAKI Ordine dacquisto_250447_20251110_125550 RIF.CALA DEL CITRO.pdf",
@@ -219396,6 +219774,14 @@
               "link": "https://www.dropbox.com/scl/fi/fy1qtbbrqhinobtcm5he4/IFI-CONFERMA-Preventivo_26004420-RIF.-LA-CAPPELLINA-VETRINA-MIX.pdf?rlkey=ubwcfecmuqdcie838da9z39y0&dl=0?raw=1",
               "dimensione_kb": 2698,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IFI CONFERMA Preventivo_26004420 RIF. LA CAPPELLINA VETRINA MIX.pdf"
+            },
+            {
+              "nome": "KRUPPS CONFERMA ordine_26-03235 RIF. NERA KI DISPLAY + RICAMBI MAG.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xivond9pilg66ix6lkq9d/KRUPPS-CONFERMA-ordine_26-03235-RIF.-NERA-KI-DISPLAY-RICAMBI-MAG.pdf?rlkey=0jpx3mkclw06j3ybzmxuwrboi&dl=0?raw=1",
+              "dimensione_kb": 126,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KRUPPS CONFERMA ordine_26-03235 RIF. NERA KI DISPLAY + RICAMBI MAG.pdf"
             },
             {
               "nome": "KRUPPS CONFERMA ordine_26-03235 RIF.NERA + MAG .pdf",
@@ -219502,7 +219888,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260097_20260519_233227 RIF. PALETTA AFFETTATRICE OMAS MOD. L 37S MATR.02605 VOLT 230.pdf"
             }
           ],
-          "_totale_file": 3634
+          "_totale_file": 3643
         }
       ],
       "file": []
