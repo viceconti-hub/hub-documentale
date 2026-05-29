@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-29T05:20:21Z",
-  "totale_file": 25082,
+  "generato": "2026-05-29T07:33:27Z",
+  "totale_file": 25096,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176248,7 +176248,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5118,
+      "totale_file": 5132,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -176294,6 +176294,14 @@
               "link": "https://www.dropbox.com/scl/fi/2n8va28c5u7eo4hj8i8wg/ARISTARCO-DDT-DDV_2476845_2026_1_4234_21052026-RIF.-CALA-DEL-CITRO-MeM-NERA-CARCONI-MAG.PDF?rlkey=uxz6h6gp4skf779pag4zifgjj&dl=0?raw=1",
               "dimensione_kb": 14,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ARISTARCO DDT  DDV_2476845_2026_1_4234_21052026 RIF. CALA DEL CITRO MeM NERA CARCONI MAG.PDF"
+            },
+            {
+              "nome": "ARISTARCO S.P.A. Entrata merci da fornitore_260085_20260527_193427 RIF. Basato su Ordini d'acquisto 260027. 260062..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ctq76igs1pv5nxsnc8zcr/ARISTARCO-S.P.A.-Entrata-merci-da-fornitore_260085_20260527_193427-RIF.-Basato-su-Ordini-d-acquisto-260027.-260062..pdf?rlkey=4cze46fmycv06jbgxfxz9il6l&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ARISTARCO S.P.A. Entrata merci da fornitore_260085_20260527_193427 RIF. Basato su Ordini d'acquisto 260027. 260062..pdf"
             },
             {
               "nome": "BELLADONNA SRL Entrata merci da fornitore_260079_20260524_171945 RIF. Basato su Ordini d'acquisto 260016. 260017..pdf",
@@ -176664,6 +176672,30 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260082_20260526_080644 RIF. CIDO SRL LIDO ILLICINI RICAMBI CUCINE ANGELO PO + DOSATORE M.pdf"
             },
             {
+              "nome": "REPA ITALIA SRL Entrata merci da fornitore_260086_20260527_223050 RIF. Basato su Ordini cliente 260118. Basato su Ordini d'acquisto PASSION SUSHI + MAG.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ks5ggepdfd81vkj3y0c81/REPA-ITALIA-SRL-Entrata-merci-da-fornitore_260086_20260527_223050-RIF.-Basato-su-Ordini-cliente-260118.-Basato-su-Ordini-d-acquisto-PASSION-SUSHI-MAG.pdf?rlkey=dnz50sbl9ddnwy01zwrkyryzy&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260086_20260527_223050 RIF. Basato su Ordini cliente 260118. Basato su Ordini d'acquisto PASSION SUSHI + MAG.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Entrata merci da fornitore_260087_20260527_223304.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/aue4tb895vbnjn9qh6wtp/REPA-ITALIA-SRL-Entrata-merci-da-fornitore_260087_20260527_223304.pdf?rlkey=y37c7piyxorjeur5q58tw272b&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260087_20260527_223304.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Entrata merci da fornitore_260088_20260528_114639 RIF. IL MULINO LA PERLA DEL TIRRENO YELLOW BOAT RATIONAL + MAG Ba.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nim5noktvk8lz2294cmzd/REPA-ITALIA-SRL-Entrata-merci-da-fornitore_260088_20260528_114639-RIF.-IL-MULINO-LA-PERLA-DEL-TIRRENO-YELLOW-BOAT-RATIONAL-MAG-Ba.pdf?rlkey=9x0vd5fbsz25i7f3tpnbqrvp6&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260088_20260528_114639 RIF. IL MULINO LA PERLA DEL TIRRENO YELLOW BOAT RATIONAL + MAG Ba.pdf"
+            },
+            {
               "nome": "SIRMAN DDT N° 2025134519 DEL 28.10.2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -176675,7 +176707,7 @@
               "nome": "SIRMAN DDT N° 2025138018 DEL 25.11.2025 RIF.OSTERIA DELLA ROCCA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/48car22te9zozbih2ne59/SIRMAN-DDT-N-2025138018-DEL-25.11.2025-RIF.OSTERIA-DELLA-ROCCA.pdf?rlkey=77ba50cs67tu2lbo4tn08je6m&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 42,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SIRMAN DDT N° 2025138018 DEL 25.11.2025 RIF.OSTERIA DELLA ROCCA.pdf"
             },
@@ -176720,7 +176752,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/STAFF ddt 510.pdf"
             }
           ],
-          "_totale_file": 58
+          "_totale_file": 62
         },
         {
           "nome": "FATTURE DA FORNITORE WORKSPACE",
@@ -180346,6 +180378,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/_REPORT_DA_REGISTRARE_MANUALMENTE_2026-05-24_13-19.txt"
             },
             {
+              "nome": "_REPORT_FATTURE_EMESSE_2026_2026-05-28_16-43.txt",
+              "tipo": "Testo",
+              "icona": "📃",
+              "link": "https://www.dropbox.com/scl/fi/7agj4ktdjmcomnbxh52yl/_REPORT_FATTURE_EMESSE_2026_2026-05-28_16-43.txt?rlkey=qpm5s55z7glxmg4pn2krlbjps&dl=0?raw=1",
+              "dimensione_kb": 9,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/_REPORT_FATTURE_EMESSE_2026_2026-05-28_16-43.txt"
+            },
+            {
               "nome": "_REPORT_FORNITORI_NON_MAPPATI_2026-05-24_12-37.txt",
               "tipo": "Testo",
               "icona": "📃",
@@ -180450,7 +180490,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE WORKSPACE/report_ordini_acquisto.md"
             }
           ],
-          "_totale_file": 457
+          "_totale_file": 458
         },
         {
           "nome": "FATTURE DA FORNITORE XML",
@@ -202006,7 +202046,7 @@
                           "nome": "EPTA MISA CONFERMA 2029462_VICECONTI - Conferma Ordine RIF. SPIAGGIA NERA.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/r5r59llrkigbj4fro3poz/EPTA-MISA-CONFERMA-2029462_VICECONTI-Conferma-Ordine-RIF.-SPIAGGIA-NERA.pdf?rlkey=cfa6ibcbd6hoj5gn9npova218&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 414,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/EPTA MISA/EPTA MISA ARCHIVIO ORDINI D'ACQUISTO/EPTA MISA CONFERMA 2029462_VICECONTI - Conferma Ordine RIF. SPIAGGIA NERA.pdf"
                         },
@@ -219247,6 +219287,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001780-2026 RIF. ACAL MENSOLA A PONTE.pdf"
             },
             {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260117_20260527_083149 RIF. ACAL MENSOLA A PONTE 140X70 Basato su Ordini cliente 260172..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rqh3k10yrwx2wd9no2194/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260117_20260527_083149-RIF.-ACAL-MENSOLA-A-PONTE-140X70-Basato-su-Ordini-cliente-260172..pdf?rlkey=zm16q21h1qkbvn8j9l7js9r8r&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260117_20260527_083149 RIF. ACAL MENSOLA A PONTE 140X70 Basato su Ordini cliente 260172..pdf"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260118_20260527_083320 RIF. FLAVIO BARLASCINI LAVALLO 140X70 Basato su Ordini cliente 26.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w4gy0h5rwen035rcnzjpi/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260118_20260527_083320-RIF.-FLAVIO-BARLASCINI-LAVALLO-140X70-Basato-su-Ordini-cliente-26.pdf?rlkey=dndzj0tc6y5fi8wpme2wn22eo&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260118_20260527_083320 RIF. FLAVIO BARLASCINI LAVALLO 140X70 Basato su Ordini cliente 26.pdf"
+            },
+            {
               "nome": "ARISTARCO SPA Ordine dacquisto_250351_20260520_164212 RIF. RICAMBI RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -219279,6 +219335,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB CONFERMA ORDINE 3863 DEL 26.05.206 9B1CF45F-6DF2-46C1-825C-9EF9B99504B4 RIF. LOSARDO CAVALLETTO.PDF"
             },
             {
+              "nome": "CB SRL Ordine dacquisto_260115_20260526_162325 RIF. MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/a85mi2zl3ttw2a00bkhw6/CB-SRL-Ordine-dacquisto_260115_20260526_162325-RIF.-MACELLERIA-LOSARDO-CAVALLETTO-SMONTABILE-PER-GIRARROSTI-E12.pdf?rlkey=8pbguf9zsvpt9bl2bjg1egmgc&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB SRL Ordine dacquisto_260115_20260526_162325 RIF. MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Ordine dacquisto_260113_20260525_155221 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/apphrx2lwn7q4c0o8j6pw/COLD-LINE-srl-Ordine-dacquisto_260113_20260525_155221-RIF.-CORRADO-MICHELA-ARMADIO-LEVETRONIC-500-Basato-su-Ordini-clie.pdf?rlkey=b15cp9nn91cgrdqmw4hvzsklb&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260113_20260525_155221 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf"
+            },
+            {
               "nome": "COLDLINE Conferma ordine n°26-08381 RIF. PASSION SUSHI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -219293,6 +219365,30 @@
               "link": "https://www.dropbox.com/scl/fi/tzq8xq0j6qgy0vpguspd5/COLDLINE-Conferma-ordine-n-26-09170-RIF.-CORRADO-MICHELA_LEVTRONIC-500-aggiornamento.pdf?rlkey=eplfdzwdtql9143cdcgy2pu43&dl=0?raw=1",
               "dimensione_kb": 97,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09170 RIF. CORRADO MICHELA_LEVTRONIC 500 aggiornamento.pdf"
+            },
+            {
+              "nome": "DE LUCA SRL Ordine dacquisto_260109_20260524_205338 RIF. ILAMA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2talo9qkybocaf120pve7/DE-LUCA-SRL-Ordine-dacquisto_260109_20260524_205338-RIF.-ILAMA.pdf?rlkey=80ic89nx55n8cdg3jhsrzacwd&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260109_20260524_205338 RIF. ILAMA.pdf"
+            },
+            {
+              "nome": "DE LUCA SRL Ordine dacquisto_260110_20260524_213502.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fa8ahsu7y24p5q1ipjqxg/DE-LUCA-SRL-Ordine-dacquisto_260110_20260524_213502.pdf?rlkey=8o8ftdlban7azyzgwbigtu7pm&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260110_20260524_213502.pdf"
+            },
+            {
+              "nome": "DE LUCA SRL Ordine dacquisto_260111_20260524_214102.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bfsy5borvikr4b05lvtmp/DE-LUCA-SRL-Ordine-dacquisto_260111_20260524_214102.pdf?rlkey=1lyevsro2iisenursk1opk0c2&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260111_20260524_214102.pdf"
             },
             {
               "nome": "DM COMMERCIALE S.R.L. Ordine dacquisto_260107_20260521_132039 RIF. LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260.pdf",
@@ -219463,6 +219559,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KRUPPS s.r.l. Ordine dacquisto_250210_20260521_175612 RIF. KIT DISPLAY PER NERA + MAG DATA TRASMISSIONE 21_05_26.pdf"
             },
             {
+              "nome": "LOTUS spa Ordine dacquisto_260120_20260528_182009 RIF. LIDO VALENTINA Basato su Ordini cliente 260175..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lrpcbwk5v2w920akeri7m/LOTUS-spa-Ordine-dacquisto_260120_20260528_182009-RIF.-LIDO-VALENTINA-Basato-su-Ordini-cliente-260175..pdf?rlkey=rcv2clrjrcaj9v3b6w2p4gdxr&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/LOTUS spa Ordine dacquisto_260120_20260528_182009 RIF. LIDO VALENTINA Basato su Ordini cliente 260175..pdf"
+            },
+            {
               "nome": "MECNOSUD S.R.L. Ordine dacquisto_260044_20260513_183524 RIF. MeM IMPASTATRICE IM25D.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -219493,6 +219597,14 @@
               "link": "https://www.dropbox.com/scl/fi/pof4aq57zvbwk4492adyc/MODULAR-CONFERMA-ORDINE-26-04251-MD_SaleOrdForm_2022-RIF.-SANTA-LUCIA-CUCINA-E-GRIGLIA.pdf?rlkey=9ax13o23jqnh0wnlqt5wo8e8g&dl=0?raw=1",
               "dimensione_kb": 141,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26-04251 MD_SaleOrdForm_2022 RIF. SANTA LUCIA CUCINA E GRIGLIA.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260119_20260528_095832.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vrbwg93rjowrshi8og5e8/REPA-ITALIA-SRL-Ordine-dacquisto_260119_20260528_095832.pdf?rlkey=vtjyasv8pdak8kwqsf4hibd5f&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260119_20260528_095832.pdf"
             },
             {
               "nome": "SIRMAN CONFERMA ORDINE 2010251338 DEL 18_05_2026 RIF. MeM HppyM PassionSushi.pdf",
@@ -219551,7 +219663,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260097_20260519_233227 RIF. PALETTA AFFETTATRICE OMAS MOD. L 37S MATR.02605 VOLT 230.pdf"
             }
           ],
-          "_totale_file": 3643
+          "_totale_file": 3652
         }
       ],
       "file": []
