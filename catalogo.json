@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-29T02:34:37Z",
-  "totale_file": 25098,
+  "generato": "2026-05-29T05:20:21Z",
+  "totale_file": 25082,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5567,
+      "totale_file": 5551,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -38,6 +38,22 @@
               "link": "https://www.dropbox.com/scl/fi/min2aa69kdj4yfsgf2rly/AGUA-LOCA-DI-D-IMPERIO-NICOLA-Consegna_260293_20260525_101416-RIF.-BRILLANTANTE-QTA-1-LASCIATO-A-NICOLA.pdf?rlkey=ouuk81ixexlnwzhr7nglr3c80&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGUA LOCA DI D'IMPERIO NICOLA Consegna_260293_20260525_101416 RIF. BRILLANTANTE QTA 1 LASCIATO A NICOLA.pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260297_20260527_091447 RIF. LAVASTOVIGLIE AF50.35E IN COMODATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dqbf1pc5eqb12mtjsry9p/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Consegna_260297_20260527_091447-RIF.-LAVASTOVIGLIE-AF50.35E-IN-COMODATO.pdf?rlkey=9e10dxuszuzy8duul65mn0qky&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260297_20260527_091447 RIF. LAVASTOVIGLIE AF50.35E IN COMODATO.pdf"
+            },
+            {
+              "nome": "BOTTEGA 63 SRLS Consegna_260300_20260527_091803 RIF. LAVABAR COMODATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0coyp9woth1fnb7feuepw/BOTTEGA-63-SRLS-Consegna_260300_20260527_091803-RIF.-LAVABAR-COMODATO.pdf?rlkey=yn9ksfsaew30f14k1zu7fm0wo&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BOTTEGA 63 SRLS Consegna_260300_20260527_091803 RIF. LAVABAR COMODATO.pdf"
             },
             {
               "nome": "CARNI LIMONGI SRL Consegna_260276_20260516_155927 RIF. LEVA NERA PER MISCELATORE.pdf",
@@ -72,6 +88,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CHECK Srl BAR MATER DEI Consegna_260288_20260523_093746 RIF. DETERGENTE ECOSAN DET 6 QTA'1 Basato su Ordini cliente 26014 DETERGENTE ECOSAN DET 6 QTA'1.pdf"
             },
             {
+              "nome": "CITYBAR di MICELI A. & DI LASCIO V. SNC Consegna_260303_20260528_155930.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/v2q308n333m9odi7cow98/CITYBAR-di-MICELI-A.-DI-LASCIO-V.-SNC-Consegna_260303_20260528_155930.pdf?rlkey=mthjb1vx2d9jhsmv8on2fgx90&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CITYBAR di MICELI A. & DI LASCIO V. SNC Consegna_260303_20260528_155930.pdf"
+            },
+            {
               "nome": "CORRADO MICHELA Consegna_260212_20260523_170418 RIF. ARMADIO CONGELATORE Basato su Offerte di vendita 250779. 260.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -86,6 +110,22 @@
               "link": "https://www.dropbox.com/scl/fi/izemwmafmxodfszqpx3n1/CULURGIONI-E-C.-SNC-Consegna_260278_20260519_082131-RIF.-Basato-su-Ordini-cliente-260154.-PAGAMENTO-IN-CONTRASSEGNO-CULURGIONI-E-C.-SNC-LAMA.pdf?rlkey=50ymcdhwoajsu3jydc21byqfr&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CULURGIONI E C. SNC Consegna_260278_20260519_082131 RIF. Basato su Ordini cliente 260154. PAGAMENTO IN CONTRASSEGNO € CULURGIONI E C. SNC LAMA.pdf"
+            },
+            {
+              "nome": "DA SPECIFICARE Consegna_260302_20260527_120019 RIF. COLTELLI Basato su Offerte di vendita 260189..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/v911w5an85bnk2ye7x5oz/DA-SPECIFICARE-Consegna_260302_20260527_120019-RIF.-COLTELLI-Basato-su-Offerte-di-vendita-260189..pdf?rlkey=vamzy1ybcbwmdd4wmogm15n3q&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DA SPECIFICARE Consegna_260302_20260527_120019 RIF. COLTELLI Basato su Offerte di vendita 260189..pdf"
+            },
+            {
+              "nome": "DAMA srl Consegna_260299_20260527_091724 RIF. AFFETTATRICE SIRMAN MOD. TIZIANO 370 IN COMODATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b9ekxy61yfeppuphqz9v9/DAMA-srl-Consegna_260299_20260527_091724-RIF.-AFFETTATRICE-SIRMAN-MOD.-TIZIANO-370-IN-COMODATO.pdf?rlkey=ej28py5bl3mevcbiqed61cgm8&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DAMA srl Consegna_260299_20260527_091724 RIF. AFFETTATRICE SIRMAN MOD. TIZIANO 370 IN COMODATO.pdf"
             },
             {
               "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260295_20260525_161329 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260169..pdf",
@@ -174,6 +214,22 @@
               "link": "https://www.dropbox.com/scl/fi/avlk6wujyoxq6hkb0ujrr/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Consegna_260268_20260513_112936-RIF.-DETERGENTE-LAVABAR.pdf?rlkey=o8hbn51ge9c1lpigk2mm5ieud&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260268_20260513_112936 RIF. DETERGENTE LAVABAR.pdf"
+            },
+            {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260301_20260527_091948 RIF. PRODUTTORE DI GHIACCIO IN COMODATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fm390mgq8iu1vbgs3ojhb/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Consegna_260301_20260527_091948-RIF.-PRODUTTORE-DI-GHIACCIO-IN-COMODATO.pdf?rlkey=mdsmnittlcgqw38ymz30iodxe&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260301_20260527_091948 RIF. PRODUTTORE DI GHIACCIO IN COMODATO.pdf"
+            },
+            {
+              "nome": "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Consegna_260298_20260527_091623 RIF. LAVABAR IN COMODATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0rob1erufkrl8cy0udmsa/I-PASTICCI-DI-WALTER-DI-CHIAPPETTA-WALTER-E-LISA-A.-SNC-Consegna_260298_20260527_091623-RIF.-LAVABAR-IN-COMODATO.pdf?rlkey=8a01s8erdbibj0se07ldea816&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Consegna_260298_20260527_091623 RIF. LAVABAR IN COMODATO.pdf"
             },
             {
               "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260267_20260512_101043 RIF. TAGLIO PER IMPERIA E ADATTATORE.pdf",
@@ -288,7 +344,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/VELARDI Srl Consegna_260271_20260515_100703 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 34
+          "_totale_file": 41
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -448,6 +504,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260187_20260526_181816.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Offerta di vendita_260189_20260527_120008 RIF. COLTELLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yr2luqap28xaxe8jopiw3/DA-SPECIFICARE-Offerta-di-vendita_260189_20260527_120008-RIF.-COLTELLI.pdf?rlkey=f1jlwgw9y4f42whq6hcaz6n5n&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260189_20260527_120008 RIF. COLTELLI.pdf"
+            },
+            {
               "nome": "DIMAC SRL Offerta di vendita_260164_20260515_105156 RIF. CARTUCCE A CARBONE ATTIVO PER GRUPPO DI FILTRAZIONE CF1115.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -534,6 +598,14 @@
               "link": "https://www.dropbox.com/scl/fi/vmqatynwn98u99aowt8nk/LIDO-POINT-BREAK-Offerta-di-vendita_260163_20260514_202046-RIF.-TAVOLO-A-GIORNO-150-X-70.pdf?rlkey=d5p3q9xbi01xyv8oqce45s8ep&dl=0?raw=1",
               "dimensione_kb": 78,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO POINT BREAK Offerta di vendita_260163_20260514_202046 RIF. TAVOLO A GIORNO 150 X 70.pdf"
+            },
+            {
+              "nome": "LIDO VALENTINA Offerta di vendita_260190_20260528_125349.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oj2juxh4hy946qns42toq/LIDO-VALENTINA-Offerta-di-vendita_260190_20260528_125349.pdf?rlkey=gt8gul65jpljh60etp61r967k&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO VALENTINA Offerta di vendita_260190_20260528_125349.pdf"
             },
             {
               "nome": "LUGLIO Offerta di vendita_260176_20260519_130921 RIF. LAVELLO A GIORNO 2 VASCHE.pdf",
@@ -656,7 +728,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260170_20260515_182140 RIF. CALICI BIRRA WEIZEN.pdf"
             }
           ],
-          "_totale_file": 43
+          "_totale_file": 45
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -2114,6 +2186,22 @@
                   "link": "https://www.dropbox.com/scl/fi/0z9xhcaiol610h146gtbg/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26-TAVOLI-REFRIGERATI-PASTICCERIA.pdf?rlkey=5gf83ytr0h4tg4i1fbclio459&dl=0?raw=1",
                   "dimensione_kb": 445,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_05_15 PANAINO RUA TAVOLO REFRIGERATO/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26 TAVOLI REFRIGERATI PASTICCERIA.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_05_28 ONY E ROBY ATTREZZATURE MAGGIO 2026",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_05_28 ONY E ROBY ATTREZZATURE MAGGIO 2026",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Offer_MACELLERIA_TRADIZIONALE_ONY_&_ROBY_PAOLINO_SRL_vanilla_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ystsm2vtsk688mvnuwvj9/Offer_MACELLERIA_TRADIZIONALE_ONY_-_ROBY_PAOLINO_SRL_vanilla_2026.pdf?rlkey=2n7yhfrc5ceif2zq0rwxuhsom&dl=0?raw=1",
+                  "dimensione_kb": 2853,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_05_28 ONY E ROBY ATTREZZATURE MAGGIO 2026/Offer_MACELLERIA_TRADIZIONALE_ONY_&_ROBY_PAOLINO_SRL_vanilla_2026.pdf"
                 }
               ],
               "_totale_file": 1
@@ -22625,286 +22713,6 @@
                             }
                           ],
                           "_totale_file": 2
-                        },
-                        {
-                          "nome": "LISA",
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/LISA",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "SCHEDA TECNICA CUCINA 4 FUOCHI.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/dvfsh3ok2ewcsjove8fjn/SCHEDA-TECNICA-CUCINA-4-FUOCHI.pdf?rlkey=th2p0n9ueyfkxuqb4oz37hhm5&dl=0?raw=1",
-                              "dimensione_kb": 120,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/LISA/SCHEDA TECNICA CUCINA 4 FUOCHI.pdf"
-                            }
-                          ],
-                          "_totale_file": 1
-                        },
-                        {
-                          "nome": "MARA LEONASSIS",
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/MARA LEONASSIS",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "ESPO VETRINA.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/tfiqe9vghwxg39t4vg3lk/ESPO-VETRINA.jpg?rlkey=en16rehcawpjlddyzz7q9qrus&dl=0?raw=1",
-                              "dimensione_kb": 39,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/MARA LEONASSIS/ESPO VETRINA.jpg"
-                            },
-                            {
-                              "nome": "ESPOSITORE.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/v3of2bpy90v3gku8k3tar/ESPOSITORE.jpg?rlkey=uhywvtwh83d5wzzvnex5vlzet&dl=0?raw=1",
-                              "dimensione_kb": 14,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/MARA LEONASSIS/ESPOSITORE.jpg"
-                            },
-                            {
-                              "nome": "ISOLA VENDITA.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/xpnq8kb8calw1tbqk4cf4/ISOLA-VENDITA.jpg?rlkey=g8ls69zpfx2wwx6f9rs4311zi&dl=0?raw=1",
-                              "dimensione_kb": 35,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/MARA LEONASSIS/ISOLA VENDITA.jpg"
-                            },
-                            {
-                              "nome": "PUNTO VENDITA DA COMPLETARE.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/3gmgzyirq2h2pi3uo2a1q/PUNTO-VENDITA-DA-COMPLETARE.jpg?rlkey=2obx6zvqdyqgzkhwtkcobw495&dl=0?raw=1",
-                              "dimensione_kb": 120,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/MARA LEONASSIS/PUNTO VENDITA DA COMPLETARE.jpg"
-                            }
-                          ],
-                          "_totale_file": 4
-                        },
-                        {
-                          "nome": "PARADISO",
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/PARADISO",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "Offerta di vendita_200700_ESTRATTORE FIMAR.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/xb0ew48xtrrswe26i1rcm/Offerta-di-vendita_200700_ESTRATTORE-FIMAR.pdf?rlkey=usmgxivkyjj63e1icyy1q37qu&dl=0?raw=1",
-                              "dimensione_kb": 71,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/PARADISO/Offerta di vendita_200700_ESTRATTORE FIMAR.pdf"
-                            },
-                            {
-                              "nome": "Offerta di vendita_200701_ESTRATTORE SIRMAN.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/0lr1xnhyeopc0vgfrrvzr/Offerta-di-vendita_200701_ESTRATTORE-SIRMAN.pdf?rlkey=ai5jv4kdznoepqk092edddjl7&dl=0?raw=1",
-                              "dimensione_kb": 69,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/PARADISO/Offerta di vendita_200701_ESTRATTORE SIRMAN.pdf"
-                            }
-                          ],
-                          "_totale_file": 2
-                        },
-                        {
-                          "nome": "SOSPESI",
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/SOSPESI",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "Situazione Contabile CREDITI_BHOTEL.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/x3y6ahvykzox8lo7rvue1/Situazione-Contabile-CREDITI_BHOTEL.pdf?rlkey=9w1nia4hy46to1uyijrt77xdc&dl=0?raw=1",
-                              "dimensione_kb": 49,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/SOSPESI/Situazione Contabile CREDITI_BHOTEL.pdf"
-                            },
-                            {
-                              "nome": "Situazione Contabile CREDITI_dimac.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/59kmaaozvb1momotalyqq/Situazione-Contabile-CREDITI_dimac.pdf?rlkey=rxe5b5du8b0tifm7lzjwmza24&dl=0?raw=1",
-                              "dimensione_kb": 52,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/SOSPESI/Situazione Contabile CREDITI_dimac.pdf"
-                            },
-                            {
-                              "nome": "Situazione Contabile_CITYBAR.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/0bil0jeg087b6jrauu4r1/Situazione-Contabile_CITYBAR.pdf?rlkey=amg68xr54xk17130z13tid447&dl=0?raw=1",
-                              "dimensione_kb": 51,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/SOSPESI/Situazione Contabile_CITYBAR.pdf"
-                            },
-                            {
-                              "nome": "Situazione Contabile_GIOIA AL NEGRO.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/3v65ve4oyu0p6ve6qrwhz/Situazione-Contabile_GIOIA-AL-NEGRO.pdf?rlkey=7jipms11xeiijt7ldsc8w0fx2&dl=0?raw=1",
-                              "dimensione_kb": 50,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/SOSPESI/Situazione Contabile_GIOIA AL NEGRO.pdf"
-                            },
-                            {
-                              "nome": "Situazione Contabile_LA TANA.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/gwibnxgo94iq9lsc7kl8l/Situazione-Contabile_LA-TANA.pdf?rlkey=5dhonf9y12bf92qxhj449pbdq&dl=0?raw=1",
-                              "dimensione_kb": 55,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/SOSPESI/Situazione Contabile_LA TANA.pdf"
-                            },
-                            {
-                              "nome": "Situazione Contabile_SANGINETO.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/ejgw9lwbd51cv4yip92jf/Situazione-Contabile_SANGINETO.pdf?rlkey=d93ss6sek64176rtbeud05uq9&dl=0?raw=1",
-                              "dimensione_kb": 50,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/SOSPESI/Situazione Contabile_SANGINETO.pdf"
-                            },
-                            {
-                              "nome": "Situazione Contabile_TOURIST CALABRIA.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/har4p9d3uzthtqw25ng5o/Situazione-Contabile_TOURIST-CALABRIA.pdf?rlkey=ub9x5z1jiwtkwuq2plvrkon97&dl=0?raw=1",
-                              "dimensione_kb": 50,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/SOSPESI/Situazione Contabile_TOURIST CALABRIA.pdf"
-                            },
-                            {
-                              "nome": "Situazione Contabile_VALENTIN.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/611qpdfvpbknihnygx36o/Situazione-Contabile_VALENTIN.pdf?rlkey=dufimbsjycfijtwv25k8muy6t&dl=0?raw=1",
-                              "dimensione_kb": 49,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/SOSPESI/Situazione Contabile_VALENTIN.pdf"
-                            },
-                            {
-                              "nome": "Situazione Contabile_happy cafe.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/s8juzqa5agyczdsgtsqtf/Situazione-Contabile_happy-cafe.pdf?rlkey=tpzb5qtenwc3rwc8x3ztbx7gf&dl=0?raw=1",
-                              "dimensione_kb": 52,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/SOSPESI/Situazione Contabile_happy cafe.pdf"
-                            }
-                          ],
-                          "_totale_file": 9
-                        },
-                        {
-                          "nome": "VECCHIO PINO",
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/VECCHIO PINO",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "MOR.120060+120057-001.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/khozhtsxlx09b1vjk9znh/MOR.120060-120057-001.jpg?rlkey=tkui5h4t1g6qxrpyhxqgw1uqd&dl=0?raw=1",
-                              "dimensione_kb": 56,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/VECCHIO PINO/MOR.120060+120057-001.jpg"
-                            },
-                            {
-                              "nome": "MOR.131789+131788-001.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/e5le0ktjnvq9oshepkwwc/MOR.131789-131788-001.jpg?rlkey=4k9qjfhx2cpjxj9lt31rurtfu&dl=0?raw=1",
-                              "dimensione_kb": 30,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/VECCHIO PINO/MOR.131789+131788-001.jpg"
-                            },
-                            {
-                              "nome": "MOR.132546-001.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/gobyniovh8jrvtzp1ri5r/MOR.132546-001.jpg?rlkey=bgfwzd99xrk0fp8yz5dn4pfbw&dl=0?raw=1",
-                              "dimensione_kb": 83,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/VECCHIO PINO/MOR.132546-001.jpg"
-                            },
-                            {
-                              "nome": "MOR.135300-001.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/2nak7j7ix88f2iyh1dnxs/MOR.135300-001.jpg?rlkey=p3jzd3qjvcpwh5xj8w4hpkxkt&dl=0?raw=1",
-                              "dimensione_kb": 64,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/VECCHIO PINO/MOR.135300-001.jpg"
-                            },
-                            {
-                              "nome": "MOR.137321+137466-001.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/yd4h5lp3xz2uk04xqms9x/MOR.137321-137466-001.jpg?rlkey=vsakk2pd2wfudr7nmdv9nq4cu&dl=0?raw=1",
-                              "dimensione_kb": 107,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/VECCHIO PINO/MOR.137321+137466-001.jpg"
-                            },
-                            {
-                              "nome": "mor.120060-001.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/8e8rjgf08wy4uy34mjk9l/mor.120060-001.jpg?rlkey=dgypxj8pcj594j79ggoskv8mq&dl=0?raw=1",
-                              "dimensione_kb": 32,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/VECCHIO PINO/mor.120060-001.jpg"
-                            }
-                          ],
-                          "_totale_file": 6
-                        },
-                        {
-                          "nome": "foto morini",
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/foto morini",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "mor.31348.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/fh475gr2piu4sa65254wt/mor.31348.jpg?rlkey=siu0gy0vv25y366ym4pe8fc94&dl=0?raw=1",
-                              "dimensione_kb": 41,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/foto morini/mor.31348.jpg"
-                            },
-                            {
-                              "nome": "mor.32164.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/uy5u5sit4brfdr7kwe0pq/mor.32164.jpg?rlkey=j4zcnsspvicfqyrddsuc0w7wh&dl=0?raw=1",
-                              "dimensione_kb": 44,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/foto morini/mor.32164.jpg"
-                            },
-                            {
-                              "nome": "mor.7846.jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/1rj0xqzj5h90tr28f12ts/mor.7846.jpg?rlkey=j1u5grhv3m0ydht25y2c5ynh3&dl=0?raw=1",
-                              "dimensione_kb": 36,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/foto morini/mor.7846.jpg"
-                            }
-                          ],
-                          "_totale_file": 3
-                        },
-                        {
-                          "nome": "marie",
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/marie",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "Fattura di vendita_190608_marie1.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/odg5ejec3cznty39gm23g/Fattura-di-vendita_190608_marie1.pdf?rlkey=rfrave7bnewm1fyrqxap68r6e&dl=0?raw=1",
-                              "dimensione_kb": 72,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/marie/Fattura di vendita_190608_marie1.pdf"
-                            },
-                            {
-                              "nome": "Fattura di vendita_200009_marie2.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/su0dgmz2adpev04w3lyt3/Fattura-di-vendita_200009_marie2.pdf?rlkey=fxitspoe4dhp0u2wt3sczeuc2&dl=0?raw=1",
-                              "dimensione_kb": 70,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/marie/Fattura di vendita_200009_marie2.pdf"
-                            },
-                            {
-                              "nome": "Fattura di vendita_210339_marie3.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/jr11aswp55ka035qs8cmv/Fattura-di-vendita_210339_marie3.pdf?rlkey=kps9ooyqnf8tmqxq1bkmmie52&dl=0?raw=1",
-                              "dimensione_kb": 70,
-                              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/marie/Fattura di vendita_210339_marie3.pdf"
-                            }
-                          ],
-                          "_totale_file": 3
                         }
                       ],
                       "file": [
@@ -23213,7 +23021,7 @@
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PACE/Ordine dacquisto_210851_ORDINE HENDI 14 DIC.pdf"
                         }
                       ],
-                      "_totale_file": 82
+                      "_totale_file": 54
                     },
                     {
                       "nome": "PALAGANO RUTH",
@@ -29466,7 +29274,7 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/Ordine dacquisto_210779_NUOVO ORDINE KONTIKY.pdf"
                     }
                   ],
-                  "_totale_file": 2403
+                  "_totale_file": 2375
                 },
                 {
                   "nome": "ARCI",
@@ -32313,7 +32121,7 @@
                       "nome": "Offerta di vendita_250326 CELLA 403X203 SPESSORE10 CM.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/hl6p2rikemggmpru7qero/Offerta-di-vendita_250326-CELLA-403X203-SPESSORE10-CM.pdf?rlkey=93pmqr7aehayxqmno52djhyo3&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 103,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/BUFALA EXPRESS CELLA/Offerta di vendita_250326 CELLA 403X203 SPESSORE10 CM.pdf"
                     },
@@ -41304,7 +41112,7 @@
                       "nome": "Nuovo Foglio di lavoro di Microsoft Excel.xls - Copia.xlsx",
                       "tipo": "Excel",
                       "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/a9f9x5n9hjsjxfrrcx0ab/Nuovo-Foglio-di-lavoro-di-Microsoft-Excel.xls-Copia.xlsx?rlkey=l7zk53egm03do7jamsi9z1kvq&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 11,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/I SAPORI DI MARIANNA TEGAMI PER FORNO/Nuovo Foglio di lavoro di Microsoft Excel.xls - Copia.xlsx"
                     },
@@ -58247,11 +58055,11 @@
                 }
               ],
               "file": [],
-              "_totale_file": 5311
+              "_totale_file": 5283
             }
           ],
           "file": [],
-          "_totale_file": 5446
+          "_totale_file": 5419
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -58369,6 +58177,14 @@
               "link": "https://www.dropbox.com/scl/fi/vvtgwugc1iz0ob3l696s3/DIMAC-SRL-Ordine-cliente_260135_20260512_100211.pdf?rlkey=vgkk3dq3ok5jecnmk1mjl9giu&dl=0?raw=1",
               "dimensione_kb": 64,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DIMAC SRL Ordine cliente_260135_20260512_100211.pdf"
+            },
+            {
+              "nome": "DRINK & SMOKE DI CONTE GIAN PIERO Ordine cliente_260174_20260527_095751 RIF. CALICE VINO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ci9130svy3ox6hr9mq895/DRINK-SMOKE-DI-CONTE-GIAN-PIERO-Ordine-cliente_260174_20260527_095751-RIF.-CALICE-VINO.pdf?rlkey=zhs12fb04y8lznuqh4nf14tiy&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DRINK & SMOKE DI CONTE GIAN PIERO Ordine cliente_260174_20260527_095751 RIF. CALICE VINO.pdf"
             },
             {
               "nome": "EMMEGIEFFE DI FALCONE MICHELE e C sas Ordine cliente_260168_20260525_133308 RIF. LAMA 300 LAMAFF0012A.pdf",
@@ -58499,6 +58315,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LIDO POINT BREAK Ordine cliente_260158_20260526_095712 RIF. Basato su Offerte di vendita 260151. TAVOLOLO CON VASCA INCASSATA.pdf"
             },
             {
+              "nome": "LIDO VALENTINA DI LOPEZ ANTONIO Ordine cliente_260175_20260528_181732 RIF. LIDO VALENTINA FRIGGITRICE GAS LOTUS MODELLO F218-78GLT 18+1.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cq0qw3x1ju0zd787taz3g/LIDO-VALENTINA-DI-LOPEZ-ANTONIO-Ordine-cliente_260175_20260528_181732-RIF.-LIDO-VALENTINA-FRIGGITRICE-GAS-LOTUS-MODELLO-F218-78GLT-18-1.pdf?rlkey=tpj9ee502yc1td071uzsurd3y&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LIDO VALENTINA DI LOPEZ ANTONIO Ordine cliente_260175_20260528_181732 RIF. LIDO VALENTINA FRIGGITRICE GAS LOTUS MODELLO F218-78GLT 18+1.pdf"
+            },
+            {
               "nome": "MACELLERIA LOSARDO GIOVANNINO Ordine cliente_260170_20260526_161808 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58603,7 +58427,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 43
+          "_totale_file": 45
         }
       ],
       "file": []
