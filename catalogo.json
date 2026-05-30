@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-29T08:57:27Z",
-  "totale_file": 25096,
+  "generato": "2026-05-30T00:28:13Z",
+  "totale_file": 25103,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -63407,7 +63407,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7094,
+      "totale_file": 7101,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -93218,6 +93218,70 @@
                   "_totale_file": 14
                 },
                 {
+                  "nome": "CALA DEL CITRO CANTIERE MAGGIO 2026",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CALA DEL CITRO/CALA DEL CITRO CANTIERE MAGGIO 2026",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "LAVASTOVIGLIE ARISTARCO Type-4430_4530_AS-50.35-EPI-PRS-SD_ED01_2025_IT.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/88klyz2evwtcfvhu8gwo4/LAVASTOVIGLIE-ARISTARCO-Type-4430_4530_AS-50.35-EPI-PRS-SD_ED01_2025_IT.pdf?rlkey=z1dq461bzk25kmjjki567msst&dl=0?raw=1",
+                      "dimensione_kb": 210,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CALA DEL CITRO/CALA DEL CITRO CANTIERE MAGGIO 2026/LAVASTOVIGLIE ARISTARCO Type-4430_4530_AS-50.35-EPI-PRS-SD_ED01_2025_IT.pdf"
+                    },
+                    {
+                      "nome": "MACCHINA OSMOSI INVERSA ARISTARCO PAGINA LISTINO.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/q1yrya7hhfsuhlprhd8hx/MACCHINA-OSMOSI-INVERSA-ARISTARCO-PAGINA-LISTINO.png?rlkey=1ex0sp7990pue7clkm2bzax66&dl=0?raw=1",
+                      "dimensione_kb": 115,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CALA DEL CITRO/CALA DEL CITRO CANTIERE MAGGIO 2026/MACCHINA OSMOSI INVERSA ARISTARCO PAGINA LISTINO.png"
+                    },
+                    {
+                      "nome": "OSMOSI INVERSA DESCRIZIONE ARISTARCO 2.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/9ezpv1m5t6tnr7akb28iw/OSMOSI-INVERSA-DESCRIZIONE-ARISTARCO-2.pdf?rlkey=ili2la81pi62i1m6gx18wq1d6&dl=0?raw=1",
+                      "dimensione_kb": 100,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CALA DEL CITRO/CALA DEL CITRO CANTIERE MAGGIO 2026/OSMOSI INVERSA DESCRIZIONE ARISTARCO 2.pdf"
+                    },
+                    {
+                      "nome": "OSMOSI INVERSA DESCRIZIONE ARISTARCO.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/qn4pt1o4my4aggq57xe4g/OSMOSI-INVERSA-DESCRIZIONE-ARISTARCO.pdf?rlkey=3iwvgpvsd43ir1d0m4a7ikm9e&dl=0?raw=1",
+                      "dimensione_kb": 230,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CALA DEL CITRO/CALA DEL CITRO CANTIERE MAGGIO 2026/OSMOSI INVERSA DESCRIZIONE ARISTARCO.pdf"
+                    },
+                    {
+                      "nome": "PRODUTTORE HOSHIZACHI SCHEDA TECNICA IM-65WPE-E_M113-D313-it.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/py6l5a9h5j7zp2x89s38l/PRODUTTORE-HOSHIZACHI-SCHEDA-TECNICA-IM-65WPE-E_M113-D313-it.pdf?rlkey=65pkgcwmbeyb2kgtxkumtig36&dl=0?raw=1",
+                      "dimensione_kb": 1878,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CALA DEL CITRO/CALA DEL CITRO CANTIERE MAGGIO 2026/PRODUTTORE HOSHIZACHI SCHEDA TECNICA IM-65WPE-E_M113-D313-it.pdf"
+                    },
+                    {
+                      "nome": "PRODUTTORE HOSHIZAKI MANUALE DI ISTRUZIONI ITALIANO MODELLO IM-65WPE l1m113205.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/n75aiofaihun8staom897/PRODUTTORE-HOSHIZAKI-MANUALE-DI-ISTRUZIONI-ITALIANO-MODELLO-IM-65WPE-l1m113205.pdf?rlkey=czjdaz8z707m96h6sno384ytz&dl=0?raw=1",
+                      "dimensione_kb": 1642,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CALA DEL CITRO/CALA DEL CITRO CANTIERE MAGGIO 2026/PRODUTTORE HOSHIZAKI MANUALE DI ISTRUZIONI ITALIANO MODELLO IM-65WPE l1m113205.pdf"
+                    },
+                    {
+                      "nome": "PRODUTTORE HOSHIZAKI MANUALE DI ISTRUZIONI MODELLO IM-65WPE l1m113205.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/by3vsom8c7w26uz2cdjg9/PRODUTTORE-HOSHIZAKI-MANUALE-DI-ISTRUZIONI-MODELLO-IM-65WPE-l1m113205.pdf?rlkey=c1ylywn59m7to42172iddsb5z&dl=0?raw=1",
+                      "dimensione_kb": 10747,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CALA DEL CITRO/CALA DEL CITRO CANTIERE MAGGIO 2026/PRODUTTORE HOSHIZAKI MANUALE DI ISTRUZIONI MODELLO IM-65WPE l1m113205.pdf"
+                    }
+                  ],
+                  "_totale_file": 7
+                },
+                {
                   "nome": "CALA DEL CITRO SITUAZIONE LOGISTICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CALA DEL CITRO/CALA DEL CITRO SITUAZIONE LOGISTICA",
                   "cartelle": [],
@@ -93396,7 +93460,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CALA DEL CITRO/stampaDisposizione_20241001093022.pdf"
                 }
               ],
-              "_totale_file": 35
+              "_totale_file": 42
             },
             {
               "nome": "CAMPING MARATEA",
@@ -100970,7 +101034,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 900
+          "_totale_file": 907
         },
         {
           "nome": "MARCELLINA",
@@ -125058,7 +125122,7 @@
                                   "nome": "IMG_0072.MOV",
                                   "tipo": "File",
                                   "icona": "📎",
-                                  "link": null,
+                                  "link": "https://www.dropbox.com/scl/fi/58z3gfqf1xd3pkpk6469m/IMG_0072.MOV?rlkey=cwc8oew8dt4fi4mxdeg7dba4k&dl=0?raw=1",
                                   "dimensione_kb": 1661,
                                   "path": "/HUB DOCUMENTALE/CLIENTI/SENISE/PASTICCERIA TUZIO/AREA TECNICA PASTICCERIA TUZIO/FORNO WIESHEU/Foto di iCloud/Foto di iCloud/IMG_0072.MOV"
                                 },
@@ -125066,7 +125130,7 @@
                                   "nome": "IMG_0073.JPEG",
                                   "tipo": "Immagine",
                                   "icona": "🖼️",
-                                  "link": null,
+                                  "link": "https://www.dropbox.com/scl/fi/8m38bta3l1oxwzq1jh7hz/IMG_0073.JPEG?rlkey=u8o6xd1n3rxkykcpumec51sp2&dl=0?raw=1",
                                   "dimensione_kb": 533,
                                   "path": "/HUB DOCUMENTALE/CLIENTI/SENISE/PASTICCERIA TUZIO/AREA TECNICA PASTICCERIA TUZIO/FORNO WIESHEU/Foto di iCloud/Foto di iCloud/IMG_0073.JPEG"
                                 },
@@ -125082,7 +125146,7 @@
                                   "nome": "IMG_0074.JPEG",
                                   "tipo": "Immagine",
                                   "icona": "🖼️",
-                                  "link": null,
+                                  "link": "https://www.dropbox.com/scl/fi/mt1kb6smksz2z8lldhi6o/IMG_0074.JPEG?rlkey=aovggbvt42zpcigj4d2hbhcjo&dl=0?raw=1",
                                   "dimensione_kb": 999,
                                   "path": "/HUB DOCUMENTALE/CLIENTI/SENISE/PASTICCERIA TUZIO/AREA TECNICA PASTICCERIA TUZIO/FORNO WIESHEU/Foto di iCloud/Foto di iCloud/IMG_0074.JPEG"
                                 },
@@ -125090,7 +125154,7 @@
                                   "nome": "IMG_0074.MOV",
                                   "tipo": "File",
                                   "icona": "📎",
-                                  "link": null,
+                                  "link": "https://www.dropbox.com/scl/fi/u028xa0z7wt4bkw6i9e56/IMG_0074.MOV?rlkey=2viiyx81vciy9q5hbl9iblofk&dl=0?raw=1",
                                   "dimensione_kb": 1745,
                                   "path": "/HUB DOCUMENTALE/CLIENTI/SENISE/PASTICCERIA TUZIO/AREA TECNICA PASTICCERIA TUZIO/FORNO WIESHEU/Foto di iCloud/Foto di iCloud/IMG_0074.MOV"
                                 },
@@ -125098,7 +125162,7 @@
                                   "nome": "IMG_0075.JPEG",
                                   "tipo": "Immagine",
                                   "icona": "🖼️",
-                                  "link": null,
+                                  "link": "https://www.dropbox.com/scl/fi/7k3fzb64cui4mife7wley/IMG_0075.JPEG?rlkey=ggc942ixbmn6qyymz2tx9qoen&dl=0?raw=1",
                                   "dimensione_kb": 1008,
                                   "path": "/HUB DOCUMENTALE/CLIENTI/SENISE/PASTICCERIA TUZIO/AREA TECNICA PASTICCERIA TUZIO/FORNO WIESHEU/Foto di iCloud/Foto di iCloud/IMG_0075.JPEG"
                                 },
@@ -125106,7 +125170,7 @@
                                   "nome": "IMG_0075.MOV",
                                   "tipo": "File",
                                   "icona": "📎",
-                                  "link": null,
+                                  "link": "https://www.dropbox.com/scl/fi/k3cuxcqagvr4yr7svcukz/IMG_0075.MOV?rlkey=4fkv0np0cjgb41gma5msohoi9&dl=0?raw=1",
                                   "dimensione_kb": 1063,
                                   "path": "/HUB DOCUMENTALE/CLIENTI/SENISE/PASTICCERIA TUZIO/AREA TECNICA PASTICCERIA TUZIO/FORNO WIESHEU/Foto di iCloud/Foto di iCloud/IMG_0075.MOV"
                                 },
@@ -128560,7 +128624,7 @@
                       "nome": "TIS45_Sostituzione del controllo motore EWD900Z_IT.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/ok1wx001wp7bq0exrye2r/TIS45_Sostituzione-del-controllo-motore-EWD900Z_IT.pdf?rlkey=6st1pfjf4bxl7ppbq67z3wbcv&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 165,
                       "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/NASTA BERARDINO/NASTA AREA TECNICA/TIS45_Sostituzione del controllo motore EWD900Z_IT.pdf"
                     },
@@ -129966,7 +130030,7 @@
                   "nome": "WhatsApp Image 2023-04-17 at 10.33.46.jpeg",
                   "tipo": "Immagine",
                   "icona": "🖼️",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/dsxhx8b9tlwvfait914rk/WhatsApp-Image-2023-04-17-at-10.33.46.jpeg?rlkey=hed86gthf9fcwm8p21plwmnop&dl=0?raw=1",
                   "dimensione_kb": 35,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR CHIOSCO/WhatsApp Image 2023-04-17 at 10.33.46.jpeg"
                 }
