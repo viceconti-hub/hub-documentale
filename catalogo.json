@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-31T05:12:24Z",
-  "totale_file": 25166,
+  "generato": "2026-05-31T07:30:31Z",
+  "totale_file": 25169,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -176696,7 +176696,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5154,
+      "totale_file": 5157,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -177032,6 +177032,30 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEAM INOX SRL Entrata merci da fornitore_260047_20260513_172318.pdf"
             },
             {
+              "nome": "IDEAM INOX SRL Entrata merci da fornitore_260100_20260529_171605 RIF. RUGGIERO MARIACHIARA + MeM Basato su Ordini d'acquisto 26007.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/i2xyb007h2t1a5sc3vszr/IDEAM-INOX-SRL-Entrata-merci-da-fornitore_260100_20260529_171605-RIF.-RUGGIERO-MARIACHIARA-MeM-Basato-su-Ordini-d-acquisto-26007.pdf?rlkey=xjc0gah629fxr8pp5thdrk0bs&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEAM INOX SRL Entrata merci da fornitore_260100_20260529_171605 RIF. RUGGIERO MARIACHIARA + MeM Basato su Ordini d'acquisto 26007.pdf"
+            },
+            {
+              "nome": "IDEAM INOX SRL Entrata merci da fornitore_260101_20260529_191737 RIF. M&M E FA TU Basato su Ordini d'acquisto 260064. 260070..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c21dybs1nfz1t1oe1560o/IDEAM-INOX-SRL-Entrata-merci-da-fornitore_260101_20260529_191737-RIF.-M-M-E-FA-TU-Basato-su-Ordini-d-acquisto-260064.-260070..pdf?rlkey=vnklzwj4s0adab71h8atondis&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEAM INOX SRL Entrata merci da fornitore_260101_20260529_191737 RIF. M&M E FA TU Basato su Ordini d'acquisto 260064. 260070..pdf"
+            },
+            {
+              "nome": "IDEAM INOX SRL Entrata merci da fornitore_260102_20260529_192152 RIF. CAMPOLEROSE VENTILATORE VTC 1818 C e INVERTER INV4 Basato su CAMPOLEROSE VENTILATORE E INVERTER.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/z3d7ikuqi6zhhju29x66o/IDEAM-INOX-SRL-Entrata-merci-da-fornitore_260102_20260529_192152-RIF.-CAMPOLEROSE-VENTILATORE-VTC-1818-C-e-INVERTER-INV4-Basato-su-CAMPOLEROSE-VENTILATORE-E-INVERTER.pdf?rlkey=fwoz2bu5zrp2v0goitbixfha2&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEAM INOX SRL Entrata merci da fornitore_260102_20260529_192152 RIF. CAMPOLEROSE VENTILATORE VTC 1818 C e INVERTER INV4 Basato su CAMPOLEROSE VENTILATORE E INVERTER.pdf"
+            },
+            {
               "nome": "KRUPPS DDT_002726 RIF. NERA KIT DISPLAY + MAG .pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -177280,7 +177304,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/STAFF ddt 510.pdf"
             }
           ],
-          "_totale_file": 72
+          "_totale_file": 75
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -201605,7 +201629,7 @@
                               "nome": "Packing list ordine n°22-05591.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": null,
+                              "link": "https://www.dropbox.com/scl/fi/r7br7u8wjjohoscrr6r3g/Packing-list-ordine-n-22-05591.pdf?rlkey=712rtprarafql9j4ul0awdh6b&dl=0?raw=1",
                               "dimensione_kb": 67,
                               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE ORDINI D'ACQUISTO/COLDLINE PACKING LIST/PACKING LIST ARCHIVIO/Packing list ordine n°22-05591.pdf"
                             }
