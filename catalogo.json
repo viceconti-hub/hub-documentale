@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-31T02:28:15Z",
-  "totale_file": 25156,
+  "generato": "2026-05-31T05:12:24Z",
+  "totale_file": 25166,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5582,
+      "totale_file": 5592,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -46,6 +46,14 @@
               "link": "https://www.dropbox.com/scl/fi/943hm2ndw9mbho0k6jxrw/ACAL-SRL-Consegna_260099_20260529_132321-RIF.-ASSISTENZA-SU-FORNO-RATIONAL-SOSTITUZIONE-LAMPADINA-LUCE-CAM.pdf?rlkey=kok1ojw7011opklu3txug94bt&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ACAL SRL Consegna_260099_20260529_132321 RIF. ASSISTENZA SU FORNO RATIONAL SOSTITUZIONE LAMPADINA LUCE CAM.pdf"
+            },
+            {
+              "nome": "ACAL SRL Consegna_260309_20260530_102148 RIF. DETERGENTE RATIONAL, ALZATE Basato su Ordini cliente 260179..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/an399u0rlryta5nf9fpeh/ACAL-SRL-Consegna_260309_20260530_102148-RIF.-DETERGENTE-RATIONAL-ALZATE-Basato-su-Ordini-cliente-260179..pdf?rlkey=eapv2r16p8be8tcv93d3em18g&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ACAL SRL Consegna_260309_20260530_102148 RIF. DETERGENTE RATIONAL, ALZATE Basato su Ordini cliente 260179..pdf"
             },
             {
               "nome": "AGUA LOCA DI D'IMPERIO NICOLA Consegna_260286_20260523_093138 RIF. Basato su Ordini cliente 260164..pdf",
@@ -232,6 +240,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260264_20260510_123412.pdf"
             },
             {
+              "nome": "GRAN SOLE S.r.l. Consegna_260307_20260530_100652 RIF. ACCESSORI PRESSO PUNTO VENDITA DI MARATEA Basato su Ordini c.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/x19gubmd0gunbpbmunykh/GRAN-SOLE-S.r.l.-Consegna_260307_20260530_100652-RIF.-ACCESSORI-PRESSO-PUNTO-VENDITA-DI-MARATEA-Basato-su-Ordini-c.pdf?rlkey=a96tubz9rnb8qi3n5a4e53zqd&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260307_20260530_100652 RIF. ACCESSORI PRESSO PUNTO VENDITA DI MARATEA Basato su Ordini c.pdf"
+            },
+            {
               "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260268_20260513_112936 RIF. DETERGENTE LAVABAR.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -248,6 +264,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260301_20260527_091948 RIF. PRODUTTORE DI GHIACCIO IN COMODATO.pdf"
             },
             {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260304_20260529_161919 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260177..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/crb1lit61rl274re5jlxw/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Consegna_260304_20260529_161919-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260177..pdf?rlkey=woycc5r68548ebx47e9wrtmoq&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260304_20260529_161919 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260177..pdf"
+            },
+            {
               "nome": "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Consegna_260298_20260527_091623 RIF. LAVABAR IN COMODATO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -262,6 +286,14 @@
               "link": "https://www.dropbox.com/scl/fi/0qsj5h6w16730plwhd5dc/I-SAPORI-DI-MARIANNA-TRATTORIA-E-CUCINA-D-ASPORTO-DI-PEZZULLO-MARIANNA-Consegna_260267_20260512_101043-RIF.-TAGLIO-PER-IMPERIA-E-ADATTATORE.pdf?rlkey=9b4hjo1o06igr4oxqxrk1l12f&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260267_20260512_101043 RIF. TAGLIO PER IMPERIA E ADATTATORE.pdf"
+            },
+            {
+              "nome": "IELPO NICOLA Consegna_260306_20260530_091529 RIF. Basato su Ordini cliente 260152. AFFETTATRICE IDEA 25 CASA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1sviq4qqk2fndle4ourbi/IELPO-NICOLA-Consegna_260306_20260530_091529-RIF.-Basato-su-Ordini-cliente-260152.-AFFETTATRICE-IDEA-25-CASA.pdf?rlkey=1ynasq3nn9oleiwk2osa8mo8z&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IELPO NICOLA Consegna_260306_20260530_091529 RIF. Basato su Ordini cliente 260152. AFFETTATRICE IDEA 25 CASA.pdf"
             },
             {
               "nome": "IL LUCANO SRLS Consegna_260272_20260515_123039 RIF. PINZA PER AFFETTATTI.pdf",
@@ -304,6 +336,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA TANA GROUP SRL Consegna_260285_20260523_090702 RIF. SEDIA IN POLIPROPILENE MOD. CHIAVARINA, COLORE BIANCO, IMPIL.pdf"
             },
             {
+              "nome": "LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA Consegna_260308_20260530_101436.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/22wyo4sgb02jukx014hph/LACAVA-VINCENZO-SOCIETA-A-RESPONSABILITA-LIMITATA-Consegna_260308_20260530_101436.pdf?rlkey=21vdare6grv3k016iso6yvc50&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA Consegna_260308_20260530_101436.pdf"
+            },
+            {
               "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260273_20260515_124403 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -334,6 +374,14 @@
               "link": "https://www.dropbox.com/scl/fi/olzi3uz5d1blk924f5nei/LO-RUSSO-VITO-Consegna_260281_20260520_184534-RIF.-Basato-su-Ordini-cliente-260139.-GRIGLIE-PLASTIFICATE-COLDLINE.pdf?rlkey=ns3hh5q8e8c7isb49hdvrkagu&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LO RUSSO VITO Consegna_260281_20260520_184534 RIF. Basato su Ordini cliente 260139. GRIGLIE PLASTIFICATE COLDLINE.pdf"
+            },
+            {
+              "nome": "PIZZERIA DA ANGELO DI IACUZIO ANGELO Consegna_260305_20260529_170408 RIF. PALETTINO PIZZA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sakbvytufx2xgja5fat9r/PIZZERIA-DA-ANGELO-DI-IACUZIO-ANGELO-Consegna_260305_20260529_170408-RIF.-PALETTINO-PIZZA.pdf?rlkey=7awvndzr5t2iie44fup9xv8oy&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PIZZERIA DA ANGELO DI IACUZIO ANGELO Consegna_260305_20260529_170408 RIF. PALETTINO PIZZA.pdf"
             },
             {
               "nome": "SIRTAKI S.R.L.S Consegna_260287_20260523_093606 RIF. DETERGENTE.pdf",
@@ -368,7 +416,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/VELARDI Srl Consegna_260271_20260515_100703 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 44
+          "_totale_file": 50
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -58379,6 +58427,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ACAL SRL Ordine cliente_260172_20260527_081809 RIF. MENSOLA A PONTE 2 RIPIANI 140 X 40 AGGANCI LATERALI.pdf"
             },
             {
+              "nome": "ACAL SRL Ordine cliente_260179_20260530_102127 RIF. DETERGENTE RATIONAL, ALZATE E TUBETTO LUBRIFICANTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/592ipanu29kiat6gy7zdx/ACAL-SRL-Ordine-cliente_260179_20260530_102127-RIF.-DETERGENTE-RATIONAL-ALZATE-E-TUBETTO-LUBRIFICANTE.pdf?rlkey=3dosifymnpxbpml43c2wo9h3d&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ACAL SRL Ordine cliente_260179_20260530_102127 RIF. DETERGENTE RATIONAL, ALZATE E TUBETTO LUBRIFICANTE.pdf"
+            },
+            {
               "nome": "AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260164_20260523_093129.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58523,12 +58579,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GIOIA AURELIO Ordine cliente_260162_20260522_151910 RIF. TEGLIA IN LAMIERA BLU Basato su Offerte di vendita 260183..pdf"
             },
             {
+              "nome": "GRAN SOLE S.r.l. Ordine cliente_260178_20260530_100638 RIF. ACCESSORI PRESSO PUNTO VENDITA DI MARATEA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u4ayf2eqvpu1zrokqm0jb/GRAN-SOLE-S.r.l.-Ordine-cliente_260178_20260530_100638-RIF.-ACCESSORI-PRESSO-PUNTO-VENDITA-DI-MARATEA.pdf?rlkey=kei9gvf8qj96za0jispycrd2j&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GRAN SOLE S.r.l. Ordine cliente_260178_20260530_100638 RIF. ACCESSORI PRESSO PUNTO VENDITA DI MARATEA.pdf"
+            },
+            {
               "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260144_20260513_111800 RIF. DETERGENTE LAVABAR.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/dxavwmzse1jsurwifygca/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Ordine-cliente_260144_20260513_111800-RIF.-DETERGENTE-LAVABAR.pdf?rlkey=7wv8lmv3dis98ia3er7sg5bgh&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260144_20260513_111800 RIF. DETERGENTE LAVABAR.pdf"
+            },
+            {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260177_20260529_161905 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ptjw629amd8tdfjrzzbfc/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Ordine-cliente_260177_20260529_161905-RIF.-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=x7f4mtyfjrsent1aqyytfcvxl&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260177_20260529_161905 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
             },
             {
               "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260153_20260518_170835 RIF. Basato su Offerte di vendita 260173..pdf",
@@ -58667,6 +58739,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/OCTO SRLS Ordine cliente_260001_20260510_210215 RIF. prova.pdf"
             },
             {
+              "nome": "PANAINO SRL UNIPERSONALE Ordine cliente_260176_20260529_133953 RIF. TAVOLO REFRIGERATO Basato su Offerte di vendita 260167. 2601.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/og7bmzbbys1kmc2ep9f72/PANAINO-SRL-UNIPERSONALE-Ordine-cliente_260176_20260529_133953-RIF.-TAVOLO-REFRIGERATO-Basato-su-Offerte-di-vendita-260167.-2601.pdf?rlkey=fcm1rufg7v8z80axtdeask7af&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PANAINO SRL UNIPERSONALE Ordine cliente_260176_20260529_133953 RIF. TAVOLO REFRIGERATO Basato su Offerte di vendita 260167. 2601.pdf"
+            },
+            {
               "nome": "Ristorante SANTA LUCIA DI APICELLA TERESA Ordine cliente_260123_20260513_131748 RIF. ATTREZZATURE URGENTE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -58731,7 +58811,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 45
+          "_totale_file": 49
         }
       ],
       "file": []
