@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-04T06:41:27Z",
-  "totale_file": 24826,
+  "generato": "2026-06-04T07:42:37Z",
+  "totale_file": 24828,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -217510,7 +217510,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2368,
+      "totale_file": 2370,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -238088,6 +238088,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARISTARCO Dettaglio bonifico istantaneo DEL 20_05_2026.pdf"
             },
             {
+              "nome": "ARISTARCO RICEVUTA AR DEL 29_05_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/t0w7a1kjsaxm7r2h7u1tt/ARISTARCO-RICEVUTA-AR-DEL-29_05_2026.pdf?rlkey=eq1k61tc12pwpq6ect5hlhfdx&dl=0?raw=1",
+              "dimensione_kb": 1462,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARISTARCO RICEVUTA AR DEL 29_05_2026.pdf"
+            },
+            {
               "nome": "ARISTARCO TITOLI BPER APRILE_LUGLIO_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -238190,6 +238198,14 @@
               "link": "https://www.dropbox.com/scl/fi/425mnpx6datjez7yzv15m/COLDLINE-COPIA-TITOLI-MPS-AR-04_03_2026.pdf?rlkey=d5hw6fvmewhi6jkxyd1hsgofm&dl=0?raw=1",
               "dimensione_kb": 267,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE COPIA TITOLI MPS AR 04_03_2026.pdf"
+            },
+            {
+              "nome": "COLDLINE COPIA TITOLI MPS AR 29_05_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sf5pjxq9lvzkovdj9nho4/COLDLINE-COPIA-TITOLI-MPS-AR-29_05_2026.pdf?rlkey=7l7yeq0accb35kiakkiihel0d&dl=0?raw=1",
+              "dimensione_kb": 926,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE COPIA TITOLI MPS AR 29_05_2026.pdf"
             },
             {
               "nome": "COLDLINE Dettaglio bonifico istantaneo DEL 13_05_2026.pdf",
@@ -238808,7 +238824,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2348
+          "_totale_file": 2350
         }
       ],
       "file": []
