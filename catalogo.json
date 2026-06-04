@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-05-31T09:00:52Z",
-  "totale_file": 25169,
+  "generato": "2026-06-04T00:14:22Z",
+  "totale_file": 25170,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -63791,7 +63791,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7101,
+      "totale_file": 7102,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -81175,8 +81175,8 @@
                       "_totale_file": 4
                     },
                     {
-                      "nome": "RATIONAL PAUSA",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CENTRAL MARKET/CENTRAL MARKET AREA TECNICA/RATIONAL PAUSA",
+                      "nome": "RATIONAL SCC 61 E MATRICOLA E61SI17092615423",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CENTRAL MARKET/CENTRAL MARKET AREA TECNICA/RATIONAL SCC 61 E MATRICOLA E61SI17092615423",
                       "cartelle": [],
                       "file": [
                         {
@@ -81185,7 +81185,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/y2i5vnnchdbc04o9gir15/RATIONAL-PAUSA-DATI-MACCHINA.jpeg?rlkey=ed6yw8vtv5gf5etgnu7mtwvdq&dl=0?raw=1",
                           "dimensione_kb": 95,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CENTRAL MARKET/CENTRAL MARKET AREA TECNICA/RATIONAL PAUSA/RATIONAL PAUSA DATI MACCHINA.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CENTRAL MARKET/CENTRAL MARKET AREA TECNICA/RATIONAL SCC 61 E MATRICOLA E61SI17092615423/RATIONAL PAUSA DATI MACCHINA.jpeg"
                         }
                       ],
                       "_totale_file": 1
@@ -130315,6 +130315,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ComunicazioneMessaServizio.pdf"
                 },
                 {
+                  "nome": "Fattura di vendita - Bozza documento_2600121_20260603_185532.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7cbx3y8227iho6wujl9h3/Fattura-di-vendita-Bozza-documento_2600121_20260603_185532.pdf?rlkey=y21n6obuxck2vz2nmmc2xdaqg&dl=0?raw=1",
+                  "dimensione_kb": 81,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/Fattura di vendita - Bozza documento_2600121_20260603_185532.pdf"
+                },
+                {
                   "nome": "Schizzo Vista A Pasticceria VICECONTI NICOLA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -130347,7 +130355,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/modello_inizio-fine_utilizzo_strumenti_di_misura_art._8_d.m._93_.pdf"
                 }
               ],
-              "_totale_file": 37
+              "_totale_file": 38
             },
             {
               "nome": "BAR CHIOSCO",
@@ -132808,7 +132816,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/Fattura anticipo cliente_2510012_20250710_103114.pdf"
             }
           ],
-          "_totale_file": 287
+          "_totale_file": 288
         },
         {
           "nome": "TROPEA",
