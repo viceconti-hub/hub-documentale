@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-05T09:14:44Z",
-  "totale_file": 24846,
+  "generato": "2026-06-06T00:20:42Z",
+  "totale_file": 24847,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -64727,7 +64727,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7102,
+      "totale_file": 7103,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -133753,6 +133753,22 @@
             }
           ],
           "_totale_file": 288
+        },
+        {
+          "nome": "TRIESTE",
+          "path": "/HUB DOCUMENTALE/CLIENTI/TRIESTE",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "modulo anagrafica fornitore ITA.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/pgxnoihvct4859749xbtk/modulo-anagrafica-fornitore-ITA.docx?rlkey=kv6wy00l748g99gko9ssflsyq&dl=0?raw=1",
+              "dimensione_kb": 40,
+              "path": "/HUB DOCUMENTALE/CLIENTI/TRIESTE/modulo anagrafica fornitore ITA.docx"
+            }
+          ],
+          "_totale_file": 1
         },
         {
           "nome": "TROPEA",
