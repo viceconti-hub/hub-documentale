@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-06T00:20:42Z",
-  "totale_file": 24847,
+  "generato": "2026-06-06T02:16:51Z",
+  "totale_file": 24853,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -135564,7 +135564,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4360,
+      "totale_file": 4366,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -140700,6 +140700,22 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA ARCHIVIO/Brema LISTINO 2019.pdf"
                 },
                 {
+                  "nome": "Gmail - BREMA GROUP _ Sabrina Magistroni - Customer Service.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kd76xsazazbir6qiky3t0/Gmail-BREMA-GROUP-_-Sabrina-Magistroni-Customer-Service.pdf?rlkey=fjzfqpagtih7zmfems4zet1y6&dl=0?raw=1",
+                  "dimensione_kb": 342,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA ARCHIVIO/Gmail - BREMA GROUP _ Sabrina Magistroni - Customer Service.pdf"
+                },
+                {
+                  "nome": "Gmail - R_ RICHIESTA LISTINI AGGIORNATI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5beuz1ch9xlqe3gh1q2ou/Gmail-R_-RICHIESTA-LISTINI-AGGIORNATI.pdf?rlkey=zdn1vmx0oubhbxr61ls0eei8e&dl=0?raw=1",
+                  "dimensione_kb": 206,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA ARCHIVIO/Gmail - R_ RICHIESTA LISTINI AGGIORNATI.pdf"
+                },
+                {
                   "nome": "LISTINO BREMA 2023-2024 Rev 01.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -140716,6 +140732,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA ARCHIVIO/LRICAMBI_0_LISTINO_PREZZI_RICAMBI_2022.01.pdf"
                 },
                 {
+                  "nome": "LRICAMBI_IN_VIGORE_DAL_01_09_2022_ITA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wnrtmkwk171hofa37joq2/LRICAMBI_IN_VIGORE_DAL_01_09_2022_ITA.pdf?rlkey=f0qj6j07jrzn4ehiy9euzo5bf&dl=0?raw=1",
+                  "dimensione_kb": 178,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA ARCHIVIO/LRICAMBI_IN_VIGORE_DAL_01_09_2022_ITA.pdf"
+                },
+                {
                   "nome": "Listino BREMA 2022_new.01.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -140724,7 +140748,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA ARCHIVIO/Listino BREMA 2022_new.01.pdf"
                 }
               ],
-              "_totale_file": 12
+              "_totale_file": 15
             },
             {
               "nome": "BREMA AREA TECNICA",
@@ -140888,6 +140912,46 @@
                       "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA AREA TECNICA/BREMA ESPLOSI/BREMA ESPLOSO IMF28HC.pdf"
                     },
                     {
+                      "nome": "BREMA ESPLOSO IMF35 2007 12 - REV.3 document REPA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/8eirzu28ow0ow6mnsek4r/BREMA-ESPLOSO-IMF35-2007-12-REV.3-document-REPA.pdf?rlkey=g9rxyu72gzyscg052693hv4ok&dl=0?raw=1",
+                      "dimensione_kb": 646,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA AREA TECNICA/BREMA ESPLOSI/BREMA ESPLOSO IMF35 2007 12 - REV.3 document REPA.pdf"
+                    },
+                    {
+                      "nome": "BREMA ESPLOSO IMF35 2008 04 - REV.4 document REPA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/8ht8wtet6qvrtpudmownq/BREMA-ESPLOSO-IMF35-2008-04-REV.4-document-REPA.pdf?rlkey=p303xu5f3wtccdnxa38ya7v67&dl=0?raw=1",
+                      "dimensione_kb": 671,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA AREA TECNICA/BREMA ESPLOSI/BREMA ESPLOSO IMF35 2008 04 - REV.4 document REPA.pdf"
+                    },
+                    {
+                      "nome": "BREMA ESPLOSO IMF35 2019 03 12 - REV.10 document REPA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/klrfksxmxzusbukc9kwpw/BREMA-ESPLOSO-IMF35-2019-03-12-REV.10-document-REPA.pdf?rlkey=pcjq1wqld5lynyf0kquuk4ucs&dl=0?raw=1",
+                      "dimensione_kb": 399,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA AREA TECNICA/BREMA ESPLOSI/BREMA ESPLOSO IMF35 2019 03 12 - REV.10 document REPA.pdf"
+                    },
+                    {
+                      "nome": "BREMA ESPLOSO IMF35 HC 2019 03 12 - REV.02 document REPA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/syrd66farxdx11r0ds150/BREMA-ESPLOSO-IMF35-HC-2019-03-12-REV.02-document-REPA.pdf?rlkey=y4dpq6hjkswtr5gersrqhw6np&dl=0?raw=1",
+                      "dimensione_kb": 343,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA AREA TECNICA/BREMA ESPLOSI/BREMA ESPLOSO IMF35 HC 2019 03 12 - REV.02 document REPA.pdf"
+                    },
+                    {
+                      "nome": "BREMA ESPLOSO IMF35 HC 2024 04 29 - REV.04 document REPA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/r7pd28jmdg9yemsv0aomj/BREMA-ESPLOSO-IMF35-HC-2024-04-29-REV.04-document-REPA.pdf?rlkey=ny7yavvsuv9ag2f6i0mhlkkbw&dl=0?raw=1",
+                      "dimensione_kb": 476,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA AREA TECNICA/BREMA ESPLOSI/BREMA ESPLOSO IMF35 HC 2024 04 29 - REV.04 document REPA.pdf"
+                    },
+                    {
                       "nome": "BREMA ESPLOSO IMF35.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -140928,7 +140992,7 @@
                       "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA AREA TECNICA/BREMA ESPLOSI/BREMA SCHEMA ELETTRICO CB416.pdf"
                     }
                   ],
-                  "_totale_file": 24
+                  "_totale_file": 29
                 },
                 {
                   "nome": "RICHIESTA RICAMBIO IN GARANZIA 10_08_2021",
@@ -140964,7 +141028,7 @@
                 }
               ],
               "file": [],
-              "_totale_file": 27
+              "_totale_file": 32
             },
             {
               "nome": "BREMA SCHEDE TECNICHE",
@@ -141001,47 +141065,23 @@
           ],
           "file": [
             {
-              "nome": "BREMA_LISTINO DA 9 GIUGNO 2025.pdf",
+              "nome": "001.BREMA LISTINO 2025 dal 09_06.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/juzuee0xaddcc6nmztxuu/BREMA_LISTINO-DA-9-GIUGNO-2025.pdf?rlkey=zxw92lovfndgs2kiitakf2u99&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/rllvl3yjai0noaq0tjxf1/001.BREMA-LISTINO-2025-dal-09_06.pdf?rlkey=wr9o0yjbr2byr7pc5hbbhne77&dl=0?raw=1",
               "dimensione_kb": 124,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA_LISTINO DA 9 GIUGNO 2025.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/001.BREMA LISTINO 2025 dal 09_06.pdf"
             },
             {
-              "nome": "Gmail - BREMA GROUP _ Sabrina Magistroni - Customer Service.pdf",
+              "nome": "001.BREMA LISTINO_RICAMBI_2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/kd76xsazazbir6qiky3t0/Gmail-BREMA-GROUP-_-Sabrina-Magistroni-Customer-Service.pdf?rlkey=fjzfqpagtih7zmfems4zet1y6&dl=0?raw=1",
-              "dimensione_kb": 342,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/Gmail - BREMA GROUP _ Sabrina Magistroni - Customer Service.pdf"
-            },
-            {
-              "nome": "Gmail - R_ RICHIESTA LISTINI AGGIORNATI.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/5beuz1ch9xlqe3gh1q2ou/Gmail-R_-RICHIESTA-LISTINI-AGGIORNATI.pdf?rlkey=zdn1vmx0oubhbxr61ls0eei8e&dl=0?raw=1",
-              "dimensione_kb": 206,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/Gmail - R_ RICHIESTA LISTINI AGGIORNATI.pdf"
-            },
-            {
-              "nome": "LISTINO BREMA 2025 dal 09_06.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/rllvl3yjai0noaq0tjxf1/LISTINO-BREMA-2025-dal-09_06.pdf?rlkey=wr9o0yjbr2byr7pc5hbbhne77&dl=0?raw=1",
-              "dimensione_kb": 124,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/LISTINO BREMA 2025 dal 09_06.pdf"
-            },
-            {
-              "nome": "LRICAMBI_IN_VIGORE_DAL_01_09_2022_ITA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/wnrtmkwk171hofa37joq2/LRICAMBI_IN_VIGORE_DAL_01_09_2022_ITA.pdf?rlkey=f0qj6j07jrzn4ehiy9euzo5bf&dl=0?raw=1",
-              "dimensione_kb": 178,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/LRICAMBI_IN_VIGORE_DAL_01_09_2022_ITA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/qx8g28yddrogvw49hron2/001.BREMA-LISTINO_RICAMBI_2025.pdf?rlkey=sy9at4gykkw1wnm40u1huwjef&dl=0?raw=1",
+              "dimensione_kb": 189,
+              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/001.BREMA LISTINO_RICAMBI_2025.pdf"
             }
           ],
-          "_totale_file": 47
+          "_totale_file": 52
         },
         {
           "nome": "BRITA",
@@ -141139,6 +141179,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/BRT/630406631.PDF"
             },
             {
+              "nome": "BRT DELEGA PER RITIRO IN FERMO DEPOSITO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9j22l0cepiuqblgua81lo/BRT-DELEGA-PER-RITIRO-IN-FERMO-DEPOSITO.pdf?rlkey=aqyhikbskndqec88966te87wk&dl=0?raw=1",
+              "dimensione_kb": 26,
+              "path": "/HUB DOCUMENTALE/FORNITORI/BRT/BRT DELEGA PER RITIRO IN FERMO DEPOSITO.pdf"
+            },
+            {
               "nome": "BRT documento_di_ritiro3 (Copia in conflitto di prospero-PC 2019-02-18).xls",
               "tipo": "Excel",
               "icona": "📊",
@@ -141163,7 +141211,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/BRT/INVIOMORA_705363_000003_4009609.PDF"
             }
           ],
-          "_totale_file": 6
+          "_totale_file": 7
         },
         {
           "nome": "BWT",
