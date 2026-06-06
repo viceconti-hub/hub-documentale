@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-06T02:16:51Z",
-  "totale_file": 24853,
+  "generato": "2026-06-06T04:58:39Z",
+  "totale_file": 24866,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5709,
+      "totale_file": 5722,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -816,6 +816,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NERA SRL Consegna_260348_20260602_220442 RIF. ASSISTENZA SU COMPLESSO DI MACCHINE CONTROLLO GENERICO ATTRE.pdf"
             },
             {
+              "nome": "NERA SRL Consegna_260377_20260605_110151 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260186. RE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1kzdavm6yxvhame9mo4f5/NERA-SRL-Consegna_260377_20260605_110151-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260186.-RE.pdf?rlkey=ephxwyfm5n7i3of5lwnrtugxa&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NERA SRL Consegna_260377_20260605_110151 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260186. RE.pdf"
+            },
+            {
               "nome": "PASTICCERIA ARTE DOLCIARIA TRECCHINESE Consegna_260259_20260603_190259 RIF. ARMADIO FRIGO SMART A701ME INOX,1PORTA,-2°+8°C USATO, IN COM.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -862,6 +870,14 @@
               "link": "https://www.dropbox.com/scl/fi/hc0uu0wu5lur2d1upznvi/Panificio-FERRARO-di-SCHETTINI-ANGELO-A.-Consegna_260361_20260602_224452-RIF.-ASSISTENZA-SU-TERMOIMPELLICOLATRICE-SOSTITUZIONE-RESISTENZA.pdf?rlkey=dpl6hx484uumhwcwl6kbdhiv5&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio FERRARO di SCHETTINI ANGELO A. Consegna_260361_20260602_224452 RIF. ASSISTENZA SU TERMOIMPELLICOLATRICE SOSTITUZIONE RESISTENZA.pdf"
+            },
+            {
+              "nome": "RUGGIERO MARIACHIARA Consegna_260376_20260605_105653 RIF. CASSETTE PIZZA E TEGLIE Basato su Offerte di vendita 260195..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2lpjescwucp3yu9et5ol5/RUGGIERO-MARIACHIARA-Consegna_260376_20260605_105653-RIF.-CASSETTE-PIZZA-E-TEGLIE-Basato-su-Offerte-di-vendita-260195..pdf?rlkey=iue4iqk8kq7k03t4c3xfrivjd&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/RUGGIERO MARIACHIARA Consegna_260376_20260605_105653 RIF. CASSETTE PIZZA E TEGLIE Basato su Offerte di vendita 260195..pdf"
             },
             {
               "nome": "SIRTAKI S.R.L.S Consegna_260287_20260523_093606 RIF. DETERGENTE.pdf",
@@ -968,13 +984,21 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 119
+          "_totale_file": 121
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
           "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF",
           "cartelle": [],
           "file": [
+            {
+              "nome": "3AM SRL HOTEL MARTINO Fattura di vendita_2600165_20260605_105840 RIF. DETERGENTE RATIONAL VERDE Basato su Ordini cliente 260184. B.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/781n8dwt272qte5k4eiw5/3AM-SRL-HOTEL-MARTINO-Fattura-di-vendita_2600165_20260605_105840-RIF.-DETERGENTE-RATIONAL-VERDE-Basato-su-Ordini-cliente-260184.-B.pdf?rlkey=810ojkcnl3li76lz53w1hmrf1&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/3AM SRL HOTEL MARTINO Fattura di vendita_2600165_20260605_105840 RIF. DETERGENTE RATIONAL VERDE Basato su Ordini cliente 260184. B.pdf"
+            },
             {
               "nome": "CORRADO MICHELA Fattura di vendita_2600120_20260603_122422 RIF. ARMADIO CONGELATORE E IMPASTATRICE Basato su Consegne 260212.pdf",
               "tipo": "PDF",
@@ -1296,6 +1320,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/RISTO BRACERIA A L'URMO SNC di IANNELLI OTTAVIO & C. Fattura di vendita_2600162_20260604_161201 RIF. ASSISTENZA SU Griglia TecnoInox modello GR70E-0, matricola 3.pdf"
             },
             {
+              "nome": "RUGGIERO MARIACHIARA Fattura di vendita_2600164_20260605_105718 RIF. CASSETTE PIZZA E TEGLIE Basato su Offerte di vendita 260195..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/etg8rn7dl07nd6bpxd19v/RUGGIERO-MARIACHIARA-Fattura-di-vendita_2600164_20260605_105718-RIF.-CASSETTE-PIZZA-E-TEGLIE-Basato-su-Offerte-di-vendita-260195..pdf?rlkey=qqfpr7hbee0lnmdf86rb3qep1&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/RUGGIERO MARIACHIARA Fattura di vendita_2600164_20260605_105718 RIF. CASSETTE PIZZA E TEGLIE Basato su Offerte di vendita 260195..pdf"
+            },
+            {
+              "nome": "VANITY COFFEE BAR di OLIVA NICOLINA Fattura di vendita_2600166_20260605_110412 RIF. DETERGENTE LAVABAR Basato su Ordini cliente 260187..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ungrtk936hzcrsm4s5x9s/VANITY-COFFEE-BAR-di-OLIVA-NICOLINA-Fattura-di-vendita_2600166_20260605_110412-RIF.-DETERGENTE-LAVABAR-Basato-su-Ordini-cliente-260187..pdf?rlkey=qauk9qittkywihm07ttwvqezo&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/VANITY COFFEE BAR di OLIVA NICOLINA Fattura di vendita_2600166_20260605_110412 RIF. DETERGENTE LAVABAR Basato su Ordini cliente 260187..pdf"
+            },
+            {
               "nome": "VELARDI Srl Fattura di vendita_2600101_20260515_172849 RIF. ARREDO INOX PIAZZA EUROPA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1304,13 +1344,21 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/VELARDI Srl Fattura di vendita_2600101_20260515_172849 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 41
+          "_totale_file": 44
         },
         {
           "nome": "OFFERTE DI VENDITA",
           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA",
           "cartelle": [],
           "file": [
+            {
+              "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Offerta di vendita_250102_20260604_192253 RIF. BANDO INVIATA TRAMITE PEC.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5goui5hlopiy1rbutuq7w/AZIENDA-AGRICOLA-LA-CAPPELLINA-DI-ROSA-FORASTIERO-Offerta-di-vendita_250102_20260604_192253-RIF.-BANDO-INVIATA-TRAMITE-PEC.pdf?rlkey=4slpr60rc560okfpfb9hf0la8&dl=0?raw=1",
+              "dimensione_kb": 90,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Offerta di vendita_250102_20260604_192253 RIF. BANDO INVIATA TRAMITE PEC.pdf"
+            },
             {
               "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Offerta di vendita_260143_20260519_200817.pdf",
               "tipo": "PDF",
@@ -1454,6 +1502,22 @@
               "link": "https://www.dropbox.com/scl/fi/yr2luqap28xaxe8jopiw3/DA-SPECIFICARE-Offerta-di-vendita_260189_20260527_120008-RIF.-COLTELLI.pdf?rlkey=f1jlwgw9y4f42whq6hcaz6n5n&dl=0?raw=1",
               "dimensione_kb": 74,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260189_20260527_120008 RIF. COLTELLI.pdf"
+            },
+            {
+              "nome": "DE FILIPPO ROCCO Offerta di vendita_260194_20260605_111616 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f7f7ormk56trk6ud8dxhg/DE-FILIPPO-ROCCO-Offerta-di-vendita_260194_20260605_111616-RIF.-LAVASTOVIGLIE-ARISTARCO-CON-POMPA-DI-SCARICO.pdf?rlkey=46anu1yuvok0g0pjwr8wv4s1m&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DE FILIPPO ROCCO Offerta di vendita_260194_20260605_111616 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO.pdf"
+            },
+            {
+              "nome": "DE FILIPPO ROCCO Offerta di vendita_260196_20260605_111134 RIF. LAVASTOVIGLIE ZANUSSI PERMUTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bgglppb1ocabpakk5pbkd/DE-FILIPPO-ROCCO-Offerta-di-vendita_260196_20260605_111134-RIF.-LAVASTOVIGLIE-ZANUSSI-PERMUTA.pdf?rlkey=ov9smg6i0rpblk3gibnq0641s&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DE FILIPPO ROCCO Offerta di vendita_260196_20260605_111134 RIF. LAVASTOVIGLIE ZANUSSI PERMUTA.pdf"
             },
             {
               "nome": "DI TOMASO ANTONIO Offerta di vendita_260191_20260603_160024 RIF. OFFERTA SPECIALE GRIGLIA DOPPIA PIETRA LAVICA FIMAR USATO CL.pdf",
@@ -1600,6 +1664,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MARIE SAS DI CARMINE CANTISANI E C. Offerta di vendita_260182_20260521_163932 RIF. ASSISTENZA SU ABBATTITORE COLDLINE DIGRIM DT3S MATRICOLA 091.pdf"
             },
             {
+              "nome": "NEW BAR GRAN CAFFE' srls Offerta di vendita_260197_20260605_122438.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/l3kregv4lvd6s7bmlz0sm/NEW-BAR-GRAN-CAFFE-srls-Offerta-di-vendita_260197_20260605_122438.pdf?rlkey=4yjte79kh8m77e6qmleyn8xe3&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/NEW BAR GRAN CAFFE' srls Offerta di vendita_260197_20260605_122438.pdf"
+            },
+            {
               "nome": "ONY & ROBY PAOLINO SRL Offerta di vendita_260175_20260524_103430.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1672,6 +1744,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RUGGERINI MAURIZIO Offerta di vendita_260161_20260514_124826 RIF. PENSILE 100 X 40 X 60.pdf"
             },
             {
+              "nome": "RUGGIERO MARIACHIARA Offerta di vendita_260195_20260605_101950 RIF. CASSETTE PIZZA E TEGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hamwy1zme2c9eprbbpw6s/RUGGIERO-MARIACHIARA-Offerta-di-vendita_260195_20260605_101950-RIF.-CASSETTE-PIZZA-E-TEGLIE.pdf?rlkey=83hgaj306xmd9wpiy65q8qhz8&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RUGGIERO MARIACHIARA Offerta di vendita_260195_20260605_101950 RIF. CASSETTE PIZZA E TEGLIE.pdf"
+            },
+            {
               "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260166_20260515_120913 RIF. MIXER A IMMERSIONE FIMAR MX 25.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1696,7 +1776,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260170_20260515_182140 RIF. CALICI BIRRA WEIZEN.pdf"
             }
           ],
-          "_totale_file": 48
+          "_totale_file": 53
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -59379,6 +59459,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Ordine cliente_260159_20260604_153425 RIF. VETRINA MIX CON VETRI EXTRACHIARI SNACK FREDDO VENTILATO MOD LA CAPPELLINA VETRINA MIX VBD 150.pdf"
             },
             {
+              "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Ordine cliente_260185_20260604_191908 RIF. VETRINA RISCALDATA 2 PIANI FORCAR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hl1grn9qpmc3t3mxsp5uw/AZIENDA-AGRICOLA-LA-CAPPELLINA-DI-ROSA-FORASTIERO-Ordine-cliente_260185_20260604_191908-RIF.-VETRINA-RISCALDATA-2-PIANI-FORCAR.pdf?rlkey=0pdcg9o8usybrwqxef6rew4kt&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Ordine cliente_260185_20260604_191908 RIF. VETRINA RISCALDATA 2 PIANI FORCAR.pdf"
+            },
+            {
               "nome": "BARLASCINI FLAVIO Ordine cliente_260173_20260527_082920 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -59667,6 +59755,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NERA SRL Ordine cliente_260163_20260521_174924 RIF. ASSISTENZA SU LAVASTOVIGLIE KRUPPS EL51 MATRICOLA 202360385.pdf"
             },
             {
+              "nome": "NERA SRL Ordine cliente_260186_20260605_110102 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/v237zda5g3iyy187kils7/NERA-SRL-Ordine-cliente_260186_20260605_110102-RIF.-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=jo1fkeoi71csczyb8c0gseyqd&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NERA SRL Ordine cliente_260186_20260605_110102 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
+            },
+            {
               "nome": "OCTO SRLS Ordine cliente_260001_20260510_210215 RIF. prova.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -59739,6 +59835,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/TURIST CALABRIA SRL LA MANTINERA Ordine cliente_260133_20260510_191124 RIF. DETERGENTE RATIONAL VERDE.pdf"
             },
             {
+              "nome": "VANITY COFFEE BAR di OLIVA NICOLINA Ordine cliente_260187_20260605_110353 RIF. DETERGENTE LAVABAR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cdpnikerojg2n6avrjz7c/VANITY-COFFEE-BAR-di-OLIVA-NICOLINA-Ordine-cliente_260187_20260605_110353-RIF.-DETERGENTE-LAVABAR.pdf?rlkey=026y82g49jx0r35luk64nhhsr&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VANITY COFFEE BAR di OLIVA NICOLINA Ordine cliente_260187_20260605_110353 RIF. DETERGENTE LAVABAR.pdf"
+            },
+            {
               "nome": "VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -59747,7 +59851,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 54
+          "_totale_file": 57
         }
       ],
       "file": []
