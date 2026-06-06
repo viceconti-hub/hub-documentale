@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-06T04:58:39Z",
-  "totale_file": 24866,
+  "generato": "2026-06-06T06:51:37Z",
+  "totale_file": 24862,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -177808,7 +177808,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4714,
+      "totale_file": 4710,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -178128,12 +178128,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/GO PACK S.R.L. a socio unico Entrata merci da fornitore_260078_20260521_115241 RIF. Basato su Ordini d'acquisto 260099..pdf"
             },
             {
-              "nome": "HOSHIZAKI EUROPE B.V. Entrata merci da fornitore_260110_20260530_225247 RIF. CALA DEL CITRO Basato su Ordini cliente 250769. Basato su Or.pdf",
+              "nome": "HOSHIZAKI EUROPE B.V. Entrata merci da fornitore_260110_20260604_232044 RIF. CALA DEL CITRO Basato su Ordini cliente 250769. Basato su Or.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nujkmh6rja942n40cc0aj/HOSHIZAKI-EUROPE-B.V.-Entrata-merci-da-fornitore_260110_20260530_225247-RIF.-CALA-DEL-CITRO-Basato-su-Ordini-cliente-250769.-Basato-su-Or.pdf?rlkey=9n7jlzd188g8i9jnsiyfwf66y&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/sqgszcknq3fa3up69z3y4/HOSHIZAKI-EUROPE-B.V.-Entrata-merci-da-fornitore_260110_20260604_232044-RIF.-CALA-DEL-CITRO-Basato-su-Ordini-cliente-250769.-Basato-su-Or.pdf?rlkey=i33tw78px2edaypqoy53olclb&dl=0?raw=1",
               "dimensione_kb": 58,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/HOSHIZAKI EUROPE B.V. Entrata merci da fornitore_260110_20260530_225247 RIF. CALA DEL CITRO Basato su Ordini cliente 250769. Basato su Or.pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/HOSHIZAKI EUROPE B.V. Entrata merci da fornitore_260110_20260604_232044 RIF. CALA DEL CITRO Basato su Ordini cliente 250769. Basato su Or.pdf"
             },
             {
               "nome": "IDEA S.R.L. Entrata merci da fornitore_260066_20260518_174421 RIF. Basato su Ordini cliente 260100. Basato su Ordini d'acquisto.pdf",
@@ -215096,6 +215096,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/C&C Conferma d'ordine 1-MT del 03-01-2024  Vic econti Società In Nome Collettivo di A.pdf"
                 },
                 {
+                  "nome": "CB CONFERMA ORDINE 3863 DEL 26.05.206 9B1CF45F-6DF2-46C1-825C-9EF9B99504B4 RIF. LOSARDO CAVALLETTO.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7kjqmggn1somc0tl4b33c/CB-CONFERMA-ORDINE-3863-DEL-26.05.206-9B1CF45F-6DF2-46C1-825C-9EF9B99504B4-RIF.-LOSARDO-CAVALLETTO.PDF?rlkey=dh4op6p2f3hwhdvxvnw2cmv1v&dl=0?raw=1",
+                  "dimensione_kb": 513,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CB CONFERMA ORDINE 3863 DEL 26.05.206 9B1CF45F-6DF2-46C1-825C-9EF9B99504B4 RIF. LOSARDO CAVALLETTO.PDF"
+                },
+                {
                   "nome": "CB CONFERMA ORDINE E22C5C33-A5E3-40AD-B69B-91D57487DBE5 RIF.PERRETTA.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -215944,12 +215952,44 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/HENDI Ordine dacquisto_250436_20251105_160251 RIF. LA CUNA DE BACO.pdf"
                 },
                 {
+                  "nome": "HOSHIZAKI CONFERMA ORDINE HEIT-SO009703 RIF.CALA DEL CITRO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/sdiswb06990z390aa2dha/HOSHIZAKI-CONFERMA-ORDINE-HEIT-SO009703-RIF.CALA-DEL-CITRO.pdf?rlkey=apqawiclba8tktybs0x4xtv1m&dl=0?raw=1",
+                  "dimensione_kb": 376,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/HOSHIZAKI CONFERMA ORDINE HEIT-SO009703 RIF.CALA DEL CITRO.pdf"
+                },
+                {
+                  "nome": "HOSHIZAKI HEIT-SO009703 ingombri.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/iq3b0bt0t93o7igu9foh7/HOSHIZAKI-HEIT-SO009703-ingombri.pdf?rlkey=e9xtujgxzfuz7bp6zfdigur7o&dl=0?raw=1",
+                  "dimensione_kb": 288,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/HOSHIZAKI HEIT-SO009703 ingombri.pdf"
+                },
+                {
+                  "nome": "HOSHIZAKI Ordine dacquisto_250447_20251110_125550 RIF.CALA DEL CITRO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cs6576ps4p9nyz3xcun3r/HOSHIZAKI-Ordine-dacquisto_250447_20251110_125550-RIF.CALA-DEL-CITRO.pdf?rlkey=ieax5dmf51ak5redlb38uv5gd&dl=0?raw=1",
+                  "dimensione_kb": 60,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/HOSHIZAKI Ordine dacquisto_250447_20251110_125550 RIF.CALA DEL CITRO.pdf"
+                },
+                {
                   "nome": "IDEA CONFERMA ORDINE doc04976320260415085118 RIF.PADURARU.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/rkxhnu2k6e5de8ghrh3mk/IDEA-CONFERMA-ORDINE-doc04976320260415085118-RIF.PADURARU.pdf?rlkey=m2cq0b2ciu8bwaueqpm757k5b&dl=0?raw=1",
                   "dimensione_kb": 333,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEA CONFERMA ORDINE doc04976320260415085118 RIF.PADURARU.pdf"
+                },
+                {
+                  "nome": "IDEA CONFERMA_NR0000000059_2026 RIF.IELPO_NEW BAR.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ave4wkz681x3xwmryllda/IDEA-CONFERMA_NR0000000059_2026-RIF.IELPO_NEW-BAR.pdf?rlkey=o4fbqjgvruhd04spk1o7cxvea&dl=0?raw=1",
+                  "dimensione_kb": 37,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEA CONFERMA_NR0000000059_2026 RIF.IELPO_NEW BAR.pdf"
                 },
                 {
                   "nome": "IDEA CONFERMA_NR0000000091_2025.PDF",
@@ -216240,6 +216280,38 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX CONFERMA ORDINE 1ID202600018292_N0002046 RIF. FA TU INTEGRAZIONE TAVOLO.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600018403_N0002061 RIF. MeM 4 TAVOLI 80X90.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zbxnv4domqe1ntkwzpb7g/IDEAM-INOX-CONFERMA-ORDINE-1ID202600018403_N0002061-RIF.-MeM-4-TAVOLI-80X90.pdf?rlkey=zm9mtxtnp0zptyh4uoo6qvfas&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX CONFERMA ORDINE 1ID202600018403_N0002061 RIF. MeM 4 TAVOLI 80X90.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600019557_N0002162 RIF. MeM APPRONTAMENTO 28_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/042dz3wb1ste8ab8v7qw3/IDEAM-INOX-CONFERMA-ORDINE-1ID202600019557_N0002162-RIF.-MeM-APPRONTAMENTO-28_05_2026.pdf?rlkey=qz415hgdmn3lv3yyf63rzyv91&dl=0?raw=1",
+                  "dimensione_kb": 56,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX CONFERMA ORDINE 1ID202600019557_N0002162 RIF. MeM APPRONTAMENTO 28_05_2026.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600020100_N0002241 RIF. CAMPOLEROSE MOTORE E INVERTER.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qv4y5hhleutmo7gh63wkz/IDEAM-INOX-CONFERMA-ORDINE-1ID202600020100_N0002241-RIF.-CAMPOLEROSE-MOTORE-E-INVERTER.pdf?rlkey=sod38pykaxm88dyoby2jj9xv2&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX CONFERMA ORDINE 1ID202600020100_N0002241 RIF. CAMPOLEROSE MOTORE E INVERTER.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600021025_N0002353 RIF. PASSION SUSHI CAPPA E MOTORE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/72i0novcrmairbrp67pki/IDEAM-INOX-CONFERMA-ORDINE-1ID202600021025_N0002353-RIF.-PASSION-SUSHI-CAPPA-E-MOTORE.pdf?rlkey=f8lze4low0ehb4uk10f5ao52m&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX CONFERMA ORDINE 1ID202600021025_N0002353 RIF. PASSION SUSHI CAPPA E MOTORE.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA PREVENTIVO CLI-PREVEN-0002691-00-13042026 RIF. ILAMA .pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -216326,6 +216398,14 @@
                   "link": "https://www.dropbox.com/scl/fi/mhn41x8rbtt7ewvlis3w3/IDEAM-INOX-SRL-Ordine-dacquisto_260072_20260510_192208.pdf?rlkey=czx4719j2n73yhyqm0vfnaiyv&dl=0?raw=1",
                   "dimensione_kb": 68,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX SRL Ordine dacquisto_260072_20260510_192208.pdf"
+                },
+                {
+                  "nome": "IDEAM INOX SRL Ordine dacquisto_260074_20260520_114914 RIF. CAMPOLEROSE VENTILATORE VTC 1813 A E INVERTER INV 3 CAMPOLEROSE VENTILATORE E INVERTER.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/atgxwddguixkv7gvzgo7j/IDEAM-INOX-SRL-Ordine-dacquisto_260074_20260520_114914-RIF.-CAMPOLEROSE-VENTILATORE-VTC-1813-A-E-INVERTER-INV-3-CAMPOLEROSE-VENTILATORE-E-INVERTER.pdf?rlkey=dv7fs07uwvd1ta6pmtm9rb9j0&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX SRL Ordine dacquisto_260074_20260520_114914 RIF. CAMPOLEROSE VENTILATORE VTC 1813 A E INVERTER INV 3 CAMPOLEROSE VENTILATORE E INVERTER.pdf"
                 },
                 {
                   "nome": "IDEAM INOX SRL Ordine dacquisto_260085_20260512_194753 RIF. PASSION SUSHI CAPPA E MOTORE.pdf",
@@ -217384,7 +217464,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3601
+              "_totale_file": 3611
             }
           ],
           "file": [
@@ -217421,22 +217501,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001780-2026 RIF. ACAL MENSOLA A PONTE.pdf"
             },
             {
-              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260117_20260527_083149 RIF. ACAL MENSOLA A PONTE 140X70 Basato su Ordini cliente 260172..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/rqh3k10yrwx2wd9no2194/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260117_20260527_083149-RIF.-ACAL-MENSOLA-A-PONTE-140X70-Basato-su-Ordini-cliente-260172..pdf?rlkey=zm16q21h1qkbvn8j9l7js9r8r&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260117_20260527_083149 RIF. ACAL MENSOLA A PONTE 140X70 Basato su Ordini cliente 260172..pdf"
-            },
-            {
-              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260118_20260527_083320 RIF. FLAVIO BARLASCINI LAVALLO 140X70 Basato su Ordini cliente 26.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/w4gy0h5rwen035rcnzjpi/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260118_20260527_083320-RIF.-FLAVIO-BARLASCINI-LAVALLO-140X70-Basato-su-Ordini-cliente-26.pdf?rlkey=dndzj0tc6y5fi8wpme2wn22eo&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260118_20260527_083320 RIF. FLAVIO BARLASCINI LAVALLO 140X70 Basato su Ordini cliente 26.pdf"
-            },
-            {
               "nome": "ARISTARCO SPA Ordine dacquisto_250351_20260520_164212 RIF. RICAMBI RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -217459,30 +217523,6 @@
               "link": "https://www.dropbox.com/scl/fi/1nvb69rb24mkycvholsfl/BELLADONNA-DE-DIEGO-80X80-Preventivo-1463PRE-del-27-03-2026.pdf?rlkey=9submrwiw64r23lgwd0r4c34e&dl=0?raw=1",
               "dimensione_kb": 162,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf"
-            },
-            {
-              "nome": "CB CONFERMA ORDINE 3863 DEL 26.05.206 9B1CF45F-6DF2-46C1-825C-9EF9B99504B4 RIF. LOSARDO CAVALLETTO.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/7kjqmggn1somc0tl4b33c/CB-CONFERMA-ORDINE-3863-DEL-26.05.206-9B1CF45F-6DF2-46C1-825C-9EF9B99504B4-RIF.-LOSARDO-CAVALLETTO.PDF?rlkey=dh4op6p2f3hwhdvxvnw2cmv1v&dl=0?raw=1",
-              "dimensione_kb": 513,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB CONFERMA ORDINE 3863 DEL 26.05.206 9B1CF45F-6DF2-46C1-825C-9EF9B99504B4 RIF. LOSARDO CAVALLETTO.PDF"
-            },
-            {
-              "nome": "CB SRL Ordine dacquisto_260115_20260526_162325 RIF. MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/a85mi2zl3ttw2a00bkhw6/CB-SRL-Ordine-dacquisto_260115_20260526_162325-RIF.-MACELLERIA-LOSARDO-CAVALLETTO-SMONTABILE-PER-GIRARROSTI-E12.pdf?rlkey=8pbguf9zsvpt9bl2bjg1egmgc&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB SRL Ordine dacquisto_260115_20260526_162325 RIF. MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12.pdf"
-            },
-            {
-              "nome": "COLD LINE srl Ordine dacquisto_260113_20260525_155221 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/apphrx2lwn7q4c0o8j6pw/COLD-LINE-srl-Ordine-dacquisto_260113_20260525_155221-RIF.-CORRADO-MICHELA-ARMADIO-LEVETRONIC-500-Basato-su-Ordini-clie.pdf?rlkey=b15cp9nn91cgrdqmw4hvzsklb&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260113_20260525_155221 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf"
             },
             {
               "nome": "COLD LINE srl Ordine dacquisto_260124_20260604_174405 RIF. RICAMBI PER STRADELLA, NERA, MAG.pdf",
@@ -217581,38 +217621,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF"
             },
             {
-              "nome": "HOSHIZAKI CONFERMA ORDINE HEIT-SO009703 RIF.CALA DEL CITRO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/sdiswb06990z390aa2dha/HOSHIZAKI-CONFERMA-ORDINE-HEIT-SO009703-RIF.CALA-DEL-CITRO.pdf?rlkey=apqawiclba8tktybs0x4xtv1m&dl=0?raw=1",
-              "dimensione_kb": 376,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HOSHIZAKI CONFERMA ORDINE HEIT-SO009703 RIF.CALA DEL CITRO.pdf"
-            },
-            {
-              "nome": "HOSHIZAKI HEIT-SO009703 ingombri.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/iq3b0bt0t93o7igu9foh7/HOSHIZAKI-HEIT-SO009703-ingombri.pdf?rlkey=e9xtujgxzfuz7bp6zfdigur7o&dl=0?raw=1",
-              "dimensione_kb": 288,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HOSHIZAKI HEIT-SO009703 ingombri.pdf"
-            },
-            {
-              "nome": "HOSHIZAKI Ordine dacquisto_250447_20251110_125550 RIF.CALA DEL CITRO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/cs6576ps4p9nyz3xcun3r/HOSHIZAKI-Ordine-dacquisto_250447_20251110_125550-RIF.CALA-DEL-CITRO.pdf?rlkey=ieax5dmf51ak5redlb38uv5gd&dl=0?raw=1",
-              "dimensione_kb": 60,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HOSHIZAKI Ordine dacquisto_250447_20251110_125550 RIF.CALA DEL CITRO.pdf"
-            },
-            {
-              "nome": "IDEA CONFERMA_NR0000000059_2026 RIF.IELPO_NEW BAR.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ave4wkz681x3xwmryllda/IDEA-CONFERMA_NR0000000059_2026-RIF.IELPO_NEW-BAR.pdf?rlkey=o4fbqjgvruhd04spk1o7cxvea&dl=0?raw=1",
-              "dimensione_kb": 37,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEA CONFERMA_NR0000000059_2026 RIF.IELPO_NEW BAR.pdf"
-            },
-            {
               "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600001759_N0001759 RIF. RUGGIERO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -217621,52 +217629,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600001759_N0001759 RIF. RUGGIERO.pdf"
             },
             {
-              "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600018403_N0002061 RIF. MeM 4 TAVOLI 80X90.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/zbxnv4domqe1ntkwzpb7g/IDEAM-INOX-CONFERMA-ORDINE-1ID202600018403_N0002061-RIF.-MeM-4-TAVOLI-80X90.pdf?rlkey=zm9mtxtnp0zptyh4uoo6qvfas&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600018403_N0002061 RIF. MeM 4 TAVOLI 80X90.pdf"
-            },
-            {
-              "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600019557_N0002162 RIF. MeM APPRONTAMENTO 28_05_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/042dz3wb1ste8ab8v7qw3/IDEAM-INOX-CONFERMA-ORDINE-1ID202600019557_N0002162-RIF.-MeM-APPRONTAMENTO-28_05_2026.pdf?rlkey=qz415hgdmn3lv3yyf63rzyv91&dl=0?raw=1",
-              "dimensione_kb": 56,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600019557_N0002162 RIF. MeM APPRONTAMENTO 28_05_2026.pdf"
-            },
-            {
-              "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600020100_N0002241 RIF. CAMPOLEROSE MOTORE E INVERTER.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qv4y5hhleutmo7gh63wkz/IDEAM-INOX-CONFERMA-ORDINE-1ID202600020100_N0002241-RIF.-CAMPOLEROSE-MOTORE-E-INVERTER.pdf?rlkey=sod38pykaxm88dyoby2jj9xv2&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600020100_N0002241 RIF. CAMPOLEROSE MOTORE E INVERTER.pdf"
-            },
-            {
-              "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600021025_N0002353 RIF. PASSION SUSHI CAPPA E MOTORE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/72i0novcrmairbrp67pki/IDEAM-INOX-CONFERMA-ORDINE-1ID202600021025_N0002353-RIF.-PASSION-SUSHI-CAPPA-E-MOTORE.pdf?rlkey=f8lze4low0ehb4uk10f5ao52m&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600021025_N0002353 RIF. PASSION SUSHI CAPPA E MOTORE.pdf"
-            },
-            {
               "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600021881_N0002470 RIF. ILAMA TAVOLI PROF. 40.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/503ltmdzm75zt7aoa72rm/IDEAM-INOX-CONFERMA-ORDINE-1ID202600021881_N0002470-RIF.-ILAMA-TAVOLI-PROF.-40.pdf?rlkey=balsbgbhs13l3t1ebm93i4xaa&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600021881_N0002470 RIF. ILAMA TAVOLI PROF. 40.pdf"
-            },
-            {
-              "nome": "IDEAM INOX SRL Ordine dacquisto_260074_20260520_114914 RIF. CAMPOLEROSE VENTILATORE VTC 1813 A E INVERTER INV 3 CAMPOLEROSE VENTILATORE E INVERTER.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/atgxwddguixkv7gvzgo7j/IDEAM-INOX-SRL-Ordine-dacquisto_260074_20260520_114914-RIF.-CAMPOLEROSE-VENTILATORE-VTC-1813-A-E-INVERTER-INV-3-CAMPOLEROSE-VENTILATORE-E-INVERTER.pdf?rlkey=dv7fs07uwvd1ta6pmtm9rb9j0&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX SRL Ordine dacquisto_260074_20260520_114914 RIF. CAMPOLEROSE VENTILATORE VTC 1813 A E INVERTER INV 3 CAMPOLEROSE VENTILATORE E INVERTER.pdf"
             },
             {
               "nome": "IFI CONFERMA Preventivo_26004420 RIF. LA CAPPELLINA VETRINA MIX.pdf",
@@ -217813,7 +217781,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260097_20260519_233227 RIF. PALETTA AFFETTATRICE OMAS MOD. L 37S MATR.02605 VOLT 230.pdf"
             }
           ],
-          "_totale_file": 3654
+          "_totale_file": 3650
         }
       ],
       "file": []
