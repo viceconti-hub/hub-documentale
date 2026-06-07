@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-07T00:16:28Z",
-  "totale_file": 24864,
+  "generato": "2026-06-07T02:10:50Z",
+  "totale_file": 24869,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -135684,7 +135684,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4366,
+      "totale_file": 4371,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -138741,6 +138741,22 @@
           ],
           "file": [
             {
+              "nome": "100.ARRIS Catalogo_arris_2026_ITA_ING_LOW_compressed.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/udyh0xxoh7bm3gxx9we1e/100.ARRIS-Catalogo_arris_2026_ITA_ING_LOW_compressed.pdf?rlkey=zz3nzcfkce3qgtjkn50imw289&dl=0?raw=1",
+              "dimensione_kb": 4872,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARRIS GRILLVAPOR/100.ARRIS Catalogo_arris_2026_ITA_ING_LOW_compressed.pdf"
+            },
+            {
+              "nome": "100.ARRIS Listino 2026_Arris Catering Equipment_(ITA-EN).pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tje47ca2arxjdr6hkdquj/100.ARRIS-Listino-2026_Arris-Catering-Equipment_-ITA-EN.pdf?rlkey=6sk366r8qprukrcuzc65olr2o&dl=0?raw=1",
+              "dimensione_kb": 2977,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARRIS GRILLVAPOR/100.ARRIS Listino 2026_Arris Catering Equipment_(ITA-EN).pdf"
+            },
+            {
               "nome": "2021.12.29 - Arris - Catalogo - 2022.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -138789,7 +138805,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ARRIS GRILLVAPOR/vantaggi economici e di qualità.docx"
             }
           ],
-          "_totale_file": 16
+          "_totale_file": 18
         },
         {
           "nome": "ARTINOX",
@@ -141185,20 +141201,20 @@
           ],
           "file": [
             {
-              "nome": "001.BREMA LISTINO 2025 dal 09_06.pdf",
+              "nome": "100.BREMA LISTINO 2025 dal 09_06.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/rllvl3yjai0noaq0tjxf1/001.BREMA-LISTINO-2025-dal-09_06.pdf?rlkey=wr9o0yjbr2byr7pc5hbbhne77&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/rllvl3yjai0noaq0tjxf1/100.BREMA-LISTINO-2025-dal-09_06.pdf?rlkey=wr9o0yjbr2byr7pc5hbbhne77&dl=0?raw=1",
               "dimensione_kb": 124,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/001.BREMA LISTINO 2025 dal 09_06.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/100.BREMA LISTINO 2025 dal 09_06.pdf"
             },
             {
-              "nome": "001.BREMA LISTINO_RICAMBI_2025.pdf",
+              "nome": "100.BREMA LISTINO_RICAMBI_2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qx8g28yddrogvw49hron2/001.BREMA-LISTINO_RICAMBI_2025.pdf?rlkey=sy9at4gykkw1wnm40u1huwjef&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/qx8g28yddrogvw49hron2/100.BREMA-LISTINO_RICAMBI_2025.pdf?rlkey=sy9at4gykkw1wnm40u1huwjef&dl=0?raw=1",
               "dimensione_kb": 189,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/001.BREMA LISTINO_RICAMBI_2025.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/100.BREMA LISTINO_RICAMBI_2025.pdf"
             }
           ],
           "_totale_file": 52
@@ -154070,14 +154086,6 @@
           ],
           "file": [
             {
-              "nome": "001.FIMAR LISTINO dal_01.11_FIMAR_Catalogue&Price_25.26.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/saubr1lt7kjeqjoi47wyr/001.FIMAR-LISTINO-dal_01.11_FIMAR_Catalogue-Price_25.26.pdf?rlkey=5rjdpy7p5sex40xjraq4mdm9o&dl=0?raw=1",
-              "dimensione_kb": 25531,
-              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/001.FIMAR LISTINO dal_01.11_FIMAR_Catalogue&Price_25.26.pdf"
-            },
-            {
               "nome": "001.FORCAR_MULTISERVICE_Catalogue&Price_25.26.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -154100,6 +154108,14 @@
               "link": "https://www.dropbox.com/scl/fi/gubi6aeatx5s3179cu18d/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf?rlkey=d2xs1q48eq7q0w0iv55j5q09l&dl=0?raw=1",
               "dimensione_kb": 12899,
               "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/001.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf"
+            },
+            {
+              "nome": "100.FIMAR LISTINO dal_01.11_FIMAR_Catalogue&Price_25.26.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/saubr1lt7kjeqjoi47wyr/100.FIMAR-LISTINO-dal_01.11_FIMAR_Catalogue-Price_25.26.pdf?rlkey=5rjdpy7p5sex40xjraq4mdm9o&dl=0?raw=1",
+              "dimensione_kb": 25531,
+              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/100.FIMAR LISTINO dal_01.11_FIMAR_Catalogue&Price_25.26.pdf"
             }
           ],
           "_totale_file": 72
@@ -162872,12 +162888,12 @@
           ],
           "file": [
             {
-              "nome": "001.HENDI Listino prezzi del catalogo _IT_2025_2026.pdf",
+              "nome": "100.HENDI Listino prezzi del catalogo _IT_2025_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/61lh2263gxks2d5e1ixwd/001.HENDI-Listino-prezzi-del-catalogo-_IT_2025_2026.pdf?rlkey=8yyz710a8jm6cjhh3u63uar17&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/61lh2263gxks2d5e1ixwd/100.HENDI-Listino-prezzi-del-catalogo-_IT_2025_2026.pdf?rlkey=8yyz710a8jm6cjhh3u63uar17&dl=0?raw=1",
               "dimensione_kb": 2485,
-              "path": "/HUB DOCUMENTALE/FORNITORI/HENDI/001.HENDI Listino prezzi del catalogo _IT_2025_2026.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/HENDI/100.HENDI Listino prezzi del catalogo _IT_2025_2026.pdf"
             },
             {
               "nome": "HENDI CATALOGO E PREZZI DAL-01.09.2024.pdf",
@@ -163348,20 +163364,20 @@
           ],
           "file": [
             {
-              "nome": "001.IDEAM INOX PUGLIAINOX Listino 2022-ArredamentoAcciaio.pdf",
+              "nome": "100.IDEAM INOX PUGLIAINOX Listino 2022-ArredamentoAcciaio.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mbya8n2egclofku4z13vf/001.IDEAM-INOX-PUGLIAINOX-Listino-2022-ArredamentoAcciaio.pdf?rlkey=slbwb8vjvo9c8pfaf4cc4carn&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/mbya8n2egclofku4z13vf/100.IDEAM-INOX-PUGLIAINOX-Listino-2022-ArredamentoAcciaio.pdf?rlkey=slbwb8vjvo9c8pfaf4cc4carn&dl=0?raw=1",
               "dimensione_kb": 9921,
-              "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/001.IDEAM INOX PUGLIAINOX Listino 2022-ArredamentoAcciaio.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/100.IDEAM INOX PUGLIAINOX Listino 2022-ArredamentoAcciaio.pdf"
             },
             {
-              "nome": "001.IDEAM INOX PUGLIAINOX Listino2022-EspositoriRefrigerati.pdf",
+              "nome": "100.IDEAM INOX PUGLIAINOX Listino2022-EspositoriRefrigerati.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/kd27ca463p15kl4tf10fk/001.IDEAM-INOX-PUGLIAINOX-Listino2022-EspositoriRefrigerati.pdf?rlkey=pv167ju5lbe7kaftu5wbl4f7n&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/kd27ca463p15kl4tf10fk/100.IDEAM-INOX-PUGLIAINOX-Listino2022-EspositoriRefrigerati.pdf?rlkey=pv167ju5lbe7kaftu5wbl4f7n&dl=0?raw=1",
               "dimensione_kb": 6779,
-              "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/001.IDEAM INOX PUGLIAINOX Listino2022-EspositoriRefrigerati.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/100.IDEAM INOX PUGLIAINOX Listino2022-EspositoriRefrigerati.pdf"
             }
           ],
           "_totale_file": 9
@@ -163653,12 +163669,12 @@
           ],
           "file": [
             {
-              "nome": "001.IFI_ITA_1.1_CELLE_listino prezzi_01.2025.pdf",
+              "nome": "100.IFI_ITA_1.1_CELLE_listino prezzi_01.2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/bn6efvvpdnoekyl4e8ick/001.IFI_ITA_1.1_CELLE_listino-prezzi_01.2025.pdf?rlkey=pr6b00rfvj2inew3s5o4lz03e&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/bn6efvvpdnoekyl4e8ick/100.IFI_ITA_1.1_CELLE_listino-prezzi_01.2025.pdf?rlkey=pr6b00rfvj2inew3s5o4lz03e&dl=0?raw=1",
               "dimensione_kb": 30025,
-              "path": "/HUB DOCUMENTALE/FORNITORI/IFI/001.IFI_ITA_1.1_CELLE_listino prezzi_01.2025.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/IFI/100.IFI_ITA_1.1_CELLE_listino prezzi_01.2025.pdf"
             },
             {
               "nome": "Gmail - Area Service_ riferimenti utili e nuovo contatto ricambi Italia.pdf",
@@ -167337,12 +167353,12 @@
           ],
           "file": [
             {
-              "nome": "001.LOTUS LISTINO Cookers 04_2026 low.pdf",
+              "nome": "100.LOTUS LISTINO Cookers 04_2026 low.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/3igum67cp24mr383lsv6o/001.LOTUS-LISTINO-Cookers-04_2026-low.pdf?rlkey=dnewhrzxtygy2q14ahenztrnk&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/3igum67cp24mr383lsv6o/100.LOTUS-LISTINO-Cookers-04_2026-low.pdf?rlkey=dnewhrzxtygy2q14ahenztrnk&dl=0?raw=1",
               "dimensione_kb": 15680,
-              "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/001.LOTUS LISTINO Cookers 04_2026 low.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/100.LOTUS LISTINO Cookers 04_2026 low.pdf"
             }
           ],
           "_totale_file": 22
@@ -168086,20 +168102,20 @@
           ],
           "file": [
             {
-              "nome": "001.MODULAR LISTINO 2025-it.pdf",
+              "nome": "100.MODULAR LISTINO 2025-it.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/7pajifpcxri96irob3pct/001.MODULAR-LISTINO-2025-it.pdf?rlkey=sbefwveestmszrezrd4xtbqpy&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/7pajifpcxri96irob3pct/100.MODULAR-LISTINO-2025-it.pdf?rlkey=sbefwveestmszrezrd4xtbqpy&dl=0?raw=1",
               "dimensione_kb": 26547,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/001.MODULAR LISTINO 2025-it.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/100.MODULAR LISTINO 2025-it.pdf"
             },
             {
-              "nome": "001.NEVO_QUIBI LISTINO 2025.pdf",
+              "nome": "100.NEVO_QUIBI LISTINO 2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/c2w8e9w13gg575grehpwu/001.NEVO_QUIBI-LISTINO-2025.pdf?rlkey=91v5t7e6ookq1q48bkfhvt6im&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/c2w8e9w13gg575grehpwu/100.NEVO_QUIBI-LISTINO-2025.pdf?rlkey=91v5t7e6ookq1q48bkfhvt6im&dl=0?raw=1",
               "dimensione_kb": 8718,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/001.NEVO_QUIBI LISTINO 2025.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/100.NEVO_QUIBI LISTINO 2025.pdf"
             },
             {
               "nome": "APPOGGIO INTESA SAN PAOLO.PDF",
@@ -168664,20 +168680,20 @@
           ],
           "file": [
             {
-              "nome": "001.MONDIAL LISTINO 2026 listino_mf-2026_r00 VETRINE GELATO FRAMEC.pdf",
+              "nome": "100.MONDIAL LISTINO 2026 listino_mf-2026_r00 VETRINE GELATO FRAMEC.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/usn2a89z026m75v6d0ue0/001.MONDIAL-LISTINO-2026-listino_mf-2026_r00-VETRINE-GELATO-FRAMEC.pdf?rlkey=g1349qxzwuwt3aan18r91lng3&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/usn2a89z026m75v6d0ue0/100.MONDIAL-LISTINO-2026-listino_mf-2026_r00-VETRINE-GELATO-FRAMEC.pdf?rlkey=g1349qxzwuwt3aan18r91lng3&dl=0?raw=1",
               "dimensione_kb": 515,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/001.MONDIAL LISTINO 2026 listino_mf-2026_r00 VETRINE GELATO FRAMEC.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/100.MONDIAL LISTINO 2026 listino_mf-2026_r00 VETRINE GELATO FRAMEC.pdf"
             },
             {
-              "nome": "001.MONDIAL LISTINO 2026 listino_mf-2026_r00.pdf",
+              "nome": "100.MONDIAL LISTINO 2026 listino_mf-2026_r00.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/w84wfbwdwgkwnz9ovryl3/001.MONDIAL-LISTINO-2026-listino_mf-2026_r00.pdf?rlkey=x10e8wdp290ejl97arhhctb3e&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/w84wfbwdwgkwnz9ovryl3/100.MONDIAL-LISTINO-2026-listino_mf-2026_r00.pdf?rlkey=x10e8wdp290ejl97arhhctb3e&dl=0?raw=1",
               "dimensione_kb": 4492,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/001.MONDIAL LISTINO 2026 listino_mf-2026_r00.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/MONDIAL FRAMEC/100.MONDIAL LISTINO 2026 listino_mf-2026_r00.pdf"
             },
             {
               "nome": "MONDIAL FRAMEC NEWS 2025.pdf",
@@ -170597,6 +170613,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/PIAZZA/00_Listino Piazza 2025_Rel.01_01Dic2024.pdf"
             },
             {
+              "nome": "100.Piazza LISTINO 2025_Rel.01_01Dic2024.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/n1tzcmjrhtu2c43hdu5pl/100.Piazza-LISTINO-2025_Rel.01_01Dic2024.pdf?rlkey=lstcc60xe1zcbpzdo1w7z05jc&dl=0?raw=1",
+              "dimensione_kb": 1130,
+              "path": "/HUB DOCUMENTALE/FORNITORI/PIAZZA/100.Piazza LISTINO 2025_Rel.01_01Dic2024.pdf"
+            },
+            {
               "nome": "Gmail - Fwd_ Viceconti Snc_ richiesta listino e condizioni commerciali.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -170605,7 +170629,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/PIAZZA/Gmail - Fwd_ Viceconti Snc_ richiesta listino e condizioni commerciali.pdf"
             }
           ],
-          "_totale_file": 12
+          "_totale_file": 13
         },
         {
           "nome": "PINTINOX",
@@ -171632,12 +171656,12 @@
           ],
           "file": [
             {
-              "nome": "001.RATIONAL LISTINO RICAMBI 01.04.2026.pdf",
+              "nome": "100.RATIONAL LISTINO RICAMBI 01.04.2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/cy4onzbs4axtuquckncz9/001.RATIONAL-LISTINO-RICAMBI-01.04.2026.pdf?rlkey=hcn35gv4g3laip51zt5fs8902&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/cy4onzbs4axtuquckncz9/100.RATIONAL-LISTINO-RICAMBI-01.04.2026.pdf?rlkey=hcn35gv4g3laip51zt5fs8902&dl=0?raw=1",
               "dimensione_kb": 3515,
-              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/001.RATIONAL LISTINO RICAMBI 01.04.2026.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/100.RATIONAL LISTINO RICAMBI 01.04.2026.pdf"
             },
             {
               "nome": "Accordi Commerciali 2023 Viceconti FIRMATI.pdf",
@@ -172788,22 +172812,6 @@
           ],
           "file": [
             {
-              "nome": "001.SEDEX XLINE_BASAMENTI_2026_LISTINO PIANI HPL.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/1uzg32ijbqi8ztzdm21jd/001.SEDEX-XLINE_BASAMENTI_2026_LISTINO-PIANI-HPL.pdf?rlkey=vkst24oz3ac9eo2vdiv0rwoop&dl=0?raw=1",
-              "dimensione_kb": 309,
-              "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/001.SEDEX XLINE_BASAMENTI_2026_LISTINO PIANI HPL.pdf"
-            },
-            {
-              "nome": "001.SEDEX XLINE_BASAMENTI_2026_LISTINO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ubn7d27k1p7u3wnbj9vd8/001.SEDEX-XLINE_BASAMENTI_2026_LISTINO.pdf?rlkey=9apmmk83czvtbnjade9fcbjf8&dl=0?raw=1",
-              "dimensione_kb": 4998,
-              "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/001.SEDEX XLINE_BASAMENTI_2026_LISTINO.pdf"
-            },
-            {
               "nome": "002.SEDEX XLINE_BASAMENTI_2026_CATALOGO PAGINA HPL.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -172818,6 +172826,22 @@
               "link": "https://www.dropbox.com/scl/fi/g78w0pt3gcbhuksisx2rd/002.SEDEX-XLINE_BASAMENTI_2026_CATALOGO.pdf?rlkey=6wj885wwx4vtgdo0h5ztaqkg4&dl=0?raw=1",
               "dimensione_kb": 12517,
               "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/002.SEDEX XLINE_BASAMENTI_2026_CATALOGO.pdf"
+            },
+            {
+              "nome": "100.SEDEX XLINE_BASAMENTI_2026_LISTINO PIANI HPL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1uzg32ijbqi8ztzdm21jd/100.SEDEX-XLINE_BASAMENTI_2026_LISTINO-PIANI-HPL.pdf?rlkey=vkst24oz3ac9eo2vdiv0rwoop&dl=0?raw=1",
+              "dimensione_kb": 309,
+              "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/100.SEDEX XLINE_BASAMENTI_2026_LISTINO PIANI HPL.pdf"
+            },
+            {
+              "nome": "100.SEDEX XLINE_BASAMENTI_2026_LISTINO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ubn7d27k1p7u3wnbj9vd8/100.SEDEX-XLINE_BASAMENTI_2026_LISTINO.pdf?rlkey=9apmmk83czvtbnjade9fcbjf8&dl=0?raw=1",
+              "dimensione_kb": 4998,
+              "path": "/HUB DOCUMENTALE/FORNITORI/SEDEX XLINE/100.SEDEX XLINE_BASAMENTI_2026_LISTINO.pdf"
             },
             {
               "nome": "COND VEND 2026 IT.pdf",
@@ -173847,8 +173871,41 @@
         {
           "nome": "TAMAI",
           "path": "/HUB DOCUMENTALE/FORNITORI/TAMAI",
-          "cartelle": [],
+          "cartelle": [
+            {
+              "nome": "ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/FORNITORI/TAMAI/ARCHIVIO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "TAMAI_ Listino 2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/l98upm3e83d6o777rg9sj/TAMAI_-Listino-2022.pdf?rlkey=3l51c6q6w3kn76ujjlt5jg2ra&dl=0?raw=1",
+                  "dimensione_kb": 4148,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/TAMAI/ARCHIVIO/TAMAI_ Listino 2022.pdf"
+                }
+              ],
+              "_totale_file": 1
+            }
+          ],
           "file": [
+            {
+              "nome": "100.Tamai_listino_2026_ITA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b4pi8kn7q5w55856v4cdo/100.Tamai_listino_2026_ITA.pdf?rlkey=oyps2oz0q89tb4v3l43xf51yo&dl=0?raw=1",
+              "dimensione_kb": 9728,
+              "path": "/HUB DOCUMENTALE/FORNITORI/TAMAI/100.Tamai_listino_2026_ITA.pdf"
+            },
+            {
+              "nome": "Gmail - R_ TAMAI ASCIUGA POSATE GIUGNO 2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/59qqgtqofd6nhbob1qlh0/Gmail-R_-TAMAI-ASCIUGA-POSATE-GIUGNO-2026.pdf?rlkey=secdqbtyv4155gj01em53gxvo&dl=0?raw=1",
+              "dimensione_kb": 261,
+              "path": "/HUB DOCUMENTALE/FORNITORI/TAMAI/Gmail - R_ TAMAI ASCIUGA POSATE GIUGNO 2026.pdf"
+            },
             {
               "nome": "TAMAI VIDEO 1.MP4",
               "tipo": "File",
@@ -173856,17 +173913,9 @@
               "link": "https://www.dropbox.com/scl/fi/zpudvl7wii7saewzzkl95/TAMAI-VIDEO-1.MP4?rlkey=n2ud3w2wgyk2jr1sk3olfwhn2&dl=0?raw=1",
               "dimensione_kb": 564388,
               "path": "/HUB DOCUMENTALE/FORNITORI/TAMAI/TAMAI VIDEO 1.MP4"
-            },
-            {
-              "nome": "TAMAI_ Listino 2022.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/l98upm3e83d6o777rg9sj/TAMAI_-Listino-2022.pdf?rlkey=3l51c6q6w3kn76ujjlt5jg2ra&dl=0?raw=1",
-              "dimensione_kb": 4148,
-              "path": "/HUB DOCUMENTALE/FORNITORI/TAMAI/TAMAI_ Listino 2022.pdf"
             }
           ],
-          "_totale_file": 2
+          "_totale_file": 4
         },
         {
           "nome": "TEAMSYSTEM",
