@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-06T08:08:51Z",
-  "totale_file": 24862,
+  "generato": "2026-06-07T00:16:28Z",
+  "totale_file": 24864,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -64831,7 +64831,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7103,
+      "totale_file": 7105,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -124327,9 +124327,17 @@
                           "link": "https://www.dropbox.com/scl/fi/zegsiv1xrw950k4attcoi/W5UG-P.pdf?rlkey=tbqgd8k6tlusx9z8dkw02sxyj&dl=0?raw=1",
                           "dimensione_kb": 109,
                           "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/PASSION SUSHI PROGETTO APRILE 2026/PASSION SUSHI SCHEDE TECNICHE/W5UG-P.pdf"
+                        },
+                        {
+                          "nome": "lavamani_in_acciaio_inox.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/kff4u56dguxoo94blb8wr/lavamani_in_acciaio_inox.pdf?rlkey=7uqer7linv2t08olcr9pu9rnz&dl=0?raw=1",
+                          "dimensione_kb": 1666,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/PASSION SUSHI PROGETTO APRILE 2026/PASSION SUSHI SCHEDE TECNICHE/lavamani_in_acciaio_inox.pdf"
                         }
                       ],
-                      "_totale_file": 15
+                      "_totale_file": 16
                     }
                   ],
                   "file": [
@@ -124406,6 +124414,14 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/PASSION SUSHI PROGETTO APRILE 2026/270.PASSION SUSHI RITAGLIO DISPENSA LAVAGGIO.png"
                     },
                     {
+                      "nome": "280.MISURA PARETE SX LAVAGGIO overlay.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/l2sa6xzf7ugzzj731tcpu/280.MISURA-PARETE-SX-LAVAGGIO-overlay.png?rlkey=k4d8sex8qxqdswk1ettibe0hp&dl=0?raw=1",
+                      "dimensione_kb": 232,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/PASSION SUSHI PROGETTO APRILE 2026/280.MISURA PARETE SX LAVAGGIO overlay.png"
+                    },
+                    {
                       "nome": "360.Elenco Attrezzature Passion Sushi v2.docx",
                       "tipo": "Word",
                       "icona": "📝",
@@ -124422,11 +124438,11 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/PASSION SUSHI DI MOMADE/PASSION SUSHI PROGETTO APRILE 2026/BELLADONNA BELAI PREVENTIVO ORIGINALE A CLIENTE.jpg"
                     }
                   ],
-                  "_totale_file": 29
+                  "_totale_file": 31
                 }
               ],
               "file": [],
-              "_totale_file": 29
+              "_totale_file": 31
             },
             {
               "nome": "VE.RO SRLS",
@@ -124624,7 +124640,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 172
+          "_totale_file": 174
         },
         {
           "nome": "SARCONI",
@@ -133868,7 +133884,7 @@
               "tipo": "Word",
               "icona": "📝",
               "link": "https://www.dropbox.com/scl/fi/pgxnoihvct4859749xbtk/modulo-anagrafica-fornitore-ITA.docx?rlkey=kv6wy00l748g99gko9ssflsyq&dl=0?raw=1",
-              "dimensione_kb": 40,
+              "dimensione_kb": 41,
               "path": "/HUB DOCUMENTALE/CLIENTI/TRIESTE/modulo anagrafica fornitore ITA.docx"
             }
           ],
