@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-07T04:50:49Z",
-  "totale_file": 24884,
+  "generato": "2026-06-07T06:41:53Z",
+  "totale_file": 24881,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -178009,7 +178009,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4710,
+      "totale_file": 4707,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -178393,6 +178393,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEAM INOX SRL Entrata merci da fornitore_260102_20260529_192152 RIF. CAMPOLEROSE VENTILATORE VTC 1818 C e INVERTER INV4 Basato su CAMPOLEROSE VENTILATORE E INVERTER.pdf"
             },
             {
+              "nome": "IDEAM INOX SRL Entrata merci da fornitore_260113_20260605_182208 RIF. MeM e PASSIONE SUSHI Basato su Ordini d'acquisto 260061. 260.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w2kkbs1j4p9zg5hk5iiju/IDEAM-INOX-SRL-Entrata-merci-da-fornitore_260113_20260605_182208-RIF.-MeM-e-PASSIONE-SUSHI-Basato-su-Ordini-d-acquisto-260061.-260.pdf?rlkey=69ba9gl1jgqcjno8axdvhvu9h&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEAM INOX SRL Entrata merci da fornitore_260113_20260605_182208 RIF. MeM e PASSIONE SUSHI Basato su Ordini d'acquisto 260061. 260.pdf"
+            },
+            {
               "nome": "IFI Spa Entrata merci da fornitore_260108_20260530_190946 RIF. LA REGINA TERMINAL CETNRALINA PER ESPOSITORE MURALE MARKET F.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -178665,7 +178673,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/STAFF ddt 510.pdf"
             }
           ],
-          "_totale_file": 81
+          "_totale_file": 82
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -216073,6 +216081,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/GO PACK Ordine dacquisto_250479_20251210_155550 URGENTE RIF.CARNI LIMONGI.pdf"
                 },
                 {
+                  "nome": "GO PACK S.R.L. a socio unico Ordine dacquisto_260099_20260518_094118.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4u2bwa31ylgsa7t0d0dkh/GO-PACK-S.R.L.-a-socio-unico-Ordine-dacquisto_260099_20260518_094118.pdf?rlkey=cn10vafyhgh58dcaolstyx2lw&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/GO PACK S.R.L. a socio unico Ordine dacquisto_260099_20260518_094118.pdf"
+                },
+                {
                   "nome": "GOPACK Conferma prenotazione ritiro.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -216441,6 +216457,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX CONFERMA ORDINE 1ID202500043883_N0004902 RIF.FA' TU.pdf"
                 },
                 {
+                  "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600001759_N0001759 RIF. RUGGIERO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/f6hvxav1ksrdr6qxyy2gn/IDEAM-INOX-CONFERMA-ORDINE-1ID202600001759_N0001759-RIF.-RUGGIERO.pdf?rlkey=arid4h54nva69oggrsjfb2dm1&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX CONFERMA ORDINE 1ID202600001759_N0001759 RIF. RUGGIERO.pdf"
+                },
+                {
                   "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600008965_N0000989 RIF.FA TU.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -216777,6 +216801,30 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KMP 1 conferma Sales order RIF.CENTRAL MARKET.pdf"
                 },
                 {
+                  "nome": "KRUPPS CONFERMA ordine_26-03235 RIF. NERA KI DISPLAY + RICAMBI MAG.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xivond9pilg66ix6lkq9d/KRUPPS-CONFERMA-ordine_26-03235-RIF.-NERA-KI-DISPLAY-RICAMBI-MAG.pdf?rlkey=0jpx3mkclw06j3ybzmxuwrboi&dl=0?raw=1",
+                  "dimensione_kb": 126,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KRUPPS CONFERMA ordine_26-03235 RIF. NERA KI DISPLAY + RICAMBI MAG.pdf"
+                },
+                {
+                  "nome": "KRUPPS CONFERMA ordine_26-03235 RIF.NERA + MAG .pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/eu09wajbqt4rr4hv7haz3/KRUPPS-CONFERMA-ordine_26-03235-RIF.NERA-MAG.pdf?rlkey=lpnvs54yon6t8laxa8pehlyoq&dl=0?raw=1",
+                  "dimensione_kb": 126,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KRUPPS CONFERMA ordine_26-03235 RIF.NERA + MAG .pdf"
+                },
+                {
+                  "nome": "KRUPPS s.r.l. Ordine dacquisto_250210_20260603_170755 RIF. KIT DISPLAY PER NERA + MAG DATA TRASMISSIONE 21_05_26.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/low4e5xzvnnpd9qtkx763/KRUPPS-s.r.l.-Ordine-dacquisto_250210_20260603_170755-RIF.-KIT-DISPLAY-PER-NERA-MAG-DATA-TRASMISSIONE-21_05_26.pdf?rlkey=dur70c8ezd2yphu0zodfar5d4&dl=0?raw=1",
+                  "dimensione_kb": 29,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KRUPPS s.r.l. Ordine dacquisto_250210_20260603_170755 RIF. KIT DISPLAY PER NERA + MAG DATA TRASMISSIONE 21_05_26.pdf"
+                },
+                {
                   "nome": "LA MITO KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-3023 RIF.SAMMARTINO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -216943,6 +216991,22 @@
                   "link": "https://www.dropbox.com/scl/fi/69rmrcavpwmdfl8qsuj16/MODULAR-CONFERMA-MD_SaleOrdForm_2022-RIF.YELLOW-BOAT_BRUCIATORI.pdf?rlkey=5ffys0yvgabgfvpive3c9zi26&dl=0?raw=1",
                   "dimensione_kb": 141,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.YELLOW BOAT_BRUCIATORI.pdf"
+                },
+                {
+                  "nome": "MODULAR CONFERMA ORDINE 26-03984 MD_SaleOrdForm_2022 RIF. MeM CAVALLETTO FORNO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hp5n8kybsm0ergcqkimby/MODULAR-CONFERMA-ORDINE-26-03984-MD_SaleOrdForm_2022-RIF.-MeM-CAVALLETTO-FORNO.pdf?rlkey=o5ijkvshy1j8pwr42cousvd2m&dl=0?raw=1",
+                  "dimensione_kb": 140,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA ORDINE 26-03984 MD_SaleOrdForm_2022 RIF. MeM CAVALLETTO FORNO.pdf"
+                },
+                {
+                  "nome": "MODULAR CONFERMA ORDINE 26-04237 MD_SaleOrdForm_2022 RIF. LA SORGENTE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/amu3atu3ymbewkynkx04x/MODULAR-CONFERMA-ORDINE-26-04237-MD_SaleOrdForm_2022-RIF.-LA-SORGENTE.pdf?rlkey=odkqypq7g93500ibukg3w8xpi&dl=0?raw=1",
+                  "dimensione_kb": 141,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA ORDINE 26-04237 MD_SaleOrdForm_2022 RIF. LA SORGENTE.pdf"
                 },
                 {
                   "nome": "MODULAR CONFERMA ORDINE 26_02641 MD_SaleOrdForm_2022 RIF.MeM.pdf",
@@ -217361,6 +217425,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REFRICELL SERVICE PRV _437 _C009382 RIF.LAMBOGLIA.pdf"
                 },
                 {
+                  "nome": "REPA ITALIA SRL Ordine dacquisto_260119_20260528_095832.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vrbwg93rjowrshi8og5e8/REPA-ITALIA-SRL-Ordine-dacquisto_260119_20260528_095832.pdf?rlkey=vtjyasv8pdak8kwqsf4hibd5f&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260119_20260528_095832.pdf"
+                },
+                {
                   "nome": "REPA ORDINE_CLIENTE-1010970-170212 RIF.MADI MIXER+MAG.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -217449,6 +217521,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN Ordine dacquisto_260031_20260330_173647 RIF.DE MICHELE.pdf"
                 },
                 {
+                  "nome": "SIRMAN spa Ordine dacquisto_260087_20260518_171047 RIF. Basato su Ordini cliente 260118.PASSION SUSHI PASSION SUSHI CUOCIPASTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d1o06tnipxyxau69f0t6y/SIRMAN-spa-Ordine-dacquisto_260087_20260518_171047-RIF.-Basato-su-Ordini-cliente-260118.PASSION-SUSHI-PASSION-SUSHI-CUOCIPASTA.pdf?rlkey=lav3nyjwargd67l5d17popfzp&dl=0?raw=1",
+                  "dimensione_kb": 59,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN spa Ordine dacquisto_260087_20260518_171047 RIF. Basato su Ordini cliente 260118.PASSION SUSHI PASSION SUSHI CUOCIPASTA.pdf"
+                },
+                {
+                  "nome": "SIRMAN spa Ordine dacquisto_260102_20260519_233206 RIF. Basato su Ordini cliente 260153. MIXER AD IMMERSIONA CICLONE MIXER AD IMMERSIONA CICLONE 28VT HAPPY MOMENTS.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fp225z550hx08qrqqkmnj/SIRMAN-spa-Ordine-dacquisto_260102_20260519_233206-RIF.-Basato-su-Ordini-cliente-260153.-MIXER-AD-IMMERSIONA-CICLONE-MIXER-AD-IMMERSIONA-CICLONE-28VT-HAPPY-MOMENTS.pdf?rlkey=q5dtd6g5hu7yhkpmlsnashn2f&dl=0?raw=1",
+                  "dimensione_kb": 31,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN spa Ordine dacquisto_260102_20260519_233206 RIF. Basato su Ordini cliente 260153. MIXER AD IMMERSIONA CICLONE MIXER AD IMMERSIONA CICLONE 28VT HAPPY MOMENTS.pdf"
+                },
+                {
                   "nome": "SLAYER BLADES ORDINE 25RC12709 RIF.HAPPY MOMENTS_VALVOLA.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -217479,6 +217567,14 @@
                   "link": "https://www.dropbox.com/scl/fi/e92dv4l7oqim9ccxbncha/SPAGNOLI-SNC-C2-00061-2026-SPAG-RIF.LENTINI.Pdf?rlkey=29or55pepr9h7l48s36pg61ei&dl=0?raw=1",
                   "dimensione_kb": 51,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SPAGNOLI SNC C2-00061-2026-SPAG RIF.LENTINI.Pdf"
+                },
+                {
+                  "nome": "STAFF CONFERMA ORDINE ImpegnoCli000520 RIF. I PASTICCI RICMABI STAFF.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/erhz7ijdvcuej6v7kceok/STAFF-CONFERMA-ORDINE-ImpegnoCli000520-RIF.-I-PASTICCI-RICMABI-STAFF.PDF?rlkey=k7hnnlmsw6cdzfvsq06tiflgc&dl=0?raw=1",
+                  "dimensione_kb": 90,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/STAFF CONFERMA ORDINE ImpegnoCli000520 RIF. I PASTICCI RICMABI STAFF.PDF"
                 },
                 {
                   "nome": "STAFF CONFERMA ORDINE Preventivo000861 RIF. I PASTICCI RICAMBI STAFF.PDF",
@@ -217551,6 +217647,14 @@
                   "link": "https://www.dropbox.com/scl/fi/2hkxmtjiu5jzqvlc8pgx6/UNIVAC-Ordine-dacquisto_250431_20251103_202450-RIF.BAR-ER-PIU.pdf?rlkey=68esae1ripciew0bd0d2zcefg&dl=0?raw=1",
                   "dimensione_kb": 74,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/UNIVAC Ordine dacquisto_250431_20251103_202450 RIF.BAR ER PIU'.pdf"
+                },
+                {
+                  "nome": "VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260097_20260519_233227 RIF. PALETTA AFFETTATRICE OMAS MOD. L 37S MATR.02605 VOLT 230.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oeu3t32y9bbz5euu7f7uc/VAN-BERKEL-INTERNATIONAL-SRL-Ordine-dacquisto_260097_20260519_233227-RIF.-PALETTA-AFFETTATRICE-OMAS-MOD.-L-37S-MATR.02605-VOLT-230.pdf?rlkey=jbfcu410mq4gmurom5dnxzew9&dl=0?raw=1",
+                  "dimensione_kb": 29,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260097_20260519_233227 RIF. PALETTA AFFETTATRICE OMAS MOD. L 37S MATR.02605 VOLT 230.pdf"
                 },
                 {
                   "nome": "VENTURA Conferma prenotazione ritiro.pdf",
@@ -217665,7 +217769,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3611
+              "_totale_file": 3623
             }
           ],
           "file": [
@@ -217750,38 +217854,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09170 RIF. CORRADO MICHELA_LEVTRONIC 500 aggiornamento.pdf"
             },
             {
-              "nome": "DE LUCA SRL Ordine dacquisto_260109_20260524_205338 RIF. ILAMA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2talo9qkybocaf120pve7/DE-LUCA-SRL-Ordine-dacquisto_260109_20260524_205338-RIF.-ILAMA.pdf?rlkey=80ic89nx55n8cdg3jhsrzacwd&dl=0?raw=1",
-              "dimensione_kb": 71,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260109_20260524_205338 RIF. ILAMA.pdf"
-            },
-            {
-              "nome": "DE LUCA SRL Ordine dacquisto_260110_20260524_213502.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/fa8ahsu7y24p5q1ipjqxg/DE-LUCA-SRL-Ordine-dacquisto_260110_20260524_213502.pdf?rlkey=8o8ftdlban7azyzgwbigtu7pm&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260110_20260524_213502.pdf"
-            },
-            {
-              "nome": "DE LUCA SRL Ordine dacquisto_260111_20260524_214102.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/bfsy5borvikr4b05lvtmp/DE-LUCA-SRL-Ordine-dacquisto_260111_20260524_214102.pdf?rlkey=1lyevsro2iisenursk1opk0c2&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260111_20260524_214102.pdf"
-            },
-            {
-              "nome": "DM COMMERCIALE S.R.L. Ordine dacquisto_260107_20260521_132039 RIF. LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/g837r1zd72b4d6timr9cy/DM-COMMERCIALE-S.R.L.-Ordine-dacquisto_260107_20260521_132039-RIF.-LA-TANA-GROUP-CHIAVARINA-QTA-10-Basato-su-Ordini-cliente-260.pdf?rlkey=gf4rnqsg0ji12dy2suk2op94i&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DM COMMERCIALE S.R.L. Ordine dacquisto_260107_20260521_132039 RIF. LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260.pdf"
-            },
-            {
               "nome": "FIMAR CONFERMA ORDINE 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -217806,28 +217878,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W03893VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RID.SANTA LUCIA MAG FR88.PDF"
             },
             {
-              "nome": "GO PACK S.R.L. a socio unico Ordine dacquisto_260099_20260518_094118.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/4u2bwa31ylgsa7t0d0dkh/GO-PACK-S.R.L.-a-socio-unico-Ordine-dacquisto_260099_20260518_094118.pdf?rlkey=cn10vafyhgh58dcaolstyx2lw&dl=0?raw=1",
-              "dimensione_kb": 74,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/GO PACK S.R.L. a socio unico Ordine dacquisto_260099_20260518_094118.pdf"
-            },
-            {
               "nome": "HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/x3d323200qt2weobdvlui/HENDI-CONFERMA-ORDINE-AB_AI260504823_701341_20260512-RIF.-PASSION-SUSHI.PDF?rlkey=ynbab7tc6fghq6l7ku5fu61nt&dl=0?raw=1",
               "dimensione_kb": 597,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF"
-            },
-            {
-              "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600001759_N0001759 RIF. RUGGIERO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/f6hvxav1ksrdr6qxyy2gn/IDEAM-INOX-CONFERMA-ORDINE-1ID202600001759_N0001759-RIF.-RUGGIERO.pdf?rlkey=arid4h54nva69oggrsjfb2dm1&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600001759_N0001759 RIF. RUGGIERO.pdf"
             },
             {
               "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600021881_N0002470 RIF. ILAMA TAVOLI PROF. 40.pdf",
@@ -217844,30 +217900,6 @@
               "link": "https://www.dropbox.com/scl/fi/fy1qtbbrqhinobtcm5he4/IFI-CONFERMA-Preventivo_26004420-RIF.-LA-CAPPELLINA-VETRINA-MIX.pdf?rlkey=ubwcfecmuqdcie838da9z39y0&dl=0?raw=1",
               "dimensione_kb": 2698,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IFI CONFERMA Preventivo_26004420 RIF. LA CAPPELLINA VETRINA MIX.pdf"
-            },
-            {
-              "nome": "KRUPPS CONFERMA ordine_26-03235 RIF. NERA KI DISPLAY + RICAMBI MAG.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xivond9pilg66ix6lkq9d/KRUPPS-CONFERMA-ordine_26-03235-RIF.-NERA-KI-DISPLAY-RICAMBI-MAG.pdf?rlkey=0jpx3mkclw06j3ybzmxuwrboi&dl=0?raw=1",
-              "dimensione_kb": 126,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KRUPPS CONFERMA ordine_26-03235 RIF. NERA KI DISPLAY + RICAMBI MAG.pdf"
-            },
-            {
-              "nome": "KRUPPS CONFERMA ordine_26-03235 RIF.NERA + MAG .pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/eu09wajbqt4rr4hv7haz3/KRUPPS-CONFERMA-ordine_26-03235-RIF.NERA-MAG.pdf?rlkey=lpnvs54yon6t8laxa8pehlyoq&dl=0?raw=1",
-              "dimensione_kb": 126,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KRUPPS CONFERMA ordine_26-03235 RIF.NERA + MAG .pdf"
-            },
-            {
-              "nome": "KRUPPS s.r.l. Ordine dacquisto_250210_20260603_170755 RIF. KIT DISPLAY PER NERA + MAG DATA TRASMISSIONE 21_05_26.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/low4e5xzvnnpd9qtkx763/KRUPPS-s.r.l.-Ordine-dacquisto_250210_20260603_170755-RIF.-KIT-DISPLAY-PER-NERA-MAG-DATA-TRASMISSIONE-21_05_26.pdf?rlkey=dur70c8ezd2yphu0zodfar5d4&dl=0?raw=1",
-              "dimensione_kb": 29,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KRUPPS s.r.l. Ordine dacquisto_250210_20260603_170755 RIF. KIT DISPLAY PER NERA + MAG DATA TRASMISSIONE 21_05_26.pdf"
             },
             {
               "nome": "LOTUS CONFERMA ORIDNE 00000000390460_00000000067519900 RIF. LIDO VALENTINA.pdf",
@@ -217894,36 +217926,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MECNOSUD S.R.L. Ordine dacquisto_260044_20260513_183524 RIF. MeM IMPASTATRICE IM25D.pdf"
             },
             {
-              "nome": "MODULAR CONFERMA ORDINE 26-03984 MD_SaleOrdForm_2022 RIF. MeM CAVALLETTO FORNO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hp5n8kybsm0ergcqkimby/MODULAR-CONFERMA-ORDINE-26-03984-MD_SaleOrdForm_2022-RIF.-MeM-CAVALLETTO-FORNO.pdf?rlkey=o5ijkvshy1j8pwr42cousvd2m&dl=0?raw=1",
-              "dimensione_kb": 140,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26-03984 MD_SaleOrdForm_2022 RIF. MeM CAVALLETTO FORNO.pdf"
-            },
-            {
-              "nome": "MODULAR CONFERMA ORDINE 26-04237 MD_SaleOrdForm_2022 RIF. LA SORGENTE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/amu3atu3ymbewkynkx04x/MODULAR-CONFERMA-ORDINE-26-04237-MD_SaleOrdForm_2022-RIF.-LA-SORGENTE.pdf?rlkey=odkqypq7g93500ibukg3w8xpi&dl=0?raw=1",
-              "dimensione_kb": 141,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26-04237 MD_SaleOrdForm_2022 RIF. LA SORGENTE.pdf"
-            },
-            {
               "nome": "MODULAR CONFERMA ORDINE 26-04251 MD_SaleOrdForm_2022 RIF. SANTA LUCIA CUCINA E GRIGLIA.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/pof4aq57zvbwk4492adyc/MODULAR-CONFERMA-ORDINE-26-04251-MD_SaleOrdForm_2022-RIF.-SANTA-LUCIA-CUCINA-E-GRIGLIA.pdf?rlkey=9ax13o23jqnh0wnlqt5wo8e8g&dl=0?raw=1",
               "dimensione_kb": 141,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26-04251 MD_SaleOrdForm_2022 RIF. SANTA LUCIA CUCINA E GRIGLIA.pdf"
-            },
-            {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260119_20260528_095832.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/vrbwg93rjowrshi8og5e8/REPA-ITALIA-SRL-Ordine-dacquisto_260119_20260528_095832.pdf?rlkey=vtjyasv8pdak8kwqsf4hibd5f&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260119_20260528_095832.pdf"
             },
             {
               "nome": "SIRMAN CONFERMA ORDINE 2010251338 DEL 18_05_2026 RIF. MeM HppyM PassionSushi.pdf",
@@ -217934,22 +217942,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010251338 DEL 18_05_2026 RIF. MeM HppyM PassionSushi.pdf"
             },
             {
-              "nome": "SIRMAN spa Ordine dacquisto_260087_20260518_171047 RIF. Basato su Ordini cliente 260118.PASSION SUSHI PASSION SUSHI CUOCIPASTA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/d1o06tnipxyxau69f0t6y/SIRMAN-spa-Ordine-dacquisto_260087_20260518_171047-RIF.-Basato-su-Ordini-cliente-260118.PASSION-SUSHI-PASSION-SUSHI-CUOCIPASTA.pdf?rlkey=lav3nyjwargd67l5d17popfzp&dl=0?raw=1",
-              "dimensione_kb": 59,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260087_20260518_171047 RIF. Basato su Ordini cliente 260118.PASSION SUSHI PASSION SUSHI CUOCIPASTA.pdf"
-            },
-            {
-              "nome": "SIRMAN spa Ordine dacquisto_260102_20260519_233206 RIF. Basato su Ordini cliente 260153. MIXER AD IMMERSIONA CICLONE MIXER AD IMMERSIONA CICLONE 28VT HAPPY MOMENTS.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/fp225z550hx08qrqqkmnj/SIRMAN-spa-Ordine-dacquisto_260102_20260519_233206-RIF.-Basato-su-Ordini-cliente-260153.-MIXER-AD-IMMERSIONA-CICLONE-MIXER-AD-IMMERSIONA-CICLONE-28VT-HAPPY-MOMENTS.pdf?rlkey=q5dtd6g5hu7yhkpmlsnashn2f&dl=0?raw=1",
-              "dimensione_kb": 31,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260102_20260519_233206 RIF. Basato su Ordini cliente 260153. MIXER AD IMMERSIONA CICLONE MIXER AD IMMERSIONA CICLONE 28VT HAPPY MOMENTS.pdf"
-            },
-            {
               "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -217958,31 +217950,15 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF"
             },
             {
-              "nome": "STAFF CONFERMA ORDINE ImpegnoCli000520 RIF. I PASTICCI RICMABI STAFF.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/erhz7ijdvcuej6v7kceok/STAFF-CONFERMA-ORDINE-ImpegnoCli000520-RIF.-I-PASTICCI-RICMABI-STAFF.PDF?rlkey=k7hnnlmsw6cdzfvsq06tiflgc&dl=0?raw=1",
-              "dimensione_kb": 90,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/STAFF CONFERMA ORDINE ImpegnoCli000520 RIF. I PASTICCI RICMABI STAFF.PDF"
-            },
-            {
               "nome": "TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/we8srzoblk279r31v3dsh/TESTO-CONFERMA-13499466-conferma-aggiornata-RIF.NS.pdf?rlkey=0oewu7pvq55fyjmks6bhc3n0i&dl=0?raw=1",
               "dimensione_kb": 40,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
-            },
-            {
-              "nome": "VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260097_20260519_233227 RIF. PALETTA AFFETTATRICE OMAS MOD. L 37S MATR.02605 VOLT 230.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/oeu3t32y9bbz5euu7f7uc/VAN-BERKEL-INTERNATIONAL-SRL-Ordine-dacquisto_260097_20260519_233227-RIF.-PALETTA-AFFETTATRICE-OMAS-MOD.-L-37S-MATR.02605-VOLT-230.pdf?rlkey=jbfcu410mq4gmurom5dnxzew9&dl=0?raw=1",
-              "dimensione_kb": 29,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260097_20260519_233227 RIF. PALETTA AFFETTATRICE OMAS MOD. L 37S MATR.02605 VOLT 230.pdf"
             }
           ],
-          "_totale_file": 3650
+          "_totale_file": 3646
         }
       ],
       "file": []
