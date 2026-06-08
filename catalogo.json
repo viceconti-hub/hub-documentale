@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-07T07:58:40Z",
-  "totale_file": 24881,
+  "generato": "2026-06-08T00:26:38Z",
+  "totale_file": 24885,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -64967,7 +64967,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7105,
+      "totale_file": 7109,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -75075,90 +75075,97 @@
                   ],
                   "file": [],
                   "_totale_file": 12
+                },
+                {
+                  "nome": "ARCHIVIO",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "AI CARCONI SITUAZIONE AL 27_02_2021.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/i3zviauebwdjfalpupxkm/AI-CARCONI-SITUAZIONE-AL-27_02_2021.pdf?rlkey=ny8y8uwxtzipt2ko36tzespby&dl=0?raw=1",
+                      "dimensione_kb": 39,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO/AI CARCONI SITUAZIONE AL 27_02_2021.pdf"
+                    },
+                    {
+                      "nome": "FORNI A MICROONDE CM1519.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/vq9o3b76fz5pwxn41n2bc/FORNI-A-MICROONDE-CM1519.pdf?rlkey=ohcx4g4tv1lk30swocmkbc400&dl=0?raw=1",
+                      "dimensione_kb": 321,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO/FORNI A MICROONDE CM1519.pdf"
+                    },
+                    {
+                      "nome": "FORNI A MICROONDE CM1919.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/nkzuyh3j3mdrk6d9a5yut/FORNI-A-MICROONDE-CM1919.pdf?rlkey=wg598mp115qo0pr0ntlvkw7by&dl=0?raw=1",
+                      "dimensione_kb": 279,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO/FORNI A MICROONDE CM1919.pdf"
+                    },
+                    {
+                      "nome": "FORNI A MICROONDE CM1929.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/xx8rne3o1czg7tyh5q6zv/FORNI-A-MICROONDE-CM1929.pdf?rlkey=lm7svw4a9y57ma7pn83ads8w1&dl=0?raw=1",
+                      "dimensione_kb": 286,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO/FORNI A MICROONDE CM1929.pdf"
+                    },
+                    {
+                      "nome": "Fattura di vendita_2500432_20250708_131429 PELAPATATE E MICROONDE.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/iv88fih3ajuaioxcvmjye/Fattura-di-vendita_2500432_20250708_131429-PELAPATATE-E-MICROONDE.pdf?rlkey=qyjsawt654y0nemxf78416xnz&dl=0?raw=1",
+                      "dimensione_kb": 74,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO/Fattura di vendita_2500432_20250708_131429 PELAPATATE E MICROONDE.pdf"
+                    },
+                    {
+                      "nome": "Fattura di vendita_2500435_20250708_131519 ASSISTENZA PIETRA LAVICA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/up5376ytuybwudzc6oi9u/Fattura-di-vendita_2500435_20250708_131519-ASSISTENZA-PIETRA-LAVICA.pdf?rlkey=2lxpzyrp25tyqzfu30leo4qav&dl=0?raw=1",
+                      "dimensione_kb": 73,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO/Fattura di vendita_2500435_20250708_131519 ASSISTENZA PIETRA LAVICA.pdf"
+                    },
+                    {
+                      "nome": "Fattura di vendita_2500646_20250901_175253.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/rdqskbim2tlskagxf4kdb/Fattura-di-vendita_2500646_20250901_175253.pdf?rlkey=wpp7z1bqu31r6f557lm00zfyz&dl=0?raw=1",
+                      "dimensione_kb": 74,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO/Fattura di vendita_2500646_20250901_175253.pdf"
+                    },
+                    {
+                      "nome": "Fattura di vendita_2500647_20250901_175900.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/oioohadw4olredocxzjtu/Fattura-di-vendita_2500647_20250901_175900.pdf?rlkey=osc5r8exwno0cqn3g8empiud7&dl=0?raw=1",
+                      "dimensione_kb": 73,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO/Fattura di vendita_2500647_20250901_175900.pdf"
+                    },
+                    {
+                      "nome": "Offerta di vendita_210666_20211005_103830.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/otsqzt592nqz7qfkxyiyp/Offerta-di-vendita_210666_20211005_103830.pdf?rlkey=x9108p6xumo0ykngj2nlz53ag&dl=0?raw=1",
+                      "dimensione_kb": 72,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO/Offerta di vendita_210666_20211005_103830.pdf"
+                    },
+                    {
+                      "nome": "Ordine cliente_250653_20250806_095508.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/bmnw38c2utg6lxm5805if/Ordine-cliente_250653_20250806_095508.pdf?rlkey=k8tkwnk3k1lpkwn67qlebb9ht&dl=0?raw=1",
+                      "dimensione_kb": 80,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/ARCHIVIO/Ordine cliente_250653_20250806_095508.pdf"
+                    }
+                  ],
+                  "_totale_file": 10
                 }
               ],
-              "file": [
-                {
-                  "nome": "AI CARCONI SITUAZIONE AL 27_02_2021.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/i3zviauebwdjfalpupxkm/AI-CARCONI-SITUAZIONE-AL-27_02_2021.pdf?rlkey=ny8y8uwxtzipt2ko36tzespby&dl=0?raw=1",
-                  "dimensione_kb": 39,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI SITUAZIONE AL 27_02_2021.pdf"
-                },
-                {
-                  "nome": "FORNI A MICROONDE CM1519.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/vq9o3b76fz5pwxn41n2bc/FORNI-A-MICROONDE-CM1519.pdf?rlkey=ohcx4g4tv1lk30swocmkbc400&dl=0?raw=1",
-                  "dimensione_kb": 321,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/FORNI A MICROONDE CM1519.pdf"
-                },
-                {
-                  "nome": "FORNI A MICROONDE CM1919.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/nkzuyh3j3mdrk6d9a5yut/FORNI-A-MICROONDE-CM1919.pdf?rlkey=wg598mp115qo0pr0ntlvkw7by&dl=0?raw=1",
-                  "dimensione_kb": 279,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/FORNI A MICROONDE CM1919.pdf"
-                },
-                {
-                  "nome": "FORNI A MICROONDE CM1929.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/xx8rne3o1czg7tyh5q6zv/FORNI-A-MICROONDE-CM1929.pdf?rlkey=lm7svw4a9y57ma7pn83ads8w1&dl=0?raw=1",
-                  "dimensione_kb": 286,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/FORNI A MICROONDE CM1929.pdf"
-                },
-                {
-                  "nome": "Fattura di vendita_2500432_20250708_131429 PELAPATATE E MICROONDE.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/iv88fih3ajuaioxcvmjye/Fattura-di-vendita_2500432_20250708_131429-PELAPATATE-E-MICROONDE.pdf?rlkey=qyjsawt654y0nemxf78416xnz&dl=0?raw=1",
-                  "dimensione_kb": 74,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/Fattura di vendita_2500432_20250708_131429 PELAPATATE E MICROONDE.pdf"
-                },
-                {
-                  "nome": "Fattura di vendita_2500435_20250708_131519 ASSISTENZA PIETRA LAVICA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/up5376ytuybwudzc6oi9u/Fattura-di-vendita_2500435_20250708_131519-ASSISTENZA-PIETRA-LAVICA.pdf?rlkey=2lxpzyrp25tyqzfu30leo4qav&dl=0?raw=1",
-                  "dimensione_kb": 73,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/Fattura di vendita_2500435_20250708_131519 ASSISTENZA PIETRA LAVICA.pdf"
-                },
-                {
-                  "nome": "Fattura di vendita_2500646_20250901_175253.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/rdqskbim2tlskagxf4kdb/Fattura-di-vendita_2500646_20250901_175253.pdf?rlkey=wpp7z1bqu31r6f557lm00zfyz&dl=0?raw=1",
-                  "dimensione_kb": 74,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/Fattura di vendita_2500646_20250901_175253.pdf"
-                },
-                {
-                  "nome": "Fattura di vendita_2500647_20250901_175900.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/oioohadw4olredocxzjtu/Fattura-di-vendita_2500647_20250901_175900.pdf?rlkey=osc5r8exwno0cqn3g8empiud7&dl=0?raw=1",
-                  "dimensione_kb": 73,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/Fattura di vendita_2500647_20250901_175900.pdf"
-                },
-                {
-                  "nome": "Offerta di vendita_210666_20211005_103830.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/otsqzt592nqz7qfkxyiyp/Offerta-di-vendita_210666_20211005_103830.pdf?rlkey=x9108p6xumo0ykngj2nlz53ag&dl=0?raw=1",
-                  "dimensione_kb": 72,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/Offerta di vendita_210666_20211005_103830.pdf"
-                },
-                {
-                  "nome": "Ordine cliente_250653_20250806_095508.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/bmnw38c2utg6lxm5805if/Ordine-cliente_250653_20250806_095508.pdf?rlkey=k8tkwnk3k1lpkwn67qlebb9ht&dl=0?raw=1",
-                  "dimensione_kb": 80,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/Ordine cliente_250653_20250806_095508.pdf"
-                }
-              ],
+              "file": [],
               "_totale_file": 22
             },
             {
@@ -85120,6 +85127,46 @@
                       "_totale_file": 2
                     },
                     {
+                      "nome": "FRYTOP ELETTRICO LOTUS FTLT-712ET MATRICOLA 19060479",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRYTOP ELETTRICO LOTUS FTLT-712ET MATRICOLA 19060479",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "FRYTOP ELETTRICO LOTUS ESPLOSO RICAMBI  COMPONENTICOMUNIGHIERACONCUFFIA(SNMATRDA1605)-560125700M00P00.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/iel9s20vfk4sowjyknkr5/FRYTOP-ELETTRICO-LOTUS-ESPLOSO-RICAMBI-COMPONENTICOMUNIGHIERACONCUFFIA-SNMATRDA1605-560125700M00P00.pdf?rlkey=r25l0327s9jrjbpl58a0necz6&dl=0?raw=1",
+                          "dimensione_kb": 161,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRYTOP ELETTRICO LOTUS FTLT-712ET MATRICOLA 19060479/FRYTOP ELETTRICO LOTUS ESPLOSO RICAMBI  COMPONENTICOMUNIGHIERACONCUFFIA(SNMATRDA1605)-560125700M00P00.pdf"
+                        },
+                        {
+                          "nome": "FRYTOP ELETTRICO LOTUS ESPLOSO RICAMBI  COMP_03_10-560111000M00P00.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/tp3udpfsw26r90gejbzaj/FRYTOP-ELETTRICO-LOTUS-ESPLOSO-RICAMBI-COMP_03_10-560111000M00P00.pdf?rlkey=vl9z1bt4btt89y6w9l8abercf&dl=0?raw=1",
+                          "dimensione_kb": 205,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRYTOP ELETTRICO LOTUS FTLT-712ET MATRICOLA 19060479/FRYTOP ELETTRICO LOTUS ESPLOSO RICAMBI  COMP_03_10-560111000M00P00.pdf"
+                        },
+                        {
+                          "nome": "FRYTOP ELETTRICO LOTUS ESPLOSO RICAMBI COMP_03_04-560100201M00P00.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/iinvetmsw74kyhvbwmaij/FRYTOP-ELETTRICO-LOTUS-ESPLOSO-RICAMBI-COMP_03_04-560100201M00P00.pdf?rlkey=55p27sjksmdon27jf26u3qgfb&dl=0?raw=1",
+                          "dimensione_kb": 292,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRYTOP ELETTRICO LOTUS FTLT-712ET MATRICOLA 19060479/FRYTOP ELETTRICO LOTUS ESPLOSO RICAMBI COMP_03_04-560100201M00P00.pdf"
+                        },
+                        {
+                          "nome": "FRYTOP ELETTRICO LOTUS ESPLOSO RICAMBI F2_18-78ET(SNMATRDA1605)-560011303M00P00.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/bka1ib7gmqgpwnc649gr2/FRYTOP-ELETTRICO-LOTUS-ESPLOSO-RICAMBI-F2_18-78ET-SNMATRDA1605-560011303M00P00.pdf?rlkey=j4uioaz56usrgeqruvqzcfazv&dl=0?raw=1",
+                          "dimensione_kb": 919,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRYTOP ELETTRICO LOTUS FTLT-712ET MATRICOLA 19060479/FRYTOP ELETTRICO LOTUS ESPLOSO RICAMBI F2_18-78ET(SNMATRDA1605)-560011303M00P00.pdf"
+                        }
+                      ],
+                      "_totale_file": 4
+                    },
+                    {
                       "nome": "FRYTOP MBM",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRYTOP MBM",
                       "cartelle": [],
@@ -85402,7 +85449,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/Speedy-Plus-e-Super-MARCIA-ARRESTO-Esploso.pdf"
                     }
                   ],
-                  "_totale_file": 57
+                  "_totale_file": 61
                 },
                 {
                   "nome": "HAPPY MOMENTS SITUAZIONE CONTABILE AL 11_10_2025",
@@ -85663,7 +85710,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/mbm cesti x pentole_offerta.pdf"
                 }
               ],
-              "_totale_file": 96
+              "_totale_file": 100
             },
             {
               "nome": "HOTEL SAN DOMENICO",
@@ -93231,7 +93278,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1287
+          "_totale_file": 1291
         },
         {
           "nome": "LAVELLO",
