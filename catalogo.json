@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-09T04:58:40Z",
-  "totale_file": 24946,
+  "generato": "2026-06-09T06:55:31Z",
+  "totale_file": 24951,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -178544,7 +178544,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4707,
+      "totale_file": 4712,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -179502,6 +179502,14 @@
               "link": "https://www.dropbox.com/scl/fi/f5triup39f2negzm3xk23/ALD-Automotive-Italia-S.r.l_INR0642110_2026-05-01.xml?rlkey=hkzxieizahy795wd3n2x8scmw&dl=0?raw=1",
               "dimensione_kb": 7,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ALD Automotive Italia S.r.l_INR0642110_2026-05-01.xml"
+            },
+            {
+              "nome": "ALD Automotive Italia S.r.l_INR0791000_2026-06-01.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/pocj2jnjbhcezoycc1icd/ALD-Automotive-Italia-S.r.l_INR0791000_2026-06-01.xml?rlkey=b0lf94lir11hbd5ajvymnre6s&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ALD Automotive Italia S.r.l_INR0791000_2026-06-01.xml"
             },
             {
               "nome": "ALD Automotive Italia S.r.l_INR1233761_2025-10-01.xml",
@@ -181432,6 +181440,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Cosmopol Vigilanza s.r.l_S3448_2025-06-05.xml"
             },
             {
+              "nome": "Cosmopol Vigilanza s.r.l_S3825_2026-06-04.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/c8ffaxkhha1t2k25ab2h6/Cosmopol-Vigilanza-s.r.l_S3825_2026-06-04.xml?rlkey=esj8cc9cs255wvkoiocg5uf1f&dl=0?raw=1",
+              "dimensione_kb": 27,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Cosmopol Vigilanza s.r.l_S3825_2026-06-04.xml"
+            },
+            {
               "nome": "Cosmopol Vigilanza s.r.l_S4155_2025-07-07.xml",
               "tipo": "File",
               "icona": "📎",
@@ -183238,6 +183254,14 @@
               "link": "https://www.dropbox.com/scl/fi/hiwccaqpfe4m5s8dmo1js/IDEAM-INOX-SRL_1301002026_2026-04-30.xml?rlkey=7jos12zb225rz99x556h6hn5t&dl=0?raw=1",
               "dimensione_kb": 90,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/IDEAM INOX SRL_1301002026_2026-04-30.xml"
+            },
+            {
+              "nome": "IDEAM INOX SRL_1643002026_2026-05-30.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/by68orovz2qdtbjzk62wn/IDEAM-INOX-SRL_1643002026_2026-05-30.xml?rlkey=78hnyykvh9hrydipoxg2j52tn&dl=0?raw=1",
+              "dimensione_kb": 128,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/IDEAM INOX SRL_1643002026_2026-05-30.xml"
             },
             {
               "nome": "IDEAM INOX SRL_177002025_2025-01-30.xml",
@@ -187056,7 +187080,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/iMatteo di Bruno Matteo_79_2025-03-25.xml"
             }
           ],
-          "_totale_file": 976
+          "_totale_file": 979
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -216520,6 +216544,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR 2025W02170VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.MADI.PDF"
                 },
                 {
+                  "nome": "FIMAR CONFERMA ORDINE 2026W03882VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. CARCONI MAG MIXER.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rnxkjw35ffav3qubfu83d/FIMAR-CONFERMA-ORDINE-2026W03882VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.-CARCONI-MAG-MIXER.PDF?rlkey=bayyxyky6ywmz5jr39485anl0&dl=0?raw=1",
+                  "dimensione_kb": 132,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR CONFERMA ORDINE 2026W03882VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. CARCONI MAG MIXER.PDF"
+                },
+                {
+                  "nome": "FIMAR CONFERMA ORDINE 2026W04362VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.SANTOS E PANAINO RUA.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7lxrfgipbrxy837ro2ivi/FIMAR-CONFERMA-ORDINE-2026W04362VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.SANTOS-E-PANAINO-RUA.PDF?rlkey=nnnlqz1v2gnexidvyvnrkjpgb&dl=0?raw=1",
+                  "dimensione_kb": 133,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR CONFERMA ORDINE 2026W04362VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.SANTOS E PANAINO RUA.PDF"
+                },
+                {
                   "nome": "FIMAR s.p.a. Ordine dacquisto_260073_20260510_192201 RIF. AFFETTATRICE PER GIOIA CHALET.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -218304,7 +218344,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3623
+              "_totale_file": 3625
             }
           ],
           "file": [
@@ -218365,6 +218405,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf"
             },
             {
+              "nome": "COLD LINE Packing list ordine n°26-08381.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/kr6bxycyc76sv7zt0li8f/COLD-LINE-Packing-list-ordine-n-26-08381.pdf?rlkey=upzt86hge2bs3idcm2gg3r0e9&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE Packing list ordine n°26-08381.pdf"
+            },
+            {
               "nome": "COLD LINE srl Ordine dacquisto_260124_20260604_174405 RIF. RICAMBI PER STRADELLA, NERA, MAG.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -218395,14 +218443,6 @@
               "link": "https://www.dropbox.com/scl/fi/7ojwe6qg95w8mr34ntl36/FIMAR-CONFERMA-ORDINE-2026W03693VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.-PASSION-SUSHI.PDF?rlkey=7w9j4u7p71nip5f95ue673cmv&dl=0?raw=1",
               "dimensione_kb": 144,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF"
-            },
-            {
-              "nome": "FIMAR CONFERMA ORDINE 2026W03882VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. CARCONI MAG MIXER.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/rnxkjw35ffav3qubfu83d/FIMAR-CONFERMA-ORDINE-2026W03882VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.-CARCONI-MAG-MIXER.PDF?rlkey=bayyxyky6ywmz5jr39485anl0&dl=0?raw=1",
-              "dimensione_kb": 132,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W03882VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. CARCONI MAG MIXER.PDF"
             },
             {
               "nome": "FIMAR CONFERMA ORDINE 2026W03893VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RID.SANTA LUCIA MAG FR88.PDF",
@@ -218441,7 +218481,7 @@
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/u7prbt34lfbu52gs9vdj6/LOTUS-CONFERMA-ORIDNE-00000000390460_00000000067519900-RIF.-LIDO-VALENTINA.pdf?rlkey=tf1lz6gnl626ay9x6njqhy5ns&dl=0?raw=1",
-              "dimensione_kb": 608,
+              "dimensione_kb": 627,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/LOTUS CONFERMA ORIDNE 00000000390460_00000000067519900 RIF. LIDO VALENTINA.pdf"
             },
             {
@@ -218493,7 +218533,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3646
+          "_totale_file": 3648
         }
       ],
       "file": []
