@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-09T00:18:02Z",
-  "totale_file": 24942,
+  "generato": "2026-06-09T02:14:31Z",
+  "totale_file": 24943,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -136323,7 +136323,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4371,
+      "totale_file": 4372,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -141827,6 +141827,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA SCHEDE TECNICHE/CB316-IT.pdf"
                 },
                 {
+                  "nome": "PRODUTTORE DI GHIACCIO BREMA CB1565_HC_NE26-IT.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mrutzy3r5byuhprpna7pr/PRODUTTORE-DI-GHIACCIO-BREMA-CB1565_HC_NE26-IT.pdf?rlkey=lfc26kcy77tztc356dhg8myxf&dl=0?raw=1",
+                  "dimensione_kb": 827,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA SCHEDE TECNICHE/PRODUTTORE DI GHIACCIO BREMA CB1565_HC_NE26-IT.pdf"
+                },
+                {
                   "nome": "SCHEDA CB184.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -141835,7 +141843,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/BREMA SCHEDE TECNICHE/SCHEDA CB184.pdf"
                 }
               ],
-              "_totale_file": 3
+              "_totale_file": 4
             }
           ],
           "file": [
@@ -141856,7 +141864,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/BREMA/100.BREMA LISTINO_RICAMBI_2025.pdf"
             }
           ],
-          "_totale_file": 52
+          "_totale_file": 53
         },
         {
           "nome": "BRITA",
