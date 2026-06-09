@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-09T06:55:31Z",
-  "totale_file": 24951,
+  "generato": "2026-06-09T07:59:50Z",
+  "totale_file": 24953,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -218542,7 +218542,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2370,
+      "totale_file": 2372,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -237901,7 +237901,7 @@
                           "nome": "ZANUSSI COPIA TITOLI BRT 27_08_2024.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/t5t41h0p00ojcflh0t4pw/ZANUSSI-COPIA-TITOLI-BRT-27_08_2024.pdf?rlkey=gqakecvirzfqroq08isz4kbtv&dl=0?raw=1",
                           "dimensione_kb": 290,
                           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/ZANUSSI ELECTROLUX  PAGAMENTI/ZANUSSI COPIA TITOLI BRT 27_08_2024.pdf"
                         },
@@ -239608,6 +239608,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/LA MITO KLIMAITALIA Dettaglio bonifico istantaneo DEL 28_04_2026.pdf"
             },
             {
+              "nome": "LOTUS COPIA TITOLO Scansione 8 giu 2026, 12.56.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7hy655u1wv0jn94aerd1l/LOTUS-COPIA-TITOLO-Scansione-8-giu-2026-12.56.pdf?rlkey=fpwaht5r9lz18kp92wrzdgadg&dl=0?raw=1",
+              "dimensione_kb": 761,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/LOTUS COPIA TITOLO Scansione 8 giu 2026, 12.56.pdf"
+            },
+            {
               "nome": "LOTUS Dettaglio bonifico istantaneo DEL 13_04_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -239622,6 +239630,14 @@
               "link": "https://www.dropbox.com/scl/fi/m7q9vi2m1hc096xjg7jmy/LOTUS-NOCERA-STREET-FOOD-CONFERMA-00000000385952_00000000066483400.pdf?rlkey=l2wba2yn89e2doke0d00gxz82&dl=0?raw=1",
               "dimensione_kb": 317,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/LOTUS NOCERA STREET FOOD CONFERMA 00000000385952_00000000066483400.pdf"
+            },
+            {
+              "nome": "LOTUS RICEVUTA AR Scansione 8 giu 2026, 13.25.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2e07a3xsfei2qet39g1lh/LOTUS-RICEVUTA-AR-Scansione-8-giu-2026-13.25.pdf?rlkey=nfzrh9e7ydow94pdmflmx5ry1&dl=0?raw=1",
+              "dimensione_kb": 604,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/LOTUS RICEVUTA AR Scansione 8 giu 2026, 13.25.pdf"
             },
             {
               "nome": "MECNOSUD COPIA TITOLI BRT 25_09_2025.jpeg",
@@ -239856,7 +239872,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2350
+          "_totale_file": 2352
         }
       ],
       "file": []
