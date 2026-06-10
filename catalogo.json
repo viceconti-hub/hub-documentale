@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-09T08:15:52Z",
+  "generato": "2026-06-10T00:21:47Z",
   "totale_file": 24953,
   "totale_sezioni": 8,
   "sezioni": [
@@ -83747,6 +83747,38 @@
                       "_totale_file": 1
                     },
                     {
+                      "nome": "LAVAOGGETTI ATA ALP 01",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/DELIZIE DEL FORNO/DELIZIE DEL FORNO AREA TECNICA/LAVAOGGETTI ATA ALP 01",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "LAVAOGGETTI ALP 01 ESPLOSO ELETTRICO_.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/rm2c08himzyoib1nvxv86/LAVAOGGETTI-ALP-01-ESPLOSO-ELETTRICO_.pdf?rlkey=rezo2fn4s29asi7ea4yir8saq&dl=0?raw=1",
+                          "dimensione_kb": 105,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/DELIZIE DEL FORNO/DELIZIE DEL FORNO AREA TECNICA/LAVAOGGETTI ATA ALP 01/LAVAOGGETTI ALP 01 ESPLOSO ELETTRICO_.pdf"
+                        },
+                        {
+                          "nome": "LAVAOGGETTI ALP 01 ESPLOSO IDRAULICO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/7loxvx2thix9g57z42qed/LAVAOGGETTI-ALP-01-ESPLOSO-IDRAULICO.pdf?rlkey=z822isx201oiog8zlpsl6thdr&dl=0?raw=1",
+                          "dimensione_kb": 154,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/DELIZIE DEL FORNO/DELIZIE DEL FORNO AREA TECNICA/LAVAOGGETTI ATA ALP 01/LAVAOGGETTI ALP 01 ESPLOSO IDRAULICO.pdf"
+                        },
+                        {
+                          "nome": "LAVAOGGETTI ALP 01 ESPLOSO MECCANICO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/jlviz4a5lfqjcctiy2jgg/LAVAOGGETTI-ALP-01-ESPLOSO-MECCANICO.pdf?rlkey=lzjkkr0zshtki1ho4anm2uksn&dl=0?raw=1",
+                          "dimensione_kb": 89,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/DELIZIE DEL FORNO/DELIZIE DEL FORNO AREA TECNICA/LAVAOGGETTI ATA ALP 01/LAVAOGGETTI ALP 01 ESPLOSO MECCANICO.pdf"
+                        }
+                      ],
+                      "_totale_file": 3
+                    },
+                    {
                       "nome": "RATIONAL",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/DELIZIE DEL FORNO/DELIZIE DEL FORNO AREA TECNICA/RATIONAL",
                       "cartelle": [],
@@ -83835,30 +83867,6 @@
                       "link": "https://www.dropbox.com/scl/fi/fsfsnw6baxot7ajkcjook/KENWOOD-KMP771.pdf?rlkey=us85zap5qh18t0egw2f52sg76&dl=0?raw=1",
                       "dimensione_kb": 799,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/DELIZIE DEL FORNO/DELIZIE DEL FORNO AREA TECNICA/KENWOOD KMP771.pdf"
-                    },
-                    {
-                      "nome": "LAVAOGGETTI ALP 01 ESPLOSO ELETTRICO_.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/rm2c08himzyoib1nvxv86/LAVAOGGETTI-ALP-01-ESPLOSO-ELETTRICO_.pdf?rlkey=rezo2fn4s29asi7ea4yir8saq&dl=0?raw=1",
-                      "dimensione_kb": 105,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/DELIZIE DEL FORNO/DELIZIE DEL FORNO AREA TECNICA/LAVAOGGETTI ALP 01 ESPLOSO ELETTRICO_.pdf"
-                    },
-                    {
-                      "nome": "LAVAOGGETTI ALP 01 ESPLOSO IDRAULICO.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/7loxvx2thix9g57z42qed/LAVAOGGETTI-ALP-01-ESPLOSO-IDRAULICO.pdf?rlkey=z822isx201oiog8zlpsl6thdr&dl=0?raw=1",
-                      "dimensione_kb": 154,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/DELIZIE DEL FORNO/DELIZIE DEL FORNO AREA TECNICA/LAVAOGGETTI ALP 01 ESPLOSO IDRAULICO.pdf"
-                    },
-                    {
-                      "nome": "LAVAOGGETTI ALP 01 ESPLOSO MECCANICO.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/jlviz4a5lfqjcctiy2jgg/LAVAOGGETTI-ALP-01-ESPLOSO-MECCANICO.pdf?rlkey=lzjkkr0zshtki1ho4anm2uksn&dl=0?raw=1",
-                      "dimensione_kb": 89,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/DELIZIE DEL FORNO/DELIZIE DEL FORNO AREA TECNICA/LAVAOGGETTI ALP 01 ESPLOSO MECCANICO.pdf"
                     },
                     {
                       "nome": "PRODOTTI per CLIENTE.pdf",
@@ -111973,7 +111981,7 @@
                   "nome": "LIDO COSTA BLU SITUAZIONE AL 16_08_2021.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/uzwym6pqkekrautiyl146/LIDO-COSTA-BLU-SITUAZIONE-AL-16_08_2021.pdf?rlkey=atsw2e8rhj8lciozybxleyxne&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 56,
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/LIDO COSTA BLU/LIDO COSTA BLU SITUAZIONE AL 16_08_2021.pdf"
                 },
@@ -112468,7 +112476,7 @@
                       "nome": "CIRIMELE Dettaglio bonifico.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/132uvjbu2bcyxmjun59up/CIRIMELE-Dettaglio-bonifico.pdf?rlkey=ucub0jj6q1i5ei2g238xddf5f&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 100,
                       "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/MAREBLU E GIOIA SRL/MAREBLU SITUAZIONE CONTABILE AL 6_07_2024/CIRIMELE Dettaglio bonifico.pdf"
                     },
