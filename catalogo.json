@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-11T04:54:29Z",
-  "totale_file": 24950,
+  "generato": "2026-06-11T06:47:38Z",
+  "totale_file": 24962,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -178504,7 +178504,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4712,
+      "totale_file": 4724,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -178792,6 +178792,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260109_20260530_221037 RIF. Basato su Ordini d'acquisto 260077. 260100..pdf"
             },
             {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260114_20260608_201339 RIF. SANTOS BACK BAR + PANAINO RUA TAVOLO REFRIGERATO Basato su O BACK BAR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9rp0oo9s9yufwli2jiep5/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260114_20260608_201339-RIF.-SANTOS-BACK-BAR-PANAINO-RUA-TAVOLO-REFRIGERATO-Basato-su-O-BACK-BAR.pdf?rlkey=78oxr1eo0n3yr38yq2ny4qfux&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260114_20260608_201339 RIF. SANTOS BACK BAR + PANAINO RUA TAVOLO REFRIGERATO Basato su O BACK BAR.pdf"
+            },
+            {
               "nome": "FIMEL DOCUMENTO DI TRASPORTO 1842025 DEL 22-12-2025  VICECONTI SNC DI PROSPERO VICECONTI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -178894,6 +178902,14 @@
               "link": "https://www.dropbox.com/scl/fi/w2kkbs1j4p9zg5hk5iiju/IDEAM-INOX-SRL-Entrata-merci-da-fornitore_260113_20260605_182208-RIF.-MeM-e-PASSIONE-SUSHI-Basato-su-Ordini-d-acquisto-260061.-260.pdf?rlkey=69ba9gl1jgqcjno8axdvhvu9h&dl=0?raw=1",
               "dimensione_kb": 61,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEAM INOX SRL Entrata merci da fornitore_260113_20260605_182208 RIF. MeM e PASSIONE SUSHI Basato su Ordini d'acquisto 260061. 260.pdf"
+            },
+            {
+              "nome": "IDEAM INOX SRL Entrata merci da fornitore_260116_20260608_203531 RIF. PASSION SUSHI CAPPA E MOTORE Basato su Ordini cliente 260118.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zg3cjggkxjjng7pf2uvx5/IDEAM-INOX-SRL-Entrata-merci-da-fornitore_260116_20260608_203531-RIF.-PASSION-SUSHI-CAPPA-E-MOTORE-Basato-su-Ordini-cliente-260118.pdf?rlkey=75xv87udq8cwge5zzs84v3pq8&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEAM INOX SRL Entrata merci da fornitore_260116_20260608_203531 RIF. PASSION SUSHI CAPPA E MOTORE Basato su Ordini cliente 260118.pdf"
             },
             {
               "nome": "IFI Spa Entrata merci da fornitore_260108_20260530_190946 RIF. LA REGINA TERMINAL CETNRALINA PER ESPOSITORE MURALE MARKET F.pdf",
@@ -179168,7 +179184,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/STAFF ddt 510.pdf"
             }
           ],
-          "_totale_file": 82
+          "_totale_file": 84
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -218309,6 +218325,14 @@
           ],
           "file": [
             {
+              "nome": "ACCIAIO T&D CONFERMA OFFERTA OFFVE-002497-2026 RIF. PASSION SUSHI INTEGRAZIONE LAVAGGIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6mdiy8kd8wyiutfnm10cf/ACCIAIO-T-D-CONFERMA-OFFERTA-OFFVE-002497-2026-RIF.-PASSION-SUSHI-INTEGRAZIONE-LAVAGGIO.pdf?rlkey=nw07jo0tq432d63ac6s7ukd7t&dl=0?raw=1",
+              "dimensione_kb": 688,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFERTA OFFVE-002497-2026 RIF. PASSION SUSHI INTEGRAZIONE LAVAGGIO.pdf"
+            },
+            {
               "nome": "ACCIAIO T&D CONFERMA ORDVE-001661-2026 RIF. SANTA LUCIA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -218341,6 +218365,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001780-2026 RIF. ACAL MENSOLA A PONTE.pdf"
             },
             {
+              "nome": "ACCIAIO T&D DISEGNO LAVAGGIO RIF. PASSION.jpg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/1c0mozvcif9b1v8jxnb4s/ACCIAIO-T-D-DISEGNO-LAVAGGIO-RIF.-PASSION.jpg?rlkey=llyxlmlu7ft7s4gith9my6r38&dl=0?raw=1",
+              "dimensione_kb": 16,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D DISEGNO LAVAGGIO RIF. PASSION.jpg"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260129_20260609_164605 RIF. Basato su Ordini cliente 260199..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/drhj0aggnesq4642auvvg/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260129_20260609_164605-RIF.-Basato-su-Ordini-cliente-260199..pdf?rlkey=u6pbm9jcuplel0tb3wk80683u&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260129_20260609_164605 RIF. Basato su Ordini cliente 260199..pdf"
+            },
+            {
               "nome": "ARISTARCO SPA Ordine dacquisto_250351_20260520_164212 RIF. RICAMBI RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -218363,6 +218403,14 @@
               "link": "https://www.dropbox.com/scl/fi/1nvb69rb24mkycvholsfl/BELLADONNA-DE-DIEGO-80X80-Preventivo-1463PRE-del-27-03-2026.pdf?rlkey=9submrwiw64r23lgwd0r4c34e&dl=0?raw=1",
               "dimensione_kb": 162,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf"
+            },
+            {
+              "nome": "BELLADONNA Preventivo 2859PRE del 08-06-2026 RIF. MACELLERIA DE DIEGO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/n22zq0fx49d883tgarppe/BELLADONNA-Preventivo-2859PRE-del-08-06-2026-RIF.-MACELLERIA-DE-DIEGO.pdf?rlkey=mg7ivsj4hn4h6rbuuxet8blhd&dl=0?raw=1",
+              "dimensione_kb": 173,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BELLADONNA Preventivo 2859PRE del 08-06-2026 RIF. MACELLERIA DE DIEGO.pdf"
             },
             {
               "nome": "COLD LINE Packing list ordine n°26-08381.pdf",
@@ -218397,6 +218445,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09170 RIF. CORRADO MICHELA_LEVTRONIC 500 aggiornamento.pdf"
             },
             {
+              "nome": "FE.MA CONFERMA ORDINE ImpegnoCli2026 0016759010541Viceconti snc20260604 RIF. IL MULINO RELE'.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nd6rc7nzfrzr77x14errx/FE.MA-CONFERMA-ORDINE-ImpegnoCli2026-0016759010541Viceconti-snc20260604-RIF.-IL-MULINO-RELE.PDF?rlkey=vw85hk9ye4hgvdbnexeeeykl0&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FE.MA CONFERMA ORDINE ImpegnoCli2026 0016759010541Viceconti snc20260604 RIF. IL MULINO RELE'.PDF"
+            },
+            {
               "nome": "FIMAR CONFERMA ORDINE 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -218411,6 +218467,22 @@
               "link": "https://www.dropbox.com/scl/fi/frwrqv7u9dsg529p3zdyi/FIMAR-CONFERMA-ORDINE-2026W03893VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RID.SANTA-LUCIA-MAG-FR88.PDF?rlkey=yqleyyy1nsx6qblr6f1dg0t7a&dl=0?raw=1",
               "dimensione_kb": 132,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W03893VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RID.SANTA LUCIA MAG FR88.PDF"
+            },
+            {
+              "nome": "FIMAR CONFERMA ORDINE 2026W04699VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. SANTOS BACKBAR INTEGRAZIONE.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/os7bfljupcs3mr8hrxrf6/FIMAR-CONFERMA-ORDINE-2026W04699VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.-SANTOS-BACKBAR-INTEGRAZIONE.PDF?rlkey=nco10wxmmuz4mo6v89fgqqpn0&dl=0?raw=1",
+              "dimensione_kb": 132,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W04699VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. SANTOS BACKBAR INTEGRAZIONE.PDF"
+            },
+            {
+              "nome": "FIMAR s.p.a. Ordine dacquisto_260127_20260608_201622 RIF. SANTOS BACKBAR INTEGRAZIONE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/09xo4dlmx3axvmf68z78u/FIMAR-s.p.a.-Ordine-dacquisto_260127_20260608_201622-RIF.-SANTOS-BACKBAR-INTEGRAZIONE.pdf?rlkey=i81rpr17xm5j3lpzlkth22fqj&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260127_20260608_201622 RIF. SANTOS BACKBAR INTEGRAZIONE.pdf"
             },
             {
               "nome": "HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF",
@@ -218469,6 +218541,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26-04251 MD_SaleOrdForm_2022 RIF. SANTA LUCIA CUCINA E GRIGLIA.pdf"
             },
             {
+              "nome": "MORINI s.r.l. Ordine dacquisto_260125_20260609_131955 RIF. Basato su Ordini cliente 250924. 260150. 260157. 260181..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/noio7406wld6p4awavp96/MORINI-s.r.l.-Ordine-dacquisto_260125_20260609_131955-RIF.-Basato-su-Ordini-cliente-250924.-260150.-260157.-260181..pdf?rlkey=w22sp03zmz6th0evq8h949nbt&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260125_20260609_131955 RIF. Basato su Ordini cliente 250924. 260150. 260157. 260181..pdf"
+            },
+            {
               "nome": "SIRMAN CONFERMA ORDINE 2010251338 DEL 18_05_2026 RIF. MeM HppyM PassionSushi.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -218485,15 +218565,31 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF"
             },
             {
+              "nome": "TAMAI S.R.L. Ordine dacquisto_260131_20260610_055501 RIF. AI CARCONI Basato su Ordini cliente 260200..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w2ucdxpybv7wklkrl3yob/TAMAI-S.R.L.-Ordine-dacquisto_260131_20260610_055501-RIF.-AI-CARCONI-Basato-su-Ordini-cliente-260200..pdf?rlkey=4ihwydik0e81am6cu91h1iqzx&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TAMAI S.R.L. Ordine dacquisto_260131_20260610_055501 RIF. AI CARCONI Basato su Ordini cliente 260200..pdf"
+            },
+            {
               "nome": "TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/we8srzoblk279r31v3dsh/TESTO-CONFERMA-13499466-conferma-aggiornata-RIF.NS.pdf?rlkey=0oewu7pvq55fyjmks6bhc3n0i&dl=0?raw=1",
               "dimensione_kb": 40,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
+            },
+            {
+              "nome": "ZINCO GROUP SRL Ordine dacquisto_260130_20260609_230743 RIF. PASSION SUSHI Basato su Offerte di vendita 260210..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9zh68oqkxc5brt5ml1uu4/ZINCO-GROUP-SRL-Ordine-dacquisto_260130_20260609_230743-RIF.-PASSION-SUSHI-Basato-su-Offerte-di-vendita-260210..pdf?rlkey=nzfuk5f0bpv9epbzlub9uttmr&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ZINCO GROUP SRL Ordine dacquisto_260130_20260609_230743 RIF. PASSION SUSHI Basato su Offerte di vendita 260210..pdf"
             }
           ],
-          "_totale_file": 3648
+          "_totale_file": 3658
         }
       ],
       "file": []
