@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-11T09:04:21Z",
-  "totale_file": 24958,
+  "generato": "2026-06-11T09:14:26Z",
+  "totale_file": 24963,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -64099,7 +64099,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 173,
+      "totale_file": 178,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -64554,6 +64554,54 @@
               "link": "https://www.dropbox.com/scl/fi/renpxn64gsfn2tgketw5z/FA-TU-RESIDUO-PRIMO-ORDINE-AL-23_03_2026-Ordine-cliente_250832_20260323_215352.pdf?rlkey=zjjye4wr7zuiczyuvk3ypikzs&dl=0?raw=1",
               "dimensione_kb": 64,
               "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026/FA TU RESIDUO PRIMO ORDINE AL 23_03_2026 Ordine cliente_250832_20260323_215352.pdf"
+            }
+          ],
+          "_totale_file": 5
+        },
+        {
+          "nome": "FA TU BALANCE 14_05_2026",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU BALANCE 14_05_2026",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "C16600001001-C - Manuale a corredo Balance.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/glu7r62j9uvxcx56o1faa/C16600001001-C-Manuale-a-corredo-Balance.pdf?rlkey=kc8ifh9toqsk9eaovambofnna&dl=0?raw=1",
+              "dimensione_kb": 20378,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU BALANCE 14_05_2026/C16600001001-C - Manuale a corredo Balance.pdf"
+            },
+            {
+              "nome": "DISEGNO_IT2411326_SAN NICOLA ARCELLA (FA TU')_REV02.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/89g1hvk8rx4uwj2xqrh5r/DISEGNO_IT2411326_SAN-NICOLA-ARCELLA-FA-TU-_REV02.pdf?rlkey=j9futvgb5n5evtpx37jmsf809&dl=0?raw=1",
+              "dimensione_kb": 238,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU BALANCE 14_05_2026/DISEGNO_IT2411326_SAN NICOLA ARCELLA (FA TU')_REV02.pdf"
+            },
+            {
+              "nome": "OFFERTA_IT2411326_SAN NICOLA ARCELLA (FA TU')_REV02_141025.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/n29c91i8460d30lofhgtg/OFFERTA_IT2411326_SAN-NICOLA-ARCELLA-FA-TU-_REV02_141025.pdf?rlkey=8ay60k7me338ycitm88lwlwjo&dl=0?raw=1",
+              "dimensione_kb": 372,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU BALANCE 14_05_2026/OFFERTA_IT2411326_SAN NICOLA ARCELLA (FA TU')_REV02_141025.pdf"
+            },
+            {
+              "nome": "PROGETTO_IT2505186_MININI GIOVANNI (M&M SRL)_REV01_170326.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zhcxshnn4i6eae4a83bim/PROGETTO_IT2505186_MININI-GIOVANNI-M-M-SRL-_REV01_170326.pdf?rlkey=v8tpq7286apb9hm6daui11owq&dl=0?raw=1",
+              "dimensione_kb": 2400,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU BALANCE 14_05_2026/PROGETTO_IT2505186_MININI GIOVANNI (M&M SRL)_REV01_170326.pdf"
+            },
+            {
+              "nome": "Screenshot 2026-05-14 101322.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/t5kh1ynkpd824u68ulbei/Screenshot-2026-05-14-101322.png?rlkey=bpn65tnqpyqmug4q31y93cr6d&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU BALANCE 14_05_2026/Screenshot 2026-05-14 101322.png"
             }
           ],
           "_totale_file": 5
