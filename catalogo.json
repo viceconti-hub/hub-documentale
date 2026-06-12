@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-12T02:24:47Z",
-  "totale_file": 25034,
+  "generato": "2026-06-12T05:13:08Z",
+  "totale_file": 25038,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5817,
+      "totale_file": 5821,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1936,6 +1936,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_200479_20260514_173119.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Offerta di vendita_260060_20260610_152317 RIF. OFFERTA SPECIALE FORNO PIZZA ELETTRICO CUPPONE MARCHIATO KIP.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ixpmmfv4pzdrf4e8p4jj0/DA-SPECIFICARE-Offerta-di-vendita_260060_20260610_152317-RIF.-OFFERTA-SPECIALE-FORNO-PIZZA-ELETTRICO-CUPPONE-MARCHIATO-KIP.pdf?rlkey=y37a8dc3w62j3b92i3ygnfmgi&dl=0?raw=1",
+              "dimensione_kb": 80,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260060_20260610_152317 RIF. OFFERTA SPECIALE FORNO PIZZA ELETTRICO CUPPONE MARCHIATO KIP.pdf"
+            },
+            {
               "nome": "DA SPECIFICARE Offerta di vendita_260149_20260511_184212.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2078,6 +2086,14 @@
               "link": "https://www.dropbox.com/scl/fi/9u7rc5gdc1vf5s2plplly/FORASTIERO-FRANCESCO-Offerta-di-vendita_260188_20260526_183020.pdf?rlkey=pwez1c03yie9ai0pw180pka4r&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/FORASTIERO FRANCESCO Offerta di vendita_260188_20260526_183020.pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260211_20260610_151553.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pl9r0ybyjjrf6jdqerm93/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Offerta-di-vendita_260211_20260610_151553.pdf?rlkey=sh166lhv228alyyazt48smztr&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260211_20260610_151553.pdf"
             },
             {
               "nome": "GIOIA AURELIO Offerta di vendita_260183_20260521_172537.pdf",
@@ -2382,9 +2398,17 @@
               "link": "https://www.dropbox.com/scl/fi/rnsfsj118h6fzui0g6z6d/VE.RO-SRLS-Offerta-di-vendita_260204_20260607_122202-RIF.-LAVASTOVIGLIE-ARISTARCO-AF50.35-ESI-DD.pdf?rlkey=eh3tnh54tlird8c5fmcfkzn3f&dl=0?raw=1",
               "dimensione_kb": 78,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/VE.RO SRLS Offerta di vendita_260204_20260607_122202 RIF. LAVASTOVIGLIE ARISTARCO AF50.35 ESI DD.pdf"
+            },
+            {
+              "nome": "YOU MARINA S.R.L. Offerta di vendita_260212_20260610_152538 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oqc1hxoecjsec42q5wmyo/YOU-MARINA-S.R.L.-Offerta-di-vendita_260212_20260610_152538-RIF.-OFFERTA-SPECIALE-FORNO-CUPPONE-NUOVO-DISPONIBILE-IN-MAGAZZIN.pdf?rlkey=sa6mm7kcy6u5khk95cnvklix5&dl=0?raw=1",
+              "dimensione_kb": 82,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/YOU MARINA S.R.L. Offerta di vendita_260212_20260610_152538 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf"
             }
           ],
-          "_totale_file": 66
+          "_totale_file": 69
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -20798,7 +20822,7 @@
                               "nome": "catalogoREV3.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/l1hdhoagcp2gm65vwrb4t/catalogoREV3.pdf?rlkey=a6rji6xzhkgf9kjl7aalrpeg8&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 4473,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/MACELLERIA CAPUTO VINCENZO/STAGIONELLO E INSACCATRICE/catalogoREV3.pdf"
                             },
@@ -58259,7 +58283,7 @@
                       "nome": "TA13-1BJ-710.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/8pszkrjdzc2ss4vbzdjsh/TA13-1BJ-710.pdf?rlkey=aejvj1evbouop4io3z2osmolz&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 111,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ULV 28_05_2025/TA13-1BJ-710.pdf"
                     },
@@ -60179,6 +60203,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHECK Srl BAR MATER DEI Ordine cliente_260140_20260512_170003 RIF. DETERGENTE ECOSAN DET 6 QTA'1.pdf"
             },
             {
+              "nome": "CHOCOLATE & PASTRY SAS Ordine cliente_260201_20260611_094353 RIF. ARMADIO CONGELATORE COLDLINE WIND A901B Basato su Offerte di.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/043ihkjz61w21mk6s9kqx/CHOCOLATE-PASTRY-SAS-Ordine-cliente_260201_20260611_094353-RIF.-ARMADIO-CONGELATORE-COLDLINE-WIND-A901B-Basato-su-Offerte-di.pdf?rlkey=5cua1gqrxec8e6z5dlbvrofii&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHOCOLATE & PASTRY SAS Ordine cliente_260201_20260611_094353 RIF. ARMADIO CONGELATORE COLDLINE WIND A901B Basato su Offerte di.pdf"
+            },
+            {
               "nome": "CORRADO MICHELA Ordine cliente_260166_20260603_103030 RIF. Armadio LevTronic 550 -20°+40°C RH 45÷95% 1 porta.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -60635,7 +60667,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 72
+          "_totale_file": 73
         }
       ],
       "file": []
