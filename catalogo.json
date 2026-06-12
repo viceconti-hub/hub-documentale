@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-12T05:13:08Z",
-  "totale_file": 25038,
+  "generato": "2026-06-12T07:11:19Z",
+  "totale_file": 25040,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -179298,7 +179298,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4724,
+      "totale_file": 4726,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -192938,7 +192938,7 @@
                       "nome": "LONGONI CONFERMA @OrdineClientiLOGO2013 RIF.REGINA.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/sv4g37lh1g9pz8klaj5q3/LONGONI-CONFERMA-OrdineClientiLOGO2013-RIF.REGINA.pdf?rlkey=x83bvvt9k8szvpjv8tb3or4mu&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 134,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ARCHIVIO ORDINI D'ACQUISTO/LONGONI CONFERMA @OrdineClientiLOGO2013 RIF.REGINA.pdf"
                     },
@@ -219227,7 +219227,7 @@
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/d0eqjnfp5oade472yz3hy/COLDLINE-Conferma-ordine-n-26-08381-RIF.-PASSION-SUSHI.pdf?rlkey=0k01shuquhzb28gvjcqfw8aas&dl=0?raw=1",
-              "dimensione_kb": 97,
+              "dimensione_kb": 102,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-08381 RIF. PASSION SUSHI.pdf"
             },
             {
@@ -219237,6 +219237,14 @@
               "link": "https://www.dropbox.com/scl/fi/tzq8xq0j6qgy0vpguspd5/COLDLINE-Conferma-ordine-n-26-09170-RIF.-CORRADO-MICHELA_LEVTRONIC-500-aggiornamento.pdf?rlkey=eplfdzwdtql9143cdcgy2pu43&dl=0?raw=1",
               "dimensione_kb": 97,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09170 RIF. CORRADO MICHELA_LEVTRONIC 500 aggiornamento.pdf"
+            },
+            {
+              "nome": "Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/23xqh0wzqio27vs2fp7nx/Cimbali-Group-S.p.A.-Ordine-dacquisto_260054_20260611_093208-RIF.-DETERGENTE-GUARNIZIONI-DOCCETTE.pdf?rlkey=rbhhb6rqvbck1uj96010wqhsu&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
             },
             {
               "nome": "FE.MA CONFERMA ORDINE ImpegnoCli2026 0016759010541Viceconti snc20260604 RIF. IL MULINO RELE'.PDF",
@@ -219381,9 +219389,17 @@
               "link": "https://www.dropbox.com/scl/fi/9zh68oqkxc5brt5ml1uu4/ZINCO-GROUP-SRL-Ordine-dacquisto_260130_20260609_230743-RIF.-PASSION-SUSHI-Basato-su-Offerte-di-vendita-260210..pdf?rlkey=nzfuk5f0bpv9epbzlub9uttmr&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ZINCO GROUP SRL Ordine dacquisto_260130_20260609_230743 RIF. PASSION SUSHI Basato su Offerte di vendita 260210..pdf"
+            },
+            {
+              "nome": "ZINCO GROUP SRL Ordine dacquisto_260132_20260610_154806 RIF. PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE COLLARI DI FISSA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rk16wuntvr6av2em4jmf0/ZINCO-GROUP-SRL-Ordine-dacquisto_260132_20260610_154806-RIF.-PASSION-SUSHI-INTEGRAZIONE-ORDINE-TUBAZIONE-COLLARI-DI-FISSA.pdf?rlkey=b4k2x3r9d10dq5so3ow13lc5w&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ZINCO GROUP SRL Ordine dacquisto_260132_20260610_154806 RIF. PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE COLLARI DI FISSA.pdf"
             }
           ],
-          "_totale_file": 3658
+          "_totale_file": 3660
         }
       ],
       "file": []
