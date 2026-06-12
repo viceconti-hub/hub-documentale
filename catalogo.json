@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-12T07:11:19Z",
-  "totale_file": 25040,
+  "generato": "2026-06-12T08:16:49Z",
+  "totale_file": 25041,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -219408,7 +219408,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2373,
+      "totale_file": 2374,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -240338,6 +240338,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/GLS RINNOVO ABBONAMENTO.pdf"
             },
             {
+              "nome": "HENDI Dettaglio bonifico istantaneo DEL 12_06_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ybwyrwj307hbte5etbp52/HENDI-Dettaglio-bonifico-istantaneo-DEL-12_06_2026.pdf?rlkey=9ulzb4i9y21v66fxpv65ztp42&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/HENDI Dettaglio bonifico istantaneo DEL 12_06_2026.pdf"
+            },
+            {
               "nome": "HOSHIZAKI Dettaglio bonifico istantaneo DEL 27_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -240746,7 +240754,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2353
+          "_totale_file": 2354
         }
       ],
       "file": []
