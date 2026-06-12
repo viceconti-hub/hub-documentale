@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-12T00:23:05Z",
-  "totale_file": 24986,
+  "generato": "2026-06-12T02:24:47Z",
+  "totale_file": 25034,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -136523,7 +136523,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4372,
+      "totale_file": 4420,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -166328,7 +166328,7 @@
               "nome": "KAREL_DITO SAMA_LISTINO_02_2022.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/uyk7zdhzibry54bbmt08d/KAREL_DITO-SAMA_LISTINO_02_2022.pdf?rlkey=aldbb1gkz7bhui5vyuz49geq9&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 4170,
               "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL_DITO SAMA_LISTINO_02_2022.pdf"
             },
@@ -172477,6 +172477,552 @@
               "_totale_file": 4
             },
             {
+              "nome": "RATIONAL SOFTWARE",
+              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE",
+              "cartelle": [
+                {
+                  "nome": "iCombiPro_iCombiClassic_sw",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw",
+                  "cartelle": [
+                    {
+                      "nome": "0_pkgs",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs",
+                      "cartelle": [
+                        {
+                          "nome": "C1-keys",
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/C1-keys",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "application.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/9rp46v261qyurfscpglic/application.tar.gz?rlkey=77gg9kl6xfp1edz7ubku65qr5&dl=0?raw=1",
+                              "dimensione_kb": 105030,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/C1-keys/application.tar.gz"
+                            },
+                            {
+                              "nome": "initdb.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/7rgh87w1xta3nwuvjid2d/initdb.tar.gz?rlkey=26mmh9wxnvlmmyoo49w2l7bw0&dl=0?raw=1",
+                              "dimensione_kb": 81729,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/C1-keys/initdb.tar.gz"
+                            },
+                            {
+                              "nome": "linux.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/4o0xr4wtq6oijckkfbz74/linux.tar.gz?rlkey=aywj3wxbsls1ymzz1zici9q2t&dl=0?raw=1",
+                              "dimensione_kb": 14603,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/C1-keys/linux.tar.gz"
+                            },
+                            {
+                              "nome": "manifests.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/tr7l2y6iwkrvh9rdcof2p/manifests.tar.gz?rlkey=elq32yrfv387k3i2phcurw3vk&dl=0?raw=1",
+                              "dimensione_kb": 3,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/C1-keys/manifests.tar.gz"
+                            },
+                            {
+                              "nome": "mlo.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/sjzkr3qd0itr7v3m071cz/mlo.tar.gz?rlkey=aar4r1p7dfskxzh688u2pst7e&dl=0?raw=1",
+                              "dimensione_kb": 56,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/C1-keys/mlo.tar.gz"
+                            },
+                            {
+                              "nome": "rootfs.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/lsvaq2iqi6hdej5o2jicv/rootfs.tar.gz?rlkey=tgmqcqut0jyil0fyflu042x8n&dl=0?raw=1",
+                              "dimensione_kb": 158901,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/C1-keys/rootfs.tar.gz"
+                            },
+                            {
+                              "nome": "u-boot.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/nnmtvt60lv2dg09zezzo0/u-boot.tar.gz?rlkey=6m42w6nnw5q9bn7667hfxy3pp&dl=0?raw=1",
+                              "dimensione_kb": 202,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/C1-keys/u-boot.tar.gz"
+                            }
+                          ],
+                          "_totale_file": 7
+                        },
+                        {
+                          "nome": "Floor",
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Floor",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "help.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/1jygis8fu0l0z9b3t3jr0/help.tar.gz?rlkey=tki6jv4cvixtxivh126x6p5ii&dl=0?raw=1",
+                              "dimensione_kb": 74702,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Floor/help.tar.gz"
+                            },
+                            {
+                              "nome": "manifests.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/qsz7318yc2vpya3u63ube/manifests.tar.gz?rlkey=6w9u9eawbsj4mknwuxqu6qrkb&dl=0?raw=1",
+                              "dimensione_kb": 3,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Floor/manifests.tar.gz"
+                            },
+                            {
+                              "nome": "versions.json",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/vle2gpfq7u1bpadpecu0b/versions.json?rlkey=wtv04uvru6iva87xdzxeaf9zc&dl=0?raw=1",
+                              "dimensione_kb": 2,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Floor/versions.json"
+                            }
+                          ],
+                          "_totale_file": 3
+                        },
+                        {
+                          "nome": "Table",
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Table",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "help.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/0w6u1di9xq7ebgh3g8pzl/help.tar.gz?rlkey=l5u487vr7y5iu5rfbiglyv6lk&dl=0?raw=1",
+                              "dimensione_kb": 79458,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Table/help.tar.gz"
+                            },
+                            {
+                              "nome": "manifests.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/4388xsjnxvdt9pvp906li/manifests.tar.gz?rlkey=om159243gq7jf8skr3wzz4poz&dl=0?raw=1",
+                              "dimensione_kb": 3,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Table/manifests.tar.gz"
+                            },
+                            {
+                              "nome": "versions.json",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/7flmzwh4t2mgnvr8nf9y9/versions.json?rlkey=nhr7058fn85tbpnph1p6o90e4&dl=0?raw=1",
+                              "dimensione_kb": 2,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Table/versions.json"
+                            }
+                          ],
+                          "_totale_file": 3
+                        },
+                        {
+                          "nome": "Wa45",
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Wa45",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "help.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/shsqjuno8pq4q3z089pza/help.tar.gz?rlkey=6xsdcjdaxgjsdgzlu7qta0bsj&dl=0?raw=1",
+                              "dimensione_kb": 82588,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Wa45/help.tar.gz"
+                            },
+                            {
+                              "nome": "manifests.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/mvowj3hzqwuuxgpizja0y/manifests.tar.gz?rlkey=byrimup9ent5ajqn8vfgbvduz&dl=0?raw=1",
+                              "dimensione_kb": 3,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Wa45/manifests.tar.gz"
+                            },
+                            {
+                              "nome": "versions.json",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/s5bvrqicuz9xq1s71s0on/versions.json?rlkey=3qt8izzz4ffeavaeehx46xkbs&dl=0?raw=1",
+                              "dimensione_kb": 2,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Wa45/versions.json"
+                            }
+                          ],
+                          "_totale_file": 3
+                        },
+                        {
+                          "nome": "Xs",
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Xs",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "help.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/jwg49xz3ssoozbbypp01b/help.tar.gz?rlkey=ke63mh66zd4q46vy08yhugl2p&dl=0?raw=1",
+                              "dimensione_kb": 73460,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Xs/help.tar.gz"
+                            },
+                            {
+                              "nome": "manifests.tar.gz",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/k338v1lrib5o04uswjocc/manifests.tar.gz?rlkey=ee80uqgcgj81l5hsg1co61nau&dl=0?raw=1",
+                              "dimensione_kb": 3,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Xs/manifests.tar.gz"
+                            },
+                            {
+                              "nome": "versions.json",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/y6k6cor75mjczxt96pmua/versions.json?rlkey=yspj3rfor60504vz5lzjnkraz&dl=0?raw=1",
+                              "dimensione_kb": 2,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/0_pkgs/Xs/versions.json"
+                            }
+                          ],
+                          "_totale_file": 3
+                        }
+                      ],
+                      "file": [],
+                      "_totale_file": 19
+                    },
+                    {
+                      "nome": "BSP_NXP_P1",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/BSP_NXP_P1",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "RAG_UpdateV1.txt",
+                          "tipo": "Testo",
+                          "icona": "📃",
+                          "link": "https://www.dropbox.com/scl/fi/yi3g3kvrlsqwxt3gf3i1u/RAG_UpdateV1.txt?rlkey=mmgyve4d1xdgwr4wnaazfn780&dl=0?raw=1",
+                          "dimensione_kb": 0,
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/BSP_NXP_P1/RAG_UpdateV1.txt"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "BSP_ST_F4",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/BSP_ST_F4",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "RAG_UpdateV1.txt",
+                          "tipo": "Testo",
+                          "icona": "📃",
+                          "link": "https://www.dropbox.com/scl/fi/8gqk5lam8mwg1dnbz2vzz/RAG_UpdateV1.txt?rlkey=aziznyakkz1ojd2nmnsdl03dl&dl=0?raw=1",
+                          "dimensione_kb": 0,
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/BSP_ST_F4/RAG_UpdateV1.txt"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "BSP_ST_F7",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/BSP_ST_F7",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "RAG_UpdateV1.txt",
+                          "tipo": "Testo",
+                          "icona": "📃",
+                          "link": "https://www.dropbox.com/scl/fi/typxnak5kwf49rhxyeamz/RAG_UpdateV1.txt?rlkey=kh2m4r7bh4dnqsllk6ztl05j5&dl=0?raw=1",
+                          "dimensione_kb": 0,
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/BSP_ST_F7/RAG_UpdateV1.txt"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "imx8mn-1",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1",
+                      "cartelle": [
+                        {
+                          "nome": "pkgs",
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs",
+                          "cartelle": [
+                            {
+                              "nome": "Common",
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Common",
+                              "cartelle": [],
+                              "file": [
+                                {
+                                  "nome": "application.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/fxm7356gibcx8k1fobygs/application.tar.gz?rlkey=7m9t8setb4ev1e31u5865x3mv&dl=0?raw=1",
+                                  "dimensione_kb": 108526,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Common/application.tar.gz"
+                                },
+                                {
+                                  "nome": "imxboot.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/7y39ta6qfkbylgq5s0zt2/imxboot.tar.gz?rlkey=v8hmf6460dcdf6dev52nhzxke&dl=0?raw=1",
+                                  "dimensione_kb": 817,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Common/imxboot.tar.gz"
+                                },
+                                {
+                                  "nome": "initdb.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/1oqsgj9lm8epaza2c9n0u/initdb.tar.gz?rlkey=xmjsl35kaccxmcjhs3lo9oohf&dl=0?raw=1",
+                                  "dimensione_kb": 81733,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Common/initdb.tar.gz"
+                                },
+                                {
+                                  "nome": "linux.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/d3nssldhq6kfizj626ygl/linux.tar.gz?rlkey=o2stekab2c0ham9epsgw3fe7c&dl=0?raw=1",
+                                  "dimensione_kb": 26557,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Common/linux.tar.gz"
+                                },
+                                {
+                                  "nome": "manifests.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/qq5s57jo8zgq9o8b5pt70/manifests.tar.gz?rlkey=5kgkx05a3lfb8pjuvllz7dr1h&dl=0?raw=1",
+                                  "dimensione_kb": 2,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Common/manifests.tar.gz"
+                                },
+                                {
+                                  "nome": "rootfs.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/yti3zx10nfovrirnr6o3w/rootfs.tar.gz?rlkey=cjbvpunzfvl5ms8eki9pm1x0a&dl=0?raw=1",
+                                  "dimensione_kb": 190881,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Common/rootfs.tar.gz"
+                                },
+                                {
+                                  "nome": "versions.json",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/2w5yrls4nxx5h3onej447/versions.json?rlkey=ugnc41m4bj0ag6onz2bngwsbn&dl=0?raw=1",
+                                  "dimensione_kb": 1,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Common/versions.json"
+                                }
+                              ],
+                              "_totale_file": 7
+                            },
+                            {
+                              "nome": "Floor",
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Floor",
+                              "cartelle": [],
+                              "file": [
+                                {
+                                  "nome": "help.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/atpuuwmw51113k7e4qac5/help.tar.gz?rlkey=5tv6zwt0o1tnthh31kpt3zkf4&dl=0?raw=1",
+                                  "dimensione_kb": 74702,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Floor/help.tar.gz"
+                                },
+                                {
+                                  "nome": "manifests.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/vob5b77rvbw632buhc57b/manifests.tar.gz?rlkey=xn45tm8xvm3vw5lioorhjn3vq&dl=0?raw=1",
+                                  "dimensione_kb": 2,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Floor/manifests.tar.gz"
+                                },
+                                {
+                                  "nome": "versions.json",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/amx4iboee6xn3gx9a536p/versions.json?rlkey=yvs8xwr9hto6mxcgditw5cp16&dl=0?raw=1",
+                                  "dimensione_kb": 2,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Floor/versions.json"
+                                }
+                              ],
+                              "_totale_file": 3
+                            },
+                            {
+                              "nome": "Table",
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Table",
+                              "cartelle": [],
+                              "file": [
+                                {
+                                  "nome": "help.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/720ph8q6pf8fnsi49ht59/help.tar.gz?rlkey=0sg42tke665jqoe5afhh1tz14&dl=0?raw=1",
+                                  "dimensione_kb": 79458,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Table/help.tar.gz"
+                                },
+                                {
+                                  "nome": "manifests.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/wbjfpyw567aav3fk5xtlr/manifests.tar.gz?rlkey=hv14lkf5wsd8oyy6rmp3swgi8&dl=0?raw=1",
+                                  "dimensione_kb": 2,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Table/manifests.tar.gz"
+                                },
+                                {
+                                  "nome": "versions.json",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/mbvyvo0jrfnbcokv8rn2v/versions.json?rlkey=e4w5q152t1cwu5hb1ro8g4kn4&dl=0?raw=1",
+                                  "dimensione_kb": 2,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Table/versions.json"
+                                }
+                              ],
+                              "_totale_file": 3
+                            },
+                            {
+                              "nome": "Wa45",
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Wa45",
+                              "cartelle": [],
+                              "file": [
+                                {
+                                  "nome": "help.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/1783jg8avywhwe7sxb3mg/help.tar.gz?rlkey=1k2k8ks806gce9kv098czds63&dl=0?raw=1",
+                                  "dimensione_kb": 82588,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Wa45/help.tar.gz"
+                                },
+                                {
+                                  "nome": "manifests.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/k2kfpppa35ckrcrm8mt23/manifests.tar.gz?rlkey=5a9mqwb5rf7og9swdvgkvwn3i&dl=0?raw=1",
+                                  "dimensione_kb": 2,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Wa45/manifests.tar.gz"
+                                },
+                                {
+                                  "nome": "versions.json",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/5zgxhk0kv0tvbsq40miti/versions.json?rlkey=13bq10rh52ovrflcfkrxcyzfd&dl=0?raw=1",
+                                  "dimensione_kb": 2,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Wa45/versions.json"
+                                }
+                              ],
+                              "_totale_file": 3
+                            },
+                            {
+                              "nome": "Xs",
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Xs",
+                              "cartelle": [],
+                              "file": [
+                                {
+                                  "nome": "help.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/cpvp9hfeko2fwhgp5smnv/help.tar.gz?rlkey=jx7pmi05nns38eo33djj2i8na&dl=0?raw=1",
+                                  "dimensione_kb": 73460,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Xs/help.tar.gz"
+                                },
+                                {
+                                  "nome": "manifests.tar.gz",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/ovvg46umhtsoctjh3uivu/manifests.tar.gz?rlkey=ys33bxmutt13tar3px5lb0m5w&dl=0?raw=1",
+                                  "dimensione_kb": 2,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Xs/manifests.tar.gz"
+                                },
+                                {
+                                  "nome": "versions.json",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/pmcyx603rxhn1ia6qxw8o/versions.json?rlkey=wwya13av73yx21jbsmrekqtbr&dl=0?raw=1",
+                                  "dimensione_kb": 2,
+                                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/imx8mn-1/pkgs/Xs/versions.json"
+                                }
+                              ],
+                              "_totale_file": 3
+                            }
+                          ],
+                          "file": [],
+                          "_totale_file": 19
+                        }
+                      ],
+                      "file": [],
+                      "_totale_file": 19
+                    },
+                    {
+                      "nome": "pkgs",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/pkgs",
+                      "cartelle": [
+                        {
+                          "nome": "C1-keys",
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/pkgs/C1-keys",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "versions.json",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/7tgf358beikww0cgywsy2/versions.json?rlkey=eqoxdxxbmd0s8iceogebqcj5a&dl=0?raw=1",
+                              "dimensione_kb": 2,
+                              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/pkgs/C1-keys/versions.json"
+                            }
+                          ],
+                          "_totale_file": 1
+                        }
+                      ],
+                      "file": [],
+                      "_totale_file": 1
+                    }
+                  ],
+                  "file": [
+                    {
+                      "nome": "RAG_Update.txt",
+                      "tipo": "Testo",
+                      "icona": "📃",
+                      "link": "https://www.dropbox.com/scl/fi/1vbdzfklhan6784h9j4tg/RAG_Update.txt?rlkey=0a3qs8x36tg9mqzlt19twxe4k&dl=0?raw=1",
+                      "dimensione_kb": 0,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/RAG_Update.txt"
+                    },
+                    {
+                      "nome": "RAG_UpdateV0.txt",
+                      "tipo": "Testo",
+                      "icona": "📃",
+                      "link": "https://www.dropbox.com/scl/fi/3nww0skn3kj9vy1nyt171/RAG_UpdateV0.txt?rlkey=7217fxidgjilwzc16tnoukj5s&dl=0?raw=1",
+                      "dimensione_kb": 0,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/RAG_UpdateV0.txt"
+                    },
+                    {
+                      "nome": "RAG_UpdateV1.txt",
+                      "tipo": "Testo",
+                      "icona": "📃",
+                      "link": "https://www.dropbox.com/scl/fi/ro601ul03oxp2xxqd9m2a/RAG_UpdateV1.txt?rlkey=5434dliuee97lxtgew80mlpri&dl=0?raw=1",
+                      "dimensione_kb": 0,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/RAG_UpdateV1.txt"
+                    },
+                    {
+                      "nome": "SoftwareReleaseNotes_LM100_LM200_LMX_pdf.html",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/w85gojmyu2k4zp7kieypf/SoftwareReleaseNotes_LM100_LM200_LMX_pdf.html?rlkey=w0lp83uyoztzafd7nskpdnqxu&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/SoftwareReleaseNotes_LM100_LM200_LMX_pdf.html"
+                    },
+                    {
+                      "nome": "packages.json",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/1ngnq8gsk6ampnkmgg3ew/packages.json?rlkey=11xepi9sdmoa6cbqslcoxf7pc&dl=0?raw=1",
+                      "dimensione_kb": 3,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw/packages.json"
+                    }
+                  ],
+                  "_totale_file": 47
+                }
+              ],
+              "file": [
+                {
+                  "nome": "iCombiPro_iCombiClassic_sw.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/qq7q1wufgb5lohm5ywj41/iCombiPro_iCombiClassic_sw.zip?rlkey=mn6qkyf1px8yeh3v3jthz6ikd&dl=0?raw=1",
+                  "dimensione_kb": 1678569,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw.zip"
+                }
+              ],
+              "_totale_file": 48
+            },
+            {
               "nome": "RATIONAL WORKORDER INSTALLAZIONE",
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL WORKORDER INSTALLAZIONE",
               "cartelle": [],
@@ -172615,7 +173161,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/cannillo viceconti solo logo.pdf"
             }
           ],
-          "_totale_file": 91
+          "_totale_file": 139
         },
         {
           "nome": "REGINA ATTREZZATURE",
