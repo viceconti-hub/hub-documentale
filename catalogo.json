@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-13T00:23:36Z",
-  "totale_file": 25054,
+  "generato": "2026-06-13T02:22:21Z",
+  "totale_file": 25056,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -136684,7 +136684,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4420,
+      "totale_file": 4422,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -137217,39 +137217,47 @@
           ],
           "file": [
             {
-              "nome": "Acciaio T&D LISTINO_10-2020 ACCESSORI TAVOLI.pdf",
+              "nome": "001.variazione sconto dal 50% al 45+5 dal 01022022.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/duddjttqyktkwn59uo5a1/Acciaio-T-D-LISTINO_10-2020-ACCESSORI-TAVOLI.pdf?rlkey=bzxpmcja328arrydn0w839xoi&dl=0?raw=1",
-              "dimensione_kb": 5323,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Acciaio T&D LISTINO_10-2020 ACCESSORI TAVOLI.pdf"
-            },
-            {
-              "nome": "Acciaio T&D LISTINO_10-2020 TAVOLI LAVASTOVIGLIE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/b7gzqmi2n31f3q7dzxot6/Acciaio-T-D-LISTINO_10-2020-TAVOLI-LAVASTOVIGLIE.pdf?rlkey=d0x5xv99db4cw67nlrzwm6mrm&dl=0?raw=1",
-              "dimensione_kb": 1144,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Acciaio T&D LISTINO_10-2020 TAVOLI LAVASTOVIGLIE.pdf"
-            },
-            {
-              "nome": "Acciaio T&D LISTINO_10-2020.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/uutso7q95uh2asnpl9h8n/Acciaio-T-D-LISTINO_10-2020.pdf?rlkey=uc0rcck1h234jgm7som7q0fea&dl=0?raw=1",
-              "dimensione_kb": 18102,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Acciaio T&D LISTINO_10-2020.pdf"
-            },
-            {
-              "nome": "variazione sconto dal 50% al 45+5 dal 01022022.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/1wlnp4052qluvz8qqx5u8/variazione-sconto-dal-50-al-45-5-dal-01022022.pdf?rlkey=ekvn38igyelk7jsbe3qmcyyl7&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/1wlnp4052qluvz8qqx5u8/001.variazione-sconto-dal-50-al-45-5-dal-01022022.pdf?rlkey=ekvn38igyelk7jsbe3qmcyyl7&dl=0?raw=1",
               "dimensione_kb": 244,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/variazione sconto dal 50% al 45+5 dal 01022022.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/001.variazione sconto dal 50% al 45+5 dal 01022022.pdf"
+            },
+            {
+              "nome": "100.Acciaio T&D LISTINO_10-2020 ACCESSORI TAVOLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/duddjttqyktkwn59uo5a1/100.Acciaio-T-D-LISTINO_10-2020-ACCESSORI-TAVOLI.pdf?rlkey=bzxpmcja328arrydn0w839xoi&dl=0?raw=1",
+              "dimensione_kb": 5323,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/100.Acciaio T&D LISTINO_10-2020 ACCESSORI TAVOLI.pdf"
+            },
+            {
+              "nome": "100.Acciaio T&D LISTINO_10-2020 LAVAMANI E ACCESSORI LAVELLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vgtma9t5jwcjebfzfqbo8/100.Acciaio-T-D-LISTINO_10-2020-LAVAMANI-E-ACCESSORI-LAVELLI.pdf?rlkey=f3kmvusxkbelju8774aunjpi5&dl=0?raw=1",
+              "dimensione_kb": 849,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/100.Acciaio T&D LISTINO_10-2020 LAVAMANI E ACCESSORI LAVELLI.pdf"
+            },
+            {
+              "nome": "100.Acciaio T&D LISTINO_10-2020 TAVOLI LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b7gzqmi2n31f3q7dzxot6/100.Acciaio-T-D-LISTINO_10-2020-TAVOLI-LAVASTOVIGLIE.pdf?rlkey=d0x5xv99db4cw67nlrzwm6mrm&dl=0?raw=1",
+              "dimensione_kb": 1144,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/100.Acciaio T&D LISTINO_10-2020 TAVOLI LAVASTOVIGLIE.pdf"
+            },
+            {
+              "nome": "100.Acciaio T&D LISTINO_10-2020.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/uutso7q95uh2asnpl9h8n/100.Acciaio-T-D-LISTINO_10-2020.pdf?rlkey=uc0rcck1h234jgm7som7q0fea&dl=0?raw=1",
+              "dimensione_kb": 18102,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/100.Acciaio T&D LISTINO_10-2020.pdf"
             }
           ],
-          "_totale_file": 13
+          "_totale_file": 14
         },
         {
           "nome": "ACQUEDOTTO LUCANO",
@@ -166489,7 +166497,7 @@
               "nome": "KAREL_DITO SAMA_LISTINO_02_2022.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/uyk7zdhzibry54bbmt08d/KAREL_DITO-SAMA_LISTINO_02_2022.pdf?rlkey=aldbb1gkz7bhui5vyuz49geq9&dl=0?raw=1",
               "dimensione_kb": 4170,
               "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL_DITO SAMA_LISTINO_02_2022.pdf"
             },
@@ -172399,7 +172407,7 @@
                   "tipo": "Excel",
                   "icona": "📊",
                   "link": "https://www.dropbox.com/scl/fi/7q6w5nq7d5yqvyqifpbpg/RATIONAL-ELENCO-MATRICOLE-CLIENTI.xlsx?rlkey=kc8jpa5icayfo9bft9iemnl0b&dl=0?raw=1",
-                  "dimensione_kb": 19,
+                  "dimensione_kb": 20,
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/RATIONAL ELENCO MATRICOLE CLIENTI.xlsx"
                 },
                 {
@@ -172641,6 +172649,22 @@
               "nome": "RATIONAL SOFTWARE",
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE",
               "cartelle": [
+                {
+                  "nome": "RATIONAL FILE RECOVERY SANGINETO CRAWFORD E61SJ23053060996",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/RATIONAL FILE RECOVERY SANGINETO CRAWFORD E61SJ23053060996",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "E61SJ23053060996.zip",
+                      "tipo": "Archivio",
+                      "icona": "🗜️",
+                      "link": "https://www.dropbox.com/scl/fi/oyfhnnj6kpx8u9n0umktc/E61SJ23053060996.zip?rlkey=tcy1slpphyz90fsl91w7c16vs&dl=0?raw=1",
+                      "dimensione_kb": 0,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/RATIONAL FILE RECOVERY SANGINETO CRAWFORD E61SJ23053060996/E61SJ23053060996.zip"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
                 {
                   "nome": "iCombiPro_iCombiClassic_sw",
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw",
@@ -173181,7 +173205,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw.zip"
                 }
               ],
-              "_totale_file": 48
+              "_totale_file": 49
             },
             {
               "nome": "RATIONAL WORKORDER INSTALLAZIONE",
@@ -173322,7 +173346,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/cannillo viceconti solo logo.pdf"
             }
           ],
-          "_totale_file": 139
+          "_totale_file": 140
         },
         {
           "nome": "REGINA ATTREZZATURE",
