@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-13T05:08:40Z",
-  "totale_file": 25079,
+  "generato": "2026-06-13T07:02:36Z",
+  "totale_file": 25085,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -179635,7 +179635,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4726,
+      "totale_file": 4732,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -180067,6 +180067,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/KRUPPS s.r.l. Entrata merci da fornitore_260111_20260603_170231 RIF. KIT DISPLAY PER NERA + MAG Basato su Ordini d'acquisto 25021 DATA TRASMISSIONE 21_05_26.pdf"
             },
             {
+              "nome": "LOTUS spa Entrata merci da fornitore_260117_20260612_081143 RIF. LIDO VALENTINA Basato su Ordini cliente 260175. TITOLO MPS 3.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c8ivvhrvi97kzi4genmrv/LOTUS-spa-Entrata-merci-da-fornitore_260117_20260612_081143-RIF.-LIDO-VALENTINA-Basato-su-Ordini-cliente-260175.-TITOLO-MPS-3.pdf?rlkey=vl7bs46tjxm32a0a6jwvsvpy9&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/LOTUS spa Entrata merci da fornitore_260117_20260612_081143 RIF. LIDO VALENTINA Basato su Ordini cliente 260175. TITOLO MPS 3.pdf"
+            },
+            {
               "nome": "MODULAR DDT n°006546.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -180315,7 +180323,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/STAFF ddt 510.pdf"
             }
           ],
-          "_totale_file": 84
+          "_totale_file": 85
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -193275,7 +193283,7 @@
                       "nome": "LONGONI CONFERMA @OrdineClientiLOGO2013 RIF.REGINA.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/sv4g37lh1g9pz8klaj5q3/LONGONI-CONFERMA-OrdineClientiLOGO2013-RIF.REGINA.pdf?rlkey=x83bvvt9k8szvpjv8tb3or4mu&dl=0?raw=1",
                       "dimensione_kb": 134,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ARCHIVIO ORDINI D'ACQUISTO/LONGONI CONFERMA @OrdineClientiLOGO2013 RIF.REGINA.pdf"
                     },
@@ -219496,6 +219504,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001780-2026 RIF. ACAL MENSOLA A PONTE.pdf"
             },
             {
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-001964-2026 RIF.PASSION SUSHI LAVAMANI E ACCESSORI LAVAGGIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jn9mi9dtluq6ciwkv239i/ACCIAIO-T-D-CONFERMA-ORDVE-001964-2026-RIF.PASSION-SUSHI-LAVAMANI-E-ACCESSORI-LAVAGGIO.pdf?rlkey=gfs6975ildi5q0azfkk1ml4f1&dl=0?raw=1",
+              "dimensione_kb": 743,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001964-2026 RIF.PASSION SUSHI LAVAMANI E ACCESSORI LAVAGGIO.pdf"
+            },
+            {
               "nome": "ACCIAIO T&D DISEGNO LAVAGGIO RIF. PASSION.jpg",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -219510,6 +219526,22 @@
               "link": "https://www.dropbox.com/scl/fi/drhj0aggnesq4642auvvg/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260129_20260609_164605-RIF.-Basato-su-Ordini-cliente-260199..pdf?rlkey=u6pbm9jcuplel0tb3wk80683u&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260129_20260609_164605 RIF. Basato su Ordini cliente 260199..pdf"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260133_20260612_120047 RIF. INTEGRAZIONE AD ORDINE IN RITIRO OGGI POMERIGGIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ajal2ptb0oi8fi52vvxka/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260133_20260612_120047-RIF.-INTEGRAZIONE-AD-ORDINE-IN-RITIRO-OGGI-POMERIGGIO.pdf?rlkey=7ncwgnkf1tcaf2jshcknunrxq&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260133_20260612_120047 RIF. INTEGRAZIONE AD ORDINE IN RITIRO OGGI POMERIGGIO.pdf"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260134_20260612_141003 RIF. FA TU.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hiaxkko2ufyjh9cn5j49j/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260134_20260612_141003-RIF.-FA-TU.pdf?rlkey=zzfakb6bfvt5uitemcdsjkkhk&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260134_20260612_141003 RIF. FA TU.pdf"
             },
             {
               "nome": "ARISTARCO SPA Ordine dacquisto_250351_20260520_164212 RIF. RICAMBI RICAMBI.pdf",
@@ -219584,6 +219616,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
             },
             {
+              "nome": "DE LUCA SRL Ordine dacquisto_260135_20260612_143718 RIF. Basato su Ordini cliente 260115. 260162. 260205..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/j5rfx1dmafw8ebavbc2zf/DE-LUCA-SRL-Ordine-dacquisto_260135_20260612_143718-RIF.-Basato-su-Ordini-cliente-260115.-260162.-260205..pdf?rlkey=8wko679h1oi6vzc6op67u6uid&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260135_20260612_143718 RIF. Basato su Ordini cliente 260115. 260162. 260205..pdf"
+            },
+            {
               "nome": "FE.MA CONFERMA ORDINE ImpegnoCli2026 0016759010541Viceconti snc20260604 RIF. IL MULINO RELE'.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -219622,6 +219662,14 @@
               "link": "https://www.dropbox.com/scl/fi/09xo4dlmx3axvmf68z78u/FIMAR-s.p.a.-Ordine-dacquisto_260127_20260608_201622-RIF.-SANTOS-BACKBAR-INTEGRAZIONE.pdf?rlkey=i81rpr17xm5j3lpzlkth22fqj&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260127_20260608_201622 RIF. SANTOS BACKBAR INTEGRAZIONE.pdf"
+            },
+            {
+              "nome": "GRANDIMPIANTI Conferma d'ordine 510121739 RIF. LA TANA GROUP.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xx8cvdl1noybayrlv7cyz/GRANDIMPIANTI-Conferma-d-ordine-510121739-RIF.-LA-TANA-GROUP.pdf?rlkey=9vxi9vjfv9o6ac9c2tcnk6cj8&dl=0?raw=1",
+              "dimensione_kb": 84,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/GRANDIMPIANTI Conferma d'ordine 510121739 RIF. LA TANA GROUP.pdf"
             },
             {
               "nome": "HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF",
@@ -219736,7 +219784,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ZINCO GROUP SRL Ordine dacquisto_260132_20260610_154806 RIF. PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE COLLARI DI FISSA.pdf"
             }
           ],
-          "_totale_file": 3660
+          "_totale_file": 3665
         }
       ],
       "file": []
