@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-15T07:05:03Z",
-  "totale_file": 25085,
+  "generato": "2026-06-15T08:08:47Z",
+  "totale_file": 25086,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -219793,7 +219793,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2374,
+      "totale_file": 2375,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -240339,6 +240339,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/AMETRANO BONIFICO ISTANTANEO SMART CBI - Firma DEL 16_04_2026.pdf"
             },
             {
+              "nome": "AMETRANO COPIA TITOLO INTESA 15_06_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/j5n883m3ynh2kprqmb6z0/AMETRANO-COPIA-TITOLO-INTESA-15_06_2026.pdf?rlkey=hbrb6lqds5blfpgvned4y65wi&dl=0?raw=1",
+              "dimensione_kb": 819,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/AMETRANO COPIA TITOLO INTESA 15_06_2026.pdf"
+            },
+            {
               "nome": "ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -241139,7 +241147,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2354
+          "_totale_file": 2355
         }
       ],
       "file": []
