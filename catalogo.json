@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-16T05:13:57Z",
-  "totale_file": 25095,
+  "generato": "2026-06-16T07:11:45Z",
+  "totale_file": 25100,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -179707,7 +179707,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4732,
+      "totale_file": 4737,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -193659,7 +193659,7 @@
                       "nome": "MONDIAL FRAMEC ORDINE URGENTE RIF. IL MORO.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/e1654fthgycjgjb1vt0sh/MONDIAL-FRAMEC-ORDINE-URGENTE-RIF.-IL-MORO.pdf?rlkey=rgfneqa325qnbepq0qun1cuag&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 68,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ARCHIVIO ORDINI D'ACQUISTO/MONDIAL FRAMEC ORDINE URGENTE RIF. IL MORO.pdf"
                     },
@@ -216579,12 +216579,52 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA OFFVE-004456-2025 RIF.JOEL.pdf"
                 },
                 {
+                  "nome": "ACCIAIO T&D CONFERMA OFFVE-02569 RIF. FA TU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zuatg2o4ncqfn0fjxkje3/ACCIAIO-T-D-CONFERMA-OFFVE-02569-RIF.-FA-TU.pdf?rlkey=cyq8gemm9m7515ze2qa7jmyvc&dl=0?raw=1",
+                  "dimensione_kb": 687,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA OFFVE-02569 RIF. FA TU.pdf"
+                },
+                {
                   "nome": "ACCIAIO T&D CONFERMA ORDVE-000988-2026 RIF.ACAL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/opi23y8zkgkmbddyzliwi/ACCIAIO-T-D-CONFERMA-ORDVE-000988-2026-RIF.ACAL.pdf?rlkey=apqmtlq8h713393evh9ou8pf1&dl=0?raw=1",
                   "dimensione_kb": 743,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA ORDVE-000988-2026 RIF.ACAL.pdf"
+                },
+                {
+                  "nome": "ACCIAIO T&D CONFERMA ORDVE-001661-2026 RIF. SANTA LUCIA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0b8wvdtk2powh98croj7k/ACCIAIO-T-D-CONFERMA-ORDVE-001661-2026-RIF.-SANTA-LUCIA.pdf?rlkey=l8sokyrmfrm0j8f08j5w2r5v5&dl=0?raw=1",
+                  "dimensione_kb": 742,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA ORDVE-001661-2026 RIF. SANTA LUCIA.pdf"
+                },
+                {
+                  "nome": "ACCIAIO T&D CONFERMA ORDVE-001662-2026 RIF. PASSION SUSHI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hwiq0n0pyvz5hev5v7le5/ACCIAIO-T-D-CONFERMA-ORDVE-001662-2026-RIF.-PASSION-SUSHI.pdf?rlkey=3iuf0qxk7l3ll1rutwtuenicf&dl=0?raw=1",
+                  "dimensione_kb": 745,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA ORDVE-001662-2026 RIF. PASSION SUSHI.pdf"
+                },
+                {
+                  "nome": "ACCIAIO T&D CONFERMA ORDVE-001780-2026 RIF. ACAL MENSOLA A PONTE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ry0f10olk9sfguwlmao0c/ACCIAIO-T-D-CONFERMA-ORDVE-001780-2026-RIF.-ACAL-MENSOLA-A-PONTE.pdf?rlkey=fvn2bublmfehnobbcpi99saga&dl=0?raw=1",
+                  "dimensione_kb": 742,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA ORDVE-001780-2026 RIF. ACAL MENSOLA A PONTE.pdf"
+                },
+                {
+                  "nome": "ACCIAIO T&D CONFERMA ORDVE-001964-2026 RIF.PASSION SUSHI LAVAMANI E ACCESSORI LAVAGGIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jn9mi9dtluq6ciwkv239i/ACCIAIO-T-D-CONFERMA-ORDVE-001964-2026-RIF.PASSION-SUSHI-LAVAMANI-E-ACCESSORI-LAVAGGIO.pdf?rlkey=gfs6975ildi5q0azfkk1ml4f1&dl=0?raw=1",
+                  "dimensione_kb": 743,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA ORDVE-001964-2026 RIF.PASSION SUSHI LAVAMANI E ACCESSORI LAVAGGIO.pdf"
                 },
                 {
                   "nome": "ACCIAIO T&D CONFERMA ORDVE-002494-2025 RIF.RUGGIERO.pdf",
@@ -216787,6 +216827,30 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL Ordine dacquisto_260118_20260527_083320 RIF. FLAVIO BARLASCINI LAVALLO 140X70 Basato su Ordini cliente 26.pdf"
                 },
                 {
+                  "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260129_20260609_164605 RIF. Basato su Ordini cliente 260199..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/drhj0aggnesq4642auvvg/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260129_20260609_164605-RIF.-Basato-su-Ordini-cliente-260199..pdf?rlkey=u6pbm9jcuplel0tb3wk80683u&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL Ordine dacquisto_260129_20260609_164605 RIF. Basato su Ordini cliente 260199..pdf"
+                },
+                {
+                  "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260133_20260612_120047 RIF. INTEGRAZIONE AD ORDINE IN RITIRO OGGI POMERIGGIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ajal2ptb0oi8fi52vvxka/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260133_20260612_120047-RIF.-INTEGRAZIONE-AD-ORDINE-IN-RITIRO-OGGI-POMERIGGIO.pdf?rlkey=7ncwgnkf1tcaf2jshcknunrxq&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL Ordine dacquisto_260133_20260612_120047 RIF. INTEGRAZIONE AD ORDINE IN RITIRO OGGI POMERIGGIO.pdf"
+                },
+                {
+                  "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260134_20260612_141003 RIF. FA TU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hiaxkko2ufyjh9cn5j49j/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260134_20260612_141003-RIF.-FA-TU.pdf?rlkey=zzfakb6bfvt5uitemcdsjkkhk&dl=0?raw=1",
+                  "dimensione_kb": 65,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T. & D. SRL Ordine dacquisto_260134_20260612_141003 RIF. FA TU.pdf"
+                },
+                {
                   "nome": "ACCIAIO TeD CONFERMA OFFVE-001268-2026 RIF.ACAL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -216987,12 +217051,28 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/BELLADONNA CONFERMA Preventivo 891PRE del 02-03-2026 RIF.MACELLERIA DE DIEGO.pdf"
                 },
                 {
+                  "nome": "BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1nvb69rb24mkycvholsfl/BELLADONNA-DE-DIEGO-80X80-Preventivo-1463PRE-del-27-03-2026.pdf?rlkey=9submrwiw64r23lgwd0r4c34e&dl=0?raw=1",
+                  "dimensione_kb": 162,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf"
+                },
+                {
                   "nome": "BELLADONNA ILAMA CONFERMA Preventivo 1288PRE del 19-03-2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/x3yiwjai7xq7bgl183gr7/BELLADONNA-ILAMA-CONFERMA-Preventivo-1288PRE-del-19-03-2026.pdf?rlkey=xnbsyizyfuzzimx3xtoiwdoeq&dl=0?raw=1",
                   "dimensione_kb": 208,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/BELLADONNA ILAMA CONFERMA Preventivo 1288PRE del 19-03-2026.pdf"
+                },
+                {
+                  "nome": "BELLADONNA Preventivo 2859PRE del 08-06-2026 RIF. MACELLERIA DE DIEGO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/n22zq0fx49d883tgarppe/BELLADONNA-Preventivo-2859PRE-del-08-06-2026-RIF.-MACELLERIA-DE-DIEGO.pdf?rlkey=mg7ivsj4hn4h6rbuuxet8blhd&dl=0?raw=1",
+                  "dimensione_kb": 173,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/BELLADONNA Preventivo 2859PRE del 08-06-2026 RIF. MACELLERIA DE DIEGO.pdf"
                 },
                 {
                   "nome": "BERTO'S  PER S.I.T. Ordine cliente - Bozza documento_250838_20251031_095042.pdf",
@@ -217099,6 +217179,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/CB VALKO CONFERMA offerta  VICECONTI RIF.CARNI LIMONGI_CILINDRI PNEUMATICI.pdf"
                 },
                 {
+                  "nome": "COLD LINE Packing list ordine n°26-08381.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kr6bxycyc76sv7zt0li8f/COLD-LINE-Packing-list-ordine-n-26-08381.pdf?rlkey=upzt86hge2bs3idcm2gg3r0e9&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE Packing list ordine n°26-08381.pdf"
+                },
+                {
                   "nome": "COLD LINE srl Ordine dacquisto_260108_20260521_164303 RIF. MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -217113,6 +217201,14 @@
                   "link": "https://www.dropbox.com/scl/fi/4ly4gwtbh6rx4q1485m8s/COLD-LINE-srl-Ordine-dacquisto_260113_20260525_155221-RIF.-CORRADO-MICHELA-ARMADIO-LEVETRONIC-500-Basato-su-Ordini-clie.pdf?rlkey=hgm5ypj5k0y6ff24x6hklvaru&dl=0?raw=1",
                   "dimensione_kb": 67,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260113_20260525_155221 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf"
+                },
+                {
+                  "nome": "COLD LINE srl Ordine dacquisto_260124_20260604_174405 RIF. RICAMBI PER STRADELLA, NERA, MAG.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/p4xwspgsl1r5zcs4h4wl7/COLD-LINE-srl-Ordine-dacquisto_260124_20260604_174405-RIF.-RICAMBI-PER-STRADELLA-NERA-MAG.pdf?rlkey=w376ej7zir0c2mc7fuv41pky4&dl=0?raw=1",
+                  "dimensione_kb": 69,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260124_20260604_174405 RIF. RICAMBI PER STRADELLA, NERA, MAG.pdf"
                 },
                 {
                   "nome": "COLDINE Conferma ordine n°25-16183 RIF.JOEL_GARANZIA.pdf",
@@ -217289,6 +217385,14 @@
                   "link": "https://www.dropbox.com/scl/fi/ggzdm7dvx049is1hmx3wk/COLDLINE-Conferma-ordine-n-26-08367-RIF.-LO-RUSSO.pdf?rlkey=5ukb7qmdn7disgigjy00kwgm9&dl=0?raw=1",
                   "dimensione_kb": 96,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-08367 RIF. LO RUSSO.pdf"
+                },
+                {
+                  "nome": "COLDLINE Conferma ordine n°26-08381 RIF. PASSION SUSHI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d0eqjnfp5oade472yz3hy/COLDLINE-Conferma-ordine-n-26-08381-RIF.-PASSION-SUSHI.pdf?rlkey=0k01shuquhzb28gvjcqfw8aas&dl=0?raw=1",
+                  "dimensione_kb": 102,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-08381 RIF. PASSION SUSHI.pdf"
                 },
                 {
                   "nome": "COLDLINE Conferma ordine n°26-09170 RIF. CORRADO MICHELA_LEVTRONIC 500.pdf",
@@ -217547,6 +217651,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/DE LUCA SRL Ordine dacquisto_260111_20260524_214102.pdf"
                 },
                 {
+                  "nome": "DE LUCA SRL Ordine dacquisto_260135_20260612_143718 RIF. Basato su Ordini cliente 260115. 260162. 260205..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/j5rfx1dmafw8ebavbc2zf/DE-LUCA-SRL-Ordine-dacquisto_260135_20260612_143718-RIF.-Basato-su-Ordini-cliente-260115.-260162.-260205..pdf?rlkey=8wko679h1oi6vzc6op67u6uid&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/DE LUCA SRL Ordine dacquisto_260135_20260612_143718 RIF. Basato su Ordini cliente 260115. 260162. 260205..pdf"
+                },
+                {
                   "nome": "DM COMMERCIALE S.R.L. Ordine dacquisto_260107_20260521_132039 RIF. LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -217673,6 +217785,14 @@
                   "link": "https://www.dropbox.com/scl/fi/7d9jadgii5k4ykx713li5/FAMAG-Ordine-dacquisto_260003_20260128_132452-RIF.AGUA-LOCA.pdf?rlkey=qgyhgy45jaeb8n0gkdh9ervtw&dl=0?raw=1",
                   "dimensione_kb": 74,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FAMAG Ordine dacquisto_260003_20260128_132452 RIF.AGUA LOCA.pdf"
+                },
+                {
+                  "nome": "FE.MA CONFERMA ORDINE ImpegnoCli2026 0016759010541Viceconti snc20260604 RIF. IL MULINO RELE'.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nd6rc7nzfrzr77x14errx/FE.MA-CONFERMA-ORDINE-ImpegnoCli2026-0016759010541Viceconti-snc20260604-RIF.-IL-MULINO-RELE.PDF?rlkey=vw85hk9ye4hgvdbnexeeeykl0&dl=0?raw=1",
+                  "dimensione_kb": 70,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FE.MA CONFERMA ORDINE ImpegnoCli2026 0016759010541Viceconti snc20260604 RIF. IL MULINO RELE'.PDF"
                 },
                 {
                   "nome": "FE.MA Ordine dacquisto_250400_20251009_130220.pdf",
@@ -219262,7 +219382,7 @@
                   "nome": "SIRMAN CONFERMA ORDINE RIF.OSTERIA DELLA ROCCA AGGIORNATO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/3a9favccqwfyr9cxt0cka/SIRMAN-CONFERMA-ORDINE-RIF.OSTERIA-DELLA-ROCCA-AGGIORNATO.pdf?rlkey=2jnswldie5jphlc7pupyb31wn&dl=0?raw=1",
                   "dimensione_kb": 80,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN CONFERMA ORDINE RIF.OSTERIA DELLA ROCCA AGGIORNATO.pdf"
                 },
@@ -219531,7 +219651,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3625
+              "_totale_file": 3640
             }
           ],
           "file": [
@@ -219544,22 +219664,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFERTA OFFVE-002497-2026 RIF. PASSION SUSHI INTEGRAZIONE LAVAGGIO.pdf"
             },
             {
-              "nome": "ACCIAIO T&D CONFERMA ORDVE-001661-2026 RIF. SANTA LUCIA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/0b8wvdtk2powh98croj7k/ACCIAIO-T-D-CONFERMA-ORDVE-001661-2026-RIF.-SANTA-LUCIA.pdf?rlkey=l8sokyrmfrm0j8f08j5w2r5v5&dl=0?raw=1",
-              "dimensione_kb": 742,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001661-2026 RIF. SANTA LUCIA.pdf"
-            },
-            {
-              "nome": "ACCIAIO T&D CONFERMA ORDVE-001662-2026 RIF. PASSION SUSHI.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hwiq0n0pyvz5hev5v7le5/ACCIAIO-T-D-CONFERMA-ORDVE-001662-2026-RIF.-PASSION-SUSHI.pdf?rlkey=3iuf0qxk7l3ll1rutwtuenicf&dl=0?raw=1",
-              "dimensione_kb": 745,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001662-2026 RIF. PASSION SUSHI.pdf"
-            },
-            {
               "nome": "ACCIAIO T&D CONFERMA ORDVE-001777-2026 RIF. BARLASCINI WEB LAVELLO 140X70.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -219568,20 +219672,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001777-2026 RIF. BARLASCINI WEB LAVELLO 140X70.pdf"
             },
             {
-              "nome": "ACCIAIO T&D CONFERMA ORDVE-001780-2026 RIF. ACAL MENSOLA A PONTE.pdf",
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-001973-2026 RIF. FA TU.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ry0f10olk9sfguwlmao0c/ACCIAIO-T-D-CONFERMA-ORDVE-001780-2026-RIF.-ACAL-MENSOLA-A-PONTE.pdf?rlkey=fvn2bublmfehnobbcpi99saga&dl=0?raw=1",
-              "dimensione_kb": 742,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001780-2026 RIF. ACAL MENSOLA A PONTE.pdf"
-            },
-            {
-              "nome": "ACCIAIO T&D CONFERMA ORDVE-001964-2026 RIF.PASSION SUSHI LAVAMANI E ACCESSORI LAVAGGIO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/jn9mi9dtluq6ciwkv239i/ACCIAIO-T-D-CONFERMA-ORDVE-001964-2026-RIF.PASSION-SUSHI-LAVAMANI-E-ACCESSORI-LAVAGGIO.pdf?rlkey=gfs6975ildi5q0azfkk1ml4f1&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/md892i5upbsmhhgqpuyxg/ACCIAIO-T-D-CONFERMA-ORDVE-001973-2026-RIF.-FA-TU.pdf?rlkey=0n2jd2qqz5mjhsckssv681xiq&dl=0?raw=1",
               "dimensione_kb": 743,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001964-2026 RIF.PASSION SUSHI LAVAMANI E ACCESSORI LAVAGGIO.pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-001973-2026 RIF. FA TU.pdf"
             },
             {
               "nome": "ACCIAIO T&D DISEGNO LAVAGGIO RIF. PASSION.jpg",
@@ -219590,30 +219686,6 @@
               "link": "https://www.dropbox.com/scl/fi/1c0mozvcif9b1v8jxnb4s/ACCIAIO-T-D-DISEGNO-LAVAGGIO-RIF.-PASSION.jpg?rlkey=llyxlmlu7ft7s4gith9my6r38&dl=0?raw=1",
               "dimensione_kb": 16,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D DISEGNO LAVAGGIO RIF. PASSION.jpg"
-            },
-            {
-              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260129_20260609_164605 RIF. Basato su Ordini cliente 260199..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/drhj0aggnesq4642auvvg/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260129_20260609_164605-RIF.-Basato-su-Ordini-cliente-260199..pdf?rlkey=u6pbm9jcuplel0tb3wk80683u&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260129_20260609_164605 RIF. Basato su Ordini cliente 260199..pdf"
-            },
-            {
-              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260133_20260612_120047 RIF. INTEGRAZIONE AD ORDINE IN RITIRO OGGI POMERIGGIO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ajal2ptb0oi8fi52vvxka/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260133_20260612_120047-RIF.-INTEGRAZIONE-AD-ORDINE-IN-RITIRO-OGGI-POMERIGGIO.pdf?rlkey=7ncwgnkf1tcaf2jshcknunrxq&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260133_20260612_120047 RIF. INTEGRAZIONE AD ORDINE IN RITIRO OGGI POMERIGGIO.pdf"
-            },
-            {
-              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260134_20260612_141003 RIF. FA TU.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hiaxkko2ufyjh9cn5j49j/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260134_20260612_141003-RIF.-FA-TU.pdf?rlkey=zzfakb6bfvt5uitemcdsjkkhk&dl=0?raw=1",
-              "dimensione_kb": 65,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260134_20260612_141003 RIF. FA TU.pdf"
             },
             {
               "nome": "ARISTARCO SPA Ordine dacquisto_250351_20260520_164212 RIF. RICAMBI RICAMBI.pdf",
@@ -219632,46 +219704,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS.pdf"
             },
             {
-              "nome": "BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/1nvb69rb24mkycvholsfl/BELLADONNA-DE-DIEGO-80X80-Preventivo-1463PRE-del-27-03-2026.pdf?rlkey=9submrwiw64r23lgwd0r4c34e&dl=0?raw=1",
-              "dimensione_kb": 162,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BELLADONNA DE DIEGO 80X80 Preventivo 1463PRE del 27-03-2026 .pdf"
-            },
-            {
-              "nome": "BELLADONNA Preventivo 2859PRE del 08-06-2026 RIF. MACELLERIA DE DIEGO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/n22zq0fx49d883tgarppe/BELLADONNA-Preventivo-2859PRE-del-08-06-2026-RIF.-MACELLERIA-DE-DIEGO.pdf?rlkey=mg7ivsj4hn4h6rbuuxet8blhd&dl=0?raw=1",
-              "dimensione_kb": 173,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BELLADONNA Preventivo 2859PRE del 08-06-2026 RIF. MACELLERIA DE DIEGO.pdf"
-            },
-            {
-              "nome": "COLD LINE Packing list ordine n°26-08381.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/kr6bxycyc76sv7zt0li8f/COLD-LINE-Packing-list-ordine-n-26-08381.pdf?rlkey=upzt86hge2bs3idcm2gg3r0e9&dl=0?raw=1",
-              "dimensione_kb": 72,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE Packing list ordine n°26-08381.pdf"
-            },
-            {
-              "nome": "COLD LINE srl Ordine dacquisto_260124_20260604_174405 RIF. RICAMBI PER STRADELLA, NERA, MAG.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/p4xwspgsl1r5zcs4h4wl7/COLD-LINE-srl-Ordine-dacquisto_260124_20260604_174405-RIF.-RICAMBI-PER-STRADELLA-NERA-MAG.pdf?rlkey=w376ej7zir0c2mc7fuv41pky4&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260124_20260604_174405 RIF. RICAMBI PER STRADELLA, NERA, MAG.pdf"
-            },
-            {
-              "nome": "COLDLINE Conferma ordine n°26-08381 RIF. PASSION SUSHI.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/d0eqjnfp5oade472yz3hy/COLDLINE-Conferma-ordine-n-26-08381-RIF.-PASSION-SUSHI.pdf?rlkey=0k01shuquhzb28gvjcqfw8aas&dl=0?raw=1",
-              "dimensione_kb": 102,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-08381 RIF. PASSION SUSHI.pdf"
-            },
-            {
               "nome": "COLDLINE Conferma ordine n°26-09170 RIF. CORRADO MICHELA_LEVTRONIC 500 aggiornamento.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -219686,22 +219718,6 @@
               "link": "https://www.dropbox.com/scl/fi/23xqh0wzqio27vs2fp7nx/Cimbali-Group-S.p.A.-Ordine-dacquisto_260054_20260611_093208-RIF.-DETERGENTE-GUARNIZIONI-DOCCETTE.pdf?rlkey=rbhhb6rqvbck1uj96010wqhsu&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
-            },
-            {
-              "nome": "DE LUCA SRL Ordine dacquisto_260135_20260612_143718 RIF. Basato su Ordini cliente 260115. 260162. 260205..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/j5rfx1dmafw8ebavbc2zf/DE-LUCA-SRL-Ordine-dacquisto_260135_20260612_143718-RIF.-Basato-su-Ordini-cliente-260115.-260162.-260205..pdf?rlkey=8wko679h1oi6vzc6op67u6uid&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260135_20260612_143718 RIF. Basato su Ordini cliente 260115. 260162. 260205..pdf"
-            },
-            {
-              "nome": "FE.MA CONFERMA ORDINE ImpegnoCli2026 0016759010541Viceconti snc20260604 RIF. IL MULINO RELE'.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nd6rc7nzfrzr77x14errx/FE.MA-CONFERMA-ORDINE-ImpegnoCli2026-0016759010541Viceconti-snc20260604-RIF.-IL-MULINO-RELE.PDF?rlkey=vw85hk9ye4hgvdbnexeeeykl0&dl=0?raw=1",
-              "dimensione_kb": 70,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FE.MA CONFERMA ORDINE ImpegnoCli2026 0016759010541Viceconti snc20260604 RIF. IL MULINO RELE'.PDF"
             },
             {
               "nome": "FIMAR CONFERMA ORDINE 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF",
@@ -219800,12 +219816,28 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26-04251 MD_SaleOrdForm_2022 RIF. SANTA LUCIA CUCINA E GRIGLIA.pdf"
             },
             {
+              "nome": "MORINI CONFERMA ORDINE 003OC20262142369 RIF. YUMARA MAG.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c6xja1jo8cit8kd00yeim/MORINI-CONFERMA-ORDINE-003OC20262142369-RIF.-YUMARA-MAG.PDF?rlkey=8uxynr6a1tcx40n9a11nqpy8l&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI CONFERMA ORDINE 003OC20262142369 RIF. YUMARA MAG.PDF"
+            },
+            {
               "nome": "MORINI s.r.l. Ordine dacquisto_260125_20260609_131955 RIF. Basato su Ordini cliente 250924. 260150. 260157. 260181..pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/noio7406wld6p4awavp96/MORINI-s.r.l.-Ordine-dacquisto_260125_20260609_131955-RIF.-Basato-su-Ordini-cliente-250924.-260150.-260157.-260181..pdf?rlkey=w22sp03zmz6th0evq8h949nbt&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260125_20260609_131955 RIF. Basato su Ordini cliente 250924. 260150. 260157. 260181..pdf"
+            },
+            {
+              "nome": "PADERNO ORDINE SBT-26016461.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lzck2plim0ygwjjqsr7bv/PADERNO-ORDINE-SBT-26016461.pdf?rlkey=dmxz58jzcwgbdvrcytauscpar&dl=0?raw=1",
+              "dimensione_kb": 1021,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26016461.pdf"
             },
             {
               "nome": "SIRMAN CONFERMA ORDINE 2010251338 DEL 18_05_2026 RIF. MeM HppyM PassionSushi.pdf",
@@ -219822,6 +219854,14 @@
               "link": "https://www.dropbox.com/scl/fi/z7o13s45ric93o5chymsl/SLAYER-BLADES-CONFERMA-ORDINE-26RC06453-RIF.-CULURGIONI-WEB-LAMA.PDF?rlkey=ib0smww7byha6kofy8pzp7y1i&dl=0?raw=1",
               "dimensione_kb": 45,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF"
+            },
+            {
+              "nome": "TAMAI CONFERMA ORDINE 125 VICECONTI RIF. AI CARCONI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f62v13ar8pdoee9yt5fa1/TAMAI-CONFERMA-ORDINE-125-VICECONTI-RIF.-AI-CARCONI.pdf?rlkey=41vc4ow96egfgrf7u74sam5h1&dl=0?raw=1",
+              "dimensione_kb": 175,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TAMAI CONFERMA ORDINE 125 VICECONTI RIF. AI CARCONI.pdf"
             },
             {
               "nome": "TAMAI S.R.L. Ordine dacquisto_260131_20260610_055501 RIF. AI CARCONI Basato su Ordini cliente 260200..pdf",
@@ -219856,7 +219896,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ZINCO GROUP SRL Ordine dacquisto_260132_20260610_154806 RIF. PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE COLLARI DI FISSA.pdf"
             }
           ],
-          "_totale_file": 3665
+          "_totale_file": 3670
         }
       ],
       "file": []
