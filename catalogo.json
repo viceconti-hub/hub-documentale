@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-16T07:11:45Z",
-  "totale_file": 25100,
+  "generato": "2026-06-16T08:16:21Z",
+  "totale_file": 25103,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -219905,7 +219905,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2375,
+      "totale_file": 2378,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -240531,6 +240531,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/BRT Dettaglio bonifico istantaneo DEL 12_05_2026.pdf"
             },
             {
+              "nome": "BRT Dettaglio bonifico istantaneo DEL 15_06_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w8os0jm3c763l6unoqf1i/BRT-Dettaglio-bonifico-istantaneo-DEL-15_06_2026.pdf?rlkey=obyjp06xx7zwzmtxak5w2vfaa&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/BRT Dettaglio bonifico istantaneo DEL 15_06_2026.pdf"
+            },
+            {
               "nome": "CASELLA GIUSEPPE Dettaglio bonifico istantaneo 9_04_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -240931,6 +240939,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/IFI COPIA TITOLI AR 05_12_2025.pdf"
             },
             {
+              "nome": "IFI COPIA TITOLI INTESA 31_07 -31_08_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jp801vnhrrjrf6eha026t/IFI-COPIA-TITOLI-INTESA-31_07-31_08_2026.pdf?rlkey=gzz6wmpuv3k037ocmwolzn4bm&dl=0?raw=1",
+              "dimensione_kb": 1021,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/IFI COPIA TITOLI INTESA 31_07 -31_08_2026.pdf"
+            },
+            {
               "nome": "IFI COPIA TITOLI INTESA BRT 23_10_2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -240961,6 +240977,14 @@
               "link": "https://www.dropbox.com/scl/fi/nkw902ib6r5smskklpv9q/IFI-RICAMBI-CONFERMA-26002366-RIF.ACAL_PISTONI-TONDA-e-KIT-SCORREVOLI.pdf?rlkey=5gulb60so4xyb1y51mgpkfq14&dl=0?raw=1",
               "dimensione_kb": 121,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/IFI RICAMBI CONFERMA 26002366 RIF.ACAL_PISTONI TONDA e KIT SCORREVOLI.pdf"
+            },
+            {
+              "nome": "IFI RICEVUTA AR DEL 15_06_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dk5fpjb66k51fqoa8rqwc/IFI-RICEVUTA-AR-DEL-15_06_2026.pdf?rlkey=lpedq8bal194uzf4vpgq6k6mj&dl=0?raw=1",
+              "dimensione_kb": 769,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/IFI RICEVUTA AR DEL 15_06_2026.pdf"
             },
             {
               "nome": "IMPOSTA DI BOLLO Quietanza F24 MPS.pdf",
@@ -241259,7 +241283,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2355
+          "_totale_file": 2358
         }
       ],
       "file": []
