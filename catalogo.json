@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-16T08:32:24Z",
-  "totale_file": 25103,
+  "generato": "2026-06-17T00:25:52Z",
+  "totale_file": 25104,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -65903,7 +65903,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7122,
+      "totale_file": 7123,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -88561,7 +88561,32 @@
             {
               "nome": "NEW BAR",
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/NEW BAR",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "NEW BAR GRAN CAFFE AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/NEW BAR/NEW BAR GRAN CAFFE AREA TECNICA",
+                  "cartelle": [
+                    {
+                      "nome": "LAVABICCHIERI ARISTARCO AF.35E MATRICOLA 94610036",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/NEW BAR/NEW BAR GRAN CAFFE AREA TECNICA/LAVABICCHIERI ARISTARCO AF.35E MATRICOLA 94610036",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "LAVABICCHIERI ARISTARCO AF.35E MATRICOLA 94610036 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/k7ut9dbwaucogqbkbfox1/LAVABICCHIERI-ARISTARCO-AF.35E-MATRICOLA-94610036-DATI-MACCHINA.jpg?rlkey=f8xv16ivdfbpnigennbkxkkj9&dl=0?raw=1",
+                          "dimensione_kb": 153,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/NEW BAR/NEW BAR GRAN CAFFE AREA TECNICA/LAVABICCHIERI ARISTARCO AF.35E MATRICOLA 94610036/LAVABICCHIERI ARISTARCO AF.35E MATRICOLA 94610036 DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 1
+                }
+              ],
               "file": [
                 {
                   "nome": "WhatsApp Image 2023-07-06 at 16.15.52.jpeg",
@@ -88580,7 +88605,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/NEW BAR/lavevaisselledihrmodeledwl1019537codedw101m.pdf"
                 }
               ],
-              "_totale_file": 2
+              "_totale_file": 3
             },
             {
               "nome": "ONY E ROBY",
@@ -94230,7 +94255,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1292
+          "_totale_file": 1293
         },
         {
           "nome": "LAVELLO",
