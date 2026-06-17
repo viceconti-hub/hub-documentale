@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-17T07:21:23Z",
-  "totale_file": 25143,
+  "generato": "2026-06-17T08:26:25Z",
+  "totale_file": 25146,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -220242,7 +220242,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2378,
+      "totale_file": 2381,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -223180,7 +223180,7 @@
                           "nome": "EUROCEPPI RICEVUTA Bonifico_27112020.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/kxfgu35qzqlnzo19bblnq/EUROCEPPI-RICEVUTA-Bonifico_27112020.pdf?rlkey=41bg9yroozoe7ghpfmkesdwmp&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 25,
                           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/ARCHIVIO DEL 18_01_2022/EUROCEPPI RICEVUTA Bonifico_27112020.pdf"
                         },
@@ -240924,6 +240924,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/CB Dettaglio bonifico istantaneo DEL 30_03_2026.pdf"
             },
             {
+              "nome": "CIMBALI GROUP SPA COPIA TITOLI INTESA 31_08-30_09-31_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/r4csu0xi827dvz3y46vzc/CIMBALI-GROUP-SPA-COPIA-TITOLI-INTESA-31_08-30_09-31_10_2026.pdf?rlkey=qwyyj7da94iwb264m1pi9ka8s&dl=0?raw=1",
+              "dimensione_kb": 1180,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/CIMBALI GROUP SPA COPIA TITOLI INTESA 31_08-30_09-31_10_2026.pdf"
+            },
+            {
               "nome": "COLDLINE COPIA TITOLI BPER AR 09_04_2026.jpeg",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -241412,6 +241420,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR COPIA TITOLI BRT 26_11_2025.pdf"
             },
             {
+              "nome": "MODULAR COPIA TITOLI INTESA 31_08-30_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ki83ka7fdcvbo88x3fv3p/MODULAR-COPIA-TITOLI-INTESA-31_08-30_09_2026.pdf?rlkey=18j51euvkhjnv12yoy2e78iz1&dl=0?raw=1",
+              "dimensione_kb": 640,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR COPIA TITOLI INTESA 31_08-30_09_2026.pdf"
+            },
+            {
               "nome": "MODULAR COPIA TITOLO INTESA BRT 20_05_2026 SCADENZA 31_07_2026 .pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -241458,6 +241474,14 @@
               "link": "https://www.dropbox.com/scl/fi/ndfk00skr2glrdda700po/MODULAR-image002.jpg?rlkey=t5tw2jxq3wcnrhv7x3phda9xc&dl=0?raw=1",
               "dimensione_kb": 16,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR image002.jpg"
+            },
+            {
+              "nome": "MODULAR_IMPORTO_TITOLI_2026.xlsx",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/xxbuspwwwyhq953ablpeu/MODULAR_IMPORTO_TITOLI_2026.xlsx?rlkey=1am3sbwvsscatohcebz8ehnc1&dl=0?raw=1",
+              "dimensione_kb": 9,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR_IMPORTO_TITOLI_2026.xlsx"
             },
             {
               "nome": "PADERNO Dettaglio bonifico istantaneo DEL 10_02_2026.pdf",
@@ -241620,7 +241644,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2358
+          "_totale_file": 2361
         }
       ],
       "file": []
