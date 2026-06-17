@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-17T05:21:01Z",
-  "totale_file": 25127,
+  "generato": "2026-06-17T07:21:23Z",
+  "totale_file": 25143,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -179916,7 +179916,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4737,
+      "totale_file": 4753,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -179938,6 +179938,14 @@
               "link": "https://www.dropbox.com/scl/fi/61ignserwdf044reveu7n/ACCIAIO-T-D-DTVEN-002874-2025.pdf?rlkey=50tcukxe4xxo59xebxxd92gh4&dl=0?raw=1",
               "dimensione_kb": 561,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ACCIAIO T&D DTVEN-002874-2025.pdf"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Entrata merci da fornitore_260118_20260615_164430 RIF. Basato su Ordini d'acquisto 260079. 260088. 260117. 260133..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/673lnx8oy0g4ffmq30wlo/ACCIAIO-T.-D.-SRL-Entrata-merci-da-fornitore_260118_20260615_164430-RIF.-Basato-su-Ordini-d-acquisto-260079.-260088.-260117.-260133..pdf?rlkey=oiiaoao6a404qjeq2retekenc&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ACCIAIO T. & D. SRL Entrata merci da fornitore_260118_20260615_164430 RIF. Basato su Ordini d'acquisto 260079. 260088. 260117. 260133..pdf"
             },
             {
               "nome": "AIRFAN dI MANENTI & C. s.n.c. Entrata merci da fornitore_260083_20260526_095541 RIF. MACELLERIA DE DIEGO Basato su Ordini cliente 260143. Basato MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf",
@@ -179996,6 +180004,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/BELLADONNA SRL Entrata merci da fornitore_260081_20260524_173538 RIF. ILAMA.pdf"
             },
             {
+              "nome": "BELLADONNA SRL Entrata merci da fornitore_260127_20260615_174138 RIF. MACELLERIA DE DIEGO TAVOLO ISPICA 80X80 Basato su Ordini d'a.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1kx3fh94vhuijgrxubin7/BELLADONNA-SRL-Entrata-merci-da-fornitore_260127_20260615_174138-RIF.-MACELLERIA-DE-DIEGO-TAVOLO-ISPICA-80X80-Basato-su-Ordini-d-a.pdf?rlkey=h1r3xv4gy0qv0l19w66f2pfo0&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/BELLADONNA SRL Entrata merci da fornitore_260127_20260615_174138 RIF. MACELLERIA DE DIEGO TAVOLO ISPICA 80X80 Basato su Ordini d'a.pdf"
+            },
+            {
+              "nome": "BRUZIA SYSTEM SRL Entrata merci da fornitore_260123_20260615_170711 RIF. RICAMBI FAEMA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/20p93dlubnsuv0z8n9tsa/BRUZIA-SYSTEM-SRL-Entrata-merci-da-fornitore_260123_20260615_170711-RIF.-RICAMBI-FAEMA.pdf?rlkey=322u8oj86dahnq5u54gigmo5c&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/BRUZIA SYSTEM SRL Entrata merci da fornitore_260123_20260615_170711 RIF. RICAMBI FAEMA.pdf"
+            },
+            {
               "nome": "CB SRL Entrata merci da fornitore_260073_20260520_214413 RIF. Basato su Ordini cliente 260142. Basato su Ordini d'acquisto SACCO DI PIETRA LAVICA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -180018,6 +180042,14 @@
               "link": "https://www.dropbox.com/scl/fi/8vrepl9dgtpifxxye9i8h/COLD-LINE-srl-Entrata-merci-da-fornitore_260084_20260526_180040-RIF.-MARIE-VENTOLA-PER-DT3S-MATRICOLA-091711901-Basato-su-Offerte.pdf?rlkey=3bq7uog2io3ot5a0c4n9k5roj&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260084_20260526_180040 RIF. MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260121_20260615_165601 RIF. PASSION SUSHI Basato su Ordini cliente 260118. Basato su Ord.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/grnfvm3rz5kpfhh55et0n/COLD-LINE-srl-Entrata-merci-da-fornitore_260121_20260615_165601-RIF.-PASSION-SUSHI-Basato-su-Ordini-cliente-260118.-Basato-su-Ord.pdf?rlkey=i622fz3zx85fb27h05vnsae2u&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260121_20260615_165601 RIF. PASSION SUSHI Basato su Ordini cliente 260118. Basato su Ord.pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -180052,6 +180084,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/DDT n°000837.pdf"
             },
             {
+              "nome": "DE LUCA SRL Entrata merci da fornitore_260122_20260615_170042 RIF. Basato su Ordini cliente 260115. 260162. 260205. Basato su O.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7ixlv5f4rd8rwrfnbgtnj/DE-LUCA-SRL-Entrata-merci-da-fornitore_260122_20260615_170042-RIF.-Basato-su-Ordini-cliente-260115.-260162.-260205.-Basato-su-O.pdf?rlkey=3d6gpm9qr99tn7iw79n0x8p7n&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/DE LUCA SRL Entrata merci da fornitore_260122_20260615_170042 RIF. Basato su Ordini cliente 260115. 260162. 260205. Basato su O.pdf"
+            },
+            {
               "nome": "FAC CLI-DDT_0002201_08102025_00 RIF.ILAMA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -180082,6 +180122,14 @@
               "link": "https://www.dropbox.com/scl/fi/b8x75pxv5190iw5a99l2j/FAMAG-SRL-Entrata-merci-da-fornitore_260074_20260520_221018-RIF.-Basato-su-Ordini-d-acquisto-260003..pdf?rlkey=zmvj3nwf57i2o10qnwxuo1fwr&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FAMAG SRL Entrata merci da fornitore_260074_20260520_221018 RIF. Basato su Ordini d'acquisto 260003..pdf"
+            },
+            {
+              "nome": "FE.MA. SRL Entrata merci da fornitore_260124_20260615_171228 RIF. Relè allo Stato Solido Basato su Offerte di vendita 260216..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6e0slujhjmmy99pimj15k/FE.MA.-SRL-Entrata-merci-da-fornitore_260124_20260615_171228-RIF.-Rel-allo-Stato-Solido-Basato-su-Offerte-di-vendita-260216..pdf?rlkey=irqao4smrjyrki8uc61mu29xi&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FE.MA. SRL Entrata merci da fornitore_260124_20260615_171228 RIF. Relè allo Stato Solido Basato su Offerte di vendita 260216..pdf"
             },
             {
               "nome": "FIMAR 2025 29067VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF",
@@ -180210,6 +180258,22 @@
               "link": "https://www.dropbox.com/scl/fi/9rp0oo9s9yufwli2jiep5/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260114_20260608_201339-RIF.-SANTOS-BACK-BAR-PANAINO-RUA-TAVOLO-REFRIGERATO-Basato-su-O-BACK-BAR.pdf?rlkey=78oxr1eo0n3yr38yq2ny4qfux&dl=0?raw=1",
               "dimensione_kb": 73,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260114_20260608_201339 RIF. SANTOS BACK BAR + PANAINO RUA TAVOLO REFRIGERATO Basato su O BACK BAR.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260119_20260615_164752 RIF. PASSION SUSHI Basato su Ordini cliente 260118. Basato su Ord PASSION SUSHI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ez4o0hxz14iokuedu6hoc/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260119_20260615_164752-RIF.-PASSION-SUSHI-Basato-su-Ordini-cliente-260118.-Basato-su-Ord-PASSION-SUSHI.pdf?rlkey=2i2zw9qeoul1iqej4mj19g48v&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260119_20260615_164752 RIF. PASSION SUSHI Basato su Ordini cliente 260118. Basato su Ord PASSION SUSHI.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260120_20260615_165012 RIF. SANTOS BACKBAR INTEGRAZIONE Basato su Ordini d'acquisto 2601.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/v4pgofeg2m3x1o1lx2bbk/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260120_20260615_165012-RIF.-SANTOS-BACKBAR-INTEGRAZIONE-Basato-su-Ordini-d-acquisto-2601.pdf?rlkey=174bkxx5txkdp0t5gd1leq9my&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260120_20260615_165012 RIF. SANTOS BACKBAR INTEGRAZIONE Basato su Ordini d'acquisto 2601.pdf"
             },
             {
               "nome": "FIMEL DOCUMENTO DI TRASPORTO 1842025 DEL 22-12-2025  VICECONTI SNC DI PROSPERO VICECONTI.pdf",
@@ -180540,6 +180604,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260098_20260528_213739.pdf"
             },
             {
+              "nome": "REPA ITALIA SRL Entrata merci da fornitore_260126_20260615_173829.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9ntxsm5u8epj9488id5hl/REPA-ITALIA-SRL-Entrata-merci-da-fornitore_260126_20260615_173829.pdf?rlkey=74gz7t8vr05xyhshhxwvmgyb2&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260126_20260615_173829.pdf"
+            },
+            {
               "nome": "SIRMAN DDT N° 2025134519 DEL 28.10.2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -180602,9 +180674,17 @@
               "link": "https://www.dropbox.com/scl/fi/rckuunusczexxovqz6y4h/STAFF-ddt-510.pdf?rlkey=t4q749253858w3wqld5w415xz&dl=0?raw=1",
               "dimensione_kb": 103,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/STAFF ddt 510.pdf"
+            },
+            {
+              "nome": "ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/q9c4wk4waq8wornaada55/ZINCO-GROUP-SRL-Entrata-merci-da-fornitore_260125_20260615_171743-RIF.-PASSION-SUSHI-TUBAZIONE-Basato-su-Ordini-d-acquisto-260130..pdf?rlkey=8d6b6w0ruylqqrn24wzqt3ues&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 85
+          "_totale_file": 95
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -193868,7 +193948,7 @@
                       "nome": "MONDIAL FRAMEC ORDINE URGENTE RIF. IL MORO.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/e1654fthgycjgjb1vt0sh/MONDIAL-FRAMEC-ORDINE-URGENTE-RIF.-IL-MORO.pdf?rlkey=rgfneqa325qnbepq0qun1cuag&dl=0?raw=1",
                       "dimensione_kb": 68,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ARCHIVIO ORDINI D'ACQUISTO/MONDIAL FRAMEC ORDINE URGENTE RIF. IL MORO.pdf"
                     },
@@ -219897,6 +219977,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D DISEGNO LAVAGGIO RIF. PASSION.jpg"
             },
             {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260134_20260612_141003 RIF. FA TU.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/a6rsr8hrvbdme7yhxsc9m/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260134_20260612_141003-RIF.-FA-TU.pdf?rlkey=lvkct4hg12oq88p4j97kfxepu&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260134_20260612_141003 RIF. FA TU.pdf"
+            },
+            {
               "nome": "ARISTARCO SPA Ordine dacquisto_250351_20260520_164212 RIF. RICAMBI RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -219913,6 +220001,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS.pdf"
             },
             {
+              "nome": "BELLADONNA SRL Ordine dacquisto_260138_20260615_174114 RIF. MACELLERIA DE DIEGO TAVOLO ISPICA 80X80.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hmxp5q4qwnln0mhtb8uu6/BELLADONNA-SRL-Ordine-dacquisto_260138_20260615_174114-RIF.-MACELLERIA-DE-DIEGO-TAVOLO-ISPICA-80X80.pdf?rlkey=ugfzna2rw2btdpa4ts3jl5itz&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BELLADONNA SRL Ordine dacquisto_260138_20260615_174114 RIF. MACELLERIA DE DIEGO TAVOLO ISPICA 80X80.pdf"
+            },
+            {
               "nome": "COLDLINE Conferma ordine n°26-09170 RIF. CORRADO MICHELA_LEVTRONIC 500 aggiornamento.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -219921,12 +220017,44 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09170 RIF. CORRADO MICHELA_LEVTRONIC 500 aggiornamento.pdf"
             },
             {
+              "nome": "COLDLINE Conferma ordine n°26-09454 RIF. LA LUMERA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ymxyq2k158so03o49yj29/COLDLINE-Conferma-ordine-n-26-09454-RIF.-LA-LUMERA.pdf?rlkey=xvfr82t21lh807zlbd6i1cxvo&dl=0?raw=1",
+              "dimensione_kb": 84,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09454 RIF. LA LUMERA.pdf"
+            },
+            {
+              "nome": "COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9oz0vbcyq66xouxt8f4m0/COLDLINE-Conferma-ordine-n-26-09815-RIF.RICAMBI.pdf?rlkey=hup5c334i3134yrx44p3mkwat&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf"
+            },
+            {
+              "nome": "COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx - collegamento.lnk",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/p8081atqn862pa6o5z9ay/COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx-collegamento.lnk?rlkey=f7cq7pmwc6cx1bmtuus3f924s&dl=0?raw=1",
+              "dimensione_kb": 2,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx - collegamento.lnk"
+            },
+            {
               "nome": "Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/23xqh0wzqio27vs2fp7nx/Cimbali-Group-S.p.A.-Ordine-dacquisto_260054_20260611_093208-RIF.-DETERGENTE-GUARNIZIONI-DOCCETTE.pdf?rlkey=rbhhb6rqvbck1uj96010wqhsu&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
+            },
+            {
+              "nome": "DE LUCA SRL Ordine dacquisto_260135_20260612_143718 RIF. Basato su Ordini cliente 260115. 260162. 260205..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c9zjm24d9aetl556ec4nn/DE-LUCA-SRL-Ordine-dacquisto_260135_20260612_143718-RIF.-Basato-su-Ordini-cliente-260115.-260162.-260205..pdf?rlkey=n1uujjcu3yo6niwmubrq9215b&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260135_20260612_143718 RIF. Basato su Ordini cliente 260115. 260162. 260205..pdf"
             },
             {
               "nome": "FIMAR CONFERMA ORDINE 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF",
@@ -220105,7 +220233,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ZINCO GROUP SRL Ordine dacquisto_260132_20260610_154806 RIF. PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE COLLARI DI FISSA.pdf"
             }
           ],
-          "_totale_file": 3670
+          "_totale_file": 3676
         }
       ],
       "file": []
