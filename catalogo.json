@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-18T07:19:18Z",
+  "generato": "2026-06-18T08:24:13Z",
   "totale_file": 25156,
   "totale_sezioni": 8,
   "sezioni": [
@@ -220342,176 +220342,167 @@
         {
           "nome": "PAGAMENTI IN ENTRATA",
           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA",
-          "cartelle": [
-            {
-              "nome": "APERTI",
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI",
-              "cartelle": [],
-              "file": [
-                {
-                  "nome": "9b4a9900f710c7cba4a097c8ad271aa76e873d4b.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/3x528s1fqcxfo64kxk7rb/9b4a9900f710c7cba4a097c8ad271aa76e873d4b.pdf?rlkey=ezx46m802ewu4cltli4f99zkq&dl=0?raw=1",
-                  "dimensione_kb": 44,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/9b4a9900f710c7cba4a097c8ad271aa76e873d4b.pdf"
-                },
-                {
-                  "nome": "AGRITURISMO COCCOVELLO BONIFICO DEL 04_11_2025.jpg",
-                  "tipo": "Immagine",
-                  "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/dzp7tj68x5y5jimrtjk3h/AGRITURISMO-COCCOVELLO-BONIFICO-DEL-04_11_2025.jpg?rlkey=jox8kazb6zdd5tymunypv4k4m&dl=0?raw=1",
-                  "dimensione_kb": 145,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/AGRITURISMO COCCOVELLO BONIFICO DEL 04_11_2025.jpg"
-                },
-                {
-                  "nome": "ALFANI GENEROSO DITTA 20251030_Bonifico_-_viceconti_snc_Conto_1000-00008494_02-354486349.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/50x94577xq75jw0tzq70g/ALFANI-GENEROSO-DITTA-20251030_Bonifico_-_viceconti_snc_Conto_1000-00008494_02-354486349.pdf?rlkey=eddjcqrlddsfgt34cnpac5m5n&dl=0?raw=1",
-                  "dimensione_kb": 6,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/ALFANI GENEROSO DITTA 20251030_Bonifico_-_viceconti_snc_Conto_1000-00008494_02-354486349.pdf"
-                },
-                {
-                  "nome": "ANTICA TRATTORIA pdf7946710698669063639.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/02zlwnt8ajh4rin837gp0/ANTICA-TRATTORIA-pdf7946710698669063639.pdf?rlkey=npegmrl68ydy44aedgzu88hju&dl=0?raw=1",
-                  "dimensione_kb": 38,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/ANTICA TRATTORIA pdf7946710698669063639.pdf"
-                },
-                {
-                  "nome": "CALOGERO COSTANZINO BONIFICO 0002589560402865596716.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/4uznvojdax3jqirxh7ajy/CALOGERO-COSTANZINO-BONIFICO-0002589560402865596716.pdf?rlkey=2g86fqf8rawhd5ivjlvz244vs&dl=0?raw=1",
-                  "dimensione_kb": 6,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/CALOGERO COSTANZINO BONIFICO 0002589560402865596716.pdf"
-                },
-                {
-                  "nome": "CATA' EVENTI stampaDisposizione_20251116140021.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/ji35ru41eev7oibhwjzdr/CATA-EVENTI-stampaDisposizione_20251116140021.pdf?rlkey=tsqk8k17452ly4jujz5z72m5i&dl=0?raw=1",
-                  "dimensione_kb": 62,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/CATA' EVENTI stampaDisposizione_20251116140021.pdf"
-                },
-                {
-                  "nome": "COCCOVELLO temp3065633652641777931.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/rio0572f1tb2a5235mfbb/COCCOVELLO-temp3065633652641777931.pdf?rlkey=ysp8m7joqxzumay26zmx4quvn&dl=0?raw=1",
-                  "dimensione_kb": 71,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/COCCOVELLO temp3065633652641777931.pdf"
-                },
-                {
-                  "nome": "CORRADO MICHELA BonificoSct_21_10_2025_09_33_47.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/a9kb2y58c5hu64sjytqid/CORRADO-MICHELA-BonificoSct_21_10_2025_09_33_47.pdf?rlkey=tla9g1joywfp8m00tfp4u5y5b&dl=0?raw=1",
-                  "dimensione_kb": 38,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/CORRADO MICHELA BonificoSct_21_10_2025_09_33_47.pdf"
-                },
-                {
-                  "nome": "D003_BANK_TRANSFER.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/47gah8yyuerrzimwjk0xa/D003_BANK_TRANSFER.pdf?rlkey=wuzir2qez0pzlup9llnlwx2dt&dl=0?raw=1",
-                  "dimensione_kb": 157,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/D003_BANK_TRANSFER.pdf"
-                },
-                {
-                  "nome": "DELIZIE DEL FORNO temp8691005503623848773.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/y8hi4snflbcnp7ve9thw1/DELIZIE-DEL-FORNO-temp8691005503623848773.pdf?rlkey=qp9osx2ee9j0c5id35izgz04k&dl=0?raw=1",
-                  "dimensione_kb": 71,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/DELIZIE DEL FORNO temp8691005503623848773.pdf"
-                },
-                {
-                  "nome": "HAPPY MOMENTS BONIFICO_VICECONT_ATT_FT_691_26.09.25.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/ao0ugnwguvqjoq8vy9gl7/HAPPY-MOMENTS-BONIFICO_VICECONT_ATT_FT_691_26.09.25.pdf?rlkey=7rrgynhin1df0vk4htg5pkb6v&dl=0?raw=1",
-                  "dimensione_kb": 20,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/HAPPY MOMENTS BONIFICO_VICECONT_ATT_FT_691_26.09.25.pdf"
-                },
-                {
-                  "nome": "ILAMA BONIFICO DEL 16_03_2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/ddie2tpv7yde59dkl8uh4/ILAMA-BONIFICO-DEL-16_03_2026.pdf?rlkey=k8odelax8de6w56vn01cosvz6&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/ILAMA BONIFICO DEL 16_03_2026.pdf"
-                },
-                {
-                  "nome": "MARATEA SERVIZI BONIFICO MARZO 2026 SU INTESA 31086575INFOCC1776087357309081.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/h124uqh1n5ovg7armpe10/MARATEA-SERVIZI-BONIFICO-MARZO-2026-SU-INTESA-31086575INFOCC1776087357309081.pdf?rlkey=y6gj8ks67ku5xr048ch7siglt&dl=0?raw=1",
-                  "dimensione_kb": 62,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/MARATEA SERVIZI BONIFICO MARZO 2026 SU INTESA 31086575INFOCC1776087357309081.pdf"
-                },
-                {
-                  "nome": "MeM BONIFICO MPS DEL 9_04_2026.jpeg",
-                  "tipo": "Immagine",
-                  "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/83tkl94xi4kjet8n4hvi4/MeM-BONIFICO-MPS-DEL-9_04_2026.jpeg?rlkey=m54lsqob8svgx4celch5zn68b&dl=0?raw=1",
-                  "dimensione_kb": 210,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/MeM BONIFICO MPS DEL 9_04_2026.jpeg"
-                },
-                {
-                  "nome": "RADICI 20251103_Bonifico_-_Viceconti_SNC_Di_Antonio_e_Prospero_Viceconti_Conto_1000-00004634_02-360892658.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/0t0sbqez8pn12yl1m4d25/RADICI-20251103_Bonifico_-_Viceconti_SNC_Di_Antonio_e_Prospero_Viceconti_Conto_1000-00004634_02-360892658.pdf?rlkey=uarayzqkwffia6yev36dd58d7&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/RADICI 20251103_Bonifico_-_Viceconti_SNC_Di_Antonio_e_Prospero_Viceconti_Conto_1000-00004634_02-360892658.pdf"
-                },
-                {
-                  "nome": "RUGGIERO MARIACHIARA D003_BANK_TRANSFER[1].pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/tp036kpzf0g5906041qtm/RUGGIERO-MARIACHIARA-D003_BANK_TRANSFER-1.pdf?rlkey=fxmqiatnbwmtsqx3ssxu3nijp&dl=0?raw=1",
-                  "dimensione_kb": 161,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/RUGGIERO MARIACHIARA D003_BANK_TRANSFER[1].pdf"
-                },
-                {
-                  "nome": "RUSSO PROSPERO contanti del 6_11_2025.jpg",
-                  "tipo": "Immagine",
-                  "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/56lxqp6xsml8qlwkpjr0f/RUSSO-PROSPERO-contanti-del-6_11_2025.jpg?rlkey=mje33p1h9qu6yiz4g1s8cnv4d&dl=0?raw=1",
-                  "dimensione_kb": 165,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/RUSSO PROSPERO contanti del 6_11_2025.jpg"
-                },
-                {
-                  "nome": "VE.RO. COPIA TITOLI.jpeg",
-                  "tipo": "Immagine",
-                  "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/x0sl5fppd8dfc73x5nzfx/VE.RO.-COPIA-TITOLI.jpeg?rlkey=njs5vwtziicvo9zkew0pkv6qo&dl=0?raw=1",
-                  "dimensione_kb": 230,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/VE.RO. COPIA TITOLI.jpeg"
-                },
-                {
-                  "nome": "VELARDI RIEPILOGO TITOLI RITIRATI IL 14_4_2026.xlsx",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/eb7hkzzs8l7wwc7r7exwj/VELARDI-RIEPILOGO-TITOLI-RITIRATI-IL-14_4_2026.xlsx?rlkey=1ymniofje4vkht68pmhev1de3&dl=0?raw=1",
-                  "dimensione_kb": 9,
-                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/APERTI/VELARDI RIEPILOGO TITOLI RITIRATI IL 14_4_2026.xlsx"
-                }
-              ],
-              "_totale_file": 19
-            }
-          ],
+          "cartelle": [],
           "file": [
             {
-              "nome": "COLDLINE Conferma ordine n°26-02112 RIF.A.M DI ANTONELLA MANCINO CORRETTA.pdf",
+              "nome": "9b4a9900f710c7cba4a097c8ad271aa76e873d4b.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/tbqrltcdup506yy4w48zw/COLDLINE-Conferma-ordine-n-26-02112-RIF.A.M-DI-ANTONELLA-MANCINO-CORRETTA.pdf?rlkey=kf6q7wz2ivba91t8zvknwnfks&dl=0?raw=1",
-              "dimensione_kb": 97,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/COLDLINE Conferma ordine n°26-02112 RIF.A.M DI ANTONELLA MANCINO CORRETTA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/3x528s1fqcxfo64kxk7rb/9b4a9900f710c7cba4a097c8ad271aa76e873d4b.pdf?rlkey=ezx46m802ewu4cltli4f99zkq&dl=0?raw=1",
+              "dimensione_kb": 44,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/9b4a9900f710c7cba4a097c8ad271aa76e873d4b.pdf"
+            },
+            {
+              "nome": "AGRITURISMO COCCOVELLO BONIFICO DEL 04_11_2025.jpg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/dzp7tj68x5y5jimrtjk3h/AGRITURISMO-COCCOVELLO-BONIFICO-DEL-04_11_2025.jpg?rlkey=jox8kazb6zdd5tymunypv4k4m&dl=0?raw=1",
+              "dimensione_kb": 145,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/AGRITURISMO COCCOVELLO BONIFICO DEL 04_11_2025.jpg"
+            },
+            {
+              "nome": "ALFANI GENEROSO DITTA 20251030_Bonifico_-_viceconti_snc_Conto_1000-00008494_02-354486349.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/50x94577xq75jw0tzq70g/ALFANI-GENEROSO-DITTA-20251030_Bonifico_-_viceconti_snc_Conto_1000-00008494_02-354486349.pdf?rlkey=eddjcqrlddsfgt34cnpac5m5n&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/ALFANI GENEROSO DITTA 20251030_Bonifico_-_viceconti_snc_Conto_1000-00008494_02-354486349.pdf"
+            },
+            {
+              "nome": "ANTICA TRATTORIA pdf7946710698669063639.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/02zlwnt8ajh4rin837gp0/ANTICA-TRATTORIA-pdf7946710698669063639.pdf?rlkey=npegmrl68ydy44aedgzu88hju&dl=0?raw=1",
+              "dimensione_kb": 38,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/ANTICA TRATTORIA pdf7946710698669063639.pdf"
+            },
+            {
+              "nome": "CALOGERO COSTANZINO BONIFICO 0002589560402865596716.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4uznvojdax3jqirxh7ajy/CALOGERO-COSTANZINO-BONIFICO-0002589560402865596716.pdf?rlkey=2g86fqf8rawhd5ivjlvz244vs&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/CALOGERO COSTANZINO BONIFICO 0002589560402865596716.pdf"
+            },
+            {
+              "nome": "CATA' EVENTI stampaDisposizione_20251116140021.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ji35ru41eev7oibhwjzdr/CATA-EVENTI-stampaDisposizione_20251116140021.pdf?rlkey=tsqk8k17452ly4jujz5z72m5i&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/CATA' EVENTI stampaDisposizione_20251116140021.pdf"
+            },
+            {
+              "nome": "COCCOVELLO temp3065633652641777931.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rio0572f1tb2a5235mfbb/COCCOVELLO-temp3065633652641777931.pdf?rlkey=ysp8m7joqxzumay26zmx4quvn&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/COCCOVELLO temp3065633652641777931.pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA BonificoSct_21_10_2025_09_33_47.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/a9kb2y58c5hu64sjytqid/CORRADO-MICHELA-BonificoSct_21_10_2025_09_33_47.pdf?rlkey=tla9g1joywfp8m00tfp4u5y5b&dl=0?raw=1",
+              "dimensione_kb": 38,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/CORRADO MICHELA BonificoSct_21_10_2025_09_33_47.pdf"
+            },
+            {
+              "nome": "D003_BANK_TRANSFER.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/47gah8yyuerrzimwjk0xa/D003_BANK_TRANSFER.pdf?rlkey=wuzir2qez0pzlup9llnlwx2dt&dl=0?raw=1",
+              "dimensione_kb": 157,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/D003_BANK_TRANSFER.pdf"
+            },
+            {
+              "nome": "DELIZIE DEL FORNO temp8691005503623848773.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/y8hi4snflbcnp7ve9thw1/DELIZIE-DEL-FORNO-temp8691005503623848773.pdf?rlkey=qp9osx2ee9j0c5id35izgz04k&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/DELIZIE DEL FORNO temp8691005503623848773.pdf"
+            },
+            {
+              "nome": "HAPPY MOMENTS BONIFICO_VICECONT_ATT_FT_691_26.09.25.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ao0ugnwguvqjoq8vy9gl7/HAPPY-MOMENTS-BONIFICO_VICECONT_ATT_FT_691_26.09.25.pdf?rlkey=7rrgynhin1df0vk4htg5pkb6v&dl=0?raw=1",
+              "dimensione_kb": 20,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/HAPPY MOMENTS BONIFICO_VICECONT_ATT_FT_691_26.09.25.pdf"
+            },
+            {
+              "nome": "ILAMA BONIFICO DEL 16_03_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ddie2tpv7yde59dkl8uh4/ILAMA-BONIFICO-DEL-16_03_2026.pdf?rlkey=k8odelax8de6w56vn01cosvz6&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/ILAMA BONIFICO DEL 16_03_2026.pdf"
+            },
+            {
+              "nome": "MARATEA SERVIZI BONIFICO MARZO 2026 SU INTESA 31086575INFOCC1776087357309081.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/h124uqh1n5ovg7armpe10/MARATEA-SERVIZI-BONIFICO-MARZO-2026-SU-INTESA-31086575INFOCC1776087357309081.pdf?rlkey=y6gj8ks67ku5xr048ch7siglt&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/MARATEA SERVIZI BONIFICO MARZO 2026 SU INTESA 31086575INFOCC1776087357309081.pdf"
+            },
+            {
+              "nome": "MeM BONIFICO MPS DEL 9_04_2026.jpeg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/83tkl94xi4kjet8n4hvi4/MeM-BONIFICO-MPS-DEL-9_04_2026.jpeg?rlkey=m54lsqob8svgx4celch5zn68b&dl=0?raw=1",
+              "dimensione_kb": 210,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/MeM BONIFICO MPS DEL 9_04_2026.jpeg"
+            },
+            {
+              "nome": "PANAINO COPIA TITOLI 30_06 - 30_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sihodkyifhufdacljq239/PANAINO-COPIA-TITOLI-30_06-30_07_2026.pdf?rlkey=2ay3kvukra4gxi5fp0f67kx7b&dl=0?raw=1",
+              "dimensione_kb": 800,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/PANAINO COPIA TITOLI 30_06 - 30_07_2026.pdf"
+            },
+            {
+              "nome": "RADICI 20251103_Bonifico_-_Viceconti_SNC_Di_Antonio_e_Prospero_Viceconti_Conto_1000-00004634_02-360892658.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0t0sbqez8pn12yl1m4d25/RADICI-20251103_Bonifico_-_Viceconti_SNC_Di_Antonio_e_Prospero_Viceconti_Conto_1000-00004634_02-360892658.pdf?rlkey=uarayzqkwffia6yev36dd58d7&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/RADICI 20251103_Bonifico_-_Viceconti_SNC_Di_Antonio_e_Prospero_Viceconti_Conto_1000-00004634_02-360892658.pdf"
+            },
+            {
+              "nome": "RUGGIERO MARIACHIARA D003_BANK_TRANSFER[1].pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tp036kpzf0g5906041qtm/RUGGIERO-MARIACHIARA-D003_BANK_TRANSFER-1.pdf?rlkey=fxmqiatnbwmtsqx3ssxu3nijp&dl=0?raw=1",
+              "dimensione_kb": 161,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/RUGGIERO MARIACHIARA D003_BANK_TRANSFER[1].pdf"
+            },
+            {
+              "nome": "RUSSO PROSPERO contanti del 6_11_2025.jpg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/56lxqp6xsml8qlwkpjr0f/RUSSO-PROSPERO-contanti-del-6_11_2025.jpg?rlkey=mje33p1h9qu6yiz4g1s8cnv4d&dl=0?raw=1",
+              "dimensione_kb": 165,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/RUSSO PROSPERO contanti del 6_11_2025.jpg"
+            },
+            {
+              "nome": "VE.RO. COPIA TITOLI.jpeg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/x0sl5fppd8dfc73x5nzfx/VE.RO.-COPIA-TITOLI.jpeg?rlkey=njs5vwtziicvo9zkew0pkv6qo&dl=0?raw=1",
+              "dimensione_kb": 230,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/VE.RO. COPIA TITOLI.jpeg"
+            },
+            {
+              "nome": "VELARDI RIEPILOGO TITOLI RITIRATI IL 14_4_2026.xlsx",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/eb7hkzzs8l7wwc7r7exwj/VELARDI-RIEPILOGO-TITOLI-RITIRATI-IL-14_4_2026.xlsx?rlkey=1ymniofje4vkht68pmhev1de3&dl=0?raw=1",
+              "dimensione_kb": 9,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/VELARDI RIEPILOGO TITOLI RITIRATI IL 14_4_2026.xlsx"
             }
           ],
           "_totale_file": 20
@@ -223275,7 +223266,7 @@
                           "nome": "EUROCEPPI RICEVUTA Bonifico_27112020.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/kxfgu35qzqlnzo19bblnq/EUROCEPPI-RICEVUTA-Bonifico_27112020.pdf?rlkey=41bg9yroozoe7ghpfmkesdwmp&dl=0?raw=1",
                           "dimensione_kb": 25,
                           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/ARCHIVIO DEL 18_01_2022/EUROCEPPI RICEVUTA Bonifico_27112020.pdf"
                         },
@@ -236151,7 +236142,7 @@
                               "nome": "ORVED BONIFICO DEL 13_01_2023.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/cd6fbldz8nfsxbjfe3xzg/ORVED-BONIFICO-DEL-13_01_2023.pdf?rlkey=g4hahxuiax9wg4fsqv4thgvye&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 100,
                               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/ORVED PAGAMENTI/ARCHIVIO PAGAMENTI/ORVED BONIFICO DEL 13_01_2023.pdf"
                             },
@@ -236159,7 +236150,7 @@
                               "nome": "ORVED BONIFICO DEL 24_11_2022.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/r5z49pa3mxshyjxegdeky/ORVED-BONIFICO-DEL-24_11_2022.pdf?rlkey=k18w04td6fceszdidokbmns0e&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 100,
                               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/ORVED PAGAMENTI/ARCHIVIO PAGAMENTI/ORVED BONIFICO DEL 24_11_2022.pdf"
                             },
