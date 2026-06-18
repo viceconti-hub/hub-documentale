@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-18T02:30:25Z",
-  "totale_file": 25147,
+  "generato": "2026-06-18T05:20:36Z",
+  "totale_file": 25153,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5876,
+      "totale_file": 5882,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -198,6 +198,14 @@
               "link": "https://www.dropbox.com/scl/fi/dqbf1pc5eqb12mtjsry9p/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Consegna_260297_20260527_091447-RIF.-LAVASTOVIGLIE-AF50.35E-IN-COMODATO.pdf?rlkey=9e10dxuszuzy8duul65mn0qky&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260297_20260527_091447 RIF. LAVASTOVIGLIE AF50.35E IN COMODATO.pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260423_20260617_101804 RIF. DETERGENTE Basato su Ordini cliente 260216..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8jczq9z1yeb56ko4n2o93/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Consegna_260423_20260617_101804-RIF.-DETERGENTE-Basato-su-Ordini-cliente-260216..pdf?rlkey=yghsknjpd63wnxps6ulpr1u4w&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260423_20260617_101804 RIF. DETERGENTE Basato su Ordini cliente 260216..pdf"
             },
             {
               "nome": "BHOTEL SRL Consegna_260405_20260612_142228 RIF. BICCHIERE COOLER CORTINA Basato su Offerte di vendita 260184.pdf",
@@ -1120,6 +1128,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260406_20260613_001358 RIF. ABBATTITORE COLDLINE.pdf"
             },
             {
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260422_20260616_184425 RIF. Basato su Ordini cliente 260118. 260199..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u47tyq44hnd2oj79yjcet/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Consegna_260422_20260616_184425-RIF.-Basato-su-Ordini-cliente-260118.-260199..pdf?rlkey=anv11ko7a7qhpfkkt833oflmx&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260422_20260616_184425 RIF. Basato su Ordini cliente 260118. 260199..pdf"
+            },
+            {
               "nome": "PASTICCERIA ARTE DOLCIARIA TRECCHINESE Consegna_260259_20260603_190259 RIF. ARMADIO FRIGO SMART A701ME INOX,1PORTA,-2°+8°C USATO, IN COM.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1352,7 +1368,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 167
+          "_totale_file": 169
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -1382,6 +1398,14 @@
               "link": "https://www.dropbox.com/scl/fi/5119in8avhl13i2lc0jf9/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Fattura-di-vendita_2600204_20260609_100021-RIF.-DETEGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260194.-Bas.pdf?rlkey=rdo02pz3mkyvspm605zlj1zrl&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Fattura di vendita_2600204_20260609_100021 RIF. DETEGENTE LAVABICCHIERI Basato su Ordini cliente 260194. Bas.pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600211_20260617_101816 RIF. DETERGENTE Basato su Ordini cliente 260216. Basato su Conseg.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ds3tupjfzzaiko7ukygcp/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600211_20260617_101816-RIF.-DETERGENTE-Basato-su-Ordini-cliente-260216.-Basato-su-Conseg.pdf?rlkey=29nnkls86ubpmlm4avldap16s&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600211_20260617_101816 RIF. DETERGENTE Basato su Ordini cliente 260216. Basato su Conseg.pdf"
             },
             {
               "nome": "BHOTEL SRL Fattura di vendita_2600210_20260612_142252 RIF. BICCHIERE COOLER CORTINA Basato su Offerte di vendita 260184.pdf",
@@ -2128,7 +2152,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 96
+          "_totale_file": 97
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -60523,6 +60547,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR MILLE VOGLIE DI D'ANDREA SALVATORE ANDREA Ordine cliente_260207_20260615_103041 RIF. Riempi Bigne' Inox Basato su Offerte di vendita 260111..pdf"
             },
             {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260216_20260617_101749 RIF. DETERGENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2b5ocdpqyulvkbu7it9v4/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Ordine-cliente_260216_20260617_101749-RIF.-DETERGENTE.pdf?rlkey=murnhx4kf25itcaiap7vcwnvw&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260216_20260617_101749 RIF. DETERGENTE.pdf"
+            },
+            {
               "nome": "BARLASCINI FLAVIO Ordine cliente_260173_20260527_082920 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -60641,6 +60673,14 @@
               "link": "https://www.dropbox.com/scl/fi/4k2s78m77svfytqkk939c/DIMAC-SRL-Ordine-cliente_260209_20260615_130129-RIF.-DETERGENTE-BLU-RATIONAL.pdf?rlkey=7r89q2j6yluvzvh3299p6s02i&dl=0?raw=1",
               "dimensione_kb": 57,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DIMAC SRL Ordine cliente_260209_20260615_130129 RIF. DETERGENTE BLU RATIONAL.pdf"
+            },
+            {
+              "nome": "DIPA di PACCHIANO LUCA & C. sas Ordine cliente_260214_20260617_094820.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5xjvnzr79regp5jnk8xjf/DIPA-di-PACCHIANO-LUCA-C.-sas-Ordine-cliente_260214_20260617_094820.pdf?rlkey=6cxspvowisvfs79uihrx3186i&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DIPA di PACCHIANO LUCA & C. sas Ordine cliente_260214_20260617_094820.pdf"
             },
             {
               "nome": "DRINK & SMOKE DI CONTE GIAN PIERO Ordine cliente_260174_20260527_095751 RIF. CALICE VINO.pdf",
@@ -60769,6 +60809,14 @@
               "link": "https://www.dropbox.com/scl/fi/e0dosrdozhli5ysfeto5z/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Ordine-cliente_260153_20260518_170835-RIF.-Basato-su-Offerte-di-vendita-260173..pdf?rlkey=qhz36u9cac0pnycue5rck98hs&dl=0?raw=1",
               "dimensione_kb": 73,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260153_20260518_170835 RIF. Basato su Offerte di vendita 260173..pdf"
+            },
+            {
+              "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260215_20260617_100845.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8f3s1y9ke5npzd7vkcqxl/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Ordine-cliente_260215_20260617_100845.pdf?rlkey=jbrb7aeqs06y0g7c3l3ycsdka&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260215_20260617_100845.pdf"
             },
             {
               "nome": "IELPO NICOLA Ordine cliente_260152_20260518_162835 RIF. AFFETTATRICE IDEA 25 CASA.pdf",
@@ -61107,7 +61155,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 85
+          "_totale_file": 88
         }
       ],
       "file": []
