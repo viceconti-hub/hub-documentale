@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-18T05:20:36Z",
-  "totale_file": 25153,
+  "generato": "2026-06-18T07:19:18Z",
+  "totale_file": 25156,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -179979,7 +179979,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4753,
+      "totale_file": 4756,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -188620,6 +188620,22 @@
             }
           ],
           "_totale_file": 979
+        },
+        {
+          "nome": "LOGISTICA IN USCITA",
+          "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA IN USCITA",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "BRT Conferma prenotazione ritiro YOU MARINA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gi1wvy1ilay9zhsxu2gwl/BRT-Conferma-prenotazione-ritiro-YOU-MARINA.pdf?rlkey=tr55orv9zcz7as172em4npkuz&dl=0?raw=1",
+              "dimensione_kb": 107,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA IN USCITA/BRT Conferma prenotazione ritiro YOU MARINA.pdf"
+            }
+          ],
+          "_totale_file": 1
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -216131,7 +216147,7 @@
                           "nome": "ZANUSSI CONFERMA ORDER_ITC_2024_59110_ws_20240628022218435 RIF.SANDOLO.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/l8xl1r6t8psvlcho5zz6e/ZANUSSI-CONFERMA-ORDER_ITC_2024_59110_ws_20240628022218435-RIF.SANDOLO.pdf?rlkey=gnn2j2tlo8a4vsh7gwhqumvnl&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 137,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ZANUSSI/ARCHIVIO ZANUSSI ORDINI D'ACQUISTO/ZANUSSI CONFERMA ORDER_ITC_2024_59110_ws_20240628022218435 RIF.SANDOLO.pdf"
                         },
@@ -217673,6 +217689,14 @@
                   "link": "https://www.dropbox.com/scl/fi/2w7c7asc7o3u1f3rxkap5/COLDLINE-Conferma-ordine-n-26-01725-RIF.IL-LUCANO.pdf?rlkey=ign6su8qbbbqovsgcaau9gxps&dl=0?raw=1",
                   "dimensione_kb": 96,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-01725 RIF.IL LUCANO.pdf"
+                },
+                {
+                  "nome": "COLDLINE Conferma ordine n°26-02112 RIF.A.M DI ANTONELLA MANCINO CORRETTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/tbqrltcdup506yy4w48zw/COLDLINE-Conferma-ordine-n-26-02112-RIF.A.M-DI-ANTONELLA-MANCINO-CORRETTA.pdf?rlkey=kf6q7wz2ivba91t8zvknwnfks&dl=0?raw=1",
+                  "dimensione_kb": 97,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-02112 RIF.A.M DI ANTONELLA MANCINO CORRETTA.pdf"
                 },
                 {
                   "nome": "COLDLINE Conferma ordine n°26-03168 RIF.CORRADO MICHELA.pdf",
@@ -220003,7 +220027,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3640
+              "_totale_file": 3641
             }
           ],
           "file": [
@@ -220232,6 +220256,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260125_20260609_131955 RIF. Basato su Ordini cliente 250924. 260150. 260157. 260181..pdf"
             },
             {
+              "nome": "MORINI s.r.l. Ordine dacquisto_260139_20260617_105747 RIF. HAPPY MOMENTS SANTA LUCIA AIA DEI CAPPELLANI Basato su Ordin.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2qq8lxyfnggy8gnt00qj9/MORINI-s.r.l.-Ordine-dacquisto_260139_20260617_105747-RIF.-HAPPY-MOMENTS-SANTA-LUCIA-AIA-DEI-CAPPELLANI-Basato-su-Ordin.pdf?rlkey=tqgzd2t827rpgs7rtnf5znm68&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260139_20260617_105747 RIF. HAPPY MOMENTS SANTA LUCIA AIA DEI CAPPELLANI Basato su Ordin.pdf"
+            },
+            {
               "nome": "PADERNO ORDINE SBT-26016461.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -220296,7 +220328,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ZINCO GROUP SRL Ordine dacquisto_260132_20260610_154806 RIF. PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE COLLARI DI FISSA.pdf"
             }
           ],
-          "_totale_file": 3676
+          "_totale_file": 3678
         }
       ],
       "file": []
