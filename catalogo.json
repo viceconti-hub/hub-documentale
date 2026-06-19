@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-19T02:23:25Z",
-  "totale_file": 25157,
+  "generato": "2026-06-19T05:11:23Z",
+  "totale_file": 25182,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5882,
+      "totale_file": 5907,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -184,12 +184,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ALLEGRETTI GIUSEPPE Consegna_260333_20260602_210800 RIF. ASSISTENZA SU AFFETTATRICE FAEMA REVISIONE GRUPPO AFFILATOIO.pdf"
             },
             {
+              "nome": "AZIENDA AGRICOLA PECORELLI FRANCESCO Consegna_260430_20260618_131624 RIF. Basato su Ordini cliente 260218..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sk9xoigeyxvr34gtxy2j4/AZIENDA-AGRICOLA-PECORELLI-FRANCESCO-Consegna_260430_20260618_131624-RIF.-Basato-su-Ordini-cliente-260218..pdf?rlkey=bsaipy9n8dtldns7rlpbgjg5z&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AZIENDA AGRICOLA PECORELLI FRANCESCO Consegna_260430_20260618_131624 RIF. Basato su Ordini cliente 260218..pdf"
+            },
+            {
               "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Consegna_260391_20260609_100006 RIF. DETEGENTE LAVABICCHIERI Basato su Ordini cliente 260194..pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/vaddfb6us5kg9z8os0gkd/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Consegna_260391_20260609_100006-RIF.-DETEGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260194..pdf?rlkey=qm4xub0ghfn54xr7yv1extwf1&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Consegna_260391_20260609_100006 RIF. DETEGENTE LAVABICCHIERI Basato su Ordini cliente 260194..pdf"
+            },
+            {
+              "nome": "BAR MILLE VOGLIE DI D'ANDREA SALVATORE ANDREA Consegna_260431_20260618_173047 RIF. Riempi Bigne' Inox Basato su Offerte di vendita 260111. Basa.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/z9zszurzk3owgugo93kpd/BAR-MILLE-VOGLIE-DI-D-ANDREA-SALVATORE-ANDREA-Consegna_260431_20260618_173047-RIF.-Riempi-Bigne-Inox-Basato-su-Offerte-di-vendita-260111.-Basa.pdf?rlkey=kyguf6dgf0gyh3704fit5zkvs&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR MILLE VOGLIE DI D'ANDREA SALVATORE ANDREA Consegna_260431_20260618_173047 RIF. Riempi Bigne' Inox Basato su Offerte di vendita 260111. Basa.pdf"
             },
             {
               "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260297_20260527_091447 RIF. LAVASTOVIGLIE AF50.35E IN COMODATO.pdf",
@@ -230,6 +246,14 @@
               "link": "https://www.dropbox.com/scl/fi/0mc737nrhhx7nz1dy7r30/Billy-Bar-di-SCALDAFERRI-PIETRO-Consegna_260325_20260531_102233-RIF.-ASSISTENZA-SU-FAEMA-EMBLEMA-A2-MANUTENZIONE-ORDINARIA-GRUPPI.pdf?rlkey=s90ef97f13epxj2auazaq3mlr&dl=0?raw=1",
               "dimensione_kb": 54,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Billy Bar di SCALDAFERRI PIETRO Consegna_260325_20260531_102233 RIF. ASSISTENZA SU FAEMA EMBLEMA A2 MANUTENZIONE ORDINARIA GRUPPI.pdf"
+            },
+            {
+              "nome": "CALA DEL CITRO S.R.L.S. Consegna_260427_20260618_091923 RIF. Basato su Offerte di vendita 250806. EMESSA FATTURA DI ANTIC.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/th85y2nskj27tsi5ratsv/CALA-DEL-CITRO-S.R.L.S.-Consegna_260427_20260618_091923-RIF.-Basato-su-Offerte-di-vendita-250806.-EMESSA-FATTURA-DI-ANTIC.pdf?rlkey=w967r9ygak73j229dw6esotx2&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CALA DEL CITRO S.R.L.S. Consegna_260427_20260618_091923 RIF. Basato su Offerte di vendita 250806. EMESSA FATTURA DI ANTIC.pdf"
             },
             {
               "nome": "CANNAZZARO SRL Consegna_260384_20260607_164427 RIF. ASSISTENZA SU Forno modello Qubi Eliminazione service boiler.pdf",
@@ -528,6 +552,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260385_20260607_164759 RIF. Consegna - Tubo inox lineare 500 diametro 35 - Tubo inox lin.pdf"
             },
             {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_260428_20260618_105108 RIF. MIXER A IMMERSIONE 1000W VVELOCITA'.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xp2ttmq6u72to4l0rpzh8/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_260428_20260618_105108-RIF.-MIXER-A-IMMERSIONE-1000W-VVELOCITA.pdf?rlkey=vvgnv0h0s7nv5w1papvbwj2s3&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260428_20260618_105108 RIF. MIXER A IMMERSIONE 1000W VVELOCITA'.pdf"
+            },
+            {
               "nome": "FOODEX SRL Consegna_260399_20260612_105657 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -608,6 +640,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/H.END SAS di ANANIA P. & F. Consegna_260353_20260602_221557 RIF. ASSISTENZA SU MACCHINA DA CAFFE' FAEMA E61 LEGEND MATRICOLA.pdf"
             },
             {
+              "nome": "H2A srl Consegna_260425_20260617_162555 RIF. DETERGENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9s10o8yy5i3vngb8v69tx/H2A-srl-Consegna_260425_20260617_162555-RIF.-DETERGENTE.pdf?rlkey=bo9rppvzrvea5shlgpx74ki01&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/H2A srl Consegna_260425_20260617_162555 RIF. DETERGENTE.pdf"
+            },
+            {
               "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260268_20260513_112936 RIF. DETERGENTE LAVABAR.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -662,6 +702,22 @@
               "link": "https://www.dropbox.com/scl/fi/4vt53gfda750bgqp3byxe/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Consegna_260421_20260616_101926-RIF.-COPPE-GELATO-ALASKA.pdf?rlkey=d3g1m568b47j3ww99ictkp295&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260421_20260616_101926 RIF. COPPE GELATO ALASKA.pdf"
+            },
+            {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260429_20260618_114707 RIF. Basato su Offerte di vendita 260221..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/po481m8ac5mqt5ynj3jqa/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Consegna_260429_20260618_114707-RIF.-Basato-su-Offerte-di-vendita-260221..pdf?rlkey=2nnbqxgx93xyldzptmcrgo876&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260429_20260618_114707 RIF. Basato su Offerte di vendita 260221..pdf"
+            },
+            {
+              "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_231298_20260618_195207 RIF. ASSISTENZA SU RATIONAL MONTAGGIO DEPURATORE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qfmxq84era0qnl5b5yit3/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Consegna_231298_20260618_195207-RIF.-ASSISTENZA-SU-RATIONAL-MONTAGGIO-DEPURATORE.pdf?rlkey=u8p119itgm92b8xa6l0hk0zo3&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_231298_20260618_195207 RIF. ASSISTENZA SU RATIONAL MONTAGGIO DEPURATORE.pdf"
             },
             {
               "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_260335_20260602_211322 RIF. DETERGENTE RAITONAL E RICAMBI.pdf",
@@ -792,6 +848,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IELPO NICOLA Consegna_260306_20260530_091529 RIF. Basato su Ordini cliente 260152. AFFETTATRICE IDEA 25 CASA.pdf"
             },
             {
+              "nome": "IL BOSCHETTO Srl Consegna_260424_20260617_131034 RIF. CUCCHIAINI PER DESSERT Basato su Offerte di vendita 260193..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/se34ix6zsvrqisq846eke/IL-BOSCHETTO-Srl-Consegna_260424_20260617_131034-RIF.-CUCCHIAINI-PER-DESSERT-Basato-su-Offerte-di-vendita-260193..pdf?rlkey=3brmo87v85furafjg0ruza8x0&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IL BOSCHETTO Srl Consegna_260424_20260617_131034 RIF. CUCCHIAINI PER DESSERT Basato su Offerte di vendita 260193..pdf"
+            },
+            {
               "nome": "IL FURANO Srl Consegna_260392_20260609_100057 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260193..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -830,6 +894,14 @@
               "link": "https://www.dropbox.com/scl/fi/2gck15vqzoeiop45tplvn/INGROIA-ANTONIO-Consegna_260258_20260514_130853.pdf?rlkey=79at76mrgfezhyq4muio07l46&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/INGROIA ANTONIO Consegna_260258_20260514_130853.pdf"
+            },
+            {
+              "nome": "JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO Consegna_260432_20260618_190049 RIF. DETERGENTE RATIONAL ROSSO 10 PZ.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8dsy0judsj2rg5vhp2x14/JOEL-IN-MILLE-MISTURE-DI-LAMBOGLIA-GIACOMO-Consegna_260432_20260618_190049-RIF.-DETERGENTE-RATIONAL-ROSSO-10-PZ.pdf?rlkey=qv9vpmndwu49ssfela4i2hmiv&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO Consegna_260432_20260618_190049 RIF. DETERGENTE RATIONAL ROSSO 10 PZ.pdf"
             },
             {
               "nome": "LA FONTANELLA DI LUCIA ARLEO E NATALE Consegna_260398_20260612_102341 RIF. PALETTINO PIZZA FORATO INOX Ø 17 CM, L MANICO CM 150.pdf",
@@ -1024,6 +1096,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MALITO MICHELE Consegna_260386_20260607_165058 RIF. ASSISTENZA SU Affettatrice modello OMS220 Sostituzione centr.pdf"
             },
             {
+              "nome": "MAMA MIA LTD Consegna_250981_20260618_122814 RIF. RICAMBIO COLDLINE SONDA PER ABBATTITORE Basato su Offerte di.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/o0xk7ll0vh7kg3ls6xeuf/MAMA-MIA-LTD-Consegna_250981_20260618_122814-RIF.-RICAMBIO-COLDLINE-SONDA-PER-ABBATTITORE-Basato-su-Offerte-di.pdf?rlkey=fleqh3wnsznak7f4hzmdzy9bn&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MAMA MIA LTD Consegna_250981_20260618_122814 RIF. RICAMBIO COLDLINE SONDA PER ABBATTITORE Basato su Offerte di.pdf"
+            },
+            {
               "nome": "MARIZIOSA S.N.C. DI MARILENA FORESTIEIRI E MARIA BLOISE Consegna_260355_20260602_222742 RIF. ASSISTENZA SU PLANETARIA RIPARAIZONE BRACCIO SOLLEVAMENTO VA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1078,6 +1158,14 @@
               "link": "https://www.dropbox.com/scl/fi/jwxtinwibkdhjcoit8nnt/NEW-BAR-GRAN-CAFFE-srls-Consegna_260411_20260615_131236-RIF.-AFFETTATRICE-IDEA-TGL-250-Basato-su-Ordini-cliente-260210..pdf?rlkey=pvdcuhbn8nb9ogqctx929pcrx&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NEW BAR GRAN CAFFE' srls Consegna_260411_20260615_131236 RIF. AFFETTATRICE IDEA TGL 250 Basato su Ordini cliente 260210..pdf"
+            },
+            {
+              "nome": "OVER DREAM - FI.LA. Sas di Filardi Emidio & C. Consegna_260426_20260618_091610 RIF. SPAZZOLA ORIENTABILE SETOLE IN OTTONE 20X6 CM,CRASCHIETTO,MA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d5cbna0aghipw3vxxxbi6/OVER-DREAM-FI.LA.-Sas-di-Filardi-Emidio-C.-Consegna_260426_20260618_091610-RIF.-SPAZZOLA-ORIENTABILE-SETOLE-IN-OTTONE-20X6-CM-CRASCHIETTO-MA.pdf?rlkey=oohzjl2tpy85284ckfyi6ur6o&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/OVER DREAM - FI.LA. Sas di Filardi Emidio & C. Consegna_260426_20260618_091610 RIF. SPAZZOLA ORIENTABILE SETOLE IN OTTONE 20X6 CM,CRASCHIETTO,MA.pdf"
             },
             {
               "nome": "PALLARA PAOLO Consegna_260417_20260616_081305 RIF. CARTUCCIA MISCELATORE TIPO BASSO Cartuccia in ceramica H1 30.pdf",
@@ -1368,7 +1456,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 169
+          "_totale_file": 180
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -1390,6 +1478,14 @@
               "link": "https://www.dropbox.com/scl/fi/0993cuu48mn7cle8edjia/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Fattura-di-vendita_2600197_20260607_185324-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-250933.-Basato.pdf?rlkey=g47dvmwlav2ww7k3ucvwwed9p&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Fattura di vendita_2600197_20260607_185324 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 250933. Basato.pdf"
+            },
+            {
+              "nome": "AZIENDA AGRICOLA PECORELLI FRANCESCO Fattura di vendita_2600212_20260618_131651 RIF. HOTELLERIE Basato su Ordini cliente 260218. Basato su Conseg.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/i39hg9bplsrug122ife52/AZIENDA-AGRICOLA-PECORELLI-FRANCESCO-Fattura-di-vendita_2600212_20260618_131651-RIF.-HOTELLERIE-Basato-su-Ordini-cliente-260218.-Basato-su-Conseg.pdf?rlkey=723walm3o3keawwepdk4trefe&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/AZIENDA AGRICOLA PECORELLI FRANCESCO Fattura di vendita_2600212_20260618_131651 RIF. HOTELLERIE Basato su Ordini cliente 260218. Basato su Conseg.pdf"
             },
             {
               "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Fattura di vendita_2600204_20260609_100021 RIF. DETEGENTE LAVABICCHIERI Basato su Ordini cliente 260194. Bas.pdf",
@@ -2152,7 +2248,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 97
+          "_totale_file": 98
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -2190,6 +2286,14 @@
               "link": "https://www.dropbox.com/scl/fi/wckhu0ruj1yb7q6tpt9wc/AZIENDA-AGRICOLA-LA-CAPPELLINA-DI-ROSA-FORASTIERO-Offerta-di-vendita_260144_20260519_201302.pdf?rlkey=2s9qkcwrkh7zulj5jgf6iokl8&dl=0?raw=1",
               "dimensione_kb": 82,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Offerta di vendita_260144_20260519_201302.pdf"
+            },
+            {
+              "nome": "AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Offerta di vendita_260223_20260618_181718 RIF. SECCHIELLI ACRILICO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/kamaavt32pjyx5fe2p6ud/AZIENDA-VINICOLA-GIOIA-AL-NEGRO-S.A.S.-di-D.-Gioia-ed-E.-Fattorini-C.-Offerta-di-vendita_260223_20260618_181718-RIF.-SECCHIELLI-ACRILICO.pdf?rlkey=l9qig8zd763fhraxbqnirzbww&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Offerta di vendita_260223_20260618_181718 RIF. SECCHIELLI ACRILICO.pdf"
             },
             {
               "nome": "BHOTEL SRL Offerta di vendita_260177_20260519_185944 RIF. BICCHIERE CORTINA COOLER.pdf",
@@ -2238,6 +2342,14 @@
               "link": "https://www.dropbox.com/scl/fi/onyeovwithnz3s44cgc6t/DA-SPECIFICARE-Offerta-di-vendita_200479_20260514_173119.pdf?rlkey=t5ky0x249th5p18f24djfzym6&dl=0?raw=1",
               "dimensione_kb": 78,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_200479_20260514_173119.pdf"
+            },
+            {
+              "nome": "DA SPECIFICARE Offerta di vendita_260005_20260618_201159 RIF. MAGAZZINO 2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3ptlepch902sh8ehqed31/DA-SPECIFICARE-Offerta-di-vendita_260005_20260618_201159-RIF.-MAGAZZINO-2026.pdf?rlkey=x275svbf5nc3hjk2dyy3v6etm&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260005_20260618_201159 RIF. MAGAZZINO 2026.pdf"
             },
             {
               "nome": "DA SPECIFICARE Offerta di vendita_260060_20260610_152317 RIF. OFFERTA SPECIALE FORNO PIZZA ELETTRICO CUPPONE MARCHIATO KIP.pdf",
@@ -2352,6 +2464,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260215_20260615_095100.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Offerta di vendita_260224_20260618_195450 RIF. OFFERTA STANDARD SISTEMA FILTRANTE BRITA PER FORNO RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2qfw4khus8cbz6ko0qsrc/DA-SPECIFICARE-Offerta-di-vendita_260224_20260618_195450-RIF.-OFFERTA-STANDARD-SISTEMA-FILTRANTE-BRITA-PER-FORNO-RATIONAL.pdf?rlkey=bz8mjng4stoga3huyoj0jq1ut&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260224_20260618_195450 RIF. OFFERTA STANDARD SISTEMA FILTRANTE BRITA PER FORNO RATIONAL.pdf"
+            },
+            {
               "nome": "DE FILIPPO ROCCO Offerta di vendita_260194_20260605_111616 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2430,6 +2550,14 @@
               "link": "https://www.dropbox.com/scl/fi/8u6hzzlgvcj1u44hp2rwe/GMT-srl-unipersonale-Offerta-di-vendita_260207_20260609_104712-RIF.-PALA-ZIO-PEPE-4-STAGIONI.pdf?rlkey=ld1hf8r4gzb6ygldehc54w87p&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GMT srl unipersonale Offerta di vendita_260207_20260609_104712 RIF. PALA ZIO PEPE 4 STAGIONI.pdf"
+            },
+            {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Offerta di vendita_260221_20260618_114243.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/veeq1963n3mprxik3o6bp/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Offerta-di-vendita_260221_20260618_114243.pdf?rlkey=qz2k3hok220uuqt85ext6iqqf&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/HAPPY CAFE' SNC di Rossino D. e Saruba S. Offerta di vendita_260221_20260618_114243.pdf"
             },
             {
               "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Offerta di vendita_260173_20260518_170338.pdf",
@@ -2512,6 +2640,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA TANA GROUP SRL Offerta di vendita_260181_20260521_114754 RIF. SEDIA IN POLIPROPILENE MOD. CHIAVARINA, COLORE BIANCO, IMPIL.pdf"
             },
             {
+              "nome": "LA TANA GROUP SRL Offerta di vendita_260220_20260618_104636 RIF. SCHEDA RELE' S80 - I_070A.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0s6eee8x06k8x9hvjw6nb/LA-TANA-GROUP-SRL-Offerta-di-vendita_260220_20260618_104636-RIF.-SCHEDA-RELE-S80-I_070A.pdf?rlkey=zugqtcd0miks1bub59qb4ux27&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA TANA GROUP SRL Offerta di vendita_260220_20260618_104636 RIF. SCHEDA RELE' S80 - I_070A.pdf"
+            },
+            {
+              "nome": "LA TANA GROUP SRL Offerta di vendita_260225_20260618_195621 RIF. PRIMA INSTALLAZIONE FILTRO BRITA PER FORNO RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xu2hmn0lmznds2duvxnzn/LA-TANA-GROUP-SRL-Offerta-di-vendita_260225_20260618_195621-RIF.-PRIMA-INSTALLAZIONE-FILTRO-BRITA-PER-FORNO-RATIONAL.pdf?rlkey=nnq7a8vpoc8z041glxbhdd3fl&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA TANA GROUP SRL Offerta di vendita_260225_20260618_195621 RIF. PRIMA INSTALLAZIONE FILTRO BRITA PER FORNO RATIONAL.pdf"
+            },
+            {
               "nome": "LIDO POINT BREAK Offerta di vendita_260151_20260513_123123 RIF. TAVOLOLO CON VASCA INCASSATA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2566,6 +2710,14 @@
               "link": "https://www.dropbox.com/scl/fi/sgxcb2mo90da9zapqd8ka/LUTIPICO-SRLS-Offerta-di-vendita_260162_20260514_202207.pdf?rlkey=e4r32pbrxsejkt346bnyfoft7&dl=0?raw=1",
               "dimensione_kb": 77,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LUTIPICO SRLS Offerta di vendita_260162_20260514_202207.pdf"
+            },
+            {
+              "nome": "MAMA MIA LTD Offerta di vendita_260222_20260618_122617.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/t71t0s4my522ysw03bt7j/MAMA-MIA-LTD-Offerta-di-vendita_260222_20260618_122617.pdf?rlkey=6oe28cuwpmkz3ezsnscv9vsm8&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MAMA MIA LTD Offerta di vendita_260222_20260618_122617.pdf"
             },
             {
               "nome": "MARIE SAS DI CARMINE CANTISANI E C. Offerta di vendita_260182_20260521_163932 RIF. ASSISTENZA SU ABBATTITORE COLDLINE DIGRIM DT3S MATRICOLA 091.pdf",
@@ -2776,7 +2928,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/YOU MARINA S.R.L. Offerta di vendita_260212_20260610_152538 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf"
             }
           ],
-          "_totale_file": 77
+          "_totale_file": 84
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -4306,6 +4458,46 @@
                   "link": "https://www.dropbox.com/scl/fi/owhlfd7xeec1bydtnn3hs/ARMADIO-CONGELATORE-COLDLINE-A90-1B-SCHEDA-TECNICA.pdf?rlkey=9nkhyorirjv38jhobygi9e2w8&dl=0?raw=1",
                   "dimensione_kb": 100,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_09 CHOCOLATE & PASTRY SAS ARMADIO CONGELATORE COLDLINE WIND/ARMADIO CONGELATORE COLDLINE A90-1B SCHEDA TECNICA.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_06_18 GIOIA AL NEGRO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_18 GIOIA AL NEGRO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "MOR.119565-001.JPG",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/ht0quejsh6lseegeqipzm/MOR.119565-001.JPG?rlkey=cpptarmkd21rdetrm5fvjr3lt&dl=0?raw=1",
+                  "dimensione_kb": 13,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_18 GIOIA AL NEGRO/MOR.119565-001.JPG"
+                },
+                {
+                  "nome": "MOR.119566-001.JPG",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/lr7a90jci8mhl6lsz3ewj/MOR.119566-001.JPG?rlkey=xdki794d8l2sr4o771gh2nrwc&dl=0?raw=1",
+                  "dimensione_kb": 12,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_18 GIOIA AL NEGRO/MOR.119566-001.JPG"
+                }
+              ],
+              "_totale_file": 2
+            },
+            {
+              "nome": "2026_06_18 PASTICCERIA MILLEVOGLIE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_18 PASTICCERIA MILLEVOGLIE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "47612-01_ProductSheet.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ymbj4t4lidsgii4wdr77a/47612-01_ProductSheet.pdf?rlkey=o0htyl6tru243jhdxqfm2acvk&dl=0?raw=1",
+                  "dimensione_kb": 179,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_18 PASTICCERIA MILLEVOGLIE/47612-01_ProductSheet.pdf"
                 }
               ],
               "_totale_file": 1
@@ -19191,7 +19383,7 @@
                               "nome": "Offerta di vendita_190169_la parada softcooker.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/r9ni6owtyakkf3lyynhwg/Offerta-di-vendita_190169_la-parada-softcooker.pdf?rlkey=pobr3qf40ucoqla4jbymog3ki&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 71,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/LA PARADA/LA PARADA SOFTCOOKER/Offerta di vendita_190169_la parada softcooker.pdf"
                             },
@@ -28995,7 +29187,7 @@
                               "nome": "Offerta di vendita_190745_SIRTAKI_FRIGGITRICE.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/8iladh990zhxfkma8knpr/Offerta-di-vendita_190745_SIRTAKI_FRIGGITRICE.pdf?rlkey=dq3hdjk49uzmw8n7gwqatybn8&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 71,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/SIRTAKI/FRIGGITRICE SERIE 900 ATA/Offerta di vendita_190745_SIRTAKI_FRIGGITRICE.pdf"
                             },
@@ -60443,7 +60635,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5451
+          "_totale_file": 5454
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -60529,6 +60721,22 @@
               "link": "https://www.dropbox.com/scl/fi/hl1grn9qpmc3t3mxsp5uw/AZIENDA-AGRICOLA-LA-CAPPELLINA-DI-ROSA-FORASTIERO-Ordine-cliente_260185_20260604_191908-RIF.-VETRINA-RISCALDATA-2-PIANI-FORCAR.pdf?rlkey=0pdcg9o8usybrwqxef6rew4kt&dl=0?raw=1",
               "dimensione_kb": 59,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Ordine cliente_260185_20260604_191908 RIF. VETRINA RISCALDATA 2 PIANI FORCAR.pdf"
+            },
+            {
+              "nome": "AZIENDA AGRICOLA PECORELLI FRANCESCO Ordine cliente_260217_20260618_201432 RIF. MACCHINA SOTTOVUOTO UNIVAC SMALL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9v3apzuzscseco9l5mqck/AZIENDA-AGRICOLA-PECORELLI-FRANCESCO-Ordine-cliente_260217_20260618_201432-RIF.-MACCHINA-SOTTOVUOTO-UNIVAC-SMALL.pdf?rlkey=hqubwtnuarkt0av0z9t88x603&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AZIENDA AGRICOLA PECORELLI FRANCESCO Ordine cliente_260217_20260618_201432 RIF. MACCHINA SOTTOVUOTO UNIVAC SMALL.pdf"
+            },
+            {
+              "nome": "AZIENDA AGRICOLA PECORELLI FRANCESCO Ordine cliente_260218_20260617_121045.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ch15vg1120b51uly0uens/AZIENDA-AGRICOLA-PECORELLI-FRANCESCO-Ordine-cliente_260218_20260617_121045.pdf?rlkey=7gbwhhb10kgy91q93v1zadetn&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AZIENDA AGRICOLA PECORELLI FRANCESCO Ordine cliente_260218_20260617_121045.pdf"
             },
             {
               "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Ordine cliente_260194_20260609_095951 RIF. DETEGENTE LAVABICCHIERI.pdf",
@@ -60883,6 +61091,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/INGROIA ANTONIO Ordine cliente_260132_20260510_191132 RIF. AFFETTATRICE URGENTE.pdf"
             },
             {
+              "nome": "JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO Ordine cliente_260219_20260618_185929 RIF. DETERGENTE RATIONAL ROSSO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/de7ocv6vxmfu398b7pwgk/JOEL-IN-MILLE-MISTURE-DI-LAMBOGLIA-GIACOMO-Ordine-cliente_260219_20260618_185929-RIF.-DETERGENTE-RATIONAL-ROSSO.pdf?rlkey=us3lcfrnzfz1wxl1t1sxf3i8u&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO Ordine cliente_260219_20260618_185929 RIF. DETERGENTE RATIONAL ROSSO.pdf"
+            },
+            {
               "nome": "LA SECCA E IL MIRTO SOCIETA' COOPERATIVA Ordine cliente_260148_20260516_104835 RIF. TUBO SCARICO PER LAVASTOVIGLIE COMENDA RG20.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -61155,7 +61371,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/VELARDI Srl Ordine cliente_260092_20260513_160026 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             }
           ],
-          "_totale_file": 88
+          "_totale_file": 91
         }
       ],
       "file": []
