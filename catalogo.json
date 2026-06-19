@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-18T08:40:19Z",
-  "totale_file": 25156,
+  "generato": "2026-06-19T00:24:08Z",
+  "totale_file": 25158,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -66135,7 +66135,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7124,
+      "totale_file": 7126,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -70350,7 +70350,24 @@
             {
               "nome": "MAMA MIA",
               "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/MAMA MIA",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "MAMA MIA AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/MAMA MIA/MAMA MIA AREA TECNICA",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "ABBATTITORE COLDLINE DATI MACCHINA MAMA MIA.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/sqdev6t29wff896pzk8ed/ABBATTITORE-COLDLINE-DATI-MACCHINA-MAMA-MIA.jpg?rlkey=4agcbef4gwicy519qtya6l2v3&dl=0?raw=1",
+                      "dimensione_kb": 18,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/MAMA MIA/MAMA MIA AREA TECNICA/ABBATTITORE COLDLINE DATI MACCHINA MAMA MIA.jpg"
+                    }
+                  ],
+                  "_totale_file": 1
+                }
+              ],
               "file": [
                 {
                   "nome": "A90-1BG.pdf",
@@ -70449,7 +70466,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/MAMA MIA/W5ULS.pdf"
                 }
               ],
-              "_totale_file": 12
+              "_totale_file": 13
             },
             {
               "nome": "MARINI MICHELE",
@@ -71295,7 +71312,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/Granocielo SRL Consegna_260145_20260326_192810.pdf"
             }
           ],
-          "_totale_file": 281
+          "_totale_file": 282
         },
         {
           "nome": "COSENZA",
@@ -104736,7 +104753,7 @@
                       "nome": "IMG_0161.JPG",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/9tir0uzmc323y431qfa49/IMG_0161.JPG?rlkey=kv4n174kfm3lcbw31j78t39at&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 1612,
                       "path": "/HUB DOCUMENTALE/CLIENTI/MORANO CALABRO/Campotenese - Perrone ed Armentano/Foto CAMPOTENESE/IMG_0161.JPG"
                     },
@@ -130076,7 +130093,24 @@
             {
               "nome": "HOTEL NAPOLEONE",
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE/AREA TECNICA",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "WhatsApp Image 2022-03-10 at 13.28.51.jpeg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/0mpt36g7v31falqls36nq/WhatsApp-Image-2022-03-10-at-13.28.51.jpeg?rlkey=qqauziac2p6e68txr00yz5c7f&dl=0?raw=1",
+                      "dimensione_kb": 58,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE/AREA TECNICA/WhatsApp Image 2022-03-10 at 13.28.51.jpeg"
+                    }
+                  ],
+                  "_totale_file": 1
+                }
+              ],
               "file": [
                 {
                   "nome": "EVO700 2 Wells Freestanding El. Fryer 14 liter_372085-372144_Italian.pdf",
@@ -130090,7 +130124,7 @@
                   "nome": "MS NAPOLEONE Offerta di vendita_220092_20220314_112548.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/t7x1fry130n5d3jn229lq/MS-NAPOLEONE-Offerta-di-vendita_220092_20220314_112548.pdf?rlkey=9cwv9yxv3oed3rwzqr8uhtier&dl=0?raw=1",
                   "dimensione_kb": 77,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE/MS NAPOLEONE Offerta di vendita_220092_20220314_112548.pdf"
                 },
@@ -130098,7 +130132,7 @@
                   "nome": "MS NAPOLEONE Ordine cliente_220126_20220314_133102.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/s9zgmyitp8ekeudddo3is/MS-NAPOLEONE-Ordine-cliente_220126_20220314_133102.pdf?rlkey=uwjysdu61lwt673819m0akljb&dl=0?raw=1",
                   "dimensione_kb": 61,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE/MS NAPOLEONE Ordine cliente_220126_20220314_133102.pdf"
                 },
@@ -130106,7 +130140,7 @@
                   "nome": "Offerta di vendita_210490_20210701_170635.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/djpb01b0v30zhg8vpqugu/Offerta-di-vendita_210490_20210701_170635.pdf?rlkey=zpxom1xuwgaooryasxan7vjil&dl=0?raw=1",
                   "dimensione_kb": 73,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE/Offerta di vendita_210490_20210701_170635.pdf"
                 },
@@ -130114,7 +130148,7 @@
                   "nome": "TECNOINOX_Cottura_2021.pdf FRIGGITRICE LINEA 700 4 SETTIMANE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/3cn9h1p96o50h1ou4ycma/TECNOINOX_Cottura_2021.pdf-FRIGGITRICE-LINEA-700-4-SETTIMANE.pdf?rlkey=rn48r56igi9v6xnkjh4afi2qy&dl=0?raw=1",
                   "dimensione_kb": 373,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE/TECNOINOX_Cottura_2021.pdf FRIGGITRICE LINEA 700 4 SETTIMANE.pdf"
                 },
@@ -130122,7 +130156,7 @@
                   "nome": "TECNOINOX_Cottura_2021.pdf FRIGGITRICE LINEA 900 PRONTA CONSEGNA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/npej18wr9qmy9d2bekx9h/TECNOINOX_Cottura_2021.pdf-FRIGGITRICE-LINEA-900-PRONTA-CONSEGNA.pdf?rlkey=1twj6kpgaotb4gu23l3nrwftl&dl=0?raw=1",
                   "dimensione_kb": 372,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE/TECNOINOX_Cottura_2021.pdf FRIGGITRICE LINEA 900 PRONTA CONSEGNA.pdf"
                 },
@@ -130130,7 +130164,7 @@
                   "nome": "it_S9820-130-4072-716127.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/uc73wf4bwhhjpe0pwzzq1/it_S9820-130-4072-716127.pdf?rlkey=802tid5akto81qxmcg2yw3gig&dl=0?raw=1",
                   "dimensione_kb": 384,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE/it_S9820-130-4072-716127.pdf"
                 },
@@ -130138,7 +130172,7 @@
                   "nome": "it_S9820-130-4072-716129.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/j8vmfmmfm8dx0aty7dwff/it_S9820-130-4072-716129.pdf?rlkey=shgotm7e7wukhnkb92uvs4er9&dl=0?raw=1",
                   "dimensione_kb": 384,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE/it_S9820-130-4072-716129.pdf"
                 },
@@ -130146,12 +130180,12 @@
                   "nome": "it_S9820-135-4520-316083.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/t5ry1lb9wphj9otjods5k/it_S9820-135-4520-316083.pdf?rlkey=74i8k87jm1euwztit74zftvb8&dl=0?raw=1",
                   "dimensione_kb": 29,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL NAPOLEONE/it_S9820-135-4520-316083.pdf"
                 }
               ],
-              "_totale_file": 9
+              "_totale_file": 10
             },
             {
               "nome": "LE BONTA' GENUINE DI GUERRIERO ADELINA",
@@ -132178,7 +132212,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL - collegamento.lnk"
             }
           ],
-          "_totale_file": 292
+          "_totale_file": 293
         },
         {
           "nome": "TORTORELLA",
@@ -133047,7 +133081,7 @@
                   "nome": "FIMAR_LISTINO_2020_+13.pdf.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/ac0jt4ec4rvo0s09q4te8/FIMAR_LISTINO_2020_-13.pdf.pdf?rlkey=kp6x8lyyv1680wqp8nw4vkn4i&dl=0?raw=1",
                   "dimensione_kb": 580,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO/FIMAR_LISTINO_2020_+13.pdf.pdf"
                 },
