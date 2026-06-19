@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-19T00:24:08Z",
-  "totale_file": 25158,
+  "generato": "2026-06-19T02:23:25Z",
+  "totale_file": 25157,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -137246,7 +137246,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4422,
+      "totale_file": 4421,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -144257,14 +144257,6 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE Offerta n°23-05485 (1).pdf"
             },
             {
-              "nome": "DOC040225-04022025120441.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nwm162ptopeoy5fifeqla/DOC040225-04022025120441.pdf?rlkey=ccwup6n8lvjxs3h3sh7sntchq&dl=0?raw=1",
-              "dimensione_kb": 35,
-              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/DOC040225-04022025120441.pdf"
-            },
-            {
               "nome": "Gmail - Nuovi Orari Front Office e Magazzino.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -144329,7 +144321,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/wetransfer_01-w5-w6-firmware-v124_2025-07-21_0753.zip"
             }
           ],
-          "_totale_file": 111
+          "_totale_file": 110
         },
         {
           "nome": "COLDMARK",
@@ -157615,7 +157607,7 @@
               "nome": "brochure-unika-700.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/na5p3tp7z61r2hwpoobag/brochure-unika-700.pdf?rlkey=a6ggz0zmiqd9rebwowrt6qg5j&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 4117,
               "path": "/HUB DOCUMENTALE/FORNITORI/GIORIK/brochure-unika-700.pdf"
             }
@@ -161551,7 +161543,7 @@
                                       "nome": "Certificato Conformità Abbattitore W5U.pdf",
                                       "tipo": "PDF",
                                       "icona": "📄",
-                                      "link": null,
+                                      "link": "https://www.dropbox.com/scl/fi/s3e52z4so55iblhbu49tu/Certificato-Conformit-Abbattitore-W5U.pdf?rlkey=5cl1dnwqkpcjnglmmob34szyw&dl=0?raw=1",
                                       "dimensione_kb": 103,
                                       "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/GRENKE - RR.VICECONTI - lAURETTA79@/CLIENTI/VIAGGIANELLO/CAMPOLEROSE_VIAGGIANELLO/Inviati a GRENKE/CERTIFICATI/Certificato Conformità Abbattitore W5U.pdf"
                                     },
