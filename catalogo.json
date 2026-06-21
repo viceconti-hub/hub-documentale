@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-21T07:03:39Z",
-  "totale_file": 25187,
+  "generato": "2026-06-21T08:07:39Z",
+  "totale_file": 25188,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -220636,7 +220636,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2381,
+      "totale_file": 2382,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -233383,7 +233383,7 @@
                           "nome": "IDEA BONIFICO DEL 23_05_2023.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/ktfo0ihoys0jj83e8557i/IDEA-BONIFICO-DEL-23_05_2023.pdf?rlkey=sf5trsk4bmostwn30s5pgqiat&dl=0?raw=1",
                           "dimensione_kb": 96,
                           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/IDEA SRL PAGAMENTI/IDEA BONIFICO DEL 23_05_2023.pdf"
                         },
@@ -242005,6 +242005,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/TOP SERVICE Dettaglio bonifico istantaneo DEL 05_02_2026.pdf"
             },
             {
+              "nome": "VAR GROUP SPA BONIFICO DEL 20_06_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/y51oafpsp46jeeriany0v/VAR-GROUP-SPA-BONIFICO-DEL-20_06_2026.pdf?rlkey=kkebu48gt875yscwap8api7jp&dl=0?raw=1",
+              "dimensione_kb": 48,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/VAR GROUP SPA BONIFICO DEL 20_06_2026.pdf"
+            },
+            {
               "nome": "VENTURA GIANLUCA pdf1244633227020630928.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -242029,7 +242037,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2361
+          "_totale_file": 2362
         }
       ],
       "file": []
