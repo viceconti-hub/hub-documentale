@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-20T06:56:59Z",
-  "totale_file": 25184,
+  "generato": "2026-06-21T00:24:24Z",
+  "totale_file": 25187,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -66351,7 +66351,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7126,
+      "totale_file": 7129,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -132853,57 +132853,122 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA",
                   "cartelle": [
                     {
-                      "nome": "VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026",
+                      "nome": "BILANCIA DINI ARGEO",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/BILANCIA DINI ARGEO",
                       "cartelle": [],
                       "file": [
                         {
-                          "nome": "MOTORE REMOTO VETRINA LILIUM DATI MACCHINA.jpeg",
+                          "nome": "BILANCIA DINI ARGEO DATI MACCHINA.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/mszz7cxapzxgf08zlebra/MOTORE-REMOTO-VETRINA-LILIUM-DATI-MACCHINA.jpeg?rlkey=lb8o7bvazj93f3smpsi06ebp5&dl=0?raw=1",
-                          "dimensione_kb": 249,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026/MOTORE REMOTO VETRINA LILIUM DATI MACCHINA.jpeg"
-                        },
-                        {
-                          "nome": "MOTORE REMOTO VETRINA LILIUM FOTO 2.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/fsgn5tjjc3t5gx6jl4w4q/MOTORE-REMOTO-VETRINA-LILIUM-FOTO-2.jpeg?rlkey=nqdm9f1z1qru1sxmzs1ozyefk&dl=0?raw=1",
-                          "dimensione_kb": 384,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026/MOTORE REMOTO VETRINA LILIUM FOTO 2.jpeg"
-                        },
-                        {
-                          "nome": "MOTORE REMOTO VETRINA LILIUM FOTO1.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/9322kps12nemfz8hibpg0/MOTORE-REMOTO-VETRINA-LILIUM-FOTO1.jpeg?rlkey=prpeuda8sr0f65l9ul9vckavv&dl=0?raw=1",
-                          "dimensione_kb": 383,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026/MOTORE REMOTO VETRINA LILIUM FOTO1.jpeg"
-                        },
-                        {
-                          "nome": "MOTORE REMOTO VETRINA LILIUM MISURE.txt",
-                          "tipo": "Testo",
-                          "icona": "📃",
-                          "link": "https://www.dropbox.com/scl/fi/ubb0npkgo8xwnoegy4diz/MOTORE-REMOTO-VETRINA-LILIUM-MISURE.txt?rlkey=on11gzd44ao5uxwulhsl2iiok&dl=0?raw=1",
-                          "dimensione_kb": 0,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026/MOTORE REMOTO VETRINA LILIUM MISURE.txt"
+                          "link": "https://www.dropbox.com/scl/fi/kwmfhhosodo21d2f276ee/BILANCIA-DINI-ARGEO-DATI-MACCHINA.jpeg?rlkey=ayj09mg5y5tn4yd7gpwy72upo&dl=0?raw=1",
+                          "dimensione_kb": 189,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/BILANCIA DINI ARGEO/BILANCIA DINI ARGEO DATI MACCHINA.jpeg"
                         }
                       ],
-                      "_totale_file": 4
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "VETRINA IFI LILIUM",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM",
+                      "cartelle": [
+                        {
+                          "nome": "VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026",
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM/VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "MOTORE REMOTO VETRINA LILIUM DATI MACCHINA.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/mszz7cxapzxgf08zlebra/MOTORE-REMOTO-VETRINA-LILIUM-DATI-MACCHINA.jpeg?rlkey=lb8o7bvazj93f3smpsi06ebp5&dl=0?raw=1",
+                              "dimensione_kb": 249,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM/VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026/MOTORE REMOTO VETRINA LILIUM DATI MACCHINA.jpeg"
+                            },
+                            {
+                              "nome": "MOTORE REMOTO VETRINA LILIUM FOTO 2.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/fsgn5tjjc3t5gx6jl4w4q/MOTORE-REMOTO-VETRINA-LILIUM-FOTO-2.jpeg?rlkey=nqdm9f1z1qru1sxmzs1ozyefk&dl=0?raw=1",
+                              "dimensione_kb": 384,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM/VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026/MOTORE REMOTO VETRINA LILIUM FOTO 2.jpeg"
+                            },
+                            {
+                              "nome": "MOTORE REMOTO VETRINA LILIUM FOTO1.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/9322kps12nemfz8hibpg0/MOTORE-REMOTO-VETRINA-LILIUM-FOTO1.jpeg?rlkey=prpeuda8sr0f65l9ul9vckavv&dl=0?raw=1",
+                              "dimensione_kb": 383,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM/VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026/MOTORE REMOTO VETRINA LILIUM FOTO1.jpeg"
+                            },
+                            {
+                              "nome": "MOTORE REMOTO VETRINA LILIUM MISURE.txt",
+                              "tipo": "Testo",
+                              "icona": "📃",
+                              "link": "https://www.dropbox.com/scl/fi/ubb0npkgo8xwnoegy4diz/MOTORE-REMOTO-VETRINA-LILIUM-MISURE.txt?rlkey=on11gzd44ao5uxwulhsl2iiok&dl=0?raw=1",
+                              "dimensione_kb": 0,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM/VETRINA IFI LILIUM E MOTORE REMOTO MARZO 2026/MOTORE REMOTO VETRINA LILIUM MISURE.txt"
+                            }
+                          ],
+                          "_totale_file": 4
+                        }
+                      ],
+                      "file": [
+                        {
+                          "nome": "VETRINA LILIUM IFI CONTROLLORE DI TEMPERATURA E UMIDTA' MANUALE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/o3xjkvou7w08sx45qqbyo/VETRINA-LILIUM-IFI-CONTROLLORE-DI-TEMPERATURA-E-UMIDTA-MANUALE.pdf?rlkey=wj3vvk3dfibo21z922aiafqum&dl=0?raw=1",
+                          "dimensione_kb": 1476,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM/VETRINA LILIUM IFI CONTROLLORE DI TEMPERATURA E UMIDTA' MANUALE.pdf"
+                        },
+                        {
+                          "nome": "VETRINA LILIUM IFI MANUALE DI INSTALLAZIONE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/fqvtzvlwcnz19slk8zg8y/VETRINA-LILIUM-IFI-MANUALE-DI-INSTALLAZIONE.pdf?rlkey=kwsl33m0irakypkg0krv2frzj&dl=0?raw=1",
+                          "dimensione_kb": 1255,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM/VETRINA LILIUM IFI MANUALE DI INSTALLAZIONE.pdf"
+                        },
+                        {
+                          "nome": "VETRINA LILIUM IFI MANUALE USO E MANUTENZIONE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/tgvegf5qx1lmo92lkjuvr/VETRINA-LILIUM-IFI-MANUALE-USO-E-MANUTENZIONE.pdf?rlkey=qqfrf15dp0ul7kro2irmap4ge&dl=0?raw=1",
+                          "dimensione_kb": 6408,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/VETRINA IFI LILIUM/VETRINA LILIUM IFI MANUALE USO E MANUTENZIONE.pdf"
+                        }
+                      ],
+                      "_totale_file": 7
                     }
                   ],
                   "file": [
                     {
-                      "nome": "WhatsApp Image 2025-03-04 at 12.43.39.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/kwmfhhosodo21d2f276ee/WhatsApp-Image-2025-03-04-at-12.43.39.jpeg?rlkey=ayj09mg5y5tn4yd7gpwy72upo&dl=0?raw=1",
-                      "dimensione_kb": 189,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/WhatsApp Image 2025-03-04 at 12.43.39.jpeg"
+                      "nome": "ComunicazioneMessaServizio.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/uu01l6fa4bs7j3gnbsf7m/ComunicazioneMessaServizio.pdf?rlkey=f2febmfy9qmk6zgfycdkwfi5f&dl=0?raw=1",
+                      "dimensione_kb": 156,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/ComunicazioneMessaServizio.pdf"
+                    },
+                    {
+                      "nome": "W14A.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/axza1iu9ftrtz7pu24a7y/W14A.pdf?rlkey=9o0i5zgl0wgge86wv28mdqygr&dl=0?raw=1",
+                      "dimensione_kb": 164,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/W14A.pdf"
+                    },
+                    {
+                      "nome": "modello_inizio-fine_utilizzo_strumenti_di_misura_art._8_d.m._93_.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/21367gxjqirqojduj6peo/modello_inizio-fine_utilizzo_strumenti_di_misura_art._8_d.m._93_.pdf?rlkey=3pwgahkv5aytbo43ze2vhpzwy&dl=0?raw=1",
+                      "dimensione_kb": 287,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE AREA TECNICA/modello_inizio-fine_utilizzo_strumenti_di_misura_art._8_d.m._93_.pdf"
                     }
                   ],
-                  "_totale_file": 5
+                  "_totale_file": 11
                 },
                 {
                   "nome": "ARTE DOLCIARIA TRECCHINESE CANTIERE GENNAIO 2025",
@@ -132968,6 +133033,14 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE CANTIERE GENNAIO 2025/ARTE DOLCIARIA SOL 004 DEL 26_02_2025.pdf"
                     },
                     {
+                      "nome": "Bozza Realistica Vista B Pasticceria VICECONTI NICOLA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/cx0vjetbsmf8sztb8zamt/Bozza-Realistica-Vista-B-Pasticceria-VICECONTI-NICOLA.pdf?rlkey=tmznamtrbfv0kxv18b04zq3ad&dl=0?raw=1",
+                      "dimensione_kb": 700,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE CANTIERE GENNAIO 2025/Bozza Realistica Vista B Pasticceria VICECONTI NICOLA.pdf"
+                    },
+                    {
                       "nome": "ELENCO ATTREZZATURE BAR 09_04_2026.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -133030,6 +133103,22 @@
                       "link": "https://www.dropbox.com/scl/fi/67o4k0bzqrow8qn5rfk5t/Sambo80_pag_26_27.tif?rlkey=l0z37a10t9kzcz2726xmwcjl7&dl=0?raw=1",
                       "dimensione_kb": 69483,
                       "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE CANTIERE GENNAIO 2025/Sambo80_pag_26_27.tif"
+                    },
+                    {
+                      "nome": "Schizzo Vista A Pasticceria VICECONTI NICOLA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/45szg58udfczaxxekvbis/Schizzo-Vista-A-Pasticceria-VICECONTI-NICOLA.pdf?rlkey=n5wsflwvm5xv3q4sx9gws8fdg&dl=0?raw=1",
+                      "dimensione_kb": 1621,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE CANTIERE GENNAIO 2025/Schizzo Vista A Pasticceria VICECONTI NICOLA.pdf"
+                    },
+                    {
+                      "nome": "Schizzo Vista B Pasticceria VICECONTI NICOLA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/keoyuvxlu90rszzv9tn6u/Schizzo-Vista-B-Pasticceria-VICECONTI-NICOLA.pdf?rlkey=sq0zah1uepyh0dntejg983xj1&dl=0?raw=1",
+                      "dimensione_kb": 1553,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE CANTIERE GENNAIO 2025/Schizzo Vista B Pasticceria VICECONTI NICOLA.pdf"
                     },
                     {
                       "nome": "Viceconti Nicola SOL 001.pdf",
@@ -133128,26 +133217,10 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ARTE DOLCIARIA TRECCHINESE CANTIERE GENNAIO 2025/planimetria viceconti Nicola Biagio trecchina.dwg"
                     }
                   ],
-                  "_totale_file": 26
+                  "_totale_file": 29
                 }
               ],
               "file": [
-                {
-                  "nome": "Bozza Realistica Vista B Pasticceria VICECONTI NICOLA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/cx0vjetbsmf8sztb8zamt/Bozza-Realistica-Vista-B-Pasticceria-VICECONTI-NICOLA.pdf?rlkey=tmznamtrbfv0kxv18b04zq3ad&dl=0?raw=1",
-                  "dimensione_kb": 700,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/Bozza Realistica Vista B Pasticceria VICECONTI NICOLA.pdf"
-                },
-                {
-                  "nome": "ComunicazioneMessaServizio.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/uu01l6fa4bs7j3gnbsf7m/ComunicazioneMessaServizio.pdf?rlkey=f2febmfy9qmk6zgfycdkwfi5f&dl=0?raw=1",
-                  "dimensione_kb": 156,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/ComunicazioneMessaServizio.pdf"
-                },
                 {
                   "nome": "Fattura di vendita - Bozza documento_2600121_20260603_185532.pdf",
                   "tipo": "PDF",
@@ -133155,41 +133228,9 @@
                   "link": "https://www.dropbox.com/scl/fi/7cbx3y8227iho6wujl9h3/Fattura-di-vendita-Bozza-documento_2600121_20260603_185532.pdf?rlkey=y21n6obuxck2vz2nmmc2xdaqg&dl=0?raw=1",
                   "dimensione_kb": 81,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/Fattura di vendita - Bozza documento_2600121_20260603_185532.pdf"
-                },
-                {
-                  "nome": "Schizzo Vista A Pasticceria VICECONTI NICOLA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/45szg58udfczaxxekvbis/Schizzo-Vista-A-Pasticceria-VICECONTI-NICOLA.pdf?rlkey=n5wsflwvm5xv3q4sx9gws8fdg&dl=0?raw=1",
-                  "dimensione_kb": 1621,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/Schizzo Vista A Pasticceria VICECONTI NICOLA.pdf"
-                },
-                {
-                  "nome": "Schizzo Vista B Pasticceria VICECONTI NICOLA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/keoyuvxlu90rszzv9tn6u/Schizzo-Vista-B-Pasticceria-VICECONTI-NICOLA.pdf?rlkey=sq0zah1uepyh0dntejg983xj1&dl=0?raw=1",
-                  "dimensione_kb": 1553,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/Schizzo Vista B Pasticceria VICECONTI NICOLA.pdf"
-                },
-                {
-                  "nome": "W14A.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/axza1iu9ftrtz7pu24a7y/W14A.pdf?rlkey=9o0i5zgl0wgge86wv28mdqygr&dl=0?raw=1",
-                  "dimensione_kb": 164,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/W14A.pdf"
-                },
-                {
-                  "nome": "modello_inizio-fine_utilizzo_strumenti_di_misura_art._8_d.m._93_.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/21367gxjqirqojduj6peo/modello_inizio-fine_utilizzo_strumenti_di_misura_art._8_d.m._93_.pdf?rlkey=3pwgahkv5aytbo43ze2vhpzwy&dl=0?raw=1",
-                  "dimensione_kb": 287,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/ARTE DOLCIARIA TRECCHINESE VICECONTI NICOLA/modello_inizio-fine_utilizzo_strumenti_di_misura_art._8_d.m._93_.pdf"
                 }
               ],
-              "_totale_file": 38
+              "_totale_file": 41
             },
             {
               "nome": "BAR CHIOSCO",
@@ -135650,7 +135691,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/Fattura anticipo cliente_2510012_20250710_103114.pdf"
             }
           ],
-          "_totale_file": 288
+          "_totale_file": 291
         },
         {
           "nome": "TRIESTE",
