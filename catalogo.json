@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-23T05:19:51Z",
-  "totale_file": 25221,
+  "generato": "2026-06-23T07:19:51Z",
+  "totale_file": 25250,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -180526,7 +180526,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4758,
+      "totale_file": 4787,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -181398,6 +181398,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/A.T.A SRL_0001271I_2025-08-27.xml"
             },
             {
+              "nome": "ACCIAIO T. & D. SRL_1009_2026-06-12.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/x7ohagvyfsl5qiy8wyqcu/ACCIAIO-T.-D.-SRL_1009_2026-06-12.xml?rlkey=mjr6lls99jqus2jwkpbbn6vs6&dl=0?raw=1",
+              "dimensione_kb": 29,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ACCIAIO T. & D. SRL_1009_2026-06-12.xml"
+            },
+            {
               "nome": "ACCIAIO T. & D. SRL_1238_2025-07-23.xml",
               "tipo": "File",
               "icona": "📎",
@@ -181548,6 +181556,14 @@
               "link": "https://www.dropbox.com/scl/fi/ccqu8g51zq22nruvgon9y/ALD-Automotive-Italia-S.r.l_FIR0051377_2026-05-13.xml?rlkey=ukiiou5pj4wxpeuy9blk4g5dr&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ALD Automotive Italia S.r.l_FIR0051377_2026-05-13.xml"
+            },
+            {
+              "nome": "ALD Automotive Italia S.r.l_FIR0061292_2026-06-11.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/f5a71xb1kchk0vkp1nl29/ALD-Automotive-Italia-S.r.l_FIR0061292_2026-06-11.xml?rlkey=o24sivfyzur067ggnyz0ukpw3&dl=0?raw=1",
+              "dimensione_kb": 9,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ALD Automotive Italia S.r.l_FIR0061292_2026-06-11.xml"
             },
             {
               "nome": "ALD Automotive Italia S.r.l_FIR0118486_2025-11-11.xml",
@@ -181942,6 +181958,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARVAL SERVICE LEASE ITALIA SPA_FC0013855176_2026-05-11.xml"
             },
             {
+              "nome": "ARVAL SERVICE LEASE ITALIA SPA_FC0014011207_2026-06-11.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/zol7xho1r1ljuh3izu3cf/ARVAL-SERVICE-LEASE-ITALIA-SPA_FC0014011207_2026-06-11.xml?rlkey=zix69bcnp35nis064c18la50k&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARVAL SERVICE LEASE ITALIA SPA_FC0014011207_2026-06-11.xml"
+            },
+            {
               "nome": "ARVAL SERVICE LEASE ITALIA SPA_FD0011597967_2025-03-12.xml",
               "tipo": "File",
               "icona": "📎",
@@ -181988,6 +182012,14 @@
               "link": "https://www.dropbox.com/scl/fi/fbfb7sih77dm6ojq3mpcy/ARVAL-SERVICE-LEASE-ITALIA-SPA_FT0013430200_2026-02-11.xml?rlkey=w0161siqfwct1dybmx27kq4kn&dl=0?raw=1",
               "dimensione_kb": 5,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARVAL SERVICE LEASE ITALIA SPA_FT0013430200_2026-02-11.xml"
+            },
+            {
+              "nome": "ARVAL SERVICE LEASE ITALIA SPA_FT0014094443_2026-06-11.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/vzmviyycxpxh0ewrn2fm2/ARVAL-SERVICE-LEASE-ITALIA-SPA_FT0014094443_2026-06-11.xml?rlkey=b3k143eae1wm1yemvqdbjj4v4&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARVAL SERVICE LEASE ITALIA SPA_FT0014094443_2026-06-11.xml"
             },
             {
               "nome": "ATREPAN S.R.L_125000_2025-12-22.xml",
@@ -182486,6 +182518,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BPER Banca S.p.A_05387-4160647939-76_2026-05-05.xml"
             },
             {
+              "nome": "BPER Banca S.p.A_05387-4160789979-76_2026-06-03.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/uqvophlh4yuobm4idecl5/BPER-Banca-S.p.A_05387-4160789979-76_2026-06-03.xml?rlkey=t0qaz8k86b6ls7nnrjrrws6tk&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BPER Banca S.p.A_05387-4160789979-76_2026-06-03.xml"
+            },
+            {
               "nome": "BPER Banca S.p.A_05387-4160797975-76_2025-06-04.xml",
               "tipo": "File",
               "icona": "📎",
@@ -182750,6 +182790,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BRT S.p.A_833398 (996)_2024-12-31.xml"
             },
             {
+              "nome": "BRUZIA SYSTEM S.r.l_A126_2026-06-11.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/ofz0m2lmzgg40benkn211/BRUZIA-SYSTEM-S.r.l_A126_2026-06-11.xml?rlkey=dr4fp401rbioc2yoydnztahla&dl=0?raw=1",
+              "dimensione_kb": 8,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BRUZIA SYSTEM S.r.l_A126_2026-06-11.xml"
+            },
+            {
               "nome": "BSD SRL_V25-03144_2025-06-12.xml",
               "tipo": "File",
               "icona": "📎",
@@ -182868,6 +182916,14 @@
               "link": "https://www.dropbox.com/scl/fi/p308yqs3saoyh9n5raxjw/C.T.-SERVICE-SRLS-UNIPERSONALE_0001372025_2025-05-31.xml?rlkey=vzwqkamphg1r0d3yzwdgugev9&dl=0?raw=1",
               "dimensione_kb": 5,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/C.T. SERVICE SRLS UNIPERSONALE_0001372025_2025-05-31.xml"
+            },
+            {
+              "nome": "C.T. SERVICE SRLS UNIPERSONALE_0001442026_2026-05-31.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/f4f5z5swkp8gjjepuymny/C.T.-SERVICE-SRLS-UNIPERSONALE_0001442026_2026-05-31.xml?rlkey=muvilg8wohii59bliitdtqli5&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/C.T. SERVICE SRLS UNIPERSONALE_0001442026_2026-05-31.xml"
             },
             {
               "nome": "C.T. SERVICE SRLS UNIPERSONALE_0002142025_2025-08-31.xml",
@@ -183092,6 +183148,14 @@
               "link": "https://www.dropbox.com/scl/fi/kcyz8gv5uo9dz38a3fk77/COLD-LINE-S.r.L_003107E_2025-06-23.xml?rlkey=w0xvpw397ipphhdlbnnr6t1oy&dl=0?raw=1",
               "dimensione_kb": 8,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/COLD LINE S.r.L_003107E_2025-06-23.xml"
+            },
+            {
+              "nome": "COLD LINE S.r.L_003170E_2026-06-16.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/nyfnd6b53thurh9n5ioil/COLD-LINE-S.r.L_003170E_2026-06-16.xml?rlkey=bhb1ti6u9gtj3fv0w39d3unvw&dl=0?raw=1",
+              "dimensione_kb": 10,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/COLD LINE S.r.L_003170E_2026-06-16.xml"
             },
             {
               "nome": "COLD LINE S.r.L_003188E_2025-06-30.xml",
@@ -183702,6 +183766,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/DE LUCA SRL_007342_2025-06-18.xml"
             },
             {
+              "nome": "DE LUCA SRL_007363_2026-06-12.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/j7zvkt5ocjpa5rany29mp/DE-LUCA-SRL_007363_2026-06-12.xml?rlkey=vmq6p7menqim3th0ely78us6i&dl=0?raw=1",
+              "dimensione_kb": 8,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/DE LUCA SRL_007363_2026-06-12.xml"
+            },
+            {
               "nome": "DE LUCA SRL_007675_2025-06-25.xml",
               "tipo": "File",
               "icona": "📎",
@@ -183892,6 +183964,14 @@
               "link": "https://www.dropbox.com/scl/fi/xh9fatto95mn0ijzcb3jw/De-Maria-Group-Srls_572_2026-05-19.xml?rlkey=w57ffxge4aqlutixvbv36hqjs&dl=0?raw=1",
               "dimensione_kb": 13,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/De Maria Group Srls_572_2026-05-19.xml"
+            },
+            {
+              "nome": "De Maria Group Srls_693_2026-06-14.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/eog823f01o53jfzde3gh8/De-Maria-Group-Srls_693_2026-06-14.xml?rlkey=mfj5pzww8xas1ne0uefoqx3nz&dl=0?raw=1",
+              "dimensione_kb": 13,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/De Maria Group Srls_693_2026-06-14.xml"
             },
             {
               "nome": "Ditta Brando Santino_5_2025-01-08.xml",
@@ -184174,6 +184254,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Enel Energia S.p.A_005439206803_2026-05-12.xml"
             },
             {
+              "nome": "Enel Energia S.p.A_005446809932_2026-06-10.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/3eqwo2e7ipettejwhjqn9/Enel-Energia-S.p.A_005446809932_2026-06-10.xml?rlkey=cghq3oprp3bs9p9ttj1etxx68&dl=0?raw=1",
+              "dimensione_kb": 32,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Enel Energia S.p.A_005446809932_2026-06-10.xml"
+            },
+            {
               "nome": "EniMoov S.p.A_2026-FE18740-1602_2026-04-10.xml",
               "tipo": "File",
               "icona": "📎",
@@ -184228,6 +184316,14 @@
               "link": "https://www.dropbox.com/scl/fi/48wsvqf8e7yy7d6k9esh9/FABIO-LEONARDI-S.R.L_18_2026-01-22.xml?rlkey=4mk48uwlcg6q1d7zzikmfs43v&dl=0?raw=1",
               "dimensione_kb": 186,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/FABIO LEONARDI S.R.L_18_2026-01-22.xml"
+            },
+            {
+              "nome": "FE.MA. SRL_1617_2026-06-09.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/husjhs83wo577rf3l1sgf/FE.MA.-SRL_1617_2026-06-09.xml?rlkey=laj2mbn0sk7uxqxdlgju1ltze&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/FE.MA. SRL_1617_2026-06-09.xml"
             },
             {
               "nome": "FE.MA. SRL_1784_2025-06-04.xml",
@@ -184478,12 +184574,28 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/FIMAR s.p.a_8993_2025-06-11.xml"
             },
             {
+              "nome": "FIMAR s.p.a_9267_2026-06-11.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/hh696p8e2swog05ndw969/FIMAR-s.p.a_9267_2026-06-11.xml?rlkey=nkv09zcsvki0x0cresgjcdfdr&dl=0?raw=1",
+              "dimensione_kb": 130,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/FIMAR s.p.a_9267_2026-06-11.xml"
+            },
+            {
               "nome": "FIMAR s.p.a_9660_2025-06-23.xml",
               "tipo": "File",
               "icona": "📎",
               "link": "https://www.dropbox.com/scl/fi/7g0d5x97zqwmibipyou25/FIMAR-s.p.a_9660_2025-06-23.xml?rlkey=4aj866pdavfqtyvsgh0osmahg&dl=0?raw=1",
               "dimensione_kb": 127,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/FIMAR s.p.a_9660_2025-06-23.xml"
+            },
+            {
+              "nome": "FIMAR s.p.a_9799_2026-06-22.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/n9fbwqddaeualf88c9caf/FIMAR-s.p.a_9799_2026-06-22.xml?rlkey=t9qa28bxf6tctd4y6l0s6mi9i&dl=0?raw=1",
+              "dimensione_kb": 127,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/FIMAR s.p.a_9799_2026-06-22.xml"
             },
             {
               "nome": "FINE DINING & LIVING_1A 2025_2025-06-30.xml",
@@ -184934,6 +185046,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/GRENKE LOCAZIONE S.R.L_00003575792025_2025-05-24.xml"
             },
             {
+              "nome": "Grandimpianti I.L.E. ALI Group Srl_01645426000746_2026-06-15.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/6f629jwx9lulv03f4mg8x/Grandimpianti-I.L.E.-ALI-Group-Srl_01645426000746_2026-06-15.xml?rlkey=a95t4noptni6302ok2y3elo64&dl=0?raw=1",
+              "dimensione_kb": 43,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Grandimpianti I.L.E. ALI Group Srl_01645426000746_2026-06-15.xml"
+            },
+            {
               "nome": "Grenke Italia S.p.A_00000231402026_2026-01-24.xml",
               "tipo": "File",
               "icona": "📎",
@@ -185318,6 +185438,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/HENDI Italia S.R.L_RI251110116_2025-11-11.xml"
             },
             {
+              "nome": "HENDI Italia S.R.L_RI260607163_2026-06-18.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/8w1nskvwh8oz1b88u33lm/HENDI-Italia-S.R.L_RI260607163_2026-06-18.xml?rlkey=gw8iifgc6kdyop8t3hwmzti28&dl=0?raw=1",
+              "dimensione_kb": 8,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/HENDI Italia S.R.L_RI260607163_2026-06-18.xml"
+            },
+            {
               "nome": "HOSHIZAKI EUROPE B.V_9079HEIT-SI_2026-05-28.xml",
               "tipo": "File",
               "icona": "📎",
@@ -185340,6 +185468,14 @@
               "link": "https://www.dropbox.com/scl/fi/rby3k06m34utfu5rlchlc/Hotel-Leon-Rist.-Al-Cavallino-Rosso-di-Turi-Luciano-C.-s.a.s_55_2025-02-26.xml?rlkey=c4wfc8y6o85mjl1ag16pckr5k&dl=0?raw=1",
               "dimensione_kb": 8,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Hotel Leon Rist. Al Cavallino Rosso di Turi Luciano & C. s.a.s_55_2025-02-26.xml"
+            },
+            {
+              "nome": "ICOMMERCE SRL_26851_2026-06-16.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/i13r41fuvtery48ei66u0/ICOMMERCE-SRL_26851_2026-06-16.xml?rlkey=3gn8pvirqnut636pswoc3lzct&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ICOMMERCE SRL_26851_2026-06-16.xml"
             },
             {
               "nome": "IDEAM INOX SRL_1301002026_2026-04-30.xml",
@@ -185836,6 +185972,14 @@
               "link": "https://www.dropbox.com/scl/fi/88id19o83ceoxi7h9i7si/LOTUS-S.p.A_1741I_2025-04-22.xml?rlkey=i5s9lkmgh00hff64ydcjtm5pg&dl=0?raw=1",
               "dimensione_kb": 175,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/LOTUS S.p.A_1741I_2025-04-22.xml"
+            },
+            {
+              "nome": "LOTUS S.p.A_2491I_2026-06-09.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/7untry6666p4pcuqgd4ec/LOTUS-S.p.A_2491I_2026-06-09.xml?rlkey=qlp109ro0d03pue861as9y865&dl=0?raw=1",
+              "dimensione_kb": 409,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/LOTUS S.p.A_2491I_2026-06-09.xml"
             },
             {
               "nome": "Longoni divisione freddo s.r.l unipersonale_000597I_2025-06-20.xml",
@@ -186366,6 +186510,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/MORINI S.R.L. - Soc.Unipersonale_26F106111_2026-04-16.xml"
             },
             {
+              "nome": "MORINI S.R.L. - Soc.Unipersonale_26F111320_2026-06-18.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/md3bxlpg3fgpj1xi560v2/MORINI-S.R.L.-Soc.Unipersonale_26F111320_2026-06-18.xml?rlkey=mjssrnvdstyg4g0vst8ifn618&dl=0?raw=1",
+              "dimensione_kb": 11,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/MORINI S.R.L. - Soc.Unipersonale_26F111320_2026-06-18.xml"
+            },
+            {
               "nome": "MURGIA RESORT SRL_596H2025_2025-12-18.xml",
               "tipo": "File",
               "icona": "📎",
@@ -186622,6 +186774,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/NEXI PAYMENTS S.p.A_3628978_2025-10-09.xml"
             },
             {
+              "nome": "NONSOLOMARE SRL_LUCERA           780_2026-06-11.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/eq3thgduyhgic6sw2yy6i/NONSOLOMARE-SRL_LUCERA-780_2026-06-11.xml?rlkey=7rq4knz6ebn03k06u0dtlb3yf&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/NONSOLOMARE SRL_LUCERA           780_2026-06-11.xml"
+            },
+            {
               "nome": "NTA SRL_292025_2025-09-23.xml",
               "tipo": "File",
               "icona": "📎",
@@ -186812,6 +186972,14 @@
               "link": "https://www.dropbox.com/scl/fi/zaclra7gbw8pg714w77no/PESCE-NICOLA_7582026_2026-05-07.xml?rlkey=4enf9zwow76aq8vw86ecyq9kw&dl=0?raw=1",
               "dimensione_kb": 4,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/PESCE NICOLA_7582026_2026-05-07.xml"
+            },
+            {
+              "nome": "PESCE NICOLA_9562026_2026-06-10.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/q8cahfcrsxhx1wuyzq8m7/PESCE-NICOLA_9562026_2026-06-10.xml?rlkey=7tz60l7dmbh7t5srck09lr2xv&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/PESCE NICOLA_9562026_2026-06-10.xml"
             },
             {
               "nome": "PIAZZA EFFEPI S.R.L_2025-FC1-0002158_2025-07-28.xml",
@@ -187470,6 +187638,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/SIRMAN SPA A SOCIO UNICO_0010008118_2026-05-11.xml"
             },
             {
+              "nome": "SIRMAN SPA A SOCIO UNICO_0010010320_2026-06-11.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/0tk6v82kzk4uxzg6ewtgg/SIRMAN-SPA-A-SOCIO-UNICO_0010010320_2026-06-11.xml?rlkey=hzhts191eaizz96qtp10kr98u&dl=0?raw=1",
+              "dimensione_kb": 105,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/SIRMAN SPA A SOCIO UNICO_0010010320_2026-06-11.xml"
+            },
+            {
               "nome": "SIRMAN SPA A SOCIO UNICO_0010019321_2025-10-29.xml",
               "tipo": "File",
               "icona": "📎",
@@ -187766,6 +187942,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/SLAYER BLADES SRL_26FA004425_2026-05-19.xml"
             },
             {
+              "nome": "SLAYER BLADES SRL_26FA004985_2026-06-08.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/1gf0d8o9dorccrkhfmfaq/SLAYER-BLADES-SRL_26FA004985_2026-06-08.xml?rlkey=pdc6eejd7b2kdfmrtvzh51g4n&dl=0?raw=1",
+              "dimensione_kb": 10,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/SLAYER BLADES SRL_26FA004985_2026-06-08.xml"
+            },
+            {
               "nome": "SO.GE.AL. DI FRANCESCO PARENTE & C. SAS_3912_2025-10-30.xml",
               "tipo": "File",
               "icona": "📎",
@@ -188004,6 +188188,22 @@
               "link": "https://www.dropbox.com/scl/fi/p6gko0doinwds6h0f1jy7/TOP-SERVICE-DI-TRIESTINO-PANETTA_3A_2026-02-05.xml?rlkey=h08wcjq3vi8n7q1knz4ydsvhl&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/TOP SERVICE DI TRIESTINO PANETTA_3A_2026-02-05.xml"
+            },
+            {
+              "nome": "TRASPORTI AMETRANO SRL_1051-0_2026-06-15.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/sv0p27qd2st2x6g2utrd9/TRASPORTI-AMETRANO-SRL_1051-0_2026-06-15.xml?rlkey=k4zzt4grzherncmw7v018wzgn&dl=0?raw=1",
+              "dimensione_kb": 368,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/TRASPORTI AMETRANO SRL_1051-0_2026-06-15.xml"
+            },
+            {
+              "nome": "TRASPORTI AMETRANO SRL_1064-0_2026-06-19.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/w871gm7l9rv482q2bz71l/TRASPORTI-AMETRANO-SRL_1064-0_2026-06-19.xml?rlkey=h9ko6c7nyma8malz8f78gecpp&dl=0?raw=1",
+              "dimensione_kb": 369,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/TRASPORTI AMETRANO SRL_1064-0_2026-06-19.xml"
             },
             {
               "nome": "TRASPORTI AMETRANO SRL_378-0_2026-03-06.xml",
@@ -189142,6 +189342,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ZINCO GROUP Srl_2026   511A_2026-04-10.xml"
             },
             {
+              "nome": "ZINCO GROUP Srl_2026   799A_2026-06-10.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/9cuwb4vwzuq6sxws10cnz/ZINCO-GROUP-Srl_2026-799A_2026-06-10.xml?rlkey=qkaf3bempvl49tmjo7x7ornp1&dl=0?raw=1",
+              "dimensione_kb": 897,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ZINCO GROUP Srl_2026   799A_2026-06-10.xml"
+            },
+            {
               "nome": "fatture-xml (1).zip",
               "tipo": "Archivio",
               "icona": "🗜️",
@@ -189174,7 +189382,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/iMatteo di Bruno Matteo_79_2025-03-25.xml"
             }
           ],
-          "_totale_file": 979
+          "_totale_file": 1005
         },
         {
           "nome": "LOGISTICA IN USCITA",
@@ -218782,6 +218990,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR 2025W02170VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.MADI.PDF"
                 },
                 {
+                  "nome": "FIMAR CONFERMA ORDINE 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7ojwe6qg95w8mr34ntl36/FIMAR-CONFERMA-ORDINE-2026W03693VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.-PASSION-SUSHI.PDF?rlkey=7w9j4u7p71nip5f95ue673cmv&dl=0?raw=1",
+                  "dimensione_kb": 144,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR CONFERMA ORDINE 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF"
+                },
+                {
                   "nome": "FIMAR CONFERMA ORDINE 2026W03882VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. CARCONI MAG MIXER.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -218790,12 +219006,28 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR CONFERMA ORDINE 2026W03882VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. CARCONI MAG MIXER.PDF"
                 },
                 {
+                  "nome": "FIMAR CONFERMA ORDINE 2026W03893VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RID.SANTA LUCIA MAG FR88.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/frwrqv7u9dsg529p3zdyi/FIMAR-CONFERMA-ORDINE-2026W03893VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RID.SANTA-LUCIA-MAG-FR88.PDF?rlkey=yqleyyy1nsx6qblr6f1dg0t7a&dl=0?raw=1",
+                  "dimensione_kb": 132,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR CONFERMA ORDINE 2026W03893VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RID.SANTA LUCIA MAG FR88.PDF"
+                },
+                {
                   "nome": "FIMAR CONFERMA ORDINE 2026W04362VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.SANTOS E PANAINO RUA.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/7lxrfgipbrxy837ro2ivi/FIMAR-CONFERMA-ORDINE-2026W04362VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.SANTOS-E-PANAINO-RUA.PDF?rlkey=nnnlqz1v2gnexidvyvnrkjpgb&dl=0?raw=1",
                   "dimensione_kb": 133,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR CONFERMA ORDINE 2026W04362VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.SANTOS E PANAINO RUA.PDF"
+                },
+                {
+                  "nome": "FIMAR CONFERMA ORDINE 2026W04699VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. SANTOS BACKBAR INTEGRAZIONE.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/os7bfljupcs3mr8hrxrf6/FIMAR-CONFERMA-ORDINE-2026W04699VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.-SANTOS-BACKBAR-INTEGRAZIONE.PDF?rlkey=nco10wxmmuz4mo6v89fgqqpn0&dl=0?raw=1",
+                  "dimensione_kb": 132,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR CONFERMA ORDINE 2026W04699VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. SANTOS BACKBAR INTEGRAZIONE.PDF"
                 },
                 {
                   "nome": "FIMAR s.p.a. Ordine dacquisto_260073_20260510_192201 RIF. AFFETTATRICE PER GIOIA CHALET.pdf",
@@ -218820,6 +219052,14 @@
                   "link": "https://www.dropbox.com/scl/fi/zf21fjp3sgo90qx08mu1s/FIMAR-s.p.a.-Ordine-dacquisto_260084_20260512_194907-RIF.-PASSION-SUSHI.pdf?rlkey=wgo6mncj4ma2g29wxuqjn0gi7&dl=0?raw=1",
                   "dimensione_kb": 71,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR s.p.a. Ordine dacquisto_260084_20260512_194907 RIF. PASSION SUSHI.pdf"
+                },
+                {
+                  "nome": "FIMAR s.p.a. Ordine dacquisto_260127_20260608_201622 RIF. SANTOS BACKBAR INTEGRAZIONE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/09xo4dlmx3axvmf68z78u/FIMAR-s.p.a.-Ordine-dacquisto_260127_20260608_201622-RIF.-SANTOS-BACKBAR-INTEGRAZIONE.pdf?rlkey=i81rpr17xm5j3lpzlkth22fqj&dl=0?raw=1",
+                  "dimensione_kb": 69,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR s.p.a. Ordine dacquisto_260127_20260608_201622 RIF. SANTOS BACKBAR INTEGRAZIONE.pdf"
                 },
                 {
                   "nome": "FIMEL PREVENTIVO A CLIENTE 10 DEL 25-09-2025  VICECONTI SNC DI PROSPERO VICECONTI FIRMATO.pdf",
@@ -218956,6 +219196,14 @@
                   "link": "https://www.dropbox.com/scl/fi/9ar2i4rrx12ujbqazuocd/HENDI-CONFERMA-AB_AI251109851_701341_20251105-RIF.-LA-CUNA.PDF?rlkey=s7kzn9izakgfuerqlwg79al90&dl=0?raw=1",
                   "dimensione_kb": 460,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/HENDI CONFERMA AB_AI251109851_701341_20251105 RIF. LA CUNA.PDF"
+                },
+                {
+                  "nome": "HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/x3d323200qt2weobdvlui/HENDI-CONFERMA-ORDINE-AB_AI260504823_701341_20260512-RIF.-PASSION-SUSHI.PDF?rlkey=ynbab7tc6fghq6l7ku5fu61nt&dl=0?raw=1",
+                  "dimensione_kb": 597,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF"
                 },
                 {
                   "nome": "HENDI ITALIA SRL Ordine dacquisto_260089_20260512_120736 RIF. PASSION SUSHI INDUZIONE E VETRINA.pdf",
@@ -219502,6 +219750,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IFI CONFERMA ORDINE 326000578 RIF.LA REGINA_CONTROLLORE_MURALE.pdf"
                 },
                 {
+                  "nome": "IFI CONFERMA Preventivo_26004420 RIF. LA CAPPELLINA VETRINA MIX.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fy1qtbbrqhinobtcm5he4/IFI-CONFERMA-Preventivo_26004420-RIF.-LA-CAPPELLINA-VETRINA-MIX.pdf?rlkey=ubwcfecmuqdcie838da9z39y0&dl=0?raw=1",
+                  "dimensione_kb": 2698,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IFI CONFERMA Preventivo_26004420 RIF. LA CAPPELLINA VETRINA MIX.pdf"
+                },
+                {
                   "nome": "IFI Conferma d'Ordine 25006209 RIF.RUGGIERO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -219662,12 +219918,28 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/LA MITO KLIMATIALIA FA TU Conferma d'Ordine-Klimaitalia-P-2271.pdf"
                 },
                 {
+                  "nome": "LOTUS CONFERMA ORIDNE 00000000390460_00000000067519900 RIF. LIDO VALENTINA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/u7prbt34lfbu52gs9vdj6/LOTUS-CONFERMA-ORIDNE-00000000390460_00000000067519900-RIF.-LIDO-VALENTINA.pdf?rlkey=tf1lz6gnl626ay9x6njqhy5ns&dl=0?raw=1",
+                  "dimensione_kb": 627,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/LOTUS CONFERMA ORIDNE 00000000390460_00000000067519900 RIF. LIDO VALENTINA.pdf"
+                },
+                {
                   "nome": "LOTUS RIF. NOCERA STREET FOOD Ordine dacquisto_260040_20260409_105312.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/fr02vq0jyiylreanc232s/LOTUS-RIF.-NOCERA-STREET-FOOD-Ordine-dacquisto_260040_20260409_105312.pdf?rlkey=4dwsc0m9ydhs0okdvkud5voht&dl=0?raw=1",
                   "dimensione_kb": 73,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/LOTUS RIF. NOCERA STREET FOOD Ordine dacquisto_260040_20260409_105312.pdf"
+                },
+                {
+                  "nome": "LOTUS spa Ordine dacquisto_260120_20260528_182009 RIF. LIDO VALENTINA Basato su Ordini cliente 260175..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lrpcbwk5v2w920akeri7m/LOTUS-spa-Ordine-dacquisto_260120_20260528_182009-RIF.-LIDO-VALENTINA-Basato-su-Ordini-cliente-260175..pdf?rlkey=rcv2clrjrcaj9v3b6w2p4gdxr&dl=0?raw=1",
+                  "dimensione_kb": 70,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/LOTUS spa Ordine dacquisto_260120_20260528_182009 RIF. LIDO VALENTINA Basato su Ordini cliente 260175..pdf"
                 },
                 {
                   "nome": "MECNOSUD 1-Conferma ordine cliente RIF. RUGGIERO.PDF",
@@ -219830,6 +220102,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA ORDINE 26-04237 MD_SaleOrdForm_2022 RIF. LA SORGENTE.pdf"
                 },
                 {
+                  "nome": "MODULAR CONFERMA ORDINE 26-04251 MD_SaleOrdForm_2022 RIF. SANTA LUCIA CUCINA E GRIGLIA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pof4aq57zvbwk4492adyc/MODULAR-CONFERMA-ORDINE-26-04251-MD_SaleOrdForm_2022-RIF.-SANTA-LUCIA-CUCINA-E-GRIGLIA.pdf?rlkey=9ax13o23jqnh0wnlqt5wo8e8g&dl=0?raw=1",
+                  "dimensione_kb": 141,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA ORDINE 26-04251 MD_SaleOrdForm_2022 RIF. SANTA LUCIA CUCINA E GRIGLIA.pdf"
+                },
+                {
                   "nome": "MODULAR CONFERMA ORDINE 26_02641 MD_SaleOrdForm_2022 RIF.MeM.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -219966,6 +220246,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MORINI CONFERMA 003OC20252114975.PDF"
                 },
                 {
+                  "nome": "MORINI CONFERMA ORDINE 003OC20262142369 RIF. YUMARA MAG.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/c6xja1jo8cit8kd00yeim/MORINI-CONFERMA-ORDINE-003OC20262142369-RIF.-YUMARA-MAG.PDF?rlkey=8uxynr6a1tcx40n9a11nqpy8l&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MORINI CONFERMA ORDINE 003OC20262142369 RIF. YUMARA MAG.PDF"
+                },
+                {
                   "nome": "MORINI GRISOLIA CASTELLUCCIO LIBERTY Ordine dacquisto_260042_20260413_182355.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -220036,6 +220324,14 @@
                   "link": "https://www.dropbox.com/scl/fi/7jfm1ote9zztduczss7x1/MORINI-Ordine-dacquisto_260025_20260323_133347-RIF.ESCOPOCO_PANAINO_I-SAPORI_-AGUALOCA.pdf?rlkey=yrzmpvvb6wvnuzx9n9cdi8lyv&dl=0?raw=1",
                   "dimensione_kb": 77,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MORINI Ordine dacquisto_260025_20260323_133347 RIF.ESCOPOCO_PANAINO_I SAPORI_ AGUALOCA.pdf"
+                },
+                {
+                  "nome": "MORINI s.r.l. Ordine dacquisto_260125_20260609_131955 RIF. Basato su Ordini cliente 250924. 260150. 260157. 260181..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/noio7406wld6p4awavp96/MORINI-s.r.l.-Ordine-dacquisto_260125_20260609_131955-RIF.-Basato-su-Ordini-cliente-250924.-260150.-260157.-260181..pdf?rlkey=w22sp03zmz6th0evq8h949nbt&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MORINI s.r.l. Ordine dacquisto_260125_20260609_131955 RIF. Basato su Ordini cliente 250924. 260150. 260157. 260181..pdf"
                 },
                 {
                   "nome": "NTA CONFERMA FP-4-2025 RIF.LAMPADE.pdf",
@@ -220182,6 +220478,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/PADERNO SBT-25026534.pdf"
                 },
                 {
+                  "nome": "PIAZZA EFFEPI srl Ordine dacquisto_260142_20260622_104605 RIF. FA TU Basato su Ordini cliente 260226..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7l6t7dlk9gl67u8xhk63l/PIAZZA-EFFEPI-srl-Ordine-dacquisto_260142_20260622_104605-RIF.-FA-TU-Basato-su-Ordini-cliente-260226..pdf?rlkey=bop7apb2uyirlihlrav376ywe&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/PIAZZA EFFEPI srl Ordine dacquisto_260142_20260622_104605 RIF. FA TU Basato su Ordini cliente 260226..pdf"
+                },
+                {
                   "nome": "PIAZZA RIF. ORO CONFRMA ORDINE 11012179_ORD_CLI_2026-OC-0001430.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -220300,6 +220604,14 @@
                   "link": "https://www.dropbox.com/scl/fi/7knd48hr0oyhh03t7d6uh/SIRMAN-3AM-VASCA-CONFERMA-ORDINE-viceconti.pdf?rlkey=8f5m570pe9txr16q9apokeffu&dl=0?raw=1",
                   "dimensione_kb": 132,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN 3AM VASCA CONFERMA ORDINE viceconti.pdf"
+                },
+                {
+                  "nome": "SIRMAN CONFERMA ORDINE 2010251338 DEL 18_05_2026 RIF. MeM HppyM PassionSushi.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xkg45frdwh76gll7cizia/SIRMAN-CONFERMA-ORDINE-2010251338-DEL-18_05_2026-RIF.-MeM-HppyM-PassionSushi.pdf?rlkey=tfkrnzytlaa9jhru95qqdz2mo&dl=0?raw=1",
+                  "dimensione_kb": 81,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN CONFERMA ORDINE 2010251338 DEL 18_05_2026 RIF. MeM HppyM PassionSushi.pdf"
                 },
                 {
                   "nome": "SIRMAN CONFERMA ORDINE DEL 21_10_2025 RIF.3AM+RICAMBIO.pdf",
@@ -220582,6 +220894,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ZINCO GROUP RIF. ILAMA Ordine dacquisto_260041_20260409_125100.pdf"
                 },
                 {
+                  "nome": "ZINCO GROUP SRL Ordine dacquisto_260130_20260609_230743 RIF. PASSION SUSHI Basato su Offerte di vendita 260210..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9zh68oqkxc5brt5ml1uu4/ZINCO-GROUP-SRL-Ordine-dacquisto_260130_20260609_230743-RIF.-PASSION-SUSHI-Basato-su-Offerte-di-vendita-260210..pdf?rlkey=nzfuk5f0bpv9epbzlub9uttmr&dl=0?raw=1",
+                  "dimensione_kb": 69,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ZINCO GROUP SRL Ordine dacquisto_260130_20260609_230743 RIF. PASSION SUSHI Basato su Offerte di vendita 260210..pdf"
+                },
+                {
+                  "nome": "ZINCO GROUP SRL Ordine dacquisto_260132_20260610_154806 RIF. PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE COLLARI DI FISSA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rk16wuntvr6av2em4jmf0/ZINCO-GROUP-SRL-Ordine-dacquisto_260132_20260610_154806-RIF.-PASSION-SUSHI-INTEGRAZIONE-ORDINE-TUBAZIONE-COLLARI-DI-FISSA.pdf?rlkey=b4k2x3r9d10dq5so3ow13lc5w&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ZINCO GROUP SRL Ordine dacquisto_260132_20260610_154806 RIF. PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE COLLARI DI FISSA.pdf"
+                },
+                {
                   "nome": "unnamed.png",
                   "tipo": "Immagine",
                   "icona": "🖼️",
@@ -220590,7 +220918,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3642
+              "_totale_file": 3657
             }
           ],
           "file": [
@@ -220601,6 +220929,14 @@
               "link": "https://www.dropbox.com/scl/fi/6mdiy8kd8wyiutfnm10cf/ACCIAIO-T-D-CONFERMA-OFFERTA-OFFVE-002497-2026-RIF.-PASSION-SUSHI-INTEGRAZIONE-LAVAGGIO.pdf?rlkey=nw07jo0tq432d63ac6s7ukd7t&dl=0?raw=1",
               "dimensione_kb": 688,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFERTA OFFVE-002497-2026 RIF. PASSION SUSHI INTEGRAZIONE LAVAGGIO.pdf"
+            },
+            {
+              "nome": "ACCIAIO T&D CONFERMA ORDINE ORDVE-001942-2026 RIF. PASSION SUSHI NUOVO LAVAGGIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/icb7gf4dm25s71j2os2au/ACCIAIO-T-D-CONFERMA-ORDINE-ORDVE-001942-2026-RIF.-PASSION-SUSHI-NUOVO-LAVAGGIO.pdf?rlkey=8gt21vwcohnv8500i9ty3dxua&dl=0?raw=1",
+              "dimensione_kb": 733,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDINE ORDVE-001942-2026 RIF. PASSION SUSHI NUOVO LAVAGGIO.pdf"
             },
             {
               "nome": "ACCIAIO T&D CONFERMA ORDVE-001777-2026 RIF. BARLASCINI WEB LAVELLO 140X70.pdf",
@@ -220699,54 +221035,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
             },
             {
-              "nome": "DE LUCA SRL Ordine dacquisto_260135_20260612_143718 RIF. Basato su Ordini cliente 260115. 260162. 260205..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/c9zjm24d9aetl556ec4nn/DE-LUCA-SRL-Ordine-dacquisto_260135_20260612_143718-RIF.-Basato-su-Ordini-cliente-260115.-260162.-260205..pdf?rlkey=n1uujjcu3yo6niwmubrq9215b&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260135_20260612_143718 RIF. Basato su Ordini cliente 260115. 260162. 260205..pdf"
-            },
-            {
-              "nome": "FIMAR CONFERMA ORDINE 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/7ojwe6qg95w8mr34ntl36/FIMAR-CONFERMA-ORDINE-2026W03693VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.-PASSION-SUSHI.PDF?rlkey=7w9j4u7p71nip5f95ue673cmv&dl=0?raw=1",
-              "dimensione_kb": 144,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF"
-            },
-            {
-              "nome": "FIMAR CONFERMA ORDINE 2026W03893VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RID.SANTA LUCIA MAG FR88.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/frwrqv7u9dsg529p3zdyi/FIMAR-CONFERMA-ORDINE-2026W03893VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RID.SANTA-LUCIA-MAG-FR88.PDF?rlkey=yqleyyy1nsx6qblr6f1dg0t7a&dl=0?raw=1",
-              "dimensione_kb": 132,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W03893VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RID.SANTA LUCIA MAG FR88.PDF"
-            },
-            {
-              "nome": "FIMAR CONFERMA ORDINE 2026W04699VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. SANTOS BACKBAR INTEGRAZIONE.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/os7bfljupcs3mr8hrxrf6/FIMAR-CONFERMA-ORDINE-2026W04699VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.-SANTOS-BACKBAR-INTEGRAZIONE.PDF?rlkey=nco10wxmmuz4mo6v89fgqqpn0&dl=0?raw=1",
-              "dimensione_kb": 132,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W04699VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. SANTOS BACKBAR INTEGRAZIONE.PDF"
-            },
-            {
-              "nome": "FIMAR s.p.a. Ordine dacquisto_260127_20260608_201622 RIF. SANTOS BACKBAR INTEGRAZIONE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/09xo4dlmx3axvmf68z78u/FIMAR-s.p.a.-Ordine-dacquisto_260127_20260608_201622-RIF.-SANTOS-BACKBAR-INTEGRAZIONE.pdf?rlkey=i81rpr17xm5j3lpzlkth22fqj&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260127_20260608_201622 RIF. SANTOS BACKBAR INTEGRAZIONE.pdf"
-            },
-            {
-              "nome": "HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/x3d323200qt2weobdvlui/HENDI-CONFERMA-ORDINE-AB_AI260504823_701341_20260512-RIF.-PASSION-SUSHI.PDF?rlkey=ynbab7tc6fghq6l7ku5fu61nt&dl=0?raw=1",
-              "dimensione_kb": 597,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/HENDI CONFERMA ORDINE AB_AI260504823_701341_20260512 RIF. PASSION SUSHI.PDF"
-            },
-            {
               "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600021881_N0002470 RIF. ILAMA TAVOLI PROF. 40.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -220755,60 +221043,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IDEAM INOX CONFERMA ORDINE 1ID202600021881_N0002470 RIF. ILAMA TAVOLI PROF. 40.pdf"
             },
             {
-              "nome": "IFI CONFERMA Preventivo_26004420 RIF. LA CAPPELLINA VETRINA MIX.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/fy1qtbbrqhinobtcm5he4/IFI-CONFERMA-Preventivo_26004420-RIF.-LA-CAPPELLINA-VETRINA-MIX.pdf?rlkey=ubwcfecmuqdcie838da9z39y0&dl=0?raw=1",
-              "dimensione_kb": 2698,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/IFI CONFERMA Preventivo_26004420 RIF. LA CAPPELLINA VETRINA MIX.pdf"
-            },
-            {
-              "nome": "LOTUS CONFERMA ORIDNE 00000000390460_00000000067519900 RIF. LIDO VALENTINA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/u7prbt34lfbu52gs9vdj6/LOTUS-CONFERMA-ORIDNE-00000000390460_00000000067519900-RIF.-LIDO-VALENTINA.pdf?rlkey=tf1lz6gnl626ay9x6njqhy5ns&dl=0?raw=1",
-              "dimensione_kb": 627,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/LOTUS CONFERMA ORIDNE 00000000390460_00000000067519900 RIF. LIDO VALENTINA.pdf"
-            },
-            {
-              "nome": "LOTUS spa Ordine dacquisto_260120_20260528_182009 RIF. LIDO VALENTINA Basato su Ordini cliente 260175..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/lrpcbwk5v2w920akeri7m/LOTUS-spa-Ordine-dacquisto_260120_20260528_182009-RIF.-LIDO-VALENTINA-Basato-su-Ordini-cliente-260175..pdf?rlkey=rcv2clrjrcaj9v3b6w2p4gdxr&dl=0?raw=1",
-              "dimensione_kb": 70,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/LOTUS spa Ordine dacquisto_260120_20260528_182009 RIF. LIDO VALENTINA Basato su Ordini cliente 260175..pdf"
-            },
-            {
               "nome": "MECNOSUD S.R.L. Ordine dacquisto_260044_20260513_183524 RIF. MeM IMPASTATRICE IM25D.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/njdvnz712dllt4qx7a19v/MECNOSUD-S.R.L.-Ordine-dacquisto_260044_20260513_183524-RIF.-MeM-IMPASTATRICE-IM25D.pdf?rlkey=hp0yr9vbprflm5ddwtg6kzyl9&dl=0?raw=1",
               "dimensione_kb": 58,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MECNOSUD S.R.L. Ordine dacquisto_260044_20260513_183524 RIF. MeM IMPASTATRICE IM25D.pdf"
-            },
-            {
-              "nome": "MODULAR CONFERMA ORDINE 26-04251 MD_SaleOrdForm_2022 RIF. SANTA LUCIA CUCINA E GRIGLIA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/pof4aq57zvbwk4492adyc/MODULAR-CONFERMA-ORDINE-26-04251-MD_SaleOrdForm_2022-RIF.-SANTA-LUCIA-CUCINA-E-GRIGLIA.pdf?rlkey=9ax13o23jqnh0wnlqt5wo8e8g&dl=0?raw=1",
-              "dimensione_kb": 141,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26-04251 MD_SaleOrdForm_2022 RIF. SANTA LUCIA CUCINA E GRIGLIA.pdf"
-            },
-            {
-              "nome": "MORINI CONFERMA ORDINE 003OC20262142369 RIF. YUMARA MAG.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/c6xja1jo8cit8kd00yeim/MORINI-CONFERMA-ORDINE-003OC20262142369-RIF.-YUMARA-MAG.PDF?rlkey=8uxynr6a1tcx40n9a11nqpy8l&dl=0?raw=1",
-              "dimensione_kb": 74,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI CONFERMA ORDINE 003OC20262142369 RIF. YUMARA MAG.PDF"
-            },
-            {
-              "nome": "MORINI s.r.l. Ordine dacquisto_260125_20260609_131955 RIF. Basato su Ordini cliente 250924. 260150. 260157. 260181..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/noio7406wld6p4awavp96/MORINI-s.r.l.-Ordine-dacquisto_260125_20260609_131955-RIF.-Basato-su-Ordini-cliente-250924.-260150.-260157.-260181..pdf?rlkey=w22sp03zmz6th0evq8h949nbt&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260125_20260609_131955 RIF. Basato su Ordini cliente 250924. 260150. 260157. 260181..pdf"
             },
             {
               "nome": "MORINI s.r.l. Ordine dacquisto_260139_20260617_105747 RIF. HAPPY MOMENTS SANTA LUCIA AIA DEI CAPPELLANI Basato su Ordin.pdf",
@@ -220827,12 +221067,20 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26016461.pdf"
             },
             {
-              "nome": "SIRMAN CONFERMA ORDINE 2010251338 DEL 18_05_2026 RIF. MeM HppyM PassionSushi.pdf",
+              "nome": "PIAZZA CONFERMA ORDINE 11012179_ORD_CLI_2026-OC-0002816 RIF. FA TU.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xkg45frdwh76gll7cizia/SIRMAN-CONFERMA-ORDINE-2010251338-DEL-18_05_2026-RIF.-MeM-HppyM-PassionSushi.pdf?rlkey=tfkrnzytlaa9jhru95qqdz2mo&dl=0?raw=1",
-              "dimensione_kb": 81,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010251338 DEL 18_05_2026 RIF. MeM HppyM PassionSushi.pdf"
+              "link": "https://www.dropbox.com/scl/fi/6poq9w94flf8ew0lt2f2d/PIAZZA-CONFERMA-ORDINE-11012179_ORD_CLI_2026-OC-0002816-RIF.-FA-TU.pdf?rlkey=lq2klj5fut1gd6jbcgjza8v6r&dl=0?raw=1",
+              "dimensione_kb": 584,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PIAZZA CONFERMA ORDINE 11012179_ORD_CLI_2026-OC-0002816 RIF. FA TU.pdf"
+            },
+            {
+              "nome": "PIAZZA EFFEPI srl Ordine dacquisto_260142_20260622_104605 RIF. FA TU Basato su Ordini cliente 260226..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rewxv1b68bym7qwpdzu3b/PIAZZA-EFFEPI-srl-Ordine-dacquisto_260142_20260622_104605-RIF.-FA-TU-Basato-su-Ordini-cliente-260226..pdf?rlkey=gayafv4veo56or7rkgs13mi22&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PIAZZA EFFEPI srl Ordine dacquisto_260142_20260622_104605 RIF. FA TU Basato su Ordini cliente 260226..pdf"
             },
             {
               "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
@@ -220873,25 +221121,9 @@
               "link": "https://www.dropbox.com/scl/fi/0olys1v8c7rz9nxzsevuq/UNIVAC-GROUP-SRL-Ordine-dacquisto_260141_20260618_201723-RIF.-AZIENDA-AGRIGOLA-PECORELLI-Basato-su-Ordini-cliente-260217..pdf?rlkey=avrfkxyfjsa6nmy7n30izh0bp&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260141_20260618_201723 RIF. AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217..pdf"
-            },
-            {
-              "nome": "ZINCO GROUP SRL Ordine dacquisto_260130_20260609_230743 RIF. PASSION SUSHI Basato su Offerte di vendita 260210..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/9zh68oqkxc5brt5ml1uu4/ZINCO-GROUP-SRL-Ordine-dacquisto_260130_20260609_230743-RIF.-PASSION-SUSHI-Basato-su-Offerte-di-vendita-260210..pdf?rlkey=nzfuk5f0bpv9epbzlub9uttmr&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ZINCO GROUP SRL Ordine dacquisto_260130_20260609_230743 RIF. PASSION SUSHI Basato su Offerte di vendita 260210..pdf"
-            },
-            {
-              "nome": "ZINCO GROUP SRL Ordine dacquisto_260132_20260610_154806 RIF. PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE COLLARI DI FISSA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/rk16wuntvr6av2em4jmf0/ZINCO-GROUP-SRL-Ordine-dacquisto_260132_20260610_154806-RIF.-PASSION-SUSHI-INTEGRAZIONE-ORDINE-TUBAZIONE-COLLARI-DI-FISSA.pdf?rlkey=b4k2x3r9d10dq5so3ow13lc5w&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ZINCO GROUP SRL Ordine dacquisto_260132_20260610_154806 RIF. PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE COLLARI DI FISSA.pdf"
             }
           ],
-          "_totale_file": 3679
+          "_totale_file": 3682
         }
       ],
       "file": []
