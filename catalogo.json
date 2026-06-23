@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-22T08:29:39Z",
-  "totale_file": 25188,
+  "generato": "2026-06-23T00:28:02Z",
+  "totale_file": 25189,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -66351,7 +66351,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7129,
+      "totale_file": 7130,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -96807,6 +96807,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/BORMIOLI CIAO VINO E ACQUA.jpeg"
                 },
                 {
+                  "nome": "CIDO SRL Fattura di vendita_2600218_20260622_160029 RIF.CUCINE ANGELO PO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ykts8u47i75k8ih3o7v39/CIDO-SRL-Fattura-di-vendita_2600218_20260622_160029-RIF.CUCINE-ANGELO-PO.pdf?rlkey=ab42z46ux1ecr72302oppurme&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/CIDO SRL Fattura di vendita_2600218_20260622_160029 RIF.CUCINE ANGELO PO.pdf"
+                },
+                {
                   "nome": "Fattura di vendita_2500610_20250821_165239.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -96831,7 +96839,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/CIDO SRL LIDO ILLICINI/Offerta di vendita_210316_20210507_103248 CALICI CIAO.pdf"
                 }
               ],
-              "_totale_file": 14
+              "_totale_file": 15
             },
             {
               "nome": "COZZI LUIGINA",
@@ -104107,7 +104115,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 909
+          "_totale_file": 910
         },
         {
           "nome": "MARCELLINA",
