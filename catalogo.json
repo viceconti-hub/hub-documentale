@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-23T08:40:25Z",
-  "totale_file": 25250,
+  "generato": "2026-06-24T00:19:54Z",
+  "totale_file": 25253,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -66607,7 +66607,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7130,
+      "totale_file": 7133,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -76826,6 +76826,30 @@
               "_totale_file": 22
             },
             {
+              "nome": "AVVOCATO RICCIARDONE",
+              "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AVVOCATO RICCIARDONE",
+              "cartelle": [
+                {
+                  "nome": "AVVOCATO RICCIARDONE GIUSEPPE AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AVVOCATO RICCIARDONE/AVVOCATO RICCIARDONE GIUSEPPE AREA TECNICA",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "CANTINETTA VINI KLIMAITALIA DATI MACCHINA.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/xxvu0o0419mv3uanwbivd/CANTINETTA-VINI-KLIMAITALIA-DATI-MACCHINA.jpg?rlkey=f5hhyfwuk6gsztmzy25qfc2wa&dl=0?raw=1",
+                      "dimensione_kb": 200,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AVVOCATO RICCIARDONE/AVVOCATO RICCIARDONE GIUSEPPE AREA TECNICA/CANTINETTA VINI KLIMAITALIA DATI MACCHINA.jpg"
+                    }
+                  ],
+                  "_totale_file": 1
+                }
+              ],
+              "file": [],
+              "_totale_file": 1
+            },
+            {
               "nome": "BHOTEL SRL",
               "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/BHOTEL SRL",
               "cartelle": [
@@ -78650,7 +78674,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 208
+          "_totale_file": 209
         },
         {
           "nome": "LAINO",
@@ -82779,10 +82803,26 @@
                         }
                       ],
                       "_totale_file": 4
+                    },
+                    {
+                      "nome": "GRANITORE KLIMAITALIA PATTY 3.0",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BOTTEGA 63/BOTTEGA 63 AREA TECNICA/GRANITORE KLIMAITALIA PATTY 3.0",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "GRANITORE KLIMAITALIA PATTY 3.0 DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/a6rn867ablqn9lq1t7zie/GRANITORE-KLIMAITALIA-PATTY-3.0-DATI-MACCHINA.jpeg?rlkey=13j5i7wd4y7l9fknkhqhwk44l&dl=0?raw=1",
+                          "dimensione_kb": 160,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BOTTEGA 63/BOTTEGA 63 AREA TECNICA/GRANITORE KLIMAITALIA PATTY 3.0/GRANITORE KLIMAITALIA PATTY 3.0 DATI MACCHINA.jpeg"
+                        }
+                      ],
+                      "_totale_file": 1
                     }
                   ],
                   "file": [],
-                  "_totale_file": 4
+                  "_totale_file": 5
                 }
               ],
               "file": [
@@ -82907,7 +82947,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BOTTEGA 63/Ordine cliente_230291_20230505_104220 CON PAGAMENTO.pdf"
                 }
               ],
-              "_totale_file": 19
+              "_totale_file": 20
             },
             {
               "nome": "BREAK",
@@ -94976,7 +95016,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1293
+          "_totale_file": 1294
         },
         {
           "nome": "LAVELLO",
@@ -99559,6 +99599,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/GEMM_REFRIGERATION_n17_ 2020.pdf TAVOLO REFRIGERATO.pdf"
                 },
                 {
+                  "nome": "IL LUCANO DICHIARAZIONE ACQUISTO DI BENI USATI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rm96i6sg1in8pmu3zsezw/IL-LUCANO-DICHIARAZIONE-ACQUISTO-DI-BENI-USATI.pdf?rlkey=2n8qym7zg9v2dx01svbdtpcs1&dl=0?raw=1",
+                  "dimensione_kb": 1707,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/IL LUCANO DICHIARAZIONE ACQUISTO DI BENI USATI.pdf"
+                },
+                {
                   "nome": "IL LUCANO Fattura di vendita - Bozza documento_220767_20221209_190539.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -99751,7 +99799,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/stampaDisposizione_20240712190649.pdf"
                 }
               ],
-              "_totale_file": 33
+              "_totale_file": 34
             },
             {
               "nome": "IL MORO HYDRA",
@@ -104371,7 +104419,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 910
+          "_totale_file": 911
         },
         {
           "nome": "MARCELLINA",
