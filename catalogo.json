@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-24T02:17:40Z",
-  "totale_file": 25253,
+  "generato": "2026-06-24T05:05:19Z",
+  "totale_file": 25257,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5939,
+      "totale_file": 5943,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -4685,6 +4685,54 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_06_23 DI LASCIO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_23 DI LASCIO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ICOOL 401 - ICOOL 402 G SZ (1).pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/udc75imokgff06y7ztchk/ICOOL-401-ICOOL-402-G-SZ-1.pdf?rlkey=e5fk0nhcfjoxuf3yq64l3mlzk&dl=0?raw=1",
+                  "dimensione_kb": 438,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_23 DI LASCIO/ICOOL 401 - ICOOL 402 G SZ (1).pdf"
+                },
+                {
+                  "nome": "ICOOL 401 - ICOOL 402 G SZ.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wyy9jphummz2sfyvv9rhj/ICOOL-401-ICOOL-402-G-SZ.pdf?rlkey=3k6puqkmxf7rrnswzu3p1u8qy&dl=0?raw=1",
+                  "dimensione_kb": 438,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_23 DI LASCIO/ICOOL 401 - ICOOL 402 G SZ.pdf"
+                }
+              ],
+              "_totale_file": 2
+            },
+            {
+              "nome": "2026_06_23 ZM ABBATTITORE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_23 ZM ABBATTITORE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "KLIMAITALIA ABBATTITORE ABT 05 - ABT 10.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ovl9gvma8wkdywsaeygmo/KLIMAITALIA-ABBATTITORE-ABT-05-ABT-10.pdf?rlkey=tzm6s5jis12lvpb4cq2ou9rpy&dl=0?raw=1",
+                  "dimensione_kb": 536,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_23 ZM ABBATTITORE/KLIMAITALIA ABBATTITORE ABT 05 - ABT 10.pdf"
+                },
+                {
+                  "nome": "ZM Offerta di vendita_260231_20260623_162935 ABBATTITORE KLIMAITALIA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/st48njbsl57p256sfi65u/ZM-Offerta-di-vendita_260231_20260623_162935-ABBATTITORE-KLIMAITALIA.pdf?rlkey=hd7meggjke5nt6ve1qytj32wk&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_06_23 ZM ABBATTITORE/ZM Offerta di vendita_260231_20260623_162935 ABBATTITORE KLIMAITALIA.pdf"
+                }
+              ],
+              "_totale_file": 2
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -60819,7 +60867,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5454
+          "_totale_file": 5458
         },
         {
           "nome": "ORDINI CLIENTE",
