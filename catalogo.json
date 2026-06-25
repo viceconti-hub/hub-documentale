@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-25T02:24:00Z",
-  "totale_file": 25275,
+  "generato": "2026-06-25T05:13:39Z",
+  "totale_file": 25296,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 5943,
+      "totale_file": 5964,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -54,6 +54,14 @@
               "link": "https://www.dropbox.com/scl/fi/s7pfms7mcxydu48x6b06u/4.0-SRLS-YUMARA-Consegna_260339_20260602_214224-RIF.-DETERGENTE-LAVASTOVIGLIE-E-BIDONE.pdf?rlkey=mgkmz7t5qx1mjk8zdylqhx9ga&dl=0?raw=1",
               "dimensione_kb": 54,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/4.0 SRLS YUMARA Consegna_260339_20260602_214224 RIF. DETERGENTE LAVASTOVIGLIE E BIDONE.pdf"
+            },
+            {
+              "nome": "4.0 SRLS YUMARA Consegna_260449_20260624_095114 RIF. BIDONI MORINI Basato su Ordini cliente 260181..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ixl4m0hioiqayp7ttqipa/4.0-SRLS-YUMARA-Consegna_260449_20260624_095114-RIF.-BIDONI-MORINI-Basato-su-Ordini-cliente-260181..pdf?rlkey=t9dlxw32iti783jfgbyiq1c7y&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/4.0 SRLS YUMARA Consegna_260449_20260624_095114 RIF. BIDONI MORINI Basato su Ordini cliente 260181..pdf"
             },
             {
               "nome": "A.M. di Antonella Mancino s.a.s. CABOSSA Consegna_260357_20260602_223636 RIF. ASSISTENZA SU MIXER GELATERIA REVISIONE ASTE.pdf",
@@ -432,12 +440,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CORRADO MICHELA Consegna_260365_20260603_100600 RIF. IMPASTATRICE E ARMADIO CONGELATORE Basato su Offerte di vend.pdf"
             },
             {
-              "nome": "CUCINOTTA GIOVANNI Consegna_260438_20260622_110615 RIF. BACINELLE IN POLIPROPILENE Basato su Ordini cliente 260227..pdf",
+              "nome": "CUCINOTTA GIOVANNI Consegna_260438_20260623_084319 RIF. BACINELLE IN POLIPROPILENE Basato su Ordini cliente 260227..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nwndgc70w1aueblh6axf1/CUCINOTTA-GIOVANNI-Consegna_260438_20260622_110615-RIF.-BACINELLE-IN-POLIPROPILENE-Basato-su-Ordini-cliente-260227..pdf?rlkey=ytmbyul3t4mt4p5flbskd42dp&dl=0?raw=1",
-              "dimensione_kb": 51,
-              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CUCINOTTA GIOVANNI Consegna_260438_20260622_110615 RIF. BACINELLE IN POLIPROPILENE Basato su Ordini cliente 260227..pdf"
+              "link": "https://www.dropbox.com/scl/fi/8z4ogx6834ky49b5pt972/CUCINOTTA-GIOVANNI-Consegna_260438_20260623_084319-RIF.-BACINELLE-IN-POLIPROPILENE-Basato-su-Ordini-cliente-260227..pdf?rlkey=v4s6tokjwjupxw54yd8z0g7u4&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CUCINOTTA GIOVANNI Consegna_260438_20260623_084319 RIF. BACINELLE IN POLIPROPILENE Basato su Ordini cliente 260227..pdf"
             },
             {
               "nome": "CULURGIONI E C. SNC Consegna_260278_20260519_082131 RIF. Basato su Ordini cliente 260154. PAGAMENTO IN CONTRASSEGNO € CULURGIONI E C. SNC LAMA.pdf",
@@ -606,6 +614,14 @@
               "link": "https://www.dropbox.com/scl/fi/xp2ttmq6u72to4l0rpzh8/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_260428_20260618_105108-RIF.-MIXER-A-IMMERSIONE-1000W-VVELOCITA.pdf?rlkey=vvgnv0h0s7nv5w1papvbwj2s3&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260428_20260618_105108 RIF. MIXER A IMMERSIONE 1000W VVELOCITA'.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_260450_20260624_120758 RIF. UNITA' CONDENSATRICE REMOTA ENTRO I 10 METRI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/geq3guiuiu90s0qh1kgyw/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_260450_20260624_120758-RIF.-UNITA-CONDENSATRICE-REMOTA-ENTRO-I-10-METRI.pdf?rlkey=uypo898dmi4ysm7pyaemsrvyw&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260450_20260624_120758 RIF. UNITA' CONDENSATRICE REMOTA ENTRO I 10 METRI.pdf"
             },
             {
               "nome": "FOODEX SRL Consegna_260399_20260612_105657 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf",
@@ -888,6 +904,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260369_20260603_221132 RIF. TAGLIERE E CASSERUOLA.pdf"
             },
             {
+              "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260448_20260624_094246 RIF. BACINELLLE INOX E POLIPROPILENE Basato su Ordini cliente 260.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/txlk9co4hur0ntaq0f0ed/I-SAPORI-DI-MARIANNA-TRATTORIA-E-CUCINA-D-ASPORTO-DI-PEZZULLO-MARIANNA-Consegna_260448_20260624_094246-RIF.-BACINELLLE-INOX-E-POLIPROPILENE-Basato-su-Ordini-cliente-260.pdf?rlkey=51b1yy0f4v9ikb4yqt2yunxt6&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260448_20260624_094246 RIF. BACINELLLE INOX E POLIPROPILENE Basato su Ordini cliente 260.pdf"
+            },
+            {
               "nome": "IELPO NICOLA Consegna_260306_20260530_091529 RIF. Basato su Ordini cliente 260152. AFFETTATRICE IDEA 25 CASA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1038,6 +1062,22 @@
               "link": "https://www.dropbox.com/scl/fi/xv0guu6n11p2hs6kbj25x/LA-TANA-GROUP-SRL-Consegna_260340_20260602_214632-RIF.-ASSOSTENZA-SU-RATIONAL-SCC-101-WE-ELIMINAZIONE-SERVICE-42.pdf?rlkey=lk7w79pdvnzzm4rll3hwhf5fc&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA TANA GROUP SRL Consegna_260340_20260602_214632 RIF. ASSOSTENZA SU RATIONAL SCC 101 WE ELIMINAZIONE SERVICE 42.pdf"
+            },
+            {
+              "nome": "LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA BAR SMILE Consegna_260445_20260623_091055 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260225..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/j1gmhz78d1cm942sq9f92/LACAVA-VINCENZO-SOCIETA-A-RESPONSABILITA-LIMITATA-BAR-SMILE-Consegna_260445_20260623_091055-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260225..pdf?rlkey=gcvjs0r1xyy07cp31m8mfux60&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA BAR SMILE Consegna_260445_20260623_091055 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260225..pdf"
+            },
+            {
+              "nome": "LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA BAR SMILE Consegna_260446_20260623_094718 RIF. ASSITENZA SU LAVABICCHIERI ZANUSSI MATRICOLA 04720001  SOSTI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5ycidtmfk8k14xukuht3p/LACAVA-VINCENZO-SOCIETA-A-RESPONSABILITA-LIMITATA-BAR-SMILE-Consegna_260446_20260623_094718-RIF.-ASSITENZA-SU-LAVABICCHIERI-ZANUSSI-MATRICOLA-04720001-SOSTI.pdf?rlkey=89w9db3ojjtqmjucnuu36ocrv&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA BAR SMILE Consegna_260446_20260623_094718 RIF. ASSITENZA SU LAVABICCHIERI ZANUSSI MATRICOLA 04720001  SOSTI.pdf"
             },
             {
               "nome": "LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA Consegna_260308_20260530_101436.pdf",
@@ -1368,6 +1408,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/RUGGIERO MARIACHIARA Consegna_260376_20260605_105653 RIF. CASSETTE PIZZA E TEGLIE Basato su Offerte di vendita 260195..pdf"
             },
             {
+              "nome": "Ristorante SANTA LUCIA DI APICELLA TERESA Consegna_260447_20260624_092357 RIF. ATTREZZATURE Basato su Offerte di vendita 260112. Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3l749ae2bt8904lsmw0p4/Ristorante-SANTA-LUCIA-DI-APICELLA-TERESA-Consegna_260447_20260624_092357-RIF.-ATTREZZATURE-Basato-su-Offerte-di-vendita-260112.-Basato-su.pdf?rlkey=c2hxnv72q8a92ycqzj4fy877y&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Ristorante SANTA LUCIA DI APICELLA TERESA Consegna_260447_20260624_092357 RIF. ATTREZZATURE Basato su Offerte di vendita 260112. Basato su.pdf"
+            },
+            {
               "nome": "SIRTAKI S.R.L.S Consegna_260287_20260523_093606 RIF. DETERGENTE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1552,7 +1600,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 192
+          "_totale_file": 198
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -1702,6 +1750,70 @@
               "link": "https://www.dropbox.com/scl/fi/4ys0sa0ijdb10qbuudnmd/ESCOPOCO-S.R.L.-Fattura-di-vendita_2600134_20260608_084518-RIF.-PENTOLAME-Basato-su-Consegne-260139.-260150.-260193..pdf?rlkey=8veylvfxbty3vl4v62y7xy2ca&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ESCOPOCO S.R.L. Fattura di vendita_2600134_20260608_084518 RIF. PENTOLAME Basato su Consegne 260139. 260150. 260193..pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_24007771_20260624_115721 RIF. Basato su Offerte di vendita 240967. Basato su Consegne 2416.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8ak78vtfg7f097b8d7354/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_24007771_20260624_115721-RIF.-Basato-su-Offerte-di-vendita-240967.-Basato-su-Consegne-2416.pdf?rlkey=kkp7vgv4ipqf4t65agzklftdu&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_24007771_20260624_115721 RIF. Basato su Offerte di vendita 240967. Basato su Consegne 2416.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2400777_20260624_115651 RIF. Basato su Offerte di vendita 240922. Basato su Consegne 2415.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/x6nmol4odjoop0mpuzy1a/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2400777_20260624_115651-RIF.-Basato-su-Offerte-di-vendita-240922.-Basato-su-Consegne-2415.pdf?rlkey=tgcmt0wyg4njz532ukvgvh2cr&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2400777_20260624_115651 RIF. Basato su Offerte di vendita 240922. Basato su Consegne 2415.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2500669_20260624_115830 RIF. ASSISTENZA SU MEKANO 900 AFINOX E EVOLUTION SAMAREF ELIMINAZ.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3c1t2kjwh06p0xnazmgof/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2500669_20260624_115830-RIF.-ASSISTENZA-SU-MEKANO-900-AFINOX-E-EVOLUTION-SAMAREF-ELIMINAZ.pdf?rlkey=3zxk5itas4ra0426yhwo4poi8&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2500669_20260624_115830 RIF. ASSISTENZA SU MEKANO 900 AFINOX E EVOLUTION SAMAREF ELIMINAZ.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600055_20260624_122602 RIF. Basato su Offerte di vendita 260034. Basato su Ordini client.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sio1cmd05ds90wugbw7bu/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600055_20260624_122602-RIF.-Basato-su-Offerte-di-vendita-260034.-Basato-su-Ordini-client.pdf?rlkey=v31bz87oou08jq8mhrj35xm3n&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600055_20260624_122602 RIF. Basato su Offerte di vendita 260034. Basato su Ordini client.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600222_20260624_122406 RIF. Basato su Consegne 260157. 260159. 260232. 260243. 260244. 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6rqdvnttxsvap12uivps9/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600222_20260624_122406-RIF.-Basato-su-Consegne-260157.-260159.-260232.-260243.-260244.-2.pdf?rlkey=dqbtherinjo0q6qcyfrb4an3l&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600222_20260624_122406 RIF. Basato su Consegne 260157. 260159. 260232. 260243. 260244. 2.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600223_20260624_122347 RIF. UNITA' CONDENSATRICE REMOTA ENTRO I 10 METRI INSTALLAZIONE D.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8llra6s0a2wsk3y1wqw7v/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600223_20260624_122347-RIF.-UNITA-CONDENSATRICE-REMOTA-ENTRO-I-10-METRI-INSTALLAZIONE-D.pdf?rlkey=p564wrqc1itcef4ccmvdpfjgv&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600223_20260624_122347 RIF. UNITA' CONDENSATRICE REMOTA ENTRO I 10 METRI INSTALLAZIONE D.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600224_20260624_123015 RIF. FRIGO VINI DOPPIA ZONA DI TEMPERATURA E SECONDA FRIGGITRICE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rywfjr4rj59t5dl1iuu2g/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600224_20260624_123015-RIF.-FRIGO-VINI-DOPPIA-ZONA-DI-TEMPERATURA-E-SECONDA-FRIGGITRICE.pdf?rlkey=5we3oj0p5lfyn5ch89o1ckid4&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600224_20260624_123015 RIF. FRIGO VINI DOPPIA ZONA DI TEMPERATURA E SECONDA FRIGGITRICE.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600225_20260624_123321 RIF. HOTELLERIE Basato su Consegne 260240. 260270. 260290. 260292.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/scjjy7k11m5t4j03w528i/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600225_20260624_123321-RIF.-HOTELLERIE-Basato-su-Consegne-260240.-260270.-260290.-260292.pdf?rlkey=6o9wwisp2af5b1e4ggefgmq0w&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600225_20260624_123321 RIF. HOTELLERIE Basato su Consegne 260240. 260270. 260290. 260292.pdf"
             },
             {
               "nome": "FOODEX SRL Fattura di vendita_2600208_20260612_105758 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf",
@@ -2416,7 +2528,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 107
+          "_totale_file": 115
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -2486,6 +2598,22 @@
               "link": "https://www.dropbox.com/scl/fi/1fx9sb8z4f6gpnjn7eddj/CARACOJ-PRAJA-SRL-Offerta-di-vendita_260174_20260518_183252-RIF.-ATTREZZATURE.pdf?rlkey=3e33wm1t7d0t0h5xhlwep0vc5&dl=0?raw=1",
               "dimensione_kb": 81,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CARACOJ PRAJA SRL Offerta di vendita_260174_20260518_183252 RIF. ATTREZZATURE.pdf"
+            },
+            {
+              "nome": "CATA' EVENTI di CANNAZZARO MARISA Offerta di vendita_260232_20260624_121236 RIF. PALETTINO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/70vs9hwxnie5zmrsjp6vb/CATA-EVENTI-di-CANNAZZARO-MARISA-Offerta-di-vendita_260232_20260624_121236-RIF.-PALETTINO.pdf?rlkey=5e91xm8fegqa116wpss9n7dun&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CATA' EVENTI di CANNAZZARO MARISA Offerta di vendita_260232_20260624_121236 RIF. PALETTINO.pdf"
+            },
+            {
+              "nome": "CAVALIERE SRL Offerta di vendita_260228_20260623_071311.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/whxby9wjuarrllq8qktqh/CAVALIERE-SRL-Offerta-di-vendita_260228_20260623_071311.pdf?rlkey=1k65vx1njozqj2cky9sqjiugg&dl=0?raw=1",
+              "dimensione_kb": 104,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CAVALIERE SRL Offerta di vendita_260228_20260623_071311.pdf"
             },
             {
               "nome": "CHOCOLATE & PASTRY SAS Offerta di vendita_260208_20260609_125036 RIF. ARMADIO CONGELATORE COLDLINE WIND A901B.pdf",
@@ -2718,6 +2846,22 @@
               "link": "https://www.dropbox.com/scl/fi/8u6hzzlgvcj1u44hp2rwe/GMT-srl-unipersonale-Offerta-di-vendita_260207_20260609_104712-RIF.-PALA-ZIO-PEPE-4-STAGIONI.pdf?rlkey=ld1hf8r4gzb6ygldehc54w87p&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GMT srl unipersonale Offerta di vendita_260207_20260609_104712 RIF. PALA ZIO PEPE 4 STAGIONI.pdf"
+            },
+            {
+              "nome": "H2A srl Offerta di vendita_250338_20260623_113421.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d1vkf9j8ftrweqpwbtpt5/H2A-srl-Offerta-di-vendita_250338_20260623_113421.pdf?rlkey=24nu4yb8ksok3plccevsbz53e&dl=0?raw=1",
+              "dimensione_kb": 90,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/H2A srl Offerta di vendita_250338_20260623_113421.pdf"
+            },
+            {
+              "nome": "H2A srl Offerta di vendita_260230_20260623_115825 RIF. R.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vj2px6sxlnrymyid9tp0j/H2A-srl-Offerta-di-vendita_260230_20260623_115825-RIF.-R.pdf?rlkey=lb5m5t5pev3z4qr5dvzvf9ktm&dl=0?raw=1",
+              "dimensione_kb": 89,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/H2A srl Offerta di vendita_260230_20260623_115825 RIF. R.pdf"
             },
             {
               "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Offerta di vendita_260221_20260618_114243.pdf",
@@ -3000,6 +3144,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Offerta di vendita_260210_20260609_230431.pdf"
             },
             {
+              "nome": "Panificio MAGIE DI GRANO DI LATRONICO PIETRO E DI LASCIO ANTONIO SNC Offerta di vendita_260229_20260623_112111.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zngfj4mglgf24ymoyzqzi/Panificio-MAGIE-DI-GRANO-DI-LATRONICO-PIETRO-E-DI-LASCIO-ANTONIO-SNC-Offerta-di-vendita_260229_20260623_112111.pdf?rlkey=pginuhh6dohx1d3yk7jx92x51&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Panificio MAGIE DI GRANO DI LATRONICO PIETRO E DI LASCIO ANTONIO SNC Offerta di vendita_260229_20260623_112111.pdf"
+            },
+            {
               "nome": "RUGGERINI MAURIZIO Offerta di vendita_260157_20260514_122119 RIF. TAVOLOLO CON VASCA INCASSATA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3110,9 +3262,17 @@
               "link": "https://www.dropbox.com/scl/fi/oqc1hxoecjsec42q5wmyo/YOU-MARINA-S.R.L.-Offerta-di-vendita_260212_20260610_152538-RIF.-OFFERTA-SPECIALE-FORNO-CUPPONE-NUOVO-DISPONIBILE-IN-MAGAZZIN.pdf?rlkey=sa6mm7kcy6u5khk95cnvklix5&dl=0?raw=1",
               "dimensione_kb": 82,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/YOU MARINA S.R.L. Offerta di vendita_260212_20260610_152538 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf"
+            },
+            {
+              "nome": "ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bw1zloaomnhsbav1zhb6b/ZM-RIPARAZIONI-DI-ZACCARA-MARIO-Offerta-di-vendita_260231_20260623_162935.pdf?rlkey=8xym1q34eyhf1u2olsfad9q87&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 86
+          "_totale_file": 92
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -61291,6 +61451,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260215_20260617_100845.pdf"
             },
             {
+              "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Ordine cliente_260229_20260624_094227 RIF. BACINELLLE INOX E POLIPROPILENE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/93stigkrusmqbtduc4y0o/I-SAPORI-DI-MARIANNA-TRATTORIA-E-CUCINA-D-ASPORTO-DI-PEZZULLO-MARIANNA-Ordine-cliente_260229_20260624_094227-RIF.-BACINELLLE-INOX-E-POLIPROPILENE.pdf?rlkey=dobqj6mpsspac2t9l7a1o82z5&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Ordine cliente_260229_20260624_094227 RIF. BACINELLLE INOX E POLIPROPILENE.pdf"
+            },
+            {
               "nome": "IELPO NICOLA Ordine cliente_260152_20260518_162835 RIF. AFFETTATRICE IDEA 25 CASA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -61675,7 +61843,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/YOU MARINA S.R.L. Ordine cliente_260221_20260619_094238 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf"
             }
           ],
-          "_totale_file": 100
+          "_totale_file": 101
         }
       ],
       "file": []
