@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-24T08:19:17Z",
-  "totale_file": 25257,
+  "generato": "2026-06-25T00:24:24Z",
+  "totale_file": 25275,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -66655,7 +66655,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7133,
+      "totale_file": 7151,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -71197,6 +71197,30 @@
               "_totale_file": 1
             },
             {
+              "nome": "RATTU PENUGU GmbH PIETRO CATANESE",
+              "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/RATTU PENUGU GmbH PIETRO CATANESE",
+              "cartelle": [
+                {
+                  "nome": "RATTU PENUGU GmbH PIETRO CATANESE AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/RATTU PENUGU GmbH PIETRO CATANESE/RATTU PENUGU GmbH PIETRO CATANESE AREA TECNICA",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "RATTUR PENUGU DDT ARISTARCO DDV_2192263_2025_1_1466_28022025 DATI MACCHINA.PDF",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/imuvnkuvm3gjxope811n3/RATTUR-PENUGU-DDT-ARISTARCO-DDV_2192263_2025_1_1466_28022025-DATI-MACCHINA.PDF?rlkey=hcz8dirq2guw29whqtmgo8pmj&dl=0?raw=1",
+                      "dimensione_kb": 9,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/RATTU PENUGU GmbH PIETRO CATANESE/RATTU PENUGU GmbH PIETRO CATANESE AREA TECNICA/RATTUR PENUGU DDT ARISTARCO DDV_2192263_2025_1_1466_28022025 DATI MACCHINA.PDF"
+                    }
+                  ],
+                  "_totale_file": 1
+                }
+              ],
+              "file": [],
+              "_totale_file": 1
+            },
+            {
               "nome": "ROBERTO GERMANIA",
               "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/ROBERTO GERMANIA",
               "cartelle": [],
@@ -71832,7 +71856,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/Granocielo SRL Consegna_260145_20260326_192810.pdf"
             }
           ],
-          "_totale_file": 282
+          "_totale_file": 283
         },
         {
           "nome": "COSENZA",
@@ -80666,6 +80690,46 @@
                   "_totale_file": 14
                 },
                 {
+                  "nome": "HOTEL TERME DI OROFINO GIUSEPPE SITUAZIONE CONTABILE AL 24_06_2026",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/HOTEL TERME DI OROFINO GIUSEPPE SITUAZIONE CONTABILE AL 24_06_2026",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "HOTEL TERME DI OROFINO GIUSEPPE Situazione_Contabile_AL 24_06_2026.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/2ppb16cp397h5aqfrsc9l/HOTEL-TERME-DI-OROFINO-GIUSEPPE-Situazione_Contabile_AL-24_06_2026.pdf?rlkey=07n4l31gtybp4o11mf7m5b548&dl=0?raw=1",
+                      "dimensione_kb": 113,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/HOTEL TERME DI OROFINO GIUSEPPE SITUAZIONE CONTABILE AL 24_06_2026/HOTEL TERME DI OROFINO GIUSEPPE Situazione_Contabile_AL 24_06_2026.pdf"
+                    },
+                    {
+                      "nome": "OROFINO BONIFICO DEL 30 GEN 2019.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/stu44ml9tro56fd07wexl/OROFINO-BONIFICO-DEL-30-GEN-2019.pdf?rlkey=79levwn0gbsrdbrlc216dzsne&dl=0?raw=1",
+                      "dimensione_kb": 12,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/HOTEL TERME DI OROFINO GIUSEPPE SITUAZIONE CONTABILE AL 24_06_2026/OROFINO BONIFICO DEL 30 GEN 2019.pdf"
+                    },
+                    {
+                      "nome": "PRIMA NOTA Movimenti effettuati per CLIENTE bis.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/6elc5bs7kn1s4dnsi1v1o/PRIMA-NOTA-Movimenti-effettuati-per-CLIENTE-bis.pdf?rlkey=lzwphtb8crd2hav7tqand3re1&dl=0?raw=1",
+                      "dimensione_kb": 62,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/HOTEL TERME DI OROFINO GIUSEPPE SITUAZIONE CONTABILE AL 24_06_2026/PRIMA NOTA Movimenti effettuati per CLIENTE bis.pdf"
+                    },
+                    {
+                      "nome": "PRINA NOTA Movimenti per Cliente NON Effettuati.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/8cof5a435f7hsk4s8ho1k/PRINA-NOTA-Movimenti-per-Cliente-NON-Effettuati.pdf?rlkey=sa6aeitnt6e6ln4uoy1grw5at&dl=0?raw=1",
+                      "dimensione_kb": 50,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/HOTEL TERME DI OROFINO GIUSEPPE SITUAZIONE CONTABILE AL 24_06_2026/PRINA NOTA Movimenti per Cliente NON Effettuati.pdf"
+                    }
+                  ],
+                  "_totale_file": 4
+                },
+                {
                   "nome": "OROFINO COPIA FATTURE AL 07_03_2024",
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/OROFINO COPIA FATTURE AL 07_03_2024",
                   "cartelle": [],
@@ -80813,14 +80877,6 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/OROFINO BONIFICO DEL 15 FEB 2019.pdf"
                 },
                 {
-                  "nome": "OROFINO BONIFICO DEL 30 GEN 2019.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/stu44ml9tro56fd07wexl/OROFINO-BONIFICO-DEL-30-GEN-2019.pdf?rlkey=79levwn0gbsrdbrlc216dzsne&dl=0?raw=1",
-                  "dimensione_kb": 12,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/OROFINO BONIFICO DEL 30 GEN 2019.pdf"
-                },
-                {
                   "nome": "OROFINO FT 210703 DEL 23_12_2021.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -80853,7 +80909,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/POLLINO TOUR HOTEL PARADISO - collegamento.lnk"
                 }
               ],
-              "_totale_file": 34
+              "_totale_file": 37
             },
             {
               "nome": "LA TAVERNA DEI GESUITI",
@@ -81637,7 +81693,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 210
+          "_totale_file": 213
         },
         {
           "nome": "LAURIA",
@@ -116007,7 +116063,7 @@
                   "tipo": "Excel",
                   "icona": "📊",
                   "link": "https://www.dropbox.com/scl/fi/v4tqbhuxitj8e0giao9dc/SAILOR-S-SITUAZIONE-CONTABILE-AL-25_06_2025.xlsx?rlkey=rm3h9siezbp02d0yi3um0m1bv&dl=0?raw=1",
-                  "dimensione_kb": 12,
+                  "dimensione_kb": 11,
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/SAILOR/SAILOR'S SITUAZIONE CONTABILE AL 25_06_2025.xlsx"
                 },
                 {
@@ -121536,6 +121592,126 @@
                   "_totale_file": 6
                 },
                 {
+                  "nome": "FA TU SITUAZIONE CONTABILE AL 24_06_2026",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_24007771_20260624_115721 RIF. Basato su Offerte di vendita 240967. Basato su Consegne 2416.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/gs0jxnaislw7eryr943rc/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_24007771_20260624_115721-RIF.-Basato-su-Offerte-di-vendita-240967.-Basato-su-Consegne-2416.pdf?rlkey=qmmzf3nsrpufgnuo29cdzg5yh&dl=0?raw=1",
+                      "dimensione_kb": 70,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_24007771_20260624_115721 RIF. Basato su Offerte di vendita 240967. Basato su Consegne 2416.pdf"
+                    },
+                    {
+                      "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2400777_20260624_115651 RIF. Basato su Offerte di vendita 240922. Basato su Consegne 2415.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/7vfbddmzyg46pnotsa9t5/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2400777_20260624_115651-RIF.-Basato-su-Offerte-di-vendita-240922.-Basato-su-Consegne-2415.pdf?rlkey=8rmw7e7oh7djc2f7l5s5yh6fb&dl=0?raw=1",
+                      "dimensione_kb": 77,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2400777_20260624_115651 RIF. Basato su Offerte di vendita 240922. Basato su Consegne 2415.pdf"
+                    },
+                    {
+                      "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2500669_20260624_115830 RIF. ASSISTENZA SU MEKANO 900 AFINOX E EVOLUTION SAMAREF ELIMINAZ.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/38meblrk8r0m4i67npnko/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2500669_20260624_115830-RIF.-ASSISTENZA-SU-MEKANO-900-AFINOX-E-EVOLUTION-SAMAREF-ELIMINAZ.pdf?rlkey=b67mkgpg6n0ykw9pxnr9otjnu&dl=0?raw=1",
+                      "dimensione_kb": 69,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2500669_20260624_115830 RIF. ASSISTENZA SU MEKANO 900 AFINOX E EVOLUTION SAMAREF ELIMINAZ.pdf"
+                    },
+                    {
+                      "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600055_20260624_122602 RIF. Basato su Offerte di vendita 260034. Basato su Ordini client.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/6l49s698amlkgzv6jmdgu/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600055_20260624_122602-RIF.-Basato-su-Offerte-di-vendita-260034.-Basato-su-Ordini-client.pdf?rlkey=9flo6mons23emh6v5y1qis6vh&dl=0?raw=1",
+                      "dimensione_kb": 76,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600055_20260624_122602 RIF. Basato su Offerte di vendita 260034. Basato su Ordini client.pdf"
+                    },
+                    {
+                      "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600222_20260624_122406 RIF. Basato su Consegne 260157. 260159. 260232. 260243. 260244. 2.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/edso2zt92hcfrudahlcal/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600222_20260624_122406-RIF.-Basato-su-Consegne-260157.-260159.-260232.-260243.-260244.-2.pdf?rlkey=y4sn7r3pxyn92aldnrcsiu5nw&dl=0?raw=1",
+                      "dimensione_kb": 75,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600222_20260624_122406 RIF. Basato su Consegne 260157. 260159. 260232. 260243. 260244. 2.pdf"
+                    },
+                    {
+                      "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600223_20260624_122347 RIF. UNITA' CONDENSATRICE REMOTA ENTRO I 10 METRI INSTALLAZIONE D.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/3cwiz366vg021asjofl0m/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600223_20260624_122347-RIF.-UNITA-CONDENSATRICE-REMOTA-ENTRO-I-10-METRI-INSTALLAZIONE-D.pdf?rlkey=vw2nhp19fruyic0czwa0qepei&dl=0?raw=1",
+                      "dimensione_kb": 68,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600223_20260624_122347 RIF. UNITA' CONDENSATRICE REMOTA ENTRO I 10 METRI INSTALLAZIONE D.pdf"
+                    },
+                    {
+                      "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600224_20260624_123015 RIF. FRIGO VINI DOPPIA ZONA DI TEMPERATURA E SECONDA FRIGGITRICE.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/31weho7q8f01na54fc6tr/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600224_20260624_123015-RIF.-FRIGO-VINI-DOPPIA-ZONA-DI-TEMPERATURA-E-SECONDA-FRIGGITRICE.pdf?rlkey=7n3qsbx4g4ihxj2a2vjn1bb8g&dl=0?raw=1",
+                      "dimensione_kb": 68,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600224_20260624_123015 RIF. FRIGO VINI DOPPIA ZONA DI TEMPERATURA E SECONDA FRIGGITRICE.pdf"
+                    },
+                    {
+                      "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600225_20260624_123321 RIF. HOTELLERIE Basato su Consegne 260240. 260270. 260290. 260292.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ji64pgmyx62yqbp4daib2/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600225_20260624_123321-RIF.-HOTELLERIE-Basato-su-Consegne-260240.-260270.-260290.-260292.pdf?rlkey=czhocbfcx2r570fwpqerblm4e&dl=0?raw=1",
+                      "dimensione_kb": 75,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600225_20260624_123321 RIF. HOTELLERIE Basato su Consegne 260240. 260270. 260290. 260292.pdf"
+                    },
+                    {
+                      "nome": "FA TU'- Documenti e Movimenti aggiornato al 23 06 2026.xls",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/fic5kqy0uemvq1oh54z4b/FA-TU-Documenti-e-Movimenti-aggiornato-al-23-06-2026.xls?rlkey=l8zjvwb1lv4u7sih5s48405tt&dl=0?raw=1",
+                      "dimensione_kb": 34,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA TU'- Documenti e Movimenti aggiornato al 23 06 2026.xls"
+                    },
+                    {
+                      "nome": "FA_TU_Riepilogo_Fatture_24_06_2026 .pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/5u8tsk6yay58x2h1j08pl/FA_TU_Riepilogo_Fatture_24_06_2026.pdf?rlkey=0nuhk96hmdath3l4lkvjkrzde&dl=0?raw=1",
+                      "dimensione_kb": 83,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA_TU_Riepilogo_Fatture_24_06_2026 .pdf"
+                    },
+                    {
+                      "nome": "FA_TU_Riepilogo_Fatture_24_06_2026.xlsx",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/151hoj9obt9gs6rbd7wen/FA_TU_Riepilogo_Fatture_24_06_2026.xlsx?rlkey=hlp7glykb0s69a3e7xodf194d&dl=0?raw=1",
+                      "dimensione_kb": 15,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/FA_TU_Riepilogo_Fatture_24_06_2026.xlsx"
+                    },
+                    {
+                      "nome": "Nota di Credito Vendita - Bozza documento_260006_20260624_123955 DA FATTURA 2400777.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/26fhw0foj5ic9r7unoad0/Nota-di-Credito-Vendita-Bozza-documento_260006_20260624_123955-DA-FATTURA-2400777.pdf?rlkey=6x1qk3ym1t3lzxcnku3vg08y3&dl=0?raw=1",
+                      "dimensione_kb": 73,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/Nota di Credito Vendita - Bozza documento_260006_20260624_123955 DA FATTURA 2400777.pdf"
+                    },
+                    {
+                      "nome": "Nota di Credito Vendita - Bozza documento_260006_20260624_124214 2600055.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/py6nzsf0bn7bmn39z1vuo/Nota-di-Credito-Vendita-Bozza-documento_260006_20260624_124214-2600055.pdf?rlkey=irekqwi9w1s81hei08nizoluv&dl=0?raw=1",
+                      "dimensione_kb": 73,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/Nota di Credito Vendita - Bozza documento_260006_20260624_124214 2600055.pdf"
+                    },
+                    {
+                      "nome": "SAILOR'S SITUAZIONE CONTABILE AL 24_06_2026.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/lvam97cbc8f84zcccauat/SAILOR-S-SITUAZIONE-CONTABILE-AL-24_06_2026.pdf?rlkey=34ln60p5on4ns3a69jzmd1jqo&dl=0?raw=1",
+                      "dimensione_kb": 53,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU SITUAZIONE CONTABILE AL 24_06_2026/SAILOR'S SITUAZIONE CONTABILE AL 24_06_2026.pdf"
+                    }
+                  ],
+                  "_totale_file": 14
+                },
+                {
                   "nome": "OFFERTA SCAFFALATURA INOX",
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/OFFERTA SCAFFALATURA INOX",
                   "cartelle": [],
@@ -121890,7 +122066,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/Planetaria da banco mod. Plutone 7 Y15, Sirman, vasca smontabile inox 7 litri, testa ribaltabile, 3 accessori in dotazione.pdf"
                 }
               ],
-              "_totale_file": 115
+              "_totale_file": 129
             },
             {
               "nome": "GIOITALY HOTEL SAN GIORGIO",
@@ -124197,7 +124373,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 356
+          "_totale_file": 370
         },
         {
           "nome": "SAN SEVERINO LUCANO",
