@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-25T05:13:39Z",
-  "totale_file": 25296,
+  "generato": "2026-06-25T07:10:57Z",
+  "totale_file": 25305,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -180966,7 +180966,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4787,
+      "totale_file": 4796,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -181494,6 +181494,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260099_20260528_214901 RIF. MeM CAVALLETTO SUPPORTO PER FORNO Basato su Ordini cliente 2 CAVALLETTO SUPPORTO  PER FORNO.pdf"
             },
             {
+              "nome": "MODULAR PROFESSIONAL srl Entrata merci da fornitore_260129_20260624_084945 RIF. RISTORANTE SANTA LUCIA CIUCINA E GRIGLIA Basato su Ordini cl.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ae8ng327e9hy9lx0kj6ft/MODULAR-PROFESSIONAL-srl-Entrata-merci-da-fornitore_260129_20260624_084945-RIF.-RISTORANTE-SANTA-LUCIA-CIUCINA-E-GRIGLIA-Basato-su-Ordini-cl.pdf?rlkey=yox9idjj34911uy9w5p7talw3&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260129_20260624_084945 RIF. RISTORANTE SANTA LUCIA CIUCINA E GRIGLIA Basato su Ordini cl.pdf"
+            },
+            {
               "nome": "MORETTI FIMEL DDT DICEMBRE 2025 RIF.FA' TU.JPEG",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -181524,6 +181532,22 @@
               "link": "https://www.dropbox.com/scl/fi/mppyyym55lkr275c4maxg/MORINI-s.r.l.-Entrata-merci-da-fornitore_260077_20260520_223632-RIF.-HOTELLERIE-Basato-su-Ordini-cliente-260062.-260063.-Basato-s.pdf?rlkey=2jy6dyiygqgtq2qfeit9wzuvc&dl=0?raw=1",
               "dimensione_kb": 57,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MORINI s.r.l. Entrata merci da fornitore_260077_20260520_223632 RIF. HOTELLERIE Basato su Ordini cliente 260062. 260063. Basato s.pdf"
+            },
+            {
+              "nome": "MORINI s.r.l. Entrata merci da fornitore_260130_20260624_091856 RIF. Basato su Ordini d'acquisto 260078. 260125..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/moz21s6gxt6fanifquysb/MORINI-s.r.l.-Entrata-merci-da-fornitore_260130_20260624_091856-RIF.-Basato-su-Ordini-d-acquisto-260078.-260125..pdf?rlkey=8czgdv8tzeak2qwcb6pv839gp&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MORINI s.r.l. Entrata merci da fornitore_260130_20260624_091856 RIF. Basato su Ordini d'acquisto 260078. 260125..pdf"
+            },
+            {
+              "nome": "MORINI s.r.l. Entrata merci da fornitore_260131_20260624_091956 RIF. HAPPY MOMENTS SANTA LUCIA AIA DEI CAPPELLANI Basato su Ordin.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vgouvut36zjslf6vbmpmc/MORINI-s.r.l.-Entrata-merci-da-fornitore_260131_20260624_091956-RIF.-HAPPY-MOMENTS-SANTA-LUCIA-AIA-DEI-CAPPELLANI-Basato-su-Ordin.pdf?rlkey=76tg7m7d1ovt5vtp1kp9mtx2a&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MORINI s.r.l. Entrata merci da fornitore_260131_20260624_091956 RIF. HAPPY MOMENTS SANTA LUCIA AIA DEI CAPPELLANI Basato su Ordin.pdf"
             },
             {
               "nome": "PADERNO 3789546_1_2025S000037063.pdf",
@@ -181742,7 +181766,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 96
+          "_totale_file": 99
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -221523,6 +221547,54 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PIAZZA EFFEPI srl Ordine dacquisto_260142_20260622_104605 RIF. FA TU Basato su Ordini cliente 260226..pdf"
             },
             {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260143_20260623_203936.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3xn92clq7cz843b2168k2/REPA-ITALIA-SRL-Ordine-dacquisto_260143_20260623_203936.pdf?rlkey=b6zz16a9gmt98m55l1sqqbk1u&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260143_20260623_203936.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260144_20260623_204919.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5t4zp9cdxh69ww2t86mnj/REPA-ITALIA-SRL-Ordine-dacquisto_260144_20260623_204919.pdf?rlkey=v7itzxbm80tqr52l880qu0j1l&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260144_20260623_204919.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260145_20260623_210359.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/221gq731zmdugswa5kx9x/REPA-ITALIA-SRL-Ordine-dacquisto_260145_20260623_210359.pdf?rlkey=g2kxjvkixvdiscqh7vazocfo3&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260145_20260623_210359.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260146_20260624_102137.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c6zneb0wj5cihg2097cme/REPA-ITALIA-SRL-Ordine-dacquisto_260146_20260624_102137.pdf?rlkey=sr9sor7l98ijdgjn3rq1ovidx&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260146_20260624_102137.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260147_20260624_102257.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/14koae1azoruhrfqb3pyr/REPA-ITALIA-SRL-Ordine-dacquisto_260147_20260624_102257.pdf?rlkey=ky3w3xun2oyjkptddvmdu8cdg&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260147_20260624_102257.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260148_20260624_105344.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/kaa9uisweq74d93a4sygv/REPA-ITALIA-SRL-Ordine-dacquisto_260148_20260624_105344.pdf?rlkey=qjw6a88dn6wtvkttx1cmfalzc&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260148_20260624_105344.pdf"
+            },
+            {
               "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -221563,7 +221635,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260141_20260618_201723 RIF. AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217..pdf"
             }
           ],
-          "_totale_file": 3682
+          "_totale_file": 3688
         }
       ],
       "file": []
