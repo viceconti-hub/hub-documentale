@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-26T00:23:12Z",
-  "totale_file": 25305,
+  "generato": "2026-06-26T02:23:01Z",
+  "totale_file": 25307,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -138207,7 +138207,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4421,
+      "totale_file": 4423,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -143805,6 +143805,22 @@
           ],
           "file": [
             {
+              "nome": "001.BRITA CONDIZIONI Gmail - Re_ Viceconti Snc_ richiesta listini aggiornati e condizioni commerciali.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rgayzzsxqsymf3d8lwa83/001.BRITA-CONDIZIONI-Gmail-Re_-Viceconti-Snc_-richiesta-listini-aggiornati-e-condizioni-commerciali.pdf?rlkey=x9a6kpr90olpwwrdpl5dv2npg&dl=0?raw=1",
+              "dimensione_kb": 215,
+              "path": "/HUB DOCUMENTALE/FORNITORI/BRITA/001.BRITA CONDIZIONI Gmail - Re_ Viceconti Snc_ richiesta listini aggiornati e condizioni commerciali.pdf"
+            },
+            {
+              "nome": "100.BRITA Listino prezzi PROFESSIONAL 2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/scmra8pkct1a3mb512jwt/100.BRITA-Listino-prezzi-PROFESSIONAL-2026.pdf?rlkey=uushmapccpxzaisqvg0bjnpwy&dl=0?raw=1",
+              "dimensione_kb": 4458,
+              "path": "/HUB DOCUMENTALE/FORNITORI/BRITA/100.BRITA Listino prezzi PROFESSIONAL 2026.pdf"
+            },
+            {
               "nome": "BRITA LISTINO 2024.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -143813,7 +143829,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/BRITA/BRITA LISTINO 2024.pdf"
             }
           ],
-          "_totale_file": 5
+          "_totale_file": 7
         },
         {
           "nome": "BRT",
