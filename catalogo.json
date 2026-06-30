@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-06-30T05:18:18Z",
-  "totale_file": 25397,
+  "generato": "2026-06-30T07:17:36Z",
+  "totale_file": 25399,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -181702,7 +181702,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4798,
+      "totale_file": 4800,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -181844,6 +181844,14 @@
               "link": "https://www.dropbox.com/scl/fi/grnfvm3rz5kpfhh55et0n/COLD-LINE-srl-Entrata-merci-da-fornitore_260121_20260615_165601-RIF.-PASSION-SUSHI-Basato-su-Ordini-cliente-260118.-Basato-su-Ord.pdf?rlkey=i622fz3zx85fb27h05vnsae2u&dl=0?raw=1",
               "dimensione_kb": 71,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260121_20260615_165601 RIF. PASSION SUSHI Basato su Ordini cliente 260118. Basato su Ord.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260132_20260629_163120 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lrm6lgnv9bjih5fqi3ytu/COLD-LINE-srl-Entrata-merci-da-fornitore_260132_20260629_163120-RIF.-CORRADO-MICHELA-ARMADIO-LEVETRONIC-500-Basato-su-Ordini-clie.pdf?rlkey=s857qe8diehidudo74ea6d6pa&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260132_20260629_163120 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -182502,7 +182510,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 99
+          "_totale_file": 100
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -222267,6 +222275,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MECNOSUD S.R.L. Ordine dacquisto_260044_20260513_183524 RIF. MeM IMPASTATRICE IM25D.pdf"
             },
             {
+              "nome": "MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF. SANTA LUCIA GRIGLIE IN GHISA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dufuljpdgrsudto9f4vo6/MODULAR-CONFERMA-ORDINE-MD_SaleOrdForm_2022-RIF.-SANTA-LUCIA-GRIGLIE-IN-GHISA.pdf?rlkey=2oe9r1187vfvutl5lwyut16he&dl=0?raw=1",
+              "dimensione_kb": 140,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF. SANTA LUCIA GRIGLIE IN GHISA.pdf"
+            },
+            {
               "nome": "MORINI s.r.l. Ordine dacquisto_260139_20260617_105747 RIF. HAPPY MOMENTS SANTA LUCIA AIA DEI CAPPELLANI Basato su Ordin.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -222359,7 +222375,7 @@
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/f62v13ar8pdoee9yt5fa1/TAMAI-CONFERMA-ORDINE-125-VICECONTI-RIF.-AI-CARCONI.pdf?rlkey=41vc4ow96egfgrf7u74sam5h1&dl=0?raw=1",
-              "dimensione_kb": 175,
+              "dimensione_kb": 187,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TAMAI CONFERMA ORDINE 125 VICECONTI RIF. AI CARCONI.pdf"
             },
             {
@@ -222387,7 +222403,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260141_20260618_201723 RIF. AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217..pdf"
             }
           ],
-          "_totale_file": 3690
+          "_totale_file": 3691
         }
       ],
       "file": []
