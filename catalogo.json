@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-01T05:31:49Z",
-  "totale_file": 25425,
+  "generato": "2026-07-01T07:31:32Z",
+  "totale_file": 25426,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -181926,7 +181926,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4800,
+      "totale_file": 4801,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -190817,8 +190817,8 @@
           "_totale_file": 1005
         },
         {
-          "nome": "LOGISTICA IN USCITA",
-          "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA IN USCITA",
+          "nome": "LOGISTICA",
+          "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA",
           "cartelle": [],
           "file": [
             {
@@ -190827,7 +190827,7 @@
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/gi1wvy1ilay9zhsxu2gwl/BRT-Conferma-prenotazione-ritiro-YOU-MARINA.pdf?rlkey=tr55orv9zcz7as172em4npkuz&dl=0?raw=1",
               "dimensione_kb": 107,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA IN USCITA/BRT Conferma prenotazione ritiro YOU MARINA.pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BRT Conferma prenotazione ritiro YOU MARINA.pdf"
             }
           ],
           "_totale_file": 1
@@ -222630,7 +222630,16 @@
           "_totale_file": 3691
         }
       ],
-      "file": []
+      "file": [
+        {
+          "nome": "UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/6va5afbljv8ibkhd3htyn/UNIVAC-Conferma-prenotazione-ritiro-DEL-30_06_2026.pdf?rlkey=jmibgvy1uj2r0amlfhb5e280l&dl=0?raw=1",
+          "dimensione_kb": 108,
+          "path": "/HUB DOCUMENTALE/ACQUISTI/UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf"
+        }
+      ]
     },
     {
       "nome": "BANCHE E PAGAMENTI",
