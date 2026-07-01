@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-01T02:37:12Z",
-  "totale_file": 25409,
+  "generato": "2026-07-01T05:31:49Z",
+  "totale_file": 25425,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6049,
+      "totale_file": 6065,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -416,6 +416,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CHECK Srl BAR MATER DEI Consegna_260288_20260523_093746 RIF. DETERGENTE ECOSAN DET 6 QTA'1 Basato su Ordini cliente 26014 DETERGENTE ECOSAN DET 6 QTA'1.pdf"
             },
             {
+              "nome": "CHOCOLATE & PASTRY SAS Consegna_260489_20260630_093357 RIF. ARMADIO CONGELATORE COLDLINE WIND A901B Basato su Offerte di.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tga5l5bam8gubanqsgcey/CHOCOLATE-PASTRY-SAS-Consegna_260489_20260630_093357-RIF.-ARMADIO-CONGELATORE-COLDLINE-WIND-A901B-Basato-su-Offerte-di.pdf?rlkey=lai89icpv0detu6wjh6cdheyl&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CHOCOLATE & PASTRY SAS Consegna_260489_20260630_093357 RIF. ARMADIO CONGELATORE COLDLINE WIND A901B Basato su Offerte di.pdf"
+            },
+            {
               "nome": "CIDO SRL Consegna_260434_20260619_092821 RIF. MINIBAR FRIGORIFERO Basato su Ordini cliente 260208..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -462,6 +470,30 @@
               "link": "https://www.dropbox.com/scl/fi/z81rqm20ruv28dlij5fs6/CORRADO-MICHELA-Consegna_260365_20260603_100600-RIF.-IMPASTATRICE-E-ARMADIO-CONGELATORE-Basato-su-Offerte-di-vend.pdf?rlkey=1na23mwyee4wyx1u4012pi5x1&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CORRADO MICHELA Consegna_260365_20260603_100600 RIF. IMPASTATRICE E ARMADIO CONGELATORE Basato su Offerte di vend.pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA Consegna_260487_20260630_092953 RIF. DETERSIVI Basato su Offerte di vendita 260061. Basato su Ord.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qr373e0sb3v9abnn7p6cz/CORRADO-MICHELA-Consegna_260487_20260630_092953-RIF.-DETERSIVI-Basato-su-Offerte-di-vendita-260061.-Basato-su-Ord.pdf?rlkey=2q9ljpqal7cw4x1kg1br2vg5o&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CORRADO MICHELA Consegna_260487_20260630_092953 RIF. DETERSIVI Basato su Offerte di vendita 260061. Basato su Ord.pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA Consegna_260488_20260630_093219 RIF. Armadio LevTronic 550 -20°+40°C RH 45÷95% 1 porta Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6jih54l4g4ddgoc1f3chg/CORRADO-MICHELA-Consegna_260488_20260630_093219-RIF.-Armadio-LevTronic-550-20-40-C-RH-45-95-1-porta-Basato-su.pdf?rlkey=69qkxk6vrwlsdk02v41rl7c3v&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CORRADO MICHELA Consegna_260488_20260630_093219 RIF. Armadio LevTronic 550 -20°+40°C RH 45÷95% 1 porta Basato su.pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA Consegna_260490_20260630_093614 RIF. DETERGENTE RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b1xau1w0vt21luag3ck21/CORRADO-MICHELA-Consegna_260490_20260630_093614-RIF.-DETERGENTE-RATIONAL.pdf?rlkey=k0aw6n092w66wqn5v9ogd7vjc&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CORRADO MICHELA Consegna_260490_20260630_093614 RIF. DETERGENTE RATIONAL.pdf"
             },
             {
               "nome": "CUCINOTTA GIOVANNI Consegna_260438_20260623_084319 RIF. BACINELLE IN POLIPROPILENE Basato su Ordini cliente 260227..pdf",
@@ -1576,6 +1608,46 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260482_20260626_222932 RIF. HOTELLERIE Basato su Offerte di vendita 260239..pdf"
             },
             {
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260491_20260630_110252 RIF. ATTREZZATURE Basato su Offerte di vendita 260138. Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/q97rlwx0enk8kz4drnyt8/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Consegna_260491_20260630_110252-RIF.-ATTREZZATURE-Basato-su-Offerte-di-vendita-260138.-Basato-su.pdf?rlkey=2ik31qbr2rxguamk355ngt8lm&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260491_20260630_110252 RIF. ATTREZZATURE Basato su Offerte di vendita 260138. Basato su.pdf"
+            },
+            {
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260492_20260630_110928 RIF. ATTREZZATURE Basato su Offerte di vendita 260138. Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w5lysaewbo1ya0s9qh9zq/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Consegna_260492_20260630_110928-RIF.-ATTREZZATURE-Basato-su-Offerte-di-vendita-260138.-Basato-su.pdf?rlkey=bz00upn2077vygpwjz495n2c5&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260492_20260630_110928 RIF. ATTREZZATURE Basato su Offerte di vendita 260138. Basato su.pdf"
+            },
+            {
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260493_20260630_111606 RIF. LAVAMANI E DOCCIONE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/a9yfeomeijmkq0v288nn1/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Consegna_260493_20260630_111606-RIF.-LAVAMANI-E-DOCCIONE.pdf?rlkey=xlq55kv755f9slm32e7vrvam4&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260493_20260630_111606 RIF. LAVAMANI E DOCCIONE.pdf"
+            },
+            {
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260494_20260630_111810 RIF. ATTREZZATURE Basato su Offerte di vendita 260138. Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3996312l4itt5y1lkuacn/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Consegna_260494_20260630_111810-RIF.-ATTREZZATURE-Basato-su-Offerte-di-vendita-260138.-Basato-su.pdf?rlkey=y5egxhichc6udcdmdiif0f2xd&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260494_20260630_111810 RIF. ATTREZZATURE Basato su Offerte di vendita 260138. Basato su.pdf"
+            },
+            {
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260495_20260630_115211 RIF. TUBAZIONE Basato su Offerte di vendita 260210. Basato su Ord.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/apl8uqkrsopie1g981gdx/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Consegna_260495_20260630_115211-RIF.-TUBAZIONE-Basato-su-Offerte-di-vendita-260210.-Basato-su-Ord.pdf?rlkey=bu4hhhcnrlkwxg4qhu3qae4jf&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Consegna_260495_20260630_115211 RIF. TUBAZIONE Basato su Offerte di vendita 260210. Basato su Ord.pdf"
+            },
+            {
               "nome": "PASTICCERIA ARTE DOLCIARIA TRECCHINESE Consegna_260259_20260603_190259 RIF. ARMADIO FRIGO SMART A701ME INOX,1PORTA,-2°+8°C USATO, IN COM.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1888,7 +1960,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 234
+          "_totale_file": 243
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -2160,20 +2232,20 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600225_20260624_123321 RIF. HOTELLERIE Basato su Consegne 260240. 260270. 260290. 260292.pdf"
             },
             {
-              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600247_20260629_173705 RIF. TUBAZIONE INOX Basato su Ordini cliente 260180. Basato su Co.pdf",
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600247_20260629_174027 RIF. TUBAZIONE INOX Basato su Ordini cliente 260180. Basato su Co.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/joemsh5l58pgxrt9xr5f0/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600247_20260629_173705-RIF.-TUBAZIONE-INOX-Basato-su-Ordini-cliente-260180.-Basato-su-Co.pdf?rlkey=8f0t9p7hif4misqz7exbsfjx8&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/ck68qs2ldhse0b4hibgfv/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600247_20260629_174027-RIF.-TUBAZIONE-INOX-Basato-su-Ordini-cliente-260180.-Basato-su-Co.pdf?rlkey=d6deh0li1kpio4vit83neo2nb&dl=0?raw=1",
               "dimensione_kb": 75,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600247_20260629_173705 RIF. TUBAZIONE INOX Basato su Ordini cliente 260180. Basato su Co.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600247_20260629_174027 RIF. TUBAZIONE INOX Basato su Ordini cliente 260180. Basato su Co.pdf"
             },
             {
-              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600248_20260629_173752 RIF. BACINELLA POLIROPILENE GN 12 H 15 QTA 40 Basato su Ordini cl.pdf",
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600248_20260629_174117 RIF. BACINELLA POLIROPILENE GN 12 H 15 QTA 40 Basato su Ordini cl.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/1ttjwlymv0dj1dlqlky6b/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600248_20260629_173752-RIF.-BACINELLA-POLIROPILENE-GN-12-H-15-QTA-40-Basato-su-Ordini-cl.pdf?rlkey=j83c0f6domucogtgkdamrcops&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/yk91l9g96s9jcj7pud1z2/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600248_20260629_174117-RIF.-BACINELLA-POLIROPILENE-GN-12-H-15-QTA-40-Basato-su-Ordini-cl.pdf?rlkey=eysxt3vhkfn8mj61r5skgjz8s&dl=0?raw=1",
               "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600248_20260629_173752 RIF. BACINELLA POLIROPILENE GN 12 H 15 QTA 40 Basato su Ordini cl.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600248_20260629_174117 RIF. BACINELLA POLIROPILENE GN 12 H 15 QTA 40 Basato su Ordini cl.pdf"
             },
             {
               "nome": "FOODEX SRL Fattura di vendita_2600208_20260612_105758 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf",
@@ -2728,6 +2800,30 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PANAINO SRL UNIPERSONALE Fattura di vendita_2600217_20260622_115209 RIF. TAVOLO REFRIGERATO FORCAR Basato su Consegne 260180. 260380..pdf"
             },
             {
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Fattura di vendita_2600249_20260630_114424 RIF. Basato su Consegne 260393. 260406. 260422. 260491. 260492. 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/brfmfn9txslw734jiqb8z/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Fattura-di-vendita_2600249_20260630_114424-RIF.-Basato-su-Consegne-260393.-260406.-260422.-260491.-260492.-2.pdf?rlkey=fsoct6725x3uabzp5fpevfq7s&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Fattura di vendita_2600249_20260630_114424 RIF. Basato su Consegne 260393. 260406. 260422. 260491. 260492. 2.pdf"
+            },
+            {
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Fattura di vendita_2600250_20260630_114401 RIF. HOTELLERIE Basato su Consegne 260437. 260442. 260479. 260480.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lgqu6ajlexblkciupowjm/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Fattura-di-vendita_2600250_20260630_114401-RIF.-HOTELLERIE-Basato-su-Consegne-260437.-260442.-260479.-260480.pdf?rlkey=licoydu9yk4ouxm6s15qvsy94&dl=0?raw=1",
+              "dimensione_kb": 83,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Fattura di vendita_2600250_20260630_114401 RIF. HOTELLERIE Basato su Consegne 260437. 260442. 260479. 260480.pdf"
+            },
+            {
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Fattura di vendita_2600251_20260630_115305 RIF. TUBAZIONE Basato su Offerte di vendita 260210. Basato su Ord.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9tec4jda5x5wdr249h9mq/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Fattura-di-vendita_2600251_20260630_115305-RIF.-TUBAZIONE-Basato-su-Offerte-di-vendita-260210.-Basato-su-Ord.pdf?rlkey=zjqmrjqh79je8uimuuwilcmis&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Fattura di vendita_2600251_20260630_115305 RIF. TUBAZIONE Basato su Offerte di vendita 260210. Basato su Ord.pdf"
+            },
+            {
               "nome": "PASTICCERIA ARTE DOLCIARIA TRECCHINESE Fattura di vendita_2600156_20260603_222551 RIF. PLANETARIA PLUTONE SRIMAN 10 LT Basato su Offerte di vendita.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3008,7 +3104,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 139
+          "_totale_file": 142
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -3126,6 +3222,14 @@
               "link": "https://www.dropbox.com/scl/fi/fqvwsh0sh17xpim0vne3x/CIDO-SRL-Offerta-di-vendita_260186_20260526_080254-RIF.-ASSISTENZA-SU-CUCINA-ANGELO-PO-CON-FORNO-ASSISTENZA-SU-CUCIN.pdf?rlkey=ot60opkm9xauql6uhn2627jg3&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CIDO SRL Offerta di vendita_260186_20260526_080254 RIF. ASSISTENZA SU CUCINA ANGELO PO CON FORNO ASSISTENZA SU CUCIN.pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA Offerta di vendita_260241_20260630_093902 RIF. SISTEMA FILTRANTE BRITA PER FORNO RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dp27zah41it255gx5z6kb/CORRADO-MICHELA-Offerta-di-vendita_260241_20260630_093902-RIF.-SISTEMA-FILTRANTE-BRITA-PER-FORNO-RATIONAL.pdf?rlkey=ltiredx5mm62jvteylnmezppj&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CORRADO MICHELA Offerta di vendita_260241_20260630_093902 RIF. SISTEMA FILTRANTE BRITA PER FORNO RATIONAL.pdf"
             },
             {
               "nome": "DA SPECIFICARE Offerta di vendita_200479_20260514_173119.pdf",
@@ -3256,12 +3360,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260215_20260615_095100.pdf"
             },
             {
-              "nome": "DA SPECIFICARE Offerta di vendita_260224_20260618_195450 RIF. OFFERTA STANDARD SISTEMA FILTRANTE BRITA PER FORNO RATIONAL.pdf",
+              "nome": "DA SPECIFICARE Offerta di vendita_260224_20260630_093712 RIF. OFFERTA STANDARD SISTEMA FILTRANTE BRITA PER FORNO RATIONAL.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2qfw4khus8cbz6ko0qsrc/DA-SPECIFICARE-Offerta-di-vendita_260224_20260618_195450-RIF.-OFFERTA-STANDARD-SISTEMA-FILTRANTE-BRITA-PER-FORNO-RATIONAL.pdf?rlkey=bz8mjng4stoga3huyoj0jq1ut&dl=0?raw=1",
-              "dimensione_kb": 77,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260224_20260618_195450 RIF. OFFERTA STANDARD SISTEMA FILTRANTE BRITA PER FORNO RATIONAL.pdf"
+              "link": "https://www.dropbox.com/scl/fi/7gklvqec3y0e5gqzac7ug/DA-SPECIFICARE-Offerta-di-vendita_260224_20260630_093712-RIF.-OFFERTA-STANDARD-SISTEMA-FILTRANTE-BRITA-PER-FORNO-RATIONAL.pdf?rlkey=g2so2ey80wdbt4xmu4ojjtpuh&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260224_20260630_093712 RIF. OFFERTA STANDARD SISTEMA FILTRANTE BRITA PER FORNO RATIONAL.pdf"
             },
             {
               "nome": "DE FILIPPO ROCCO Offerta di vendita_260194_20260605_111616 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO.pdf",
@@ -3816,7 +3920,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 100
+          "_totale_file": 101
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -34457,7 +34561,7 @@
                           "nome": "2024-06-27_162150.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/mjqkig9k88b9lbgv5vd86/2024-06-27_162150.jpg?rlkey=ygcewhdiwgq9d6bn79lcfc7iy&dl=0?raw=1",
                           "dimensione_kb": 134,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/BISCOTTIFICIO CAUCCI/BISCOTTIFICIO CAUCCI CELLE/2024-06-27_162150.jpg"
                         },
@@ -61843,6 +61947,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA Ordine cliente_260166_20260603_103030 RIF. Armadio LevTronic 550 -20°+40°C RH 45÷95% 1 porta.pdf"
             },
             {
+              "nome": "CORRADO MICHELA Ordine cliente_260243_20260630_092929 RIF. DETERSIVI Basato su Offerte di vendita 260061..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3jvb43qv9l7jajp9i7q8x/CORRADO-MICHELA-Ordine-cliente_260243_20260630_092929-RIF.-DETERSIVI-Basato-su-Offerte-di-vendita-260061..pdf?rlkey=mhrr078j972yr7ekoyz1wsin3&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA Ordine cliente_260243_20260630_092929 RIF. DETERSIVI Basato su Offerte di vendita 260061..pdf"
+            },
+            {
               "nome": "CUCINOTTA GIOVANNI Ordine cliente_260227_20260622_105238 RIF. BACINELLE IN POLIPROPILENE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62347,12 +62459,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PANAINO SRL UNIPERSONALE Ordine cliente_260231_20260625_103300.pdf"
             },
             {
-              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Ordine cliente_260118_20260611_101415 RIF. ATTREZZATURE Basato su Offerte di vendita 260138. PASSION SUSHI.pdf",
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Ordine cliente_260118_20260630_105902 RIF. ATTREZZATURE Basato su Offerte di vendita 260138..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hmad94t2h2ylee4lst2am/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Ordine-cliente_260118_20260611_101415-RIF.-ATTREZZATURE-Basato-su-Offerte-di-vendita-260138.-PASSION-SUSHI.pdf?rlkey=mk40n7507hiibkp1ney7j037l&dl=0?raw=1",
-              "dimensione_kb": 65,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Ordine cliente_260118_20260611_101415 RIF. ATTREZZATURE Basato su Offerte di vendita 260138. PASSION SUSHI.pdf"
+              "link": "https://www.dropbox.com/scl/fi/24splljc13pkhd3gb6y0s/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Ordine-cliente_260118_20260630_105902-RIF.-ATTREZZATURE-Basato-su-Offerte-di-vendita-260138..pdf?rlkey=ir3pj9qgyvm9ts6s4hwvu0wn2&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Ordine cliente_260118_20260630_105902 RIF. ATTREZZATURE Basato su Offerte di vendita 260138..pdf"
             },
             {
               "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Ordine cliente_260199_20260611_101654 RIF. ATTREZZATURE LAVAGGIO Basato su Offerte di vendita 260200..pdf",
@@ -62379,6 +62491,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Ordine cliente_260236_20260626_130626.pdf"
             },
             {
+              "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Ordine cliente_260245_20260630_115050 RIF. TUBAZIONE Basato su Offerte di vendita 260210..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hniz6ew4il0vxkzofxzbu/PASSION-SUSHI-ABDULREMANE-MOMADE-CASSIMO-Ordine-cliente_260245_20260630_115050-RIF.-TUBAZIONE-Basato-su-Offerte-di-vendita-260210..pdf?rlkey=ss4546wd8eef2pddi8ko86yvm&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Ordine cliente_260245_20260630_115050 RIF. TUBAZIONE Basato su Offerte di vendita 260210..pdf"
+            },
+            {
               "nome": "PDM SRL Ordine cliente_260198_20260609_133726 RIF. GUARNIZIONE PORTA SCC BONIFICO BANCARIO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62401,6 +62521,14 @@
               "link": "https://www.dropbox.com/scl/fi/i657t1gadodiuwgsb1q4i/Ristorante-SANTA-LUCIA-DI-APICELLA-TERESA-Ordine-cliente_260123_20260513_131748-RIF.-ATTREZZATURE-URGENTE.pdf?rlkey=x48m0d9lio2w31ar1w590wpc4&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Ristorante SANTA LUCIA DI APICELLA TERESA Ordine cliente_260123_20260513_131748 RIF. ATTREZZATURE URGENTE.pdf"
+            },
+            {
+              "nome": "Ristorante SANTA LUCIA DI APICELLA TERESA Ordine cliente_260244_20260630_103558 RIF. GRIGLIA IN GHISA PER GRIGLIA A PIETRA LAVICA QTA' 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5nche75kxg6bv8hhmoocr/Ristorante-SANTA-LUCIA-DI-APICELLA-TERESA-Ordine-cliente_260244_20260630_103558-RIF.-GRIGLIA-IN-GHISA-PER-GRIGLIA-A-PIETRA-LAVICA-QTA-2.pdf?rlkey=ne137sckmex3s9eldzgd6lhns&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Ristorante SANTA LUCIA DI APICELLA TERESA Ordine cliente_260244_20260630_103558 RIF. GRIGLIA IN GHISA PER GRIGLIA A PIETRA LAVICA QTA' 2.pdf"
             },
             {
               "nome": "S.A.S. DI LASCIO di ALAGIA PAOLA & C. Ordine cliente_260242_20260629_164926.pdf",
@@ -62539,7 +62667,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/YOU MARINA S.R.L. Ordine cliente_260221_20260619_094238 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf"
             }
           ],
-          "_totale_file": 114
+          "_totale_file": 117
         }
       ],
       "file": []
