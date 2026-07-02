@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-02T05:28:29Z",
-  "totale_file": 25447,
+  "generato": "2026-07-02T07:29:25Z",
+  "totale_file": 25451,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -182110,7 +182110,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4801,
+      "totale_file": 4805,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -182742,6 +182742,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/PADERNO Packing-list_PL-08000733-01-20251112.pdf"
             },
             {
+              "nome": "PIAZZA EFFEPI srl Entrata merci da fornitore_260133_20260701_084745 RIF. FA TU Basato su Ordini cliente 260226. Basato su Ordini d'ac.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2f3pe747be19xd9qsaar8/PIAZZA-EFFEPI-srl-Entrata-merci-da-fornitore_260133_20260701_084745-RIF.-FA-TU-Basato-su-Ordini-cliente-260226.-Basato-su-Ordini-d-ac.pdf?rlkey=im7v6b4f6icodr8283tjshben&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/PIAZZA EFFEPI srl Entrata merci da fornitore_260133_20260701_084745 RIF. FA TU Basato su Ordini cliente 260226. Basato su Ordini d'ac.pdf"
+            },
+            {
               "nome": "REPA ITALIA SRL Entrata merci da fornitore_260082_20260526_080644 RIF. CIDO SRL LIDO ILLICINI RICAMBI CUCINE ANGELO PO + DOSATORE M.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -182918,7 +182926,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 100
+          "_totale_file": 101
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -222603,6 +222611,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS.pdf"
             },
             {
+              "nome": "ARTINOX CONFERMA ORDINE Viceconti_co 3292_ecocolor RIF. MeM.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fpllpv5t6w4ktnk370z04/ARTINOX-CONFERMA-ORDINE-Viceconti_co-3292_ecocolor-RIF.-MeM.pdf?rlkey=9ccjv41htojyh2iytnv833q00&dl=0?raw=1",
+              "dimensione_kb": 94,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARTINOX CONFERMA ORDINE Viceconti_co 3292_ecocolor RIF. MeM.pdf"
+            },
+            {
+              "nome": "ARTINOX spa Ordine dacquisto_260066_20260701_083538 RIF. MeM Basato su Ordini cliente 250878..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gbl76ut5ftjlc7quv0hqr/ARTINOX-spa-Ordine-dacquisto_260066_20260701_083538-RIF.-MeM-Basato-su-Ordini-cliente-250878..pdf?rlkey=pikyu7ra625memorhv3j2iew1&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARTINOX spa Ordine dacquisto_260066_20260701_083538 RIF. MeM Basato su Ordini cliente 250878..pdf"
+            },
+            {
               "nome": "BELLADONNA SRL Ordine dacquisto_260138_20260615_174114 RIF. MACELLERIA DE DIEGO TAVOLO ISPICA 80X80.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -222665,6 +222689,14 @@
               "link": "https://www.dropbox.com/scl/fi/dph473sowdtjeu1k2kvb0/DE-LUCA-SRL-Ordine-dacquisto_260149_20260625_160723-RIF.-Basato-su-Ordini-cliente-260236..pdf?rlkey=a2h4akom2hfqyhsa26bo9ryt2&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260149_20260625_160723 RIF. Basato su Ordini cliente 260236..pdf"
+            },
+            {
+              "nome": "FRIULMED ImpegnoCli2026 00292950017926VICECONTI SNC DI20260630 RIF.MeM.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/v8trmkyrf5mi1zmy9n6ku/FRIULMED-ImpegnoCli2026-00292950017926VICECONTI-SNC-DI20260630-RIF.MeM.PDF?rlkey=5955bk81k5eh2zw486lqcl2k8&dl=0?raw=1",
+              "dimensione_kb": 114,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FRIULMED ImpegnoCli2026 00292950017926VICECONTI SNC DI20260630 RIF.MeM.PDF"
             },
             {
               "nome": "IDEAM INOX CONFERMA ORDINE 1ID202600021881_N0002470 RIF. ILAMA TAVOLI PROF. 40.pdf",
@@ -222811,7 +222843,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260141_20260618_201723 RIF. AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217..pdf"
             }
           ],
-          "_totale_file": 3691
+          "_totale_file": 3694
         }
       ],
       "file": [
