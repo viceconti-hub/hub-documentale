@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-01T08:50:58Z",
-  "totale_file": 25427,
+  "generato": "2026-07-02T00:31:55Z",
+  "totale_file": 25429,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -67270,7 +67270,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7208,
+      "totale_file": 7210,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -71058,7 +71058,7 @@
                   "nome": "WhatsApp Image 2024-09-30 at 16.36.26.jpeg",
                   "tipo": "Immagine",
                   "icona": "🖼️",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/b42olwjyrt8kj1codpfv7/WhatsApp-Image-2024-09-30-at-16.36.26.jpeg?rlkey=qs7t6ex2ienktwf4l2tm12s9m&dl=0?raw=1",
                   "dimensione_kb": 86,
                   "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/GIUSEPPE LICATA/WhatsApp Image 2024-09-30 at 16.36.26.jpeg"
                 }
@@ -103974,6 +103974,22 @@
                         }
                       ],
                       "_totale_file": 2
+                    },
+                    {
+                      "nome": "PRODUTTORE DI GHIACCIO BREMA CB 426W HC 2023051186143",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/PRODUTTORE DI GHIACCIO BREMA CB 426W HC 2023051186143",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "PRODUTTORE DI GHIACCIO BREMA CB 426W HC 2023051186143 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/rgpi9m0h5x5c6yo8zpp7t/PRODUTTORE-DI-GHIACCIO-BREMA-CB-426W-HC-2023051186143-DATI-MACCHINA.jpg?rlkey=pfhacgqrfe2qcjcasmelk9upu&dl=0?raw=1",
+                          "dimensione_kb": 75,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/PRODUTTORE DI GHIACCIO BREMA CB 426W HC 2023051186143/PRODUTTORE DI GHIACCIO BREMA CB 426W HC 2023051186143 DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
                     }
                   ],
                   "file": [
@@ -104138,7 +104154,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/NERA AREA TECNICA/WhatsApp Image 2024-05-08 at 18.35.09.jpeg"
                     }
                   ],
-                  "_totale_file": 31
+                  "_totale_file": 32
                 }
               ],
               "file": [
@@ -104247,7 +104263,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/WhatsApp Image 2023-06-22 at 10.21.57.jpeg"
                 }
               ],
-              "_totale_file": 132
+              "_totale_file": 133
             },
             {
               "nome": "RISTORANTE 1999",
@@ -105146,7 +105162,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 912
+          "_totale_file": 913
         },
         {
           "nome": "MARCELLINA",
@@ -133402,6 +133418,14 @@
               ],
               "file": [
                 {
+                  "nome": "MeM SITUAZIONE MAGAZZINO ULTIME ATTREZZATURE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kn30d6wnlxj4441khenkb/MeM-SITUAZIONE-MAGAZZINO-ULTIME-ATTREZZATURE.pdf?rlkey=dvaixco0bwbi36cl6b0cwjq97&dl=0?raw=1",
+                  "dimensione_kb": 60,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SITUAZIONE MAGAZZINO ULTIME ATTREZZATURE.pdf"
+                },
+                {
                   "nome": "PROGETTO_IT2505186_MININI GIOVANNI (M&M SRL)_REV01_160326.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -133410,7 +133434,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/PROGETTO_IT2505186_MININI GIOVANNI (M&M SRL)_REV01_160326.pdf"
                 }
               ],
-              "_totale_file": 34
+              "_totale_file": 35
             },
             {
               "nome": "NASTA BERARDINO",
@@ -134076,7 +134100,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL - collegamento.lnk"
             }
           ],
-          "_totale_file": 293
+          "_totale_file": 294
         },
         {
           "nome": "TORTORELLA",
