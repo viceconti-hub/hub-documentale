@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-02T00:31:55Z",
-  "totale_file": 25429,
+  "generato": "2026-07-02T02:33:27Z",
+  "totale_file": 25435,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -139175,7 +139175,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4423,
+      "totale_file": 4429,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -143791,6 +143791,30 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A/COLDLINE 300807_16525_MODULO_CERT_FIRMAD_CLI-signed.pdf"
             },
             {
+              "nome": "Estrattoconto (1).pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mpa4pd8ec5eh15zckyhcf/Estrattoconto-1.pdf?rlkey=9g8h2a8ygs2pp2t6bqylo229j&dl=0?raw=1",
+              "dimensione_kb": 167,
+              "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A/Estrattoconto (1).pdf"
+            },
+            {
+              "nome": "Estrattoconto (2) CONTRATTO 2024.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8wf5006ivgmrgl6mhz6f4/Estrattoconto-2-CONTRATTO-2024.pdf?rlkey=g5kip7apn53puow21psw3sobj&dl=0?raw=1",
+              "dimensione_kb": 171,
+              "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A/Estrattoconto (2) CONTRATTO 2024.pdf"
+            },
+            {
+              "nome": "Estrattoconto.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iihjwrdxyyda7xdlwvz4v/Estrattoconto.pdf?rlkey=bc0d686mck2r8wwxkxhzt45av&dl=0?raw=1",
+              "dimensione_kb": 168,
+              "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A/Estrattoconto.pdf"
+            },
+            {
               "nome": "MODULAR 300807_16537_ANTIRIC-signed.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -143821,9 +143845,25 @@
               "link": "https://www.dropbox.com/scl/fi/c9hqtmg3n4zmojooqhfed/MODULAR-300807_16537_MODULO_CERT_FIRMAD_CLI-signed.pdf?rlkey=u3z4ed2hj8aors367364o3ul0&dl=0?raw=1",
               "dimensione_kb": 232,
               "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A/MODULAR 300807_16537_MODULO_CERT_FIRMAD_CLI-signed.pdf"
+            },
+            {
+              "nome": "PianoFinanziario (1).pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pi5vdhjxh11zljmkte7sb/PianoFinanziario-1.pdf?rlkey=c0nuevzuclpeep9sa2bhce8eb&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A/PianoFinanziario (1).pdf"
+            },
+            {
+              "nome": "PianoFinanziario.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6d9s695luekmfzao4gv7r/PianoFinanziario.pdf?rlkey=sshatgzs7f7pttil360yyvzvn&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A/PianoFinanziario.pdf"
             }
           ],
-          "_totale_file": 10
+          "_totale_file": 15
         },
         {
           "nome": "BECKERS",
@@ -154253,7 +154293,7 @@
               "nome": "COMENDA LISTINO RICAMBI 09-01.12.18.xls",
               "tipo": "Excel",
               "icona": "📊",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/eyts77yrydjqln6nzsv59/COMENDA-LISTINO-RICAMBI-09-01.12.18.xls?rlkey=2kko5c0b4jhs44o397ynxt9w6&dl=0?raw=1",
               "dimensione_kb": 457,
               "path": "/HUB DOCUMENTALE/FORNITORI/DA ARCHIVIARE/COMENDA LISTINO RICAMBI 09-01.12.18.xls"
             },
@@ -170877,6 +170917,22 @@
             }
           ],
           "_totale_file": 22
+        },
+        {
+          "nome": "LS TRASPORTI",
+          "path": "/HUB DOCUMENTALE/FORNITORI/LS TRASPORTI",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "20260051240_docXml.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/waedhfbw43x76sl7a8nla/20260051240_docXml.xml?rlkey=wz5xewsj87g9z8c2u3n3jizkq&dl=0?raw=1",
+              "dimensione_kb": 1,
+              "path": "/HUB DOCUMENTALE/FORNITORI/LS TRASPORTI/20260051240_docXml.xml"
+            }
+          ],
+          "_totale_file": 1
         },
         {
           "nome": "LVA VETRINE",
