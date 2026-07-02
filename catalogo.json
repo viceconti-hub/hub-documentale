@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-02T02:33:27Z",
-  "totale_file": 25435,
+  "generato": "2026-07-02T05:28:29Z",
+  "totale_file": 25447,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6065,
+      "totale_file": 6077,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -728,6 +728,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FOODEX SRL Consegna_260399_20260612_105657 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf"
             },
             {
+              "nome": "FORASTIERO FRANCESCO Consegna_260502_20260701_091645.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/h4q8zj6h1jqibd8v9i4zi/FORASTIERO-FRANCESCO-Consegna_260502_20260701_091645.pdf?rlkey=at6iqhpcy7tc4yrrtuplf4yrn&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FORASTIERO FRANCESCO Consegna_260502_20260701_091645.pdf"
+            },
+            {
               "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Consegna_260402_20260612_141939 RIF. FILTRI PER CENTRALINA A CARONI ATTIVI Basato su Offerte di v FILTRI PER CENTRALINA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1160,6 +1168,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO Consegna_260467_20260625_193250 RIF. ASSISTENZA SU ABBATTITORE VISION COLDLINE W10H SOSTITUZIONE.pdf"
             },
             {
+              "nome": "LA CAMBUSA SRL RISTORANTE Consegna_260497_20260630_140618 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260246..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/l53hoan0akntdl8xy7a7f/LA-CAMBUSA-SRL-RISTORANTE-Consegna_260497_20260630_140618-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260246..pdf?rlkey=s83e0taoznzr2sim264wm2tez&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA CAMBUSA SRL RISTORANTE Consegna_260497_20260630_140618 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260246..pdf"
+            },
+            {
               "nome": "LA FONTANELLA DI LUCIA ARLEO E NATALE Consegna_260398_20260612_102341 RIF. PALETTINO PIZZA FORATO INOX Ø 17 CM, L MANICO CM 150.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1374,6 +1390,30 @@
               "link": "https://www.dropbox.com/scl/fi/395sl4ch9fs1900sba53p/M-M-SRL-Consegna_260403_20260612_141955-RIF.-CAVALLETTO-SUPPORTO-PER-FORNO-Basato-su-Ordini-cliente-26014-CAVALLETTO-SUPPORTO-PER-FORNO.pdf?rlkey=xfc783xkwi4hscjmor6zlcjkp&dl=0?raw=1",
               "dimensione_kb": 50,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/M&M SRL Consegna_260403_20260612_141955 RIF. CAVALLETTO SUPPORTO PER FORNO Basato su Ordini cliente 26014 CAVALLETTO SUPPORTO  PER FORNO.pdf"
+            },
+            {
+              "nome": "M&M SRL Consegna_260499_20260701_081752 RIF. TAVOLI A GIORNO 80X90 QTA' 4 Basato su Ordini cliente 260117.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nni22tehnymjzfpmqozwm/M-M-SRL-Consegna_260499_20260701_081752-RIF.-TAVOLI-A-GIORNO-80X90-QTA-4-Basato-su-Ordini-cliente-260117.pdf?rlkey=ravmyqk9alhzgjqgse12uvdc4&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/M&M SRL Consegna_260499_20260701_081752 RIF. TAVOLI A GIORNO 80X90 QTA' 4 Basato su Ordini cliente 260117.pdf"
+            },
+            {
+              "nome": "M&M SRL Consegna_260500_20260701_081819 RIF. ARREDO INOX + BASAMENTO ARISTARCO Basato su Offerte di vendi.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gs4pzu2ud3j22tuozqmaw/M-M-SRL-Consegna_260500_20260701_081819-RIF.-ARREDO-INOX-BASAMENTO-ARISTARCO-Basato-su-Offerte-di-vendi.pdf?rlkey=q78ry6pwrratnv5ooapotuca6&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/M&M SRL Consegna_260500_20260701_081819 RIF. ARREDO INOX + BASAMENTO ARISTARCO Basato su Offerte di vendi.pdf"
+            },
+            {
+              "nome": "M&M SRL Consegna_260501_20260701_085052 RIF. SOLO PER CONSEGNA DATA AGGIORNAMENTO TESTO LIBERO 28_02_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0mt5hczo05n4l256oryf7/M-M-SRL-Consegna_260501_20260701_085052-RIF.-SOLO-PER-CONSEGNA-DATA-AGGIORNAMENTO-TESTO-LIBERO-28_02_2026.pdf?rlkey=xhka8608xuphgtdbonw90hi6h&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/M&M SRL Consegna_260501_20260701_085052 RIF. SOLO PER CONSEGNA DATA AGGIORNAMENTO TESTO LIBERO 28_02_2026.pdf"
             },
             {
               "nome": "MACELLERIA LOSARDO GIOVANNINO Consegna_260364_20260603_092738 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
@@ -1752,6 +1792,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Consegna_260472_20260626_081317 RIF. HOTELLERIE.pdf"
             },
             {
+              "nome": "SANTOS SRL Consegna_260496_20260630_140012 RIF. BACK BAR Basato su Offerte di vendita 260139. Basato su Ordi.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7vicuelnlbe6zyjazdi5j/SANTOS-SRL-Consegna_260496_20260630_140012-RIF.-BACK-BAR-Basato-su-Offerte-di-vendita-260139.-Basato-su-Ordi.pdf?rlkey=vxw3tauacod5mjilu1fcq5oim&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SANTOS SRL Consegna_260496_20260630_140012 RIF. BACK BAR Basato su Offerte di vendita 260139. Basato su Ordi.pdf"
+            },
+            {
+              "nome": "SANTOS SRL Consegna_260498_20260630_162455 RIF. DETERGENTE PER FORNI E GONG.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qw1xiidij2nqmmjdaz6th/SANTOS-SRL-Consegna_260498_20260630_162455-RIF.-DETERGENTE-PER-FORNI-E-GONG.pdf?rlkey=wed39qdi94uk37yih1518npuq&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SANTOS SRL Consegna_260498_20260630_162455 RIF. DETERGENTE PER FORNI E GONG.pdf"
+            },
+            {
               "nome": "SIRTAKI S.R.L.S Consegna_260287_20260523_093606 RIF. DETERGENTE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1960,7 +2016,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 243
+          "_totale_file": 250
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -2576,6 +2632,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO Fattura di vendita_2600237_20260625_193621 RIF. ASSISTENZA SU ABBATTITORE VISION COLDLINE W10H SOSTITUZIONE.pdf"
             },
             {
+              "nome": "LA CAMBUSA SRL RISTORANTE Fattura di vendita_2600252_20260630_140637 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260246. Basato.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ltto161r67ga5g55p8x5t/LA-CAMBUSA-SRL-RISTORANTE-Fattura-di-vendita_2600252_20260630_140637-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260246.-Basato.pdf?rlkey=gif1cihuqmj9rzxz9k41bfcxn&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LA CAMBUSA SRL RISTORANTE Fattura di vendita_2600252_20260630_140637 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260246. Basato.pdf"
+            },
+            {
               "nome": "LA PERLA DEL TIRRENO SRLS Fattura di vendita_2500283_20260603_224554 RIF. DET RATIONAL Basato su Ordini cliente 250384..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3104,7 +3168,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 142
+          "_totale_file": 143
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -3608,6 +3672,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO POINT BREAK Offerta di vendita_260163_20260514_202046 RIF. TAVOLO A GIORNO 150 X 70.pdf"
             },
             {
+              "nome": "LIDO VALENTINA DI LOPEZ ANTONIO Offerta di vendita_260242_20260701_102415.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/up9nkx4w80uoddpgkeai6/LIDO-VALENTINA-DI-LOPEZ-ANTONIO-Offerta-di-vendita_260242_20260701_102415.pdf?rlkey=mj5thyr4tir0ik6gpml2vuh4h&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO VALENTINA DI LOPEZ ANTONIO Offerta di vendita_260242_20260701_102415.pdf"
+            },
+            {
               "nome": "LIDO VALENTINA Offerta di vendita_260190_20260528_125349.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3920,7 +3992,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 101
+          "_totale_file": 102
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -5589,6 +5661,30 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_07_01 BASILICATA GRANTOUR TERMOSIGILLATRICE ATM",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_01 BASILICATA GRANTOUR TERMOSIGILLATRICE ATM",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Semiautomatic MAP tray sealers.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/f16rsw6aqiudavjej99zs/Semiautomatic-MAP-tray-sealers.pdf?rlkey=7rz4mnt3ubb8o3dvl5ejnrl4u&dl=0?raw=1",
+                  "dimensione_kb": 14951,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_01 BASILICATA GRANTOUR TERMOSIGILLATRICE ATM/Semiautomatic MAP tray sealers.pdf"
+                },
+                {
+                  "nome": "VALKO_price list.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qe74vlwiyd63309nsy91i/VALKO_price-list.pdf?rlkey=crxrxi44uxxx3456xyl2a4anl&dl=0?raw=1",
+                  "dimensione_kb": 580,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_01 BASILICATA GRANTOUR TERMOSIGILLATRICE ATM/VALKO_price list.pdf"
+                }
+              ],
+              "_totale_file": 2
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -61723,7 +61819,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5462
+          "_totale_file": 5464
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -62299,6 +62395,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO Ordine cliente_260219_20260618_185929 RIF. DETERGENTE RATIONAL ROSSO.pdf"
             },
             {
+              "nome": "LA CAMBUSA SRL RISTORANTE Ordine cliente_260246_20260630_140608 RIF. DETERGENTE RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lh91k1ixepyonzoia7cgi/LA-CAMBUSA-SRL-RISTORANTE-Ordine-cliente_260246_20260630_140608-RIF.-DETERGENTE-RATIONAL.pdf?rlkey=4szm0rxgi0l89nhhr1lgtebm6&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA CAMBUSA SRL RISTORANTE Ordine cliente_260246_20260630_140608 RIF. DETERGENTE RATIONAL.pdf"
+            },
+            {
               "nome": "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Ordine cliente_260233_20260625_113001 RIF. DETERGENTE RATINAL VERDE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62667,7 +62771,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/YOU MARINA S.R.L. Ordine cliente_260221_20260619_094238 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf"
             }
           ],
-          "_totale_file": 117
+          "_totale_file": 118
         }
       ],
       "file": []
