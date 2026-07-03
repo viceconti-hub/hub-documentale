@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-02T08:48:36Z",
-  "totale_file": 25451,
+  "generato": "2026-07-03T00:30:57Z",
+  "totale_file": 25456,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -67374,7 +67374,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7210,
+      "totale_file": 7215,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -68450,7 +68450,7 @@
                   "nome": "d9d2adfe-4975-4a22-84ed-7ae422cc1f8c.jpg",
                   "tipo": "Immagine",
                   "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/4ll6vcyv8o5h44e79evzg/d9d2adfe-4975-4a22-84ed-7ae422cc1f8c.jpg?rlkey=14r2bfkz8xyoyd91ebiegbjs2&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 70,
                   "path": "/HUB DOCUMENTALE/CLIENTI/CASTELLUCCIO/BLUE MOON/d9d2adfe-4975-4a22-84ed-7ae422cc1f8c.jpg"
                 }
@@ -72573,9 +72573,17 @@
               "link": "https://www.dropbox.com/scl/fi/ayb48yrlv9f49g01tfc8d/Granocielo-SRL-Consegna_260145_20260326_192810.pdf?rlkey=oqcp8cv4bzz8uwdxp4owk4zh6&dl=0?raw=1",
               "dimensione_kb": 59,
               "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/Granocielo SRL Consegna_260145_20260326_192810.pdf"
+            },
+            {
+              "nome": "VILLAGE SRLS Dettaglio bonifico DEL 02_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/46dcn29oz3poij1gxt12l/VILLAGE-SRLS-Dettaglio-bonifico-DEL-02_07_2026.pdf?rlkey=ckfuev58z0qxp15l9rbsr7b5p&dl=0?raw=1",
+              "dimensione_kb": 102,
+              "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/VILLAGE SRLS Dettaglio bonifico DEL 02_07_2026.pdf"
             }
           ],
-          "_totale_file": 283
+          "_totale_file": 284
         },
         {
           "nome": "COSENZA",
@@ -100374,12 +100382,36 @@
               ],
               "file": [
                 {
+                  "nome": "10AllegatoLDSANfornitorebeniusati CORRETTA.docx",
+                  "tipo": "Word",
+                  "icona": "📝",
+                  "link": "https://www.dropbox.com/scl/fi/qwob7jpg1yj4k9pn7qra7/10AllegatoLDSANfornitorebeniusati-CORRETTA.docx?rlkey=bynyhqdccptkf2xnw703yq56o&dl=0?raw=1",
+                  "dimensione_kb": 432,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/10AllegatoLDSANfornitorebeniusati CORRETTA.docx"
+                },
+                {
+                  "nome": "10AllegatoLDSANfornitorebeniusati.docx",
+                  "tipo": "Word",
+                  "icona": "📝",
+                  "link": "https://www.dropbox.com/scl/fi/ftbf5s9j86sow7wrv3dkk/10AllegatoLDSANfornitorebeniusati.docx?rlkey=38azap11lirkdgyf9q8p4zmsc&dl=0?raw=1",
+                  "dimensione_kb": 465,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/10AllegatoLDSANfornitorebeniusati.docx"
+                },
+                {
                   "nome": "BOZZA FATTURA FORNITURA ATTREZZATURE 06_2021.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/520h4kj5yqucetcor6um7/BOZZA-FATTURA-FORNITURA-ATTREZZATURE-06_2021.pdf?rlkey=dnwbuh8vp4myp3ect3qay3yh0&dl=0?raw=1",
                   "dimensione_kb": 153,
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/BOZZA FATTURA FORNITURA ATTREZZATURE 06_2021.pdf"
+                },
+                {
+                  "nome": "DICHIARAZIONE DEL FORNITORE IN CASO DI ACQUISTO DI BENI USATI 30_06_2026 CORRETTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6ifkvcqy31sm2zovgrazy/DICHIARAZIONE-DEL-FORNITORE-IN-CASO-DI-ACQUISTO-DI-BENI-USATI-30_06_2026-CORRETTA.pdf?rlkey=ocsfju3sfkqofc0esiknqm86s&dl=0?raw=1",
+                  "dimensione_kb": 625,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/DICHIARAZIONE DEL FORNITORE IN CASO DI ACQUISTO DI BENI USATI 30_06_2026 CORRETTA.pdf"
                 },
                 {
                   "nome": "DICHIARAZIONE DEL FORNITORE IN CASO DI ACQUISTO DI BENI USATI 30_06_2026.pdf",
@@ -100614,6 +100646,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/UCB_UCN_UCV_01 EN.pdf"
                 },
                 {
+                  "nome": "dichiarazione beni usati.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d9vygnpwuunq78r4gchnv/dichiarazione-beni-usati.pdf?rlkey=657dcaxmilbgsthsrp0rj0aki&dl=0?raw=1",
+                  "dimensione_kb": 1708,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/dichiarazione beni usati.pdf"
+                },
+                {
                   "nome": "image.png",
                   "tipo": "Immagine",
                   "icona": "🖼️",
@@ -100630,7 +100670,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/stampaDisposizione_20240712190649.pdf"
                 }
               ],
-              "_totale_file": 35
+              "_totale_file": 39
             },
             {
               "nome": "IL MORO HYDRA",
@@ -105266,7 +105306,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 913
+          "_totale_file": 917
         },
         {
           "nome": "MARCELLINA",
