@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-04T00:24:51Z",
-  "totale_file": 25456,
+  "generato": "2026-07-04T02:23:38Z",
+  "totale_file": 25458,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -139319,7 +139319,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4429,
+      "totale_file": 4431,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -146346,6 +146346,14 @@
           ],
           "file": [
             {
+              "nome": "100.COLDLINE LISTINO listino-coldline-2025---it.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2drzsfkmldn4opq1u6njc/100.COLDLINE-LISTINO-listino-coldline-2025-it.pdf?rlkey=h17anajq4rp456nqi04v4izez&dl=0?raw=1",
+              "dimensione_kb": 23454,
+              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/100.COLDLINE LISTINO listino-coldline-2025---it.pdf"
+            },
+            {
               "nome": "BCC LEASE 2026.01.23-0_AccettazioneFF_300807_16537_KR.381830_KF.0-signed.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -146450,7 +146458,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/wetransfer_01-w5-w6-firmware-v124_2025-07-21_0753.zip"
             }
           ],
-          "_totale_file": 110
+          "_totale_file": 111
         },
         {
           "nome": "COLDMARK",
@@ -167618,6 +167626,22 @@
             }
           ],
           "_totale_file": 14
+        },
+        {
+          "nome": "ILLY",
+          "path": "/HUB DOCUMENTALE/FORNITORI/ILLY",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "modulo anagrafica fornitore ITA.docx",
+              "tipo": "Word",
+              "icona": "📝",
+              "link": "https://www.dropbox.com/scl/fi/04b79ks7kk7o4muta89c5/modulo-anagrafica-fornitore-ITA.docx?rlkey=vxgby75sosvfdi32dnzb236nb&dl=0?raw=1",
+              "dimensione_kb": 40,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ILLY/modulo anagrafica fornitore ITA.docx"
+            }
+          ],
+          "_totale_file": 1
         },
         {
           "nome": "ILSA",
