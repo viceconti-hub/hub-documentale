@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-05T00:19:31Z",
-  "totale_file": 25459,
+  "generato": "2026-07-05T02:16:22Z",
+  "totale_file": 25462,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -139327,7 +139327,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4431,
+      "totale_file": 4434,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -164469,9 +164469,17 @@
                   "link": "https://www.dropbox.com/scl/fi/aouzu8fp7hmkwwqi28760/Gmail-Grenke-Italia-SPA-VICECONTI-SNC-DI-ANTONIO-E-PROSPERO-Contratti-19548382-19550840.pdf?rlkey=xmc3cu03mtbwm2e284jptvmtk&dl=0?raw=1",
                   "dimensione_kb": 242,
                   "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/VICECONTI SNC GRENKE FATTURE SPESE E CONTRATTI/Gmail - Grenke Italia SPA VICECONTI SNC DI ANTONIO E PROSPERO Contratti 19548382 - 19550840.pdf"
+                },
+                {
+                  "nome": "Grenke CONTRATTO 19550840 3.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/af19uaglea87w6rvsl8yk/Grenke-CONTRATTO-19550840-3.pdf?rlkey=8iqqo0jyu845lu4qw1y761cnc&dl=0?raw=1",
+                  "dimensione_kb": 324,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/VICECONTI SNC GRENKE FATTURE SPESE E CONTRATTI/Grenke CONTRATTO 19550840 3.pdf"
                 }
               ],
-              "_totale_file": 5
+              "_totale_file": 6
             }
           ],
           "file": [
@@ -164548,7 +164556,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/ce 062410722.pdf"
             }
           ],
-          "_totale_file": 476
+          "_totale_file": 477
         },
         {
           "nome": "GRILLO ITALO GRILLO ANNARITA",
@@ -167641,6 +167649,14 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "ILLY DATI ANAGRAFICI VICECONTI SNC 04_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4gaupinb6ryghfj3oec9v/ILLY-DATI-ANAGRAFICI-VICECONTI-SNC-04_07_2026.pdf?rlkey=4y0rjb3n4gan66ptrzlukmodz&dl=0?raw=1",
+              "dimensione_kb": 437,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ILLY/ILLY DATI ANAGRAFICI VICECONTI SNC 04_07_2026.pdf"
+            },
+            {
               "nome": "modulo anagrafica fornitore ITA.docx",
               "tipo": "Word",
               "icona": "📝",
@@ -167649,7 +167665,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ILLY/modulo anagrafica fornitore ITA.docx"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 2
         },
         {
           "nome": "ILSA",
@@ -171106,9 +171122,17 @@
               "link": "https://www.dropbox.com/scl/fi/waedhfbw43x76sl7a8nla/20260051240_docXml.xml?rlkey=wz5xewsj87g9z8c2u3n3jizkq&dl=0?raw=1",
               "dimensione_kb": 1,
               "path": "/HUB DOCUMENTALE/FORNITORI/LS TRASPORTI/20260051240_docXml.xml"
+            },
+            {
+              "nome": "LS TRASPORTI QUESTIONARIO FINANZA 20260051240.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tup0cp49gt7vajpn8a99a/LS-TRASPORTI-QUESTIONARIO-FINANZA-20260051240.pdf?rlkey=ii4j388jyhkcfqq6jtkvbkn4s&dl=0?raw=1",
+              "dimensione_kb": 100,
+              "path": "/HUB DOCUMENTALE/FORNITORI/LS TRASPORTI/LS TRASPORTI QUESTIONARIO FINANZA 20260051240.pdf"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 2
         },
         {
           "nome": "LVA VETRINE",
