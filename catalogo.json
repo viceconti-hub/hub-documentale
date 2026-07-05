@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-04T02:23:38Z",
-  "totale_file": 25458,
+  "generato": "2026-07-05T00:19:31Z",
+  "totale_file": 25459,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -67374,7 +67374,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7215,
+      "totale_file": 7216,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -113866,6 +113866,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ILAMA di D'ARCO PASQUALE/ATTREZZATURE - Fattura Anticipo n. 2510002 sel 11 03 2025.pdf"
                 },
                 {
+                  "nome": "DE LUCA PREVENTIVO 26_00295 VICECONTI S.N.C. DI ANTONIO E PROSPERO VICECONTI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mnts3tg3f7hjpdsu0ts5s/DE-LUCA-PREVENTIVO-26_00295-VICECONTI-S.N.C.-DI-ANTONIO-E-PROSPERO-VICECONTI.pdf?rlkey=mkz9jqrovmqsdrd6j0q39aoys&dl=0?raw=1",
+                  "dimensione_kb": 759,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ILAMA di D'ARCO PASQUALE/DE LUCA PREVENTIVO 26_00295 VICECONTI S.N.C. DI ANTONIO E PROSPERO VICECONTI.pdf"
+                },
+                {
                   "nome": "Elenco_movimenti_15102025122626 bonifici al 15_10_2025.xls",
                   "tipo": "Excel",
                   "icona": "📊",
@@ -113922,7 +113930,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ILAMA di D'ARCO PASQUALE/MODELLO SITUAZIONE CONTABILE ILAMA 21_10_2025.xlsx"
                 }
               ],
-              "_totale_file": 13
+              "_totale_file": 14
             },
             {
               "nome": "IMMOBILIARE LA CASETTA",
@@ -118191,7 +118199,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 689
+          "_totale_file": 690
         },
         {
           "nome": "RIMINI",
