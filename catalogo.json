@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-06T05:30:35Z",
-  "totale_file": 25531,
+  "generato": "2026-07-06T07:32:39Z",
+  "totale_file": 25532,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -182503,7 +182503,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4838,
+      "totale_file": 4839,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -223460,6 +223460,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260148_20260624_105344.pdf"
             },
             {
+              "nome": "SIRMAN CONFERMA ORDINE RIF. RICAMBI SOTTOVUOTO VE.RO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gbv0jc6ggte2fsb0f2dt7/SIRMAN-CONFERMA-ORDINE-RIF.-RICAMBI-SOTTOVUOTO-VE.RO.pdf?rlkey=edkt4oi22zo1yrhimlmnrrn4d&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE RIF. RICAMBI SOTTOVUOTO VE.RO.pdf"
+            },
+            {
               "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -223500,7 +223508,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260141_20260618_201723 RIF. AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217..pdf"
             }
           ],
-          "_totale_file": 3695
+          "_totale_file": 3696
         }
       ],
       "file": [
