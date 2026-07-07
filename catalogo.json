@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-07T05:38:44Z",
-  "totale_file": 25583,
+  "generato": "2026-07-07T07:42:22Z",
+  "totale_file": 25587,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -182927,7 +182927,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4839,
+      "totale_file": 4843,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -183711,6 +183711,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SIRMAN spa Entrata merci da fornitore_260068_20260520_171929 RIF. Basato su Ordini cliente 260082.De Michele Alejandro s.a.s..pdf"
             },
             {
+              "nome": "SIRMAN spa Entrata merci da fornitore_260137_20260705_182006 RIF. Basato su Ordini d'acquisto 260087. 260102..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f5b9p2xaanudkew902rv1/SIRMAN-spa-Entrata-merci-da-fornitore_260137_20260705_182006-RIF.-Basato-su-Ordini-d-acquisto-260087.-260102..pdf?rlkey=ngip2x00pxoyraprv8u7qprf6&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SIRMAN spa Entrata merci da fornitore_260137_20260705_182006 RIF. Basato su Ordini d'acquisto 260087. 260102..pdf"
+            },
+            {
               "nome": "STAFF Conferma prenotazione ritiro.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -183759,7 +183767,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 103
+          "_totale_file": 104
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -223740,6 +223748,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf"
             },
             {
+              "nome": "COLDLINE Conferma ordine n°26-11538 RIF.FLAVI DE MARCO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3v1z91ijpahvmftzisjhy/COLDLINE-Conferma-ordine-n-26-11538-RIF.FLAVI-DE-MARCO.pdf?rlkey=1bc7r28imwhig4ihsmtnj75rb&dl=0?raw=1",
+              "dimensione_kb": 79,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-11538 RIF.FLAVI DE MARCO.pdf"
+            },
+            {
               "nome": "COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx - collegamento.lnk",
               "tipo": "File",
               "icona": "📎",
@@ -223794,6 +223810,14 @@
               "link": "https://www.dropbox.com/scl/fi/njdvnz712dllt4qx7a19v/MECNOSUD-S.R.L.-Ordine-dacquisto_260044_20260513_183524-RIF.-MeM-IMPASTATRICE-IM25D.pdf?rlkey=hp0yr9vbprflm5ddwtg6kzyl9&dl=0?raw=1",
               "dimensione_kb": 58,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MECNOSUD S.R.L. Ordine dacquisto_260044_20260513_183524 RIF. MeM IMPASTATRICE IM25D.pdf"
+            },
+            {
+              "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.TICCIABACA .pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wvkbfej92mxazbgmjobk4/MODULAR-CONFERMA-MD_SaleOrdForm_2022-RIF.TICCIABACA.pdf?rlkey=4mdonqtcs65flgytci7kz0l9z&dl=0?raw=1",
+              "dimensione_kb": 129,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.TICCIABACA .pdf"
             },
             {
               "nome": "MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF. SANTA LUCIA GRIGLIE IN GHISA.pdf",
@@ -223892,6 +223916,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE RIF. RICAMBI SOTTOVUOTO VE.RO.pdf"
             },
             {
+              "nome": "SIRMAN spa Ordine dacquisto_260154_20260705_175443 RIF. GUARNIZIONE CAMPAMA E KIT MANICOTTO SOTTOVUOTO VE.RO..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1lq4s2jikcb87jgrms8qp/SIRMAN-spa-Ordine-dacquisto_260154_20260705_175443-RIF.-GUARNIZIONE-CAMPAMA-E-KIT-MANICOTTO-SOTTOVUOTO-VE.RO..pdf?rlkey=kx0id5pmtsozrrgu48dhgdwu9&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260154_20260705_175443 RIF. GUARNIZIONE CAMPAMA E KIT MANICOTTO SOTTOVUOTO VE.RO..pdf"
+            },
+            {
               "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -223932,7 +223964,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260141_20260618_201723 RIF. AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217..pdf"
             }
           ],
-          "_totale_file": 3696
+          "_totale_file": 3699
         }
       ],
       "file": [
