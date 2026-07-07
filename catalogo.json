@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-07T02:37:27Z",
-  "totale_file": 25535,
+  "generato": "2026-07-07T05:38:44Z",
+  "totale_file": 25583,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6109,
+      "totale_file": 6157,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -62,6 +62,14 @@
               "link": "https://www.dropbox.com/scl/fi/ixl4m0hioiqayp7ttqipa/4.0-SRLS-YUMARA-Consegna_260449_20260624_095114-RIF.-BIDONI-MORINI-Basato-su-Ordini-cliente-260181..pdf?rlkey=t9dlxw32iti783jfgbyiq1c7y&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/4.0 SRLS YUMARA Consegna_260449_20260624_095114 RIF. BIDONI MORINI Basato su Ordini cliente 260181..pdf"
+            },
+            {
+              "nome": "4.0 SRLS YUMARA Consegna_260527_20260705_194324 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO SOSTITUZIONE OLIO ASSISTEN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yazubbm8z6ri6utn2p262/4.0-SRLS-YUMARA-Consegna_260527_20260705_194324-RIF.-ASSISTENZA-SU-MACCHINA-SOTTOVUOTO-SOSTITUZIONE-OLIO-ASSISTEN.pdf?rlkey=jemqw2shiaoagsy5itkdxzqlf&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/4.0 SRLS YUMARA Consegna_260527_20260705_194324 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO SOSTITUZIONE OLIO ASSISTEN.pdf"
             },
             {
               "nome": "A.M. di Antonella Mancino s.a.s. CABOSSA Consegna_260357_20260602_223636 RIF. ASSISTENZA SU MIXER GELATERIA REVISIONE ASTE.pdf",
@@ -152,6 +160,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Consegna_260512_20260703_193535 RIF. APRISCATOLE Basato su Ordini cliente 260183..pdf"
             },
             {
+              "nome": "AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Consegna_260545_20260706_132322 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA IMF 35W-Q MATRICO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/t571juoivfic4yond6f2c/AGRITURISMO-L-AIA-DEI-CAPPELLANI-di-RICCARDI-VINCENZO-Consegna_260545_20260706_132322-RIF.-ASSISTENZA-SU-PRODUTTORE-DI-GHIACCIO-BREMA-IMF-35W-Q-MATRICO.pdf?rlkey=ai29savirba773ruh290hb037&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Consegna_260545_20260706_132322 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA IMF 35W-Q MATRICO.pdf"
+            },
+            {
               "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Consegna_260404_20260612_142014 RIF. VENTILATORE E INVERTER Basato su Ordini cliente 260136. VENTILATORE E INVERTER.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -240,6 +256,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR MILLE VOGLIE DI D'ANDREA SALVATORE ANDREA Consegna_260431_20260618_173047 RIF. Riempi Bigne' Inox Basato su Offerte di vendita 260111. Basa.pdf"
             },
             {
+              "nome": "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Consegna_260530_20260705_200000 RIF. DETERGENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qfpdhwm5kug9fdz8j2m4y/BAR-RISTORANTE-DA-GIOVANNI-di-SCHETTINI-DOMENICA-Consegna_260530_20260705_200000-RIF.-DETERGENTE.pdf?rlkey=7zz05oct3o37n3h7utqk8kko2&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Consegna_260530_20260705_200000 RIF. DETERGENTE.pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Consegna_260531_20260705_200424 RIF. VASSOI SERVIZIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1mh8ln2wmwxkahh94bys4/BAR-RISTORANTE-DA-GIOVANNI-di-SCHETTINI-DOMENICA-Consegna_260531_20260705_200424-RIF.-VASSOI-SERVIZIO.pdf?rlkey=yajqfu1cc7fpygp9a301abfso&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Consegna_260531_20260705_200424 RIF. VASSOI SERVIZIO.pdf"
+            },
+            {
               "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260297_20260527_091447 RIF. LAVASTOVIGLIE AF50.35E IN COMODATO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -270,6 +302,14 @@
               "link": "https://www.dropbox.com/scl/fi/0coyp9woth1fnb7feuepw/BOTTEGA-63-SRLS-Consegna_260300_20260527_091803-RIF.-LAVABAR-COMODATO.pdf?rlkey=yn9ksfsaew30f14k1zu7fm0wo&dl=0?raw=1",
               "dimensione_kb": 50,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BOTTEGA 63 SRLS Consegna_260300_20260527_091803 RIF. LAVABAR COMODATO.pdf"
+            },
+            {
+              "nome": "BOTTEGA 63 SRLS Consegna_260535_20260705_201610 RIF. PRODUTTORE DI GHIACCIO ARISTARCO CP 25.6 W IN COMODATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lusz59v3gm0g37rtqqiaw/BOTTEGA-63-SRLS-Consegna_260535_20260705_201610-RIF.-PRODUTTORE-DI-GHIACCIO-ARISTARCO-CP-25.6-W-IN-COMODATO.pdf?rlkey=i5b5jqbvzchnejm0eibqcv3xh&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BOTTEGA 63 SRLS Consegna_260535_20260705_201610 RIF. PRODUTTORE DI GHIACCIO ARISTARCO CP 25.6 W IN COMODATO.pdf"
             },
             {
               "nome": "Billy Bar di SCALDAFERRI PIETRO Consegna_260325_20260531_102233 RIF. ASSISTENZA SU FAEMA EMBLEMA A2 MANUTENZIONE ORDINARIA GRUPPI.pdf",
@@ -414,6 +454,14 @@
               "link": "https://www.dropbox.com/scl/fi/t95ake9uz5r20cm0h0nxi/CENTRAL-MARKET-SNC-DI-FORESTIERI-G.-ZACCAGNINO-R.-Consegna_260371_20260604_094834-RIF.-COFFEE-CEAN.pdf?rlkey=ucj5puhi9smit8a7t4zls6dgi&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CENTRAL MARKET SNC DI FORESTIERI G. & ZACCAGNINO R. Consegna_260371_20260604_094834 RIF. COFFEE CEAN.pdf"
+            },
+            {
+              "nome": "CENTRAL MARKET SNC DI FORESTIERI G. & ZACCAGNINO R. Consegna_260534_20260705_201501 RIF. PRODUTTORE DI GHIACCIO BREMA CB 184W HC IN COMODATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oij921omcbj5q5x7xewc5/CENTRAL-MARKET-SNC-DI-FORESTIERI-G.-ZACCAGNINO-R.-Consegna_260534_20260705_201501-RIF.-PRODUTTORE-DI-GHIACCIO-BREMA-CB-184W-HC-IN-COMODATO.pdf?rlkey=4jerxunj13ay7hm88iifd2j2n&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CENTRAL MARKET SNC DI FORESTIERI G. & ZACCAGNINO R. Consegna_260534_20260705_201501 RIF. PRODUTTORE DI GHIACCIO BREMA CB 184W HC IN COMODATO.pdf"
             },
             {
               "nome": "CENTRO BALNEARE YELLOW BOAT SAS Consegna_260349_20260602_220738 RIF. ASSISTENZA SU RATIONAL ICOMBI PRO 61 SOSTITUZIONE GUARNIZION.pdf",
@@ -592,12 +640,36 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DE FILIPPO ROCCO Consegna_260462_20260625_185926 RIF. LAVASTOVIGLIE ZANUSSI PERMUTA Basato su Offerte di vendita 2.pdf"
             },
             {
+              "nome": "DE FILIPPO ROCCO Consegna_260543_20260705_214542 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA SOSTITUZIONE ELET.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cjo2qbmukvvuefngk22pr/DE-FILIPPO-ROCCO-Consegna_260543_20260705_214542-RIF.-ASSISTENZA-SU-PRODUTTORE-DI-GHIACCIO-BREMA-SOSTITUZIONE-ELET.pdf?rlkey=if8sj2x9iky5236252w65l7o1&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DE FILIPPO ROCCO Consegna_260543_20260705_214542 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA SOSTITUZIONE ELET.pdf"
+            },
+            {
               "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260295_20260525_161329 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260169..pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/dnonv3vqznnmyhgyu7rt0/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Consegna_260295_20260525_161329-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260169..pdf?rlkey=6u12t66ifsdqp4xhakhavq03w&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260295_20260525_161329 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260169..pdf"
+            },
+            {
+              "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260539_20260705_211944 RIF. ASSISTENZA SU LAVAOGGETTI ATA ALP SOSTITUZIONE MANICOTTO POM.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0i54zo0o8mfqakjlj6kqt/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Consegna_260539_20260705_211944-RIF.-ASSISTENZA-SU-LAVAOGGETTI-ATA-ALP-SOSTITUZIONE-MANICOTTO-POM.pdf?rlkey=gdak6bdg4shkif6w3lpg5md80&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260539_20260705_211944 RIF. ASSISTENZA SU LAVAOGGETTI ATA ALP SOSTITUZIONE MANICOTTO POM.pdf"
+            },
+            {
+              "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260540_20260705_212357 RIF. GUANTI DA FORNO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g33obca1e2130g6xc9zmf/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Consegna_260540_20260705_212357-RIF.-GUANTI-DA-FORNO.pdf?rlkey=n92oiqqjyoqyh9hlx1uuunaa7&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260540_20260705_212357 RIF. GUANTI DA FORNO.pdf"
             },
             {
               "nome": "DIMAC SRL Consegna_260266_20260512_100144 RIF. DETERGENTE RATIONAL ROSSO.pdf",
@@ -632,6 +704,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DIPA di PACCHIANO LUCA & C. sas Consegna_260461_20260625_134008 RIF. INTERRUTTORE DI CONDENSA Basato su Ordini cliente 260214..pdf"
             },
             {
+              "nome": "DIPA di PACCHIANO LUCA & C. sas Consegna_260537_20260705_211422 RIF. ASSISTENZA SU GRIGLIA A PIETRA LAVICA SOSTITUZIONE PIEZO ACC.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6bkebuyq6ch5ptnv5xcq7/DIPA-di-PACCHIANO-LUCA-C.-sas-Consegna_260537_20260705_211422-RIF.-ASSISTENZA-SU-GRIGLIA-A-PIETRA-LAVICA-SOSTITUZIONE-PIEZO-ACC.pdf?rlkey=1g9apj847giep63hwuedy08b8&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DIPA di PACCHIANO LUCA & C. sas Consegna_260537_20260705_211422 RIF. ASSISTENZA SU GRIGLIA A PIETRA LAVICA SOSTITUZIONE PIEZO ACC.pdf"
+            },
+            {
               "nome": "DITTA CANTISANI MARIA Consegna_260279_20260520_112443 RIF. TRAP A ROACH HOY HOY - DISINFESTANTE TRAPPY.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -656,6 +736,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DITTA CANTISANI MARIA Consegna_260284_20260521_173436 RIF. COPPIA MACINE MAZZER MONOFASE DX.pdf"
             },
             {
+              "nome": "DITTA CANTISANI MARIA Consegna_260542_20260705_213932 RIF. GUARNIZIONI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/idkksphuxrdr63z341tdg/DITTA-CANTISANI-MARIA-Consegna_260542_20260705_213932-RIF.-GUARNIZIONI.pdf?rlkey=kd93xp1r3zlnjk7awdm50t1no&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DITTA CANTISANI MARIA Consegna_260542_20260705_213932 RIF. GUARNIZIONI.pdf"
+            },
+            {
               "nome": "DRINK & SMOKE DI CONTE GIAN PIERO Consegna_260375_20260604_131854 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -678,6 +766,14 @@
               "link": "https://www.dropbox.com/scl/fi/3lz6e2hw6fv06nc7y8x7l/ESCOPOCO-S.R.L.-Consegna_260397_20260612_095158-RIF.-GRIGLIA-A-RIGHE-E-QUADRETTI-RATIONAL-Basato-su-Offerte-di-ve.pdf?rlkey=jnbe6wafhua5bo7tykluiaku1&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ESCOPOCO S.R.L. Consegna_260397_20260612_095158 RIF. GRIGLIA A RIGHE E QUADRETTI RATIONAL Basato su Offerte di ve.pdf"
+            },
+            {
+              "nome": "ESCOPOCO S.R.L. Consegna_260524_20260705_172843 RIF. ASSISTENZA SU FORNO QUBI DECALCIFICAZIONE CIRCUITO RIEMPIMEN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gqolc9u3a96relte9ieng/ESCOPOCO-S.R.L.-Consegna_260524_20260705_172843-RIF.-ASSISTENZA-SU-FORNO-QUBI-DECALCIFICAZIONE-CIRCUITO-RIEMPIMEN.pdf?rlkey=os8mfjahn36qgkgm1uh5xn7qu&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ESCOPOCO S.R.L. Consegna_260524_20260705_172843 RIF. ASSISTENZA SU FORNO QUBI DECALCIFICAZIONE CIRCUITO RIEMPIMEN.pdf"
             },
             {
               "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_260270_20260514_103109 RIF. CONENTITORI POLIPROPILENE URGENTE.pdf",
@@ -862,6 +958,14 @@
               "link": "https://www.dropbox.com/scl/fi/gof2ht6wce3rjguqelneq/GIOIA-AURELIO-Consegna_260409_20260615_100900-RIF.-TEGLIA-IN-LAMIERA-BLU-Basato-su-Offerte-di-vendita-260183.-B.pdf?rlkey=bdsji1rjyo8s0qpbk3j29lpxi&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GIOIA AURELIO Consegna_260409_20260615_100900 RIF. TEGLIA IN LAMIERA BLU Basato su Offerte di vendita 260183. B.pdf"
+            },
+            {
+              "nome": "GMT srl unipersonale Consegna_260538_20260705_211615 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE INTERRUTTO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/94r58sgmgk3dwu8l2hu3c/GMT-srl-unipersonale-Consegna_260538_20260705_211615-RIF.-ASSISTENZA-SU-PRODUTTORE-DI-GHIACCIO-SOSTITUZIONE-INTERRUTTO.pdf?rlkey=clgbd1suiwmf5qad15q8p5q63&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GMT srl unipersonale Consegna_260538_20260705_211615 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE INTERRUTTO.pdf"
             },
             {
               "nome": "GRAN SOLE S.r.l. Consegna_260264_20260510_123412.pdf",
@@ -1150,6 +1254,22 @@
               "link": "https://www.dropbox.com/scl/fi/se34ix6zsvrqisq846eke/IL-BOSCHETTO-Srl-Consegna_260424_20260617_131034-RIF.-CUCCHIAINI-PER-DESSERT-Basato-su-Offerte-di-vendita-260193..pdf?rlkey=3brmo87v85furafjg0ruza8x0&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IL BOSCHETTO Srl Consegna_260424_20260617_131034 RIF. CUCCHIAINI PER DESSERT Basato su Offerte di vendita 260193..pdf"
+            },
+            {
+              "nome": "IL CLUBBINO PORTO di TOMMASINI STEFANO Consegna_260522_20260705_164837 RIF. GUARNIZIONI RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3pkt5vtt4rsxy92sgm9rm/IL-CLUBBINO-PORTO-di-TOMMASINI-STEFANO-Consegna_260522_20260705_164837-RIF.-GUARNIZIONI-RATIONAL.pdf?rlkey=t13sq9ztxm0n5fnlh7ybfrkcc&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IL CLUBBINO PORTO di TOMMASINI STEFANO Consegna_260522_20260705_164837 RIF. GUARNIZIONI RATIONAL.pdf"
+            },
+            {
+              "nome": "IL CLUBBINO PORTO di TOMMASINI STEFANO Consegna_260523_20260705_164922 RIF. CONSEGNA FILTRO RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/uxacfw1b0com8og4oi4ts/IL-CLUBBINO-PORTO-di-TOMMASINI-STEFANO-Consegna_260523_20260705_164922-RIF.-CONSEGNA-FILTRO-RATIONAL.pdf?rlkey=oxxpsven7tr8gemehhgva6kpl&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IL CLUBBINO PORTO di TOMMASINI STEFANO Consegna_260523_20260705_164922 RIF. CONSEGNA FILTRO RATIONAL.pdf"
             },
             {
               "nome": "IL FURANO Srl Consegna_260392_20260609_100057 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260193..pdf",
@@ -1576,6 +1696,30 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NERA SRL Consegna_260377_20260605_110151 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260186. RE.pdf"
             },
             {
+              "nome": "NERA SRL Consegna_260532_20260705_200942 RIF. ASSISTENZA SU LAVASTOVIGLIE KRUPPS EL51 MATRICOLA 202360385.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/m0f61tpgfrvinksryty69/NERA-SRL-Consegna_260532_20260705_200942-RIF.-ASSISTENZA-SU-LAVASTOVIGLIE-KRUPPS-EL51-MATRICOLA-202360385.pdf?rlkey=3esker12bf06rn2hwajy4t1nr&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NERA SRL Consegna_260532_20260705_200942 RIF. ASSISTENZA SU LAVASTOVIGLIE KRUPPS EL51 MATRICOLA 202360385.pdf"
+            },
+            {
+              "nome": "NERA SRL Consegna_260533_20260705_201107 RIF. PRODUTTORE DI GHIACCIO ARISTARCO CP 50.25W IN COMODATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ygxaolhdlo2xrczrr5roy/NERA-SRL-Consegna_260533_20260705_201107-RIF.-PRODUTTORE-DI-GHIACCIO-ARISTARCO-CP-50.25W-IN-COMODATO.pdf?rlkey=48ac2d97wg96fe934v97ldgk6&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NERA SRL Consegna_260533_20260705_201107 RIF. PRODUTTORE DI GHIACCIO ARISTARCO CP 50.25W IN COMODATO.pdf"
+            },
+            {
+              "nome": "NERA SRL Consegna_260536_20260705_205932 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260186..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pvix4j9uvbt8156323a2y/NERA-SRL-Consegna_260536_20260705_205932-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260186..pdf?rlkey=2mnqz5feq16u6g5yvny4i4q45&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NERA SRL Consegna_260536_20260705_205932 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260186..pdf"
+            },
+            {
               "nome": "NEW BAR GRAN CAFFE' srls Consegna_260411_20260615_131236 RIF. AFFETTATRICE IDEA TGL 250 Basato su Ordini cliente 260210..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1808,6 +1952,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PDM SRL Consegna_260415_20260616_080224 RIF. GUARNIZIONE PORTA SCC BONIFICO BANCARIO RICEVUTO Basato su O.pdf"
             },
             {
+              "nome": "PERRETTA SERVICE DI IMMACOLATO EGIDIO Consegna_260546_20260706_173801 RIF. SONDA PTC PVC 3000 mm.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rnz9kv9eois1sb1ox0q2v/PERRETTA-SERVICE-DI-IMMACOLATO-EGIDIO-Consegna_260546_20260706_173801-RIF.-SONDA-PTC-PVC-3000-mm.pdf?rlkey=gdsj1pkf8vuya3f3kg2wu4les&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PERRETTA SERVICE DI IMMACOLATO EGIDIO Consegna_260546_20260706_173801 RIF. SONDA PTC PVC 3000 mm.pdf"
+            },
+            {
               "nome": "PIZZERIA DA ANGELO DI IACUZIO ANGELO Consegna_260305_20260529_170408 RIF. PALETTINO PIZZA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1936,6 +2088,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SIRTAKI S.R.L.S Consegna_260452_20260625_090045 RIF. AFFETTATRICE SIRMAN IN COMODATO.pdf"
             },
             {
+              "nome": "SIRTAKI S.R.L.S Consegna_260526_20260705_192052 RIF. ASSISTENZA SU FORNO RATIONAL SOSTITUZIONE OTTICHE LED E RIPR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qx7pft1g2szlu4erhdg0h/SIRTAKI-S.R.L.S-Consegna_260526_20260705_192052-RIF.-ASSISTENZA-SU-FORNO-RATIONAL-SOSTITUZIONE-OTTICHE-LED-E-RIPR.pdf?rlkey=9ukbppvuwvqqc1qbxxp3w4fsa&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SIRTAKI S.R.L.S Consegna_260526_20260705_192052 RIF. ASSISTENZA SU FORNO RATIONAL SOSTITUZIONE OTTICHE LED E RIPR.pdf"
+            },
+            {
               "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Consegna_260316_20260531_092814 RIF. ASSISTENZA SU BOLLITORE SOSTITUZIONE UGELLO PILOTA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2048,12 +2208,44 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/THEMYSCIRA SRL Consegna_260410_20260615_120935 RIF. HOTELLERIE.pdf"
             },
             {
+              "nome": "TOURISM & BUSINESS HOTEL SRLS Consegna_260544_20260705_215206 RIF. ASSISTENZA SU FORNO QUIBI PULIZIA DISPLAY E AVVIO DECALCIFIC.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/je59pn09klw056ysdt4vg/TOURISM-BUSINESS-HOTEL-SRLS-Consegna_260544_20260705_215206-RIF.-ASSISTENZA-SU-FORNO-QUIBI-PULIZIA-DISPLAY-E-AVVIO-DECALCIFIC.pdf?rlkey=gzw1mwgrp8lcy09k158uvcfvj&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TOURISM & BUSINESS HOTEL SRLS Consegna_260544_20260705_215206 RIF. ASSISTENZA SU FORNO QUIBI PULIZIA DISPLAY E AVVIO DECALCIFIC.pdf"
+            },
+            {
+              "nome": "TRATTORIA DEL PELLEGRINO di PETTINATO GIOVANNINA Consegna_260528_20260705_195725 RIF. ASSISTENZA SU LAVASTOVIGLIE RICERCA PERDITA ACQUA, SOSTITUZI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mr6nfupqwzfa9pt3myrm9/TRATTORIA-DEL-PELLEGRINO-di-PETTINATO-GIOVANNINA-Consegna_260528_20260705_195725-RIF.-ASSISTENZA-SU-LAVASTOVIGLIE-RICERCA-PERDITA-ACQUA-SOSTITUZI.pdf?rlkey=krqgiz41rv1cgn0asxafus3v9&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TRATTORIA DEL PELLEGRINO di PETTINATO GIOVANNINA Consegna_260528_20260705_195725 RIF. ASSISTENZA SU LAVASTOVIGLIE RICERCA PERDITA ACQUA, SOSTITUZI.pdf"
+            },
+            {
+              "nome": "TRATTORIA DEL PELLEGRINO di PETTINATO GIOVANNINA Consegna_260529_20260705_195808 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zzhfqirgzr1qc3b2gyjyc/TRATTORIA-DEL-PELLEGRINO-di-PETTINATO-GIOVANNINA-Consegna_260529_20260705_195808-RIF.-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=2hehrsd7h2v1iixjzc4hzsbj9&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TRATTORIA DEL PELLEGRINO di PETTINATO GIOVANNINA Consegna_260529_20260705_195808 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
+            },
+            {
               "nome": "TURISTICA MARATEA snc di BARONE FRANCESCO & C. BAR LA COLONNA Consegna_260433_20260619_083327 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260211..pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/3uwto8wvqn3gmhs9iz33p/TURISTICA-MARATEA-snc-di-BARONE-FRANCESCO-C.-BAR-LA-COLONNA-Consegna_260433_20260619_083327-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260211..pdf?rlkey=2i268mjke786bsbqw55c6vqxb&dl=0?raw=1",
               "dimensione_kb": 61,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TURISTICA MARATEA snc di BARONE FRANCESCO & C. BAR LA COLONNA Consegna_260433_20260619_083327 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260211..pdf"
+            },
+            {
+              "nome": "ULV SRL Consegna_260541_20260705_212936 RIF. ASSISTENZA SU FORNO BECKERS FORS2 MATRICOLA 12017220249 ELIM.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/m43tgzmy01k10vzpq00c5/ULV-SRL-Consegna_260541_20260705_212936-RIF.-ASSISTENZA-SU-FORNO-BECKERS-FORS2-MATRICOLA-12017220249-ELIM.pdf?rlkey=r8z0gp1ybcl8yexeirpnq6ai6&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ULV SRL Consegna_260541_20260705_212936 RIF. ASSISTENZA SU FORNO BECKERS FORS2 MATRICOLA 12017220249 ELIM.pdf"
             },
             {
               "nome": "VDP GROUP S.R.L. Consegna_260444_20260622_175839 RIF. ASSISTENZA SU RATIONAL ICOMBI PRO 61 SOSTITUZIONE GUARNIZION.pdf",
@@ -2070,6 +2262,14 @@
               "link": "https://www.dropbox.com/scl/fi/ghzlu47r2q5dj5g329scv/VE.RO-SRLS-Consegna_260510_20260703_193241-RIF.-VENTILATORE-DIRETTAMENTE-ACCOPPIATO-ALTA-EFFICIENZA-AKP9RM.pdf?rlkey=jhn66y0zecyonbhaq6a3jbwi4&dl=0?raw=1",
               "dimensione_kb": 54,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/VE.RO SRLS Consegna_260510_20260703_193241 RIF. VENTILATORE DIRETTAMENTE ACCOPPIATO ALTA EFFICIENZA, AKP9RM.pdf"
+            },
+            {
+              "nome": "VE.RO SRLS WHARFY Consegna_260525_20260705_185745 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO SIRMAN SOSTITUZIONE GUARNI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0k2e8cl8kkm5chzqfg5f5/VE.RO-SRLS-WHARFY-Consegna_260525_20260705_185745-RIF.-ASSISTENZA-SU-MACCHINA-SOTTOVUOTO-SIRMAN-SOSTITUZIONE-GUARNI.pdf?rlkey=wupq2fh3941solgua71xj4gdl&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/VE.RO SRLS WHARFY Consegna_260525_20260705_185745 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO SIRMAN SOSTITUZIONE GUARNI.pdf"
             },
             {
               "nome": "VELARDI Srl Consegna_260271_20260515_100703 RIF. ARREDO INOX PIAZZA EUROPA.pdf",
@@ -2112,7 +2312,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 262
+          "_totale_file": 287
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -2126,6 +2326,22 @@
               "link": "https://www.dropbox.com/scl/fi/781n8dwt272qte5k4eiw5/3AM-SRL-HOTEL-MARTINO-Fattura-di-vendita_2600165_20260605_105840-RIF.-DETERGENTE-RATIONAL-VERDE-Basato-su-Ordini-cliente-260184.-B.pdf?rlkey=810ojkcnl3li76lz53w1hmrf1&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/3AM SRL HOTEL MARTINO Fattura di vendita_2600165_20260605_105840 RIF. DETERGENTE RATIONAL VERDE Basato su Ordini cliente 260184. B.pdf"
+            },
+            {
+              "nome": "4.0 SRLS YUMARA Fattura di vendita_2600263_20260705_193722 RIF. BIDONI MORINI Basato su Ordini cliente 260181. Basato su Con.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1s59pa5zaw3bj4k6yw4y8/4.0-SRLS-YUMARA-Fattura-di-vendita_2600263_20260705_193722-RIF.-BIDONI-MORINI-Basato-su-Ordini-cliente-260181.-Basato-su-Con.pdf?rlkey=pbaiv2yvkkeay3kfxrl5170hf&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/4.0 SRLS YUMARA Fattura di vendita_2600263_20260705_193722 RIF. BIDONI MORINI Basato su Ordini cliente 260181. Basato su Con.pdf"
+            },
+            {
+              "nome": "4.0 SRLS YUMARA Fattura di vendita_2600264_20260705_194411 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO SOSTITUZIONE OLIO ASSISTEN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0xl2m679nwee6j7casugi/4.0-SRLS-YUMARA-Fattura-di-vendita_2600264_20260705_194411-RIF.-ASSISTENZA-SU-MACCHINA-SOTTOVUOTO-SOSTITUZIONE-OLIO-ASSISTEN.pdf?rlkey=c8fyqkttozz6szpmpawmn09sa&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/4.0 SRLS YUMARA Fattura di vendita_2600264_20260705_194411 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO SOSTITUZIONE OLIO ASSISTEN.pdf"
             },
             {
               "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Fattura di vendita_2600197_20260607_185324 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 250933. Basato.pdf",
@@ -2190,6 +2406,14 @@
               "link": "https://www.dropbox.com/scl/fi/0bx4e4zs08dgqxjfjfouj/CAFFETTERIA-DA-CECILIA-DI-DI-SANZO-CECILIA-Fattura-di-vendita_2500850_20260607_200629-RIF.-ASSISTENZA-SU-LAVABAR-ARISTARCO-SOSTITUZIONE-SCHEDA-TIMER-AS.pdf?rlkey=xpm4qc0rb1p7pf8sdps7yfvpl&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/CAFFETTERIA DA CECILIA DI DI SANZO CECILIA Fattura di vendita_2500850_20260607_200629 RIF. ASSISTENZA SU LAVABAR ARISTARCO SOSTITUZIONE SCHEDA TIMER AS.pdf"
+            },
+            {
+              "nome": "CAPANO MARIO Fattura di vendita_2600272_20260705_213216 RIF. ASSISTENZA SU FRIGGITRICE GAS 8+8 REVISIONE GENERALE E TARAT.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/uy3qgitimehx6czuog4ep/CAPANO-MARIO-Fattura-di-vendita_2600272_20260705_213216-RIF.-ASSISTENZA-SU-FRIGGITRICE-GAS-8-8-REVISIONE-GENERALE-E-TARAT.pdf?rlkey=vy5338zzotq4gjpqys9pot2ju&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/CAPANO MARIO Fattura di vendita_2600272_20260705_213216 RIF. ASSISTENZA SU FRIGGITRICE GAS 8+8 REVISIONE GENERALE E TARAT.pdf"
             },
             {
               "nome": "CARNI LIMONGI SRL Fattura di vendita_2600235_20260625_190708 RIF. ASSISTENZA SU AFFETTATRICE RHENINGHAUS MODELLO LUXSOR 785272.pdf",
@@ -2328,6 +2552,30 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/DE FILIPPO ROCCO Fattura di vendita_2600233_20260625_185752 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO Basato su Offer.pdf"
             },
             {
+              "nome": "DE FILIPPO ROCCO Fattura di vendita_2600274_20260705_214600 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA SOSTITUZIONE ELET.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lujzjypfl1twf9nui2u6z/DE-FILIPPO-ROCCO-Fattura-di-vendita_2600274_20260705_214600-RIF.-ASSISTENZA-SU-PRODUTTORE-DI-GHIACCIO-BREMA-SOSTITUZIONE-ELET.pdf?rlkey=tey3frnm0e2kjf7ysh8s9k7yl&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/DE FILIPPO ROCCO Fattura di vendita_2600274_20260705_214600 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA SOSTITUZIONE ELET.pdf"
+            },
+            {
+              "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Fattura di vendita_2600268_20260705_212112 RIF. ASSISTENZA SU LAVAOGGETTI ATA ALP SOSTITUZIONE MANICOTTO POM.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iyrb6vdgv2ghker34cxf5/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Fattura-di-vendita_2600268_20260705_212112-RIF.-ASSISTENZA-SU-LAVAOGGETTI-ATA-ALP-SOSTITUZIONE-MANICOTTO-POM.pdf?rlkey=d96cc469o8bwh0ioxhg0ya00i&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/DELIZIE DEL FORNO di CANTISANI CARMELINA Fattura di vendita_2600268_20260705_212112 RIF. ASSISTENZA SU LAVAOGGETTI ATA ALP SOSTITUZIONE MANICOTTO POM.pdf"
+            },
+            {
+              "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Fattura di vendita_2600269_20260705_212420 RIF. GUANTI DA FORNO Basato su Consegne 260540..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/itohbpy3g9l4vsczup8ic/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Fattura-di-vendita_2600269_20260705_212420-RIF.-GUANTI-DA-FORNO-Basato-su-Consegne-260540..pdf?rlkey=vmmozwdfkx8nfyc6hp0ap17ur&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/DELIZIE DEL FORNO di CANTISANI CARMELINA Fattura di vendita_2600269_20260705_212420 RIF. GUANTI DA FORNO Basato su Consegne 260540..pdf"
+            },
+            {
               "nome": "DIMAC SRL Fattura di vendita_2600132_20260603_203926 RIF. ASSISTENZA SU FORNO RATIONAL SOSTITUZIONE GUARNIZIONE ASSIST.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2350,6 +2598,14 @@
               "link": "https://www.dropbox.com/scl/fi/rljqt59in7r17n4oz85u2/DITTA-CANTISANI-MARIA-Fattura-di-vendita_2600133_20260603_204022-RIF.-COPPIA-MACINE-MAZZER-MONOFASE-DX-Basato-su-Consegne-260284..pdf?rlkey=30cnytk21lsk8k4dksyhvqvck&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/DITTA CANTISANI MARIA Fattura di vendita_2600133_20260603_204022 RIF. COPPIA MACINE MAZZER MONOFASE DX Basato su Consegne 260284..pdf"
+            },
+            {
+              "nome": "DITTA CANTISANI MARIA Fattura di vendita_2600273_20260705_213951 RIF. GUARNIZIONI Basato su Consegne 260542..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/536c75nziybo54h1j6ys2/DITTA-CANTISANI-MARIA-Fattura-di-vendita_2600273_20260705_213951-RIF.-GUARNIZIONI-Basato-su-Consegne-260542..pdf?rlkey=iwtvpgo0b7v7m4101ibx4h1ga&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/DITTA CANTISANI MARIA Fattura di vendita_2600273_20260705_213951 RIF. GUARNIZIONI Basato su Consegne 260542..pdf"
             },
             {
               "nome": "ESCOPOCO S.R.L. Fattura di vendita_2600134_20260608_084518 RIF. PENTOLAME Basato su Consegne 260139. 260150. 260193..pdf",
@@ -2448,6 +2704,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600248_20260629_174117 RIF. BACINELLA POLIROPILENE GN 12 H 15 QTA 40 Basato su Ordini cl.pdf"
             },
             {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600270_20260705_212754 RIF. ASSISTENZA SU FORNO RATIONAL ICOMBI CLASSIC 61 TRATTAMENTO D.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xu5r9z07pr04qegqph1i8/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600270_20260705_212754-RIF.-ASSISTENZA-SU-FORNO-RATIONAL-ICOMBI-CLASSIC-61-TRATTAMENTO-D.pdf?rlkey=5g394km0edqp3st0zur96syzn&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600270_20260705_212754 RIF. ASSISTENZA SU FORNO RATIONAL ICOMBI CLASSIC 61 TRATTAMENTO D.pdf"
+            },
+            {
               "nome": "FOODEX SRL Fattura di vendita_2600208_20260612_105758 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2496,12 +2760,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600256_20260703_113848 RIF. HOTELLERIE E DETERGENTE Basato su Consegne 260485. 260508..pdf"
             },
             {
-              "nome": "GESTIONI TURISTICHE LA TORRE SRL Fattura di vendita_2600135_20260603_210134 RIF. ASSISTENZA SU FRYTOP RICABLAGGIO PIEZO ELETTRICO ASSISTENZA.pdf",
+              "nome": "GESTIONI TURISTICHE LA TORRE SRL Fattura di vendita_2600135_20260706_201644 RIF. ASSISTENZA SU FRYTOP RICABLAGGIO PIEZO ELETTRICO ASSISTENZA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qx7yz5n62m84tnfpwd7jv/GESTIONI-TURISTICHE-LA-TORRE-SRL-Fattura-di-vendita_2600135_20260603_210134-RIF.-ASSISTENZA-SU-FRYTOP-RICABLAGGIO-PIEZO-ELETTRICO-ASSISTENZA.pdf?rlkey=b3fnzf6jzrj62ivhkx13hnbb9&dl=0?raw=1",
-              "dimensione_kb": 72,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GESTIONI TURISTICHE LA TORRE SRL Fattura di vendita_2600135_20260603_210134 RIF. ASSISTENZA SU FRYTOP RICABLAGGIO PIEZO ELETTRICO ASSISTENZA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/d03kubse01ai9c4decofc/GESTIONI-TURISTICHE-LA-TORRE-SRL-Fattura-di-vendita_2600135_20260706_201644-RIF.-ASSISTENZA-SU-FRYTOP-RICABLAGGIO-PIEZO-ELETTRICO-ASSISTENZA.pdf?rlkey=81kybfgutgq428faygjzcwwud&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GESTIONI TURISTICHE LA TORRE SRL Fattura di vendita_2600135_20260706_201644 RIF. ASSISTENZA SU FRYTOP RICABLAGGIO PIEZO ELETTRICO ASSISTENZA.pdf"
             },
             {
               "nome": "GRAN SOLE S.r.l. Fattura di vendita_2600136_20260603_210516 RIF. ASSISTENZA SU Grattugia Fimar modello GR12S23050M, matricola.pdf",
@@ -2718,6 +2982,14 @@
               "link": "https://www.dropbox.com/scl/fi/ocfokq5cloivbsp3lv7wv/IL-BOSCHETTO-Srl-Fattura-di-vendita_2600216_20260622_101359-RIF.-CUCCHIAINI-PER-DESSERT-Basato-su-Offerte-di-vendita-260193..pdf?rlkey=52e626v4iwq7dywt1iu366vio&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL BOSCHETTO Srl Fattura di vendita_2600216_20260622_101359 RIF. CUCCHIAINI PER DESSERT Basato su Offerte di vendita 260193..pdf"
+            },
+            {
+              "nome": "IL CLUBBINO PORTO di TOMMASINI STEFANO Fattura di vendita_2600260_20260705_165026 RIF. GUARNIZIONI PORTA E FILTRO RATIONAL Basato su Consegne 26052.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hdj7qiy3s161vsarq01ui/IL-CLUBBINO-PORTO-di-TOMMASINI-STEFANO-Fattura-di-vendita_2600260_20260705_165026-RIF.-GUARNIZIONI-PORTA-E-FILTRO-RATIONAL-Basato-su-Consegne-26052.pdf?rlkey=eeggmh0ekwilip5llpzqrn697&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL CLUBBINO PORTO di TOMMASINI STEFANO Fattura di vendita_2600260_20260705_165026 RIF. GUARNIZIONI PORTA E FILTRO RATIONAL Basato su Consegne 26052.pdf"
             },
             {
               "nome": "IL FURANO Srl Fattura di vendita_2600205_20260609_100113 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260193. Basato.pdf",
@@ -3016,6 +3288,30 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600186_20260607_183910 RIF. ASSISTENZA SU COMPLESSO DI MACCHINE CONTROLLO GENERICO ATTRE.pdf"
             },
             {
+              "nome": "NERA SRL Fattura di vendita_2600265_20260705_205638 RIF. ASSISTENZA SU LAVASTOVIGLIE KRUPPS EL51 MATRICOLA 202360385.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rim362m0s6z9um7rfmh5v/NERA-SRL-Fattura-di-vendita_2600265_20260705_205638-RIF.-ASSISTENZA-SU-LAVASTOVIGLIE-KRUPPS-EL51-MATRICOLA-202360385.pdf?rlkey=bgoort4xxdzyoip93kmexo65z&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600265_20260705_205638 RIF. ASSISTENZA SU LAVASTOVIGLIE KRUPPS EL51 MATRICOLA 202360385.pdf"
+            },
+            {
+              "nome": "NERA SRL Fattura di vendita_2600266_20260705_205713 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260186. RE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oa12heuy6mlv10fqzfsut/NERA-SRL-Fattura-di-vendita_2600266_20260705_205713-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260186.-RE.pdf?rlkey=lzmvr1kjf66y8xnevnfx4mnr7&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600266_20260705_205713 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260186. RE.pdf"
+            },
+            {
+              "nome": "NERA SRL Fattura di vendita_2600267_20260705_205949 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260186. Ba.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3w1bs0nubokb09rm5ocgt/NERA-SRL-Fattura-di-vendita_2600267_20260705_205949-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260186.-Ba.pdf?rlkey=8ze22cyxuf31s7mimr4xqgdqr&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600267_20260705_205949 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260186. Ba.pdf"
+            },
+            {
               "nome": "NOCERA STREET FOOD DI GIANNI NOCERA Fattura di vendita_2600187_20260607_183946 RIF. CESTELLI PER FRIGGITRICE LOTUS F18-74G MATRICOLA 23120290 Ba.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3184,6 +3480,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SIRTAKI S.R.L.S Fattura di vendita_2600193_20260607_184651 RIF. DETERGENTE Basato su Consegne 260287..pdf"
             },
             {
+              "nome": "SIRTAKI S.R.L.S Fattura di vendita_2600262_20260705_193002 RIF. DETERGENTE RATIONALE E GRIGLIE COMBIGRILL Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4nr7im0zd7vtak5vziaxb/SIRTAKI-S.R.L.S-Fattura-di-vendita_2600262_20260705_193002-RIF.-DETERGENTE-RATIONALE-E-GRIGLIE-COMBIGRILL-Basato-su-Consegne.pdf?rlkey=nj12705facii4zl23fl9avdgx&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SIRTAKI S.R.L.S Fattura di vendita_2600262_20260705_193002 RIF. DETERGENTE RATIONALE E GRIGLIE COMBIGRILL Basato su Consegne.pdf"
+            },
+            {
               "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600198_20260607_185534 RIF. ASSISTENZA SU LAVASTOVIGLIE COMENDA REVISIONE GENERALE ELETT.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3198,6 +3502,14 @@
               "link": "https://www.dropbox.com/scl/fi/hlrqb5yiyy6ymrkvnfi1i/SOC.-COOP.-MARATEA-SERVIZI-A.R.L.-Fattura-di-vendita_2600199_20260607_185613-RIF.-ASSISTENZA-SU-FRYTOP-CONTROLLO-E-PULIZIA-UGELLO-BRUCIATORE-A.pdf?rlkey=psfufecgd9rwqodmao1rm23f0&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600199_20260607_185613 RIF. ASSISTENZA SU FRYTOP CONTROLLO E PULIZIA UGELLO BRUCIATORE A.pdf"
+            },
+            {
+              "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600259_20260705_164054 RIF. ASSISTENZA SU CUOCIPASTA SOSTITUZIONE BRUCIATORE CUOCIPASTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/agip1pwb8cszguvzq89sh/SOC.-COOP.-MARATEA-SERVIZI-A.R.L.-Fattura-di-vendita_2600259_20260705_164054-RIF.-ASSISTENZA-SU-CUOCIPASTA-SOSTITUZIONE-BRUCIATORE-CUOCIPASTA.pdf?rlkey=moqnef56jlfpz0rojvic7mvo2&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600259_20260705_164054 RIF. ASSISTENZA SU CUOCIPASTA SOSTITUZIONE BRUCIATORE CUOCIPASTA.pdf"
             },
             {
               "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Fattura di vendita_2500803_20260607_094738 RIF. ASSISTENZA SU GRIGLIA FIMAR REVISIONE BRUCIATORE PILOTA DX O.pdf",
@@ -3264,12 +3576,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TORREFAZIONE FALCONE A. di FALCONE ROSARIO ANTONIO Fattura di vendita_2600195_20260607_184918 RIF. GRIGLIA SCALDATAZZE 341x425 mm Basato su Consegne 260176..pdf"
             },
             {
+              "nome": "TOURISM & BUSINESS HOTEL SRLS Fattura di vendita_2600275_20260705_215250 RIF. ASSISTENZA SU FORNO QUIBI PULIZIA DISPLAY E AVVIO DECALCIFIC.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fw32ybvp8bgxb5wpkd3wx/TOURISM-BUSINESS-HOTEL-SRLS-Fattura-di-vendita_2600275_20260705_215250-RIF.-ASSISTENZA-SU-FORNO-QUIBI-PULIZIA-DISPLAY-E-AVVIO-DECALCIFIC.pdf?rlkey=ukkfbuhqcpymccnrju0ktkts2&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TOURISM & BUSINESS HOTEL SRLS Fattura di vendita_2600275_20260705_215250 RIF. ASSISTENZA SU FORNO QUIBI PULIZIA DISPLAY E AVVIO DECALCIFIC.pdf"
+            },
+            {
               "nome": "TURISTICA MARATEA snc di BARONE FRANCESCO & C. BAR LA COLONNA Fattura di vendita_2600213_20260619_083345 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260211. Ba.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/x1uddl0peapphgem7iqok/TURISTICA-MARATEA-snc-di-BARONE-FRANCESCO-C.-BAR-LA-COLONNA-Fattura-di-vendita_2600213_20260619_083345-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260211.-Ba.pdf?rlkey=nbzdpj9uwrwdhg8qvosbid8ow&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TURISTICA MARATEA snc di BARONE FRANCESCO & C. BAR LA COLONNA Fattura di vendita_2600213_20260619_083345 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260211. Ba.pdf"
+            },
+            {
+              "nome": "ULV SRL Fattura di vendita_2600271_20260705_212952 RIF. ASSISTENZA SU FORNO BECKERS FORS2 MATRICOLA 12017220249 ELIM.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rqtljvspcwta67t7f40jf/ULV-SRL-Fattura-di-vendita_2600271_20260705_212952-RIF.-ASSISTENZA-SU-FORNO-BECKERS-FORS2-MATRICOLA-12017220249-ELIM.pdf?rlkey=dbtz4ls334xcha7x3mpictnfw&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ULV SRL Fattura di vendita_2600271_20260705_212952 RIF. ASSISTENZA SU FORNO BECKERS FORS2 MATRICOLA 12017220249 ELIM.pdf"
             },
             {
               "nome": "VANITY COFFEE BAR di OLIVA NICOLINA Fattura di vendita_2600166_20260605_110412 RIF. DETERGENTE LAVABAR Basato su Ordini cliente 260187..pdf",
@@ -3328,6 +3656,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/VILLA TERRY di CARLOMAGNO BIAGIO Fattura di vendita_2600173_20260607_175148 RIF. DETERGENTE LAVABAR E COFFEE CLEAN Basato su Consegne 260324..pdf"
             },
             {
+              "nome": "YOU MARINA S.R.L. Fattura di vendita_2600261_20260705_192654 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/swhjz1foyg1svnzj2wukr/YOU-MARINA-S.R.L.-Fattura-di-vendita_2600261_20260705_192654-RIF.-OFFERTA-SPECIALE-FORNO-CUPPONE-NUOVO-DISPONIBILE-IN-MAGAZZIN.pdf?rlkey=8ll9mtu59ea65akzke7npan3l&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/YOU MARINA S.R.L. Fattura di vendita_2600261_20260705_192654 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf"
+            },
+            {
               "nome": "ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3336,7 +3672,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 152
+          "_totale_file": 169
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -3358,6 +3694,14 @@
               "link": "https://www.dropbox.com/scl/fi/rz1hnutuyrq1ga7qctou8/3AM-SRL-HOTEL-MARTINO-Offerta-di-vendita_260235_20260625_111239-RIF.-OFFERTA-MACCHINA-DA-CAFFE-CASADIO-E-MANCINADOSATORE.pdf?rlkey=xrhu53zamp1ns81cgpvrmyfsv&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/3AM SRL HOTEL MARTINO Offerta di vendita_260235_20260625_111239 RIF. OFFERTA MACCHINA DA CAFFE' CASADIO E MANCINADOSATORE.pdf"
+            },
+            {
+              "nome": "AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Offerta di vendita_260251_20260705_190531 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA IMF 35W-Q MATRICO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/88sqb0rap8uyfhj89xcbo/AGRITURISMO-L-AIA-DEI-CAPPELLANI-di-RICCARDI-VINCENZO-Offerta-di-vendita_260251_20260705_190531-RIF.-ASSISTENZA-SU-PRODUTTORE-DI-GHIACCIO-BREMA-IMF-35W-Q-MATRICO.pdf?rlkey=omk1b8ellnbgst1a2p062w1ua&dl=0?raw=1",
+              "dimensione_kb": 79,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Offerta di vendita_260251_20260705_190531 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA IMF 35W-Q MATRICO.pdf"
             },
             {
               "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260606_175353.pdf",
@@ -3398,6 +3742,14 @@
               "link": "https://www.dropbox.com/scl/fi/kamaavt32pjyx5fe2p6ud/AZIENDA-VINICOLA-GIOIA-AL-NEGRO-S.A.S.-di-D.-Gioia-ed-E.-Fattorini-C.-Offerta-di-vendita_260223_20260618_181718-RIF.-SECCHIELLI-ACRILICO.pdf?rlkey=l9qig8zd763fhraxbqnirzbww&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Offerta di vendita_260223_20260618_181718 RIF. SECCHIELLI ACRILICO.pdf"
+            },
+            {
+              "nome": "BASILICATA GRANTOUR S.A.S. DI ANTONIO AGRELLO & C. Offerta di vendita_260252_20260706_125349.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ytwcr0vqtpo01hcg4olid/BASILICATA-GRANTOUR-S.A.S.-DI-ANTONIO-AGRELLO-C.-Offerta-di-vendita_260252_20260706_125349.pdf?rlkey=zpnstjevbqobrhm9g0cqhu43z&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/BASILICATA GRANTOUR S.A.S. DI ANTONIO AGRELLO & C. Offerta di vendita_260252_20260706_125349.pdf"
             },
             {
               "nome": "BHOTEL SRL Offerta di vendita_260177_20260519_185944 RIF. BICCHIERE CORTINA COOLER.pdf",
@@ -4200,7 +4552,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 107
+          "_totale_file": 109
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -5930,6 +6282,22 @@
                   "link": "https://www.dropbox.com/scl/fi/fu7ute1icfze85mdu4fux/70702735_00KDN_ST_IT2307.pdf?rlkey=z24b088uhh6jp98yk8pz9oukk&dl=0?raw=1",
                   "dimensione_kb": 1193,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_03 YOU MARINA CAPPPA CON ASPIRATORE/70702735_00KDN_ST_IT2307.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_07_06 LA SECCA VETRINA DA BANCO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_06 LA SECCA VETRINA DA BANCO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "VETRINA REFRIGERATA DA BANCO ATOSA 1618841751-FILE-2-ITA-53.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/izmkshz7atoz0elg89wlj/VETRINA-REFRIGERATA-DA-BANCO-ATOSA-1618841751-FILE-2-ITA-53.pdf?rlkey=wv1ofxmdenyc5v79m54xypshq&dl=0?raw=1",
+                  "dimensione_kb": 337,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_06 LA SECCA VETRINA DA BANCO/VETRINA REFRIGERATA DA BANCO ATOSA 1618841751-FILE-2-ITA-53.pdf"
                 }
               ],
               "_totale_file": 1
@@ -13595,7 +13963,7 @@
                           "nome": "CRAWFORD PUB OFFERTA ARMADIO FRIGORIFERO 2 ANTE.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/ve6taa8bormkh06vomdzb/CRAWFORD-PUB-OFFERTA-ARMADIO-FRIGORIFERO-2-ANTE.pdf?rlkey=goh7b9h4ns9gc2y1ic4egdp1k&dl=0?raw=1",
                           "dimensione_kb": 69,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/CRAWFORD PUB/CRAWFORD PUB OFFERTA ARMADIO FRIGORIFERO 2 ANTE.pdf"
                         },
@@ -62067,7 +62435,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5467
+          "_totale_file": 5468
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -62185,6 +62553,14 @@
               "link": "https://www.dropbox.com/scl/fi/utp6mcbx2ylvlh4ifdnrw/BAR-MILLE-VOGLIE-DI-D-ANDREA-SALVATORE-ANDREA-Ordine-cliente_260207_20260615_103041-RIF.-Riempi-Bigne-Inox-Basato-su-Offerte-di-vendita-260111..pdf?rlkey=fb0ydqcks66q1yd6fb6oeshl3&dl=0?raw=1",
               "dimensione_kb": 64,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR MILLE VOGLIE DI D'ANDREA SALVATORE ANDREA Ordine cliente_260207_20260615_103041 RIF. Riempi Bigne' Inox Basato su Offerte di vendita 260111..pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Ordine cliente_260254_20260705_200537 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/k8wt3teh5idwboh5vvjq4/BAR-RISTORANTE-DA-GIOVANNI-di-SCHETTINI-DOMENICA-Ordine-cliente_260254_20260705_200537-RIF.-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=svsmacy38mtkwvabivw8oi10h&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Ordine cliente_260254_20260705_200537 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
             },
             {
               "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260216_20260617_101749 RIF. DETERGENTE.pdf",
@@ -62739,6 +63115,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LIDO VALENTINA DI LOPEZ ANTONIO Ordine cliente_260175_20260528_181732 RIF. LIDO VALENTINA FRIGGITRICE GAS LOTUS MODELLO F218-78GLT 18+1.pdf"
             },
             {
+              "nome": "M&M SRL Ordine cliente_260255_20260706_160754 RIF. DOCCIA PRELAVAGGIO E MISCELATORI Basato su Offerte di vendit.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dq6ocoqnoyaewzswfquif/M-M-SRL-Ordine-cliente_260255_20260706_160754-RIF.-DOCCIA-PRELAVAGGIO-E-MISCELATORI-Basato-su-Offerte-di-vendit.pdf?rlkey=j97cyu7wkmw0frx6k4fpdjrvt&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/M&M SRL Ordine cliente_260255_20260706_160754 RIF. DOCCIA PRELAVAGGIO E MISCELATORI Basato su Offerte di vendit.pdf"
+            },
+            {
               "nome": "MACELLERIA LOSARDO GIOVANNINO Ordine cliente_260170_20260603_092842 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62987,6 +63371,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/THEMYSCIRA SRL Ordine cliente_260206_20260615_102841 RIF. HOTELLERIE.pdf"
             },
             {
+              "nome": "TRATTORIA DEL PELLEGRINO di PETTINATO GIOVANNINA Ordine cliente_260253_20260705_195859 RIF. DETERGENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3j0h6s1cxpuu06m6123o8/TRATTORIA-DEL-PELLEGRINO-di-PETTINATO-GIOVANNINA-Ordine-cliente_260253_20260705_195859-RIF.-DETERGENTE.pdf?rlkey=5pvh89l1ks9x9krttuepi4qfw&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/TRATTORIA DEL PELLEGRINO di PETTINATO GIOVANNINA Ordine cliente_260253_20260705_195859 RIF. DETERGENTE.pdf"
+            },
+            {
               "nome": "TRATTORIA TICCIABBACA di MAIORANA FRANCESCA Ordine cliente_260224_20260622_101616 RIF. CUCINA 4 FUOCHI MODULAR Basato su Offerte di vendita 260226..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -63043,7 +63435,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/YOU MARINA S.R.L. Ordine cliente_260221_20260619_094238 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf"
             }
           ],
-          "_totale_file": 121
+          "_totale_file": 124
         }
       ],
       "file": []
