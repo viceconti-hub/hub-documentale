@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-07T00:33:04Z",
-  "totale_file": 25533,
+  "generato": "2026-07-07T02:37:27Z",
+  "totale_file": 25535,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -139640,7 +139640,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4434,
+      "totale_file": 4436,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -143393,6 +143393,22 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "ATOSA 2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/63tqci7rlqv5z3disnh5y/ATOSA-2023.pdf?rlkey=l8nyfe0hf42oe33a21eialie1&dl=0?raw=1",
+                  "dimensione_kb": 10220,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/Archivio/ATOSA 2023.pdf"
+                },
+                {
+                  "nome": "ATOSA Catalistino 2025 - ITA_ENG  - LQ.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qsi8j1a6m1alunacor7o4/ATOSA-Catalistino-2025-ITA_ENG-LQ.pdf?rlkey=qpazkyn45ul13le6mgvmvq4x1&dl=0?raw=1",
+                  "dimensione_kb": 15301,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/Archivio/ATOSA Catalistino 2025 - ITA_ENG  - LQ.pdf"
+                },
+                {
                   "nome": "ATOSA Catalistino Generale 2022 LQ.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -143401,52 +143417,52 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/Archivio/ATOSA Catalistino Generale 2022 LQ.pdf"
                 },
                 {
+                  "nome": "ATOSA Catalistino ITA_ENG 2026 LQ.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xirw5nwqo2yl2419twszl/ATOSA-Catalistino-ITA_ENG-2026-LQ.pdf?rlkey=trenw808vio854bew1g67unc9&dl=0?raw=1",
+                  "dimensione_kb": 16114,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/Archivio/ATOSA Catalistino ITA_ENG 2026 LQ.pdf"
+                },
+                {
                   "nome": "Atosa Listino GEN 2018 A LQ Maggio.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/0zsb3kig66xfqf3lt2dwe/Atosa-Listino-GEN-2018-A-LQ-Maggio.pdf?rlkey=nhvuk2aepn5ja9nw36fuicb0w&dl=0?raw=1",
                   "dimensione_kb": 5666,
                   "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/Archivio/Atosa Listino GEN 2018 A LQ Maggio.pdf"
+                },
+                {
+                  "nome": "Promo Luglio 2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/iwszpytzqetom3ko28hik/Promo-Luglio-2023.pdf?rlkey=dk6vo49t6e5384i3xgcx5bku5&dl=0?raw=1",
+                  "dimensione_kb": 153,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/Archivio/Promo Luglio 2023.pdf"
                 }
               ],
-              "_totale_file": 2
+              "_totale_file": 6
             }
           ],
           "file": [
             {
-              "nome": "ATOSA 2023.pdf",
+              "nome": "100.ATOSA Catalistino ITA_ENG 2026 LQ (1).pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/63tqci7rlqv5z3disnh5y/ATOSA-2023.pdf?rlkey=l8nyfe0hf42oe33a21eialie1&dl=0?raw=1",
-              "dimensione_kb": 10220,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/ATOSA 2023.pdf"
-            },
-            {
-              "nome": "ATOSA Catalistino 2025 - ITA_ENG  - LQ.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qsi8j1a6m1alunacor7o4/ATOSA-Catalistino-2025-ITA_ENG-LQ.pdf?rlkey=qpazkyn45ul13le6mgvmvq4x1&dl=0?raw=1",
-              "dimensione_kb": 15301,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/ATOSA Catalistino 2025 - ITA_ENG  - LQ.pdf"
-            },
-            {
-              "nome": "ATOSA Catalistino ITA_ENG 2026 LQ.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xirw5nwqo2yl2419twszl/ATOSA-Catalistino-ITA_ENG-2026-LQ.pdf?rlkey=trenw808vio854bew1g67unc9&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/6ay5u33x0nl6bxt2m6v2m/100.ATOSA-Catalistino-ITA_ENG-2026-LQ-1.pdf?rlkey=2zuzr1dddj3x3dd7021du894n&dl=0?raw=1",
               "dimensione_kb": 16114,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/ATOSA Catalistino ITA_ENG 2026 LQ.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/100.ATOSA Catalistino ITA_ENG 2026 LQ (1).pdf"
             },
             {
-              "nome": "Promo Luglio 2023.pdf",
+              "nome": "100.ATOSA Catalogo ITA_ENG 2026 LQ.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/iwszpytzqetom3ko28hik/Promo-Luglio-2023.pdf?rlkey=dk6vo49t6e5384i3xgcx5bku5&dl=0?raw=1",
-              "dimensione_kb": 153,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/Promo Luglio 2023.pdf"
+              "link": "https://www.dropbox.com/scl/fi/kabndrnwnwx91jur1x47c/100.ATOSA-Catalogo-ITA_ENG-2026-LQ.pdf?rlkey=rzrnacv69tulufqjfz5rh2dlc&dl=0?raw=1",
+              "dimensione_kb": 15741,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ATOSA/100.ATOSA Catalogo ITA_ENG 2026 LQ.pdf"
             }
           ],
-          "_totale_file": 6
+          "_totale_file": 8
         },
         {
           "nome": "ATREPAN",
