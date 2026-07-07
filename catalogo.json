@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-06T08:53:43Z",
-  "totale_file": 25532,
+  "generato": "2026-07-07T00:33:04Z",
+  "totale_file": 25533,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -67646,7 +67646,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7218,
+      "totale_file": 7219,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -83045,6 +83045,22 @@
               "_totale_file": 3
             },
             {
+              "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO",
+              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "AZIENDA AGRICOLA LA CAPPELLINA FATTURA DI ANTICIPO 261005.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0bqg5jytmbl3nn4q2w91v/AZIENDA-AGRICOLA-LA-CAPPELLINA-FATTURA-DI-ANTICIPO-261005.pdf?rlkey=q7buv594b4fc2rw5wgv3tn5qt&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/AZIENDA AGRICOLA LA CAPPELLINA FATTURA DI ANTICIPO 261005.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
               "nome": "AZIENDA AGRICOLA LA FRAGOLINA",
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA FRAGOLINA",
               "cartelle": [],
@@ -89361,7 +89377,7 @@
                       "nome": "LA REGINA FT 190658 DEL 31_12_2019.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/ygnjhe1n6wbrxraxvu28r/LA-REGINA-FT-190658-DEL-31_12_2019.pdf?rlkey=eo9ypzob8kt64kt79k4vb8mvp&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 67,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA REGINA/LA REGINA FATTURA E DDT FIRMATI DICEMBRE/LA REGINA FT 190658 DEL 31_12_2019.pdf"
                     }
@@ -96119,7 +96135,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1294
+          "_totale_file": 1295
         },
         {
           "nome": "LAVELLO",
@@ -131159,7 +131175,7 @@
                   "nome": "Attività_20210625_093204.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/xg1r58hp3kc10ehvwvtpq/Attivit-_20210625_093204.pdf?rlkey=zkiqzr9t1x44yfuq567yaoihy&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 126,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TECNICI ESTERNI/ARCHIVIO/Attività_20210625_093204.pdf"
                 },
@@ -132395,7 +132411,7 @@
                   "nome": "Type-3770_3970_AF-50.35-ESI_ED01_2025_IT.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/0jv9crcka6045aydnslac/Type-3770_3970_AF-50.35-ESI_ED01_2025_IT.pdf?rlkey=gqrvxf8wvlz2ce0aiasam05l9&dl=0?raw=1",
                   "dimensione_kb": 210,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/HOTEL BRUTIUM/Type-3770_3970_AF-50.35-ESI_ED01_2025_IT.pdf"
                 }
