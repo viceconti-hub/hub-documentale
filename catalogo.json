@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-08T05:37:16Z",
-  "totale_file": 25595,
+  "generato": "2026-07-08T07:42:30Z",
+  "totale_file": 25597,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -182991,7 +182991,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4843,
+      "totale_file": 4845,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -223788,6 +223788,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/BERTO'S CONFERMA ORDINE ORDVEN_2603672_25_06_2026_0 RIF.MARATEA SERVIZI BRUCIATORE CUOCIPASTA.pdf"
             },
             {
+              "nome": "COLD LINE srl Ordine dacquisto_260157_20260707_121347 RIF. Coppia guide tipo L 605 mm per griglie EN60x40 CORRADO MICHE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ybrcx10lp7qsrqmxrg7ea/COLD-LINE-srl-Ordine-dacquisto_260157_20260707_121347-RIF.-Coppia-guide-tipo-L-605-mm-per-griglie-EN60x40-CORRADO-MICHE.pdf?rlkey=5rigg10suaslv1rk9ntnkijz8&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260157_20260707_121347 RIF. Coppia guide tipo L 605 mm per griglie EN60x40 CORRADO MICHE.pdf"
+            },
+            {
               "nome": "COLDLINE Conferma ordine n°26-09170 RIF. CORRADO MICHELA_LEVTRONIC 500 aggiornamento.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -223812,12 +223820,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf"
             },
             {
-              "nome": "COLDLINE Conferma ordine n°26-11538 RIF.FLAVI DE MARCO.pdf",
+              "nome": "COLDLINE Conferma ordine n°26-11538 RIF.FLAVIA DE MARCO.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/3v1z91ijpahvmftzisjhy/COLDLINE-Conferma-ordine-n-26-11538-RIF.FLAVI-DE-MARCO.pdf?rlkey=1bc7r28imwhig4ihsmtnj75rb&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/3v1z91ijpahvmftzisjhy/COLDLINE-Conferma-ordine-n-26-11538-RIF.FLAVIA-DE-MARCO.pdf?rlkey=1bc7r28imwhig4ihsmtnj75rb&dl=0?raw=1",
               "dimensione_kb": 79,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-11538 RIF.FLAVI DE MARCO.pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-11538 RIF.FLAVIA DE MARCO.pdf"
             },
             {
               "nome": "COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx - collegamento.lnk",
@@ -223972,6 +223980,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260148_20260624_105344.pdf"
             },
             {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260159_20260707_131616.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gdmxbx7cm0hoglhbx5xud/REPA-ITALIA-SRL-Ordine-dacquisto_260159_20260707_131616.pdf?rlkey=8k6ue78siiigus573tohv9uu2&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260159_20260707_131616.pdf"
+            },
+            {
               "nome": "SIRMAN CONFERMA ORDINE RIF. RICAMBI SOTTOVUOTO VE.RO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -224028,7 +224044,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260141_20260618_201723 RIF. AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217..pdf"
             }
           ],
-          "_totale_file": 3699
+          "_totale_file": 3701
         }
       ],
       "file": [
