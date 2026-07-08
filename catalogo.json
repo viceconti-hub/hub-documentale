@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-08T07:42:30Z",
-  "totale_file": 25597,
+  "generato": "2026-07-08T08:51:00Z",
+  "totale_file": 25599,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -224062,7 +224062,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2385,
+      "totale_file": 2387,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -244775,6 +244775,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE COPIA TITOLI MPS AR 29_05_2026.pdf"
             },
             {
+              "nome": "COLDLINE Dettaglio bonifico DEL 07_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/69shyhzx5eng4lwjk8fn7/COLDLINE-Dettaglio-bonifico-DEL-07_07_2026.pdf?rlkey=dh977w3cira1q6y8y1hcxvskh&dl=0?raw=1",
+              "dimensione_kb": 101,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE Dettaglio bonifico DEL 07_07_2026.pdf"
+            },
+            {
               "nome": "COLDLINE Dettaglio bonifico istantaneo DEL 13_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -244925,6 +244933,14 @@
               "link": "https://www.dropbox.com/scl/fi/3wvyrc3xiuwn2gi92swot/FAC-Dettaglio-bonifico-DEL-12_05_2026.pdf?rlkey=cdydhix8bxk41dgj94v1mwdxt&dl=0?raw=1",
               "dimensione_kb": 102,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FAC Dettaglio bonifico DEL 12_05_2026.pdf"
+            },
+            {
+              "nome": "FAC Dettaglio bonifico istantaneo DEL 8_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5pp0vaj12d6i87lv9o82r/FAC-Dettaglio-bonifico-istantaneo-DEL-8_07_2026.pdf?rlkey=2r93svlkbang7fu9xccrlsddn&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FAC Dettaglio bonifico istantaneo DEL 8_07_2026.pdf"
             },
             {
               "nome": "FAMA INDUSTRIE SRL Dettaglio bonifico istantaneo DEL 04_05_2026.pdf",
@@ -245487,7 +245503,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2365
+          "_totale_file": 2367
         }
       ],
       "file": []
