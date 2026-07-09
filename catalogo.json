@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-09T02:40:39Z",
-  "totale_file": 25599,
+  "generato": "2026-07-09T05:44:27Z",
+  "totale_file": 25607,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6165,
+      "totale_file": 6173,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -2024,6 +2024,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Ristorante SANTA LUCIA DI APICELLA TERESA Consegna_260447_20260624_154605 RIF. ATTREZZATURE Basato su Offerte di vendita 260112. Basato su.pdf"
             },
             {
+              "nome": "Ristorante SANTA LUCIA DI APICELLA TERESA Consegna_260552_20260708_121431 RIF. GRIGLIA IN GHISA PER GRIGLIA A PIETRA LAVICA QTA' 2 Basato s.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9x6emtfkrmoomi05kmb7u/Ristorante-SANTA-LUCIA-DI-APICELLA-TERESA-Consegna_260552_20260708_121431-RIF.-GRIGLIA-IN-GHISA-PER-GRIGLIA-A-PIETRA-LAVICA-QTA-2-Basato-s.pdf?rlkey=ubn1bf2igb2gewd6a8unwhzw2&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Ristorante SANTA LUCIA DI APICELLA TERESA Consegna_260552_20260708_121431 RIF. GRIGLIA IN GHISA PER GRIGLIA A PIETRA LAVICA QTA' 2 Basato s.pdf"
+            },
+            {
               "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Consegna_260470_20260626_080418 RIF. ASSISTENZA SU FORNO RATIONAL ICOMBI PRO FORZATURA AGGIORNAME.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2328,6 +2336,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/YOU MARINA S.R.L. Consegna_260435_20260619_094309 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf"
             },
             {
+              "nome": "ZANI STEFANO Consegna_260551_20260708_110711 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 26026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fjw33enmnjyzvo96kmelk/ZANI-STEFANO-Consegna_260551_20260708_110711-RIF.-COPPIA-GUIDE-ARMADIO-COLDLINE-Basato-su-Ordini-cliente-26026.pdf?rlkey=pzznu94lu7tjk05sj7omi2r0k&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZANI STEFANO Consegna_260551_20260708_110711 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 26026.pdf"
+            },
+            {
               "nome": "ZM RIPARAZIONI DI ZACCARA MARIO Consegna_260477_20260626_111344 RIF. ASS.STRUM.ELETTRON. XW20LS IFI -RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2344,7 +2360,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 291
+          "_totale_file": 293
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -2374,6 +2390,14 @@
               "link": "https://www.dropbox.com/scl/fi/0xl2m679nwee6j7casugi/4.0-SRLS-YUMARA-Fattura-di-vendita_2600264_20260705_194411-RIF.-ASSISTENZA-SU-MACCHINA-SOTTOVUOTO-SOSTITUZIONE-OLIO-ASSISTEN.pdf?rlkey=c8fyqkttozz6szpmpawmn09sa&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/4.0 SRLS YUMARA Fattura di vendita_2600264_20260705_194411 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO SOSTITUZIONE OLIO ASSISTEN.pdf"
+            },
+            {
+              "nome": "AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Fattura di vendita_2500290_20260707_195634 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA REGOLAZIONE PRESS.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jgv6bjaxu9vivduq8hrw5/AGRITURISMO-L-AIA-DEI-CAPPELLANI-di-RICCARDI-VINCENZO-Fattura-di-vendita_2500290_20260707_195634-RIF.-ASSISTENZA-SU-PRODUTTORE-DI-GHIACCIO-BREMA-REGOLAZIONE-PRESS.pdf?rlkey=c5n1rz2tjek482tp7tu9v0x3b&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Fattura di vendita_2500290_20260707_195634 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA REGOLAZIONE PRESS.pdf"
             },
             {
               "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Fattura di vendita_2600197_20260607_185324 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 250933. Basato.pdf",
@@ -2406,6 +2430,14 @@
               "link": "https://www.dropbox.com/scl/fi/ds3tupjfzzaiko7ukygcp/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600211_20260617_101816-RIF.-DETERGENTE-Basato-su-Ordini-cliente-260216.-Basato-su-Conseg.pdf?rlkey=29nnkls86ubpmlm4avldap16s&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600211_20260617_101816 RIF. DETERGENTE Basato su Ordini cliente 260216. Basato su Conseg.pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600278_20260708_094302 RIF. DETERGENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qys86t9dm59dzpc19eslj/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600278_20260708_094302-RIF.-DETERGENTE.pdf?rlkey=phie2nycbpic9k5vx01xortax&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600278_20260708_094302 RIF. DETERGENTE.pdf"
             },
             {
               "nome": "BHOTEL SRL Fattura di vendita_2600210_20260612_142252 RIF. BICCHIERE COOLER CORTINA Basato su Offerte di vendita 260184.pdf",
@@ -3536,28 +3568,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SIRTAKI S.R.L.S Fattura di vendita_2600276_20260707_131932 RIF. ASSISTENZA SU FORNO RATIONAL SOSTITUZIONE OTTICHE LED E RIPR.pdf"
             },
             {
-              "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600198_20260607_185534 RIF. ASSISTENZA SU LAVASTOVIGLIE COMENDA REVISIONE GENERALE ELETT.pdf",
+              "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600198_20260708_093707 RIF. ASSISTENZA SU LAVASTOVIGLIE COMENDA REVISIONE GENERALE ELETT.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/afd0xko2f7ogirmiimqdr/SOC.-COOP.-MARATEA-SERVIZI-A.R.L.-Fattura-di-vendita_2600198_20260607_185534-RIF.-ASSISTENZA-SU-LAVASTOVIGLIE-COMENDA-REVISIONE-GENERALE-ELETT.pdf?rlkey=3ikwagkoae1w8595ciygt7vph&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/9zr0tjvj5bae2nfzua2tn/SOC.-COOP.-MARATEA-SERVIZI-A.R.L.-Fattura-di-vendita_2600198_20260708_093707-RIF.-ASSISTENZA-SU-LAVASTOVIGLIE-COMENDA-REVISIONE-GENERALE-ELETT.pdf?rlkey=lhv51zb1exi43plam6nqxhaiy&dl=0?raw=1",
               "dimensione_kb": 70,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600198_20260607_185534 RIF. ASSISTENZA SU LAVASTOVIGLIE COMENDA REVISIONE GENERALE ELETT.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600198_20260708_093707 RIF. ASSISTENZA SU LAVASTOVIGLIE COMENDA REVISIONE GENERALE ELETT.pdf"
             },
             {
-              "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600199_20260607_185613 RIF. ASSISTENZA SU FRYTOP CONTROLLO E PULIZIA UGELLO BRUCIATORE A.pdf",
+              "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600199_20260708_093728 RIF. ASSISTENZA SU FRYTOP CONTROLLO E PULIZIA UGELLO BRUCIATORE A.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hlrqb5yiyy6ymrkvnfi1i/SOC.-COOP.-MARATEA-SERVIZI-A.R.L.-Fattura-di-vendita_2600199_20260607_185613-RIF.-ASSISTENZA-SU-FRYTOP-CONTROLLO-E-PULIZIA-UGELLO-BRUCIATORE-A.pdf?rlkey=psfufecgd9rwqodmao1rm23f0&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/7dluup8y50zb8c2406l0p/SOC.-COOP.-MARATEA-SERVIZI-A.R.L.-Fattura-di-vendita_2600199_20260708_093728-RIF.-ASSISTENZA-SU-FRYTOP-CONTROLLO-E-PULIZIA-UGELLO-BRUCIATORE-A.pdf?rlkey=xll6kna0t8p51bxkwmtydn43j&dl=0?raw=1",
               "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600199_20260607_185613 RIF. ASSISTENZA SU FRYTOP CONTROLLO E PULIZIA UGELLO BRUCIATORE A.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600199_20260708_093728 RIF. ASSISTENZA SU FRYTOP CONTROLLO E PULIZIA UGELLO BRUCIATORE A.pdf"
             },
             {
-              "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600259_20260705_164054 RIF. ASSISTENZA SU CUOCIPASTA SOSTITUZIONE BRUCIATORE CUOCIPASTA.pdf",
+              "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600259_20260708_093742 RIF. ASSISTENZA SU CUOCIPASTA SOSTITUZIONE BRUCIATORE CUOCIPASTA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/agip1pwb8cszguvzq89sh/SOC.-COOP.-MARATEA-SERVIZI-A.R.L.-Fattura-di-vendita_2600259_20260705_164054-RIF.-ASSISTENZA-SU-CUOCIPASTA-SOSTITUZIONE-BRUCIATORE-CUOCIPASTA.pdf?rlkey=moqnef56jlfpz0rojvic7mvo2&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/44bw95ig7ebzeizz1aiwp/SOC.-COOP.-MARATEA-SERVIZI-A.R.L.-Fattura-di-vendita_2600259_20260708_093742-RIF.-ASSISTENZA-SU-CUOCIPASTA-SOSTITUZIONE-BRUCIATORE-CUOCIPASTA.pdf?rlkey=rdri7szeh2ell6n4ix0j7g2kz&dl=0?raw=1",
               "dimensione_kb": 73,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600259_20260705_164054 RIF. ASSISTENZA SU CUOCIPASTA SOSTITUZIONE BRUCIATORE CUOCIPASTA.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOC. COOP. MARATEA SERVIZI A.R.L. Fattura di vendita_2600259_20260708_093742 RIF. ASSISTENZA SU CUOCIPASTA SOSTITUZIONE BRUCIATORE CUOCIPASTA.pdf"
             },
             {
               "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Fattura di vendita_2500803_20260607_094738 RIF. ASSISTENZA SU GRIGLIA FIMAR REVISIONE BRUCIATORE PILOTA DX O.pdf",
@@ -3720,7 +3752,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 171
+          "_totale_file": 173
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -3790,6 +3822,14 @@
               "link": "https://www.dropbox.com/scl/fi/kamaavt32pjyx5fe2p6ud/AZIENDA-VINICOLA-GIOIA-AL-NEGRO-S.A.S.-di-D.-Gioia-ed-E.-Fattorini-C.-Offerta-di-vendita_260223_20260618_181718-RIF.-SECCHIELLI-ACRILICO.pdf?rlkey=l9qig8zd763fhraxbqnirzbww&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Offerta di vendita_260223_20260618_181718 RIF. SECCHIELLI ACRILICO.pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Offerta di vendita_260013_20260708_094920 RIF. ASSISTENZA SU LAVASTOVIGLIE ATA MOD. AL 500.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vtlabggzdb2cdcw2s8am9/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Offerta-di-vendita_260013_20260708_094920-RIF.-ASSISTENZA-SU-LAVASTOVIGLIE-ATA-MOD.-AL-500.pdf?rlkey=tbke2dyabqlfvmz3ngrqmnn1y&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Offerta di vendita_260013_20260708_094920 RIF. ASSISTENZA SU LAVASTOVIGLIE ATA MOD. AL 500.pdf"
             },
             {
               "nome": "BASILICATA GRANTOUR S.A.S. DI ANTONIO AGRELLO & C. Offerta di vendita_260252_20260706_125349.pdf",
@@ -4600,7 +4640,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 109
+          "_totale_file": 110
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -47409,7 +47449,7 @@
                       "nome": "Offerta di vendita_220751_la parada.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/32xbh7bwyee8b0cy1652h/Offerta-di-vendita_220751_la-parada.pdf?rlkey=5hj2kt6y2fmej9yxn8irvisji&dl=0?raw=1",
                       "dimensione_kb": 81,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/LA PARADA BACK BAR/Offerta di vendita_220751_la parada.pdf"
                     }
@@ -62523,6 +62563,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ACAL SRL Ordine cliente_260179_20260530_102127 RIF. DETERGENTE RATIONAL, ALZATE E TUBETTO LUBRIFICANTE.pdf"
             },
             {
+              "nome": "ACAL SRL Ordine cliente_260259_20260708_100752 RIF. TOP 6 E TOP 3.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pbygwbw538w2fuokubdcz/ACAL-SRL-Ordine-cliente_260259_20260708_100752-RIF.-TOP-6-E-TOP-3.pdf?rlkey=tdsogj9s42nmnm07zfx1fbqtd&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ACAL SRL Ordine cliente_260259_20260708_100752 RIF. TOP 6 E TOP 3.pdf"
+            },
+            {
               "nome": "AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Ordine cliente_260183_20260612_141225 RIF. APRISCATOLE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -62737,6 +62785,14 @@
               "link": "https://www.dropbox.com/scl/fi/3jvb43qv9l7jajp9i7q8x/CORRADO-MICHELA-Ordine-cliente_260243_20260630_092929-RIF.-DETERSIVI-Basato-su-Offerte-di-vendita-260061..pdf?rlkey=mhrr078j972yr7ekoyz1wsin3&dl=0?raw=1",
               "dimensione_kb": 60,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA Ordine cliente_260243_20260630_092929 RIF. DETERSIVI Basato su Offerte di vendita 260061..pdf"
+            },
+            {
+              "nome": "COZZI ROSA Ordine cliente_260258_20260708_100612.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/728dke4p510ngw7b5v2ny/COZZI-ROSA-Ordine-cliente_260258_20260708_100612.pdf?rlkey=3pls3vpn3kygtuvkkcbf0a8cw&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/COZZI ROSA Ordine cliente_260258_20260708_100612.pdf"
             },
             {
               "nome": "CUCINOTTA GIOVANNI Ordine cliente_260227_20260622_105238 RIF. BACINELLE IN POLIPROPILENE.pdf",
@@ -63497,9 +63553,17 @@
               "link": "https://www.dropbox.com/scl/fi/h2bui179ne2strdoxtzqn/YOU-MARINA-S.R.L.-Ordine-cliente_260221_20260619_094238-RIF.-OFFERTA-SPECIALE-FORNO-CUPPONE-NUOVO-DISPONIBILE-IN-MAGAZZIN.pdf?rlkey=tvlo7vxt6e4ng3m700ksvc897&dl=0?raw=1",
               "dimensione_kb": 64,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/YOU MARINA S.R.L. Ordine cliente_260221_20260619_094238 RIF. OFFERTA SPECIALE FORNO CUPPONE NUOVO DISPONIBILE IN MAGAZZIN.pdf"
+            },
+            {
+              "nome": "ZANI STEFANO Ordine cliente_260260_20260708_110543 RIF. COPPIA GUIDE ARMADIO COLDLINE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/41on91l6x9xukkv7oayv2/ZANI-STEFANO-Ordine-cliente_260260_20260708_110543-RIF.-COPPIA-GUIDE-ARMADIO-COLDLINE.pdf?rlkey=19jflok36kjntu2l1cug921p6&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260260_20260708_110543 RIF. COPPIA GUIDE ARMADIO COLDLINE.pdf"
             }
           ],
-          "_totale_file": 126
+          "_totale_file": 129
         }
       ],
       "file": []
