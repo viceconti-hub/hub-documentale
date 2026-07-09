@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-09T07:49:26Z",
-  "totale_file": 25613,
+  "generato": "2026-07-09T08:56:07Z",
+  "totale_file": 25614,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -224174,7 +224174,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2387,
+      "totale_file": 2388,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -245583,12 +245583,20 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/VAR GROUP SPA BONIFICO DEL 20_06_2026.pdf"
             },
             {
-              "nome": "VAR ONE SRL BONIFICO DEL 04_07_2026.pdf",
+              "nome": "VAR ONE Dettaglio bonifico istantaneo DEL 8_07_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/m6f5yy4lgie73977in6rb/VAR-ONE-SRL-BONIFICO-DEL-04_07_2026.pdf?rlkey=g5wjj5lnku4kpuxr8cbauglzw&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/9xli6mjh10dyx2i10pj8t/VAR-ONE-Dettaglio-bonifico-istantaneo-DEL-8_07_2026.pdf?rlkey=8p7mrxljonodqivn5kea7ju9y&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/VAR ONE Dettaglio bonifico istantaneo DEL 8_07_2026.pdf"
+            },
+            {
+              "nome": "VAR ONE SRL BONIFICO DEL 04_07_2026 ANNULLATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/m6f5yy4lgie73977in6rb/VAR-ONE-SRL-BONIFICO-DEL-04_07_2026-ANNULLATO.pdf?rlkey=g5wjj5lnku4kpuxr8cbauglzw&dl=0?raw=1",
               "dimensione_kb": 47,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/VAR ONE SRL BONIFICO DEL 04_07_2026.pdf"
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/VAR ONE SRL BONIFICO DEL 04_07_2026 ANNULLATO.pdf"
             },
             {
               "nome": "VENTURA GIANLUCA pdf1244633227020630928.pdf",
@@ -245615,7 +245623,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2367
+          "_totale_file": 2368
         }
       ],
       "file": []
