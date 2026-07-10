@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-10T02:40:50Z",
-  "totale_file": 25617,
+  "generato": "2026-07-10T05:41:39Z",
+  "totale_file": 25622,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6173,
+      "totale_file": 6178,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1992,6 +1992,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PIZZERIA DA ANGELO DI IACUZIO ANGELO Consegna_260305_20260529_170408 RIF. PALETTINO PIZZA.pdf"
             },
             {
+              "nome": "Panificio AGRELLO di MICELI ANNA MARIA Consegna_260553_20260708_123408 RIF. PIATTO PIZZA NAPOLI 31 Basato su Ordini cliente 260261..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s6qozxbhcp4zjr6p3kz31/Panificio-AGRELLO-di-MICELI-ANNA-MARIA-Consegna_260553_20260708_123408-RIF.-PIATTO-PIZZA-NAPOLI-31-Basato-su-Ordini-cliente-260261..pdf?rlkey=uozhel7ye84zf1y1isdq7hjk5&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio AGRELLO di MICELI ANNA MARIA Consegna_260553_20260708_123408 RIF. PIATTO PIZZA NAPOLI 31 Basato su Ordini cliente 260261..pdf"
+            },
+            {
               "nome": "Panificio FERRARO di SCHETTINI ANGELO A. Consegna_260361_20260602_224452 RIF. ASSISTENZA SU TERMOIMPELLICOLATRICE SOSTITUZIONE RESISTENZA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2360,7 +2368,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 293
+          "_totale_file": 294
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -3824,6 +3832,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Offerta di vendita_260223_20260618_181718 RIF. SECCHIELLI ACRILICO.pdf"
             },
             {
+              "nome": "Azienda Agricola MAIMONE FLAVIA Offerta di vendita_260253_20260708_194006.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nfvth1fxkmqxk5rebw5i7/Azienda-Agricola-MAIMONE-FLAVIA-Offerta-di-vendita_260253_20260708_194006.pdf?rlkey=d3cup8sede9l2pn4484ll319k&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Azienda Agricola MAIMONE FLAVIA Offerta di vendita_260253_20260708_194006.pdf"
+            },
+            {
               "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Offerta di vendita_260013_20260708_094920 RIF. ASSISTENZA SU LAVASTOVIGLIE ATA MOD. AL 500.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4240,6 +4256,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA QUIETE DEL VECCHIO PINO di OLIVA LUCIANA Offerta di vendita_260206_20260608_091742 RIF. ARMADIO FRIGO COLDLINE A701ME.pdf"
             },
             {
+              "nome": "LA SECCA di FULCO ANTONIO Offerta di vendita_260254_20260709_105036 RIF. VETRINA DA BANCO REFRIGERATA, +2+8°C ATOSA MOD.WTF110L CM 70.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jbr8vnggr29hicdm4agnl/LA-SECCA-di-FULCO-ANTONIO-Offerta-di-vendita_260254_20260709_105036-RIF.-VETRINA-DA-BANCO-REFRIGERATA-2-8-C-ATOSA-MOD.WTF110L-CM-70.pdf?rlkey=mubbiggvcz282he00fpgcvae8&dl=0?raw=1",
+              "dimensione_kb": 80,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA SECCA di FULCO ANTONIO Offerta di vendita_260254_20260709_105036 RIF. VETRINA DA BANCO REFRIGERATA, +2+8°C ATOSA MOD.WTF110L CM 70.pdf"
+            },
+            {
               "nome": "LA TANA GROUP SRL Offerta di vendita_260181_20260521_114754 RIF. SEDIA IN POLIPROPILENE MOD. CHIAVARINA, COLORE BIANCO, IMPIL.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4640,7 +4664,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 110
+          "_totale_file": 112
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -28343,7 +28367,7 @@
                               "nome": "PASTICCERIA TUZIO OFFERTA ABBATTITORE + IMPASTATRICE.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/aqmiimqq4q505x7hmgr2p/PASTICCERIA-TUZIO-OFFERTA-ABBATTITORE-IMPASTATRICE.pdf?rlkey=e9u7z60z5f796t45y9g6rgdh2&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 73,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PASTICCERIA TUZIO/ARCHIVIO/PASTICCERIA TUZIO OFFERTA ABBATTITORE + IMPASTATRICE.pdf"
                             },
@@ -62971,6 +62995,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GFI Ordine cliente_260230_20260625_100227 RIF. Basato su Offerte di vendita 260233..pdf"
             },
             {
+              "nome": "GIANFRANCO FORMAGGIO Ordine cliente_260262_20260708_131331 RIF. MATIC 35.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rl6zre3tqmnnja308mq5a/GIANFRANCO-FORMAGGIO-Ordine-cliente_260262_20260708_131331-RIF.-MATIC-35.pdf?rlkey=mbdk7rf1vwssgw3tyyhnzizab&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GIANFRANCO FORMAGGIO Ordine cliente_260262_20260708_131331 RIF. MATIC 35.pdf"
+            },
+            {
               "nome": "GIOEL MARCON Ordine cliente_260196_20260609_131613 RIF. CONICA CARAFFA LT.1 MORINI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -63379,6 +63411,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PDM SRL Ordine cliente_260198_20260609_133726 RIF. GUARNIZIONE PORTA SCC BONIFICO BANCARIO.pdf"
             },
             {
+              "nome": "Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1uybgp5xhdwlabm16kp4r/Panificio-AGRELLO-di-MICELI-ANNA-MARIA-Ordine-cliente_260261_20260708_123358-RIF.-PIATTO-PIZZA-NAPOLI-31.pdf?rlkey=9uj7j4vovy9ijdc1f9in32akg&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf"
+            },
+            {
               "nome": "RI. SA. LU srls Ordine cliente_260197_20260609_132712 RIF. DETERGENTE E GUARNIZIONE RATIONAL.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -63563,7 +63603,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260260_20260708_110543 RIF. COPPIA GUIDE ARMADIO COLDLINE.pdf"
             }
           ],
-          "_totale_file": 129
+          "_totale_file": 131
         }
       ],
       "file": []
