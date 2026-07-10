@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-10T05:41:39Z",
-  "totale_file": 25622,
+  "generato": "2026-07-10T07:47:20Z",
+  "totale_file": 25625,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -183119,7 +183119,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4851,
+      "totale_file": 4854,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -183871,6 +183871,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260126_20260615_173829.pdf"
             },
             {
+              "nome": "REPA ITALIA SRL Entrata merci da fornitore_260139_20260708_122708 RIF. Basato su Ordini d'acquisto 260163..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pau6lrh7zhrldqvbzpj29/REPA-ITALIA-SRL-Entrata-merci-da-fornitore_260139_20260708_122708-RIF.-Basato-su-Ordini-d-acquisto-260163..pdf?rlkey=ifuap6efhl7ewguie0agte1ro&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260139_20260708_122708 RIF. Basato su Ordini d'acquisto 260163..pdf"
+            },
+            {
               "nome": "SIRMAN DDT N° 2025134519 DEL 28.10.2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -183967,7 +183975,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 105
+          "_totale_file": 106
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -191602,7 +191610,7 @@
               "nome": "Wind Tre S.p.A_TS2500346492_2025-05-15.xml",
               "tipo": "File",
               "icona": "📎",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/36lelfthbb8h33bn32w8t/Wind-Tre-S.p.A_TS2500346492_2025-05-15.xml?rlkey=7ru6pp1wi4g6ec1lc55kclv16&dl=0?raw=1",
               "dimensione_kb": 4,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Wind Tre S.p.A_TS2500346492_2025-05-15.xml"
             },
@@ -223143,6 +223151,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR PROFESSIONAL srl Ordine dacquisto_260104_20260519_194619 RIF. GRIGLIA FORATA PER GRIGLIARE.pdf"
                 },
                 {
+                  "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260162_20260708_122004 RIF. DETERGENTE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pridhjxre1ixqnj9pg07p/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260162_20260708_122004-RIF.-DETERGENTE.pdf?rlkey=m8lll7h21q8a46bupl4ybm8v1&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR PROFESSIONAL srl Ordine dacquisto_260162_20260708_122004 RIF. DETERGENTE.pdf"
+                },
+                {
                   "nome": "MORINI CONFERMA 003OC20252098803 DEL 02_09_2025.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -223839,7 +223855,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3659
+              "_totale_file": 3660
             }
           ],
           "file": [
@@ -224040,16 +224056,8 @@
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/wbzbhimrp0wx4jiesf3tl/MODULAR-CONFERMA-ORDINE-26_06023-MD_SaleOrdForm_2022-RIF.-DETERGENTE-FORNO.pdf?rlkey=o5mouka7n56jxugm2lke9vgg1&dl=0?raw=1",
-              "dimensione_kb": 129,
+              "dimensione_kb": 140,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26_06023 MD_SaleOrdForm_2022 RIF. DETERGENTE FORNO.pdf"
-            },
-            {
-              "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260162_20260708_122004 RIF. DETERGENTE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/pridhjxre1ixqnj9pg07p/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260162_20260708_122004-RIF.-DETERGENTE.pdf?rlkey=m8lll7h21q8a46bupl4ybm8v1&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260162_20260708_122004 RIF. DETERGENTE.pdf"
             },
             {
               "nome": "MORINI s.r.l. Ordine dacquisto_260139_20260617_105747 RIF. HAPPY MOMENTS SANTA LUCIA AIA DEI CAPPELLANI Basato su Ordin.pdf",
@@ -224140,6 +224148,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260159_20260707_131616.pdf"
             },
             {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260163_20260708_122552.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6o48ezor171d9p3mpcluu/REPA-ITALIA-SRL-Ordine-dacquisto_260163_20260708_122552.pdf?rlkey=xynuclnbceg2mr4e6u2t24js1&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260163_20260708_122552.pdf"
+            },
+            {
               "nome": "SIRMAN CONFERMA ORDINE RIF. RICAMBI SOTTOVUOTO VE.RO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -224188,6 +224204,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             },
             {
+              "nome": "TOMA CONFERMA 1100_A Ordini_clienti RIF. BERRETTI E CUFFIE.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qajzdsjqkefgshd111czy/TOMA-CONFERMA-1100_A-Ordini_clienti-RIF.-BERRETTI-E-CUFFIE.PDF?rlkey=6sxrkz7rkkxymq9zidvp52w6r&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TOMA CONFERMA 1100_A Ordini_clienti RIF. BERRETTI E CUFFIE.PDF"
+            },
+            {
               "nome": "TOMA SRL Ordine dacquisto_260161_20260708_104124 RIF. Basato su Ordini cliente 260258..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -224220,7 +224244,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
             }
           ],
-          "_totale_file": 3706
+          "_totale_file": 3708
         }
       ],
       "file": [
