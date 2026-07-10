@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-10T00:36:15Z",
-  "totale_file": 25614,
+  "generato": "2026-07-10T02:40:50Z",
+  "totale_file": 25617,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -140160,7 +140160,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4436,
+      "totale_file": 4439,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -140346,6 +140346,30 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/3W SISTEMI SRLS - Z3 ENGINEERING SRL/3W FT 66_2023 DEL 04_.03_2023.pdf"
             },
             {
+              "nome": "VAR ONE srl_2026001771_2026-03-03.xml.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7n01epl5iaqhf5qzhxn05/VAR-ONE-srl_2026001771_2026-03-03.xml.pdf?rlkey=wmh5hg6ztsnjk4ughltpzlzne&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/FORNITORI/3W SISTEMI SRLS - Z3 ENGINEERING SRL/VAR ONE srl_2026001771_2026-03-03.xml.pdf"
+            },
+            {
+              "nome": "Z3 Engineering Srl_25010253_2025-02-14.xml.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1mposp9jom9ctaubco4qh/Z3-Engineering-Srl_25010253_2025-02-14.xml.pdf?rlkey=6bues5tz1gw4k6kvrm6079p3w&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/FORNITORI/3W SISTEMI SRLS - Z3 ENGINEERING SRL/Z3 Engineering Srl_25010253_2025-02-14.xml.pdf"
+            },
+            {
+              "nome": "Z3 Engineering Srl_26010182_2026-01-31.xml.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/y29rha84rapt1u50216zw/Z3-Engineering-Srl_26010182_2026-01-31.xml.pdf?rlkey=zweodf0l3o6s0u4l0f5bu25b9&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/FORNITORI/3W SISTEMI SRLS - Z3 ENGINEERING SRL/Z3 Engineering Srl_26010182_2026-01-31.xml.pdf"
+            },
+            {
               "nome": "Z3 FT 23010376 DEL 28_02_2023.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -140354,7 +140378,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/3W SISTEMI SRLS - Z3 ENGINEERING SRL/Z3 FT 23010376 DEL 28_02_2023.pdf"
             }
           ],
-          "_totale_file": 19
+          "_totale_file": 22
         },
         {
           "nome": "4UTIME",
