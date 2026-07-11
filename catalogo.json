@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-11T02:41:06Z",
-  "totale_file": 25625,
+  "generato": "2026-07-11T05:44:10Z",
+  "totale_file": 25637,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6178,
+      "totale_file": 6190,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1182,6 +1182,14 @@
               "link": "https://www.dropbox.com/scl/fi/iqe322b8ovq45hyb256eo/HOTEL-PISACANE-S.-R.-L.-Consegna_260396_20260612_091028-RIF.-ECOJETSAN-LT1.pdf?rlkey=u7s4qqn0c2lm4v4twmsli1w9w&dl=0?raw=1",
               "dimensione_kb": 50,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HOTEL PISACANE S. R. L. Consegna_260396_20260612_091028 RIF. ECOJETSAN LT1.pdf"
+            },
+            {
+              "nome": "HOTEL PISACANE S. R. L. Consegna_260554_20260710_120057 RIF. ECOJETSAN Basato su Ordini cliente 260263..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6capkgbomicoyrp4x0969/HOTEL-PISACANE-S.-R.-L.-Consegna_260554_20260710_120057-RIF.-ECOJETSAN-Basato-su-Ordini-cliente-260263..pdf?rlkey=3ncagpvwif56fjrl80sf433bh&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HOTEL PISACANE S. R. L. Consegna_260554_20260710_120057 RIF. ECOJETSAN Basato su Ordini cliente 260263..pdf"
             },
             {
               "nome": "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Consegna_260298_20260527_091623 RIF. LAVABAR IN COMODATO.pdf",
@@ -2368,7 +2376,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 294
+          "_totale_file": 295
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -2782,6 +2790,14 @@
               "link": "https://www.dropbox.com/scl/fi/xu5r9z07pr04qegqph1i8/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Fattura-di-vendita_2600270_20260705_212754-RIF.-ASSISTENZA-SU-FORNO-RATIONAL-ICOMBI-CLASSIC-61-TRATTAMENTO-D.pdf?rlkey=5g394km0edqp3st0zur96syzn&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FA TU PIZZA AND MORE FA TU SRL Fattura di vendita_2600270_20260705_212754 RIF. ASSISTENZA SU FORNO RATIONAL ICOMBI CLASSIC 61 TRATTAMENTO D.pdf"
+            },
+            {
+              "nome": "FALCONE SAS di FALCONE ALESSANDRO & C. Fattura di vendita_2600279_20260710_114811 RIF. RINFRESCATORE IN COMODATO Basato su Offerte di vendita 21058.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/58nxjge1btlpzgcwi0ikx/FALCONE-SAS-di-FALCONE-ALESSANDRO-C.-Fattura-di-vendita_2600279_20260710_114811-RIF.-RINFRESCATORE-IN-COMODATO-Basato-su-Offerte-di-vendita-21058.pdf?rlkey=kbzdca66jithp9ck9eudwosm5&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FALCONE SAS di FALCONE ALESSANDRO & C. Fattura di vendita_2600279_20260710_114811 RIF. RINFRESCATORE IN COMODATO Basato su Offerte di vendita 21058.pdf"
             },
             {
               "nome": "FOODEX SRL Fattura di vendita_2600208_20260612_105758 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf",
@@ -3760,7 +3776,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 173
+          "_totale_file": 174
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -3782,6 +3798,22 @@
               "link": "https://www.dropbox.com/scl/fi/rz1hnutuyrq1ga7qctou8/3AM-SRL-HOTEL-MARTINO-Offerta-di-vendita_260235_20260625_111239-RIF.-OFFERTA-MACCHINA-DA-CAFFE-CASADIO-E-MANCINADOSATORE.pdf?rlkey=xrhu53zamp1ns81cgpvrmyfsv&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/3AM SRL HOTEL MARTINO Offerta di vendita_260235_20260625_111239 RIF. OFFERTA MACCHINA DA CAFFE' CASADIO E MANCINADOSATORE.pdf"
+            },
+            {
+              "nome": "4.0 SRLS YUMARA Offerta di vendita_260257_20260710_090940.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hreygj654s6gwm7uw4yqr/4.0-SRLS-YUMARA-Offerta-di-vendita_260257_20260710_090940.pdf?rlkey=slk9hnj8ouum9to4tcla8srj1&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/4.0 SRLS YUMARA Offerta di vendita_260257_20260710_090940.pdf"
+            },
+            {
+              "nome": "AGRITURISMO COCCOVELLO di DA SILVA SOUZA MARIA ALICE Offerta di vendita_260258_20260710_102449 RIF. MACINADOSATORE MD5000, OUTPUT GS 3,CAP.TRAMOGGIA KG1100, Ø M.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ermsftdu54h9w1masg7la/AGRITURISMO-COCCOVELLO-di-DA-SILVA-SOUZA-MARIA-ALICE-Offerta-di-vendita_260258_20260710_102449-RIF.-MACINADOSATORE-MD5000-OUTPUT-GS-3-CAP.TRAMOGGIA-KG1100-M.pdf?rlkey=eie6rg3b4z7mioec1iy062q77&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO COCCOVELLO di DA SILVA SOUZA MARIA ALICE Offerta di vendita_260258_20260710_102449 RIF. MACINADOSATORE MD5000, OUTPUT GS 3,CAP.TRAMOGGIA KG1100, Ø M.pdf"
             },
             {
               "nome": "AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Offerta di vendita_260251_20260705_190531 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA IMF 35W-Q MATRICO.pdf",
@@ -4264,6 +4296,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA SECCA di FULCO ANTONIO Offerta di vendita_260254_20260709_105036 RIF. VETRINA DA BANCO REFRIGERATA, +2+8°C ATOSA MOD.WTF110L CM 70.pdf"
             },
             {
+              "nome": "LA SECCA di FULCO ANTONIO Offerta di vendita_260259_20260710_104207 RIF. VETRINA REFRIGERATA DA BANCO VPR100 CON VETRO CURVO,CAPACITA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ezoasghm3tkwgdfgeh50y/LA-SECCA-di-FULCO-ANTONIO-Offerta-di-vendita_260259_20260710_104207-RIF.-VETRINA-REFRIGERATA-DA-BANCO-VPR100-CON-VETRO-CURVO-CAPACITA.pdf?rlkey=jnrwmmm0lo30loe5a5mwxrl7u&dl=0?raw=1",
+              "dimensione_kb": 79,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA SECCA di FULCO ANTONIO Offerta di vendita_260259_20260710_104207 RIF. VETRINA REFRIGERATA DA BANCO VPR100 CON VETRO CURVO,CAPACITA.pdf"
+            },
+            {
               "nome": "LA TANA GROUP SRL Offerta di vendita_260181_20260521_114754 RIF. SEDIA IN POLIPROPILENE MOD. CHIAVARINA, COLORE BIANCO, IMPIL.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4584,6 +4624,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Offerta di vendita_260213_20260612_090317.pdf"
             },
             {
+              "nome": "SIRTAKI S.R.L.S Offerta di vendita_260260_20260710_105118 RIF. TRICARNE MOD.12TS.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dvbn0lwhb5bmgo4xt75i8/SIRTAKI-S.R.L.S-Offerta-di-vendita_260260_20260710_105118-RIF.-TRICARNE-MOD.12TS.pdf?rlkey=16a3ib5pakpui939baf1dxvh6&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/SIRTAKI S.R.L.S Offerta di vendita_260260_20260710_105118 RIF. TRICARNE MOD.12TS.pdf"
+            },
+            {
               "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260166_20260515_120913 RIF. MIXER A IMMERSIONE FIMAR MX 25.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4656,6 +4704,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/YOU MARINA S.R.L. Offerta di vendita_260246_20260703_155229 RIF. CAPPA DN 435 CON ASPIRATORE AC 230V 5060HZ.pdf"
             },
             {
+              "nome": "YOU MARINA S.R.L. Offerta di vendita_260255_20260710_074041.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rkqo0s47h7752tlb4c221/YOU-MARINA-S.R.L.-Offerta-di-vendita_260255_20260710_074041.pdf?rlkey=33ntyo43763boo7dnt9clj0lx&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/YOU MARINA S.R.L. Offerta di vendita_260255_20260710_074041.pdf"
+            },
+            {
+              "nome": "YOU MARINA S.R.L. Offerta di vendita_260256_20260710_074250.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/j06dacuzlhsgbi2az5drm/YOU-MARINA-S.R.L.-Offerta-di-vendita_260256_20260710_074250.pdf?rlkey=avrbhxya2xbohtaoalmwsy91p&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/YOU MARINA S.R.L. Offerta di vendita_260256_20260710_074250.pdf"
+            },
+            {
               "nome": "ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4664,7 +4728,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 112
+          "_totale_file": 118
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -6413,6 +6477,46 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_07_10 AGRITURISMO COCCOVELLO MACINADOSATORE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_10 AGRITURISMO COCCOVELLO MACINADOSATORE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Brochure-ITA-ENG.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mzaec1zn5x3ergor0iygm/Brochure-ITA-ENG.pdf?rlkey=hjnoqe0dmkis8ykd8qd2jg4y1&dl=0?raw=1",
+                  "dimensione_kb": 3632,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_10 AGRITURISMO COCCOVELLO MACINADOSATORE/Brochure-ITA-ENG.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_07_10 SIRTAKI TRITACARNE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_10 SIRTAKI TRITACARNE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "shop.fimargroup.it_interactive1_index.php_route=product_documentation&product_id=2924&filter_category_id=1037.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/boqnn5lz8q2kmpdteiezq/shop.fimargroup.it_interactive1_index.php_route-product_documentation-product_id-2924-filter_category_id-1037.pdf?rlkey=2glygno3ch4cuiumcpijddhhm&dl=0?raw=1",
+                  "dimensione_kb": 104,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_10 SIRTAKI TRITACARNE/shop.fimargroup.it_interactive1_index.php_route=product_documentation&product_id=2924&filter_category_id=1037.pdf"
+                },
+                {
+                  "nome": "shop.fimargroup.it_interactive1_index.php_route=product_documentation&product_id=829&filter_category_id=2128.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1zdys0995ta1fnij9k0bo/shop.fimargroup.it_interactive1_index.php_route-product_documentation-product_id-829-filter_category_id-2128.pdf?rlkey=xdoxigtoclxeznff7d6t5z2qf&dl=0?raw=1",
+                  "dimensione_kb": 105,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_10 SIRTAKI TRITACARNE/shop.fimargroup.it_interactive1_index.php_route=product_documentation&product_id=829&filter_category_id=2128.pdf"
+                }
+              ],
+              "_totale_file": 2
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -28367,7 +28471,7 @@
                               "nome": "PASTICCERIA TUZIO OFFERTA ABBATTITORE + IMPASTATRICE.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": null,
+                              "link": "https://www.dropbox.com/scl/fi/aqmiimqq4q505x7hmgr2p/PASTICCERIA-TUZIO-OFFERTA-ABBATTITORE-IMPASTATRICE.pdf?rlkey=e9u7z60z5f796t45y9g6rgdh2&dl=0?raw=1",
                               "dimensione_kb": 73,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/PASTICCERIA TUZIO/ARCHIVIO/PASTICCERIA TUZIO OFFERTA ABBATTITORE + IMPASTATRICE.pdf"
                             },
@@ -62547,7 +62651,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5468
+          "_totale_file": 5471
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -63073,6 +63177,14 @@
               "link": "https://www.dropbox.com/scl/fi/8f3s1y9ke5npzd7vkcqxl/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Ordine-cliente_260215_20260617_100845.pdf?rlkey=jbrb7aeqs06y0g7c3l3ycsdka&dl=0?raw=1",
               "dimensione_kb": 59,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260215_20260617_100845.pdf"
+            },
+            {
+              "nome": "HOTEL PISACANE S. R. L. Ordine cliente_260263_20260710_115957 RIF. ECOJETSAN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pv2sknfwwv04975ngh0f9/HOTEL-PISACANE-S.-R.-L.-Ordine-cliente_260263_20260710_115957-RIF.-ECOJETSAN.pdf?rlkey=w5rhogtgcx2plefilxrgt95sq&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HOTEL PISACANE S. R. L. Ordine cliente_260263_20260710_115957 RIF. ECOJETSAN.pdf"
             },
             {
               "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Ordine cliente_260229_20260624_094227 RIF. BACINELLLE INOX E POLIPROPILENE.pdf",
@@ -63603,7 +63715,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260260_20260708_110543 RIF. COPPIA GUIDE ARMADIO COLDLINE.pdf"
             }
           ],
-          "_totale_file": 131
+          "_totale_file": 132
         }
       ],
       "file": []
