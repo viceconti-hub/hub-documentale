@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-11T07:44:45Z",
-  "totale_file": 25638,
+  "generato": "2026-07-11T08:48:53Z",
+  "totale_file": 25640,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -224382,7 +224382,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2388,
+      "totale_file": 2390,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -245303,6 +245303,22 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR COPIA TITOLO BPER SCADENZA 31_03_2026.pdf"
             },
             {
+              "nome": "FIMAR COPIA TITOLO SCADENZE DEL 31 LUGLIO 2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xfrhvt2znlj1yoe73t8f9/FIMAR-COPIA-TITOLO-SCADENZE-DEL-31-LUGLIO-2026.pdf?rlkey=ikx9coo3e7dajc5jtwdlloyc2&dl=0?raw=1",
+              "dimensione_kb": 807,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR COPIA TITOLO SCADENZE DEL 31 LUGLIO 2026.pdf"
+            },
+            {
+              "nome": "FIMAR Dettaglio bonifico istantaneo DEL 10_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cwmrbgjv6g1enjq9wv2yv/FIMAR-Dettaglio-bonifico-istantaneo-DEL-10_07_2026.pdf?rlkey=7adiq553i5loh7wj6bcrjxx66&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR Dettaglio bonifico istantaneo DEL 10_07_2026.pdf"
+            },
+            {
               "nome": "FIMAR Dettaglio bonifico istantaneo DEL 15_05_2026 SCADENZE DEL 31_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -245831,7 +245847,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2368
+          "_totale_file": 2370
         }
       ],
       "file": []
