@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-11T05:44:10Z",
-  "totale_file": 25637,
+  "generato": "2026-07-11T07:44:45Z",
+  "totale_file": 25638,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -183231,7 +183231,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4854,
+      "totale_file": 4855,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -224172,6 +224172,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26_06023 MD_SaleOrdForm_2022 RIF. DETERGENTE FORNO.pdf"
             },
             {
+              "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260162_20260708_122004 RIF. DETERGENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/01idoxddq64vfad31426o/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260162_20260708_122004-RIF.-DETERGENTE.pdf?rlkey=ta4unylmt3bv60z1z7on3kr4p&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260162_20260708_122004 RIF. DETERGENTE.pdf"
+            },
+            {
               "nome": "MORINI s.r.l. Ordine dacquisto_260139_20260617_105747 RIF. HAPPY MOMENTS SANTA LUCIA AIA DEI CAPPELLANI Basato su Ordin.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -224356,7 +224364,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
             }
           ],
-          "_totale_file": 3708
+          "_totale_file": 3709
         }
       ],
       "file": [
