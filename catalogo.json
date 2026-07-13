@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-13T07:56:18Z",
-  "totale_file": 25661,
+  "generato": "2026-07-13T09:03:43Z",
+  "totale_file": 25662,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -224550,7 +224550,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2390,
+      "totale_file": 2391,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -245095,6 +245095,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/AMETRANO COPIA TITOLO INTESA 15_06_2026.pdf"
             },
             {
+              "nome": "ARDITO Dettaglio bonifico DEL 13_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iu5rb8gr9acydn1fdvnwh/ARDITO-Dettaglio-bonifico-DEL-13_07_2026.pdf?rlkey=d8qivc7j9epeq2faljk22imrs&dl=0?raw=1",
+              "dimensione_kb": 102,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARDITO Dettaglio bonifico DEL 13_07_2026.pdf"
+            },
+            {
               "nome": "ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -246015,7 +246023,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2370
+          "_totale_file": 2371
         }
       ],
       "file": []
