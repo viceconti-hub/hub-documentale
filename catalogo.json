@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-13T02:43:25Z",
-  "totale_file": 25640,
+  "generato": "2026-07-13T05:48:53Z",
+  "totale_file": 25660,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6190,
+      "totale_file": 6210,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1000,6 +1000,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260313_20260531_091843 RIF. COLTELLI PRESSO PUNTO VENDITA DI MARATEA.pdf"
             },
             {
+              "nome": "GRAN SOLE S.r.l. Consegna_260558_20260712_180606 RIF. OFFERTA SPECIALE TRITACARNE MOD.TC 22 COLORADO TRIFASE PRESS.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0f8ln6tvfbhk0ldbgrz2l/GRAN-SOLE-S.r.l.-Consegna_260558_20260712_180606-RIF.-OFFERTA-SPECIALE-TRITACARNE-MOD.TC-22-COLORADO-TRIFASE-PRESS.pdf?rlkey=uly7ydspo7mujjtrju4wqbu2s&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260558_20260712_180606 RIF. OFFERTA SPECIALE TRITACARNE MOD.TC 22 COLORADO TRIFASE PRESS.pdf"
+            },
+            {
+              "nome": "GRISOLIA DOMENICO Consegna_260555_20260710_180725 RIF. COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 26007.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2h9w7jvijx93qyaib1m55/GRISOLIA-DOMENICO-Consegna_260555_20260710_180725-RIF.-COPERCHI-ALLUMINIO-MORINI-Basato-su-Offerte-di-vendita-26007.pdf?rlkey=gfifgqokepmhwpvcj1j9900yb&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRISOLIA DOMENICO Consegna_260555_20260710_180725 RIF. COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 26007.pdf"
+            },
+            {
               "nome": "H.END SAS di ANANIA P. & F. Consegna_260353_20260602_221557 RIF. ASSISTENZA SU MACCHINA DA CAFFE' FAEMA E61 LEGEND MATRICOLA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1552,6 +1568,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260294_20260525_160903 RIF. DETERGENTE RATIONAL.pdf"
             },
             {
+              "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260557_20260711_095727 RIF. DETERGENTE RATIONAL ROSSO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2yh535dz0gnh1x3y9kcx5/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Consegna_260557_20260711_095727-RIF.-DETERGENTE-RATIONAL-ROSSO.pdf?rlkey=n35w1bnot5fw6gz59vdzj17ag&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260557_20260711_095727 RIF. DETERGENTE RATIONAL ROSSO.pdf"
+            },
+            {
               "nome": "LIDO GOLDEN BEACH di LUCI GIUSEPPE Consegna_260320_20260531_094017 RIF. ASSISTENZA SU CUCINA 6 FUOCHI SOSTITUZIONE BRUCIATORE PILOTA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1638,6 +1662,14 @@
               "link": "https://www.dropbox.com/scl/fi/0mt5hczo05n4l256oryf7/M-M-SRL-Consegna_260501_20260701_085052-RIF.-SOLO-PER-CONSEGNA-DATA-AGGIORNAMENTO-TESTO-LIBERO-28_02_2026.pdf?rlkey=xhka8608xuphgtdbonw90hi6h&dl=0?raw=1",
               "dimensione_kb": 56,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/M&M SRL Consegna_260501_20260701_085052 RIF. SOLO PER CONSEGNA DATA AGGIORNAMENTO TESTO LIBERO 28_02_2026.pdf"
+            },
+            {
+              "nome": "M&M SRL Consegna_260556_20260711_064106 RIF. DOCCIA PRELAVAGGIO E MISCELATORI Basato su Offerte di vendit.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ix3qsi3hvenw7zdummfpn/M-M-SRL-Consegna_260556_20260711_064106-RIF.-DOCCIA-PRELAVAGGIO-E-MISCELATORI-Basato-su-Offerte-di-vendit.pdf?rlkey=8hhf2zaao96ougjgi4xq3amjh&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/M&M SRL Consegna_260556_20260711_064106 RIF. DOCCIA PRELAVAGGIO E MISCELATORI Basato su Offerte di vendit.pdf"
             },
             {
               "nome": "MACELLERIA LOSARDO GIOVANNINO Consegna_260364_20260603_092738 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
@@ -2376,7 +2408,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 295
+          "_totale_file": 299
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -2462,6 +2494,14 @@
               "link": "https://www.dropbox.com/scl/fi/nbjdl7d5fatj465amewqg/BHOTEL-SRL-Fattura-di-vendita_2600210_20260612_142252-RIF.-BICCHIERE-COOLER-CORTINA-Basato-su-Offerte-di-vendita-260184.pdf?rlkey=btmhxoqnyflso8gs5hxki397i&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BHOTEL SRL Fattura di vendita_2600210_20260612_142252 RIF. BICCHIERE COOLER CORTINA Basato su Offerte di vendita 260184.pdf"
+            },
+            {
+              "nome": "Bartolino Snc di Orefice Bartolomeo & C. Fattura di vendita_2600283_20260712_164344 RIF. COPERCHIO GRIGLIATO INOX 12-18-25-38 SN-FN-CN PAGAMENTO EFFE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xj41hlipfoefocio1c1r1/Bartolino-Snc-di-Orefice-Bartolomeo-C.-Fattura-di-vendita_2600283_20260712_164344-RIF.-COPERCHIO-GRIGLIATO-INOX-12-18-25-38-SN-FN-CN-PAGAMENTO-EFFE.pdf?rlkey=f434b9u5xe87xdan184vurfoj&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/Bartolino Snc di Orefice Bartolomeo & C. Fattura di vendita_2600283_20260712_164344 RIF. COPERCHIO GRIGLIATO INOX 12-18-25-38 SN-FN-CN PAGAMENTO EFFE.pdf"
             },
             {
               "nome": "Billy Bar di SCALDAFERRI PIETRO Fattura di vendita_2600215_20260620_190724 RIF. DETERGENTE Basato su Ordini cliente 260222. Basato su Conseg.pdf",
@@ -2688,6 +2728,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/DITTA CANTISANI MARIA Fattura di vendita_2600273_20260705_213951 RIF. GUARNIZIONI Basato su Consegne 260542..pdf"
             },
             {
+              "nome": "EMMEGIEFFE DI FALCONE MICHELE e C sas Fattura di vendita_2600284_20260712_170903 RIF. LAMA 300 LAMAFF0012A Basato su Ordini cliente 260168. PAGAME.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ad40jcxqok1mnukbsm2yn/EMMEGIEFFE-DI-FALCONE-MICHELE-e-C-sas-Fattura-di-vendita_2600284_20260712_170903-RIF.-LAMA-300-LAMAFF0012A-Basato-su-Ordini-cliente-260168.-PAGAME.pdf?rlkey=6iuuimzii87npfux0wfvz1bde&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/EMMEGIEFFE DI FALCONE MICHELE e C sas Fattura di vendita_2600284_20260712_170903 RIF. LAMA 300 LAMAFF0012A Basato su Ordini cliente 260168. PAGAME.pdf"
+            },
+            {
               "nome": "ESCOPOCO S.R.L. Fattura di vendita_2600134_20260608_084518 RIF. PENTOLAME Basato su Consegne 260139. 260150. 260193..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2886,6 +2934,14 @@
               "link": "https://www.dropbox.com/scl/fi/jzc7dr2diixeymdlmiiz1/GRAN-SOLE-S.r.l.-Fattura-di-vendita_2600139_20260603_211037-RIF.-ROTOLO-FILO-Basato-su-Ordini-cliente-260129.-PRESSO-PUNTO-VE.pdf?rlkey=7ybo4c01tsuh9upx8snvczxgt&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GRAN SOLE S.r.l. Fattura di vendita_2600139_20260603_211037 RIF. ROTOLO FILO Basato su Ordini cliente 260129. PRESSO PUNTO VE.pdf"
+            },
+            {
+              "nome": "GRAN SOLE S.r.l. Fattura di vendita_2600286_20260712_180642 RIF. OFFERTA SPECIALE TRITACARNE MOD.TC 22 COLORADO TRIFASE PRESS.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f85hs3oij2v61m4ssp7hp/GRAN-SOLE-S.r.l.-Fattura-di-vendita_2600286_20260712_180642-RIF.-OFFERTA-SPECIALE-TRITACARNE-MOD.TC-22-COLORADO-TRIFASE-PRESS.pdf?rlkey=prw5pil2vwmiq2usdnfrk3826&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GRAN SOLE S.r.l. Fattura di vendita_2600286_20260712_180642 RIF. OFFERTA SPECIALE TRITACARNE MOD.TC 22 COLORADO TRIFASE PRESS.pdf"
             },
             {
               "nome": "GRANOCIELO SRL Fattura di vendita_2600140_20260603_211224 RIF. Palettino pizza inox ø 26 cm forato manico 1.20 mt Basato su.pdf",
@@ -3126,6 +3182,14 @@
               "link": "https://www.dropbox.com/scl/fi/v9ojgcqoavw2rqxz92ke1/IL-LUCANO-SRLS-Fattura-di-vendita_2600244_20260626_210746-RIF.-BICCHIERI-ELECTRA-Basato-su-Ordini-cliente-260239.-Basato-su.pdf?rlkey=on3ljgyjw2zahx63lvyhoawzy&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL LUCANO SRLS Fattura di vendita_2600244_20260626_210746 RIF. BICCHIERI ELECTRA Basato su Ordini cliente 260239. Basato su.pdf"
+            },
+            {
+              "nome": "IL MAMMOLO DI MOIRA NESTI e C. SNC Fattura di vendita_2600281_20260712_161703 RIF. GUARNIZIONE PORTA SCC, CM 61 QTA' 2 PAGAMENTO EFFFETTUATO TR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vdkcodgujivy8d6uccvii/IL-MAMMOLO-DI-MOIRA-NESTI-e-C.-SNC-Fattura-di-vendita_2600281_20260712_161703-RIF.-GUARNIZIONE-PORTA-SCC-CM-61-QTA-2-PAGAMENTO-EFFFETTUATO-TR.pdf?rlkey=9yr88msd219pgwx759b1melq0&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL MAMMOLO DI MOIRA NESTI e C. SNC Fattura di vendita_2600281_20260712_161703 RIF. GUARNIZIONE PORTA SCC, CM 61 QTA' 2 PAGAMENTO EFFFETTUATO TR.pdf"
             },
             {
               "nome": "ILLY CAFFE' SPA Fattura di vendita_2600163_20260604_172034 RIF. ASSISTENZA SU MACCHINE DA CAFFE' Basato su Consegne 251253..pdf",
@@ -3416,6 +3480,30 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NOCERA STREET FOOD DI GIANNI NOCERA Fattura di vendita_2600187_20260607_183946 RIF. CESTELLI PER FRIGGITRICE LOTUS F18-74G MATRICOLA 23120290 Ba.pdf"
             },
             {
+              "nome": "ORIENTE SRL RISTORANTE PIZZERIA Fattura di vendita_2400454_20260712_182114 RIF. DET RAT Basato su Ordini cliente 240678. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lq6r09s7i2h8a9z27jkzp/ORIENTE-SRL-RISTORANTE-PIZZERIA-Fattura-di-vendita_2400454_20260712_182114-RIF.-DET-RAT-Basato-su-Ordini-cliente-240678.-Basato-su-Consegne.pdf?rlkey=9so27xjx6dgvr8jh1j2a28suw&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ORIENTE SRL RISTORANTE PIZZERIA Fattura di vendita_2400454_20260712_182114 RIF. DET RAT Basato su Ordini cliente 240678. Basato su Consegne.pdf"
+            },
+            {
+              "nome": "ORIENTE SRL RISTORANTE PIZZERIA Fattura di vendita_2500766_20260712_182128 RIF. INSTALLAZIONE COLLETTORE SCARICOFUMI E INTERRUTTORE DI CONDE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/agt7vz3qfuyi8pads8ktm/ORIENTE-SRL-RISTORANTE-PIZZERIA-Fattura-di-vendita_2500766_20260712_182128-RIF.-INSTALLAZIONE-COLLETTORE-SCARICOFUMI-E-INTERRUTTORE-DI-CONDE.pdf?rlkey=62xnye8i2jwb6khmp5z9fs5lm&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ORIENTE SRL RISTORANTE PIZZERIA Fattura di vendita_2500766_20260712_182128 RIF. INSTALLAZIONE COLLETTORE SCARICOFUMI E INTERRUTTORE DI CONDE.pdf"
+            },
+            {
+              "nome": "ORIENTE SRL RISTORANTE PIZZERIA Fattura di vendita_2500767_20260712_182143 RIF. ASSISTENZA SU FORNO RATIONAL ICOMBI PRO MATRICOLA G61SJ24023.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ejrte1isd3hi4q79fw44a/ORIENTE-SRL-RISTORANTE-PIZZERIA-Fattura-di-vendita_2500767_20260712_182143-RIF.-ASSISTENZA-SU-FORNO-RATIONAL-ICOMBI-PRO-MATRICOLA-G61SJ24023.pdf?rlkey=x0dckd81qs4mobf9jiuzbffn4&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ORIENTE SRL RISTORANTE PIZZERIA Fattura di vendita_2500767_20260712_182143 RIF. ASSISTENZA SU FORNO RATIONAL ICOMBI PRO MATRICOLA G61SJ24023.pdf"
+            },
+            {
               "nome": "PANAINO SRL UNIPERSONALE Fattura di vendita_2600217_20260622_115209 RIF. TAVOLO REFRIGERATO FORCAR Basato su Consegne 260180. 260380..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3528,12 +3616,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/Panificio FERRARO di SCHETTINI ANGELO A. Fattura di vendita_2600189_20260607_184056 RIF. ASSISTENZA SU TERMOIMPELLICOLATRICE SOSTITUZIONE RESISTENZA.pdf"
             },
             {
+              "nome": "RI.SA.LU srls Fattura di vendita_2600285_20260712_171337 RIF. DETERGENTE E GUARNIZIONE RATIONAL Basato su Ordini cliente 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9e2ir1zjr44p7stumk6qk/RI.SA.LU-srls-Fattura-di-vendita_2600285_20260712_171337-RIF.-DETERGENTE-E-GUARNIZIONE-RATIONAL-Basato-su-Ordini-cliente-2.pdf?rlkey=4a2kajphwbh9o7bvhh8mhfwjk&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/RI.SA.LU srls Fattura di vendita_2600285_20260712_171337 RIF. DETERGENTE E GUARNIZIONE RATIONAL Basato su Ordini cliente 2.pdf"
+            },
+            {
               "nome": "RISTO BRACERIA A L'URMO SNC di IANNELLI OTTAVIO & C. Fattura di vendita_2600162_20260604_161201 RIF. ASSISTENZA SU Griglia TecnoInox modello GR70E-0, matricola 3.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/jz5ai0kexa53skfgrsnh2/RISTO-BRACERIA-A-L-URMO-SNC-di-IANNELLI-OTTAVIO-C.-Fattura-di-vendita_2600162_20260604_161201-RIF.-ASSISTENZA-SU-Griglia-TecnoInox-modello-GR70E-0-matricola-3.pdf?rlkey=zoe9v1zk8ssch3cnmkhwaywzd&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/RISTO BRACERIA A L'URMO SNC di IANNELLI OTTAVIO & C. Fattura di vendita_2600162_20260604_161201 RIF. ASSISTENZA SU Griglia TecnoInox modello GR70E-0, matricola 3.pdf"
+            },
+            {
+              "nome": "RISTORANTE DARIA SRL Fattura di vendita_2600282_20260712_163322 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 PAGAMENTO EFFETTUATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0uhuczqy70wrm3u4w2hyt/RISTORANTE-DARIA-SRL-Fattura-di-vendita_2600282_20260712_163322-RIF.-GUARNIZIONE-PORTA-SCC-CM-61-DAL-042004-PAGAMENTO-EFFETTUATO.pdf?rlkey=3zmjd4jzprkqhiggjfwht3sw1&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/RISTORANTE DARIA SRL Fattura di vendita_2600282_20260712_163322 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 PAGAMENTO EFFETTUATO.pdf"
             },
             {
               "nome": "RUGGIERO MARIACHIARA Fattura di vendita_2600164_20260605_105718 RIF. CASSETTE PIZZA E TEGLIE Basato su Offerte di vendita 260195..pdf",
@@ -3558,6 +3662,14 @@
               "link": "https://www.dropbox.com/scl/fi/37xmdgdtkascbr2jo0vra/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600241_20260626_082205-RIF.-ASSISTENZA-SU-FORNO-RATIONAL-I-COMBI-PRO-MATRICOLA-E61SJ2305.pdf?rlkey=p2wbr8e3zm9d0cn81uw358w7w&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600241_20260626_082205 RIF. ASSISTENZA SU FORNO RATIONAL I COMBI PRO MATRICOLA E61SJ2305.pdf"
+            },
+            {
+              "nome": "SANTOS SRL Fattura di vendita_2600280_20260711_174204 RIF. BACK BAR Basato su Offerte di vendita 260139. Basato su Ordi.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/h5hwqv231tku41cri1s1f/SANTOS-SRL-Fattura-di-vendita_2600280_20260711_174204-RIF.-BACK-BAR-Basato-su-Offerte-di-vendita-260139.-Basato-su-Ordi.pdf?rlkey=bo8xkp7gng2125bekgrubu2ym&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANTOS SRL Fattura di vendita_2600280_20260711_174204 RIF. BACK BAR Basato su Offerte di vendita 260139. Basato su Ordi.pdf"
             },
             {
               "nome": "SIRTAKI S.R.L.S Fattura di vendita_2600192_20260607_184622 RIF. ASSISTENZA SU FRIGGITRICE TECNOINOX SOSTITUZIONE BRUCIATORE.pdf",
@@ -3680,12 +3792,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TORREFAZIONE FALCONE A. di FALCONE ROSARIO ANTONIO Fattura di vendita_2600195_20260607_184918 RIF. GRIGLIA SCALDATAZZE 341x425 mm Basato su Consegne 260176..pdf"
             },
             {
-              "nome": "TOURISM & BUSINESS HOTEL SRLS Fattura di vendita_2600275_20260705_215250 RIF. ASSISTENZA SU FORNO QUIBI PULIZIA DISPLAY E AVVIO DECALCIFIC.pdf",
+              "nome": "TOURISM & BUSINESS HOTEL SRLS Fattura di vendita_2600275_20260712_185917 RIF. ASSISTENZA SU FORNO QUIBI PULIZIA DISPLAY E AVVIO DECALCIFIC.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/fw32ybvp8bgxb5wpkd3wx/TOURISM-BUSINESS-HOTEL-SRLS-Fattura-di-vendita_2600275_20260705_215250-RIF.-ASSISTENZA-SU-FORNO-QUIBI-PULIZIA-DISPLAY-E-AVVIO-DECALCIFIC.pdf?rlkey=ukkfbuhqcpymccnrju0ktkts2&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/97nhywled776gkjrkprcv/TOURISM-BUSINESS-HOTEL-SRLS-Fattura-di-vendita_2600275_20260712_185917-RIF.-ASSISTENZA-SU-FORNO-QUIBI-PULIZIA-DISPLAY-E-AVVIO-DECALCIFIC.pdf?rlkey=uopffym8xp4r0uhsnyxxzto1t&dl=0?raw=1",
               "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TOURISM & BUSINESS HOTEL SRLS Fattura di vendita_2600275_20260705_215250 RIF. ASSISTENZA SU FORNO QUIBI PULIZIA DISPLAY E AVVIO DECALCIFIC.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TOURISM & BUSINESS HOTEL SRLS Fattura di vendita_2600275_20260712_185917 RIF. ASSISTENZA SU FORNO QUIBI PULIZIA DISPLAY E AVVIO DECALCIFIC.pdf"
             },
             {
               "nome": "TURISTICA MARATEA snc di BARONE FRANCESCO & C. BAR LA COLONNA Fattura di vendita_2600213_20260619_083345 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260211. Ba.pdf",
@@ -3776,7 +3888,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 174
+          "_totale_file": 184
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -26639,7 +26751,7 @@
                           "nome": "Offerta di vendita_190545_20190628_215618.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/pzoxr2et1u77roh0zpoby/Offerta-di-vendita_190545_20190628_215618.pdf?rlkey=yhn2utgrhubxerpsfyowsxbwl&dl=0?raw=1",
                           "dimensione_kb": 87,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/ORIOLO OFFERTA/Offerta di vendita_190545_20190628_215618.pdf"
                         }
@@ -62811,6 +62923,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BHOTEL SRL Ordine cliente_260204_20260612_142219 RIF. BICCHIERE COOLER CORTINA Basato su Offerte di vendita 260184.pdf"
             },
             {
+              "nome": "Bartolino Snc di Orefice Bartolomeo & C. Ordine cliente_260268_20260712_164324 RIF. COPERCHIO GRIGLIATO INOX 12-18-25-38 SN-FN-CN PAGAMENTO EFFE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cdiuecmn1duqiywzpjctr/Bartolino-Snc-di-Orefice-Bartolomeo-C.-Ordine-cliente_260268_20260712_164324-RIF.-COPERCHIO-GRIGLIATO-INOX-12-18-25-38-SN-FN-CN-PAGAMENTO-EFFE.pdf?rlkey=iplowgnm99x14smlhgoji8bke&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Bartolino Snc di Orefice Bartolomeo & C. Ordine cliente_260268_20260712_164324 RIF. COPERCHIO GRIGLIATO INOX 12-18-25-38 SN-FN-CN PAGAMENTO EFFE.pdf"
+            },
+            {
               "nome": "Billy Bar di SCALDAFERRI PIETRO Ordine cliente_260222_20260620_190656 RIF. DETERGENTE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -63131,6 +63251,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GRAN SOLE S.r.l. Ordine cliente_260178_20260530_100638 RIF. ACCESSORI PRESSO PUNTO VENDITA DI MARATEA.pdf"
             },
             {
+              "nome": "GRISOLIA DOMENICO Ordine cliente_260085_20260710_175651 RIF. COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 26007.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/72nv76skp6dfkriz2mnhv/GRISOLIA-DOMENICO-Ordine-cliente_260085_20260710_175651-RIF.-COPERCHI-ALLUMINIO-MORINI-Basato-su-Offerte-di-vendita-26007.pdf?rlkey=ba544eooedy87416j0s3fco7m&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GRISOLIA DOMENICO Ordine cliente_260085_20260710_175651 RIF. COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 26007.pdf"
+            },
+            {
               "nome": "H2A srl Ordine cliente_260240_20260629_074514 RIF. Bando Competitività imprese turistiche – II Edizione – Cdc C.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -63259,6 +63387,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/IL LUCANO SRLS Ordine cliente_260239_20260626_130851 RIF. BICCHIERI ELECTRA.pdf"
             },
             {
+              "nome": "IL MAMMOLO DI MOIRA NESTI e C. SNC Ordine cliente_260266_20260712_161615 RIF. GUARNIZIONE PORTA SCC, CM 61 QTA' 2 PAGAMENTO EFFFETTUATO TR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dwr14yv2kamp76qri76m7/IL-MAMMOLO-DI-MOIRA-NESTI-e-C.-SNC-Ordine-cliente_260266_20260712_161615-RIF.-GUARNIZIONE-PORTA-SCC-CM-61-QTA-2-PAGAMENTO-EFFFETTUATO-TR.pdf?rlkey=zfmhfr6op84spza2x6mjvy53s&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/IL MAMMOLO DI MOIRA NESTI e C. SNC Ordine cliente_260266_20260712_161615 RIF. GUARNIZIONE PORTA SCC, CM 61 QTA' 2 PAGAMENTO EFFFETTUATO TR.pdf"
+            },
+            {
               "nome": "ILAMA di D'ARCO PASQUALE Ordine cliente_260097_20260605_144650 RIF. TUBAZIONE INOX ASPIRAZIONE CAPPA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -63361,6 +63497,22 @@
               "link": "https://www.dropbox.com/scl/fi/ctle9kl1jdenjfyethzt1/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Ordine-cliente_260147_20260515_120044-RIF.-DETERGENTE-RATIONAL-ROSSO-QTA-2.pdf?rlkey=2sk6eqru8znb6gg7e3urmiqj1&dl=0?raw=1",
               "dimensione_kb": 57,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260147_20260515_120044 RIF. DETERGENTE RATIONAL ROSSO QTA' 2.pdf"
+            },
+            {
+              "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260264_20260710_131731 RIF. DETERGENTE RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8kkr61qqs68lo11b4o1nv/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Ordine-cliente_260264_20260710_131731-RIF.-DETERGENTE-RATIONAL.pdf?rlkey=bvcifiyeg0sznm9hyy4coxkqs&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260264_20260710_131731 RIF. DETERGENTE RATIONAL.pdf"
+            },
+            {
+              "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260265_20260710_183148 RIF. DETERGENTE RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/he2zorhn5gik4tun7y278/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Ordine-cliente_260265_20260710_183148-RIF.-DETERGENTE-RATIONAL.pdf?rlkey=gskv4us3icomxweujq1d83lzs&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260265_20260710_183148 RIF. DETERGENTE RATIONAL.pdf"
             },
             {
               "nome": "LIDO POINT BREAK Ordine cliente_260158_20260526_095712 RIF. Basato su Offerte di vendita 260151. TAVOLOLO CON VASCA INCASSATA.pdf",
@@ -63539,6 +63691,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RI. SA. LU srls Ordine cliente_260197_20260609_132712 RIF. DETERGENTE E GUARNIZIONE RATIONAL.pdf"
             },
             {
+              "nome": "RISTORANTE DARIA SRL Ordine cliente_260267_20260712_163303 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 PAGAMENTO EFFETTUATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3l17gsbd4b6g31pniqal6/RISTORANTE-DARIA-SRL-Ordine-cliente_260267_20260712_163303-RIF.-GUARNIZIONE-PORTA-SCC-CM-61-DAL-042004-PAGAMENTO-EFFETTUATO.pdf?rlkey=zkl2c3juuqm0rztfxr00qckq2&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RISTORANTE DARIA SRL Ordine cliente_260267_20260712_163303 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 PAGAMENTO EFFETTUATO.pdf"
+            },
+            {
               "nome": "Ristorante SANTA LUCIA DI APICELLA TERESA Ordine cliente_260123_20260513_131748 RIF. ATTREZZATURE URGENTE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -63715,7 +63875,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260260_20260708_110543 RIF. COPPIA GUIDE ARMADIO COLDLINE.pdf"
             }
           ],
-          "_totale_file": 132
+          "_totale_file": 138
         }
       ],
       "file": []
