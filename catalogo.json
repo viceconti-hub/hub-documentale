@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-13T05:48:53Z",
-  "totale_file": 25660,
+  "generato": "2026-07-13T07:56:18Z",
+  "totale_file": 25661,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -183391,7 +183391,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4855,
+      "totale_file": 4856,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -184151,6 +184151,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260139_20260708_122708 RIF. Basato su Ordini d'acquisto 260163..pdf"
             },
             {
+              "nome": "REPA ITALIA SRL Entrata merci da fornitore_260140_20260711_165627 RIF. DOCCIA PRELAVAGGIO E MISCELATORI PER MeM + DOSATORI MAG Basa.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8iutxnf9k541oqeucpvtn/REPA-ITALIA-SRL-Entrata-merci-da-fornitore_260140_20260711_165627-RIF.-DOCCIA-PRELAVAGGIO-E-MISCELATORI-PER-MeM-DOSATORI-MAG-Basa.pdf?rlkey=17knwk4elscwxz6ly6yw17qj3&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260140_20260711_165627 RIF. DOCCIA PRELAVAGGIO E MISCELATORI PER MeM + DOSATORI MAG Basa.pdf"
+            },
+            {
               "nome": "SIRMAN DDT N° 2025134519 DEL 28.10.2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -184247,7 +184255,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 106
+          "_totale_file": 107
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
