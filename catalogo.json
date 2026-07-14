@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-14T08:02:05Z",
-  "totale_file": 25667,
+  "generato": "2026-07-14T09:10:36Z",
+  "totale_file": 25668,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -224590,7 +224590,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2391,
+      "totale_file": 2392,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -236411,7 +236411,7 @@
                               "nome": "FIMAR COPIA TITOLO 30_11_2023.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/3rhmh2vmn59ecgyad6vr8/FIMAR-COPIA-TITOLO-30_11_2023.pdf?rlkey=pyx3bxauiiulkbg9htgq5b387&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 166,
                               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/FIMAR PAGAMENTI/ARCHIVIO FIMAR PAGAMENTI/FIMAR COPIA TITOLO 30_11_2023.pdf"
                             },
@@ -245807,6 +245807,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR COPIA TITOLI INTESA 31_08-30_09_2026.pdf"
             },
             {
+              "nome": "MODULAR COPIA TITOLO BPER SCADENZA 30_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/80wkiihikxie5khf8peik/MODULAR-COPIA-TITOLO-BPER-SCADENZA-30_09_2026.pdf?rlkey=umwa0yvlb3g0mzgs6c6ydttmm&dl=0?raw=1",
+              "dimensione_kb": 766,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR COPIA TITOLO BPER SCADENZA 30_09_2026.pdf"
+            },
+            {
               "nome": "MODULAR COPIA TITOLO INTESA BRT 20_05_2026 SCADENZA 31_07_2026 .pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -246063,7 +246071,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2371
+          "_totale_file": 2372
         }
       ],
       "file": []
