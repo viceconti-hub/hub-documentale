@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-14T00:38:27Z",
-  "totale_file": 25662,
+  "generato": "2026-07-14T02:45:32Z",
+  "totale_file": 25663,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -140472,7 +140472,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4439,
+      "totale_file": 4440,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -173082,6 +173082,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/APPOGGIO INTESA SAN PAOLO.PDF"
             },
             {
+              "nome": "AUTORIZZAZIONE_RESO_nr_072_2026_VICECONTI_SNC.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oy3ep42v4w8w33e5gp0rd/AUTORIZZAZIONE_RESO_nr_072_2026_VICECONTI_SNC.pdf?rlkey=udx46wrzjrdsd2zihwl431med&dl=0?raw=1",
+              "dimensione_kb": 116,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/AUTORIZZAZIONE_RESO_nr_072_2026_VICECONTI_SNC.pdf"
+            },
+            {
               "nome": "Gmail - R_ RICHIESTA SPINE ELETTRICHE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -173162,7 +173170,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/listino-nevo SCARICATO IL 14_01_2025.pdf"
             }
           ],
-          "_totale_file": 19
+          "_totale_file": 20
         },
         {
           "nome": "MOLTENI",
