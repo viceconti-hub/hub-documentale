@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-15T05:59:51Z",
-  "totale_file": 25666,
+  "generato": "2026-07-15T08:09:05Z",
+  "totale_file": 25667,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -183399,7 +183399,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4857,
+      "totale_file": 4858,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -220855,6 +220855,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFEMRA ORDVE-000060-2026 RIF.TATA & CO SRL.pdf"
                 },
                 {
+                  "nome": "ACCIAIO T&D CONFERMA OFFERTA OFFVE-002497-2026 RIF. PASSION SUSHI INTEGRAZIONE LAVAGGIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6mdiy8kd8wyiutfnm10cf/ACCIAIO-T-D-CONFERMA-OFFERTA-OFFVE-002497-2026-RIF.-PASSION-SUSHI-INTEGRAZIONE-LAVAGGIO.pdf?rlkey=nw07jo0tq432d63ac6s7ukd7t&dl=0?raw=1",
+                  "dimensione_kb": 688,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ACCIAIO T&D CONFERMA OFFERTA OFFVE-002497-2026 RIF. PASSION SUSHI INTEGRAZIONE LAVAGGIO.pdf"
+                },
+                {
                   "nome": "ACCIAIO T&D CONFERMA OFFVE-000080-2026 RIF.TATA & CO SRL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -224335,18 +224343,10 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3684
+              "_totale_file": 3685
             }
           ],
           "file": [
-            {
-              "nome": "ACCIAIO T&D CONFERMA OFFERTA OFFVE-002497-2026 RIF. PASSION SUSHI INTEGRAZIONE LAVAGGIO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/6mdiy8kd8wyiutfnm10cf/ACCIAIO-T-D-CONFERMA-OFFERTA-OFFVE-002497-2026-RIF.-PASSION-SUSHI-INTEGRAZIONE-LAVAGGIO.pdf?rlkey=nw07jo0tq432d63ac6s7ukd7t&dl=0?raw=1",
-              "dimensione_kb": 688,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFERTA OFFVE-002497-2026 RIF. PASSION SUSHI INTEGRAZIONE LAVAGGIO.pdf"
-            },
             {
               "nome": "ACCIAIO T&D CONFERMA ORDINE ORDVE-001942-2026 RIF. PASSION SUSHI NUOVO LAVAGGIO.pdf",
               "tipo": "PDF",
@@ -224442,6 +224442,14 @@
               "link": "https://www.dropbox.com/scl/fi/23xqh0wzqio27vs2fp7nx/Cimbali-Group-S.p.A.-Ordine-dacquisto_260054_20260611_093208-RIF.-DETERGENTE-GUARNIZIONI-DOCCETTE.pdf?rlkey=rbhhb6rqvbck1uj96010wqhsu&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
+            },
+            {
+              "nome": "KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-6976 RIF.S.A.S. DI LASCIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gmwmglhluf892rtkv0czy/KLIMAITALIA-Conferma-d-Ordine-Klimaitalia-P-6976-RIF.S.A.S.-DI-LASCIO.pdf?rlkey=za1sdbd30q6b6jz2pri6z6jg4&dl=0?raw=1",
+              "dimensione_kb": 140,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-6976 RIF.S.A.S. DI LASCIO.pdf"
             },
             {
               "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.TICCIABACA .pdf",
@@ -224548,7 +224556,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
             }
           ],
-          "_totale_file": 3710
+          "_totale_file": 3711
         }
       ],
       "file": [
