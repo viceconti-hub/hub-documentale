@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-15T02:44:10Z",
-  "totale_file": 25668,
+  "generato": "2026-07-15T05:59:51Z",
+  "totale_file": 25666,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6213,
+      "totale_file": 6211,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -26550,30 +26550,6 @@
                       "_totale_file": 4
                     },
                     {
-                      "nome": "OLIVA 24_06_2020",
-                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/OLIVA 24_06_2020",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "SUPERSUNNY.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/em06bpnu12zohj74ork8c/SUPERSUNNY.pdf?rlkey=8ssnhdri9gwtnpdi5ps8ch1uj&dl=0?raw=1",
-                          "dimensione_kb": 644,
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/OLIVA 24_06_2020/SUPERSUNNY.pdf"
-                        },
-                        {
-                          "nome": "Sunny-Junior.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/2u5hcw678g6ty9fvb2d5l/Sunny-Junior.pdf?rlkey=lmwrlibgmmflpkvqrjw7wfiow&dl=0?raw=1",
-                          "dimensione_kb": 211,
-                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/OLIVA 24_06_2020/Sunny-Junior.pdf"
-                        }
-                      ],
-                      "_totale_file": 2
-                    },
-                    {
                       "nome": "OLIVA PASQUALE",
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/OLIVA PASQUALE",
                       "cartelle": [
@@ -33994,7 +33970,7 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/Ordine dacquisto_210779_NUOVO ORDINE KONTIKY.pdf"
                     }
                   ],
-                  "_totale_file": 2403
+                  "_totale_file": 2401
                 },
                 {
                   "nome": "ARCI",
@@ -49587,7 +49563,7 @@
                       "nome": "Offerta di vendita_240028_20240116_185523.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/p1jzsw5w78tcyaxls2e11/Offerta-di-vendita_240028_20240116_185523.pdf?rlkey=vxydjdia4l7y2ihoc094z9zvk&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 71,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/LUCANIA PASTA IMPASTATRICE CARNE/Offerta di vendita_240028_20240116_185523.pdf"
                     },
@@ -62775,11 +62751,11 @@
                 }
               ],
               "file": [],
-              "_totale_file": 5311
+              "_totale_file": 5309
             }
           ],
           "file": [],
-          "_totale_file": 5471
+          "_totale_file": 5469
         },
         {
           "nome": "ORDINI CLIENTE",
