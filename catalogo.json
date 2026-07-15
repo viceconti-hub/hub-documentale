@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-15T08:09:05Z",
-  "totale_file": 25667,
+  "generato": "2026-07-15T09:17:14Z",
+  "totale_file": 25670,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -224574,7 +224574,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2392,
+      "totale_file": 2395,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -236395,7 +236395,7 @@
                               "nome": "FIMAR COPIA TITOLO 30_11_2023.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": null,
+                              "link": "https://www.dropbox.com/scl/fi/3rhmh2vmn59ecgyad6vr8/FIMAR-COPIA-TITOLO-30_11_2023.pdf?rlkey=pyx3bxauiiulkbg9htgq5b387&dl=0?raw=1",
                               "dimensione_kb": 166,
                               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/FIMAR PAGAMENTI/ARCHIVIO FIMAR PAGAMENTI/FIMAR COPIA TITOLO 30_11_2023.pdf"
                             },
@@ -245087,6 +245087,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/3W SISTEMI Dettaglio bonifico istantaneo DEL 27_05_2026.pdf"
             },
             {
+              "nome": "AIRFAN Dettaglio bonifico istantaneo DEL 15_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1ik0uec56f25h3u37gw7y/AIRFAN-Dettaglio-bonifico-istantaneo-DEL-15_07_2026.pdf?rlkey=wmj6qzdg7it38ihn54ft6or0e&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/AIRFAN Dettaglio bonifico istantaneo DEL 15_07_2026.pdf"
+            },
+            {
               "nome": "AIRFAN Dettaglio bonifico istantaneo DEL 19_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -245197,6 +245205,14 @@
               "link": "https://www.dropbox.com/scl/fi/45t75ufu5aaainbkomqt3/BRT-Dettaglio-bonifico-istantaneo-DEL-12_05_2026.pdf?rlkey=rl336k76octcjcmclbmoghz5e&dl=0?raw=1",
               "dimensione_kb": 108,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/BRT Dettaglio bonifico istantaneo DEL 12_05_2026.pdf"
+            },
+            {
+              "nome": "BRT Dettaglio bonifico istantaneo DEL 14_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9wmukfikapk2utxj1wlsh/BRT-Dettaglio-bonifico-istantaneo-DEL-14_07_2026.pdf?rlkey=4eh4luac5q6xy1zd1usrjyy5j&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/BRT Dettaglio bonifico istantaneo DEL 14_07_2026.pdf"
             },
             {
               "nome": "BRT Dettaglio bonifico istantaneo DEL 15_06_2026.pdf",
@@ -245719,6 +245735,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/LA MITO KLIMAIALIA Dettaglio bonifico istantaneo DEL 09_04_2026.pdf"
             },
             {
+              "nome": "LA MITO KLIMAITALIA Dettaglio bonifico istantaneo DEL 14_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/z0shu9sb4n0asbwlb1ge0/LA-MITO-KLIMAITALIA-Dettaglio-bonifico-istantaneo-DEL-14_07_2026.pdf?rlkey=k9v9kowm1w6i6jvuz1yksposm&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/LA MITO KLIMAITALIA Dettaglio bonifico istantaneo DEL 14_07_2026.pdf"
+            },
+            {
               "nome": "LA MITO KLIMAITALIA Dettaglio bonifico istantaneo DEL 28_04_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -246055,7 +246079,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2372
+          "_totale_file": 2375
         }
       ],
       "file": []
