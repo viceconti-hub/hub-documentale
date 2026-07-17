@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-17T05:26:57Z",
-  "totale_file": 25709,
+  "generato": "2026-07-17T07:27:07Z",
+  "totale_file": 25716,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -183759,7 +183759,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4858,
+      "totale_file": 4865,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -192951,15 +192951,47 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "BARLASCINI Conferma prenotazione ritiro.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2w4tu3em2sfijdjsg9nv4/BARLASCINI-Conferma-prenotazione-ritiro.pdf?rlkey=jdrntvhd1abdcdi37a16g0t90&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BARLASCINI Conferma prenotazione ritiro.pdf"
+            },
+            {
               "nome": "BRT Conferma prenotazione ritiro YOU MARINA.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/gi1wvy1ilay9zhsxu2gwl/BRT-Conferma-prenotazione-ritiro-YOU-MARINA.pdf?rlkey=tr55orv9zcz7as172em4npkuz&dl=0?raw=1",
               "dimensione_kb": 107,
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BRT Conferma prenotazione ritiro YOU MARINA.pdf"
+            },
+            {
+              "nome": "BRT DDT FIRMATO DAL CORRIERE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/llb13i8l51tjxufv0u9ma/BRT-DDT-FIRMATO-DAL-CORRIERE.pdf?rlkey=ah6lnotmn9h8hoy95puiprtm3&dl=0?raw=1",
+              "dimensione_kb": 585,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BRT DDT FIRMATO DAL CORRIERE.pdf"
+            },
+            {
+              "nome": "BRT Ritiro BARLASCINI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lmea5prjlhog1t2lslm7m/BRT-Ritiro-BARLASCINI.pdf?rlkey=asc20d0jk7dhy3h3k2z1nvyld&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BRT Ritiro BARLASCINI.pdf"
+            },
+            {
+              "nome": "BRT Spedizione 154000341191.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2l9gtyp9f9vl1xvaywzj0/BRT-Spedizione-154000341191.pdf?rlkey=xhgg4f0eiulr965je43iyhk32&dl=0?raw=1",
+              "dimensione_kb": 110,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BRT Spedizione 154000341191.pdf"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 5
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -224740,6 +224772,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D DISEGNO LAVAGGIO RIF. PASSION.jpg"
             },
             {
+              "nome": "AIRFAN CONFERMA 3523 VICECONTI SNC CO RIF.YOU MARINA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ika9mwp0ntfdc4x776kt8/AIRFAN-CONFERMA-3523-VICECONTI-SNC-CO-RIF.YOU-MARINA.pdf?rlkey=2bstfmmsbi42tfearcnw7bft7&dl=0?raw=1",
+              "dimensione_kb": 291,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN CONFERMA 3523 VICECONTI SNC CO RIF.YOU MARINA.pdf"
+            },
+            {
               "nome": "ARISTARCO SPA Ordine dacquisto_250351_20260520_164212 RIF. RICAMBI RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -224802,6 +224842,22 @@
               "link": "https://www.dropbox.com/scl/fi/23xqh0wzqio27vs2fp7nx/Cimbali-Group-S.p.A.-Ordine-dacquisto_260054_20260611_093208-RIF.-DETERGENTE-GUARNIZIONI-DOCCETTE.pdf?rlkey=rbhhb6rqvbck1uj96010wqhsu&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
+            },
+            {
+              "nome": "ECOSAN SRL Ordine dacquisto_260167_20260715_122730 RIF. ORDINE RAPIDO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mnhrkejv0f7ma6zxeosn9/ECOSAN-SRL-Ordine-dacquisto_260167_20260715_122730-RIF.-ORDINE-RAPIDO.pdf?rlkey=axohw6mrwmnk46qdrxy0fdgsz&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ECOSAN SRL Ordine dacquisto_260167_20260715_122730 RIF. ORDINE RAPIDO.pdf"
+            },
+            {
+              "nome": "ECOSAN SRL Ordine dacquisto_260168_20260715_124344.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/x5ky2x6owwsvv85gksnu7/ECOSAN-SRL-Ordine-dacquisto_260168_20260715_124344.pdf?rlkey=3a2lr3ejzo8iwa0jabh9hcbb2&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ECOSAN SRL Ordine dacquisto_260168_20260715_124344.pdf"
             },
             {
               "nome": "KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-6976 RIF.S.A.S. DI LASCIO.pdf",
@@ -224916,7 +224972,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
             }
           ],
-          "_totale_file": 3711
+          "_totale_file": 3714
         }
       ],
       "file": [
