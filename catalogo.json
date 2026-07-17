@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-17T00:29:03Z",
-  "totale_file": 25672,
+  "generato": "2026-07-17T02:29:54Z",
+  "totale_file": 25676,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -140496,7 +140496,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4440,
+      "totale_file": 4444,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -145287,7 +145287,7 @@
                   "nome": "DISPENSER IT. .pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/probgmxp5mohauixwxquv/DISPENSER-IT..pdf?rlkey=c9yjcgdhjhxqgdy6k5b20zj5p&dl=0?raw=1",
                   "dimensione_kb": 343,
                   "path": "/HUB DOCUMENTALE/FORNITORI/BECKERS/ARCHIVIO BECKERS/DISPENSER IT. .pdf"
                 },
@@ -151675,7 +151675,7 @@
                       "nome": "Privacy Turist Calabria srl.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/th473sjy3lj0n50lesb5f/Privacy-Turist-Calabria-srl.pdf?rlkey=j3pp3yicnuaizrdgq9dnprlbz&dl=0?raw=1",
                       "dimensione_kb": 19663,
                       "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/PRAIA A MARE/TURIST CALABRIA srl La Mantinera/Privacy Turist Calabria srl.pdf"
                     },
@@ -153893,6 +153893,14 @@
           ],
           "file": [
             {
+              "nome": "100.COOLHEAD LISTINO CHE_2026_CATALOG.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xju62mbi895wt53csmpvy/100.COOLHEAD-LISTINO-CHE_2026_CATALOG.pdf?rlkey=zy5d9ndrg35o6sm9b4fgumjg9&dl=0?raw=1",
+              "dimensione_kb": 31194,
+              "path": "/HUB DOCUMENTALE/FORNITORI/COOLHEAD/100.COOLHEAD LISTINO CHE_2026_CATALOG.pdf"
+            },
+            {
               "nome": "COOLHEAD CATALOGO 2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -153917,7 +153925,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COOLHEAD/COOLHEAD ORDINI D'ACQUISTO - collegamento.lnk"
             }
           ],
-          "_totale_file": 19
+          "_totale_file": 20
         },
         {
           "nome": "COPPOLA",
@@ -172339,9 +172347,17 @@
               "link": "https://www.dropbox.com/scl/fi/tup0cp49gt7vajpn8a99a/LS-TRASPORTI-QUESTIONARIO-FINANZA-20260051240.pdf?rlkey=ii4j388jyhkcfqq6jtkvbkn4s&dl=0?raw=1",
               "dimensione_kb": 100,
               "path": "/HUB DOCUMENTALE/FORNITORI/LS TRASPORTI/LS TRASPORTI QUESTIONARIO FINANZA 20260051240.pdf"
+            },
+            {
+              "nome": "Saldo contabile - F0515712_ L.S. TRASPORTI SRLS.xlsx",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/3v8wy9f6wvlsyrd2xqbee/Saldo-contabile-F0515712_-L.S.-TRASPORTI-SRLS.xlsx?rlkey=7x22yamb3m40rmaebdigkmads&dl=0?raw=1",
+              "dimensione_kb": 12,
+              "path": "/HUB DOCUMENTALE/FORNITORI/LS TRASPORTI/Saldo contabile - F0515712_ L.S. TRASPORTI SRLS.xlsx"
             }
           ],
-          "_totale_file": 2
+          "_totale_file": 3
         },
         {
           "nome": "LVA VETRINE",
@@ -181494,12 +181510,28 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/ARCHIVIO/Listino_prezzi_UGOLINI_2022_ITA.pdf"
                 },
                 {
+                  "nome": "Listino_prezzi_UGOLINI_GEN_DIC_2025_ITA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/anfrr9wk2dhp6cbyimghx/Listino_prezzi_UGOLINI_GEN_DIC_2025_ITA.pdf?rlkey=yj1vkjp9cpaxmma92vmzrso7q&dl=0?raw=1",
+                  "dimensione_kb": 2156,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/ARCHIVIO/Listino_prezzi_UGOLINI_GEN_DIC_2025_ITA.pdf"
+                },
+                {
                   "nome": "Listino_ricambi_UGOLINI_GEN_MAR_2023.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/obt6p0405xjuraa3yj4am/Listino_ricambi_UGOLINI_GEN_MAR_2023.pdf?rlkey=5xh430keen6a38hypt8gx5ahc&dl=0?raw=1",
                   "dimensione_kb": 556,
                   "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/ARCHIVIO/Listino_ricambi_UGOLINI_GEN_MAR_2023.pdf"
+                },
+                {
+                  "nome": "SCHEDA TECNICA MINI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ceh9ik9bhlj8x171uy98r/SCHEDA-TECNICA-MINI.pdf?rlkey=jr4bb9npcknjzvl3ham3gqspl&dl=0?raw=1",
+                  "dimensione_kb": 2282,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/ARCHIVIO/SCHEDA TECNICA MINI.pdf"
                 },
                 {
                   "nome": "UGOLINI LISTINO 2019.pdf",
@@ -181604,38 +181636,38 @@
                   "link": "https://www.dropbox.com/scl/fi/5jxdw1okugb9dgz4cycch/listino_ricambi_UGOLINI_2022.pdf?rlkey=flhi5aktmbqiy99zhfzjs09v4&dl=0?raw=1",
                   "dimensione_kb": 762,
                   "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/ARCHIVIO/listino_ricambi_UGOLINI_2022.pdf"
+                },
+                {
+                  "nome": "listino_ricambi_UGOLINI_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/phsq8qrdblzs6xaedz9h8/listino_ricambi_UGOLINI_2025.pdf?rlkey=3b9vz9kk8u1d9i112z36oe4zh&dl=0?raw=1",
+                  "dimensione_kb": 585,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/ARCHIVIO/listino_ricambi_UGOLINI_2025.pdf"
                 }
               ],
-              "_totale_file": 19
+              "_totale_file": 22
             }
           ],
           "file": [
             {
-              "nome": "Listino_prezzi_UGOLINI_GEN_DIC_2025_ITA.pdf",
+              "nome": "100.UGOLINI LISTINO ATTREZZATURE Listino_prezzi_UGOLINI_2026_ITA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/anfrr9wk2dhp6cbyimghx/Listino_prezzi_UGOLINI_GEN_DIC_2025_ITA.pdf?rlkey=yj1vkjp9cpaxmma92vmzrso7q&dl=0?raw=1",
-              "dimensione_kb": 2156,
-              "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/Listino_prezzi_UGOLINI_GEN_DIC_2025_ITA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/jzbfsmddzjwpyebpgy2uo/100.UGOLINI-LISTINO-ATTREZZATURE-Listino_prezzi_UGOLINI_2026_ITA.pdf?rlkey=sxbzfpbpfglwuws2r3jpn05nc&dl=0?raw=1",
+              "dimensione_kb": 2597,
+              "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/100.UGOLINI LISTINO ATTREZZATURE Listino_prezzi_UGOLINI_2026_ITA.pdf"
             },
             {
-              "nome": "SCHEDA TECNICA MINI.pdf",
+              "nome": "100.UGOLINI LISTINO RICAMBI listino_Ugo_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ceh9ik9bhlj8x171uy98r/SCHEDA-TECNICA-MINI.pdf?rlkey=jr4bb9npcknjzvl3ham3gqspl&dl=0?raw=1",
-              "dimensione_kb": 2282,
-              "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/SCHEDA TECNICA MINI.pdf"
-            },
-            {
-              "nome": "listino_ricambi_UGOLINI_2025.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/phsq8qrdblzs6xaedz9h8/listino_ricambi_UGOLINI_2025.pdf?rlkey=3b9vz9kk8u1d9i112z36oe4zh&dl=0?raw=1",
-              "dimensione_kb": 585,
-              "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/listino_ricambi_UGOLINI_2025.pdf"
+              "link": "https://www.dropbox.com/scl/fi/hxdpq9liahgw9t05ppka3/100.UGOLINI-LISTINO-RICAMBI-listino_Ugo_2026.pdf?rlkey=ex41kqwnow9znlxqj68tyweff&dl=0?raw=1",
+              "dimensione_kb": 626,
+              "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/100.UGOLINI LISTINO RICAMBI listino_Ugo_2026.pdf"
             }
           ],
-          "_totale_file": 22
+          "_totale_file": 24
         },
         {
           "nome": "UNOX",
