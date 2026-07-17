@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-15T09:32:50Z",
-  "totale_file": 25670,
+  "generato": "2026-07-17T00:29:03Z",
+  "totale_file": 25672,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -68478,7 +68478,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7219,
+      "totale_file": 7221,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -78744,13 +78744,21 @@
                       "link": "https://www.dropbox.com/scl/fi/xxvu0o0419mv3uanwbivd/CANTINETTA-VINI-KLIMAITALIA-DATI-MACCHINA.jpg?rlkey=f5hhyfwuk6gsztmzy25qfc2wa&dl=0?raw=1",
                       "dimensione_kb": 200,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AVVOCATO RICCIARDONE/AVVOCATO RICCIARDONE GIUSEPPE AREA TECNICA/CANTINETTA VINI KLIMAITALIA DATI MACCHINA.jpg"
+                    },
+                    {
+                      "nome": "CW 46 G2TB.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/486c6jgflmpbumwe0gf88/CW-46-G2TB.pdf?rlkey=hdxizyo1x18mvkeeuh9umg4a1&dl=0?raw=1",
+                      "dimensione_kb": 364,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AVVOCATO RICCIARDONE/AVVOCATO RICCIARDONE GIUSEPPE AREA TECNICA/CW 46 G2TB.pdf"
                     }
                   ],
-                  "_totale_file": 1
+                  "_totale_file": 2
                 }
               ],
               "file": [],
-              "_totale_file": 1
+              "_totale_file": 2
             },
             {
               "nome": "BHOTEL SRL",
@@ -80577,7 +80585,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 209
+          "_totale_file": 210
         },
         {
           "nome": "LAINO",
@@ -86022,6 +86030,22 @@
                       "_totale_file": 1
                     },
                     {
+                      "nome": "RATIONAL SCC WE E 201 MATRICOLA E21SH12032296237",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CENTRAL MARKET/CENTRAL MARKET AREA TECNICA/RATIONAL SCC WE E 201 MATRICOLA E21SH12032296237",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "RATIONAL SCC WE E 201 MATRICOLA E21SH12032296237 ESPLOSO RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/f2ppw4lubzss161qwpb6p/RATIONAL-SCC-WE-E-201-MATRICOLA-E21SH12032296237-ESPLOSO-RICAMBI.pdf?rlkey=rvw0oonzv4m7fix0ymvj8utv2&dl=0?raw=1",
+                          "dimensione_kb": 1232,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CENTRAL MARKET/CENTRAL MARKET AREA TECNICA/RATIONAL SCC WE E 201 MATRICOLA E21SH12032296237/RATIONAL SCC WE E 201 MATRICOLA E21SH12032296237 ESPLOSO RICAMBI.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "SFOGLIATRICE KEMPLEX",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CENTRAL MARKET/CENTRAL MARKET AREA TECNICA/SFOGLIATRICE KEMPLEX",
                       "cartelle": [],
@@ -86080,7 +86104,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CENTRAL MARKET/CENTRAL MARKET AREA TECNICA/Manuale Fermalievita.pdf"
                     }
                   ],
-                  "_totale_file": 15
+                  "_totale_file": 16
                 },
                 {
                   "nome": "PERMUTA",
@@ -86197,7 +86221,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CENTRAL MARKET/Consegna_200291_20200507_132133.pdf"
                 }
               ],
-              "_totale_file": 28
+              "_totale_file": 29
             },
             {
               "nome": "CITYBAR",
@@ -96967,7 +96991,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1295
+          "_totale_file": 1296
         },
         {
           "nome": "LAVELLO",
