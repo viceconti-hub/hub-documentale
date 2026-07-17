@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-17T07:27:07Z",
-  "totale_file": 25716,
+  "generato": "2026-07-17T08:30:19Z",
+  "totale_file": 25717,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -224990,7 +224990,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2395,
+      "totale_file": 2396,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -245839,6 +245839,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Dettaglio bonifico istantaneo.pdf"
             },
             {
+              "nome": "ECOSAN Dettaglio bonifico istantaneo DEL 15_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8jq74jioa8d5cvylv7pd2/ECOSAN-Dettaglio-bonifico-istantaneo-DEL-15_07_2026.pdf?rlkey=toqeu1j2t70x8vfbqdzenfta3&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ECOSAN Dettaglio bonifico istantaneo DEL 15_07_2026.pdf"
+            },
+            {
               "nome": "ECOSAN Dettaglio bonifico istantaneo DEL 23_03_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -246495,7 +246503,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2375
+          "_totale_file": 2376
         }
       ],
       "file": []
