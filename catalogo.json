@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-18T05:29:07Z",
-  "totale_file": 25739,
+  "generato": "2026-07-18T07:29:20Z",
+  "totale_file": 25742,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -183943,7 +183943,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4865,
+      "totale_file": 4868,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -224964,6 +224964,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN CONFERMA 3523 VICECONTI SNC CO RIF.YOU MARINA.pdf"
             },
             {
+              "nome": "ARISTARCO CONFERMA ORDINE ORV_2509802_2026_1_7080_29062026_1 RIF. AI CARCONI.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rztq25crrwk2temuww3dm/ARISTARCO-CONFERMA-ORDINE-ORV_2509802_2026_1_7080_29062026_1-RIF.-AI-CARCONI.PDF?rlkey=pjn7cuc92rsx5aczs08bmntw9&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARISTARCO CONFERMA ORDINE ORV_2509802_2026_1_7080_29062026_1 RIF. AI CARCONI.PDF"
+            },
+            {
               "nome": "ARISTARCO SPA Ordine dacquisto_250351_20260520_164212 RIF. RICAMBI RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -225044,6 +225052,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ECOSAN SRL Ordine dacquisto_260168_20260715_124344.pdf"
             },
             {
+              "nome": "GO PACK S.R.L. a socio unico Ordine dacquisto_260169_20260717_102406.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8ghp6ib7k0pfqishqb30x/GO-PACK-S.R.L.-a-socio-unico-Ordine-dacquisto_260169_20260717_102406.pdf?rlkey=8gknzcipea1ubjq9328gbkxa7&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/GO PACK S.R.L. a socio unico Ordine dacquisto_260169_20260717_102406.pdf"
+            },
+            {
               "nome": "KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-6976 RIF.S.A.S. DI LASCIO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -225074,6 +225090,14 @@
               "link": "https://www.dropbox.com/scl/fi/dl61ny4x2bo8klgl2qowc/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260162_20260708_122004-RIF.-DETERGENTE.pdf?rlkey=15z23zjk71rlq0vmd0dy7whzq&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260162_20260708_122004 RIF. DETERGENTE.pdf"
+            },
+            {
+              "nome": "MORINI s.r.l. Ordine dacquisto_260170_20260717_123309 RIF. Basato su Ordini cliente 260231. 260237. 260280..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tobeonp3y5mjws70d2vsh/MORINI-s.r.l.-Ordine-dacquisto_260170_20260717_123309-RIF.-Basato-su-Ordini-cliente-260231.-260237.-260280..pdf?rlkey=xo6bmx8aw523qb4mf4ocwd9b2&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260170_20260717_123309 RIF. Basato su Ordini cliente 260231. 260237. 260280..pdf"
             },
             {
               "nome": "PADERNO ORDINE SBT-26016461.pdf",
@@ -225156,7 +225180,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
             }
           ],
-          "_totale_file": 3714
+          "_totale_file": 3717
         }
       ],
       "file": [
