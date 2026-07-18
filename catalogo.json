@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-18T07:29:20Z",
-  "totale_file": 25742,
+  "generato": "2026-07-18T08:32:34Z",
+  "totale_file": 25743,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -225198,7 +225198,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2396,
+      "totale_file": 2397,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -245783,6 +245783,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARISTARCO Dettaglio bonifico istantaneo DEL 16_04_2026.pdf"
             },
             {
+              "nome": "ARISTARCO Dettaglio bonifico istantaneo DEL 17_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/i23ow5g3tlmsr46lvv71e/ARISTARCO-Dettaglio-bonifico-istantaneo-DEL-17_07_2026.pdf?rlkey=htb41crgzfd0aaevq1qy68fn3&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARISTARCO Dettaglio bonifico istantaneo DEL 17_07_2026.pdf"
+            },
+            {
               "nome": "ARISTARCO Dettaglio bonifico istantaneo DEL 20_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -246711,7 +246719,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2376
+          "_totale_file": 2377
         }
       ],
       "file": []
