@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-18T00:26:44Z",
-  "totale_file": 25717,
+  "generato": "2026-07-18T02:27:16Z",
+  "totale_file": 25718,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -140800,7 +140800,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4444,
+      "totale_file": 4445,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -174640,6 +174640,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/040719 RIFERIMENTI TELEFONICI  PER CLIENTI 2019.PDF"
             },
             {
+              "nome": "GN CAMBRO PREZZI NETTI.xlsx",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/q7bd3bk0r2gm2jdmu64g5/GN-CAMBRO-PREZZI-NETTI.xlsx?rlkey=7xy4o26cjg8t400yij1fo4h7q&dl=0?raw=1",
+              "dimensione_kb": 228,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/GN CAMBRO PREZZI NETTI.xlsx"
+            },
+            {
               "nome": "LINKS CATALOGO MORINI 2021.docx",
               "tipo": "Word",
               "icona": "📝",
@@ -174712,7 +174720,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/Nuovo Foglio di lavoro di Microsoft Excel.xlsx"
             }
           ],
-          "_totale_file": 64
+          "_totale_file": 65
         },
         {
           "nome": "NARDI TAVOLI E SEDIE",
