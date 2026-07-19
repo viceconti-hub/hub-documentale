@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-19T05:22:45Z",
-  "totale_file": 25758,
+  "generato": "2026-07-19T07:20:31Z",
+  "totale_file": 25760,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -184063,7 +184063,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4868,
+      "totale_file": 4870,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -184175,6 +184175,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/BRUZIA SYSTEM SRL Entrata merci da fornitore_260123_20260615_170711 RIF. RICAMBI FAEMA.pdf"
             },
             {
+              "nome": "BRUZIA SYSTEM SRL Entrata merci da fornitore_260142_20260718_105633.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bfavcxfwupxz5xny5fl7c/BRUZIA-SYSTEM-SRL-Entrata-merci-da-fornitore_260142_20260718_105633.pdf?rlkey=af4aho7uyq9ywh2bu8wdyx9k2&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/BRUZIA SYSTEM SRL Entrata merci da fornitore_260142_20260718_105633.pdf"
+            },
+            {
               "nome": "CB SRL Entrata merci da fornitore_260073_20260520_214413 RIF. Basato su Ordini cliente 260142. Basato su Ordini d'acquisto SACCO DI PIETRA LAVICA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -184253,6 +184261,14 @@
               "link": "https://www.dropbox.com/scl/fi/7ixlv5f4rd8rwrfnbgtnj/DE-LUCA-SRL-Entrata-merci-da-fornitore_260122_20260615_170042-RIF.-Basato-su-Ordini-cliente-260115.-260162.-260205.-Basato-su-O.pdf?rlkey=3d6gpm9qr99tn7iw79n0x8p7n&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/DE LUCA SRL Entrata merci da fornitore_260122_20260615_170042 RIF. Basato su Ordini cliente 260115. 260162. 260205. Basato su O.pdf"
+            },
+            {
+              "nome": "ECOSAN SRL Entrata merci da fornitore_260141_20260718_104855 RIF. ORDINE RAPIDO Basato su Ordini d'acquisto 260167..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/88xz7ggk2bemts2c7wc43/ECOSAN-SRL-Entrata-merci-da-fornitore_260141_20260718_104855-RIF.-ORDINE-RAPIDO-Basato-su-Ordini-d-acquisto-260167..pdf?rlkey=z8oid72islus2knf5ukgko368&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ECOSAN SRL Entrata merci da fornitore_260141_20260718_104855 RIF. ORDINE RAPIDO Basato su Ordini d'acquisto 260167..pdf"
             },
             {
               "nome": "FAC CLI-DDT_0002201_08102025_00 RIF.ILAMA.pdf",
@@ -184927,7 +184943,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 107
+          "_totale_file": 109
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -211301,7 +211317,7 @@
                           "nome": "PUGLIAINOX CONFERMA CLI-ORDINE_0000324_00(8558) RIF. SERRAGO.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/f4c1b2cweurnwk3dl79ng/PUGLIAINOX-CONFERMA-CLI-ORDINE_0000324_00-8558-RIF.-SERRAGO.pdf?rlkey=vn4kh7cbuouodneph3gh99rs9&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 133,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/IDEAM INOX ORDINI D'ACQUISTO/ARCHIVIO PUGLIAINOX ORDINI D'ACQUISTO/PUGLIAINOX CONFERMA CLI-ORDINE_0000324_00(8558) RIF. SERRAGO.pdf"
                         },
@@ -225156,12 +225172,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
             },
             {
-              "nome": "ECOSAN SRL Ordine dacquisto_260167_20260715_122730 RIF. ORDINE RAPIDO.pdf",
+              "nome": "ECOSAN SRL Ordine dacquisto_260167_20260718_095931 RIF. ORDINE RAPIDO.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mnhrkejv0f7ma6zxeosn9/ECOSAN-SRL-Ordine-dacquisto_260167_20260715_122730-RIF.-ORDINE-RAPIDO.pdf?rlkey=axohw6mrwmnk46qdrxy0fdgsz&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/ky8em0f26vf5xiu8kqs4o/ECOSAN-SRL-Ordine-dacquisto_260167_20260718_095931-RIF.-ORDINE-RAPIDO.pdf?rlkey=suwawv4b5j8xpu8hbcbxe8a4j&dl=0?raw=1",
               "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ECOSAN SRL Ordine dacquisto_260167_20260715_122730 RIF. ORDINE RAPIDO.pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ECOSAN SRL Ordine dacquisto_260167_20260718_095931 RIF. ORDINE RAPIDO.pdf"
             },
             {
               "nome": "ECOSAN SRL Ordine dacquisto_260168_20260715_124344.pdf",
