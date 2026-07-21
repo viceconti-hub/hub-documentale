@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-21T02:37:42Z",
-  "totale_file": 25760,
+  "generato": "2026-07-21T05:43:10Z",
+  "totale_file": 25768,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6280,
+      "totale_file": 6288,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1848,6 +1848,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MODULAR DDT n°003873 RIF. SANTA LUCIA.pdf"
             },
             {
+              "nome": "NATALE SALVATORE Consegna_260577_20260720_111909 RIF. DISINCROSTANTE PERGEL 1 KG Basato su Ordini cliente 260285..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/92qvdkekmprlw1fgebwaw/NATALE-SALVATORE-Consegna_260577_20260720_111909-RIF.-DISINCROSTANTE-PERGEL-1-KG-Basato-su-Ordini-cliente-260285..pdf?rlkey=lczqq7q0xhclfizlklzi06b5z&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NATALE SALVATORE Consegna_260577_20260720_111909 RIF. DISINCROSTANTE PERGEL 1 KG Basato su Ordini cliente 260285..pdf"
+            },
+            {
               "nome": "NERA SRL Consegna_260336_20260602_212939 RIF. ASSISTENZA SU MOTORE CASSONATO SOSTITUZIONE ASSISTENZA SU MA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2568,7 +2576,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 319
+          "_totale_file": 320
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -3054,6 +3062,14 @@
               "link": "https://www.dropbox.com/scl/fi/58nxjge1btlpzgcwi0ikx/FALCONE-SAS-di-FALCONE-ALESSANDRO-C.-Fattura-di-vendita_2600279_20260710_114811-RIF.-RINFRESCATORE-IN-COMODATO-Basato-su-Offerte-di-vendita-21058.pdf?rlkey=kbzdca66jithp9ck9eudwosm5&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FALCONE SAS di FALCONE ALESSANDRO & C. Fattura di vendita_2600279_20260710_114811 RIF. RINFRESCATORE IN COMODATO Basato su Offerte di vendita 21058.pdf"
+            },
+            {
+              "nome": "FALCONE SRL Fattura di vendita_2600297_20260720_100207 RIF. GRIGLIA SCALDATAZZE 341x425 mm QTA' 6.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u74z7uuvqykxnxvy2r9s1/FALCONE-SRL-Fattura-di-vendita_2600297_20260720_100207-RIF.-GRIGLIA-SCALDATAZZE-341x425-mm-QTA-6.pdf?rlkey=dbdqtyb6149i6bhwjql74bjwi&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FALCONE SRL Fattura di vendita_2600297_20260720_100207 RIF. GRIGLIA SCALDATAZZE 341x425 mm QTA' 6.pdf"
             },
             {
               "nome": "FOODEX SRL Fattura di vendita_2600208_20260612_105758 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf",
@@ -3744,6 +3760,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PANAINO SRL UNIPERSONALE Fattura di vendita_2600217_20260622_115209 RIF. TAVOLO REFRIGERATO FORCAR Basato su Consegne 260180. 260380..pdf"
             },
             {
+              "nome": "PANIFICIO PANE DI CASA MIA di MASSIMO NOCITO Fattura di vendita_2600298_20260720_110910 RIF. Basato su Ordini cliente 260286..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wcd7h34x3p92tasbxxg64/PANIFICIO-PANE-DI-CASA-MIA-di-MASSIMO-NOCITO-Fattura-di-vendita_2600298_20260720_110910-RIF.-Basato-su-Ordini-cliente-260286..pdf?rlkey=p3wykrl71l7zs44jhhaarlcqv&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PANIFICIO PANE DI CASA MIA di MASSIMO NOCITO Fattura di vendita_2600298_20260720_110910 RIF. Basato su Ordini cliente 260286..pdf"
+            },
+            {
               "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Fattura di vendita_2600249_20260630_114424 RIF. Basato su Consegne 260393. 260406. 260422. 260491. 260492. 2.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4136,7 +4160,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 195
+          "_totale_file": 197
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -4960,6 +4984,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PANAINO SRL UNIPERSONALE Offerta di vendita_260168_20260515_175035.pdf"
             },
             {
+              "nome": "PANAINO SRL UNIPERSONALE Offerta di vendita_260273_20260720_105235 RIF. OFFERTA SPECIALE VETRINA BIBITE KLIMAITALIA SILM COOLER 225.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8igl98ppmqmnfsd38pi59/PANAINO-SRL-UNIPERSONALE-Offerta-di-vendita_260273_20260720_105235-RIF.-OFFERTA-SPECIALE-VETRINA-BIBITE-KLIMAITALIA-SILM-COOLER-225.pdf?rlkey=9fho8gyx168ddbpr6n21w8fcd&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PANAINO SRL UNIPERSONALE Offerta di vendita_260273_20260720_105235 RIF. OFFERTA SPECIALE VETRINA BIBITE KLIMAITALIA SILM COOLER 225.pdf"
+            },
+            {
               "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Offerta di vendita_260200_20260606_173541.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5184,7 +5216,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 130
+          "_totale_file": 131
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -64099,6 +64131,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/M&M SRL Ordine cliente_260255_20260706_160754 RIF. DOCCIA PRELAVAGGIO E MISCELATORI Basato su Offerte di vendit.pdf"
             },
             {
+              "nome": "MACELLERIA COSENTINO DOMENICO Ordine cliente_260287_20260720_115333 RIF. PIASTRA E COLTELLO TRITACARNE 32.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gcgxw7xj9l9ecj4s7yfzi/MACELLERIA-COSENTINO-DOMENICO-Ordine-cliente_260287_20260720_115333-RIF.-PIASTRA-E-COLTELLO-TRITACARNE-32.pdf?rlkey=1y2m6bipveifmtw3d3384hnjd&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO DOMENICO Ordine cliente_260287_20260720_115333 RIF. PIASTRA E COLTELLO TRITACARNE 32.pdf"
+            },
+            {
               "nome": "MACELLERIA LOSARDO GIOVANNINO Ordine cliente_260170_20260603_092842 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -64129,6 +64169,14 @@
               "link": "https://www.dropbox.com/scl/fi/5sscypy25javi08mb8wtu/Macelleria-DA-PEPPINO-Ordine-cliente_260130_20260510_191147-RIF.-SPATOLA.pdf?rlkey=bj8sk4xgkiw1vkiwqg6bp4byv&dl=0?raw=1",
               "dimensione_kb": 64,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Macelleria DA PEPPINO Ordine cliente_260130_20260510_191147 RIF. SPATOLA.pdf"
+            },
+            {
+              "nome": "NATALE SALVATORE Ordine cliente_260285_20260720_105555 RIF. DISINCROSTANTE PERGEL 1 KG.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/58v5u1za9ia122vsnezpa/NATALE-SALVATORE-Ordine-cliente_260285_20260720_105555-RIF.-DISINCROSTANTE-PERGEL-1-KG.pdf?rlkey=vid3mkiw0bcwrmr97btlt1l53&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NATALE SALVATORE Ordine cliente_260285_20260720_105555 RIF. DISINCROSTANTE PERGEL 1 KG.pdf"
             },
             {
               "nome": "NERA SRL Ordine cliente_260163_20260521_174924 RIF. ASSISTENZA SU LAVASTOVIGLIE KRUPPS EL51 MATRICOLA 202360385.pdf",
@@ -64193,6 +64241,14 @@
               "link": "https://www.dropbox.com/scl/fi/qcycn7vlkhp25oqgdewzj/PANAINO-SRL-UNIPERSONALE-Ordine-cliente_260231_20260625_103300.pdf?rlkey=9epjsualyc0nujh4krq4mrlnx&dl=0?raw=1",
               "dimensione_kb": 58,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PANAINO SRL UNIPERSONALE Ordine cliente_260231_20260625_103300.pdf"
+            },
+            {
+              "nome": "PANIFICIO PANE DI CASA MIA di MASSIMO NOCITO Ordine cliente_260286_20260720_110856.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1ca3rr6sbk88ygkfyov9m/PANIFICIO-PANE-DI-CASA-MIA-di-MASSIMO-NOCITO-Ordine-cliente_260286_20260720_110856.pdf?rlkey=ufnoc24gnijuqfuxlhj8higpl&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PANIFICIO PANE DI CASA MIA di MASSIMO NOCITO Ordine cliente_260286_20260720_110856.pdf"
             },
             {
               "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Ordine cliente_260118_20260630_105902 RIF. ATTREZZATURE Basato su Offerte di vendita 260138..pdf",
@@ -64473,9 +64529,17 @@
               "link": "https://www.dropbox.com/scl/fi/41on91l6x9xukkv7oayv2/ZANI-STEFANO-Ordine-cliente_260260_20260708_110543-RIF.-COPPIA-GUIDE-ARMADIO-COLDLINE.pdf?rlkey=19jflok36kjntu2l1cug921p6&dl=0?raw=1",
               "dimensione_kb": 56,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260260_20260708_110543 RIF. COPPIA GUIDE ARMADIO COLDLINE.pdf"
+            },
+            {
+              "nome": "ZANI STEFANO Ordine cliente_260288_20260720_122509.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wdc2gfo0mgy0v94m3ck2d/ZANI-STEFANO-Ordine-cliente_260288_20260720_122509.pdf?rlkey=l3yvgldy17j5zgurr97x3pzyg&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260720_122509.pdf"
             }
           ],
-          "_totale_file": 154
+          "_totale_file": 158
         }
       ],
       "file": []
