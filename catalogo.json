@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-21T09:12:09Z",
-  "totale_file": 25771,
+  "generato": "2026-07-22T00:35:01Z",
+  "totale_file": 25772,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -69142,7 +69142,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7221,
+      "totale_file": 7222,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -86890,7 +86890,24 @@
             {
               "nome": "CITYBAR",
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CITYBAR",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "CITYBAR AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CITYBAR/CITYBAR AREA TECNICA",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "CITYBAR PRODOTTI per CLIENTE.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/krq9aqvj0erbf28933xpd/CITYBAR-PRODOTTI-per-CLIENTE.pdf?rlkey=ucmc0ocqe2q8dr8h4ye3qat6r&dl=0?raw=1",
+                      "dimensione_kb": 49,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CITYBAR/CITYBAR AREA TECNICA/CITYBAR PRODOTTI per CLIENTE.pdf"
+                    }
+                  ],
+                  "_totale_file": 1
+                }
+              ],
               "file": [
                 {
                   "nome": "ACAL FT 200299.pdf",
@@ -86933,7 +86950,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CITYBAR/GIANLUIGI CAVALCANTE FT 200293.pdf"
                 }
               ],
-              "_totale_file": 5
+              "_totale_file": 6
             },
             {
               "nome": "COMANDO DEI VIGILI DEL FUOCO",
@@ -97655,7 +97672,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1296
+          "_totale_file": 1297
         },
         {
           "nome": "LAVELLO",
