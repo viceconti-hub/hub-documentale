@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-22T05:42:35Z",
-  "totale_file": 25789,
+  "generato": "2026-07-22T07:48:53Z",
+  "totale_file": 25814,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -184288,7 +184288,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4873,
+      "totale_file": 4898,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -184446,6 +184446,14 @@
               "link": "https://www.dropbox.com/scl/fi/lrm6lgnv9bjih5fqi3ytu/COLD-LINE-srl-Entrata-merci-da-fornitore_260132_20260629_163120-RIF.-CORRADO-MICHELA-ARMADIO-LEVETRONIC-500-Basato-su-Ordini-clie.pdf?rlkey=s857qe8diehidudo74ea6d6pa&dl=0?raw=1",
               "dimensione_kb": 71,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260132_20260629_163120 RIF. CORRADO MICHELA ARMADIO LEVETRONIC 500 Basato su Ordini clie.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260143_20260720_123601 RIF. LA LUMERA GUARNIZIONE PER PORTE TAVOLO REFRIGERATO Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u7rwmyi0u32qs075siaxa/COLD-LINE-srl-Entrata-merci-da-fornitore_260143_20260720_123601-RIF.-LA-LUMERA-GUARNIZIONE-PER-PORTE-TAVOLO-REFRIGERATO-Basato-su.pdf?rlkey=ropikn0tmyw6b4ni0voojj8h6&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260143_20260720_123601 RIF. LA LUMERA GUARNIZIONE PER PORTE TAVOLO REFRIGERATO Basato su.pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -185168,7 +185176,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 109
+          "_totale_file": 110
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -185270,6 +185278,14 @@
               "link": "https://www.dropbox.com/scl/fi/x7ohagvyfsl5qiy8wyqcu/ACCIAIO-T.-D.-SRL_1009_2026-06-12.xml?rlkey=mjr6lls99jqus2jwkpbbn6vs6&dl=0?raw=1",
               "dimensione_kb": 29,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ACCIAIO T. & D. SRL_1009_2026-06-12.xml"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL_1207_2026-07-15.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/rzym429qq6q8p9rf297kn/ACCIAIO-T.-D.-SRL_1207_2026-07-15.xml?rlkey=vnptwpg1hies2zkr7bs2gte16&dl=0?raw=1",
+              "dimensione_kb": 14,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ACCIAIO T. & D. SRL_1207_2026-07-15.xml"
             },
             {
               "nome": "ACCIAIO T. & D. SRL_1238_2025-07-23.xml",
@@ -185384,6 +185400,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/AIRFAN s.r.l_1498_2025-07-02.xml"
             },
             {
+              "nome": "AIRFAN s.r.l_1675_2026-07-16.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/q1ehkfev6sk18e8277joe/AIRFAN-s.r.l_1675_2026-07-16.xml?rlkey=oa20suoemq96j9j1e39o3ihqo&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/AIRFAN s.r.l_1675_2026-07-16.xml"
+            },
+            {
               "nome": "AIRFAN s.r.l_1697_2025-07-31.xml",
               "tipo": "File",
               "icona": "📎",
@@ -185486,6 +185510,14 @@
               "link": "https://www.dropbox.com/scl/fi/pocj2jnjbhcezoycc1icd/ALD-Automotive-Italia-S.r.l_INR0791000_2026-06-01.xml?rlkey=b0lf94lir11hbd5ajvymnre6s&dl=0?raw=1",
               "dimensione_kb": 7,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ALD Automotive Italia S.r.l_INR0791000_2026-06-01.xml"
+            },
+            {
+              "nome": "ALD Automotive Italia S.r.l_INR0935066_2026-07-01.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/n3pp6dtgbgy54d9yf2ug7/ALD-Automotive-Italia-S.r.l_INR0935066_2026-07-01.xml?rlkey=8g91wgm11nvln6jhjtxkc5ms0&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ALD Automotive Italia S.r.l_INR0935066_2026-07-01.xml"
             },
             {
               "nome": "ALD Automotive Italia S.r.l_INR1233761_2025-10-01.xml",
@@ -185630,6 +185662,14 @@
               "link": "https://www.dropbox.com/scl/fi/fdq7buerccf5mt4ml2xv8/ARTINOX-S.P.A_1744_2025-06-19.xml?rlkey=d273vd6hx257pzuc9cri0ep2l&dl=0?raw=1",
               "dimensione_kb": 79,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARTINOX  S.P.A_1744_2025-06-19.xml"
+            },
+            {
+              "nome": "ARTINOX  S.P.A_1918_2026-07-08.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/49xno29zzbsrz3yb37o0b/ARTINOX-S.P.A_1918_2026-07-08.xml?rlkey=agailjlvvliuj5pwvxbrv7aix&dl=0?raw=1",
+              "dimensione_kb": 84,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARTINOX  S.P.A_1918_2026-07-08.xml"
             },
             {
               "nome": "ARTINOX  S.P.A_2230_2025-07-30.xml",
@@ -185832,6 +185872,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARVAL SERVICE LEASE ITALIA SPA_FC0014011207_2026-06-11.xml"
             },
             {
+              "nome": "ARVAL SERVICE LEASE ITALIA SPA_FC0014213672_2026-07-13.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/qpr5u0wz99qhalsw45pk3/ARVAL-SERVICE-LEASE-ITALIA-SPA_FC0014213672_2026-07-13.xml?rlkey=vh9wq4ch69l03763ahaoghne4&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARVAL SERVICE LEASE ITALIA SPA_FC0014213672_2026-07-13.xml"
+            },
+            {
               "nome": "ARVAL SERVICE LEASE ITALIA SPA_FD0011597967_2025-03-12.xml",
               "tipo": "File",
               "icona": "📎",
@@ -185950,6 +185998,14 @@
               "link": "https://www.dropbox.com/scl/fi/kg8ovu2m5w3jfzc27d7tr/Acquedotto-Lucano_20252030754925_2025-12-31.xml?rlkey=oswv24hvj5c9bbi29qkkpxe2f&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Acquedotto Lucano_20252030754925_2025-12-31.xml"
+            },
+            {
+              "nome": "Acquedotto Lucano_20262030329468_2026-06-30.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/zqyopo1sz8vzsuwj4a0ji/Acquedotto-Lucano_20262030329468_2026-06-30.xml?rlkey=mwug4kfkedl6exfco6dwycdo2&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Acquedotto Lucano_20262030329468_2026-06-30.xml"
             },
             {
               "nome": "AeB ELETTROMECCANICA S.a.s. di Bruno Carlo e C_20_2025-01-24.xml",
@@ -186424,6 +186480,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BPER Banca S.p.A_05387-4160797975-76_2025-06-04.xml"
             },
             {
+              "nome": "BPER Banca S.p.A_05387-4160936161-76_2026-07-02.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/bbcultcojd0ho9i9fvist/BPER-Banca-S.p.A_05387-4160936161-76_2026-07-02.xml?rlkey=1mr4hgps06ot4s0ba0h3magtq&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BPER Banca S.p.A_05387-4160936161-76_2026-07-02.xml"
+            },
+            {
               "nome": "BPER Banca S.p.A_05387-4161020940-76_2025-07-02.xml",
               "tipo": "File",
               "icona": "📎",
@@ -186694,6 +186758,14 @@
               "link": "https://www.dropbox.com/scl/fi/9xf9q1hpvgxtwtpdtun7k/BRUZIA-SYSTEM-S.r.l_125_2026-06-22.xml?rlkey=4rlmoeehyuslv1pyfnsatq4kk&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BRUZIA SYSTEM S.r.l_125_2026-06-22.xml"
+            },
+            {
+              "nome": "BRUZIA SYSTEM S.r.l_134_2026-07-03.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/uweft5vwko9wz9doglku9/BRUZIA-SYSTEM-S.r.l_134_2026-07-03.xml?rlkey=ntaoktg1auc7xp1h331ypx5d3&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BRUZIA SYSTEM S.r.l_134_2026-07-03.xml"
             },
             {
               "nome": "BRUZIA SYSTEM S.r.l_A126_2026-06-11.xml",
@@ -187528,6 +187600,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Cosmopol Vigilanza s.r.l_S4155_2025-07-07.xml"
             },
             {
+              "nome": "Cosmopol Vigilanza s.r.l_S4624_2026-07-06.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/xi34x7jbh6mmk7avxywed/Cosmopol-Vigilanza-s.r.l_S4624_2026-07-06.xml?rlkey=gcusct9a0crfkp4vpqqttoj3i&dl=0?raw=1",
+              "dimensione_kb": 27,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Cosmopol Vigilanza s.r.l_S4624_2026-07-06.xml"
+            },
+            {
               "nome": "Cosmopol Vigilanza s.r.l_S5298_2025-08-01.xml",
               "tipo": "File",
               "icona": "📎",
@@ -187728,6 +187808,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/DE LUCA SRL_008084_2026-06-26.xml"
             },
             {
+              "nome": "DE LUCA SRL_008305_2026-07-02.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/msn47u1fo0k1jquadjte0/DE-LUCA-SRL_008305_2026-07-02.xml?rlkey=gx5jsokzl1p93f1eu9pw1ntay&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/DE LUCA SRL_008305_2026-07-02.xml"
+            },
+            {
+              "nome": "DE LUCA SRL_008432_2026-07-06.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/4y1drknqzg9ms1sle9zg8/DE-LUCA-SRL_008432_2026-07-06.xml?rlkey=00b44v0wy5zxwryrqcx3homgn&dl=0?raw=1",
+              "dimensione_kb": 11,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/DE LUCA SRL_008432_2026-07-06.xml"
+            },
+            {
               "nome": "DE LUCA SRL_008775_2025-07-17.xml",
               "tipo": "File",
               "icona": "📎",
@@ -187814,6 +187910,14 @@
               "link": "https://www.dropbox.com/scl/fi/jtp32bk40bqv0mbw2rdes/DE-LUCA-SRL_015788_2024-12-24.xml?rlkey=roa9xf2v5jxw77cjzkxldnk5e&dl=0?raw=1",
               "dimensione_kb": 8,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/DE LUCA SRL_015788_2024-12-24.xml"
+            },
+            {
+              "nome": "DIENI GIUSEPPE_4922026_2026-07-08.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/g71q76y63wv9263s17wvc/DIENI-GIUSEPPE_4922026_2026-07-08.xml?rlkey=p1plxofbizgmrt42ny3owlqs2&dl=0?raw=1",
+              "dimensione_kb": 36,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/DIENI GIUSEPPE_4922026_2026-07-08.xml"
             },
             {
               "nome": "DIENI GIUSEPPE_6302025_2025-11-28.xml",
@@ -188206,6 +188310,14 @@
               "link": "https://www.dropbox.com/scl/fi/3eqwo2e7ipettejwhjqn9/Enel-Energia-S.p.A_005446809932_2026-06-10.xml?rlkey=cghq3oprp3bs9p9ttj1etxx68&dl=0?raw=1",
               "dimensione_kb": 32,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Enel Energia S.p.A_005446809932_2026-06-10.xml"
+            },
+            {
+              "nome": "Enel Energia S.p.A_005456340430_2026-07-12.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/6r4zbmzxbzc0f1afhsxdq/Enel-Energia-S.p.A_005456340430_2026-07-12.xml?rlkey=1eauj2rpm72tfo2xe5l3gl1lo&dl=0?raw=1",
+              "dimensione_kb": 10,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Enel Energia S.p.A_005456340430_2026-07-12.xml"
             },
             {
               "nome": "EniMoov S.p.A_2026-FE18740-1602_2026-04-10.xml",
@@ -188814,6 +188926,14 @@
               "link": "https://www.dropbox.com/scl/fi/1hscw69i7r5kojjv7ahxa/GLOBAL-COM-BASILICATA-SRL_2997_2025-08-28.xml?rlkey=j24n8z0bz5oualg2mr11ar7ex&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/GLOBAL COM BASILICATA SRL_2997_2025-08-28.xml"
+            },
+            {
+              "nome": "GLOBAL COM BASILICATA SRL_454426_2026-07-01.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/tmz0zs3urm5ucatgdnm2o/GLOBAL-COM-BASILICATA-SRL_454426_2026-07-01.xml?rlkey=mt3g6ldpatgjj5oqeup77chlm&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/GLOBAL COM BASILICATA SRL_454426_2026-07-01.xml"
             },
             {
               "nome": "GOPACK S.R.L. a socio unico_00068626_2026-03-31.xml",
@@ -189480,6 +189600,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/IDEAM INOX SRL_180002026_2026-01-30.xml"
             },
             {
+              "nome": "IDEAM INOX SRL_2011002026_2026-06-30.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/810vvbnl5r213sw2znk31/IDEAM-INOX-SRL_2011002026_2026-06-30.xml?rlkey=er9ceq3x1unw6bn58o78zf2e3&dl=0?raw=1",
+              "dimensione_kb": 94,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/IDEAM INOX SRL_2011002026_2026-06-30.xml"
+            },
+            {
               "nome": "IDEAM INOX SRL_2563002025_2025-08-29.xml",
               "tipo": "File",
               "icona": "📎",
@@ -189766,6 +189894,14 @@
               "link": "https://www.dropbox.com/scl/fi/hpderi4d1ea0j9foee3yz/Intesa-Sanpaolo-S.p.a_01S620262800266366_2026-04-15.xml?rlkey=j8qpd004bz5h3m82bmg9j80v9&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Intesa Sanpaolo S.p.a_01S620262800266366_2026-04-15.xml"
+            },
+            {
+              "nome": "Intesa Sanpaolo S.p.a_01S620262800440232_2026-07-15.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/r7wxlmuwf88j5a1rt55le/Intesa-Sanpaolo-S.p.a_01S620262800440232_2026-07-15.xml?rlkey=0047qcvxpfuwps6bn56rez735&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Intesa Sanpaolo S.p.a_01S620262800440232_2026-07-15.xml"
             },
             {
               "nome": "K RICAMBI S.R.L_176_2025-06-24.xml",
@@ -190752,6 +190888,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/NEXI PAYMENTS S.p.A_2766082_2025-04-10.xml"
             },
             {
+              "nome": "NEXI PAYMENTS S.p.A_3167285_2026-07-13.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/b97q0ro23w3vkzm6cm61q/NEXI-PAYMENTS-S.p.A_3167285_2026-07-13.xml?rlkey=wu8taripc7j7cgyxfwcqeevae&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/NEXI PAYMENTS S.p.A_3167285_2026-07-13.xml"
+            },
+            {
               "nome": "NEXI PAYMENTS S.p.A_3171268_2025-07-07.xml",
               "tipo": "File",
               "icona": "📎",
@@ -190920,6 +191064,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/PERRETTA SERVICE DI PERRETTA IMMACOLATO EGIDIO_64_2025-06-18.xml"
             },
             {
+              "nome": "PERRETTA SERVICE DI PERRETTA IMMACOLATO EGIDIO_68_2026-07-02.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/uqdsqftzq59ki77i9k58e/PERRETTA-SERVICE-DI-PERRETTA-IMMACOLATO-EGIDIO_68_2026-07-02.xml?rlkey=lsn8gt7v9lytmylb1ld9855g0&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/PERRETTA SERVICE DI PERRETTA IMMACOLATO EGIDIO_68_2026-07-02.xml"
+            },
+            {
               "nome": "PERRETTA SERVICE DI PERRETTA IMMACOLATO EGIDIO_84_2025-07-28.xml",
               "tipo": "File",
               "icona": "📎",
@@ -191006,6 +191158,14 @@
               "link": "https://www.dropbox.com/scl/fi/q7uubi7a4fpftixs7ab70/PIAZZA-EFFEPI-S.R.L_2026-FC1-0000862_2026-04-08.xml?rlkey=k20bvwpu2ppwc42g4zi1jve4o&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/PIAZZA EFFEPI S.R.L_2026-FC1-0000862_2026-04-08.xml"
+            },
+            {
+              "nome": "PIAZZA EFFEPI S.R.L_2026-FC1-0001730_2026-06-30.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/17k5z7czy2xje0pmngjow/PIAZZA-EFFEPI-S.R.L_2026-FC1-0001730_2026-06-30.xml?rlkey=ipwoykj2io67yhoxu5og5s83n&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/PIAZZA EFFEPI S.R.L_2026-FC1-0001730_2026-06-30.xml"
             },
             {
               "nome": "PIZETA SRL_4288_2025-12-17.xml",
@@ -192360,6 +192520,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/UNIVAC GROUP SRL_13887_2025-11-29.xml"
             },
             {
+              "nome": "UNIVAC GROUP SRL_V1323_2026-06-30.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/tlbwhx871x6z2k3xlk8p9/UNIVAC-GROUP-SRL_V1323_2026-06-30.xml?rlkey=gpl7w2ycn1zzyihwlomkun67k&dl=0?raw=1",
+              "dimensione_kb": 221,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/UNIVAC GROUP SRL_V1323_2026-06-30.xml"
+            },
+            {
               "nome": "VAN BERKEL INTERNATIONAL SRL_F1  001178_2026-03-23.xml",
               "tipo": "File",
               "icona": "📎",
@@ -193488,7 +193656,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/iMatteo di Bruno Matteo_79_2025-03-25.xml"
             }
           ],
-          "_totale_file": 1035
+          "_totale_file": 1055
         },
         {
           "nome": "LOGISTICA",
@@ -193502,6 +193670,14 @@
               "link": "https://www.dropbox.com/scl/fi/2w4tu3em2sfijdjsg9nv4/BARLASCINI-Conferma-prenotazione-ritiro.pdf?rlkey=jdrntvhd1abdcdi37a16g0t90&dl=0?raw=1",
               "dimensione_kb": 108,
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BARLASCINI Conferma prenotazione ritiro.pdf"
+            },
+            {
+              "nome": "BARLASCINI Spedizione 154000341191 CONSEGNATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vpl7c9u7zyss91ytk5e1q/BARLASCINI-Spedizione-154000341191-CONSEGNATA.pdf?rlkey=sp12gy4tfc334xzo4yqorz1dr&dl=0?raw=1",
+              "dimensione_kb": 112,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BARLASCINI Spedizione 154000341191 CONSEGNATA.pdf"
             },
             {
               "nome": "BRT Conferma prenotazione ritiro YOU MARINA.pdf",
@@ -193536,7 +193712,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BRT Spedizione 154000341191.pdf"
             }
           ],
-          "_totale_file": 5
+          "_totale_file": 6
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -224968,6 +225144,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN CONFERMA ORDINE RIF. ARTE DOLCIARIA_PLUTONE 10.pdf"
                 },
                 {
+                  "nome": "SIRMAN CONFERMA ORDINE RIF. RICAMBI SOTTOVUOTO VE.RO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gbv0jc6ggte2fsb0f2dt7/SIRMAN-CONFERMA-ORDINE-RIF.-RICAMBI-SOTTOVUOTO-VE.RO.pdf?rlkey=edkt4oi22zo1yrhimlmnrrn4d&dl=0?raw=1",
+                  "dimensione_kb": 82,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN CONFERMA ORDINE RIF. RICAMBI SOTTOVUOTO VE.RO.pdf"
+                },
+                {
                   "nome": "SIRMAN CONFERMA ORDINE RIF.OSTERIA DELLA ROCCA AGGIORNATO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -225006,6 +225190,14 @@
                   "link": "https://www.dropbox.com/scl/fi/fp225z550hx08qrqqkmnj/SIRMAN-spa-Ordine-dacquisto_260102_20260519_233206-RIF.-Basato-su-Ordini-cliente-260153.-MIXER-AD-IMMERSIONA-CICLONE-MIXER-AD-IMMERSIONA-CICLONE-28VT-HAPPY-MOMENTS.pdf?rlkey=q5dtd6g5hu7yhkpmlsnashn2f&dl=0?raw=1",
                   "dimensione_kb": 31,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN spa Ordine dacquisto_260102_20260519_233206 RIF. Basato su Ordini cliente 260153. MIXER AD IMMERSIONA CICLONE MIXER AD IMMERSIONA CICLONE 28VT HAPPY MOMENTS.pdf"
+                },
+                {
+                  "nome": "SIRMAN spa Ordine dacquisto_260154_20260705_175443 RIF. GUARNIZIONE CAMPAMA E KIT MANICOTTO SOTTOVUOTO VE.RO..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1lq4s2jikcb87jgrms8qp/SIRMAN-spa-Ordine-dacquisto_260154_20260705_175443-RIF.-GUARNIZIONE-CAMPAMA-E-KIT-MANICOTTO-SOTTOVUOTO-VE.RO..pdf?rlkey=kx0id5pmtsozrrgu48dhgdwu9&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN spa Ordine dacquisto_260154_20260705_175443 RIF. GUARNIZIONE CAMPAMA E KIT MANICOTTO SOTTOVUOTO VE.RO..pdf"
                 },
                 {
                   "nome": "SLAYER BLADES ORDINE 25RC12709 RIF.HAPPY MOMENTS_VALVOLA.PDF",
@@ -225296,7 +225488,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3687
+              "_totale_file": 3689
             }
           ],
           "file": [
@@ -225365,11 +225557,19 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS.pdf"
             },
             {
+              "nome": "ATREPAN S.R.L. Ordine dacquisto_260174_20260721_130428 RIF. CORRADO MICHELA Basato su Ordini cliente 260297..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hlr0vsls6q6apknanm8iq/ATREPAN-S.R.L.-Ordine-dacquisto_260174_20260721_130428-RIF.-CORRADO-MICHELA-Basato-su-Ordini-cliente-260297..pdf?rlkey=v6iucnygvgkcah3ytr2xkrjvr&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ATREPAN S.R.L. Ordine dacquisto_260174_20260721_130428 RIF. CORRADO MICHELA Basato su Ordini cliente 260297..pdf"
+            },
+            {
               "nome": "COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/9oz0vbcyq66xouxt8f4m0/COLDLINE-Conferma-ordine-n-26-09815-RIF.RICAMBI.pdf?rlkey=hup5c334i3134yrx44p3mkwat&dl=0?raw=1",
-              "dimensione_kb": 78,
+              "dimensione_kb": 89,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf"
             },
             {
@@ -225377,7 +225577,7 @@
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/3v1z91ijpahvmftzisjhy/COLDLINE-Conferma-ordine-n-26-11538-RIF.FLAVIA-DE-MARCO.pdf?rlkey=1bc7r28imwhig4ihsmtnj75rb&dl=0?raw=1",
-              "dimensione_kb": 79,
+              "dimensione_kb": 91,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-11538 RIF.FLAVIA DE MARCO.pdf"
             },
             {
@@ -225385,7 +225585,7 @@
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/qqqnai6paz0adbkae9e73/COLDLINE-Conferma-ordine-n-26-11994-RIF.CORRADO-COPPIE-GUIDE.pdf?rlkey=82n1nnbxp5otdw5qeqcf19lnx&dl=0?raw=1",
-              "dimensione_kb": 84,
+              "dimensione_kb": 96,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-11994 RIF.CORRADO COPPIE GUIDE.pdf"
             },
             {
@@ -225485,22 +225685,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260163_20260708_122552.pdf"
             },
             {
-              "nome": "SIRMAN CONFERMA ORDINE RIF. RICAMBI SOTTOVUOTO VE.RO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gbv0jc6ggte2fsb0f2dt7/SIRMAN-CONFERMA-ORDINE-RIF.-RICAMBI-SOTTOVUOTO-VE.RO.pdf?rlkey=edkt4oi22zo1yrhimlmnrrn4d&dl=0?raw=1",
-              "dimensione_kb": 71,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE RIF. RICAMBI SOTTOVUOTO VE.RO.pdf"
-            },
-            {
-              "nome": "SIRMAN spa Ordine dacquisto_260154_20260705_175443 RIF. GUARNIZIONE CAMPAMA E KIT MANICOTTO SOTTOVUOTO VE.RO..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/1lq4s2jikcb87jgrms8qp/SIRMAN-spa-Ordine-dacquisto_260154_20260705_175443-RIF.-GUARNIZIONE-CAMPAMA-E-KIT-MANICOTTO-SOTTOVUOTO-VE.RO..pdf?rlkey=kx0id5pmtsozrrgu48dhgdwu9&dl=0?raw=1",
-              "dimensione_kb": 57,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260154_20260705_175443 RIF. GUARNIZIONE CAMPAMA E KIT MANICOTTO SOTTOVUOTO VE.RO..pdf"
-            },
-            {
               "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -225523,6 +225707,22 @@
               "link": "https://www.dropbox.com/scl/fi/cn89mesfhm6g3yi6wlqca/SLAYER-BLADES-SRL-Ordine-dacquisto_260171_20260720_115146.pdf?rlkey=d3gnzey0i7j0281n41potdkth&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SLAYER BLADES SRL Ordine dacquisto_260171_20260720_115146.pdf"
+            },
+            {
+              "nome": "TAMAI CONFERMA ORDINE 176 VICECONTI RIF.MS NAPOLEONE+MAG.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vayzn988md7h9zmyfxf0j/TAMAI-CONFERMA-ORDINE-176-VICECONTI-RIF.MS-NAPOLEONE-MAG.pdf?rlkey=91z6sw7i56bi0z7lfq58x18i9&dl=0?raw=1",
+              "dimensione_kb": 187,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TAMAI CONFERMA ORDINE 176 VICECONTI RIF.MS NAPOLEONE+MAG.pdf"
+            },
+            {
+              "nome": "TAMAI S.R.L. Ordine dacquisto_260173_20260721_113231 RIF. MS NAPOLEONE Basato su Ordini cliente 260294..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qdupdtjrw3ksvmcjuj8vr/TAMAI-S.R.L.-Ordine-dacquisto_260173_20260721_113231-RIF.-MS-NAPOLEONE-Basato-su-Ordini-cliente-260294..pdf?rlkey=0k3t3qbj2bs8wrzykcmgmyy1c&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TAMAI S.R.L. Ordine dacquisto_260173_20260721_113231 RIF. MS NAPOLEONE Basato su Ordini cliente 260294..pdf"
             },
             {
               "nome": "TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf",
@@ -225565,7 +225765,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
             }
           ],
-          "_totale_file": 3720
+          "_totale_file": 3723
         }
       ],
       "file": [
