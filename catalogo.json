@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-22T07:48:53Z",
-  "totale_file": 25814,
+  "generato": "2026-07-22T08:55:05Z",
+  "totale_file": 25819,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -225783,7 +225783,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2397,
+      "totale_file": 2402,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -246528,6 +246528,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE COPIA TITOLI MPS AR 29_05_2026.pdf"
             },
             {
+              "nome": "COLDLINE COPIA TITOLO BPER SCADENZA 30_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/45wq0wtxm8w37fwdrmdii/COLDLINE-COPIA-TITOLO-BPER-SCADENZA-30_09_2026.pdf?rlkey=jqntt0brmapfhl92gcion4rx4&dl=0?raw=1",
+              "dimensione_kb": 627,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE COPIA TITOLO BPER SCADENZA 30_09_2026.pdf"
+            },
+            {
               "nome": "COLDLINE Dettaglio bonifico DEL 07_07_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -246552,6 +246560,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE Dettaglio bonifico istantaneo DEL 21_05_2026 MARIE VENTOLA.pdf"
             },
             {
+              "nome": "COLDLINE Dettaglio bonifico istantaneo DEL 21_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d1qa8iexzlq237zmlpex8/COLDLINE-Dettaglio-bonifico-istantaneo-DEL-21_07_2026.pdf?rlkey=jnbov7akvdkb5eukovhts34nl&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE Dettaglio bonifico istantaneo DEL 21_07_2026.pdf"
+            },
+            {
               "nome": "COLDLINE IMPORTO TITOLI 04_03_2026.xlsx",
               "tipo": "Excel",
               "icona": "📊",
@@ -246560,11 +246576,19 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE IMPORTO TITOLI 04_03_2026.xlsx"
             },
             {
+              "nome": "COLDLINE RICEVUTA AR TITOLO BPER SCADENZA 30_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bi93goovg5kvzxdgg6vvq/COLDLINE-RICEVUTA-AR-TITOLO-BPER-SCADENZA-30_09_2026.pdf?rlkey=n6p1mtpn82gi2g8i58vqojwg6&dl=0?raw=1",
+              "dimensione_kb": 697,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE RICEVUTA AR TITOLO BPER SCADENZA 30_09_2026.pdf"
+            },
+            {
               "nome": "COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx",
               "tipo": "Excel",
               "icona": "📊",
               "link": "https://www.dropbox.com/scl/fi/7mhfeu5vuqfz8ktn88j8i/COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx?rlkey=re5ygeqe2liyh4z58e310i2be&dl=0?raw=1",
-              "dimensione_kb": 13,
+              "dimensione_kb": 14,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx"
             },
             {
@@ -246944,6 +246968,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/IMPOSTA DI BOLLO Quietanza F24 MPS.pdf"
             },
             {
+              "nome": "KAREL Dettaglio bonifico istantaneo DEL 21_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/e4xpfvmo7zvcephlkfhaw/KAREL-Dettaglio-bonifico-istantaneo-DEL-21_07_2026.pdf?rlkey=9klonb3n2iuruzgb4g5w57528&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/KAREL Dettaglio bonifico istantaneo DEL 21_07_2026.pdf"
+            },
+            {
               "nome": "KRUPPS Dettaglio bonifico istantaneo DEL 27_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -247110,6 +247142,14 @@
               "link": "https://www.dropbox.com/scl/fi/xxbuspwwwyhq953ablpeu/MODULAR_IMPORTO_TITOLI_2026.xlsx?rlkey=1am3sbwvsscatohcebz8ehnc1&dl=0?raw=1",
               "dimensione_kb": 9,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR_IMPORTO_TITOLI_2026.xlsx"
+            },
+            {
+              "nome": "MORANO COPIA TITOLO BPER SCADENZA 25_08_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jtmv1v6oisctgmdisnqh4/MORANO-COPIA-TITOLO-BPER-SCADENZA-25_08_2026.pdf?rlkey=zm4p193i4wfp6akna3wquyxo9&dl=0?raw=1",
+              "dimensione_kb": 566,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MORANO COPIA TITOLO BPER SCADENZA 25_08_2026.pdf"
             },
             {
               "nome": "PADERNO Dettaglio bonifico istantaneo DEL 10_02_2026.pdf",
@@ -247304,7 +247344,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2377
+          "_totale_file": 2382
         }
       ],
       "file": []
