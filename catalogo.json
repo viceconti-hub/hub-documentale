@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-23T02:38:35Z",
-  "totale_file": 25826,
+  "generato": "2026-07-23T05:46:34Z",
+  "totale_file": 25851,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6305,
+      "totale_file": 6330,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -952,6 +952,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FORASTIERO FRANCESCO Consegna_260505_20260703_093524.pdf"
             },
             {
+              "nome": "FORASTIERO FRANCESCO Consegna_260583_20260721_165331 RIF. TERMOSTATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/53kwceolz30nofm1zdxc9/FORASTIERO-FRANCESCO-Consegna_260583_20260721_165331-RIF.-TERMOSTATO.pdf?rlkey=3ib3noiootk7qv6zfnm4v7at0&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FORASTIERO FRANCESCO Consegna_260583_20260721_165331 RIF. TERMOSTATO.pdf"
+            },
+            {
               "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Consegna_260402_20260612_141939 RIF. FILTRI PER CENTRALINA A CARONI ATTIVI Basato su Offerte di v FILTRI PER CENTRALINA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -990,6 +998,14 @@
               "link": "https://www.dropbox.com/scl/fi/pffivn5rno3n4y079fszd/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Consegna_260508_20260703_113746-RIF.-DETERGENTE-E-RUBINETTO-CAPPA.pdf?rlkey=b2oqgtmpsulg2xqb3agtao6gb&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Consegna_260508_20260703_113746 RIF. DETERGENTE E RUBINETTO CAPPA.pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Consegna_260586_20260722_120613 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260296..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/q1ub399ngvrrp631sm516/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Consegna_260586_20260722_120613-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260296..pdf?rlkey=tls2dj0056vvqctk5nta357hc&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Consegna_260586_20260722_120613 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260296..pdf"
             },
             {
               "nome": "GESTIONI TURISTICHE LA TORRE SRL Consegna_260319_20260531_093554 RIF. ASSISTENZA SU FRYTOP RICABLAGGIO PIEZO ELETTRICO.pdf",
@@ -1800,6 +1816,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MADI SNC di DISMA CASELLA & C. Consegna_260563_20260715_173153 RIF. HOTELLERIE Basato su Ordini cliente 260272..pdf"
             },
             {
+              "nome": "MADI SNC di DISMA CASELLA & C. Consegna_260589_20260722_165530 RIF. POSATE CARTUCCIE E DETERGENTE Basato su Ordini cliente 26030.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1knvyxqzcotnqhk8fqggd/MADI-SNC-di-DISMA-CASELLA-C.-Consegna_260589_20260722_165530-RIF.-POSATE-CARTUCCIE-E-DETERGENTE-Basato-su-Ordini-cliente-26030.pdf?rlkey=54khbx3nzgx9cgl3mgydxiwbn&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MADI SNC di DISMA CASELLA & C. Consegna_260589_20260722_165530 RIF. POSATE CARTUCCIE E DETERGENTE Basato su Ordini cliente 26030.pdf"
+            },
+            {
               "nome": "MAGONETTI SNC DI ANDREA GIORGETTI E CHIARA MAGONARA Consegna_260401_20260612_140227 RIF. CONTENITORI ISOTERMICI Basato su Ordini cliente 260150. CONTENITORE ISOTERMICO CON COPERCHIO LT 53.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2192,6 +2216,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio AGRELLO di MICELI ANNA MARIA Consegna_260553_20260708_123408 RIF. PIATTO PIZZA NAPOLI 31 Basato su Ordini cliente 260261..pdf"
             },
             {
+              "nome": "Panificio ARENA sas Consegna_260588_20260722_124212 RIF. BACINELLA POLIPROPILENE GN14 h150mm.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5kpet4c16nhq8wpr76hji/Panificio-ARENA-sas-Consegna_260588_20260722_124212-RIF.-BACINELLA-POLIPROPILENE-GN14-h150mm.pdf?rlkey=rrhimxhwryxzzd3bxhrev8bti&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio ARENA sas Consegna_260588_20260722_124212 RIF. BACINELLA POLIPROPILENE GN14 h150mm.pdf"
+            },
+            {
               "nome": "Panificio FERRARO di SCHETTINI ANGELO A. Consegna_260361_20260602_224452 RIF. ASSISTENZA SU TERMOIMPELLICOLATRICE SOSTITUZIONE RESISTENZA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2384,6 +2416,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SOC. COOP. MARATEA SERVIZI A.R.L. Consegna_260347_20260602_220255 RIF. ASSISTENZA SU FRYTOP ELETTRICO INSTALLAZIONE SPIA ASSISTENZA.pdf"
             },
             {
+              "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Consegna_260582_20260721_161436 RIF. IMPASTATRICE A SPIRALE FIMAR MOD.25SB IN COMODATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hsg9vejo4socguhgne8ag/SOC.-COOP.-MARATEA-SERVIZI-A.R.L.-Consegna_260582_20260721_161436-RIF.-IMPASTATRICE-A-SPIRALE-FIMAR-MOD.25SB-IN-COMODATO.pdf?rlkey=uifnyv9ran06jo40r9frj62ml&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SOC. COOP. MARATEA SERVIZI A.R.L. Consegna_260582_20260721_161436 RIF. IMPASTATRICE A SPIRALE FIMAR MOD.25SB IN COMODATO.pdf"
+            },
+            {
               "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Consegna_260289_20260523_094527 RIF. MIXER A IMMERSIONE FIMAR MX 25Basato su Offerte di vendita 2.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2448,12 +2488,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SUPERMERCATO A POTEGA I FIFINA di PALETTA GIOACCHINO Consegna_260383_20260607_163026 RIF. ASSISTENZA SU AFFETTATICE OMAS Sostituzione lama Sostituzion.pdf"
             },
             {
+              "nome": "SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Consegna_260587_20260722_121221 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI B.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6k2k7sqkh970ww2rtmklk/SUSHIEXPERIENCE-di-CISNEROS-BARRIOS-JESUS-ALBERTO-Consegna_260587_20260722_121221-RIF.-TIMER-120-SEC.-23050Hz-CON-RISCIACQIP-E-SCARICO-REGOLABILI-B.pdf?rlkey=n78dm96m2aom0u4le2jwfhqyf&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Consegna_260587_20260722_121221 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI B.pdf"
+            },
+            {
               "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260282_20260521_122013 RIF. DETERGENTE Basato su Ordini cliente 260160..pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/oc1joztnr3i67cl4c3977/TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO-Consegna_260282_20260521_122013-RIF.-DETERGENTE-Basato-su-Ordini-cliente-260160..pdf?rlkey=24zk12pyevn2tzuxqsdrhttf8&dl=0?raw=1",
               "dimensione_kb": 54,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260282_20260521_122013 RIF. DETERGENTE Basato su Ordini cliente 260160..pdf"
+            },
+            {
+              "nome": "TAVERNA ROVITA di GAMBARDELLA MARIASTELLA & C. SNC Consegna_260585_20260722_120515 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260292..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bxa6n6z9qibvvkfhkxx48/TAVERNA-ROVITA-di-GAMBARDELLA-MARIASTELLA-C.-SNC-Consegna_260585_20260722_120515-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260292..pdf?rlkey=1svcj5t9xj061xvdgx9tglmvz&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TAVERNA ROVITA di GAMBARDELLA MARIASTELLA & C. SNC Consegna_260585_20260722_120515 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260292..pdf"
             },
             {
               "nome": "TERZI ALESSANDRO Consegna_260566_20260716_095825 RIF. DETERGENTE Basato su Ordini cliente 260277..pdf",
@@ -2592,6 +2648,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZANI STEFANO Consegna_260551_20260708_110711 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 26026.pdf"
             },
             {
+              "nome": "ZANI STEFANO Consegna_260584_20260722_113823 RIF. GUIDE E GRIGLIA PER ARMADIO COLDLINE Basato su Ordini client.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iatar8uhdfw5wga8430ji/ZANI-STEFANO-Consegna_260584_20260722_113823-RIF.-GUIDE-E-GRIGLIA-PER-ARMADIO-COLDLINE-Basato-su-Ordini-client.pdf?rlkey=hhkghkfaftjlluzex2al2ke1q&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZANI STEFANO Consegna_260584_20260722_113823 RIF. GUIDE E GRIGLIA PER ARMADIO COLDLINE Basato su Ordini client.pdf"
+            },
+            {
               "nome": "ZM RIPARAZIONI DI ZACCARA MARIO Consegna_260477_20260626_111344 RIF. ASS.STRUM.ELETTRON. XW20LS IFI -RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2608,7 +2672,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 324
+          "_totale_file": 332
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -3150,6 +3214,14 @@
               "link": "https://www.dropbox.com/scl/fi/8lqhbw47ihay1wmlvex18/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Fattura-di-vendita_2600256_20260703_113848-RIF.-HOTELLERIE-E-DETERGENTE-Basato-su-Consegne-260485.-260508..pdf?rlkey=n4dbwzu3nusfr3ma71mrfgof8&dl=0?raw=1",
               "dimensione_kb": 71,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600256_20260703_113848 RIF. HOTELLERIE E DETERGENTE Basato su Consegne 260485. 260508..pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600301_20260722_120626 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260296. Basato.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fq55vk1avvveg8q5kv0gu/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Fattura-di-vendita_2600301_20260722_120626-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260296.-Basato.pdf?rlkey=zh7lrtsgrevhfpvicoif4h8bq&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600301_20260722_120626 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260296. Basato.pdf"
             },
             {
               "nome": "GESTIONI TURISTICHE LA TORRE SRL Fattura di vendita_2600135_20260706_201644 RIF. ASSISTENZA SU FRYTOP RICABLAGGIO PIEZO ELETTRICO ASSISTENZA.pdf",
@@ -4064,12 +4136,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Fattura di vendita_2600206_20260611_174737 RIF. LAVASTOVIGLIE ARISTARCO AF 50.35 ESI PRS MULTIPOWER CON BOIL.pdf"
             },
             {
+              "nome": "SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Fattura di vendita_2600302_20260722_121232 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI B.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hm1xoq8kbf64j08k0oqze/SUSHIEXPERIENCE-di-CISNEROS-BARRIOS-JESUS-ALBERTO-Fattura-di-vendita_2600302_20260722_121232-RIF.-TIMER-120-SEC.-23050Hz-CON-RISCIACQIP-E-SCARICO-REGOLABILI-B.pdf?rlkey=ysn7z5w49eo2v7l6qyu3kcbpt&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Fattura di vendita_2600302_20260722_121232 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI B.pdf"
+            },
+            {
               "nome": "TATA & CO SRL Fattura di vendita_2600194_20260607_184855 RIF. PORTARIFIUTI E MENSOLA A PONTE Basato su Consegne 260051. 26.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/wms5wgxwthg1jw99g6wxa/TATA-CO-SRL-Fattura-di-vendita_2600194_20260607_184855-RIF.-PORTARIFIUTI-E-MENSOLA-A-PONTE-Basato-su-Consegne-260051.-26.pdf?rlkey=0ypwc5xuax0whuugw0lh7itkt&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TATA & CO SRL Fattura di vendita_2600194_20260607_184855 RIF. PORTARIFIUTI E MENSOLA A PONTE Basato su Consegne 260051. 26.pdf"
+            },
+            {
+              "nome": "TAVERNA ROVITA di GAMBARDELLA MARIASTELLA & C. SNC Fattura di vendita_2600300_20260722_120533 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260292. Ba.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/x26xobamu4untqimjickc/TAVERNA-ROVITA-di-GAMBARDELLA-MARIASTELLA-C.-SNC-Fattura-di-vendita_2600300_20260722_120533-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260292.-Ba.pdf?rlkey=c3skwhoajdjbfabiy74nhvy3o&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TAVERNA ROVITA di GAMBARDELLA MARIASTELLA & C. SNC Fattura di vendita_2600300_20260722_120533 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260292. Ba.pdf"
             },
             {
               "nome": "TORREFAZIONE FALCONE A. di FALCONE ROSARIO ANTONIO Fattura di vendita_2600195_20260607_184918 RIF. GRIGLIA SCALDATAZZE 341x425 mm Basato su Consegne 260176..pdf",
@@ -4200,7 +4288,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 198
+          "_totale_file": 201
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -4544,6 +4632,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260269_20260717_133703 RIF. CONTENITORI POLIPROPILENE.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Offerta di vendita_260276_20260722_120441 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gnwungq1f3r39vws159vf/DA-SPECIFICARE-Offerta-di-vendita_260276_20260722_120441-RIF.-TIMER-120-SEC.-23050Hz-CON-RISCIACQIP-E-SCARICO-REGOLABILI.pdf?rlkey=ehfxu1fj8ymhy1ptt72vluf1j&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260276_20260722_120441 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI.pdf"
+            },
+            {
               "nome": "DE FILIPPO ROCCO Offerta di vendita_260194_20260605_111616 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4582,6 +4678,22 @@
               "link": "https://www.dropbox.com/scl/fi/phmh2y2jc4mmqxn2gv3ox/DRINK-SMOKE-DI-CONTE-GIAN-PIERO-Offerta-di-vendita_260267_20260715_160450.pdf?rlkey=wy0kknpipka2zsem6m4wnjmpr&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DRINK & SMOKE DI CONTE GIAN PIERO Offerta di vendita_260267_20260715_160450.pdf"
+            },
+            {
+              "nome": "DRINK & SMOKE DI CONTE GIAN PIERO Offerta di vendita_260280_20260722_172608 RIF. R.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/owpyto8bdt92gyzfhmxbs/DRINK-SMOKE-DI-CONTE-GIAN-PIERO-Offerta-di-vendita_260280_20260722_172608-RIF.-R.pdf?rlkey=crixmw7sjvmanbgg1aj7hir4w&dl=0?raw=1",
+              "dimensione_kb": 79,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DRINK & SMOKE DI CONTE GIAN PIERO Offerta di vendita_260280_20260722_172608 RIF. R.pdf"
+            },
+            {
+              "nome": "DRINK & SMOKE DI CONTE GIAN PIERO Offerta di vendita_260281_20260722_172829.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hlgrpkx5vv3gqj68gqr9e/DRINK-SMOKE-DI-CONTE-GIAN-PIERO-Offerta-di-vendita_260281_20260722_172829.pdf?rlkey=zjds3xzm2ms5l1wl32hr00ats&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DRINK & SMOKE DI CONTE GIAN PIERO Offerta di vendita_260281_20260722_172829.pdf"
             },
             {
               "nome": "EFFE DI SNC di FUCILE CARMELO & DI GIORGIO ROBERTO Offerta di vendita_260262_20260713_195756.pdf",
@@ -4638,6 +4750,22 @@
               "link": "https://www.dropbox.com/scl/fi/pl9r0ybyjjrf6jdqerm93/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Offerta-di-vendita_260211_20260610_151553.pdf?rlkey=sh166lhv228alyyazt48smztr&dl=0?raw=1",
               "dimensione_kb": 74,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260211_20260610_151553.pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260275_20260722_084848.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c1qphghc4609iovnh5pve/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Offerta-di-vendita_260275_20260722_084848.pdf?rlkey=q8klz548kqvdschvdihc3xhc8&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260275_20260722_084848.pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260277_20260722_122050 RIF. PIANI IN POLIETILENE ROSSO BRUNO 57 GIORNI LAVORATIVI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ydykdkepjp6bdxal6b9qs/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Offerta-di-vendita_260277_20260722_122050-RIF.-PIANI-IN-POLIETILENE-ROSSO-BRUNO-57-GIORNI-LAVORATIVI.pdf?rlkey=tihpgf7x7zpnix0ckabbsc99l&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260277_20260722_122050 RIF. PIANI IN POLIETILENE ROSSO BRUNO 57 GIORNI LAVORATIVI.pdf"
             },
             {
               "nome": "GFI Offerta di vendita_260233_20260625_100211.pdf",
@@ -4888,6 +5016,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LIDO VALENTINA Offerta di vendita_260190_20260528_125349.pdf"
             },
             {
+              "nome": "LUCANIA PASTA sas Offerta di vendita_260282_20260722_175306.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/t5j72x0m46301qpsmy9l0/LUCANIA-PASTA-sas-Offerta-di-vendita_260282_20260722_175306.pdf?rlkey=fx1yhhukcosbv8x19jz3m6jmd&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LUCANIA PASTA sas Offerta di vendita_260282_20260722_175306.pdf"
+            },
+            {
               "nome": "LUGLIO Offerta di vendita_260176_20260519_130921 RIF. LAVELLO A GIORNO 2 VASCHE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4902,6 +5038,14 @@
               "link": "https://www.dropbox.com/scl/fi/sgxcb2mo90da9zapqd8ka/LUTIPICO-SRLS-Offerta-di-vendita_260162_20260514_202207.pdf?rlkey=e4r32pbrxsejkt346bnyfoft7&dl=0?raw=1",
               "dimensione_kb": 77,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LUTIPICO SRLS Offerta di vendita_260162_20260514_202207.pdf"
+            },
+            {
+              "nome": "MADI SNC di DISMA CASELLA & C. Offerta di vendita_260278_20260722_160656 RIF. POSATE CONCA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bska3zblt5vyixac4t3wv/MADI-SNC-di-DISMA-CASELLA-C.-Offerta-di-vendita_260278_20260722_160656-RIF.-POSATE-CONCA.pdf?rlkey=fw77fov5d5sot1dxyb82amiff&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MADI SNC di DISMA CASELLA & C. Offerta di vendita_260278_20260722_160656 RIF. POSATE CONCA.pdf"
             },
             {
               "nome": "MAMA MIA LTD Offerta di vendita_260222_20260618_122617.pdf",
@@ -5224,6 +5368,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TRATTORIA TICCIABBACA di MAIORANA FRANCESCA Offerta di vendita_260226_20260622_101601 RIF. CUCINA 4 FUOCHI MODULAR.pdf"
             },
             {
+              "nome": "TRATTORIA TICCIABBACA di MAIORANA FRANCESCA Offerta di vendita_260279_20260722_165318 RIF. TAVOLO A GIORNO IN ACCIAIO INOX AISI 304 CON ALZATINA CON RI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/z3g7vvrg25byyyb0t3w6w/TRATTORIA-TICCIABBACA-di-MAIORANA-FRANCESCA-Offerta-di-vendita_260279_20260722_165318-RIF.-TAVOLO-A-GIORNO-IN-ACCIAIO-INOX-AISI-304-CON-ALZATINA-CON-RI.pdf?rlkey=65qkyjy9g8m7ov6nrq2fa5zge&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/TRATTORIA TICCIABBACA di MAIORANA FRANCESCA Offerta di vendita_260279_20260722_165318 RIF. TAVOLO A GIORNO IN ACCIAIO INOX AISI 304 CON ALZATINA CON RI.pdf"
+            },
+            {
               "nome": "VE.RO SRLS Offerta di vendita_260204_20260607_122202 RIF. LAVASTOVIGLIE ARISTARCO AF50.35 ESI DD.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5272,7 +5424,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 133
+          "_totale_file": 141
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -64235,6 +64387,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LIDO VALENTINA DI LOPEZ ANTONIO Ordine cliente_260175_20260528_181732 RIF. LIDO VALENTINA FRIGGITRICE GAS LOTUS MODELLO F218-78GLT 18+1.pdf"
             },
             {
+              "nome": "LUTIPICO SRLS Ordine cliente_250827_20260722_130250 RIF. SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 25084.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6ed46qlt2xy2v6kxe1mck/LUTIPICO-SRLS-Ordine-cliente_250827_20260722_130250-RIF.-SOLO-PER-CONSEGNA-Basato-su-Offerte-di-vendita-250582.-25084.pdf?rlkey=rs3t7x9sq6yrxo66z1u16ktvh&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LUTIPICO SRLS Ordine cliente_250827_20260722_130250 RIF. SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 25084.pdf"
+            },
+            {
               "nome": "M&M SRL Ordine cliente_260255_20260706_160754 RIF. DOCCIA PRELAVAGGIO E MISCELATORI Basato su Offerte di vendit.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -64265,6 +64425,30 @@
               "link": "https://www.dropbox.com/scl/fi/8zolbeu6ik4pwp8a5s75z/MADI-SNC-di-DISMA-CASELLA-C.-Ordine-cliente_260272_20260715_173134.pdf?rlkey=q9sa9e84pfa239uw7fywyd360&dl=0?raw=1",
               "dimensione_kb": 57,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MADI SNC di DISMA CASELLA & C. Ordine cliente_260272_20260715_173134.pdf"
+            },
+            {
+              "nome": "MADI SNC di DISMA CASELLA & C. Ordine cliente_260300_20260722_164035 RIF. POSATE CONCA Basato su Offerte di vendita 260278..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8tj6z1t9xkaaq299s36zz/MADI-SNC-di-DISMA-CASELLA-C.-Ordine-cliente_260300_20260722_164035-RIF.-POSATE-CONCA-Basato-su-Offerte-di-vendita-260278..pdf?rlkey=bvrkx79hhp0tpgyn3gud1150l&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MADI SNC di DISMA CASELLA & C. Ordine cliente_260300_20260722_164035 RIF. POSATE CONCA Basato su Offerte di vendita 260278..pdf"
+            },
+            {
+              "nome": "MADI SNC di DISMA CASELLA & C. Ordine cliente_260301_20260722_164147 RIF. CARTUCCIA PER FORNO WIESHEU.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9kvfmnx450yst1kowxms5/MADI-SNC-di-DISMA-CASELLA-C.-Ordine-cliente_260301_20260722_164147-RIF.-CARTUCCIA-PER-FORNO-WIESHEU.pdf?rlkey=zspwoo442gz15qxshg9ofjr2b&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MADI SNC di DISMA CASELLA & C. Ordine cliente_260301_20260722_164147 RIF. CARTUCCIA PER FORNO WIESHEU.pdf"
+            },
+            {
+              "nome": "MADI SNC di DISMA CASELLA & C. Ordine cliente_260302_20260722_164320 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ngkyuhd16o12ecye1o9sy/MADI-SNC-di-DISMA-CASELLA-C.-Ordine-cliente_260302_20260722_164320-RIF.-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=58zy1c85ut4ses4qteo97a6dy&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MADI SNC di DISMA CASELLA & C. Ordine cliente_260302_20260722_164320 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
             },
             {
               "nome": "MAGONETTI SNC DI ANDREA GIORGETTI E CHIARA MAGONARA Ordine cliente_260150_20260516_165845 RIF. CONTENITORE ISOTERMICO CON COPERCHIO LT 53.pdf",
@@ -64427,6 +64611,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf"
             },
             {
+              "nome": "Panificio ARENA sas Ordine cliente_260299_20260722_124307 RIF. LAMA SEGAOSSA 1840xh16 mm DIAMANTATA QTA' 3.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zwsmk6dbktjr529v1cya3/Panificio-ARENA-sas-Ordine-cliente_260299_20260722_124307-RIF.-LAMA-SEGAOSSA-1840xh16-mm-DIAMANTATA-QTA-3.pdf?rlkey=fjo7bnbaj22goqzvv7txbju83&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio ARENA sas Ordine cliente_260299_20260722_124307 RIF. LAMA SEGAOSSA 1840xh16 mm DIAMANTATA QTA' 3.pdf"
+            },
+            {
               "nome": "RI. SA. LU srls Ordine cliente_260197_20260609_132712 RIF. DETERGENTE E GUARNIZIONE RATIONAL.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -64537,6 +64729,14 @@
               "link": "https://www.dropbox.com/scl/fi/6po41wmvjws6tdxr03ffg/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Ordine-cliente_260200_20260610_054925-RIF.-ASCIUGA-LUCIDA-POSATE-TAMAI-STAR-EVO-MANUALE-Basato-su-Offer.pdf?rlkey=3df6lshnrcnwbf8c8ydd4inmg&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Ordine cliente_260200_20260610_054925 RIF. ASCIUGA LUCIDA POSATE TAMAI STAR EVO MANUALE Basato su Offer.pdf"
+            },
+            {
+              "nome": "SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Ordine cliente_260298_20260722_121210 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/h6g0w7deho473twe0i1j5/SUSHIEXPERIENCE-di-CISNEROS-BARRIOS-JESUS-ALBERTO-Ordine-cliente_260298_20260722_121210-RIF.-TIMER-120-SEC.-23050Hz-CON-RISCIACQIP-E-SCARICO-REGOLABILI.pdf?rlkey=gpus211zod94u93w8cbrxhhaf&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Ordine cliente_260298_20260722_121210 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI.pdf"
             },
             {
               "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Ordine cliente_260160_20260521_121948 RIF. DETERGENTE.pdf",
@@ -64675,15 +64875,15 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260260_20260708_110543 RIF. COPPIA GUIDE ARMADIO COLDLINE.pdf"
             },
             {
-              "nome": "ZANI STEFANO Ordine cliente_260288_20260720_122509.pdf",
+              "nome": "ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/wdc2gfo0mgy0v94m3ck2d/ZANI-STEFANO-Ordine-cliente_260288_20260720_122509.pdf?rlkey=l3yvgldy17j5zgurr97x3pzyg&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/ykgbf02zwft9p830a5zv8/ZANI-STEFANO-Ordine-cliente_260288_20260722_094837.pdf?rlkey=kynn7f9azxomzz0l9poy2xitm&dl=0?raw=1",
               "dimensione_kb": 65,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260720_122509.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 167
+          "_totale_file": 173
         }
       ],
       "file": []
