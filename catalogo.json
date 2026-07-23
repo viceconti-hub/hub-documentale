@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-23T00:32:00Z",
-  "totale_file": 25821,
+  "generato": "2026-07-23T02:38:35Z",
+  "totale_file": 25826,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -141345,7 +141345,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4445,
+      "totale_file": 4450,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -169079,7 +169079,7 @@
                   "nome": "COMUNICAZIONE CAMBIO NS COORDINATE BANCARIE IL LATTONIERE SRL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/586pv4fdrjjiley5cly9o/COMUNICAZIONE-CAMBIO-NS-COORDINATE-BANCARIE-IL-LATTONIERE-SRL.pdf?rlkey=30rmdv7pi3ddkaxlngmj38d11&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 665,
                   "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/AMMINISTRAZIONE/COMUNICAZIONE CAMBIO NS COORDINATE BANCARIE IL LATTONIERE SRL.pdf"
                 }
@@ -172660,7 +172660,7 @@
               "nome": "COMUNICAZIONE LISTINO PREZZI 2023.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/cviaficddibkb9s9l281z/COMUNICAZIONE-LISTINO-PREZZI-2023.pdf?rlkey=elmpfuubaihqq5awkx79byw78&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 402,
               "path": "/HUB DOCUMENTALE/FORNITORI/LILLY CODROIPO/COMUNICAZIONE LISTINO PREZZI 2023.pdf"
             },
@@ -174035,6 +174035,46 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Manuale utente Qubi_multilingua.pdf"
             },
             {
+              "nome": "Modular Professional SRL_000565_2026-03-31.xml.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/zkce87098annd21ujwd36/Modular-Professional-SRL_000565_2026-03-31.xml.html?rlkey=jo48uy1z5uiuzr2gj2m2q61bo&dl=0?raw=1",
+              "dimensione_kb": 16,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Modular Professional SRL_000565_2026-03-31.xml.html"
+            },
+            {
+              "nome": "Modular Professional SRL_000649_2026-04-27.xml.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/qr5nk7escj30d3segq7uh/Modular-Professional-SRL_000649_2026-04-27.xml.html?rlkey=68emh0s2f00p5h28un2n2jsme&dl=0?raw=1",
+              "dimensione_kb": 15,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Modular Professional SRL_000649_2026-04-27.xml.html"
+            },
+            {
+              "nome": "Modular Professional SRL_000786_2026-04-30.xml.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/sgbn5w8ywplmy47swrb1a/Modular-Professional-SRL_000786_2026-04-30.xml.html?rlkey=koxw57tzdob3jbddd7bh1px13&dl=0?raw=1",
+              "dimensione_kb": 13,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Modular Professional SRL_000786_2026-04-30.xml.html"
+            },
+            {
+              "nome": "Modular Professional SRL_000878_2026-05-29.xml.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/p18vgzhzz5pv9sbandcdi/Modular-Professional-SRL_000878_2026-05-29.xml.html?rlkey=6pab0vqmqwz1v5y86ysvmc05h&dl=0?raw=1",
+              "dimensione_kb": 15,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Modular Professional SRL_000878_2026-05-29.xml.html"
+            },
+            {
+              "nome": "Modular Professional SRL_001090_2026-06-26.xml.html",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/w86xg7dwztz7c5z2b2aki/Modular-Professional-SRL_001090_2026-06-26.xml.html?rlkey=g7ih3pmpt319si1d2ckl1k0lj&dl=0?raw=1",
+              "dimensione_kb": 13,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Modular Professional SRL_001090_2026-06-26.xml.html"
+            },
+            {
               "nome": "NC16140100010_Manuale di installazione forni QUBI_IT-EN-FR-DE-ES (1).pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -174059,7 +174099,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/listino-nevo SCARICATO IL 14_01_2025.pdf"
             }
           ],
-          "_totale_file": 20
+          "_totale_file": 25
         },
         {
           "nome": "MOLTENI",
