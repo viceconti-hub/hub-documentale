@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-24T05:21:37Z",
-  "totale_file": 25891,
+  "generato": "2026-07-24T07:20:54Z",
+  "totale_file": 25900,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -184913,7 +184913,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4898,
+      "totale_file": 4907,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -185425,6 +185425,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEAM INOX SRL Entrata merci da fornitore_260116_20260608_203531 RIF. PASSION SUSHI CAPPA E MOTORE Basato su Ordini cliente 260118.pdf"
             },
             {
+              "nome": "IDEAM INOX SRL Entrata merci da fornitore_260144_20260721_203743 RIF. ILAMA TAVOLI INOX PROF. 40Basato su Ordini cliente 260155. B.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/seydvch31iu9uxdf0wnr9/IDEAM-INOX-SRL-Entrata-merci-da-fornitore_260144_20260721_203743-RIF.-ILAMA-TAVOLI-INOX-PROF.-40Basato-su-Ordini-cliente-260155.-B.pdf?rlkey=46zbmcenlpklqw74jz1uiejow&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IDEAM INOX SRL Entrata merci da fornitore_260144_20260721_203743 RIF. ILAMA TAVOLI INOX PROF. 40Basato su Ordini cliente 260155. B.pdf"
+            },
+            {
               "nome": "IFI Spa Entrata merci da fornitore_260108_20260530_190946 RIF. LA REGINA TERMINAL CETNRALINA PER ESPOSITORE MURALE MARKET F.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -185447,6 +185455,14 @@
               "link": "https://www.dropbox.com/scl/fi/kv6wytdnm8vp2oaeab9i2/KRUPPS-s.r.l.-Entrata-merci-da-fornitore_260111_20260603_170231-RIF.-KIT-DISPLAY-PER-NERA-MAG-Basato-su-Ordini-d-acquisto-25021-DATA-TRASMISSIONE-21_05_26.pdf?rlkey=18gbo5dqz19f9wpbwcgiv3z93&dl=0?raw=1",
               "dimensione_kb": 58,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/KRUPPS s.r.l. Entrata merci da fornitore_260111_20260603_170231 RIF. KIT DISPLAY PER NERA + MAG Basato su Ordini d'acquisto 25021 DATA TRASMISSIONE 21_05_26.pdf"
+            },
+            {
+              "nome": "LA MITO srl KLIMAITALIA Entrata merci da fornitore_260147_20260723_154155 RIF. FRIGO BIBITE STATICA CAGITATORE MOD.ICOOL 401 WHT RIF. S.A.S.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/h04mfvzbas93jr9xb35qr/LA-MITO-srl-KLIMAITALIA-Entrata-merci-da-fornitore_260147_20260723_154155-RIF.-FRIGO-BIBITE-STATICA-CAGITATORE-MOD.ICOOL-401-WHT-RIF.-S.A.S.pdf?rlkey=sx3gaq4i711hd7k1ushougnmw&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/LA MITO srl KLIMAITALIA Entrata merci da fornitore_260147_20260723_154155 RIF. FRIGO BIBITE STATICA CAGITATORE MOD.ICOOL 401 WHT RIF. S.A.S.pdf"
             },
             {
               "nome": "LOTUS spa Entrata merci da fornitore_260117_20260612_081143 RIF. LIDO VALENTINA Basato su Ordini cliente 260175. TITOLO MPS 3.pdf",
@@ -185487,6 +185503,22 @@
               "link": "https://www.dropbox.com/scl/fi/z0541lbmwypzcn99nfpby/MODULAR-PROFESSIONAL-srl-Entrata-merci-da-fornitore_260138_20260708_121326-RIF.-RIASTORANTE-SANTA-LUCIA-GRIGLI-GHISA-PER-GRIGLIA-A-PIETRA-LA.pdf?rlkey=77u51p5hb6x8f8hko1508186r&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260138_20260708_121326 RIF. RIASTORANTE SANTA LUCIA GRIGLI GHISA PER GRIGLIA A PIETRA LA.pdf"
+            },
+            {
+              "nome": "MODULAR PROFESSIONAL srl Entrata merci da fornitore_260145_20260722_184142 RIF. DETERGENTE Basato su Ordini d'acquisto 260162..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/snz7uk7f3bik4xh45ejw7/MODULAR-PROFESSIONAL-srl-Entrata-merci-da-fornitore_260145_20260722_184142-RIF.-DETERGENTE-Basato-su-Ordini-d-acquisto-260162..pdf?rlkey=nqz3gumpydip71nkyaj32ihei&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260145_20260722_184142 RIF. DETERGENTE Basato su Ordini d'acquisto 260162..pdf"
+            },
+            {
+              "nome": "MODULAR PROFESSIONAL srl Entrata merci da fornitore_260146_20260722_184248 RIF. TRATTORIA TICCIABACA CUCINA MATRICOLA SN_052611454 Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pz17dfwayjd46rbtsinr4/MODULAR-PROFESSIONAL-srl-Entrata-merci-da-fornitore_260146_20260722_184248-RIF.-TRATTORIA-TICCIABACA-CUCINA-MATRICOLA-SN_052611454-Basato-su.pdf?rlkey=k7lf73tki9q279lw39g5yboaq&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260146_20260722_184248 RIF. TRATTORIA TICCIABACA CUCINA MATRICOLA SN_052611454 Basato su.pdf"
             },
             {
               "nome": "MORETTI FIMEL DDT DICEMBRE 2025 RIF.FA' TU.JPEG",
@@ -185801,7 +185833,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 110
+          "_totale_file": 114
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -226182,12 +226214,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS.pdf"
             },
             {
-              "nome": "ATREPAN S.R.L. Ordine dacquisto_260174_20260721_130428 RIF. CORRADO MICHELA Basato su Ordini cliente 260297..pdf",
+              "nome": "ATREPAN S.R.L. Ordine dacquisto_260174_20260721_130501 RIF. CORRADO MICHELA Basato su Ordini cliente 260297..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hlr0vsls6q6apknanm8iq/ATREPAN-S.R.L.-Ordine-dacquisto_260174_20260721_130428-RIF.-CORRADO-MICHELA-Basato-su-Ordini-cliente-260297..pdf?rlkey=v6iucnygvgkcah3ytr2xkrjvr&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/o3l78w3cjb7z16fmf7e5r/ATREPAN-S.R.L.-Ordine-dacquisto_260174_20260721_130501-RIF.-CORRADO-MICHELA-Basato-su-Ordini-cliente-260297..pdf?rlkey=y8xkr0a5i4uwz91mokj4qusmd&dl=0?raw=1",
               "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ATREPAN S.R.L. Ordine dacquisto_260174_20260721_130428 RIF. CORRADO MICHELA Basato su Ordini cliente 260297..pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ATREPAN S.R.L. Ordine dacquisto_260174_20260721_130501 RIF. CORRADO MICHELA Basato su Ordini cliente 260297..pdf"
             },
             {
               "nome": "COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf",
@@ -226262,6 +226294,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-6976 RIF.S.A.S. DI LASCIO.pdf"
             },
             {
+              "nome": "LA MITO srl KLIMAITALIA Ordine dacquisto_260175_20260723_154122 RIF. FRIGO BIBITE STATICA CAGITATORE MOD.ICOOL 401 WHT RIF. S.A.S.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/21r4irc7k4floyyombc9s/LA-MITO-srl-KLIMAITALIA-Ordine-dacquisto_260175_20260723_154122-RIF.-FRIGO-BIBITE-STATICA-CAGITATORE-MOD.ICOOL-401-WHT-RIF.-S.A.S.pdf?rlkey=tujpcwz0mfh5e3qg18shjqelj&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/LA MITO srl KLIMAITALIA Ordine dacquisto_260175_20260723_154122 RIF. FRIGO BIBITE STATICA CAGITATORE MOD.ICOOL 401 WHT RIF. S.A.S.pdf"
+            },
+            {
+              "nome": "LA MITO srl KLIMAITALIA Ordine dacquisto_260176_20260723_154604 RIF. RICAMBI PER RICCIARDONE E BOTTEGA 63.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/shk3m8jtcw4858sji8m64/LA-MITO-srl-KLIMAITALIA-Ordine-dacquisto_260176_20260723_154604-RIF.-RICAMBI-PER-RICCIARDONE-E-BOTTEGA-63.pdf?rlkey=0vkxnd6cg0e5w3tgxgc0dprst&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/LA MITO srl KLIMAITALIA Ordine dacquisto_260176_20260723_154604 RIF. RICAMBI PER RICCIARDONE E BOTTEGA 63.pdf"
+            },
+            {
               "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.TICCIABACA .pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -226270,12 +226318,28 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.TICCIABACA .pdf"
             },
             {
+              "nome": "MODULAR CONFERMA ORDINE 26_05945 MD_SaleOrdForm_2022 RIF. GUARNIZIONI QUBI 6.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7e1b0y5ogbyvoczkwbepg/MODULAR-CONFERMA-ORDINE-26_05945-MD_SaleOrdForm_2022-RIF.-GUARNIZIONI-QUBI-6.pdf?rlkey=644a98bxyzkhcw2npzlune62f&dl=0?raw=1",
+              "dimensione_kb": 140,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26_05945 MD_SaleOrdForm_2022 RIF. GUARNIZIONI QUBI 6.pdf"
+            },
+            {
               "nome": "MODULAR CONFERMA ORDINE 26_06023 MD_SaleOrdForm_2022 RIF. DETERGENTE FORNO.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/wbzbhimrp0wx4jiesf3tl/MODULAR-CONFERMA-ORDINE-26_06023-MD_SaleOrdForm_2022-RIF.-DETERGENTE-FORNO.pdf?rlkey=o5mouka7n56jxugm2lke9vgg1&dl=0?raw=1",
               "dimensione_kb": 140,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26_06023 MD_SaleOrdForm_2022 RIF. DETERGENTE FORNO.pdf"
+            },
+            {
+              "nome": "MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.SANTA LUCIA TELAIO E GRIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qkpi7hynlj7cuh5qhcpw2/MODULAR-CONFERMA-ORDINE-MD_SaleOrdForm_2022-RIF.SANTA-LUCIA-TELAIO-E-GRIGLIE.pdf?rlkey=ilkgswaogovh9d54b3h1obh1r&dl=0?raw=1",
+              "dimensione_kb": 142,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.SANTA LUCIA TELAIO E GRIGLIE.pdf"
             },
             {
               "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260162_20260708_122004 RIF. DETERGENTE.pdf",
@@ -226308,6 +226372,14 @@
               "link": "https://www.dropbox.com/scl/fi/5kzhv5nn7p9aq9xcu22p6/REPA-ITALIA-SRL-Ordine-dacquisto_260163_20260708_122552.pdf?rlkey=2erwdz45vv4zfqdb3ylet57yu&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260163_20260708_122552.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260177_20260723_185109 RIF. BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gk42ko03xhv51dmux2qf9/REPA-ITALIA-SRL-Ordine-dacquisto_260177_20260723_185109-RIF.-BRUCIATORE-430x205-mm-PER-GRIGLIA-A-PIETRA-LAVICA-ZANUSSI-RI.pdf?rlkey=osqryz17tv87mah8jbcwb20wt&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260177_20260723_185109 RIF. BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RI.pdf"
             },
             {
               "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
@@ -226390,7 +226462,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
             }
           ],
-          "_totale_file": 3723
+          "_totale_file": 3728
         }
       ],
       "file": [
