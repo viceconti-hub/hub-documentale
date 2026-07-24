@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-24T00:21:18Z",
-  "totale_file": 25856,
+  "generato": "2026-07-24T02:23:17Z",
+  "totale_file": 25859,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -141618,7 +141618,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4450,
+      "totale_file": 4453,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -144240,9 +144240,17 @@
                   "link": "https://www.dropbox.com/scl/fi/kv0jou4g5xeeyw3lhgjp8/ARISTARCO-GUIDA-RAPIDA-5503-0001.pdf?rlkey=v5cyp5ptfoa2li6gvz6xn2r0r&dl=0?raw=1",
                   "dimensione_kb": 428,
                   "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO GUIDA RAPIDA 5503-0001.pdf"
+                },
+                {
+                  "nome": "ARISTARCO MANUALE TECNICO DISPLAY 4035 0005 RIF. AI CARCONI CAPPOTTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wsidpdwha0ts2pgz3h0qb/ARISTARCO-MANUALE-TECNICO-DISPLAY-4035-0005-RIF.-AI-CARCONI-CAPPOTTA.pdf?rlkey=9zji631cc9vsh0rb6tunxgx65&dl=0?raw=1",
+                  "dimensione_kb": 1731,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO MANUALE TECNICO DISPLAY 4035 0005 RIF. AI CARCONI CAPPOTTA.pdf"
                 }
               ],
-              "_totale_file": 77
+              "_totale_file": 78
             },
             {
               "nome": "ARISTARCO DDT",
@@ -144536,7 +144544,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/invio_listino_ricambi2024_ita.pdf"
             }
           ],
-          "_totale_file": 131
+          "_totale_file": 132
         },
         {
           "nome": "ARO",
@@ -145149,6 +145157,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA LISTINO COTTURA 2017.pdf"
             },
             {
+              "nome": "ATA LISTINO COTTURA 2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/z2sj9m5ft8n4cyiq2icus/ATA-LISTINO-COTTURA-2026.pdf?rlkey=p9zq9yhr7hh8z13l45qc7e0mj&dl=0?raw=1",
+              "dimensione_kb": 7505,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA LISTINO COTTURA 2026.pdf"
+            },
+            {
               "nome": "ATA LISTINO LAVAGGIO 2017.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -145261,6 +145277,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ATA/RICAMBI COTTURA_SPARE PARTS COOKING EQUIPMENT 2021.XLS"
             },
             {
+              "nome": "cucine_2025_cooking equipment.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xq5gcc0jrkd9zhjw4gxle/cucine_2025_cooking-equipment.pdf?rlkey=qppndyqg795um996vvkcdtmvp&dl=0?raw=1",
+              "dimensione_kb": 7169,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/cucine_2025_cooking equipment.pdf"
+            },
+            {
               "nome": "k4GcpP05.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -145269,7 +145293,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ATA/k4GcpP05.pdf"
             }
           ],
-          "_totale_file": 25
+          "_totale_file": 27
         },
         {
           "nome": "ATO SINCOLD",
@@ -169352,7 +169376,7 @@
                   "nome": "COMUNICAZIONE CAMBIO NS COORDINATE BANCARIE IL LATTONIERE SRL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/586pv4fdrjjiley5cly9o/COMUNICAZIONE-CAMBIO-NS-COORDINATE-BANCARIE-IL-LATTONIERE-SRL.pdf?rlkey=30rmdv7pi3ddkaxlngmj38d11&dl=0?raw=1",
                   "dimensione_kb": 665,
                   "path": "/HUB DOCUMENTALE/FORNITORI/IDEAM INOX - PUGLIA INOX/AMMINISTRAZIONE/COMUNICAZIONE CAMBIO NS COORDINATE BANCARIE IL LATTONIERE SRL.pdf"
                 }
@@ -172933,7 +172957,7 @@
               "nome": "COMUNICAZIONE LISTINO PREZZI 2023.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/cviaficddibkb9s9l281z/COMUNICAZIONE-LISTINO-PREZZI-2023.pdf?rlkey=elmpfuubaihqq5awkx79byw78&dl=0?raw=1",
               "dimensione_kb": 402,
               "path": "/HUB DOCUMENTALE/FORNITORI/LILLY CODROIPO/COMUNICAZIONE LISTINO PREZZI 2023.pdf"
             },
