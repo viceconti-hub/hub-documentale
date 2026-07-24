@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-24T07:20:54Z",
-  "totale_file": 25900,
+  "generato": "2026-07-24T08:24:16Z",
+  "totale_file": 25901,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -226480,7 +226480,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2402,
+      "totale_file": 2403,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -247809,6 +247809,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR Dettaglio bonifico istantaneo DEL 20_04_2026.pdf"
             },
             {
+              "nome": "MODULAR Dettaglio bonifico istantaneo DEL 22_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/v5hrq1wrkh7rln9t1hpiz/MODULAR-Dettaglio-bonifico-istantaneo-DEL-22_07_2026.pdf?rlkey=n5r3q4e3i5twc4duzg7v0ocf2&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR Dettaglio bonifico istantaneo DEL 22_07_2026.pdf"
+            },
+            {
               "nome": "MODULAR Dettaglio bonifico istantaneo DEL 30_01_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -248041,7 +248049,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2382
+          "_totale_file": 2383
         }
       ],
       "file": []
