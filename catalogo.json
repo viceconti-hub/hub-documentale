@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-23T15:14:32Z",
-  "totale_file": 25851,
+  "generato": "2026-07-24T00:21:18Z",
+  "totale_file": 25856,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -69486,7 +69486,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7224,
+      "totale_file": 7229,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -70129,7 +70129,7 @@
                   "nome": "Consegna_230648_20230630_092645.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/sna70cmkpbzg9z2wld8an/Consegna_230648_20230630_092645.pdf?rlkey=om0me00tyzcdlhew0nff8ymac&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 62,
                   "path": "/HUB DOCUMENTALE/CLIENTI/BUONVICINO/IL MULINO/Consegna_230648_20230630_092645.pdf"
                 },
@@ -79593,6 +79593,30 @@
                       "_totale_file": 1
                     },
                     {
+                      "nome": "LAVASTOVIGLIE A CAPPOTTA ARISTARCO",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ARISTARCO",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "ARISTARCO MANUALE TECNICO DISPLAY 4035 0005 RIF. AI CARCONI CAPPOTTA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/lgrye597rjgec8m39466t/ARISTARCO-MANUALE-TECNICO-DISPLAY-4035-0005-RIF.-AI-CARCONI-CAPPOTTA.pdf?rlkey=v0t2se8vnx2plxrvdceqyjig1&dl=0?raw=1",
+                          "dimensione_kb": 1731,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ARISTARCO/ARISTARCO MANUALE TECNICO DISPLAY 4035 0005 RIF. AI CARCONI CAPPOTTA.pdf"
+                        },
+                        {
+                          "nome": "DDV_2529592_2026_1_6266_20072026.PDF",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/4byn0ou1qjbs7cpy3z5gn/DDV_2529592_2026_1_6266_20072026.PDF?rlkey=pp1x0je1yv67jycgswzd9gi5p&dl=0?raw=1",
+                          "dimensione_kb": 10,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ARISTARCO/DDV_2529592_2026_1_6266_20072026.PDF"
+                        }
+                      ],
+                      "_totale_file": 2
+                    },
+                    {
                       "nome": "LAVASTOVILGIE A CAPPOTTA COLGED",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/LAVASTOVILGIE A CAPPOTTA COLGED",
                       "cartelle": [],
@@ -79642,7 +79666,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 12
+                  "_totale_file": 14
                 },
                 {
                   "nome": "ARCHIVIO",
@@ -79734,7 +79758,7 @@
                 }
               ],
               "file": [],
-              "_totale_file": 22
+              "_totale_file": 24
             },
             {
               "nome": "AVVOCATO RICCIARDONE",
@@ -81593,7 +81617,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 210
+          "_totale_file": 212
         },
         {
           "nome": "LAINO",
@@ -84601,10 +84625,26 @@
                         }
                       ],
                       "_totale_file": 5
+                    },
+                    {
+                      "nome": "Nuova cartella",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/Nuova cartella",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "Berto's_GAS_FRYERS_32876500 UGELLI .pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/2yxgrod7fznhh9aeglpve/Berto-s_GAS_FRYERS_32876500-UGELLI.pdf?rlkey=49l2o9wqxxgk0adc49wesvdfj&dl=0?raw=1",
+                          "dimensione_kb": 32,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/Nuova cartella/Berto's_GAS_FRYERS_32876500 UGELLI .pdf"
+                        }
+                      ],
+                      "_totale_file": 1
                     }
                   ],
                   "file": [],
-                  "_totale_file": 5
+                  "_totale_file": 6
                 }
               ],
               "file": [
@@ -84665,7 +84705,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/temp786825811179481098.pdf"
                 }
               ],
-              "_totale_file": 12
+              "_totale_file": 13
             },
             {
               "nome": "AGRICOLA DAI NONNI",
@@ -90221,7 +90261,7 @@
                       "nome": "HAPPY MOMENTS OFFERTA GRIGLIA A PIETRA LAVICA.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/l6gdxuxeuhf4e5tg11oay/HAPPY-MOMENTS-OFFERTA-GRIGLIA-A-PIETRA-LAVICA.pdf?rlkey=c2lc24ol4qc5t97ddfct6x5s7&dl=0?raw=1",
                       "dimensione_kb": 69,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS VOLANO + GRIGLIA/HAPPY MOMENTS OFFERTA GRIGLIA A PIETRA LAVICA.pdf"
                     },
@@ -90370,7 +90410,7 @@
                   "nome": "Movimenti effettuati per CLIENTE 10_10_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/xf0uf31jc3l6phi45qu55/Movimenti-effettuati-per-CLIENTE-10_10_2025.pdf?rlkey=uuaoygg27n3swnw4d0xnri1ko&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 258,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/Movimenti effettuati per CLIENTE 10_10_2025.pdf"
                 },
@@ -93502,6 +93542,22 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA",
                   "cartelle": [
                     {
+                      "nome": "FRIGGITRICE A GAS BERTO'S S9GL20M MATRICOLA 0803692082",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/FRIGGITRICE A GAS BERTO'S S9GL20M MATRICOLA 0803692082",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "Berto's_GAS_FRYERS_32876500.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/daywqq7ib41b3m7cwezxs/Berto-s_GAS_FRYERS_32876500.pdf?rlkey=61dz80zuj7x1h6k1s6076l0rs&dl=0?raw=1",
+                          "dimensione_kb": 12358,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/FRIGGITRICE A GAS BERTO'S S9GL20M MATRICOLA 0803692082/Berto's_GAS_FRYERS_32876500.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "MACCHINA SOTTOVUOTO A CAMPANA KAREL",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/MACCHINA SOTTOVUOTO A CAMPANA KAREL",
                       "cartelle": [],
@@ -93568,7 +93624,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/_MAN_1500362_VACUUM_2009-2010_ORVED_R02 (1).PDF"
                     }
                   ],
-                  "_totale_file": 6
+                  "_totale_file": 7
                 },
                 {
                   "nome": "SCHEDE TECNICHE",
@@ -93765,7 +93821,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/WhatsApp Image 2022-03-28 at 12.17.42.jpeg"
                 }
               ],
-              "_totale_file": 35
+              "_totale_file": 36
             },
             {
               "nome": "PIZZERIA DA LEO",
@@ -94813,7 +94869,24 @@
                 {
                   "nome": "TIME OUT AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA",
-                  "cartelle": [],
+                  "cartelle": [
+                    {
+                      "nome": "LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO MULINELLO Catalogue_20267232614.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/bnj1yni093j2xjlphgr5j/LAVASTOVIGLIE-A-CAPPOTTA-COMENDA-LC-700M-ESPLOSO-MULINELLO-Catalogue_20267232614.pdf?rlkey=95x35837i116tmtsf9gwghq9k&dl=0?raw=1",
+                          "dimensione_kb": 215,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO MULINELLO Catalogue_20267232614.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    }
+                  ],
                   "file": [
                     {
                       "nome": "Entrata merci da fornitore_230520_20240311_123951.pdf",
@@ -94824,7 +94897,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA/Entrata merci da fornitore_230520_20240311_123951.pdf"
                     }
                   ],
-                  "_totale_file": 1
+                  "_totale_file": 2
                 }
               ],
               "file": [
@@ -94877,7 +94950,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/WhatsApp Image 2024-06-10 at 13.57.52.jpeg"
                 }
               ],
-              "_totale_file": 7
+              "_totale_file": 8
             },
             {
               "nome": "UBI",
@@ -98040,7 +98113,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1299
+          "_totale_file": 1302
         },
         {
           "nome": "LAVELLO",
@@ -104344,7 +104417,7 @@
                       "nome": "WhatsApp Image 2025-01-23 at 17.29.55.jpeg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/pqz1mkr39om6fpofgdcvy/WhatsApp-Image-2025-01-23-at-17.29.55.jpeg?rlkey=rn4dyi3p46xuzxyar1tdu6bgq&dl=0?raw=1",
                       "dimensione_kb": 251,
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/LIMONGI TURISMO S.r.l.s/LIMONGI TURISMO CANTIERE GENNAIO 2025/WhatsApp Image 2025-01-23 at 17.29.55.jpeg"
                     },
@@ -125177,7 +125250,7 @@
                       "nome": "inox plus_alt_3d.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/hujkda1fw1eiwt0293h68/inox-plus_alt_3d.pdf?rlkey=1x0kzbhlx71c4cygv8nme1zj1&dl=0?raw=1",
                       "dimensione_kb": 349,
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/OFFERTA SCAFFALATURA INOX/inox plus_alt_3d.pdf"
                     },
@@ -130756,7 +130829,7 @@
                   "nome": "ANTICA TRATTORIA FATTURA DI ANTICIPO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/c62nm1exyd7ps56f0eprr/ANTICA-TRATTORIA-FATTURA-DI-ANTICIPO.pdf?rlkey=opj0u45dff6o2xqp346d25r79&dl=0?raw=1",
                   "dimensione_kb": 65,
                   "path": "/HUB DOCUMENTALE/CLIENTI/SCALEA/ANTICA TRATTORIA A' TAVERNA/ANTICA TRATTORIA FATTURA DI ANTICIPO.pdf"
                 },
@@ -130764,7 +130837,7 @@
                   "nome": "Fattura di vendita_210360_20210728_182455.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/c2pg7rkvk96rdzpqedr4d/Fattura-di-vendita_210360_20210728_182455.pdf?rlkey=fc5cy1dx49xdum8appu9vlqno&dl=0?raw=1",
                   "dimensione_kb": 65,
                   "path": "/HUB DOCUMENTALE/CLIENTI/SCALEA/ANTICA TRATTORIA A' TAVERNA/Fattura di vendita_210360_20210728_182455.pdf"
                 },
