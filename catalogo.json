@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-24T02:23:17Z",
-  "totale_file": 25859,
+  "generato": "2026-07-24T05:21:37Z",
+  "totale_file": 25891,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6330,
+      "totale_file": 6362,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -312,6 +312,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260423_20260617_101804 RIF. DETERGENTE Basato su Ordini cliente 260216..pdf"
             },
             {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260593_20260723_181043 RIF. ASSISTENZA SU LAVASTOVIGLIE ATA MOD. AL 500 Basato su Offert.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/j94oz9ckkbj4jxehcqdji/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Consegna_260593_20260723_181043-RIF.-ASSISTENZA-SU-LAVASTOVIGLIE-ATA-MOD.-AL-500-Basato-su-Offert.pdf?rlkey=2mvlytapnri5a0yarlvw11zb8&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260593_20260723_181043 RIF. ASSISTENZA SU LAVASTOVIGLIE ATA MOD. AL 500 Basato su Offert.pdf"
+            },
+            {
               "nome": "BARLASCINI FLAVIO Consegna_260562_20260715_100937 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -342,6 +350,14 @@
               "link": "https://www.dropbox.com/scl/fi/lusz59v3gm0g37rtqqiaw/BOTTEGA-63-SRLS-Consegna_260535_20260705_201610-RIF.-PRODUTTORE-DI-GHIACCIO-ARISTARCO-CP-25.6-W-IN-COMODATO.pdf?rlkey=i5b5jqbvzchnejm0eibqcv3xh&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BOTTEGA 63 SRLS Consegna_260535_20260705_201610 RIF. PRODUTTORE DI GHIACCIO ARISTARCO CP 25.6 W IN COMODATO.pdf"
+            },
+            {
+              "nome": "BOTTEGA 63 SRLS Consegna_260592_20260723_154720 RIF. RICAMBI PER GRANITORE KLIMAITALIA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6vpd0f7ki500rbb4felrp/BOTTEGA-63-SRLS-Consegna_260592_20260723_154720-RIF.-RICAMBI-PER-GRANITORE-KLIMAITALIA.pdf?rlkey=qq6wg4x4vyqe1egly7mxdv8xn&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BOTTEGA 63 SRLS Consegna_260592_20260723_154720 RIF. RICAMBI PER GRANITORE KLIMAITALIA.pdf"
             },
             {
               "nome": "Billy Bar di SCALDAFERRI PIETRO Consegna_260325_20260531_102233 RIF. ASSISTENZA SU FAEMA EMBLEMA A2 MANUTENZIONE ORDINARIA GRUPPI.pdf",
@@ -768,6 +784,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DIPA di PACCHIANO LUCA & C. sas Consegna_260537_20260705_211422 RIF. ASSISTENZA SU GRIGLIA A PIETRA LAVICA SOSTITUZIONE PIEZO ACC.pdf"
             },
             {
+              "nome": "DIPA di PACCHIANO LUCA & C. sas Consegna_260594_20260723_185331 RIF. ASSISTENZA SU GRIGLIA A PIETRA LAVICA ZANUSSI SOSTITUZIONE B.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bw0ijouat0j2jgh3ii9qm/DIPA-di-PACCHIANO-LUCA-C.-sas-Consegna_260594_20260723_185331-RIF.-ASSISTENZA-SU-GRIGLIA-A-PIETRA-LAVICA-ZANUSSI-SOSTITUZIONE-B.pdf?rlkey=l1z2bo590yywqctk687bvw0ie&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DIPA di PACCHIANO LUCA & C. sas Consegna_260594_20260723_185331 RIF. ASSISTENZA SU GRIGLIA A PIETRA LAVICA ZANUSSI SOSTITUZIONE B.pdf"
+            },
+            {
+              "nome": "DIPA di PACCHIANO LUCA & C. sas Consegna_260595_20260723_185435 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/k9s6wqfyu2w3az3dvsgn0/DIPA-di-PACCHIANO-LUCA-C.-sas-Consegna_260595_20260723_185435-RIF.-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=mvzkqnicajgdd09caleyldftg&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DIPA di PACCHIANO LUCA & C. sas Consegna_260595_20260723_185435 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
+            },
+            {
               "nome": "DITTA CANTISANI MARIA Consegna_260279_20260520_112443 RIF. TRAP A ROACH HOY HOY - DISINFESTANTE TRAPPY.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1054,6 +1086,14 @@
               "link": "https://www.dropbox.com/scl/fi/94r58sgmgk3dwu8l2hu3c/GMT-srl-unipersonale-Consegna_260538_20260705_211615-RIF.-ASSISTENZA-SU-PRODUTTORE-DI-GHIACCIO-SOSTITUZIONE-INTERRUTTO.pdf?rlkey=clgbd1suiwmf5qad15q8p5q63&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GMT srl unipersonale Consegna_260538_20260705_211615 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE INTERRUTTO.pdf"
+            },
+            {
+              "nome": "GRAN SOLE S.r.l. Consegna_241589_20260722_193144 RIF. ATTREZZATURE REPARTI Basato su Offerte di vendita 240802. Ba.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/k1og9ffm9s2tonvspaxck/GRAN-SOLE-S.r.l.-Consegna_241589_20260722_193144-RIF.-ATTREZZATURE-REPARTI-Basato-su-Offerte-di-vendita-240802.-Ba.pdf?rlkey=xbhyo7flnaynytf2o7ek3urv0&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_241589_20260722_193144 RIF. ATTREZZATURE REPARTI Basato su Offerte di vendita 240802. Ba.pdf"
             },
             {
               "nome": "GRAN SOLE S.r.l. Consegna_260264_20260510_123412.pdf",
@@ -1784,6 +1824,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/M&M SRL Consegna_260556_20260711_064106 RIF. DOCCIA PRELAVAGGIO E MISCELATORI Basato su Offerte di vendit.pdf"
             },
             {
+              "nome": "MACELLERIA COSENTINO DOMENICO Consegna_260591_20260723_134801 RIF. PIASTRA E COLTELLO TRITACARNE 32 E SEGA INOX Basato su Ordin.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wdnal9b4wr4vl0fnbf15q/MACELLERIA-COSENTINO-DOMENICO-Consegna_260591_20260723_134801-RIF.-PIASTRA-E-COLTELLO-TRITACARNE-32-E-SEGA-INOX-Basato-su-Ordin.pdf?rlkey=3wkkbo1d242gizjhzm7doo0nz&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MACELLERIA COSENTINO DOMENICO Consegna_260591_20260723_134801 RIF. PIASTRA E COLTELLO TRITACARNE 32 E SEGA INOX Basato su Ordin.pdf"
+            },
+            {
               "nome": "MACELLERIA LOSARDO GIOVANNINO Consegna_260364_20260603_092738 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2304,6 +2352,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Consegna_260565_20260716_094810 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260276..pdf"
             },
             {
+              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Consegna_260596_20260723_193353 RIF. ASSISTENZA SU RATIONAL iCOMBI PRO SOSTITUZIONE COPERCHIO DI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4otpb0qwzb0iihehceomb/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Consegna_260596_20260723_193353-RIF.-ASSISTENZA-SU-RATIONAL-iCOMBI-PRO-SOSTITUZIONE-COPERCHIO-DI.pdf?rlkey=0nuivlx2qrvbgx6d2v4hi4e0e&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Consegna_260596_20260723_193353 RIF. ASSISTENZA SU RATIONAL iCOMBI PRO SOSTITUZIONE COPERCHIO DI.pdf"
+            },
+            {
               "nome": "SANTOS SRL Consegna_260496_20260630_140012 RIF. BACK BAR Basato su Offerte di vendita 260139. Basato su Ordi.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2478,6 +2534,14 @@
               "link": "https://www.dropbox.com/scl/fi/iuld8pi83q8xyk54acbv3/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Consegna_260504_20260702_174214-RIF.-ASCIUGA-LUCIDA-POSATE-TAMAI-STAR-EVO-MANUALE-MATRICOLA-3032.pdf?rlkey=zx192t982vzabbi0wr5wlmevl&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Consegna_260504_20260702_174214 RIF. ASCIUGA LUCIDA POSATE TAMAI STAR EVO MANUALE MATRICOLA 3032.pdf"
+            },
+            {
+              "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Consegna_260590_20260723_094005 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tdta6f8tat6gj7fl0f5oh/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Consegna_260590_20260723_094005-RIF.-LAVASTOVIGLIA-A-CAPPOTTA-ARISTARCO-AH-800-ESI-PRS-DD-V4003N.pdf?rlkey=espw7wkdd4pc3e84217uiomd5&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Consegna_260590_20260723_094005 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf"
             },
             {
               "nome": "SUPERMERCATO A POTEGA I FIFINA di PALETTA GIOACCHINO Consegna_260383_20260607_163026 RIF. ASSISTENZA SU AFFETTATICE OMAS Sostituzione lama Sostituzion.pdf",
@@ -2672,7 +2736,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 332
+          "_totale_file": 340
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -2774,6 +2838,14 @@
               "link": "https://www.dropbox.com/scl/fi/qys86t9dm59dzpc19eslj/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600278_20260708_094302-RIF.-DETERGENTE.pdf?rlkey=phie2nycbpic9k5vx01xortax&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600278_20260708_094302 RIF. DETERGENTE.pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600308_20260723_181105 RIF. ASSISTENZA SU LAVASTOVIGLIE ATA MOD. AL 500 Basato su Offert.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hlj9dzmk0ajjzkve40j5s/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600308_20260723_181105-RIF.-ASSISTENZA-SU-LAVASTOVIGLIE-ATA-MOD.-AL-500-Basato-su-Offert.pdf?rlkey=h31h8zhwzjo2i4k74yx680evy&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600308_20260723_181105 RIF. ASSISTENZA SU LAVASTOVIGLIE ATA MOD. AL 500 Basato su Offert.pdf"
             },
             {
               "nome": "BHOTEL SRL Fattura di vendita_2600210_20260612_142252 RIF. BICCHIERE COOLER CORTINA Basato su Offerte di vendita 260184.pdf",
@@ -3016,6 +3088,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/DIMAC SRL Fattura di vendita_2600231_20260625_133453 RIF. DETERGENTE BLU RATIONAL Basato su Ordini cliente 260209. Bas.pdf"
             },
             {
+              "nome": "DIPA di PACCHIANO LUCA & C. sas Fattura di vendita_2600309_20260723_185946 RIF. ASSISTENZA SU GRIGLIA A PIETRA LAVICA SOSTITUZIONE PIEZO ACC.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vau68gqjq09fw1y0lg1uv/DIPA-di-PACCHIANO-LUCA-C.-sas-Fattura-di-vendita_2600309_20260723_185946-RIF.-ASSISTENZA-SU-GRIGLIA-A-PIETRA-LAVICA-SOSTITUZIONE-PIEZO-ACC.pdf?rlkey=er2mv1lrsc4ukgpko8qjmei3f&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/DIPA di PACCHIANO LUCA & C. sas Fattura di vendita_2600309_20260723_185946 RIF. ASSISTENZA SU GRIGLIA A PIETRA LAVICA SOSTITUZIONE PIEZO ACC.pdf"
+            },
+            {
+              "nome": "DIPA di PACCHIANO LUCA & C. sas Fattura di vendita_2600310_20260723_185936 RIF. INTERRUTTORE DI CONSENSA RATIONAL E DETERGENTE LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/alut2fyx9xwmsd1m2pac9/DIPA-di-PACCHIANO-LUCA-C.-sas-Fattura-di-vendita_2600310_20260723_185936-RIF.-INTERRUTTORE-DI-CONSENSA-RATIONAL-E-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=b6ro2mqpiounlhix1a430lp8z&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/DIPA di PACCHIANO LUCA & C. sas Fattura di vendita_2600310_20260723_185936 RIF. INTERRUTTORE DI CONSENSA RATIONAL E DETERGENTE LAVASTOVIGLIE.pdf"
+            },
+            {
               "nome": "DITTA CANTISANI MARIA Fattura di vendita_2600133_20260603_204022 RIF. COPPIA MACINE MAZZER MONOFASE DX Basato su Consegne 260284..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3230,6 +3318,14 @@
               "link": "https://www.dropbox.com/scl/fi/d03kubse01ai9c4decofc/GESTIONI-TURISTICHE-LA-TORRE-SRL-Fattura-di-vendita_2600135_20260706_201644-RIF.-ASSISTENZA-SU-FRYTOP-RICABLAGGIO-PIEZO-ELETTRICO-ASSISTENZA.pdf?rlkey=81kybfgutgq428faygjzcwwud&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GESTIONI TURISTICHE LA TORRE SRL Fattura di vendita_2600135_20260706_201644 RIF. ASSISTENZA SU FRYTOP RICABLAGGIO PIEZO ELETTRICO ASSISTENZA.pdf"
+            },
+            {
+              "nome": "GRAN SOLE S.r.l. Fattura di vendita_2400782_20260722_193158 RIF. BENI AGEVOLABILI AI SENSI DELL ART.16 DEL DL N.124 DEL 19.09.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b3o85pzag8l8l7cty2ski/GRAN-SOLE-S.r.l.-Fattura-di-vendita_2400782_20260722_193158-RIF.-BENI-AGEVOLABILI-AI-SENSI-DELL-ART.16-DEL-DL-N.124-DEL-19.09.pdf?rlkey=zjdpip7cvcmp7xnvgna5rxnfz&dl=0?raw=1",
+              "dimensione_kb": 107,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GRAN SOLE S.r.l. Fattura di vendita_2400782_20260722_193158 RIF. BENI AGEVOLABILI AI SENSI DELL ART.16 DEL DL N.124 DEL 19.09.pdf"
             },
             {
               "nome": "GRAN SOLE S.r.l. Fattura di vendita_2600136_20260603_210516 RIF. ASSISTENZA SU Grattugia Fimar modello GR12S23050M, matricola.pdf",
@@ -3528,6 +3624,30 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL MAMMOLO DI MOIRA NESTI e C. SNC Fattura di vendita_2600281_20260712_161703 RIF. GUARNIZIONE PORTA SCC, CM 61 QTA' 2 PAGAMENTO EFFFETTUATO TR.pdf"
             },
             {
+              "nome": "IL MULINO SAS di MARIO BARBIERO Fattura di vendita_2500640_20260723_172432 RIF. DETERGENTE Basato su Consegne 250999. 251045..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hc463p0p94olyuoozczw9/IL-MULINO-SAS-di-MARIO-BARBIERO-Fattura-di-vendita_2500640_20260723_172432-RIF.-DETERGENTE-Basato-su-Consegne-250999.-251045..pdf?rlkey=eybn0atlwphrvfesy51wfi8yk&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL MULINO SAS di MARIO BARBIERO Fattura di vendita_2500640_20260723_172432 RIF. DETERGENTE Basato su Consegne 250999. 251045..pdf"
+            },
+            {
+              "nome": "IL MULINO SAS di MARIO BARBIERO Fattura di vendita_2600306_20260723_173035 RIF. ASSISTENZA SU CUOCIPASTA ANGELO PO ASSISTENZA SU FORNO FRAMA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5ww3q8ct9jpdjcbq9nyxi/IL-MULINO-SAS-di-MARIO-BARBIERO-Fattura-di-vendita_2600306_20260723_173035-RIF.-ASSISTENZA-SU-CUOCIPASTA-ANGELO-PO-ASSISTENZA-SU-FORNO-FRAMA.pdf?rlkey=fyxwym2ybw4n9x14e7n5hnlxr&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL MULINO SAS di MARIO BARBIERO Fattura di vendita_2600306_20260723_173035 RIF. ASSISTENZA SU CUOCIPASTA ANGELO PO ASSISTENZA SU FORNO FRAMA.pdf"
+            },
+            {
+              "nome": "IL MULINO SAS di MARIO BARBIERO Fattura di vendita_2600307_20260723_172458 RIF. DETERGENTE LAVASTOVIGLIE 4 DET 12 + 3 BRILL 5 Basato su Ordi.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/kzjx2ku1dvihswnor16jh/IL-MULINO-SAS-di-MARIO-BARBIERO-Fattura-di-vendita_2600307_20260723_172458-RIF.-DETERGENTE-LAVASTOVIGLIE-4-DET-12-3-BRILL-5-Basato-su-Ordi.pdf?rlkey=ikzcm57j8vl8mgudne45cw8p8&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL MULINO SAS di MARIO BARBIERO Fattura di vendita_2600307_20260723_172458 RIF. DETERGENTE LAVASTOVIGLIE 4 DET 12 + 3 BRILL 5 Basato su Ordi.pdf"
+            },
+            {
               "nome": "ILLY CAFFE' SPA Fattura di vendita_2600163_20260604_172034 RIF. ASSISTENZA SU MACCHINE DA CAFFE' Basato su Consegne 251253..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3712,6 +3832,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LIDO LA FONTE di PETRONE OTTORINO Fattura di vendita_2500354_20260607_220458 RIF. Basato su Ordini cliente 250463. Basato su Consegne 250627..pdf"
             },
             {
+              "nome": "LIDO SAN FRANCESCO di ESANOFOLE ANGELO Fattura di vendita_2600313_20260723_193811 RIF. OFFERTA SPECIALE VETRINA VETRINA REFRIGERATA PER INGREDIENTI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wncm669fwupflh828mqni/LIDO-SAN-FRANCESCO-di-ESANOFOLE-ANGELO-Fattura-di-vendita_2600313_20260723_193811-RIF.-OFFERTA-SPECIALE-VETRINA-VETRINA-REFRIGERATA-PER-INGREDIENTI.pdf?rlkey=dcvsf64zpms8m3splx3i7q2oh&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LIDO SAN FRANCESCO di ESANOFOLE ANGELO Fattura di vendita_2600313_20260723_193811 RIF. OFFERTA SPECIALE VETRINA VETRINA REFRIGERATA PER INGREDIENTI.pdf"
+            },
+            {
               "nome": "LIDO VALENTINA DI LOPEZ ANTONIO Fattura di vendita_2600207_20260612_081700 RIF. LIDO VALENTINA FRIGGITRICE GAS LOTUS MODELLO F218-78GLT 18+1.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3744,12 +3872,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/MACELLERIA CARNI DEL GOLFO S.R.L.S Fattura di vendita_2600181_20260607_183141 RIF. Basato su Ordini cliente 260009. PAGATO Basato su Consegne 2.pdf"
             },
             {
+              "nome": "MACELLERIA COSENTINO DOMENICO Fattura di vendita_2600304_20260723_135706 RIF. PIASTRA E COLTELLO TRITACARNE 32 E SEGA INOX Basato su Ordin.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lwfxwtusiky343b5vhcoq/MACELLERIA-COSENTINO-DOMENICO-Fattura-di-vendita_2600304_20260723_135706-RIF.-PIASTRA-E-COLTELLO-TRITACARNE-32-E-SEGA-INOX-Basato-su-Ordin.pdf?rlkey=e9hnhx348z638096ubccixkkp&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/MACELLERIA COSENTINO DOMENICO Fattura di vendita_2600304_20260723_135706 RIF. PIASTRA E COLTELLO TRITACARNE 32 E SEGA INOX Basato su Ordin.pdf"
+            },
+            {
               "nome": "MACHRì SRL Fattura di vendita_2600182_20260607_183329 RIF. DETERGENTE E GUARNIZIONE RATIONAL Basato su Ordini cliente 2.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/gs1w857q7dkjfg732mkaz/MACHR-SRL-Fattura-di-vendita_2600182_20260607_183329-RIF.-DETERGENTE-E-GUARNIZIONE-RATIONAL-Basato-su-Ordini-cliente-2.pdf?rlkey=vap0vj4g1rso0shdlzh8j2pwz&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/MACHRì SRL Fattura di vendita_2600182_20260607_183329 RIF. DETERGENTE E GUARNIZIONE RATIONAL Basato su Ordini cliente 2.pdf"
+            },
+            {
+              "nome": "MADI SNC di DISMA CASELLA & C. Fattura di vendita_2600305_20260723_154850 RIF. HOTELLERIE ACCESSORI E DETERGENTE Basato su Consegne 260563..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/32bwtuujwlxk29jx9f1wr/MADI-SNC-di-DISMA-CASELLA-C.-Fattura-di-vendita_2600305_20260723_154850-RIF.-HOTELLERIE-ACCESSORI-E-DETERGENTE-Basato-su-Consegne-260563..pdf?rlkey=dapwg0cparadwfsa3ihh05pko&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/MADI SNC di DISMA CASELLA & C. Fattura di vendita_2600305_20260723_154850 RIF. HOTELLERIE ACCESSORI E DETERGENTE Basato su Consegne 260563..pdf"
             },
             {
               "nome": "MAGONETTI SNC DI ANDREA GIORGETTI E CHIARA MAGONARA Fattura di vendita_2600209_20260612_142317 RIF. CONTENITORI ISOTERMICI Basato su Ordini cliente 260150. Basa CONTENITORE ISOTERMICO CON COPERCHI.pdf",
@@ -3822,6 +3966,14 @@
               "link": "https://www.dropbox.com/scl/fi/3w1bs0nubokb09rm5ocgt/NERA-SRL-Fattura-di-vendita_2600267_20260705_205949-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260186.-Ba.pdf?rlkey=8ze22cyxuf31s7mimr4xqgdqr&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600267_20260705_205949 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260186. Ba.pdf"
+            },
+            {
+              "nome": "NERA SRL Fattura di vendita_2600314_20260723_194212 RIF. DETERGENTE LAVASTOVIGLIE Basato su Consegne 260572. 260574..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bzhc9rp1fmitwsct6l0xv/NERA-SRL-Fattura-di-vendita_2600314_20260723_194212-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Consegne-260572.-260574..pdf?rlkey=s3mj8fad7tkf5n9u2mmjfkaoy&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600314_20260723_194212 RIF. DETERGENTE LAVASTOVIGLIE Basato su Consegne 260572. 260574..pdf"
             },
             {
               "nome": "NOCERA STREET FOOD DI GIANNI NOCERA Fattura di vendita_2600187_20260607_183946 RIF. CESTELLI PER FRIGGITRICE LOTUS F18-74G MATRICOLA 23120290 Ba.pdf",
@@ -3960,6 +4112,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PIZZERIA DA ANGELO DI IACUZIO ANGELO Fattura di vendita_2600191_20260607_184149 RIF. PALETTINO PIZZA Basato su Consegne 260305..pdf"
             },
             {
+              "nome": "PIZZERIA FORESTIERI ERSILIO Fattura di vendita_2300254_20260722_175629 RIF. LAMPADE HENDI RAME Basato su Ordini cliente 230305. Basato s.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bggl7aj0rkga05g21ait6/PIZZERIA-FORESTIERI-ERSILIO-Fattura-di-vendita_2300254_20260722_175629-RIF.-LAMPADE-HENDI-RAME-Basato-su-Ordini-cliente-230305.-Basato-s.pdf?rlkey=k7d2a3l44p073vppburpr9qv6&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PIZZERIA FORESTIERI ERSILIO Fattura di vendita_2300254_20260722_175629 RIF. LAMPADE HENDI RAME Basato su Ordini cliente 230305. Basato s.pdf"
+            },
+            {
               "nome": "Panificio ARENA sas Fattura di vendita_2600188_20260607_184026 RIF. LAMA SEGAOSSA Basato su Consegne 260002..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4022,6 +4182,22 @@
               "link": "https://www.dropbox.com/scl/fi/37xmdgdtkascbr2jo0vra/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600241_20260626_082205-RIF.-ASSISTENZA-SU-FORNO-RATIONAL-I-COMBI-PRO-MATRICOLA-E61SJ2305.pdf?rlkey=p2wbr8e3zm9d0cn81uw358w7w&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600241_20260626_082205 RIF. ASSISTENZA SU FORNO RATIONAL I COMBI PRO MATRICOLA E61SJ2305.pdf"
+            },
+            {
+              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600311_20260723_193441 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260276..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/576jcvmofgugm7ta5og7q/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600311_20260723_193441-RIF.-DETERGENTE-RATIONAL-2-VERDI-Basato-su-Ordini-cliente-260276..pdf?rlkey=lhhhwnr5k0f3kix42qm6yutk4&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600311_20260723_193441 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260276..pdf"
+            },
+            {
+              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600312_20260723_193505 RIF. ASSISTENZA SU RATIONAL iCOMBI PRO SOSTITUZIONE COPERCHIO DI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/huquii13xhkjfffnsvjcq/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600312_20260723_193505-RIF.-ASSISTENZA-SU-RATIONAL-iCOMBI-PRO-SOSTITUZIONE-COPERCHIO-DI.pdf?rlkey=q9147j2a0eglstcr1p0dhedwa&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600312_20260723_193505 RIF. ASSISTENZA SU RATIONAL iCOMBI PRO SOSTITUZIONE COPERCHIO DI.pdf"
             },
             {
               "nome": "SANTOS SRL Fattura di vendita_2600280_20260711_174204 RIF. BACK BAR Basato su Offerte di vendita 260139. Basato su Ordi.pdf",
@@ -4134,6 +4310,14 @@
               "link": "https://www.dropbox.com/scl/fi/9ikbo6brjy18hqyk3htqa/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Fattura-di-vendita_2600206_20260611_174737-RIF.-LAVASTOVIGLIE-ARISTARCO-AF-50.35-ESI-PRS-MULTIPOWER-CON-BOIL.pdf?rlkey=v54cxbmrdw9l5gz4dkvb9cuws&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Fattura di vendita_2600206_20260611_174737 RIF. LAVASTOVIGLIE ARISTARCO AF 50.35 ESI PRS MULTIPOWER CON BOIL.pdf"
+            },
+            {
+              "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Fattura di vendita_2600303_20260723_100949 RIF. ASCIUGA LUCIDA POSATE TAMAI STAR EVO MANUALE MATRICOLA 3032.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6sxvezjyu86bdpna1w3z1/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Fattura-di-vendita_2600303_20260723_100949-RIF.-ASCIUGA-LUCIDA-POSATE-TAMAI-STAR-EVO-MANUALE-MATRICOLA-3032.pdf?rlkey=yne6ixnfszw9sn4ctybodleib&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Fattura di vendita_2600303_20260723_100949 RIF. ASCIUGA LUCIDA POSATE TAMAI STAR EVO MANUALE MATRICOLA 3032.pdf"
             },
             {
               "nome": "SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Fattura di vendita_2600302_20260722_121232 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI B.pdf",
@@ -4288,7 +4472,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 201
+          "_totale_file": 216
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -4342,6 +4526,14 @@
               "link": "https://www.dropbox.com/scl/fi/0s7cimfe2ztoqqt2e3hlu/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Offerta-di-vendita_260199_20260606_175353.pdf?rlkey=wtsmdzwip5efvuxbcs0esmuxk&dl=0?raw=1",
               "dimensione_kb": 85,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260606_175353.pdf"
+            },
+            {
+              "nome": "ALIMENTARI E TABACCHI DA EGIDIA DI CHIARELLI ANTONIO Offerta di vendita_260285_20260723_130636.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ixt92yubtc980r4v4ocnb/ALIMENTARI-E-TABACCHI-DA-EGIDIA-DI-CHIARELLI-ANTONIO-Offerta-di-vendita_260285_20260723_130636.pdf?rlkey=f7p1vyv0h43m7h3yjxvqm1bf6&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ALIMENTARI E TABACCHI DA EGIDIA DI CHIARELLI ANTONIO Offerta di vendita_260285_20260723_130636.pdf"
             },
             {
               "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Offerta di vendita_250102_20260604_192253 RIF. BANDO INVIATA TRAMITE PEC.pdf",
@@ -4638,6 +4830,14 @@
               "link": "https://www.dropbox.com/scl/fi/gnwungq1f3r39vws159vf/DA-SPECIFICARE-Offerta-di-vendita_260276_20260722_120441-RIF.-TIMER-120-SEC.-23050Hz-CON-RISCIACQIP-E-SCARICO-REGOLABILI.pdf?rlkey=ehfxu1fj8ymhy1ptt72vluf1j&dl=0?raw=1",
               "dimensione_kb": 73,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260276_20260722_120441 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI.pdf"
+            },
+            {
+              "nome": "DA SPECIFICARE Offerta di vendita_260287_20260723_150323 RIF. OFFERTA SPECIALE TAVOLO A GIORNO CON RIPIANO E ALZATINA 150X.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c1epkimtstkxv9g8k71d6/DA-SPECIFICARE-Offerta-di-vendita_260287_20260723_150323-RIF.-OFFERTA-SPECIALE-TAVOLO-A-GIORNO-CON-RIPIANO-E-ALZATINA-150X.pdf?rlkey=eja2e8izsd5i93990be6h2f6v&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260287_20260723_150323 RIF. OFFERTA SPECIALE TAVOLO A GIORNO CON RIPIANO E ALZATINA 150X.pdf"
             },
             {
               "nome": "DE FILIPPO ROCCO Offerta di vendita_260194_20260605_111616 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO.pdf",
@@ -5240,6 +5440,30 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Offerta di vendita_260239_20260626_222922.pdf"
             },
             {
+              "nome": "PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Offerta di vendita_260286_20260723_133037 RIF. FRIGGITRICE A GAS BERTOS' S9GL20M MATRICOLA 0803692082.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/a44pg76m7xrt28ph4ob1t/PIZZA-SI-AeM-COMPANY-DI-ALAGIA-ANDREA-MAURONE-AGOSTINO-C.-S.N.C.-Offerta-di-vendita_260286_20260723_133037-RIF.-FRIGGITRICE-A-GAS-BERTOS-S9GL20M-MATRICOLA-0803692082.pdf?rlkey=lllr2ltncqj6by0z2uqkfexyp&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Offerta di vendita_260286_20260723_133037 RIF. FRIGGITRICE A GAS BERTOS' S9GL20M MATRICOLA 0803692082.pdf"
+            },
+            {
+              "nome": "PIZZERIA FORESTIERI ERSILIO Offerta di vendita_260283_20260722_180640.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qs2lruwo86urngv4hu70b/PIZZERIA-FORESTIERI-ERSILIO-Offerta-di-vendita_260283_20260722_180640.pdf?rlkey=o0pnxwqi72aejncsbwssyt65s&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PIZZERIA FORESTIERI ERSILIO Offerta di vendita_260283_20260722_180640.pdf"
+            },
+            {
+              "nome": "PIZZERIA FORESTIERI ERSILIO Offerta di vendita_260284_20260722_200031.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u3cu37b6wt8k4whjo9vuu/PIZZERIA-FORESTIERI-ERSILIO-Offerta-di-vendita_260284_20260722_200031.pdf?rlkey=517x33d99b2o1jjqircp0vgwh&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PIZZERIA FORESTIERI ERSILIO Offerta di vendita_260284_20260722_200031.pdf"
+            },
+            {
               "nome": "Panificio MAGIE DI GRANO DI LATRONICO PIETRO E DI LASCIO ANTONIO SNC Offerta di vendita_260229_20260623_112111.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5336,12 +5560,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260203_20260607_111625 RIF. LAVASTOVIGLIE MULTIPOWERE CON BOILER ATMOSFERICO.pdf"
             },
             {
-              "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260270_20260717_174903 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf",
+              "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260270_20260723_093239 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/tjvasoomloachlt7y9yi7/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Offerta-di-vendita_260270_20260717_174903-RIF.-LAVASTOVIGLIA-A-CAPPOTTA-ARISTARCO-AH-800-ESI-PRS-DD-V4003N.pdf?rlkey=njgr5hp376e6g62ri0dt8eie6&dl=0?raw=1",
-              "dimensione_kb": 76,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260270_20260717_174903 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf"
+              "link": "https://www.dropbox.com/scl/fi/l371xg00y7hdsx13bcpn0/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Offerta-di-vendita_260270_20260723_093239-RIF.-LAVASTOVIGLIA-A-CAPPOTTA-ARISTARCO-AH-800-ESI-PRS-DD-V4003N.pdf?rlkey=1o36a0g835ns629a6f9m2anr7&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260270_20260723_093239 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf"
             },
             {
               "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260169_20260515_181927 RIF. CALICI BIRRA COLLEZIONE EXECUTIVE.pdf",
@@ -5424,7 +5648,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 141
+          "_totale_file": 146
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -7354,6 +7578,22 @@
                   "link": "https://www.dropbox.com/scl/fi/9e5a32zdd4c6lej0kzeyz/shop.fimargroup.it_interactive1_index.php_route-product_documentation-product_id-3729-filter_model-G-GNS3200TN.pdf?rlkey=swcxql3j6iw7xfe5g06kknql4&dl=0?raw=1",
                   "dimensione_kb": 118,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_21 LA SECCA TAVOLO REFRIGERATO CON LAVELLO/shop.fimargroup.it_interactive1_index.php_route=product_documentation&product_id=3729&filter_model=G-GNS3200TN.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_07_23 PANAINO RUA AFFETTATRICE FIMAR A GRAVITA'",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_23 PANAINO RUA AFFETTATRICE FIMAR A GRAVITA'",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "100.FIMAR LISTINO dal_01.11_FIMAR_Catalogue&Price_25.26 AFFETTATRICI A GRAVITA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/l7wf7faj5fefbyqvowdwo/100.FIMAR-LISTINO-dal_01.11_FIMAR_Catalogue-Price_25.26-AFFETTATRICI-A-GRAVITA.pdf?rlkey=4j5vk2rkia2w155whfeidyb0f&dl=0?raw=1",
+                  "dimensione_kb": 199,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_23 PANAINO RUA AFFETTATRICE FIMAR A GRAVITA'/100.FIMAR LISTINO dal_01.11_FIMAR_Catalogue&Price_25.26 AFFETTATRICI A GRAVITA.pdf"
                 }
               ],
               "_totale_file": 1
@@ -38964,7 +39204,7 @@
                               "nome": "ROSSA.1581-MC039.jpg",
                               "tipo": "Immagine",
                               "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/4cx8nujvw58c8cm13dd1x/ROSSA.1581-MC039.jpg?rlkey=y0d171b4kkcghncyel7gzur93&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 43,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/CECILIA ARREDO/CECILIA IDEE SALA/SEDIE_IDEE/ROSSA.1581-MC039.jpg"
                             },
@@ -63491,7 +63731,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5483
+          "_totale_file": 5484
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -63681,6 +63921,14 @@
               "link": "https://www.dropbox.com/scl/fi/iv9lkgung9dscuhnmo0ih/CALA-DEL-CITRO-S.R.L.S.-Ordine-cliente_250769_20260529_112009-RIF.-Basato-su-Offerte-di-vendita-250806.-EMESSA-FATTURA-DI-ANTIC.pdf?rlkey=8g02qj47doqysp1q4zx0anf7s&dl=0?raw=1",
               "dimensione_kb": 62,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CALA DEL CITRO S.R.L.S. Ordine cliente_250769_20260529_112009 RIF. Basato su Offerte di vendita 250806. EMESSA FATTURA DI ANTIC.pdf"
+            },
+            {
+              "nome": "CAPUTO VINCENZO Ordine cliente_260304_20260723_125023.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gtxqki4w633aiwd39wgpz/CAPUTO-VINCENZO-Ordine-cliente_260304_20260723_125023.pdf?rlkey=zjrwhcqbt37msfyroa5uf0d4k&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CAPUTO VINCENZO Ordine cliente_260304_20260723_125023.pdf"
             },
             {
               "nome": "CARNI LIMONGI SRL Ordine cliente_260149_20260516_160013 RIF. PELLICOLA.pdf",
@@ -64387,6 +64635,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LIDO VALENTINA DI LOPEZ ANTONIO Ordine cliente_260175_20260528_181732 RIF. LIDO VALENTINA FRIGGITRICE GAS LOTUS MODELLO F218-78GLT 18+1.pdf"
             },
             {
+              "nome": "LUILORE' SRLS Ordine cliente_260305_20260723_170137 RIF. DETERGENTE RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nwhacno7ju1l0k6b1iaji/LUILORE-SRLS-Ordine-cliente_260305_20260723_170137-RIF.-DETERGENTE-RATIONAL.pdf?rlkey=91qnhg2h3hlfkwkitjyt4y6ot&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LUILORE' SRLS Ordine cliente_260305_20260723_170137 RIF. DETERGENTE RATIONAL.pdf"
+            },
+            {
               "nome": "LUTIPICO SRLS Ordine cliente_250827_20260722_130250 RIF. SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 25084.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -64731,6 +64987,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Ordine cliente_260200_20260610_054925 RIF. ASCIUGA LUCIDA POSATE TAMAI STAR EVO MANUALE Basato su Offer.pdf"
             },
             {
+              "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Ordine cliente_260303_20260723_094026 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3jbdvjemtpvwtdbvkhplw/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Ordine-cliente_260303_20260723_094026-RIF.-LAVASTOVIGLIA-A-CAPPOTTA-ARISTARCO-AH-800-ESI-PRS-DD-V4003N.pdf?rlkey=izq12x3adlxhqabu95vefu9xs&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Ordine cliente_260303_20260723_094026 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf"
+            },
+            {
               "nome": "SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Ordine cliente_260298_20260722_121210 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -64883,7 +65147,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 173
+          "_totale_file": 176
         }
       ],
       "file": []
