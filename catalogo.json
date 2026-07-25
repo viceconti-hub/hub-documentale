@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-25T00:14:46Z",
-  "totale_file": 25901,
+  "generato": "2026-07-25T02:10:46Z",
+  "totale_file": 25902,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -141882,7 +141882,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4453,
+      "totale_file": 4454,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -183123,9 +183123,17 @@
               "link": "https://www.dropbox.com/scl/fi/hxdpq9liahgw9t05ppka3/100.UGOLINI-LISTINO-RICAMBI-listino_Ugo_2026.pdf?rlkey=ex41kqwnow9znlxqj68tyweff&dl=0?raw=1",
               "dimensione_kb": 626,
               "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/100.UGOLINI LISTINO RICAMBI listino_Ugo_2026.pdf"
+            },
+            {
+              "nome": "UGOLINI ICON SCHEDA TECNICA Datasheet-ICON_3_ITA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6xd2z0bn43744ir0iqc63/UGOLINI-ICON-SCHEDA-TECNICA-Datasheet-ICON_3_ITA.pdf?rlkey=nlfb0f2wkmi9su72cai0wvl4l&dl=0?raw=1",
+              "dimensione_kb": 630,
+              "path": "/HUB DOCUMENTALE/FORNITORI/UGOLINI/UGOLINI ICON SCHEDA TECNICA Datasheet-ICON_3_ITA.pdf"
             }
           ],
-          "_totale_file": 24
+          "_totale_file": 25
         },
         {
           "nome": "UNOX",
