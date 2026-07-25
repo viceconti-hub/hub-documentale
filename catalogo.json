@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-25T02:10:46Z",
-  "totale_file": 25902,
+  "generato": "2026-07-25T05:05:03Z",
+  "totale_file": 25923,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6362,
+      "totale_file": 6383,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -136,6 +136,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ACAL SRL Consegna_260413_20260615_162605 RIF. MENSOLA A PONTE 2 RIPIANI 140 X 40 AGGANCI LATERALI Basato s.pdf"
             },
             {
+              "nome": "ACAL SRL Consegna_260599_20260724_113841 RIF. TOP 6 E TOP 3 Basato su Ordini cliente 260259..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9jeod3tfub3r5smt878fk/ACAL-SRL-Consegna_260599_20260724_113841-RIF.-TOP-6-E-TOP-3-Basato-su-Ordini-cliente-260259..pdf?rlkey=3s6gytz0rj3acmce089j74gwt&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ACAL SRL Consegna_260599_20260724_113841 RIF. TOP 6 E TOP 3 Basato su Ordini cliente 260259..pdf"
+            },
+            {
               "nome": "ACOOP SRL Consegna_260332_20260602_210420 RIF. ASSISTENZA SU MISCELATORE SOSTITUZIONE CARTUCCIA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -174,6 +182,14 @@
               "link": "https://www.dropbox.com/scl/fi/3l27jlobwuacfl630jwtl/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Consegna_260404_20260612_142014-RIF.-VENTILATORE-E-INVERTER-Basato-su-Ordini-cliente-260136.-VENTILATORE-E-INVERTER.pdf?rlkey=pukpqexzxvxwvesuu5lrh7o17&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Consegna_260404_20260612_142014 RIF. VENTILATORE E INVERTER Basato su Ordini cliente 260136. VENTILATORE E INVERTER.pdf"
+            },
+            {
+              "nome": "AGUA LOCA DI D'IMPERIO NICOLA Consegna_250882_20260723_200424 RIF. BICCHIERI Basato su Ordini cliente 250589..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/949facmda8xf5nqyulvlc/AGUA-LOCA-DI-D-IMPERIO-NICOLA-Consegna_250882_20260723_200424-RIF.-BICCHIERI-Basato-su-Ordini-cliente-250589..pdf?rlkey=lcza1vw0n2zfz1abvj8av5i39&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGUA LOCA DI D'IMPERIO NICOLA Consegna_250882_20260723_200424 RIF. BICCHIERI Basato su Ordini cliente 250589..pdf"
             },
             {
               "nome": "AGUA LOCA DI D'IMPERIO NICOLA Consegna_260286_20260523_093138 RIF. Basato su Ordini cliente 260164..pdf",
@@ -398,6 +414,14 @@
               "link": "https://www.dropbox.com/scl/fi/co69v5ybequvdzpzydx4u/CANNAZZARO-SRL-Consegna_260384_20260607_164427-RIF.-ASSISTENZA-SU-Forno-modello-Qubi-Eliminazione-service-boiler.pdf?rlkey=2gaf5gueluvzamhza2duh3p2m&dl=0?raw=1",
               "dimensione_kb": 61,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CANNAZZARO SRL Consegna_260384_20260607_164427 RIF. ASSISTENZA SU Forno modello Qubi Eliminazione service boiler.pdf"
+            },
+            {
+              "nome": "CAPUTO VINCENZO Consegna_260597_20260723_201233 RIF. CALICE FLUTE PROSECCO CL 15 H 18,4 Ø CM 4,5 Basato su Ordini.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tiajhjuyuj9ar697cct1u/CAPUTO-VINCENZO-Consegna_260597_20260723_201233-RIF.-CALICE-FLUTE-PROSECCO-CL-15-H-18-4-CM-4-5-Basato-su-Ordini.pdf?rlkey=25g74bw98693or2sttdwvlonw&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CAPUTO VINCENZO Consegna_260597_20260723_201233 RIF. CALICE FLUTE PROSECCO CL 15 H 18,4 Ø CM 4,5 Basato su Ordini.pdf"
             },
             {
               "nome": "CARACOJ PRAJA SRL Consegna_260321_20260531_100414 RIF. DETERGENTE RATIONAL.pdf",
@@ -1312,6 +1336,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_260547_20260707_125507 RIF. TERMOCOPPIE.pdf"
             },
             {
+              "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_260602_20260724_122105 RIF. TENTAZIONE CALICE QTA' 12 E BICCHIERE ACQUA PLANEO QTA' 48 B.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s6i5iv3haqueba7e65w3s/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Consegna_260602_20260724_122105-RIF.-TENTAZIONE-CALICE-QTA-12-E-BICCHIERE-ACQUA-PLANEO-QTA-48-B.pdf?rlkey=ec6dppjhdgf9nzhjzdt61yyr1&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_260602_20260724_122105 RIF. TENTAZIONE CALICE QTA' 12 E BICCHIERE ACQUA PLANEO QTA' 48 B.pdf"
+            },
+            {
               "nome": "HOTEL PISACANE S. R. L. Consegna_260356_20260602_223218 RIF. ASSISTENZA SU MACCHINA FAEMA X20CP1011 MILK MATRICOLA 193454.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1408,6 +1440,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260475_20260626_091822 RIF. Basato su Ordini cliente 260238..pdf"
             },
             {
+              "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260601_20260724_121637 RIF. FRIGGITRICE FERRO Basato su Ordini cliente 260237..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/igselcykyn0dnpzu627y1/I-SAPORI-DI-MARIANNA-TRATTORIA-E-CUCINA-D-ASPORTO-DI-PEZZULLO-MARIANNA-Consegna_260601_20260724_121637-RIF.-FRIGGITRICE-FERRO-Basato-su-Ordini-cliente-260237..pdf?rlkey=ek9hm4vjhg44vy79e55adk407&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260601_20260724_121637 RIF. FRIGGITRICE FERRO Basato su Ordini cliente 260237..pdf"
+            },
+            {
               "nome": "IELPO NICOLA Consegna_260306_20260530_091529 RIF. Basato su Ordini cliente 260152. AFFETTATRICE IDEA 25 CASA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1494,6 +1534,14 @@
               "link": "https://www.dropbox.com/scl/fi/ga90olqm4o7pn3uqjuto1/IL-MULINO-SAS-di-MARIO-BARBIERO-Consegna_260573_20260718_105922-RIF.-DETERGENTE-LAVASTOVIGLIE-4-DET-12-3-BRILL-5-Basato-su-Ordi.pdf?rlkey=8s3qobjkz9mz3p7q6ds3ncz4k&dl=0?raw=1",
               "dimensione_kb": 54,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IL MULINO SAS di MARIO BARBIERO Consegna_260573_20260718_105922 RIF. DETERGENTE LAVASTOVIGLIE 4 DET 12 + 3 BRILL 5 Basato su Ordi.pdf"
+            },
+            {
+              "nome": "IL RUSCELLO SNC DEI FRATELLI NAVARRA Consegna_260600_20260724_121405 RIF. EXECUTIVE CALICE VINO 20,7 QTA '48Basato su Ordini cliente 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gl21lidfyhog43w2jzyyi/IL-RUSCELLO-SNC-DEI-FRATELLI-NAVARRA-Consegna_260600_20260724_121405-RIF.-EXECUTIVE-CALICE-VINO-20-7-QTA-48Basato-su-Ordini-cliente-2.pdf?rlkey=28472a7pidjpmj28noon1vj6b&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IL RUSCELLO SNC DEI FRATELLI NAVARRA Consegna_260600_20260724_121405 RIF. EXECUTIVE CALICE VINO 20,7 QTA '48Basato su Ordini cliente 2.pdf"
             },
             {
               "nome": "ILAMA di D'ARCO PASQUALE Consegna_260291_20260524_174041 RIF. SEDIA CARNABY 10023 COL.TORTORA UF890-28 BELLADONNA.pdf",
@@ -2248,6 +2296,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PERRETTA SERVICE DI IMMACOLATO EGIDIO Consegna_260546_20260706_173801 RIF. SONDA PTC PVC 3000 mm.pdf"
             },
             {
+              "nome": "PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Consegna_260603_20260724_122418 RIF. OFFERTA SPECIALE FRIGGITRICE A GAS 1 VASCA USATA Basato su O.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qi2w5z9rr2xevqmxrt92a/PIZZA-SI-AeM-COMPANY-DI-ALAGIA-ANDREA-MAURONE-AGOSTINO-C.-S.N.C.-Consegna_260603_20260724_122418-RIF.-OFFERTA-SPECIALE-FRIGGITRICE-A-GAS-1-VASCA-USATA-Basato-su-O.pdf?rlkey=370u445a756p3piuh7g82g9oy&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Consegna_260603_20260724_122418 RIF. OFFERTA SPECIALE FRIGGITRICE A GAS 1 VASCA USATA Basato su O.pdf"
+            },
+            {
               "nome": "PIZZERIA DA ANGELO DI IACUZIO ANGELO Consegna_260305_20260529_170408 RIF. PALETTINO PIZZA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2310,6 +2366,14 @@
               "link": "https://www.dropbox.com/scl/fi/9x6emtfkrmoomi05kmb7u/Ristorante-SANTA-LUCIA-DI-APICELLA-TERESA-Consegna_260552_20260708_121431-RIF.-GRIGLIA-IN-GHISA-PER-GRIGLIA-A-PIETRA-LAVICA-QTA-2-Basato-s.pdf?rlkey=ubn1bf2igb2gewd6a8unwhzw2&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Ristorante SANTA LUCIA DI APICELLA TERESA Consegna_260552_20260708_121431 RIF. GRIGLIA IN GHISA PER GRIGLIA A PIETRA LAVICA QTA' 2 Basato s.pdf"
+            },
+            {
+              "nome": "Ristorante SANTA LUCIA DI APICELLA TERESA Consegna_260598_20260724_093955 RIF. GRIGLIE E TELAIO PER GRIGLIA A PIETRA LAVICA MODULAR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/38atdfnm5uvkfcmdw2mge/Ristorante-SANTA-LUCIA-DI-APICELLA-TERESA-Consegna_260598_20260724_093955-RIF.-GRIGLIE-E-TELAIO-PER-GRIGLIA-A-PIETRA-LAVICA-MODULAR.pdf?rlkey=oufq3fpimsebmqcd3lemz1szr&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Ristorante SANTA LUCIA DI APICELLA TERESA Consegna_260598_20260724_093955 RIF. GRIGLIE E TELAIO PER GRIGLIA A PIETRA LAVICA MODULAR.pdf"
             },
             {
               "nome": "S.A.S. DI LASCIO di ALAGIA PAOLA & C. Consegna_260576_20260718_160443 RIF. FRIGO BIBITE STATICO Basato su Ordini cliente 260242..pdf",
@@ -2568,6 +2632,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260282_20260521_122013 RIF. DETERGENTE Basato su Ordini cliente 260160..pdf"
             },
             {
+              "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260604_20260724_123025 RIF. DETERGENTE DET 6 QTA ' 3 + KAP-TECNET QAT '1 Basato su Ordin.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cctuyl98e4bchedx3aeh6/TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO-Consegna_260604_20260724_123025-RIF.-DETERGENTE-DET-6-QTA-3-KAP-TECNET-QAT-1-Basato-su-Ordin.pdf?rlkey=kix249qde6a75lpw91o5hegyh&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260604_20260724_123025 RIF. DETERGENTE DET 6 QTA ' 3 + KAP-TECNET QAT '1 Basato su Ordin.pdf"
+            },
+            {
               "nome": "TAVERNA ROVITA di GAMBARDELLA MARIASTELLA & C. SNC Consegna_260585_20260722_120515 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260292..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2736,7 +2808,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 340
+          "_totale_file": 349
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -3552,6 +3624,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Fattura di vendita_2600243_20260626_091914 RIF. Basato su Consegne 260448. 260475..pdf"
             },
             {
+              "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Fattura di vendita_2600316_20260724_121708 RIF. FRIGGITRICE FERRO Basato su Ordini cliente 260237. Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/il38fp2vhoil2bfdty9nj/I-SAPORI-DI-MARIANNA-TRATTORIA-E-CUCINA-D-ASPORTO-DI-PEZZULLO-MARIANNA-Fattura-di-vendita_2600316_20260724_121708-RIF.-FRIGGITRICE-FERRO-Basato-su-Ordini-cliente-260237.-Basato-su.pdf?rlkey=zzhs1kuv3lwmhz3pg1soswwkl&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Fattura di vendita_2600316_20260724_121708 RIF. FRIGGITRICE FERRO Basato su Ordini cliente 260237. Basato su.pdf"
+            },
+            {
               "nome": "IL BOSCHETTO Srl Fattura di vendita_2600216_20260622_101359 RIF. CUCCHIAINI PER DESSERT Basato su Offerte di vendita 260193..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3648,12 +3728,36 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL MULINO SAS di MARIO BARBIERO Fattura di vendita_2600307_20260723_172458 RIF. DETERGENTE LAVASTOVIGLIE 4 DET 12 + 3 BRILL 5 Basato su Ordi.pdf"
             },
             {
+              "nome": "IL RUSCELLO SNC DEI FRATELLI NAVARRA Fattura di vendita_2600315_20260724_121418 RIF. EXECUTIVE CALICE VINO 20,7 QTA '48Basato su Ordini cliente 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/potcmhnbo8dekp0n5au9e/IL-RUSCELLO-SNC-DEI-FRATELLI-NAVARRA-Fattura-di-vendita_2600315_20260724_121418-RIF.-EXECUTIVE-CALICE-VINO-20-7-QTA-48Basato-su-Ordini-cliente-2.pdf?rlkey=too5wseykvu4v4o7aa5qcpb1x&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL RUSCELLO SNC DEI FRATELLI NAVARRA Fattura di vendita_2600315_20260724_121418 RIF. EXECUTIVE CALICE VINO 20,7 QTA '48Basato su Ordini cliente 2.pdf"
+            },
+            {
               "nome": "ILLY CAFFE' SPA Fattura di vendita_2600163_20260604_172034 RIF. ASSISTENZA SU MACCHINE DA CAFFE' Basato su Consegne 251253..pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/2tnln0bmk065ty437by9v/ILLY-CAFFE-SPA-Fattura-di-vendita_2600163_20260604_172034-RIF.-ASSISTENZA-SU-MACCHINE-DA-CAFFE-Basato-su-Consegne-251253..pdf?rlkey=h0uvqo6g3yl188ulrwemnsto0&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ILLY CAFFE' SPA Fattura di vendita_2600163_20260604_172034 RIF. ASSISTENZA SU MACCHINE DA CAFFE' Basato su Consegne 251253..pdf"
+            },
+            {
+              "nome": "ITALIAN CHEF CONSULTING srls Fattura di vendita_2300823_20260724_110632 RIF. Basato su Offerte di vendita 230946..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7jkg78dpmh4umzog2116w/ITALIAN-CHEF-CONSULTING-srls-Fattura-di-vendita_2300823_20260724_110632-RIF.-Basato-su-Offerte-di-vendita-230946..pdf?rlkey=3gcd0ze0r0zyg7cx6tsc6xpfv&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ITALIAN CHEF CONSULTING srls Fattura di vendita_2300823_20260724_110632 RIF. Basato su Offerte di vendita 230946..pdf"
+            },
+            {
+              "nome": "ITALIAN CHEF CONSULTING srls Fattura di vendita_2300824_20260724_110653 RIF. Basato su Offerte di vendita 230947..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dy3fzzp1ypqfalem8qchi/ITALIAN-CHEF-CONSULTING-srls-Fattura-di-vendita_2300824_20260724_110653-RIF.-Basato-su-Offerte-di-vendita-230947..pdf?rlkey=yv7g57grgzy7tr4vmbjahi0ij&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ITALIAN CHEF CONSULTING srls Fattura di vendita_2300824_20260724_110653 RIF. Basato su Offerte di vendita 230947..pdf"
             },
             {
               "nome": "JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO Fattura di vendita_2600236_20260625_193630 RIF. DETERGENTE RATIONAL ROSSO Basato su Consegne 260432. 260440..pdf",
@@ -4336,6 +4440,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TATA & CO SRL Fattura di vendita_2600194_20260607_184855 RIF. PORTARIFIUTI E MENSOLA A PONTE Basato su Consegne 260051. 26.pdf"
             },
             {
+              "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Fattura di vendita_2600317_20260724_123037 RIF. DETERGENTE DET 6 QTA ' 3 + KAP-TECNET QAT '1 Basato su Ordin.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9fgg9jqkzj9gd9etfexye/TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO-Fattura-di-vendita_2600317_20260724_123037-RIF.-DETERGENTE-DET-6-QTA-3-KAP-TECNET-QAT-1-Basato-su-Ordin.pdf?rlkey=37otd5djvjvda2m21g1xp2wbw&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Fattura di vendita_2600317_20260724_123037 RIF. DETERGENTE DET 6 QTA ' 3 + KAP-TECNET QAT '1 Basato su Ordin.pdf"
+            },
+            {
               "nome": "TAVERNA ROVITA di GAMBARDELLA MARIASTELLA & C. SNC Fattura di vendita_2600300_20260722_120533 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260292. Ba.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4472,7 +4584,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 216
+          "_totale_file": 221
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -4840,6 +4952,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260287_20260723_150323 RIF. OFFERTA SPECIALE TAVOLO A GIORNO CON RIPIANO E ALZATINA 150X.pdf"
             },
             {
+              "nome": "DA SPECIFICARE Offerta di vendita_260290_20260724_110526 RIF. OFFERTA SPECIALE TAVOLO REFRIGERATO COLDLINE TA131MQ-710 USA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tkmhuphh9dj6cz30rm3r8/DA-SPECIFICARE-Offerta-di-vendita_260290_20260724_110526-RIF.-OFFERTA-SPECIALE-TAVOLO-REFRIGERATO-COLDLINE-TA131MQ-710-USA.pdf?rlkey=3nufwn9w8bxjz2rmozwhkpg2m&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260290_20260724_110526 RIF. OFFERTA SPECIALE TAVOLO REFRIGERATO COLDLINE TA131MQ-710 USA.pdf"
+            },
+            {
               "nome": "DE FILIPPO ROCCO Offerta di vendita_260194_20260605_111616 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5064,6 +5184,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/IL MULINO SAS di MARIO BARBIERO Offerta di vendita_260216_20260615_171024 RIF. Relè allo Stato Solido LM1 LM2; A B , LMX; A-D 25A dal 03202.pdf"
             },
             {
+              "nome": "IL RUSCELLO SNC DEI FRATELLI NAVARRA Offerta di vendita_260291_20260724_123408 RIF. MACCHINA PER LA PRODUZIONE DI CREME GELATO, SORBETTI E GRANI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ko2w2unek0jrkvdwy63oq/IL-RUSCELLO-SNC-DEI-FRATELLI-NAVARRA-Offerta-di-vendita_260291_20260724_123408-RIF.-MACCHINA-PER-LA-PRODUZIONE-DI-CREME-GELATO-SORBETTI-E-GRANI.pdf?rlkey=038zmm19tpp661ah146zrnvif&dl=0?raw=1",
+              "dimensione_kb": 80,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/IL RUSCELLO SNC DEI FRATELLI NAVARRA Offerta di vendita_260291_20260724_123408 RIF. MACCHINA PER LA PRODUZIONE DI CREME GELATO, SORBETTI E GRANI.pdf"
+            },
+            {
               "nome": "IL SAGITTARIO BAR DI FONDACARO GIUSEPPE Offerta di vendita_250038_20260721_085144 RIF. ASSISTENZA SU CUCINA MBM SOSTITUZIONE BRUCIATORI E SPARTIFIA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5126,6 +5254,14 @@
               "link": "https://www.dropbox.com/scl/fi/0l85lptwsk2y4me0w01ph/LA-SECCA-di-FULCO-ANTONIO-Offerta-di-vendita_260274_20260721_111357.pdf?rlkey=q5tl58z9yuc2b9smbhhx9lblp&dl=0?raw=1",
               "dimensione_kb": 77,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA SECCA di FULCO ANTONIO Offerta di vendita_260274_20260721_111357.pdf"
+            },
+            {
+              "nome": "LA SECCA di FULCO ANTONIO Offerta di vendita_260289_20260724_110111 RIF. OFFERTA SPECIALE TAVOLO REFRIGERATO COLDLINE TA131MQ-710 USA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6uhsdz23vrfx0a4o11f1w/LA-SECCA-di-FULCO-ANTONIO-Offerta-di-vendita_260289_20260724_110111-RIF.-OFFERTA-SPECIALE-TAVOLO-REFRIGERATO-COLDLINE-TA131MQ-710-USA.pdf?rlkey=ikqn793xgj2d8jg94a6a2wwhw&dl=0?raw=1",
+              "dimensione_kb": 80,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA SECCA di FULCO ANTONIO Offerta di vendita_260289_20260724_110111 RIF. OFFERTA SPECIALE TAVOLO REFRIGERATO COLDLINE TA131MQ-710 USA.pdf"
             },
             {
               "nome": "LA TANA GROUP SRL Offerta di vendita_260181_20260521_114754 RIF. SEDIA IN POLIPROPILENE MOD. CHIAVARINA, COLORE BIANCO, IMPIL.pdf",
@@ -5448,6 +5584,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Offerta di vendita_260286_20260723_133037 RIF. FRIGGITRICE A GAS BERTOS' S9GL20M MATRICOLA 0803692082.pdf"
             },
             {
+              "nome": "PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Offerta di vendita_260288_20260724_103427 RIF. OFFERTA SPECIALE FRIGGITRICE A GAS 1 VASCA USATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rvo8l6k4khnhk4f6bb073/PIZZA-SI-AeM-COMPANY-DI-ALAGIA-ANDREA-MAURONE-AGOSTINO-C.-S.N.C.-Offerta-di-vendita_260288_20260724_103427-RIF.-OFFERTA-SPECIALE-FRIGGITRICE-A-GAS-1-VASCA-USATA.pdf?rlkey=erekfgdq7rilkzgk1vzs0no6g&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Offerta di vendita_260288_20260724_103427 RIF. OFFERTA SPECIALE FRIGGITRICE A GAS 1 VASCA USATA.pdf"
+            },
+            {
               "nome": "PIZZERIA FORESTIERI ERSILIO Offerta di vendita_260283_20260722_180640.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5648,7 +5792,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 146
+          "_totale_file": 150
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -39204,7 +39348,7 @@
                               "nome": "ROSSA.1581-MC039.jpg",
                               "tipo": "Immagine",
                               "icona": "🖼️",
-                              "link": null,
+                              "link": "https://www.dropbox.com/scl/fi/4cx8nujvw58c8cm13dd1x/ROSSA.1581-MC039.jpg?rlkey=y0d171b4kkcghncyel7gzur93&dl=0?raw=1",
                               "dimensione_kb": 43,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/CECILIA ARREDO/CECILIA IDEE SALA/SEDIE_IDEE/ROSSA.1581-MC039.jpg"
                             },
@@ -63811,6 +63955,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260284_20260718_122833 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
             },
             {
+              "nome": "AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260306_20260723_201057 RIF. EXECUTIVE CALICE ACQUA 26 VC12KFNG16 QTA' 60.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7xju5acir3iqp07f48fro/AGUA-LOCA-DI-D-IMPERIO-NICOLA-Ordine-cliente_260306_20260723_201057-RIF.-EXECUTIVE-CALICE-ACQUA-26-VC12KFNG16-QTA-60.pdf?rlkey=d3jhq0gt0c3imsgz3mz2xca3i&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260306_20260723_201057 RIF. EXECUTIVE CALICE ACQUA 26 VC12KFNG16 QTA' 60.pdf"
+            },
+            {
               "nome": "ARCENNI SOCIETA' AGRICOLA SRL Ordine cliente_260171_20260526_164759 RIF. COPPIIE GUIDA E GRIGLIE PER ARMADIO COLDLINE A701NE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -64859,6 +65011,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PDM SRL Ordine cliente_260198_20260609_133726 RIF. GUARNIZIONE PORTA SCC BONIFICO BANCARIO.pdf"
             },
             {
+              "nome": "PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Ordine cliente_260307_20260724_103442 RIF. OFFERTA SPECIALE FRIGGITRICE A GAS 1 VASCA USATA Basato su O.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fsab9chek7zepc7m1fcep/PIZZA-SI-AeM-COMPANY-DI-ALAGIA-ANDREA-MAURONE-AGOSTINO-C.-S.N.C.-Ordine-cliente_260307_20260724_103442-RIF.-OFFERTA-SPECIALE-FRIGGITRICE-A-GAS-1-VASCA-USATA-Basato-su-O.pdf?rlkey=24fhhpewpmcoyfamzge1wt02l&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Ordine cliente_260307_20260724_103442 RIF. OFFERTA SPECIALE FRIGGITRICE A GAS 1 VASCA USATA Basato su O.pdf"
+            },
+            {
               "nome": "Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -65011,6 +65171,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Ordine cliente_260160_20260521_121948 RIF. DETERGENTE.pdf"
             },
             {
+              "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Ordine cliente_260308_20260724_123014 RIF. DETERGENTE DET 6 QTA ' 3 + KAP-TECNET QAT '1.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/njhms7b3yrtqmb99sp9ad/TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO-Ordine-cliente_260308_20260724_123014-RIF.-DETERGENTE-DET-6-QTA-3-KAP-TECNET-QAT-1.pdf?rlkey=7ap1mfjpc1zsokv9v7d5p7y1v&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Ordine cliente_260308_20260724_123014 RIF. DETERGENTE DET 6 QTA ' 3 + KAP-TECNET QAT '1.pdf"
+            },
+            {
               "nome": "TAVERNA ROVITA di GAMBARDELLA MARIASTELLA & C. SNC Ordine cliente_260292_20260721_085048 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -65147,7 +65315,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 176
+          "_totale_file": 179
         }
       ],
       "file": []
