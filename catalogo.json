@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-26T05:02:04Z",
-  "totale_file": 25943,
+  "generato": "2026-07-26T06:57:02Z",
+  "totale_file": 25946,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -185193,7 +185193,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4914,
+      "totale_file": 4917,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -185359,6 +185359,14 @@
               "link": "https://www.dropbox.com/scl/fi/u7rwmyi0u32qs075siaxa/COLD-LINE-srl-Entrata-merci-da-fornitore_260143_20260720_123601-RIF.-LA-LUMERA-GUARNIZIONE-PER-PORTE-TAVOLO-REFRIGERATO-Basato-su.pdf?rlkey=ropikn0tmyw6b4ni0voojj8h6&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260143_20260720_123601 RIF. LA LUMERA GUARNIZIONE PER PORTE TAVOLO REFRIGERATO Basato su.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260151_20260724_131448 RIF. Coppia guide tipo L 605 mm per griglie EN60x40 CORRADO MICHE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cwacde1n2rlu7x6n9qj5x/COLD-LINE-srl-Entrata-merci-da-fornitore_260151_20260724_131448-RIF.-Coppia-guide-tipo-L-605-mm-per-griglie-EN60x40-CORRADO-MICHE.pdf?rlkey=08yb1i1ten8y75rqjnjpiq4dv&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260151_20260724_131448 RIF. Coppia guide tipo L 605 mm per griglie EN60x40 CORRADO MICHE.pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -185719,6 +185727,14 @@
               "link": "https://www.dropbox.com/scl/fi/5shcwdrn7aemwymgusj0n/IFI-Spa-Entrata-merci-da-fornitore_260108_20260530_190946-RIF.-LA-REGINA-TERMINAL-CETNRALINA-PER-ESPOSITORE-MURALE-MARKET-F.pdf?rlkey=6s6fjh9ipungt1gr7tgs01m1l&dl=0?raw=1",
               "dimensione_kb": 56,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/IFI Spa Entrata merci da fornitore_260108_20260530_190946 RIF. LA REGINA TERMINAL CETNRALINA PER ESPOSITORE MURALE MARKET F.pdf"
+            },
+            {
+              "nome": "KAREL srl Entrata merci da fornitore_260152_20260724_133200 RIF. Basato su Ordini d'acquisto 260178..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/00439c7umi63qrihuxveq/KAREL-srl-Entrata-merci-da-fornitore_260152_20260724_133200-RIF.-Basato-su-Ordini-d-acquisto-260178..pdf?rlkey=zx5i0yv2b2drqpa7hwmb20wa1&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/KAREL srl Entrata merci da fornitore_260152_20260724_133200 RIF. Basato su Ordini d'acquisto 260178..pdf"
             },
             {
               "nome": "KRUPPS DDT_002726 RIF. NERA KIT DISPLAY + MAG .pdf",
@@ -186137,7 +186153,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 117
+          "_totale_file": 119
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -226622,6 +226638,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA ORDINE 26 5508 202626005508I230726.pdf"
             },
             {
+              "nome": "KAREL srl Ordine dacquisto_260178_20260724_132917.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2r4d6707c0dltieqxo2rq/KAREL-srl-Ordine-dacquisto_260178_20260724_132917.pdf?rlkey=00oe65rzrgjcbvudkj03ak61c&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL srl Ordine dacquisto_260178_20260724_132917.pdf"
+            },
+            {
               "nome": "KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-6976 RIF.S.A.S. DI LASCIO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -226798,7 +226822,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
             }
           ],
-          "_totale_file": 3732
+          "_totale_file": 3733
         }
       ],
       "file": [
