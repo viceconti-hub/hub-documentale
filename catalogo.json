@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-28T07:24:57Z",
-  "totale_file": 26008,
+  "generato": "2026-07-28T08:30:33Z",
+  "totale_file": 26012,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -227335,7 +227335,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2403,
+      "totale_file": 2407,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -247904,6 +247904,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf"
             },
             {
+              "nome": "ARISTARCO COPIA TITOLO BPER SCADENZA 10_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/itcublwi8t94tsiyc4kue/ARISTARCO-COPIA-TITOLO-BPER-SCADENZA-10_09_2026.pdf?rlkey=oggurpet0y8bnd6u5uad9meed&dl=0?raw=1",
+              "dimensione_kb": 790,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARISTARCO COPIA TITOLO BPER SCADENZA 10_09_2026.pdf"
+            },
+            {
               "nome": "ARISTARCO Dettaglio bonifico istantaneo DEL 12_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -247958,6 +247966,14 @@
               "link": "https://www.dropbox.com/scl/fi/o2hulvrm5wqmphi6gz669/ARRIS-Dettaglio-bonifico-istantaneo-DEL-20_05_2026.pdf?rlkey=m98ufofrv99twsux2mpfsgs3w&dl=0?raw=1",
               "dimensione_kb": 108,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARRIS Dettaglio bonifico istantaneo DEL 20_05_2026.pdf"
+            },
+            {
+              "nome": "ARRIS Dettaglio bonifico istantaneo DEL 27_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hzrlch5vre2hziezdxivu/ARRIS-Dettaglio-bonifico-istantaneo-DEL-27_07_2026.pdf?rlkey=nl2sa59fbxvq2rjuwfbd3nxo7&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARRIS Dettaglio bonifico istantaneo DEL 27_07_2026.pdf"
             },
             {
               "nome": "ARTINOX Dettaglio bonifico istantaneo DEL 20_04_2026.pdf",
@@ -248560,6 +248576,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/LA MITO KLIMAITALIA Dettaglio bonifico istantaneo DEL 28_04_2026.pdf"
             },
             {
+              "nome": "LOTUS COPIA TITOLO BPER SCADENZA 10_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/boi11k4gbcm6cemb31ccl/LOTUS-COPIA-TITOLO-BPER-SCADENZA-10_09_2026.pdf?rlkey=q19wmkt5wqq8u7qk3g0p3zdq0&dl=0?raw=1",
+              "dimensione_kb": 720,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/LOTUS COPIA TITOLO BPER SCADENZA 10_09_2026.pdf"
+            },
+            {
               "nome": "LOTUS COPIA TITOLO Scansione 8 giu 2026, 12.56.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -248784,6 +248808,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/SCARDINO Dettaglio bonifico istantaneo DEL 4_05_2026.pdf"
             },
             {
+              "nome": "SIRMAN COPIA TITOLO BPER SCADENZA 10_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6w220mjfyhvk5drimpisy/SIRMAN-COPIA-TITOLO-BPER-SCADENZA-10_09_2026.pdf?rlkey=8rp7uopq2hvdxgoyhsoanj807&dl=0?raw=1",
+              "dimensione_kb": 623,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/SIRMAN COPIA TITOLO BPER SCADENZA 10_09_2026.pdf"
+            },
+            {
               "nome": "SIRMAN COPIA TITOLO MPS SPEDIZIONE 21_05_2026 SCADENZA 31_07_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -248904,7 +248936,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2383
+          "_totale_file": 2387
         }
       ],
       "file": []
