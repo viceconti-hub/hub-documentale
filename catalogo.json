@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-28T05:23:58Z",
-  "totale_file": 25999,
+  "generato": "2026-07-28T07:24:57Z",
+  "totale_file": 26008,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -185617,7 +185617,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4917,
+      "totale_file": 4926,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -186185,6 +186185,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/LA MITO srl KLIMAITALIA Entrata merci da fornitore_260147_20260723_154155 RIF. FRIGO BIBITE STATICA CAGITATORE MOD.ICOOL 401 WHT RIF. S.A.S.pdf"
             },
             {
+              "nome": "LA MITO srl KLIMAITALIA Entrata merci da fornitore_260153_20260727_161818 RIF. RICAMBI PER RICCIARDONE E BOTTEGA 63 Basato su Ordini d'acqu.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/l5lh22dyvx0ruf6e7klpm/LA-MITO-srl-KLIMAITALIA-Entrata-merci-da-fornitore_260153_20260727_161818-RIF.-RICAMBI-PER-RICCIARDONE-E-BOTTEGA-63-Basato-su-Ordini-d-acqu.pdf?rlkey=i81eawmwnt0ps1xkendfayz5l&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/LA MITO srl KLIMAITALIA Entrata merci da fornitore_260153_20260727_161818 RIF. RICAMBI PER RICCIARDONE E BOTTEGA 63 Basato su Ordini d'acqu.pdf"
+            },
+            {
               "nome": "LOTUS spa Entrata merci da fornitore_260117_20260612_081143 RIF. LIDO VALENTINA Basato su Ordini cliente 260175. TITOLO MPS 3.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -186577,7 +186585,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 119
+          "_totale_file": 120
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -195111,9 +195119,25 @@
               "link": "https://www.dropbox.com/scl/fi/2l9gtyp9f9vl1xvaywzj0/BRT-Spedizione-154000341191.pdf?rlkey=xhgg4f0eiulr965je43iyhk32&dl=0?raw=1",
               "dimensione_kb": 110,
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BRT Spedizione 154000341191.pdf"
+            },
+            {
+              "nome": "COLDLINE Packing list ordine n°26-11538.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9apk1ge3tk4ubzadb57wh/COLDLINE-Packing-list-ordine-n-26-11538.pdf?rlkey=06pokisxskbpxdpylr99iziq7&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/COLDLINE Packing list ordine n°26-11538.pdf"
+            },
+            {
+              "nome": "UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6va5afbljv8ibkhd3htyn/UNIVAC-Conferma-prenotazione-ritiro-DEL-30_06_2026.pdf?rlkey=jmibgvy1uj2r0amlfhb5e280l&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf"
             }
           ],
-          "_totale_file": 6
+          "_totale_file": 8
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -224321,6 +224345,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-09454 RIF.LA LUMERA.pdf"
                 },
                 {
+                  "nome": "COLDLINE Conferma ordine n°26-11994 RIF.CORRADO COPPIE GUIDE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qqqnai6paz0adbkae9e73/COLDLINE-Conferma-ordine-n-26-11994-RIF.CORRADO-COPPIE-GUIDE.pdf?rlkey=82n1nnbxp5otdw5qeqcf19lnx&dl=0?raw=1",
+                  "dimensione_kb": 96,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-11994 RIF.CORRADO COPPIE GUIDE.pdf"
+                },
+                {
                   "nome": "COLDLINE Ordine dacquisto_250427_20251028_184825 RIF.GRIGLIE E GUIDE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -226889,7 +226921,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3689
+              "_totale_file": 3690
             }
           ],
           "file": [
@@ -226950,6 +226982,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARISTARCO SPA Ordine dacquisto_250351_20260520_164212 RIF. RICAMBI RICAMBI.pdf"
             },
             {
+              "nome": "ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS AGGIORNATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ghqcvgo5pkswjes4l3omr/ARRIS-CONFERMA-ORDINE-2600143-DEL-02_02_2026-viceconti-143-RIF.-HAPPY-MOMENTS-AGGIORNATA.pdf?rlkey=rmh5j8cvzhzu838o8xj9l9znz&dl=0?raw=1",
+              "dimensione_kb": 287,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS AGGIORNATA.pdf"
+            },
+            {
               "nome": "ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -226982,14 +227022,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-11538 RIF.FLAVIA DE MARCO.pdf"
             },
             {
-              "nome": "COLDLINE Conferma ordine n°26-11994 RIF.CORRADO COPPIE GUIDE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qqqnai6paz0adbkae9e73/COLDLINE-Conferma-ordine-n-26-11994-RIF.CORRADO-COPPIE-GUIDE.pdf?rlkey=82n1nnbxp5otdw5qeqcf19lnx&dl=0?raw=1",
-              "dimensione_kb": 96,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-11994 RIF.CORRADO COPPIE GUIDE.pdf"
-            },
-            {
               "nome": "COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx - collegamento.lnk",
               "tipo": "File",
               "icona": "📎",
@@ -227012,6 +227044,14 @@
               "link": "https://www.dropbox.com/scl/fi/et2gpobeevsiuokfkp88p/CUSTOM-SPA-Ordine-dacquisto_250433_20260724_104538-RIF.-MARKET-CRUSCO.pdf?rlkey=74jsualwfkptt8qc9xprgljuc&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CUSTOM SPA Ordine dacquisto_250433_20260724_104538 RIF. MARKET CRUSCO.pdf"
+            },
+            {
+              "nome": "CUSTOM SPA Ordine dacquisto_260183_20260727_164548 RIF. GRUPPO STAMPANTE PER MARKET DA CRUSCO + BATTERIA PER MAG.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rjwfor1fcl60gi0acp310/CUSTOM-SPA-Ordine-dacquisto_260183_20260727_164548-RIF.-GRUPPO-STAMPANTE-PER-MARKET-DA-CRUSCO-BATTERIA-PER-MAG.pdf?rlkey=f5h1jq95gp8xa68eg7j35xbqy&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CUSTOM SPA Ordine dacquisto_260183_20260727_164548 RIF. GRUPPO STAMPANTE PER MARKET DA CRUSCO + BATTERIA PER MAG.pdf"
             },
             {
               "nome": "Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf",
@@ -227068,6 +227108,14 @@
               "link": "https://www.dropbox.com/scl/fi/2r4d6707c0dltieqxo2rq/KAREL-srl-Ordine-dacquisto_260178_20260724_132917.pdf?rlkey=00oe65rzrgjcbvudkj03ak61c&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL srl Ordine dacquisto_260178_20260724_132917.pdf"
+            },
+            {
+              "nome": "KAREL srl Ordine dacquisto_260184_20260727_205122 RIF. Basato su Ordini cliente 260128. 260157. 260320. 260321. 260.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xbn1c270l0t89gl87c7w2/KAREL-srl-Ordine-dacquisto_260184_20260727_205122-RIF.-Basato-su-Ordini-cliente-260128.-260157.-260320.-260321.-260.pdf?rlkey=51tks9g4imo8tc3na3ixqcch1&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL srl Ordine dacquisto_260184_20260727_205122 RIF. Basato su Ordini cliente 260128. 260157. 260320. 260321. 260.pdf"
             },
             {
               "nome": "KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-6976 RIF.S.A.S. DI LASCIO.pdf",
@@ -227142,6 +227190,30 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260170_20260717_123309 RIF. Basato su Ordini cliente 260231. 260237. 260280..pdf"
             },
             {
+              "nome": "NTA SRL Ordine dacquisto_260182_20260727_163809 RIF. LAMPADA E FILTRO AI CARBONI ATTIVI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mygtnyfgea7v1u9ynh4a3/NTA-SRL-Ordine-dacquisto_260182_20260727_163809-RIF.-LAMPADA-E-FILTRO-AI-CARBONI-ATTIVI.pdf?rlkey=qa54134eiz3643dxzz4sltcp5&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/NTA SRL Ordine dacquisto_260182_20260727_163809 RIF. LAMPADA E FILTRO AI CARBONI ATTIVI.pdf"
+            },
+            {
+              "nome": "NUOVA RICAMBI srl Ordine dacquisto_260181_20260727_121511 RIF. DISINCROSTANTE DS-3 PERGEL 1 Kg.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/v85d82aq1wehjrs9u7uw8/NUOVA-RICAMBI-srl-Ordine-dacquisto_260181_20260727_121511-RIF.-DISINCROSTANTE-DS-3-PERGEL-1-Kg.pdf?rlkey=4u4p0jydbsrwaktux3no32iev&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/NUOVA RICAMBI srl Ordine dacquisto_260181_20260727_121511 RIF. DISINCROSTANTE DS-3 PERGEL 1 Kg.pdf"
+            },
+            {
+              "nome": "NUOVA RIRCAMBI CONFERMA Ordini_clienti DEL 27_07_2026.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hoys92ecpvcxdphrwhocg/NUOVA-RIRCAMBI-CONFERMA-Ordini_clienti-DEL-27_07_2026.PDF?rlkey=r9575xi3p2kz6gommpsk3olr0&dl=0?raw=1",
+              "dimensione_kb": 25,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/NUOVA RIRCAMBI CONFERMA Ordini_clienti DEL 27_07_2026.PDF"
+            },
+            {
               "nome": "PADERNO ORDINE SBT-26016461.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -227164,6 +227236,14 @@
               "link": "https://www.dropbox.com/scl/fi/gk42ko03xhv51dmux2qf9/REPA-ITALIA-SRL-Ordine-dacquisto_260177_20260723_185109-RIF.-BRUCIATORE-430x205-mm-PER-GRIGLIA-A-PIETRA-LAVICA-ZANUSSI-RI.pdf?rlkey=osqryz17tv87mah8jbcwb20wt&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260177_20260723_185109 RIF. BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RI.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260180_20260727_113611 RIF. GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richies.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1ayszg2s83opj6n8pwnei/REPA-ITALIA-SRL-Ordine-dacquisto_260180_20260727_113611-RIF.-GUARNIZIONI-RATIONA-E-ELETTROVALVOLE-BREMA-Basato-su-Richies.pdf?rlkey=wlskiodp93npqlfvb5id6wt1t&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260180_20260727_113611 RIF. GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richies.pdf"
             },
             {
               "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
@@ -227246,19 +227326,10 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
             }
           ],
-          "_totale_file": 3733
+          "_totale_file": 3740
         }
       ],
-      "file": [
-        {
-          "nome": "UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf",
-          "tipo": "PDF",
-          "icona": "📄",
-          "link": "https://www.dropbox.com/scl/fi/6va5afbljv8ibkhd3htyn/UNIVAC-Conferma-prenotazione-ritiro-DEL-30_06_2026.pdf?rlkey=jmibgvy1uj2r0amlfhb5e280l&dl=0?raw=1",
-          "dimensione_kb": 108,
-          "path": "/HUB DOCUMENTALE/ACQUISTI/UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf"
-        }
-      ]
+      "file": []
     },
     {
       "nome": "BANCHE E PAGAMENTI",
