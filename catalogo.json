@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-28T08:45:17Z",
-  "totale_file": 26012,
+  "generato": "2026-07-29T00:20:13Z",
+  "totale_file": 26014,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -70446,7 +70446,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7229,
+      "totale_file": 7231,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -125584,6 +125584,30 @@
                   "_totale_file": 27
                 },
                 {
+                  "nome": "FA TU BALANCE",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU BALANCE",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FA TU BALANCE FOTO CUICINA 28_07_2026.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/vrn1porh7pemsitrv26oy/FA-TU-BALANCE-FOTO-CUICINA-28_07_2026.jpg?rlkey=r5msk8w6cjlkmhu5n1r57bz4o&dl=0?raw=1",
+                      "dimensione_kb": 192,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU BALANCE/FA TU BALANCE FOTO CUICINA 28_07_2026.jpg"
+                    },
+                    {
+                      "nome": "FA TU BALANCE FOTO DISPLAY 28_07_2026.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/4v4h44klyippmv1ffsy0l/FA-TU-BALANCE-FOTO-DISPLAY-28_07_2026.jpg?rlkey=cxl30v3cwv9e74wudw6scnb0r&dl=0?raw=1",
+                      "dimensione_kb": 138,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU BALANCE/FA TU BALANCE FOTO DISPLAY 28_07_2026.jpg"
+                    }
+                  ],
+                  "_totale_file": 2
+                },
+                {
                   "nome": "FA TU CANTIERE GENNAIO 2025",
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025",
                   "cartelle": [
@@ -126508,7 +126532,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/Planetaria da banco mod. Plutone 7 Y15, Sirman, vasca smontabile inox 7 litri, testa ribaltabile, 3 accessori in dotazione.pdf"
                 }
               ],
-              "_totale_file": 133
+              "_totale_file": 135
             },
             {
               "nome": "GIOITALY HOTEL SAN GIORGIO",
@@ -128815,7 +128839,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 374
+          "_totale_file": 376
         },
         {
           "nome": "SAN SEVERINO LUCANO",
