@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-29T07:22:16Z",
-  "totale_file": 26053,
+  "generato": "2026-07-29T08:28:09Z",
+  "totale_file": 26057,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -227671,7 +227671,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2407,
+      "totale_file": 2411,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -248552,6 +248552,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DE LUCA COPIA TITOLO INTESA SCADENZA 30_06_2026 FC.jpeg"
             },
             {
+              "nome": "DIENI GIUSEPPE Dettaglio bonifico istantaneo DEL 29_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/kk9zukgb63tukw5pn50m3/DIENI-GIUSEPPE-Dettaglio-bonifico-istantaneo-DEL-29_07_2026.pdf?rlkey=xzjl90e7n0dys189nkzni1x4k&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/DIENI GIUSEPPE Dettaglio bonifico istantaneo DEL 29_07_2026.pdf"
+            },
+            {
               "nome": "De Michele Alejandro s.a.s. Dettaglio bonifico DEL 13_04_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -248880,6 +248888,22 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/KAREL Dettaglio bonifico istantaneo DEL 21_07_2026.pdf"
             },
             {
+              "nome": "KAREL Dettaglio bonifico istantaneo DEL 28_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iinbr62skwdq8ct6msri6/KAREL-Dettaglio-bonifico-istantaneo-DEL-28_07_2026.pdf?rlkey=tl2mn6aw2z11c5z4rrxpt5tb2&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/KAREL Dettaglio bonifico istantaneo DEL 28_07_2026.pdf"
+            },
+            {
+              "nome": "KARL Dettaglio bonifico istantaneo DEL 29_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/aq1eu71mulinz55q1rw13/KARL-Dettaglio-bonifico-istantaneo-DEL-29_07_2026.pdf?rlkey=zk23jhp63s9sqvodus2n0prrw&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/KARL Dettaglio bonifico istantaneo DEL 29_07_2026.pdf"
+            },
+            {
               "nome": "KRUPPS Dettaglio bonifico istantaneo DEL 27_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -248958,6 +248982,14 @@
               "link": "https://www.dropbox.com/scl/fi/ldl1m3a0vlo5gsu2utr78/MECNOSUD-COPIA-TITOLI-BRT-25_09_2025.jpeg?rlkey=445rcrceuqmgskbsqun3dsbxz&dl=0?raw=1",
               "dimensione_kb": 1558,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MECNOSUD COPIA TITOLI BRT 25_09_2025.jpeg"
+            },
+            {
+              "nome": "MECNOSUD Dettaglio bonifico istantaneo DEL 28_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/n6zwnei3lwtbazvh837ih/MECNOSUD-Dettaglio-bonifico-istantaneo-DEL-28_07_2026.pdf?rlkey=t6f0daqhuwncw8ugfvqznygd8&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MECNOSUD Dettaglio bonifico istantaneo DEL 28_07_2026.pdf"
             },
             {
               "nome": "MODULAR COPIA TITOLI BPER 30_03_2026.pdf",
@@ -249272,7 +249304,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2387
+          "_totale_file": 2391
         }
       ],
       "file": []
