@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-30T02:22:54Z",
-  "totale_file": 26057,
+  "generato": "2026-07-30T05:23:43Z",
+  "totale_file": 26070,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6477,
+      "totale_file": 6490,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -736,6 +736,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DE FILIPPO ROCCO Consegna_260543_20260705_214542 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA SOSTITUZIONE ELET.pdf"
             },
             {
+              "nome": "DE FILIPPO ROCCO Consegna_260627_20260729_093052 RIF. DETERGENTE RATIONAL VERDE 1 + BLU 1 Basato su Ordini cliente.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ihrrrbm3j8a704k07rdus/DE-FILIPPO-ROCCO-Consegna_260627_20260729_093052-RIF.-DETERGENTE-RATIONAL-VERDE-1-BLU-1-Basato-su-Ordini-cliente.pdf?rlkey=u2ncbre8lyy8oa3hk9l43ezpv&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DE FILIPPO ROCCO Consegna_260627_20260729_093052 RIF. DETERGENTE RATIONAL VERDE 1 + BLU 1 Basato su Ordini cliente.pdf"
+            },
+            {
               "nome": "DE NICOLO MARCO Consegna_260559_20260713_174602 RIF. HOTELLERIE Basato su Ordini cliente 260270..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1430,6 +1438,14 @@
               "link": "https://www.dropbox.com/scl/fi/7t7568mbgdo48k2syitk9/I-PASTICCI-DI-WALTER-DI-CHIAPPETTA-WALTER-E-LISA-A.-SNC-Consegna_260358_20260602_223939-RIF.-ASSISTENZA-SU-RATIONAL-MODELLO-SCC-WE-G11SN140223894217-SOST.pdf?rlkey=df2hdi82qq9f4ucp4l7qfh198&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Consegna_260358_20260602_223939 RIF. ASSISTENZA SU RATIONAL MODELLO SCC WE G11SN140223894217 SOST.pdf"
+            },
+            {
+              "nome": "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Consegna_260626_20260729_092207 RIF. DETERGENTE RATIONAL ROSSO QTA' 1 Basato su Ordini cliente 26.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ft91gdc4m4eqc76qwz0zy/I-PASTICCI-DI-WALTER-DI-CHIAPPETTA-WALTER-E-LISA-A.-SNC-Consegna_260626_20260729_092207-RIF.-DETERGENTE-RATIONAL-ROSSO-QTA-1-Basato-su-Ordini-cliente-26.pdf?rlkey=aoswzsc9aegm98esnqzpjt955&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Consegna_260626_20260729_092207 RIF. DETERGENTE RATIONAL ROSSO QTA' 1 Basato su Ordini cliente 26.pdf"
             },
             {
               "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260267_20260512_101043 RIF. TAGLIO PER IMPERIA E ADATTATORE.pdf",
@@ -2976,7 +2992,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 370
+          "_totale_file": 372
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -3806,6 +3822,14 @@
               "link": "https://www.dropbox.com/scl/fi/9nyrp2curhnxaqw83hdrl/I-PASTICCI-DI-WALTER-DI-CHIAPPETTA-WALTER-E-LISA-A.-SNC-Fattura-di-vendita_2600150_20260603_214209-RIF.-ASSISTENZA-SU-RATIONAL-MODELLO-SCC-WE-G11SN140223894217-SOST.pdf?rlkey=mmbk17cv6uh53wxewrqwjxyr6&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Fattura di vendita_2600150_20260603_214209 RIF. ASSISTENZA SU RATIONAL MODELLO SCC WE G11SN140223894217 SOST.pdf"
+            },
+            {
+              "nome": "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Fattura di vendita_2600331_20260729_092324 RIF. DETERGENTE RATIONAL ROSSO QTA' 1 Basato su Ordini cliente 26.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/o2cx89pkumj5ogj086bb8/I-PASTICCI-DI-WALTER-DI-CHIAPPETTA-WALTER-E-LISA-A.-SNC-Fattura-di-vendita_2600331_20260729_092324-RIF.-DETERGENTE-RATIONAL-ROSSO-QTA-1-Basato-su-Ordini-cliente-26.pdf?rlkey=f67128d39nby3way9ssh2osqj&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Fattura di vendita_2600331_20260729_092324 RIF. DETERGENTE RATIONAL ROSSO QTA' 1 Basato su Ordini cliente 26.pdf"
             },
             {
               "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Fattura di vendita_2600151_20260608_090802 RIF. ASSISTENZA SU Armadio Coldline modello A70-1ME, matricola 21.pdf",
@@ -4888,7 +4912,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 238
+          "_totale_file": 239
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -5070,6 +5094,14 @@
               "link": "https://www.dropbox.com/scl/fi/fqvwsh0sh17xpim0vne3x/CIDO-SRL-Offerta-di-vendita_260186_20260526_080254-RIF.-ASSISTENZA-SU-CUCINA-ANGELO-PO-CON-FORNO-ASSISTENZA-SU-CUCIN.pdf?rlkey=ot60opkm9xauql6uhn2627jg3&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CIDO SRL Offerta di vendita_260186_20260526_080254 RIF. ASSISTENZA SU CUCINA ANGELO PO CON FORNO ASSISTENZA SU CUCIN.pdf"
+            },
+            {
+              "nome": "CONVENTO FRATI MINORI CAPPUCCINI S.ANTONIO Offerta di vendita_260325_20260729_112957 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/icavr99ad0yjd5vgb494k/CONVENTO-FRATI-MINORI-CAPPUCCINI-S.ANTONIO-Offerta-di-vendita_260325_20260729_112957-RIF.-SEGAOSSI-IN-ALLUMINIO-ANOD.TO-MOD.SE1830A.pdf?rlkey=b1fjja5o81ymiirofj91x9d40&dl=0?raw=1",
+              "dimensione_kb": 80,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CONVENTO FRATI MINORI CAPPUCCINI S.ANTONIO Offerta di vendita_260325_20260729_112957 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A.pdf"
             },
             {
               "nome": "CORRADO MICHELA BINARIO 1 Offerta di vendita_260062_20260703_162211 RIF. FORNO CUPPONE TERZA CAMERA CON PIETRE SABBIATE.pdf",
@@ -6072,6 +6104,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PANAINO SRL UNIPERSONALE Offerta di vendita_260273_20260720_105235 RIF. OFFERTA SPECIALE VETRINA BIBITE KLIMAITALIA SILM COOLER 225.pdf"
             },
             {
+              "nome": "PANAINO SRL UNIPERSONALE Offerta di vendita_260326_20260729_122418 RIF. AFFETTATRICE A GRAVITÀ H275,LAMA INOXø275 mm,TAGLIO UTILE220.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/j9k46qh6cspoc3v2b3e0x/PANAINO-SRL-UNIPERSONALE-Offerta-di-vendita_260326_20260729_122418-RIF.-AFFETTATRICE-A-GRAVIT-H275-LAMA-INOX-275-mm-TAGLIO-UTILE220.pdf?rlkey=ppigy7iqzw8k9zvdkzj5qvwav&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PANAINO SRL UNIPERSONALE Offerta di vendita_260326_20260729_122418 RIF. AFFETTATRICE A GRAVITÀ H275,LAMA INOXø275 mm,TAGLIO UTILE220.pdf"
+            },
+            {
               "nome": "PASSION SUSHI ABDULREMANE MOMADE CASSIMO Offerta di vendita_260200_20260606_173541.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -6120,6 +6160,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PASSION SUSHI ABDULREMANE MOMADE CASSIMO Offerta di vendita_260239_20260626_222922.pdf"
             },
             {
+              "nome": "PASTICCERIA ARTE DOLCIARIA TRECCHINESE Offerta di vendita_260324_20260729_090628.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/57qa5ujbvswu3hyvilfq6/PASTICCERIA-ARTE-DOLCIARIA-TRECCHINESE-Offerta-di-vendita_260324_20260729_090628.pdf?rlkey=rjj62r46lm0ffp9f66jotscvk&dl=0?raw=1",
+              "dimensione_kb": 75,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PASTICCERIA ARTE DOLCIARIA TRECCHINESE Offerta di vendita_260324_20260729_090628.pdf"
+            },
+            {
               "nome": "PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Offerta di vendita_260286_20260723_133037 RIF. FRIGGITRICE A GAS BERTOS' S9GL20M MATRICOLA 0803692082.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -6150,6 +6198,14 @@
               "link": "https://www.dropbox.com/scl/fi/u3cu37b6wt8k4whjo9vuu/PIZZERIA-FORESTIERI-ERSILIO-Offerta-di-vendita_260284_20260722_200031.pdf?rlkey=517x33d99b2o1jjqircp0vgwh&dl=0?raw=1",
               "dimensione_kb": 74,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PIZZERIA FORESTIERI ERSILIO Offerta di vendita_260284_20260722_200031.pdf"
+            },
+            {
+              "nome": "Panificio D'IMPERIO snc Offerta di vendita_260327_20260729_124951 RIF. HOTELLERIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wuup8y3cbserfxq1ey1ww/Panificio-D-IMPERIO-snc-Offerta-di-vendita_260327_20260729_124951-RIF.-HOTELLERIE.pdf?rlkey=6agjkhvmas1phsvo27d8ks5y4&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Panificio D'IMPERIO snc Offerta di vendita_260327_20260729_124951 RIF. HOTELLERIE.pdf"
             },
             {
               "nome": "Panificio MAGIE DI GRANO DI LATRONICO PIETRO E DI LASCIO ANTONIO SNC Offerta di vendita_260229_20260623_112111.pdf",
@@ -6368,7 +6424,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 184
+          "_totale_file": 188
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -64723,6 +64779,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CIDO SRL Ordine cliente_260228_20260622_155455 RIF. ASSISTENZA SU CUCINA ANGELO PO CON FORNO ASSISTENZA SU CUCIN.pdf"
             },
             {
+              "nome": "CONVENTO FRATI MINORI CAPPUCCINI S.ANTONIO Ordine cliente_260333_20260729_113148 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A Basato su Offerte.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/z9unuw88o98v9fz7keskv/CONVENTO-FRATI-MINORI-CAPPUCCINI-S.ANTONIO-Ordine-cliente_260333_20260729_113148-RIF.-SEGAOSSI-IN-ALLUMINIO-ANOD.TO-MOD.SE1830A-Basato-su-Offerte.pdf?rlkey=btruaaylslt7ovat2cjg237sf&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CONVENTO FRATI MINORI CAPPUCCINI S.ANTONIO Ordine cliente_260333_20260729_113148 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A Basato su Offerte.pdf"
+            },
+            {
               "nome": "CORRADO MICHELA BINARIO 1 Ordine cliente_260256_20260707_121312 RIF. Coppia guide tipo L 605 mm per griglie EN60x40 Basato su Off.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -64809,6 +64873,14 @@
               "link": "https://www.dropbox.com/scl/fi/ev64zdx42jyzqacyjs8yq/DE-FILIPPO-ROCCO-Ordine-cliente_260188_20260605_130410-RIF.-LAVASTOVIGLIE-ARISTARCO-CON-POMPA-DI-SCARICO-Basato-su-Offer.pdf?rlkey=h2gqqykz0cpthw56e05lnyggw&dl=0?raw=1",
               "dimensione_kb": 62,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DE FILIPPO ROCCO Ordine cliente_260188_20260605_130410 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO Basato su Offer.pdf"
+            },
+            {
+              "nome": "DE FILIPPO ROCCO Ordine cliente_260332_20260729_093042 RIF. DETERGENTE RATIONAL VERDE 1 + BLU 1.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dbaqq3mbx6wiq6l5thkd1/DE-FILIPPO-ROCCO-Ordine-cliente_260332_20260729_093042-RIF.-DETERGENTE-RATIONAL-VERDE-1-BLU-1.pdf?rlkey=dfp5fdxbm4wbudjq7bbadsfuq&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DE FILIPPO ROCCO Ordine cliente_260332_20260729_093042 RIF. DETERGENTE RATIONAL VERDE 1 + BLU 1.pdf"
             },
             {
               "nome": "DE NICOLO MARCO Ordine cliente_260270_20260713_174550 RIF. HOTELLERIE.pdf",
@@ -65121,6 +65193,14 @@
               "link": "https://www.dropbox.com/scl/fi/pv2sknfwwv04975ngh0f9/HOTEL-PISACANE-S.-R.-L.-Ordine-cliente_260263_20260710_115957-RIF.-ECOJETSAN.pdf?rlkey=w5rhogtgcx2plefilxrgt95sq&dl=0?raw=1",
               "dimensione_kb": 56,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HOTEL PISACANE S. R. L. Ordine cliente_260263_20260710_115957 RIF. ECOJETSAN.pdf"
+            },
+            {
+              "nome": "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Ordine cliente_260331_20260729_092157 RIF. DETERGENTE RATIONAL ROSSO QTA' 1.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7msejdotgj3n2trmtgx7b/I-PASTICCI-DI-WALTER-DI-CHIAPPETTA-WALTER-E-LISA-A.-SNC-Ordine-cliente_260331_20260729_092157-RIF.-DETERGENTE-RATIONAL-ROSSO-QTA-1.pdf?rlkey=uo7cyd6g6fkmg46yd9c1uui6d&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Ordine cliente_260331_20260729_092157 RIF. DETERGENTE RATIONAL ROSSO QTA' 1.pdf"
             },
             {
               "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Ordine cliente_260229_20260624_094227 RIF. BACINELLLE INOX E POLIPROPILENE.pdf",
@@ -65659,6 +65739,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PANAINO SRL UNIPERSONALE Ordine cliente_260231_20260625_103300.pdf"
             },
             {
+              "nome": "PANAINO SRL UNIPERSONALE Ordine cliente_260334_20260729_122457 RIF. AFFETTATRICE A GRAVITÀ H275,LAMA INOXø275 mm,TAGLIO UTILE220.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hojb398khgvlco8jxlo2n/PANAINO-SRL-UNIPERSONALE-Ordine-cliente_260334_20260729_122457-RIF.-AFFETTATRICE-A-GRAVIT-H275-LAMA-INOX-275-mm-TAGLIO-UTILE220.pdf?rlkey=g6sh7um09mrxgpirjz6g191gn&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PANAINO SRL UNIPERSONALE Ordine cliente_260334_20260729_122457 RIF. AFFETTATRICE A GRAVITÀ H275,LAMA INOXø275 mm,TAGLIO UTILE220.pdf"
+            },
+            {
               "nome": "PANIFICIO PANE DI CASA MIA di MASSIMO NOCITO Ordine cliente_260286_20260720_110856.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -65745,6 +65833,14 @@
               "link": "https://www.dropbox.com/scl/fi/zwsmk6dbktjr529v1cya3/Panificio-ARENA-sas-Ordine-cliente_260299_20260722_124307-RIF.-LAMA-SEGAOSSA-1840xh16-mm-DIAMANTATA-QTA-3.pdf?rlkey=fjo7bnbaj22goqzvv7txbju83&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio ARENA sas Ordine cliente_260299_20260722_124307 RIF. LAMA SEGAOSSA 1840xh16 mm DIAMANTATA QTA' 3.pdf"
+            },
+            {
+              "nome": "Panificio D'IMPERIO snc Ordine cliente_260336_20260729_155505 RIF. HOTELLERIE Basato su Offerte di vendita 260327..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ji6sztahoobmdh4uaq244/Panificio-D-IMPERIO-snc-Ordine-cliente_260336_20260729_155505-RIF.-HOTELLERIE-Basato-su-Offerte-di-vendita-260327..pdf?rlkey=ze9emxxpg84twdu04dxefcy27&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio D'IMPERIO snc Ordine cliente_260336_20260729_155505 RIF. HOTELLERIE Basato su Offerte di vendita 260327..pdf"
             },
             {
               "nome": "RI. SA. LU srls Ordine cliente_260197_20260609_132712 RIF. DETERGENTE E GUARNIZIONE RATIONAL.pdf",
@@ -65987,6 +66083,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/TRATTORIA TICCIABBACA di MAIORANA FRANCESCA Ordine cliente_260224_20260622_101616 RIF. CUCINA 4 FUOCHI MODULAR Basato su Offerte di vendita 260226..pdf"
             },
             {
+              "nome": "TRATTORIA TICCIABBACA di MAIORANA FRANCESCA Ordine cliente_260335_20260729_122924 RIF. TAVOLO A GIORNO IN ACCIAIO INOX AISI 304 CON ALZATINA CON RI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cf7q72hj4l0ehoj7hj7kg/TRATTORIA-TICCIABBACA-di-MAIORANA-FRANCESCA-Ordine-cliente_260335_20260729_122924-RIF.-TAVOLO-A-GIORNO-IN-ACCIAIO-INOX-AISI-304-CON-ALZATINA-CON-RI.pdf?rlkey=tnzgj3k90yrbor18ilnslfsbr&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/TRATTORIA TICCIABBACA di MAIORANA FRANCESCA Ordine cliente_260335_20260729_122924 RIF. TAVOLO A GIORNO IN ACCIAIO INOX AISI 304 CON ALZATINA CON RI.pdf"
+            },
+            {
               "nome": "TRE FONTANE SNC DI ACCORINTI SALVATORE E ACCORINTI MARTINA Ordine cliente_260283_20260717_182355 RIF. MENSOLA A PONTE IN ACCIAIO INOX AISI 304 1 RIPIANO LISCIO, 4.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -66067,7 +66171,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 201
+          "_totale_file": 207
         }
       ],
       "file": []
