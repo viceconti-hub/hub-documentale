@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-30T07:25:03Z",
-  "totale_file": 26079,
+  "generato": "2026-07-30T08:29:16Z",
+  "totale_file": 26082,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -227847,7 +227847,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2411,
+      "totale_file": 2414,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -248648,6 +248648,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE Dettaglio bonifico istantaneo DEL 21_07_2026.pdf"
             },
             {
+              "nome": "COLDLINE Dettaglio bonifico istantaneo DEL 29_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fj3b0nujcbuqkrtvhmqx2/COLDLINE-Dettaglio-bonifico-istantaneo-DEL-29_07_2026.pdf?rlkey=82cisnh7c3fjtkvhc3vv1nhus&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COLDLINE Dettaglio bonifico istantaneo DEL 29_07_2026.pdf"
+            },
+            {
               "nome": "COLDLINE IMPORTO TITOLI 04_03_2026.xlsx",
               "tipo": "Excel",
               "icona": "📊",
@@ -249360,6 +249368,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/SIRMAN COPIA TITOLO BPER SCADENZA 10_09_2026.pdf"
             },
             {
+              "nome": "SIRMAN COPIA TITOLO BPER SCADENZA 30_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/knk9kbrai5exbwcopiks0/SIRMAN-COPIA-TITOLO-BPER-SCADENZA-30_09_2026.pdf?rlkey=80ngepprhabjuyuywfzz3u0k1&dl=0?raw=1",
+              "dimensione_kb": 675,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/SIRMAN COPIA TITOLO BPER SCADENZA 30_09_2026.pdf"
+            },
+            {
               "nome": "SIRMAN COPIA TITOLO MPS SPEDIZIONE 21_05_2026 SCADENZA 31_07_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -249382,6 +249398,14 @@
               "link": "https://www.dropbox.com/scl/fi/0nxp9mejfgdoc4b0fgj39/SIRMAN-Dettaglio-bonifico-istantaneo-DEL-13_04_2026.pdf?rlkey=qsnm7ocicjzf0ujz65a74ww63&dl=0?raw=1",
               "dimensione_kb": 108,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/SIRMAN Dettaglio bonifico istantaneo DEL 13_04_2026.pdf"
+            },
+            {
+              "nome": "SIRMAN RICEVUTA AR DEL 29_07_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7r1rjepe3btt05ty9me9q/SIRMAN-RICEVUTA-AR-DEL-29_07_2026.pdf?rlkey=e3n7nfeyso4fcoq1fpkio5k26&dl=0?raw=1",
+              "dimensione_kb": 685,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/SIRMAN RICEVUTA AR DEL 29_07_2026.pdf"
             },
             {
               "nome": "STAFF Dettaglio bonifico istantaneo DEL 26_05_2026.pdf",
@@ -249480,7 +249504,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
             }
           ],
-          "_totale_file": 2391
+          "_totale_file": 2394
         }
       ],
       "file": []
