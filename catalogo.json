@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-07-30T05:23:43Z",
-  "totale_file": 26070,
+  "generato": "2026-07-30T07:25:03Z",
+  "totale_file": 26079,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -185969,7 +185969,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4937,
+      "totale_file": 4946,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -186007,6 +186007,14 @@
               "link": "https://www.dropbox.com/scl/fi/ox435c63qn7nwhulwsvkp/AIRFAN-dI-MANENTI-C.-s.n.c.-Entrata-merci-da-fornitore_260083_20260526_095541-RIF.-MACELLERIA-DE-DIEGO-Basato-su-Ordini-cliente-260143.-Basato-MACELLERIA-DE-DIEGO-FILTRI-PER-CENTRALINA.pdf?rlkey=nz527lzf4y1b8hcanp4wgkkdi&dl=0?raw=1",
               "dimensione_kb": 56,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/AIRFAN dI MANENTI & C. s.n.c. Entrata merci da fornitore_260083_20260526_095541 RIF. MACELLERIA DE DIEGO Basato su Ordini cliente 260143. Basato MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf"
+            },
+            {
+              "nome": "AIRFAN dI MANENTI & C. s.n.c. Entrata merci da fornitore_260160_20260729_090540 RIF. VENTILATORE PER YOU MARINA SRL Basato su Ordini d'acquisto 2.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8eib76df182q9di9y2sgo/AIRFAN-dI-MANENTI-C.-s.n.c.-Entrata-merci-da-fornitore_260160_20260729_090540-RIF.-VENTILATORE-PER-YOU-MARINA-SRL-Basato-su-Ordini-d-acquisto-2.pdf?rlkey=26mdb736lzfiy9m9cz6kqmyfi&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/AIRFAN dI MANENTI & C. s.n.c. Entrata merci da fornitore_260160_20260729_090540 RIF. VENTILATORE PER YOU MARINA SRL Basato su Ordini d'acquisto 2.pdf"
             },
             {
               "nome": "ALI GROUP SRL Entrata merci da fornitore_260128_20260618_184219 RIF. LA TANA GROUP SCHEDA RELE' PER MANGANO GRANDIMPIANTI Basato.pdf",
@@ -186649,6 +186657,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260149_20260724_094100 RIF. GRIGLIA PER GRIGLIA A PIETRA LAVICA RISTORANTE SANTA LUCIA.pdf"
             },
             {
+              "nome": "MODULAR PROFESSIONAL srl Entrata merci da fornitore_260159_20260729_085220 RIF. Guarnizione porta forno QUBI6 DL Basato su Ordini d'acquisto.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9rwfta10gd56bpbfb0eem/MODULAR-PROFESSIONAL-srl-Entrata-merci-da-fornitore_260159_20260729_085220-RIF.-Guarnizione-porta-forno-QUBI6-DL-Basato-su-Ordini-d-acquisto.pdf?rlkey=ih7c29yfxlrwcwa7d9nrq1eeb&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260159_20260729_085220 RIF. Guarnizione porta forno QUBI6 DL Basato su Ordini d'acquisto.pdf"
+            },
+            {
               "nome": "MORETTI FIMEL DDT DICEMBRE 2025 RIF.FA' TU.JPEG",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -186977,7 +186993,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 125
+          "_totale_file": 127
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -226409,6 +226425,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.MARATEA SERVIZI.pdf"
                 },
                 {
+                  "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.TICCIABACA .pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wvkbfej92mxazbgmjobk4/MODULAR-CONFERMA-MD_SaleOrdForm_2022-RIF.TICCIABACA.pdf?rlkey=4mdonqtcs65flgytci7kz0l9z&dl=0?raw=1",
+                  "dimensione_kb": 129,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.TICCIABACA .pdf"
+                },
+                {
                   "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.YELLOW BOAT_BRUCIATORI.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -226449,12 +226473,36 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA ORDINE 26_02641 MD_SaleOrdForm_2022 RIF.MeM.pdf"
                 },
                 {
+                  "nome": "MODULAR CONFERMA ORDINE 26_05945 MD_SaleOrdForm_2022 RIF. GUARNIZIONI QUBI 6.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7e1b0y5ogbyvoczkwbepg/MODULAR-CONFERMA-ORDINE-26_05945-MD_SaleOrdForm_2022-RIF.-GUARNIZIONI-QUBI-6.pdf?rlkey=644a98bxyzkhcw2npzlune62f&dl=0?raw=1",
+                  "dimensione_kb": 140,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA ORDINE 26_05945 MD_SaleOrdForm_2022 RIF. GUARNIZIONI QUBI 6.pdf"
+                },
+                {
+                  "nome": "MODULAR CONFERMA ORDINE 26_06023 MD_SaleOrdForm_2022 RIF. DETERGENTE FORNO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wbzbhimrp0wx4jiesf3tl/MODULAR-CONFERMA-ORDINE-26_06023-MD_SaleOrdForm_2022-RIF.-DETERGENTE-FORNO.pdf?rlkey=o5mouka7n56jxugm2lke9vgg1&dl=0?raw=1",
+                  "dimensione_kb": 140,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA ORDINE 26_06023 MD_SaleOrdForm_2022 RIF. DETERGENTE FORNO.pdf"
+                },
+                {
                   "nome": "MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF. SANTA LUCIA GRIGLIE IN GHISA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/dufuljpdgrsudto9f4vo6/MODULAR-CONFERMA-ORDINE-MD_SaleOrdForm_2022-RIF.-SANTA-LUCIA-GRIGLIE-IN-GHISA.pdf?rlkey=2oe9r1187vfvutl5lwyut16he&dl=0?raw=1",
                   "dimensione_kb": 140,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF. SANTA LUCIA GRIGLIE IN GHISA.pdf"
+                },
+                {
+                  "nome": "MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.SANTA LUCIA TELAIO E GRIGLIE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qkpi7hynlj7cuh5qhcpw2/MODULAR-CONFERMA-ORDINE-MD_SaleOrdForm_2022-RIF.SANTA-LUCIA-TELAIO-E-GRIGLIE.pdf?rlkey=ilkgswaogovh9d54b3h1obh1r&dl=0?raw=1",
+                  "dimensione_kb": 142,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.SANTA LUCIA TELAIO E GRIGLIE.pdf"
                 },
                 {
                   "nome": "MODULAR FOTO CUCINA ILAMA.jpg",
@@ -226985,6 +227033,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260163_20260708_122552.pdf"
                 },
                 {
+                  "nome": "REPA ITALIA SRL Ordine dacquisto_260177_20260723_185109 RIF. BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gk42ko03xhv51dmux2qf9/REPA-ITALIA-SRL-Ordine-dacquisto_260177_20260723_185109-RIF.-BRUCIATORE-430x205-mm-PER-GRIGLIA-A-PIETRA-LAVICA-ZANUSSI-RI.pdf?rlkey=osqryz17tv87mah8jbcwb20wt&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260177_20260723_185109 RIF. BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RI.pdf"
+                },
+                {
+                  "nome": "REPA ITALIA SRL Ordine dacquisto_260180_20260727_113611 RIF. GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richies.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1ayszg2s83opj6n8pwnei/REPA-ITALIA-SRL-Ordine-dacquisto_260180_20260727_113611-RIF.-GUARNIZIONI-RATIONA-E-ELETTROVALVOLE-BREMA-Basato-su-Richies.pdf?rlkey=wlskiodp93npqlfvb5id6wt1t&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260180_20260727_113611 RIF. GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richies.pdf"
+                },
+                {
                   "nome": "REPA ORDINE_CLIENTE-1010970-170212 RIF.MADI MIXER+MAG.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -227185,12 +227249,28 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/TAMAI CONFERMA ORDINE 125 VICECONTI RIF. AI CARCONI.pdf"
                 },
                 {
+                  "nome": "TAMAI CONFERMA ORDINE 176 VICECONTI RIF.MS NAPOLEONE+MAG.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vayzn988md7h9zmyfxf0j/TAMAI-CONFERMA-ORDINE-176-VICECONTI-RIF.MS-NAPOLEONE-MAG.pdf?rlkey=91z6sw7i56bi0z7lfq58x18i9&dl=0?raw=1",
+                  "dimensione_kb": 187,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/TAMAI CONFERMA ORDINE 176 VICECONTI RIF.MS NAPOLEONE+MAG.pdf"
+                },
+                {
                   "nome": "TAMAI S.R.L. Ordine dacquisto_260131_20260610_055501 RIF. AI CARCONI Basato su Ordini cliente 260200..pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/w2ucdxpybv7wklkrl3yob/TAMAI-S.R.L.-Ordine-dacquisto_260131_20260610_055501-RIF.-AI-CARCONI-Basato-su-Ordini-cliente-260200..pdf?rlkey=4ihwydik0e81am6cu91h1iqzx&dl=0?raw=1",
                   "dimensione_kb": 67,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/TAMAI S.R.L. Ordine dacquisto_260131_20260610_055501 RIF. AI CARCONI Basato su Ordini cliente 260200..pdf"
+                },
+                {
+                  "nome": "TAMAI S.R.L. Ordine dacquisto_260173_20260721_113231 RIF. MS NAPOLEONE Basato su Ordini cliente 260294..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qdupdtjrw3ksvmcjuj8vr/TAMAI-S.R.L.-Ordine-dacquisto_260173_20260721_113231-RIF.-MS-NAPOLEONE-Basato-su-Ordini-cliente-260294..pdf?rlkey=0k3t3qbj2bs8wrzykcmgmyy1c&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/TAMAI S.R.L. Ordine dacquisto_260173_20260721_113231 RIF. MS NAPOLEONE Basato su Ordini cliente 260294..pdf"
                 },
                 {
                   "nome": "TECNOINOX Conferma ordine cliente RIF.OCTO SRLS.PDF",
@@ -227401,7 +227481,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3701
+              "_totale_file": 3709
             }
           ],
           "file": [
@@ -227412,6 +227492,14 @@
               "link": "https://www.dropbox.com/scl/fi/ika9mwp0ntfdc4x776kt8/AIRFAN-CONFERMA-3523-VICECONTI-SNC-CO-RIF.YOU-MARINA.pdf?rlkey=2bstfmmsbi42tfearcnw7bft7&dl=0?raw=1",
               "dimensione_kb": 291,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN CONFERMA 3523 VICECONTI SNC CO RIF.YOU MARINA.pdf"
+            },
+            {
+              "nome": "AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260191_20260729_090517 RIF. VENTILATORE PER YOU MARINA SRL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/383fyugvw568a6rxfzyoq/AIRFAN-dI-MANENTI-C.-s.n.c.-Ordine-dacquisto_260191_20260729_090517-RIF.-VENTILATORE-PER-YOU-MARINA-SRL.pdf?rlkey=41ug60susrge4kidu948ers5g&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/AIRFAN dI MANENTI & C. s.n.c. Ordine dacquisto_260191_20260729_090517 RIF. VENTILATORE PER YOU MARINA SRL.pdf"
             },
             {
               "nome": "ARISTARCO S.P.A. Ordine dacquisto_260188_20260728_133037 RIF. AI CARCONI MATRICOLA 62720616.pdf",
@@ -227438,6 +227526,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS AGGIORNATA.pdf"
             },
             {
+              "nome": "COLD LINE srl Ordine dacquisto_260195_20260729_164800 RIF. NERA SRL matricola 012300627 il codice corretto e aggiornato.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1vouyr3stqsvosuxbzghb/COLD-LINE-srl-Ordine-dacquisto_260195_20260729_164800-RIF.-NERA-SRL-matricola-012300627-il-codice-corretto-e-aggiornato.pdf?rlkey=xcr01purni2mbwd8kfy0acywv&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260195_20260729_164800 RIF. NERA SRL matricola 012300627 il codice corretto e aggiornato.pdf"
+            },
+            {
               "nome": "COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -227452,6 +227548,30 @@
               "link": "https://www.dropbox.com/scl/fi/3v1z91ijpahvmftzisjhy/COLDLINE-Conferma-ordine-n-26-11538-RIF.FLAVIA-DE-MARCO.pdf?rlkey=1bc7r28imwhig4ihsmtnj75rb&dl=0?raw=1",
               "dimensione_kb": 91,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-11538 RIF.FLAVIA DE MARCO.pdf"
+            },
+            {
+              "nome": "COLDLINE Conferma ordine n°26-13324 RIF.M&M GARANZIA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/l64mtp42ygh01eut6lff5/COLDLINE-Conferma-ordine-n-26-13324-RIF.M-M-GARANZIA.pdf?rlkey=68g6f43bppw51otbntxr0gbg2&dl=0?raw=1",
+              "dimensione_kb": 96,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13324 RIF.M&M GARANZIA.pdf"
+            },
+            {
+              "nome": "COLDLINE Conferma ordine n°26-13515 RIF. CORRADO MICHELA GARANZIA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dkk22k98yj9owq75v8vxw/COLDLINE-Conferma-ordine-n-26-13515-RIF.-CORRADO-MICHELA-GARANZIA.pdf?rlkey=54k26n00vb25dmli84a0fd3ky&dl=0?raw=1",
+              "dimensione_kb": 97,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13515 RIF. CORRADO MICHELA GARANZIA.pdf"
+            },
+            {
+              "nome": "COLDLINE Conferma ordine n°26-13538 RIF. NERA VENTOLA VISION.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/r011ux70zbohe1qlmk0lz/COLDLINE-Conferma-ordine-n-26-13538-RIF.-NERA-VENTOLA-VISION.pdf?rlkey=ze602ecen1jpr1k3v36wrms6a&dl=0?raw=1",
+              "dimensione_kb": 97,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13538 RIF. NERA VENTOLA VISION.pdf"
             },
             {
               "nome": "COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx - collegamento.lnk",
@@ -227510,14 +227630,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ECOSAN SRL Ordine dacquisto_260168_20260715_124344.pdf"
             },
             {
-              "nome": "FIMAR s.p.a. Ordine dacquisto_260185_20260728_084123 RIF. TAVOLO REFRIGERATO VENTILATO -2+8°C.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/dd6otjq747dsrgy9skb1a/FIMAR-s.p.a.-Ordine-dacquisto_260185_20260728_084123-RIF.-TAVOLO-REFRIGERATO-VENTILATO-2-8-C.pdf?rlkey=p34je5b605wkjylfmv08gaky3&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260185_20260728_084123 RIF. TAVOLO REFRIGERATO VENTILATO -2+8°C.pdf"
-            },
-            {
               "nome": "GO PACK S.R.L. a socio unico Ordine dacquisto_260169_20260720_120819.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -227566,6 +227678,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL srl Ordine dacquisto_260184_20260728_101841 RIF. Basato su Ordini cliente 260128. 260157. 260320. 260321. 260.pdf"
             },
             {
+              "nome": "KAREL srl Ordine dacquisto_260189_20260729_083049 RIF. LIDO SAN FRANCESCO Basato su Ordini cliente 260320..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u6viag4ckptv5w818gjxs/KAREL-srl-Ordine-dacquisto_260189_20260729_083049-RIF.-LIDO-SAN-FRANCESCO-Basato-su-Ordini-cliente-260320..pdf?rlkey=34kkrofviicptr0qfr7ajwpit&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL srl Ordine dacquisto_260189_20260729_083049 RIF. LIDO SAN FRANCESCO Basato su Ordini cliente 260320..pdf"
+            },
+            {
               "nome": "MECNOSUD CONFERMA 7449 DEL 23_07_2026 VICECONTI SNC - R_7449 RIF. MARATEA SERVIZI SPIRALE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -227574,44 +227694,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MECNOSUD CONFERMA 7449 DEL 23_07_2026 VICECONTI SNC - R_7449 RIF. MARATEA SERVIZI SPIRALE.pdf"
             },
             {
-              "nome": "MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.TICCIABACA .pdf",
+              "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260190_20260729_085146 RIF. Guarnizione porta forno QUBI6 DL.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/wvkbfej92mxazbgmjobk4/MODULAR-CONFERMA-MD_SaleOrdForm_2022-RIF.TICCIABACA.pdf?rlkey=4mdonqtcs65flgytci7kz0l9z&dl=0?raw=1",
-              "dimensione_kb": 129,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.TICCIABACA .pdf"
-            },
-            {
-              "nome": "MODULAR CONFERMA ORDINE 26_05945 MD_SaleOrdForm_2022 RIF. GUARNIZIONI QUBI 6.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/7e1b0y5ogbyvoczkwbepg/MODULAR-CONFERMA-ORDINE-26_05945-MD_SaleOrdForm_2022-RIF.-GUARNIZIONI-QUBI-6.pdf?rlkey=644a98bxyzkhcw2npzlune62f&dl=0?raw=1",
-              "dimensione_kb": 140,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26_05945 MD_SaleOrdForm_2022 RIF. GUARNIZIONI QUBI 6.pdf"
-            },
-            {
-              "nome": "MODULAR CONFERMA ORDINE 26_06023 MD_SaleOrdForm_2022 RIF. DETERGENTE FORNO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/wbzbhimrp0wx4jiesf3tl/MODULAR-CONFERMA-ORDINE-26_06023-MD_SaleOrdForm_2022-RIF.-DETERGENTE-FORNO.pdf?rlkey=o5mouka7n56jxugm2lke9vgg1&dl=0?raw=1",
-              "dimensione_kb": 140,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE 26_06023 MD_SaleOrdForm_2022 RIF. DETERGENTE FORNO.pdf"
-            },
-            {
-              "nome": "MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.SANTA LUCIA TELAIO E GRIGLIE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qkpi7hynlj7cuh5qhcpw2/MODULAR-CONFERMA-ORDINE-MD_SaleOrdForm_2022-RIF.SANTA-LUCIA-TELAIO-E-GRIGLIE.pdf?rlkey=ilkgswaogovh9d54b3h1obh1r&dl=0?raw=1",
-              "dimensione_kb": 142,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA ORDINE MD_SaleOrdForm_2022 RIF.SANTA LUCIA TELAIO E GRIGLIE.pdf"
-            },
-            {
-              "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260162_20260708_122004 RIF. DETERGENTE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/dl61ny4x2bo8klgl2qowc/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260162_20260708_122004-RIF.-DETERGENTE.pdf?rlkey=15z23zjk71rlq0vmd0dy7whzq&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/fapigc7sn167aax58y161/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260190_20260729_085146-RIF.-Guarnizione-porta-forno-QUBI6-DL.pdf?rlkey=ilfb1rlq2s0r5tkdo79mv8s2b&dl=0?raw=1",
               "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260162_20260708_122004 RIF. DETERGENTE.pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260190_20260729_085146 RIF. Guarnizione porta forno QUBI6 DL.pdf"
             },
             {
               "nome": "MORINI s.r.l. Ordine dacquisto_260170_20260717_123309 RIF. Basato su Ordini cliente 260231. 260237. 260280..pdf",
@@ -227662,28 +227750,28 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26016461.pdf"
             },
             {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260163_20260708_122552.pdf",
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260194_20260729_162152 RIF. ELETTROVALVOLE BREMA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/5kzhv5nn7p9aq9xcu22p6/REPA-ITALIA-SRL-Ordine-dacquisto_260163_20260708_122552.pdf?rlkey=2erwdz45vv4zfqdb3ylet57yu&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260163_20260708_122552.pdf"
+              "link": "https://www.dropbox.com/scl/fi/taivhutu29lqg921t7a9e/REPA-ITALIA-SRL-Ordine-dacquisto_260194_20260729_162152-RIF.-ELETTROVALVOLE-BREMA.pdf?rlkey=58t4onzpx1u0c0qehes4f4evg&dl=0?raw=1",
+              "dimensione_kb": 28,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260194_20260729_162152 RIF. ELETTROVALVOLE BREMA.pdf"
             },
             {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260177_20260723_185109 RIF. BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RI.pdf",
+              "nome": "SIRMAN CONFERMA ORDINE 2010260037 RIF.O3 TOWER PER EUROPAPOLICE.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gk42ko03xhv51dmux2qf9/REPA-ITALIA-SRL-Ordine-dacquisto_260177_20260723_185109-RIF.-BRUCIATORE-430x205-mm-PER-GRIGLIA-A-PIETRA-LAVICA-ZANUSSI-RI.pdf?rlkey=osqryz17tv87mah8jbcwb20wt&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260177_20260723_185109 RIF. BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RI.pdf"
+              "link": "https://www.dropbox.com/scl/fi/cqatz4jlg9qvv63aqdvq7/SIRMAN-CONFERMA-ORDINE-2010260037-RIF.O3-TOWER-PER-EUROPAPOLICE.pdf?rlkey=kx1uxl9p9bsmby379lh7df3og&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010260037 RIF.O3 TOWER PER EUROPAPOLICE.pdf"
             },
             {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260180_20260727_113611 RIF. GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richies.pdf",
+              "nome": "SIRMAN CONFERMA ORDINE 2010260038 RIF. PLUTONE 7 HAPPY.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/1ayszg2s83opj6n8pwnei/REPA-ITALIA-SRL-Ordine-dacquisto_260180_20260727_113611-RIF.-GUARNIZIONI-RATIONA-E-ELETTROVALVOLE-BREMA-Basato-su-Richies.pdf?rlkey=wlskiodp93npqlfvb5id6wt1t&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260180_20260727_113611 RIF. GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richies.pdf"
+              "link": "https://www.dropbox.com/scl/fi/xur2uk851uuxwon2mjbcq/SIRMAN-CONFERMA-ORDINE-2010260038-RIF.-PLUTONE-7-HAPPY.pdf?rlkey=dik4clorl6q5qe32cx9n0upon&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010260038 RIF. PLUTONE 7 HAPPY.pdf"
             },
             {
               "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
@@ -227708,22 +227796,6 @@
               "link": "https://www.dropbox.com/scl/fi/cn89mesfhm6g3yi6wlqca/SLAYER-BLADES-SRL-Ordine-dacquisto_260171_20260720_115146.pdf?rlkey=d3gnzey0i7j0281n41potdkth&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SLAYER BLADES SRL Ordine dacquisto_260171_20260720_115146.pdf"
-            },
-            {
-              "nome": "TAMAI CONFERMA ORDINE 176 VICECONTI RIF.MS NAPOLEONE+MAG.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/vayzn988md7h9zmyfxf0j/TAMAI-CONFERMA-ORDINE-176-VICECONTI-RIF.MS-NAPOLEONE-MAG.pdf?rlkey=91z6sw7i56bi0z7lfq58x18i9&dl=0?raw=1",
-              "dimensione_kb": 187,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TAMAI CONFERMA ORDINE 176 VICECONTI RIF.MS NAPOLEONE+MAG.pdf"
-            },
-            {
-              "nome": "TAMAI S.R.L. Ordine dacquisto_260173_20260721_113231 RIF. MS NAPOLEONE Basato su Ordini cliente 260294..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qdupdtjrw3ksvmcjuj8vr/TAMAI-S.R.L.-Ordine-dacquisto_260173_20260721_113231-RIF.-MS-NAPOLEONE-Basato-su-Ordini-cliente-260294..pdf?rlkey=0k3t3qbj2bs8wrzykcmgmyy1c&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TAMAI S.R.L. Ordine dacquisto_260173_20260721_113231 RIF. MS NAPOLEONE Basato su Ordini cliente 260294..pdf"
             },
             {
               "nome": "TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf",
@@ -227766,7 +227838,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
             }
           ],
-          "_totale_file": 3746
+          "_totale_file": 3753
         }
       ],
       "file": []
