@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-04T05:32:16Z",
-  "totale_file": 26179,
+  "generato": "2026-08-04T07:39:40Z",
+  "totale_file": 26182,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -186681,7 +186681,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4955,
+      "totale_file": 4958,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -186879,6 +186879,14 @@
               "link": "https://www.dropbox.com/scl/fi/8xsyim2uj5u5v59uzylwu/COLD-LINE-srl-Entrata-merci-da-fornitore_260164_20260730_220535-RIF.-RICAMBI-PER-STRADELLA-NERA-MAG-Basato-su-Ordini-d-acquisto.pdf?rlkey=1pmpkkjczq0sfm0zjoaigvqb9&dl=0?raw=1",
               "dimensione_kb": 72,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260164_20260730_220535 RIF. RICAMBI PER STRADELLA, NERA, MAG Basato su Ordini d'acquisto.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260165_20260801_215144 RIF. FLAVIA DE MARCO + MAG Basato su Ordini cliente 260257. Basat.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gg4hzdtegth2iecba5u0r/COLD-LINE-srl-Entrata-merci-da-fornitore_260165_20260801_215144-RIF.-FLAVIA-DE-MARCO-MAG-Basato-su-Ordini-cliente-260257.-Basat.pdf?rlkey=ownew40yfrzoknatftzkh3nt0&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260165_20260801_215144 RIF. FLAVIA DE MARCO + MAG Basato su Ordini cliente 260257. Basat.pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -187737,7 +187745,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 131
+          "_totale_file": 132
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -228462,6 +228470,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260187_20260728_104923 RIF. Basato su Ordini cliente 260306. 260309. 260326. 260327..pdf"
             },
             {
+              "nome": "MORINI s.r.l. Ordine dacquisto_260196_20260803_102008 RIF. PANIFICIO D'IMPERIO Basato su Ordini cliente 260336..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/88kocmbuq8dgsf6ah350g/MORINI-s.r.l.-Ordine-dacquisto_260196_20260803_102008-RIF.-PANIFICIO-D-IMPERIO-Basato-su-Ordini-cliente-260336..pdf?rlkey=lve21yibh8keproz8od0bpr1n&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260196_20260803_102008 RIF. PANIFICIO D'IMPERIO Basato su Ordini cliente 260336..pdf"
+            },
+            {
               "nome": "NTA SRL Ordine dacquisto_260182_20260727_163809 RIF. LAMPADA E FILTRO AI CARBONI ATTIVI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -228620,9 +228636,17 @@
               "link": "https://www.dropbox.com/scl/fi/nw8yvy8ocdts50py55xsa/UNIVAC-GROUP-SRL-Ordine-dacquisto_260160_20260708_101037.pdf?rlkey=wxqwxi2alhamm1yvswfg4z9l7&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
+            },
+            {
+              "nome": "VAN BERKEL CONFERMA ORDINE 001761 RIF.PALETTA SCHEDA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8m1fd4g0qe2xb6j10kb1k/VAN-BERKEL-CONFERMA-ORDINE-001761-RIF.PALETTA-SCHEDA.pdf?rlkey=ak8kcbm3n5wscghjjvhgqfler&dl=0?raw=1",
+              "dimensione_kb": 131,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORDINE 001761 RIF.PALETTA SCHEDA.pdf"
             }
           ],
-          "_totale_file": 3758
+          "_totale_file": 3760
         }
       ],
       "file": []
