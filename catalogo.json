@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-04T09:01:25Z",
-  "totale_file": 26182,
+  "generato": "2026-08-05T00:23:20Z",
+  "totale_file": 26183,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -71486,7 +71486,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7231,
+      "totale_file": 7232,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -115012,6 +115012,22 @@
                       "_totale_file": 2
                     },
                     {
+                      "nome": "RATIONAL COMBIMASTER E61MI18032653072",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SIRTAKI AREA TECNICA/RATIONAL COMBIMASTER E61MI18032653072",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "RATIONAL COMBIMASTER E61MI18032653072 ESPLOSO RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/xipi1mtmu2huc2cicq3e6/RATIONAL-COMBIMASTER-E61MI18032653072-ESPLOSO-RICAMBI.pdf?rlkey=y366cuc8hsnoycjvsfc8tejb7&dl=0?raw=1",
+                          "dimensione_kb": 1612,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SIRTAKI AREA TECNICA/RATIONAL COMBIMASTER E61MI18032653072/RATIONAL COMBIMASTER E61MI18032653072 ESPLOSO RICAMBI.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "RATIONAL ICOMBI PRO 61 ELETTRICO",
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SIRTAKI AREA TECNICA/RATIONAL ICOMBI PRO 61 ELETTRICO",
                       "cartelle": [],
@@ -115054,7 +115070,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SIRTAKI AREA TECNICA/PRODOTTI per CLIENTE.pdf"
                     }
                   ],
-                  "_totale_file": 33
+                  "_totale_file": 34
                 },
                 {
                   "nome": "SIRTAKI SITUAZIONE CONTABILE AL 26_05_2023",
@@ -115315,11 +115331,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/stampaDisposizione_20210826122421.pdf"
                 }
               ],
-              "_totale_file": 63
+              "_totale_file": 64
             }
           ],
           "file": [],
-          "_totale_file": 449
+          "_totale_file": 450
         },
         {
           "nome": "ORIOLO",
