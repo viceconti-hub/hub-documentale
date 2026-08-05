@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-05T05:31:57Z",
-  "totale_file": 26204,
+  "generato": "2026-08-05T07:36:03Z",
+  "totale_file": 26205,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -186873,7 +186873,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4958,
+      "totale_file": 4959,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -228574,6 +228574,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ECOSAN SRL Ordine dacquisto_260168_20260715_124344.pdf"
             },
             {
+              "nome": "FIMAR 2026 28441VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.NATALE_GUARNIZIONI.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s1r4v21oyjxkd819x511z/FIMAR-2026-28441VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.NATALE_GUARNIZIONI.PDF?rlkey=hhu31ntlhqy37j00sdfq47vd2&dl=0?raw=1",
+              "dimensione_kb": 131,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR 2026 28441VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.NATALE_GUARNIZIONI.PDF"
+            },
+            {
               "nome": "GO PACK S.R.L. a socio unico Ordine dacquisto_260169_20260720_120819.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -228838,7 +228846,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORDINE 001761 RIF.PALETTA SCHEDA.pdf"
             }
           ],
-          "_totale_file": 3760
+          "_totale_file": 3761
         }
       ],
       "file": []
