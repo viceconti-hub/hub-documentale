@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-06T05:36:52Z",
-  "totale_file": 26230,
+  "generato": "2026-08-06T07:41:45Z",
+  "totale_file": 26233,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -187082,7 +187082,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4959,
+      "totale_file": 4962,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -228759,6 +228759,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CUSTOM SPA Ordine dacquisto_260183_20260727_164548 RIF. GRUPPO STAMPANTE PER MARKET DA CRUSCO + BATTERIA PER MAG.pdf"
             },
             {
+              "nome": "CUSTOM SPA Ordine dacquisto_260202_20260805_155753 RIF. GRUPPO STAMPANTE SUPERIORE FUJITSU FILM 3000 (X MACH 5000 E.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ec5oyvxouuhr10k3jjpz1/CUSTOM-SPA-Ordine-dacquisto_260202_20260805_155753-RIF.-GRUPPO-STAMPANTE-SUPERIORE-FUJITSU-FILM-3000-X-MACH-5000-E.pdf?rlkey=xfv9hd6y1eyfwnrdt9hhs9496&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CUSTOM SPA Ordine dacquisto_260202_20260805_155753 RIF. GRUPPO STAMPANTE SUPERIORE FUJITSU FILM 3000 (X MACH 5000 E.pdf"
+            },
+            {
               "nome": "Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -228863,6 +228871,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260190_20260729_085146 RIF. Guarnizione porta forno QUBI6 DL.pdf"
             },
             {
+              "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260203_20260805_172505 RIF. Cesto vasca intera per friggitrice elettrica vasca da 17 lt.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bgkbqy52uctpr0v2sqrzp/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260203_20260805_172505-RIF.-Cesto-vasca-intera-per-friggitrice-elettrica-vasca-da-17-lt.pdf?rlkey=b7nz9hwkjjdacj732n490rj8b&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260203_20260805_172505 RIF. Cesto vasca intera per friggitrice elettrica vasca da 17 lt.pdf"
+            },
+            {
               "nome": "MORINI s.r.l. Ordine dacquisto_260170_20260717_123309 RIF. Basato su Ordini cliente 260231. 260237. 260280..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -228885,6 +228901,14 @@
               "link": "https://www.dropbox.com/scl/fi/88kocmbuq8dgsf6ah350g/MORINI-s.r.l.-Ordine-dacquisto_260196_20260803_102008-RIF.-PANIFICIO-D-IMPERIO-Basato-su-Ordini-cliente-260336..pdf?rlkey=lve21yibh8keproz8od0bpr1n&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260196_20260803_102008 RIF. PANIFICIO D'IMPERIO Basato su Ordini cliente 260336..pdf"
+            },
+            {
+              "nome": "NTA Preventivo 71-PR del 31-07-2026 VICECONTI SNC DI ANTONIO E PROSPERO VICECONTI (1) (1).pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/n303iupkmkarsh9gmgjdp/NTA-Preventivo-71-PR-del-31-07-2026-VICECONTI-SNC-DI-ANTONIO-E-PROSPERO-VICECONTI-1-1.pdf?rlkey=ptosctvjpyjatkg9ldhmgz5n6&dl=0?raw=1",
+              "dimensione_kb": 36,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/NTA Preventivo 71-PR del 31-07-2026 VICECONTI SNC DI ANTONIO E PROSPERO VICECONTI (1) (1).pdf"
             },
             {
               "nome": "NTA SRL Ordine dacquisto_260182_20260727_163809 RIF. LAMPADA E FILTRO AI CARBONI ATTIVI.pdf",
@@ -229055,7 +229079,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORDINE 001761 RIF.PALETTA SCHEDA.pdf"
             }
           ],
-          "_totale_file": 3761
+          "_totale_file": 3764
         }
       ],
       "file": []
