@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-06T07:41:45Z",
-  "totale_file": 26233,
+  "generato": "2026-08-06T08:46:36Z",
+  "totale_file": 26236,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -229088,7 +229088,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2414,
+      "totale_file": 2417,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -250529,6 +250529,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MORANO COPIA TITOLO BPER SCADENZA 25_08_2026.pdf"
             },
             {
+              "nome": "NTA SRL Dettaglio bonifico istantaneo DEL 05_08_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/kypirjfvm9jf57tjkr3kc/NTA-SRL-Dettaglio-bonifico-istantaneo-DEL-05_08_2026.pdf?rlkey=k8ftgakkwkrjs802e91j8snah&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/NTA SRL Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
+            },
+            {
               "nome": "PADERNO Dettaglio bonifico istantaneo DEL 10_02_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -250697,6 +250705,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/TOP SERVICE Dettaglio bonifico istantaneo DEL 05_02_2026.pdf"
             },
             {
+              "nome": "VAR GROUP Dettaglio bonifico istantaneo DEL 05_08_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/78plue57h6cqmx2s5cf6k/VAR-GROUP-Dettaglio-bonifico-istantaneo-DEL-05_08_2026.pdf?rlkey=y7fbqhpo3gk8qv6shlq8bcf5i&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/VAR GROUP Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
+            },
+            {
               "nome": "VAR GROUP SPA BONIFICO DEL 20_06_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -250743,9 +250759,17 @@
               "link": "https://www.dropbox.com/scl/fi/3qglzmyxuowcr8b4dawnx/Z3-ENGINERING-Dettaglio-bonifico-istantaneo-DEL-23_04_2026.pdf?rlkey=fjdpoicnr7acr2gpg8xvnb9qg&dl=0?raw=1",
               "dimensione_kb": 108,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf"
+            },
+            {
+              "nome": "ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/maq6xhcnjsfhqt00cwb4o/ZANUSSI-Dettaglio-bonifico-istantaneo-DEL-05_08_2026.pdf?rlkey=sib1aw8zz5vf4iqi1qrp2n4cs&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2394
+          "_totale_file": 2397
         }
       ],
       "file": []
