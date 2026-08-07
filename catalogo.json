@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-07T07:35:47Z",
-  "totale_file": 26244,
+  "generato": "2026-08-07T08:41:13Z",
+  "totale_file": 26246,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -229152,7 +229152,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2417,
+      "totale_file": 2419,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -249729,6 +249729,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARISTARCO COPIA TITOLO BPER SCADENZA 10_09_2026.pdf"
             },
             {
+              "nome": "ARISTARCO Dettaglio bonifico istantaneo DEL 06_08_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4qs10nxqwtukzopg76bio/ARISTARCO-Dettaglio-bonifico-istantaneo-DEL-06_08_2026.pdf?rlkey=alsxjpi294l847vxwu2974zwo&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARISTARCO Dettaglio bonifico istantaneo DEL 06_08_2026.pdf"
+            },
+            {
               "nome": "ARISTARCO Dettaglio bonifico istantaneo DEL 12_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -250481,6 +250489,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MECNOSUD Dettaglio bonifico istantaneo DEL 28_07_2026.pdf"
             },
             {
+              "nome": "MODULAR CONFERMA 26.06834 MD_SaleOrdForm_2022 RIF.FA TU_CESTI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yaiinq7q9odabao6z1pxe/MODULAR-CONFERMA-26.06834-MD_SaleOrdForm_2022-RIF.FA-TU_CESTI.pdf?rlkey=lhhtz7pklxe7phtwtyh0qu5ee&dl=0?raw=1",
+              "dimensione_kb": 140,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/MODULAR CONFERMA 26.06834 MD_SaleOrdForm_2022 RIF.FA TU_CESTI.pdf"
+            },
+            {
               "nome": "MODULAR COPIA TITOLI BPER 30_03_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -250833,7 +250849,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2397
+          "_totale_file": 2399
         }
       ],
       "file": []
