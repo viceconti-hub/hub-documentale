@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-07T02:26:09Z",
-  "totale_file": 26236,
+  "generato": "2026-08-07T05:32:01Z",
+  "totale_file": 26241,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6619,
+      "totale_file": 6624,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -2224,6 +2224,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LO RUSSO VITO Consegna_260281_20260520_184534 RIF. Basato su Ordini cliente 260139. GRIGLIE PLASTIFICATE COLDLINE.pdf"
             },
             {
+              "nome": "LUKANIA TURISMO SRL Consegna_260675_20260806_085952 RIF. PRODUTTORE DI GHIACCIO CB246W IN COMODATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sg8hzk6f45gc49xefx9im/LUKANIA-TURISMO-SRL-Consegna_260675_20260806_085952-RIF.-PRODUTTORE-DI-GHIACCIO-CB246W-IN-COMODATO.pdf?rlkey=yh8ml126k7o4svo7gaqlbyb93&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LUKANIA TURISMO SRL Consegna_260675_20260806_085952 RIF. PRODUTTORE DI GHIACCIO CB246W IN COMODATO.pdf"
+            },
+            {
               "nome": "Lido COSTA BLU di DE LORENZO MARIO Consegna_260342_20260602_214836 RIF. DETERGENTE LAVABAR.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3008,6 +3016,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SIRTAKI S.R.L.S Consegna_260668_20260805_084510 RIF. BACINELLE GN INOX Basato su Ordini cliente 260346. (VEDI BOL.pdf"
             },
             {
+              "nome": "SIRTAKI S.R.L.S Consegna_260676_20260806_090634 RIF. DETERGENTE LAVASTOVIGLIE 4 DET 12 + 5 BRILL Basato su Ordini.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/88cv0iwi6ecds0muhobt6/SIRTAKI-S.R.L.S-Consegna_260676_20260806_090634-RIF.-DETERGENTE-LAVASTOVIGLIE-4-DET-12-5-BRILL-Basato-su-Ordini.pdf?rlkey=61cafptdjvh3uaezoqpiosiu1&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SIRTAKI S.R.L.S Consegna_260676_20260806_090634 RIF. DETERGENTE LAVASTOVIGLIE 4 DET 12 + 5 BRILL Basato su Ordini.pdf"
+            },
+            {
               "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Consegna_260316_20260531_092814 RIF. ASSISTENZA SU BOLLITORE SOSTITUZIONE UGELLO PILOTA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3376,7 +3392,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 420
+          "_totale_file": 422
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -6312,6 +6328,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DIPA di PACCHIANO LUCA & C. sas Offerta di vendita_260333_20260802_113502.pdf"
             },
             {
+              "nome": "DIPA di PACCHIANO LUCA & C. sas Offerta di vendita_260344_20260806_091122.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vaa0job1qyh5zzokfjy6q/DIPA-di-PACCHIANO-LUCA-C.-sas-Offerta-di-vendita_260344_20260806_091122.pdf?rlkey=6kb2kprxgyqv5pfslgweyyu81&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DIPA di PACCHIANO LUCA & C. sas Offerta di vendita_260344_20260806_091122.pdf"
+            },
+            {
               "nome": "DRINK & SMOKE DI CONTE GIAN PIERO Offerta di vendita_260267_20260715_160450.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -7160,6 +7184,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260270_20260723_093239 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf"
             },
             {
+              "nome": "SUPERMERCATO A POTEGA I FIFINA di PALETTA GIOACCHINO Offerta di vendita_260343_20260806_084042 RIF. AFFETTATRICE DOMINA SLL370 230501.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1scd9m5b90orzz6eiwzef/SUPERMERCATO-A-POTEGA-I-FIFINA-di-PALETTA-GIOACCHINO-Offerta-di-vendita_260343_20260806_084042-RIF.-AFFETTATRICE-DOMINA-SLL370-230501.pdf?rlkey=pw25x0isrzzqty5qzgku0n5fv&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/SUPERMERCATO A POTEGA I FIFINA di PALETTA GIOACCHINO Offerta di vendita_260343_20260806_084042 RIF. AFFETTATRICE DOMINA SLL370 230501.pdf"
+            },
+            {
               "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Offerta di vendita_260169_20260515_181927 RIF. CALICI BIRRA COLLEZIONE EXECUTIVE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -7264,7 +7296,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 204
+          "_totale_file": 206
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -58599,7 +58631,7 @@
                       "nome": "Viceconti_co 3081_ecoinox_2d.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/n7alqou9apgk65a7b48fv/Viceconti_co-3081_ecoinox_2d.pdf?rlkey=3z5ysrxsrd3ul64qixq2etcqz&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 585,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/POLICICCHIO FRANCO/Viceconti_co 3081_ecoinox_2d.pdf"
                     }
@@ -66979,6 +67011,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SIRTAKI S.R.L.S Ordine cliente_260346_20260801_171750.pdf"
             },
             {
+              "nome": "SIRTAKI S.R.L.S Ordine cliente_260359_20260805_174556 RIF. DETERGENTE LAVASTOVIGLIE 4 DET 12 + 5 BRILL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rzi3ny30ejmhu8866783h/SIRTAKI-S.R.L.S-Ordine-cliente_260359_20260805_174556-RIF.-DETERGENTE-LAVASTOVIGLIE-4-DET-12-5-BRILL.pdf?rlkey=it1ac53b5uwsvim844liyrdj6&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SIRTAKI S.R.L.S Ordine cliente_260359_20260805_174556 RIF. DETERGENTE LAVASTOVIGLIE 4 DET 12 + 5 BRILL.pdf"
+            },
+            {
               "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Ordine cliente_260323_20260727_202507.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -67219,7 +67259,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 229
+          "_totale_file": 230
         }
       ],
       "file": []
