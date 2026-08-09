@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-09T00:20:08Z",
-  "totale_file": 26275,
+  "generato": "2026-08-09T02:18:58Z",
+  "totale_file": 26276,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -144275,7 +144275,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4454,
+      "totale_file": 4455,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -163705,6 +163705,14 @@
           ],
           "file": [
             {
+              "nome": "100.Frigomat - Listino Prezzi Euro 2026 R3 - IT EN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7y95n1yywgttcs1jslqyg/100.Frigomat-Listino-Prezzi-Euro-2026-R3-IT-EN.pdf?rlkey=8n0htfp1kmcc3lp81omwpaovj&dl=0?raw=1",
+              "dimensione_kb": 2301,
+              "path": "/HUB DOCUMENTALE/FORNITORI/FRIGOMAT/100.Frigomat - Listino Prezzi Euro 2026 R3 - IT EN.pdf"
+            },
+            {
               "nome": "Frigomat - Listino Prezzi Euro 2025 R1 - IT EN.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -163713,7 +163721,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/FRIGOMAT/Frigomat - Listino Prezzi Euro 2025 R1 - IT EN.pdf"
             }
           ],
-          "_totale_file": 63
+          "_totale_file": 64
         },
         {
           "nome": "FRIGOMECCANICA",
