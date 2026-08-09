@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-09T02:18:58Z",
-  "totale_file": 26276,
+  "generato": "2026-08-09T05:24:50Z",
+  "totale_file": 26292,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6648,
+      "totale_file": 6664,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -30,6 +30,14 @@
               "link": "https://www.dropbox.com/scl/fi/1qgkmx0bk76mh0p4u6hrs/3AM-SRL-HOTEL-MARTINO-Consegna_260374_20260604_113022-RIF.-DETERGENTE-RATIONAL-VERDE-Basato-su-Ordini-cliente-260184..pdf?rlkey=jk86xezcmxekiygch226o25yb&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/3AM SRL HOTEL MARTINO Consegna_260374_20260604_113022 RIF. DETERGENTE RATIONAL VERDE Basato su Ordini cliente 260184..pdf"
+            },
+            {
+              "nome": "3AM SRL HOTEL MARTINO Consegna_260690_20260807_134414 RIF. DETERGENTE RATIONAL BLU QTA' 1 Basato su Ordini cliente 2603.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wtojibazukx255n0e6n27/3AM-SRL-HOTEL-MARTINO-Consegna_260690_20260807_134414-RIF.-DETERGENTE-RATIONAL-BLU-QTA-1-Basato-su-Ordini-cliente-2603.pdf?rlkey=510n984oidjj6ezdqyvz86rz9&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/3AM SRL HOTEL MARTINO Consegna_260690_20260807_134414 RIF. DETERGENTE RATIONAL BLU QTA' 1 Basato su Ordini cliente 2603.pdf"
             },
             {
               "nome": "4.0 SRLS YUMARA Consegna_260337_20260602_213320 RIF. ASSISTENZA SU FORNO TECNOINOX SOSTITUZIONE CANDELA ACCESIONE.pdf",
@@ -70,6 +78,14 @@
               "link": "https://www.dropbox.com/scl/fi/yazubbm8z6ri6utn2p262/4.0-SRLS-YUMARA-Consegna_260527_20260705_194324-RIF.-ASSISTENZA-SU-MACCHINA-SOTTOVUOTO-SOSTITUZIONE-OLIO-ASSISTEN.pdf?rlkey=jemqw2shiaoagsy5itkdxzqlf&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/4.0 SRLS YUMARA Consegna_260527_20260705_194324 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO SOSTITUZIONE OLIO ASSISTEN.pdf"
+            },
+            {
+              "nome": "4.0 SRLS YUMARA Consegna_260694_20260808_184444 RIF. FORNO NERONE MECCANICO MOD.600 4, CAP.4 TEGLIE GN 11 ,PORTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xac3u45oixsda0qyxpawk/4.0-SRLS-YUMARA-Consegna_260694_20260808_184444-RIF.-FORNO-NERONE-MECCANICO-MOD.600-4-CAP.4-TEGLIE-GN-11-PORTA.pdf?rlkey=no85hr1hd9x1fbck7nl6jr765&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/4.0 SRLS YUMARA Consegna_260694_20260808_184444 RIF. FORNO NERONE MECCANICO MOD.600 4, CAP.4 TEGLIE GN 11 ,PORTA.pdf"
             },
             {
               "nome": "A.M. di Antonella Mancino s.a.s. CABOSSA Consegna_260357_20260602_223636 RIF. ASSISTENZA SU MIXER GELATERIA REVISIONE ASTE.pdf",
@@ -1736,6 +1752,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260601_20260724_121637 RIF. FRIGGITRICE FERRO Basato su Ordini cliente 260237..pdf"
             },
             {
+              "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260691_20260807_134801 RIF. FRIGGITRICE FERRO CON CESTELLO ILSA (ANCHE PER INDUZIONE) Ø.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rz1e52lxqp2d1po8thypg/I-SAPORI-DI-MARIANNA-TRATTORIA-E-CUCINA-D-ASPORTO-DI-PEZZULLO-MARIANNA-Consegna_260691_20260807_134801-RIF.-FRIGGITRICE-FERRO-CON-CESTELLO-ILSA-ANCHE-PER-INDUZIONE.pdf?rlkey=7lzwh84u5a7naomp0cbay6o0f&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Consegna_260691_20260807_134801 RIF. FRIGGITRICE FERRO CON CESTELLO ILSA (ANCHE PER INDUZIONE) Ø.pdf"
+            },
+            {
               "nome": "IELPO NICOLA Consegna_260306_20260530_091529 RIF. Basato su Ordini cliente 260152. AFFETTATRICE IDEA 25 CASA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1798,6 +1822,14 @@
               "link": "https://www.dropbox.com/scl/fi/2u9sul26pj8pkbblb1imb/IL-LUCANO-SRLS-Consegna_260478_20260626_210730-RIF.-BICCHIERI-ELECTRA-Basato-su-Ordini-cliente-260239..pdf?rlkey=d76e5qaqhh6d5rhjo8joc39is&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IL LUCANO SRLS Consegna_260478_20260626_210730 RIF. BICCHIERI ELECTRA Basato su Ordini cliente 260239..pdf"
+            },
+            {
+              "nome": "IL LUCANO SRLS Consegna_260692_20260807_135249 RIF. BICCHIERI ELECTRA DOF Basato su Ordini cliente 260347..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/862ztljyim9eevfz5orq5/IL-LUCANO-SRLS-Consegna_260692_20260807_135249-RIF.-BICCHIERI-ELECTRA-DOF-Basato-su-Ordini-cliente-260347..pdf?rlkey=sqrbvrvmwy0nsnhrj53ajth4l&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/IL LUCANO SRLS Consegna_260692_20260807_135249 RIF. BICCHIERI ELECTRA DOF Basato su Ordini cliente 260347..pdf"
             },
             {
               "nome": "IL MAMMOLO DI MOIRA NESTI e C. SNC Consegna_260617_20260728_082740 RIF. DETERGENTE RATIONAL E GUARNIZIONI Basato su Ordini cliente 2.pdf",
@@ -2238,6 +2270,14 @@
               "link": "https://www.dropbox.com/scl/fi/or311db23gpc50fn79so3/LIDO-SAN-FRANCESCO-di-ESANOFOLE-ANGELO-Consegna_260652_20260731_164655-RIF.-BACINELLE-GASTRONORM-INTEGRAZIONE-Basato-su-Ordini-cliente-2.pdf?rlkey=7xzwegn0rh420hak0faaptg4r&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LIDO SAN FRANCESCO di ESANOFOLE ANGELO Consegna_260652_20260731_164655 RIF. BACINELLE GASTRONORM INTEGRAZIONE Basato su Ordini cliente 2.pdf"
+            },
+            {
+              "nome": "LIDO SAN FRANCESCO di ESANOFOLE ANGELO Consegna_260689_20260807_133843 RIF. BACINELLE INOX GN 19 Basato su Ordini cliente 260371..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/aqt978ksqm5jc1ukz1zm7/LIDO-SAN-FRANCESCO-di-ESANOFOLE-ANGELO-Consegna_260689_20260807_133843-RIF.-BACINELLE-INOX-GN-19-Basato-su-Ordini-cliente-260371..pdf?rlkey=boqk9ij1pobfqqycybuw1q911&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LIDO SAN FRANCESCO di ESANOFOLE ANGELO Consegna_260689_20260807_133843 RIF. BACINELLE INOX GN 19 Basato su Ordini cliente 260371..pdf"
             },
             {
               "nome": "LIDO VALENTINA DI LOPEZ ANTONIO Consegna_260317_20260531_093207 RIF. ASSISTENZA SU FRIGGITRICE A GAS ATA SOSTITUZIONE UGELLO PILO.pdf",
@@ -2864,6 +2904,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio ARENA sas Consegna_260588_20260722_124212 RIF. BACINELLA POLIPROPILENE GN14 h150mm.pdf"
             },
             {
+              "nome": "Panificio D'IMPERIO snc Consegna_260693_20260807_140916 RIF. HOTELLERIE Basato su Offerte di vendita 260327. Basato su Or.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/remu6n23u564usz0f3g3m/Panificio-D-IMPERIO-snc-Consegna_260693_20260807_140916-RIF.-HOTELLERIE-Basato-su-Offerte-di-vendita-260327.-Basato-su-Or.pdf?rlkey=tdxz26u1ze5d1xzauknwxpmv6&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio D'IMPERIO snc Consegna_260693_20260807_140916 RIF. HOTELLERIE Basato su Offerte di vendita 260327. Basato su Or.pdf"
+            },
+            {
               "nome": "Panificio FERRARO di SCHETTINI ANGELO A. Consegna_260361_20260602_224452 RIF. ASSISTENZA SU TERMOIMPELLICOLATRICE SOSTITUZIONE RESISTENZA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3488,7 +3536,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 434
+          "_totale_file": 440
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -3502,6 +3550,14 @@
               "link": "https://www.dropbox.com/scl/fi/781n8dwt272qte5k4eiw5/3AM-SRL-HOTEL-MARTINO-Fattura-di-vendita_2600165_20260605_105840-RIF.-DETERGENTE-RATIONAL-VERDE-Basato-su-Ordini-cliente-260184.-B.pdf?rlkey=810ojkcnl3li76lz53w1hmrf1&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/3AM SRL HOTEL MARTINO Fattura di vendita_2600165_20260605_105840 RIF. DETERGENTE RATIONAL VERDE Basato su Ordini cliente 260184. B.pdf"
+            },
+            {
+              "nome": "3AM SRL HOTEL MARTINO Fattura di vendita_2600376_20260807_134451 RIF. DETERGENTE RATIONAL BLU QTA' 1 Basato su Ordini cliente 2603.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6fwfd19bcpmxnbhkzlasj/3AM-SRL-HOTEL-MARTINO-Fattura-di-vendita_2600376_20260807_134451-RIF.-DETERGENTE-RATIONAL-BLU-QTA-1-Basato-su-Ordini-cliente-2603.pdf?rlkey=ikd6u5ect67irrrhgrsdsoceq&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/3AM SRL HOTEL MARTINO Fattura di vendita_2600376_20260807_134451 RIF. DETERGENTE RATIONAL BLU QTA' 1 Basato su Ordini cliente 2603.pdf"
             },
             {
               "nome": "4.0 SRLS YUMARA Fattura di vendita_2600263_20260705_193722 RIF. BIDONI MORINI Basato su Ordini cliente 260181. Basato su Con.pdf",
@@ -3518,6 +3574,14 @@
               "link": "https://www.dropbox.com/scl/fi/0xl2m679nwee6j7casugi/4.0-SRLS-YUMARA-Fattura-di-vendita_2600264_20260705_194411-RIF.-ASSISTENZA-SU-MACCHINA-SOTTOVUOTO-SOSTITUZIONE-OLIO-ASSISTEN.pdf?rlkey=c8fyqkttozz6szpmpawmn09sa&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/4.0 SRLS YUMARA Fattura di vendita_2600264_20260705_194411 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO SOSTITUZIONE OLIO ASSISTEN.pdf"
+            },
+            {
+              "nome": "4.0 SRLS YUMARA Fattura di vendita_2600380_20260808_184531 RIF. FORNO NERONE MECCANICO MOD.600 4, CAP.4 TEGLIE GN 11 ,PORTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rhvznci3jb3gh8yarpdrb/4.0-SRLS-YUMARA-Fattura-di-vendita_2600380_20260808_184531-RIF.-FORNO-NERONE-MECCANICO-MOD.600-4-CAP.4-TEGLIE-GN-11-PORTA.pdf?rlkey=i7o2vn0xpym6vdr5bdmx0uwbn&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/4.0 SRLS YUMARA Fattura di vendita_2600380_20260808_184531 RIF. FORNO NERONE MECCANICO MOD.600 4, CAP.4 TEGLIE GN 11 ,PORTA.pdf"
             },
             {
               "nome": "ACQUARIO srls Fattura di vendita_2600340_20260730_203420 RIF. ASSISTENZA SU FORNO RATIONAL SOSTITUZIONE POMPA M6, ELIMINAZ.pdf",
@@ -4528,6 +4592,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Fattura di vendita_2600316_20260724_121708 RIF. FRIGGITRICE FERRO Basato su Ordini cliente 260237. Basato su.pdf"
             },
             {
+              "nome": "I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Fattura di vendita_2600377_20260807_134821 RIF. FRIGGITRICE FERRO CON CESTELLO ILSA (ANCHE PER INDUZIONE) Ø.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vvn55ah3wbld24kv9tyos/I-SAPORI-DI-MARIANNA-TRATTORIA-E-CUCINA-D-ASPORTO-DI-PEZZULLO-MARIANNA-Fattura-di-vendita_2600377_20260807_134821-RIF.-FRIGGITRICE-FERRO-CON-CESTELLO-ILSA-ANCHE-PER-INDUZIONE.pdf?rlkey=sndawmcqm3n9958u6pxanjx3b&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/I SAPORI DI MARIANNA TRATTORIA E CUCINA D'ASPORTO DI PEZZULLO MARIANNA Fattura di vendita_2600377_20260807_134821 RIF. FRIGGITRICE FERRO CON CESTELLO ILSA (ANCHE PER INDUZIONE) Ø.pdf"
+            },
+            {
               "nome": "IL BOSCHETTO Srl Fattura di vendita_2600216_20260622_101359 RIF. CUCCHIAINI PER DESSERT Basato su Offerte di vendita 260193..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4590,6 +4662,14 @@
               "link": "https://www.dropbox.com/scl/fi/v9ojgcqoavw2rqxz92ke1/IL-LUCANO-SRLS-Fattura-di-vendita_2600244_20260626_210746-RIF.-BICCHIERI-ELECTRA-Basato-su-Ordini-cliente-260239.-Basato-su.pdf?rlkey=on3ljgyjw2zahx63lvyhoawzy&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL LUCANO SRLS Fattura di vendita_2600244_20260626_210746 RIF. BICCHIERI ELECTRA Basato su Ordini cliente 260239. Basato su.pdf"
+            },
+            {
+              "nome": "IL LUCANO SRLS Fattura di vendita_2600378_20260807_135308 RIF. BICCHIERI ELECTRA DOF Basato su Ordini cliente 260347. Basat.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xnvtywj6zr4ds15517nj7/IL-LUCANO-SRLS-Fattura-di-vendita_2600378_20260807_135308-RIF.-BICCHIERI-ELECTRA-DOF-Basato-su-Ordini-cliente-260347.-Basat.pdf?rlkey=unocztq1j9z5xwvgn7zrvdndz&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/IL LUCANO SRLS Fattura di vendita_2600378_20260807_135308 RIF. BICCHIERI ELECTRA DOF Basato su Ordini cliente 260347. Basat.pdf"
             },
             {
               "nome": "IL MAMMOLO DI MOIRA NESTI e C. SNC Fattura di vendita_2600281_20260712_161703 RIF. GUARNIZIONE PORTA SCC, CM 61 QTA' 2 PAGAMENTO EFFFETTUATO TR.pdf",
@@ -4944,6 +5024,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LIDO SAN FRANCESCO di ESANOFOLE ANGELO Fattura di vendita_2600359_20260731_164751 RIF. BACINELLE GASTRONORM INOX E POLIPROPILENE Basato su Ordini c.pdf"
             },
             {
+              "nome": "LIDO SAN FRANCESCO di ESANOFOLE ANGELO Fattura di vendita_2600375_20260807_133908 RIF. BACINELLE INOX GN 19 Basato su Ordini cliente 260371. Basato.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fz5bt0xo4vrym4mhdta2b/LIDO-SAN-FRANCESCO-di-ESANOFOLE-ANGELO-Fattura-di-vendita_2600375_20260807_133908-RIF.-BACINELLE-INOX-GN-19-Basato-su-Ordini-cliente-260371.-Basato.pdf?rlkey=47dif7idsp9rknzrh8j47k6ai&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LIDO SAN FRANCESCO di ESANOFOLE ANGELO Fattura di vendita_2600375_20260807_133908 RIF. BACINELLE INOX GN 19 Basato su Ordini cliente 260371. Basato.pdf"
+            },
+            {
               "nome": "LIDO VALENTINA DI LOPEZ ANTONIO Fattura di vendita_2600207_20260612_081700 RIF. LIDO VALENTINA FRIGGITRICE GAS LOTUS MODELLO F218-78GLT 18+1.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5270,6 +5358,14 @@
               "link": "https://www.dropbox.com/scl/fi/18xkuzwuwoyj5cynlogy9/Panificio-ARENA-sas-Fattura-di-vendita_2600188_20260607_184026-RIF.-LAMA-SEGAOSSA-Basato-su-Consegne-260002..pdf?rlkey=nfwt7usn4kf9ahll4l1mnk1k6&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/Panificio ARENA sas Fattura di vendita_2600188_20260607_184026 RIF. LAMA SEGAOSSA Basato su Consegne 260002..pdf"
+            },
+            {
+              "nome": "Panificio D'IMPERIO snc Fattura di vendita_2600379_20260808_182437 RIF. HOTELLERIE Basato su Offerte di vendita 260327. Basato su Or.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pl0ggiz83z351hdlmadwh/Panificio-D-IMPERIO-snc-Fattura-di-vendita_2600379_20260808_182437-RIF.-HOTELLERIE-Basato-su-Offerte-di-vendita-260327.-Basato-su-Or.pdf?rlkey=lh3sr850ibo8hsevf3tl7puri&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/Panificio D'IMPERIO snc Fattura di vendita_2600379_20260808_182437 RIF. HOTELLERIE Basato su Offerte di vendita 260327. Basato su Or.pdf"
             },
             {
               "nome": "Panificio FERRARO di SCHETTINI ANGELO A. Fattura di vendita_2600189_20260607_184056 RIF. ASSISTENZA SU TERMOIMPELLICOLATRICE SOSTITUZIONE RESISTENZA.pdf",
@@ -5752,7 +5848,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 282
+          "_totale_file": 288
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -65547,12 +65643,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/3AM SRL HOTEL MARTINO Ordine cliente_260184_20260604_113010 RIF. DETERGENTE RATIONAL VERDE.pdf"
             },
             {
+              "nome": "3AM SRL HOTEL MARTINO Ordine cliente_260369_20260807_132429 RIF. DETERGENTE RATIONAL BLU QTA' 1.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/frt1y556eb10kqkbefj64/3AM-SRL-HOTEL-MARTINO-Ordine-cliente_260369_20260807_132429-RIF.-DETERGENTE-RATIONAL-BLU-QTA-1.pdf?rlkey=mg8kaiks89jrpnd1br9oreqxo&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/3AM SRL HOTEL MARTINO Ordine cliente_260369_20260807_132429 RIF. DETERGENTE RATIONAL BLU QTA' 1.pdf"
+            },
+            {
               "nome": "4.0 SRLS YUMARA Ordine cliente_260181_20260602_214347 RIF. BIDONI MORINI.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/oa539addbah5c0j3gbswh/4.0-SRLS-YUMARA-Ordine-cliente_260181_20260602_214347-RIF.-BIDONI-MORINI.pdf?rlkey=i3o1tz46zvc8bf7uigosw6rdj&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/4.0 SRLS YUMARA Ordine cliente_260181_20260602_214347 RIF. BIDONI MORINI.pdf"
+            },
+            {
+              "nome": "4.0 SRLS YUMARA Ordine cliente_260370_20260807_134004 RIF. FORNO NERONE MECCANICO MOD.600 4, CAP.4 TEGLIE GN 11 ,PORTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/el3wm5paovcipkxyvvfor/4.0-SRLS-YUMARA-Ordine-cliente_260370_20260807_134004-RIF.-FORNO-NERONE-MECCANICO-MOD.600-4-CAP.4-TEGLIE-GN-11-PORTA.pdf?rlkey=dhw1rl1f0san94nzynbezlikr&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/4.0 SRLS YUMARA Ordine cliente_260370_20260807_134004 RIF. FORNO NERONE MECCANICO MOD.600 4, CAP.4 TEGLIE GN 11 ,PORTA.pdf"
             },
             {
               "nome": "ACAL SRL Ordine cliente_260172_20260527_081809 RIF. MENSOLA A PONTE 2 RIPIANI 140 X 40 AGGANCI LATERALI.pdf",
@@ -65803,12 +65915,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CATA' EVENTI di CANNAZZARO MARISA Ordine cliente_260232_20260625_112508 RIF. PALETTINO Basato su Offerte di vendita 260232..pdf"
             },
             {
-              "nome": "CAVALIERE SRL Ordine cliente_260365_20260806_115652 RIF. Basato su Offerte di vendita 260336..pdf",
+              "nome": "CAVALIERE SRL Ordine cliente_260365_20260806_115652 RIF. ARMADIO FRIGO E CONGELATORE COLDLINE Basato su Offerte di ve.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2m2wmph5m9oqod350vatl/CAVALIERE-SRL-Ordine-cliente_260365_20260806_115652-RIF.-Basato-su-Offerte-di-vendita-260336..pdf?rlkey=a0s5w30nsxgx34sfzt6d7jntm&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/dfze3pqsgfzwrm6jiygs3/CAVALIERE-SRL-Ordine-cliente_260365_20260806_115652-RIF.-ARMADIO-FRIGO-E-CONGELATORE-COLDLINE-Basato-su-Offerte-di-ve.pdf?rlkey=zcs7m4pnfam1xf4u3a3s7dv5y&dl=0?raw=1",
               "dimensione_kb": 74,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CAVALIERE SRL Ordine cliente_260365_20260806_115652 RIF. Basato su Offerte di vendita 260336..pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CAVALIERE SRL Ordine cliente_260365_20260806_115652 RIF. ARMADIO FRIGO E CONGELATORE COLDLINE Basato su Offerte di ve.pdf"
             },
             {
               "nome": "CHALET BOSCO DIFESA di GIOIA NATALE Ordine cliente_260131_20260516_160328 RIF. IMPASTATRICE Basato su Offerte di vendita 260124. IMPASTATRICE FIMAR 25 KG.pdf",
@@ -66755,6 +66867,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LIDO SAN FRANCESCO di ESANOFOLE ANGELO Ordine cliente_260320_20260728_180144 RIF. BACINELLE GASTRONORM INTEGRAZIONE.pdf"
             },
             {
+              "nome": "LIDO SAN FRANCESCO di ESANOFOLE ANGELO Ordine cliente_260371_20260807_133610 RIF. BACINELLE INOX GN 19.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/n18t0uujgeu9enhhw4px2/LIDO-SAN-FRANCESCO-di-ESANOFOLE-ANGELO-Ordine-cliente_260371_20260807_133610-RIF.-BACINELLE-INOX-GN-19.pdf?rlkey=srwwwqlnfhwbe19v62k9m4euk&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LIDO SAN FRANCESCO di ESANOFOLE ANGELO Ordine cliente_260371_20260807_133610 RIF. BACINELLE INOX GN 19.pdf"
+            },
+            {
               "nome": "LIDO VALENTINA DI LOPEZ ANTONIO Ordine cliente_260175_20260528_181732 RIF. LIDO VALENTINA FRIGGITRICE GAS LOTUS MODELLO F218-78GLT 18+1.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -66857,6 +66977,14 @@
               "link": "https://www.dropbox.com/scl/fi/l2vkscsv4u2gqcab5qfi6/MS-NAPOLEONE-SRL-Ordine-cliente_260294_20260721_112805-RIF.-ASCIUGA-LUCIDA-POSATE-MOD.STAR-EVO-MANUALE-Basato-su-Offerte.pdf?rlkey=l9v5opara9hyb061aiu2vfhuc&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MS NAPOLEONE SRL Ordine cliente_260294_20260721_112805 RIF. ASCIUGA LUCIDA POSATE MOD.STAR EVO MANUALE Basato su Offerte.pdf"
+            },
+            {
+              "nome": "MS NAPOLEONE SRL Ordine cliente_260372_20260807_142348 RIF. CONTENITORI GASTRONORM.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ynf2nuz2p3axkib4yw5ak/MS-NAPOLEONE-SRL-Ordine-cliente_260372_20260807_142348-RIF.-CONTENITORI-GASTRONORM.pdf?rlkey=4ha0f3051ep9znutol5cug4u7&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MS NAPOLEONE SRL Ordine cliente_260372_20260807_142348 RIF. CONTENITORI GASTRONORM.pdf"
             },
             {
               "nome": "Macelleria DA PEPPINO Ordine cliente_260130_20260510_191147 RIF. SPATOLA.pdf",
@@ -67083,12 +67211,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RISTORANTE DARIA SRL Ordine cliente_260267_20260712_163303 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 PAGAMENTO EFFETTUATO.pdf"
             },
             {
-              "nome": "RUSTICHELLI HOLDING SRL Ordine cliente_260363_20260806_114957.pdf",
+              "nome": "RUSTICHELLI HOLDING SRL Ordine cliente_260363_20260806_114957 RIF. ARMADIO LEVTRONIC 900 LT -20°+40°CINOX, 1PORTA, CAP. 60 TEGL.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/yo12qobr8modtgybzv4sj/RUSTICHELLI-HOLDING-SRL-Ordine-cliente_260363_20260806_114957.pdf?rlkey=x111eship9mddfptr5isunc8m&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/tfdscyhyzuqhzlbg6yeul/RUSTICHELLI-HOLDING-SRL-Ordine-cliente_260363_20260806_114957-RIF.-ARMADIO-LEVTRONIC-900-LT-20-40-CINOX-1PORTA-CAP.-60-TEGL.pdf?rlkey=cm3ib1p09ba7w4byobbqxawqi&dl=0?raw=1",
               "dimensione_kb": 62,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RUSTICHELLI HOLDING SRL Ordine cliente_260363_20260806_114957.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RUSTICHELLI HOLDING SRL Ordine cliente_260363_20260806_114957 RIF. ARMADIO LEVTRONIC 900 LT -20°+40°CINOX, 1PORTA, CAP. 60 TEGL.pdf"
             },
             {
               "nome": "Ristorante SANTA LUCIA DI APICELLA TERESA Ordine cliente_260123_20260513_131748 RIF. ATTREZZATURE URGENTE.pdf",
@@ -67451,7 +67579,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 239
+          "_totale_file": 243
         }
       ],
       "file": []
