@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-10T08:50:26Z",
-  "totale_file": 26291,
+  "generato": "2026-08-10T10:08:15Z",
+  "totale_file": 26292,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -229512,7 +229512,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2419,
+      "totale_file": 2420,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -241667,7 +241667,7 @@
                           "nome": "FRIULMED BONIFICO DEL 14_02_2023.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/5urnlrkkh43sbwyg4oo5p/FRIULMED-BONIFICO-DEL-14_02_2023.pdf?rlkey=zshdwj5m046xwt6j6hfhaerk4&dl=0?raw=1",
                           "dimensione_kb": 100,
                           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/FRIULMED/FRIULMED BONIFICO DEL 14_02_2023.pdf"
                         },
@@ -251001,6 +251001,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/PIZETA SRL Dettaglio bonifico istantaneo DEL 16_12_2025.pdf"
             },
             {
+              "nome": "PNEUSUD Dettaglio bonifico istantaneo DEL 7_08_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jpoguaxt4uex0efmgv9in/PNEUSUD-Dettaglio-bonifico-istantaneo-DEL-7_08_2026.pdf?rlkey=15dx2jqkk0kog1pvz5p8myqlj&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/PNEUSUD Dettaglio bonifico istantaneo DEL 7_08_2026.pdf"
+            },
+            {
               "nome": "REPA Dettaglio bonifico DEL 10_03_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -251209,7 +251217,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2399
+          "_totale_file": 2400
         }
       ],
       "file": []
