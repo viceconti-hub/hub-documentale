@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-11T05:54:20Z",
-  "totale_file": 26314,
+  "generato": "2026-08-11T08:00:52Z",
+  "totale_file": 26316,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -187626,7 +187626,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4969,
+      "totale_file": 4971,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -202210,7 +202210,7 @@
                       "nome": "KAREL PRIMO ORDINE ADESIONE EASY FOOD 2021.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/j8rzpe7u630o58pqeb9ut/KAREL-PRIMO-ORDINE-ADESIONE-EASY-FOOD-2021.pdf?rlkey=5tupyxh4cwjqtbx34xfe5soqj&dl=0?raw=1",
                       "dimensione_kb": 73,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ARCHIVIO ORDINI D'ACQUISTO/KAREL PRIMO ORDINE ADESIONE EASY FOOD 2021.pdf"
                     },
@@ -206220,7 +206220,7 @@
                               "nome": "ARTINOX 00000000232226_00000000032398100 RIF. SAILOR'S.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": null,
+                              "link": "https://www.dropbox.com/scl/fi/ieuxma1i8i4iw4dhbc2vv/ARTINOX-00000000232226_00000000032398100-RIF.-SAILOR-S.pdf?rlkey=zwd0j9lxbn45g3nhk05zikg8g&dl=0?raw=1",
                               "dimensione_kb": 120,
                               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ARTINOX ORDINI D'ACQUISTO/ARCHIVIO ARTINOX ORDINI D'ACQUISTO/ARCHIVIO ARTINOX ORDINI D'ACQUISTO/ARTINOX 00000000232226_00000000032398100 RIF. SAILOR'S.pdf"
                             },
@@ -229367,6 +229367,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
             },
             {
+              "nome": "DE LUCA SRL Ordine dacquisto_260207_20260808_201227.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mch92wk0z9o45i9hilwip/DE-LUCA-SRL-Ordine-dacquisto_260207_20260808_201227.pdf?rlkey=euvczsykha4id3pu7xib2x5co&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260207_20260808_201227.pdf"
+            },
+            {
               "nome": "ECOSAN SRL Ordine dacquisto_260167_20260718_095931 RIF. ORDINE RAPIDO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -229677,9 +229685,17 @@
               "link": "https://www.dropbox.com/scl/fi/8m1fd4g0qe2xb6j10kb1k/VAN-BERKEL-CONFERMA-ORDINE-001761-RIF.PALETTA-SCHEDA.pdf?rlkey=ak8kcbm3n5wscghjjvhgqfler&dl=0?raw=1",
               "dimensione_kb": 131,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORDINE 001761 RIF.PALETTA SCHEDA.pdf"
+            },
+            {
+              "nome": "VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260208_20260809_111702 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ashuulruyr7dl7xvcbqs6/VAN-BERKEL-INTERNATIONAL-SRL-Ordine-dacquisto_260208_20260809_111702-RIF.-SCHEDA-ELETTRONICA-PER-OMAS-L-37S-MATRICOLA-026305-RIF.-PALE.pdf?rlkey=fyogpfws3lru88p0byd440bq8&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260208_20260809_111702 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf"
             }
           ],
-          "_totale_file": 3769
+          "_totale_file": 3771
         }
       ],
       "file": []
