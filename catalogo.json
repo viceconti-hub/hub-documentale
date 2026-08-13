@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-13T05:26:46Z",
-  "totale_file": 26373,
+  "generato": "2026-08-13T07:26:37Z",
+  "totale_file": 26375,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -188074,7 +188074,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4971,
+      "totale_file": 4973,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -229951,6 +229951,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260196_20260803_102008 RIF. PANIFICIO D'IMPERIO Basato su Ordini cliente 260336..pdf"
             },
             {
+              "nome": "MORINI s.r.l. Ordine dacquisto_260209_20260811_175042 RIF. Basato su Ordini cliente 260381. 260385. 260386..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pojbznu7ilm4ikxnmrnqp/MORINI-s.r.l.-Ordine-dacquisto_260209_20260811_175042-RIF.-Basato-su-Ordini-cliente-260381.-260385.-260386..pdf?rlkey=wos512gswnft1dcwbcd74f7qh&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260209_20260811_175042 RIF. Basato su Ordini cliente 260381. 260385. 260386..pdf"
+            },
+            {
               "nome": "NTA Preventivo 71-PR del 31-07-2026 VICECONTI SNC DI ANTONIO E PROSPERO VICECONTI (1) (1).pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -229989,6 +229997,14 @@
               "link": "https://www.dropbox.com/scl/fi/lzck2plim0ygwjjqsr7bv/PADERNO-ORDINE-SBT-26016461.pdf?rlkey=dmxz58jzcwgbdvrcytauscpar&dl=0?raw=1",
               "dimensione_kb": 1021,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26016461.pdf"
+            },
+            {
+              "nome": "PADERNO ORDINE SBT-26021558.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sg747j10k69oiu852j8ob/PADERNO-ORDINE-SBT-26021558.pdf?rlkey=vmep0q40y5pv374a57ksczvma&dl=0?raw=1",
+              "dimensione_kb": 936,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26021558.pdf"
             },
             {
               "nome": "REPA ITALIA SRL Ordine dacquisto_260194_20260729_162152 RIF. ELETTROVALVOLE BREMA.pdf",
@@ -230143,7 +230159,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260208_20260809_111702 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf"
             }
           ],
-          "_totale_file": 3771
+          "_totale_file": 3773
         }
       ],
       "file": []
