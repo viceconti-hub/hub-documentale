@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-13T00:19:59Z",
-  "totale_file": 26317,
+  "generato": "2026-08-13T02:19:51Z",
+  "totale_file": 26318,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -144579,7 +144579,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4455,
+      "totale_file": 4456,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -167888,7 +167888,7 @@
                                   "nome": "Tessera Sanitaria RETRO.jpeg",
                                   "tipo": "Immagine",
                                   "icona": "🖼️",
-                                  "link": null,
+                                  "link": "https://www.dropbox.com/scl/fi/hk8yk9sj0veapdu2i6w8l/Tessera-Sanitaria-RETRO.jpeg?rlkey=pkv8bexmyk5iwlyj8e61eon4n&dl=0?raw=1",
                                   "dimensione_kb": 431,
                                   "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/GRENKE - RR.VICECONTI - lAURETTA79@/CLIENTI/SAN NICOLA ARCELLA/San Nicola Arcella - Fa Tu/C.I. e Tessera Sanitaria/Tessera Sanitaria RETRO.jpeg"
                                 }
@@ -182921,9 +182921,17 @@
                   "link": "https://www.dropbox.com/scl/fi/biwony3m84dn8momp0ckk/SIRMAN-listino-2023.pdf?rlkey=tv77jmpk69sisohe477kn8lcf&dl=0?raw=1",
                   "dimensione_kb": 6120,
                   "path": "/HUB DOCUMENTALE/FORNITORI/SIRMAN/Archivio/SIRMAN listino 2023.pdf"
+                },
+                {
+                  "nome": "SIRMAN-listino-2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/usugd7o8rdljtxkty0nai/SIRMAN-listino-2024.pdf?rlkey=xqv528defj911fv80q3ru0jo0&dl=0?raw=1",
+                  "dimensione_kb": 5848,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/SIRMAN/Archivio/SIRMAN-listino-2024.pdf"
                 }
               ],
-              "_totale_file": 7
+              "_totale_file": 8
             },
             {
               "nome": "SIRMAN AREA TECNICA",
@@ -183000,15 +183008,15 @@
           ],
           "file": [
             {
-              "nome": "SIRMAN-listino-2024.pdf",
+              "nome": "100.SIRMAN listino 2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/usugd7o8rdljtxkty0nai/SIRMAN-listino-2024.pdf?rlkey=xqv528defj911fv80q3ru0jo0&dl=0?raw=1",
-              "dimensione_kb": 5848,
-              "path": "/HUB DOCUMENTALE/FORNITORI/SIRMAN/SIRMAN-listino-2024.pdf"
+              "link": "https://www.dropbox.com/scl/fi/wpbdbvpzhj0pmtklsk3dk/100.SIRMAN-listino-2026.pdf?rlkey=qnthb7lor2tecioslxr49sjkt&dl=0?raw=1",
+              "dimensione_kb": 8742,
+              "path": "/HUB DOCUMENTALE/FORNITORI/SIRMAN/100.SIRMAN listino 2026.pdf"
             }
           ],
-          "_totale_file": 15
+          "_totale_file": 16
         },
         {
           "nome": "SISTEMI",
