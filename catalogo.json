@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-13T07:26:37Z",
-  "totale_file": 26375,
+  "generato": "2026-08-13T08:29:31Z",
+  "totale_file": 26376,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -230168,7 +230168,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2421,
+      "totale_file": 2422,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -251017,6 +251017,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COMENDA Dettaglio bonifico istantaneo DEL 09_02_2026.pdf"
             },
             {
+              "nome": "COSENTINO ANTONELLA Dettaglio bonifico istantaneo DEL 12_08_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zhxaleawr5x9lkky8tuy0/COSENTINO-ANTONELLA-Dettaglio-bonifico-istantaneo-DEL-12_08_2026.pdf?rlkey=ove335f2vmax7fo91y4z2zs7q&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/COSENTINO ANTONELLA Dettaglio bonifico istantaneo DEL 12_08_2026.pdf"
+            },
+            {
               "nome": "COSENTINO ANTONELLA Dettaglio bonifico istantaneo DEL 13_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -251881,7 +251889,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2401
+          "_totale_file": 2402
         }
       ],
       "file": []
