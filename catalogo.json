@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-13T08:43:55Z",
-  "totale_file": 26376,
+  "generato": "2026-08-14T00:20:37Z",
+  "totale_file": 26377,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -72798,7 +72798,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7237,
+      "totale_file": 7238,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -73167,7 +73167,7 @@
                   "nome": "FALLONI SITUAZIONE CONTABILE AL 28_08_2021.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/6vqi3mi4vttyzwknk4cqy/FALLONI-SITUAZIONE-CONTABILE-AL-28_08_2021.pdf?rlkey=p530zigmru38b2149gzicd71n&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 57,
                   "path": "/HUB DOCUMENTALE/CLIENTI/ARICCIA/FALLONI/FALLONI SITUAZIONE CONTABILE AL 28_08_2021.pdf"
                 },
@@ -83935,7 +83935,7 @@
                       "nome": "RADESCA MAURIZIO Irap 2020.PDF",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/x9gnf2pvc3gge5grs971l/RADESCA-MAURIZIO-Irap-2020.PDF?rlkey=jvteitlbxw51cqespbw01dgol&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 691,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LA STRADELLA DI RADESCA MAURIZIO/RADESCA MAURIZIO COMPASS/RADESCA MAURIZIO Irap 2020.PDF"
                     },
@@ -98188,6 +98188,14 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO Catalogue_20267232614.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/yz9vmtpgexkn36j8vo9kg/LAVASTOVIGLIE-A-CAPPOTTA-COMENDA-LC-700M-ESPLOSO-Catalogue_20267232614.pdf?rlkey=ub3t67r17dh91hjviq0mthy4u&dl=0?raw=1",
+                          "dimensione_kb": 4047,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO Catalogue_20267232614.pdf"
+                        },
+                        {
                           "nome": "LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO MULINELLO Catalogue_20267232614.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
@@ -98196,7 +98204,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO MULINELLO Catalogue_20267232614.pdf"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 2
                     }
                   ],
                   "file": [
@@ -98209,7 +98217,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA/Entrata merci da fornitore_230520_20240311_123951.pdf"
                     }
                   ],
-                  "_totale_file": 2
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -98262,7 +98270,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/WhatsApp Image 2024-06-10 at 13.57.52.jpeg"
                 }
               ],
-              "_totale_file": 8
+              "_totale_file": 9
             },
             {
               "nome": "UBI",
@@ -101425,7 +101433,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1302
+          "_totale_file": 1303
         },
         {
           "nome": "LAVELLO",
@@ -111204,7 +111212,7 @@
                           "nome": "lgBFCG_2020.PDF",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/ibg213mpd7773fmv1hsof/lgBFCG_2020.PDF?rlkey=upsmvfogb9vkbms2343x19uw1&dl=0?raw=1",
                           "dimensione_kb": 151,
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARCELLINA/CORRADO MICHELA BINARIO 1/BAR ROMA AREA TECNICA/LAVASTOVIGLIE COMENDA CORRADO/lgBFCG_2020.PDF"
                         }
