@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-19T05:36:46Z",
-  "totale_file": 26401,
+  "generato": "2026-08-19T07:40:40Z",
+  "totale_file": 26403,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -188321,7 +188321,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4973,
+      "totale_file": 4975,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -189105,6 +189105,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MORINI s.r.l. Entrata merci da fornitore_260166_20260806_131211 RIF. PANIFICIO D'IMPERIO Basato su Ordini cliente 260336. Basato.pdf"
             },
             {
+              "nome": "MORINI s.r.l. Entrata merci da fornitore_260168_20260817_103841 RIF. CAZZANEDDA, PANIFICIO AGRELLO, HAPPY MOMENTS Basato su Ordin.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s9jp96xbq8rm6oee7g6ua/MORINI-s.r.l.-Entrata-merci-da-fornitore_260168_20260817_103841-RIF.-CAZZANEDDA-PANIFICIO-AGRELLO-HAPPY-MOMENTS-Basato-su-Ordin.pdf?rlkey=7i33au6h3xj9omhzw3qxwlpz8&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MORINI s.r.l. Entrata merci da fornitore_260168_20260817_103841 RIF. CAZZANEDDA, PANIFICIO AGRELLO, HAPPY MOMENTS Basato su Ordin.pdf"
+            },
+            {
               "nome": "PADERNO 3789546_1_2025S000037063.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -189393,6 +189401,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/UNIVAC GROUP SRL Entrata merci da fornitore_260135_20260703_091715 RIF. AZIENDA AGRIGOLA PECORELLI MATRICOLA 0485040626 Basato su Or.pdf"
             },
             {
+              "nome": "VAN BERKEL INTERNATIONAL SRL Entrata merci da fornitore_260169_20260817_104841 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rgkequ9vrtv9cia8awv5x/VAN-BERKEL-INTERNATIONAL-SRL-Entrata-merci-da-fornitore_260169_20260817_104841-RIF.-SCHEDA-ELETTRONICA-PER-OMAS-L-37S-MATRICOLA-026305-RIF.-PALE.pdf?rlkey=trpev1uzrsqlk81gc3tuu6zxj&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/VAN BERKEL INTERNATIONAL SRL Entrata merci da fornitore_260169_20260817_104841 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf"
+            },
+            {
               "nome": "ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -189401,7 +189417,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 134
+          "_totale_file": 136
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -204593,7 +204609,7 @@
                       "nome": "TECNOEKA CONFERMA OV21-2464S01 RIF. HOTEL SAN GAETANO.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/c1t2i2qycky1woa1bltkx/TECNOEKA-CONFERMA-OV21-2464S01-RIF.-HOTEL-SAN-GAETANO.pdf?rlkey=i1s8w0b1b6tkck1i4x8iumgrt&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 450,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ARCHIVIO ORDINI D'ACQUISTO/TECNOEKA CONFERMA OV21-2464S01 RIF. HOTEL SAN GAETANO.pdf"
                     },
