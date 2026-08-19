@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-18T00:25:00Z",
-  "totale_file": 26377,
+  "generato": "2026-08-19T00:22:34Z",
+  "totale_file": 26378,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -72798,7 +72798,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7238,
+      "totale_file": 7239,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -96039,6 +96039,30 @@
                   "_totale_file": 1
                 },
                 {
+                  "nome": "PANAINO SRL AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANAINO SRL/PANAINO SRL AREA TECNICA",
+                  "cartelle": [
+                    {
+                      "nome": "AFFETTATRICE FIMAR EASY LINE",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANAINO SRL/PANAINO SRL AREA TECNICA/AFFETTATRICE FIMAR EASY LINE",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "AFFETTATRICE FIMAR EASYLINE ELAFHBS250235M MATRICOLA 231112424 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/sybqy93fa39xzo3hkocx7/AFFETTATRICE-FIMAR-EASYLINE-ELAFHBS250235M-MATRICOLA-231112424-DATI-MACCHINA.jpg?rlkey=gj0od9s4bdps9y0vvrf1i9utz&dl=0?raw=1",
+                          "dimensione_kb": 107,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANAINO SRL/PANAINO SRL AREA TECNICA/AFFETTATRICE FIMAR EASY LINE/AFFETTATRICE FIMAR EASYLINE ELAFHBS250235M MATRICOLA 231112424 DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 1
+                },
+                {
                   "nome": "PANAINO SRL SITUAZIONE CONTABILE DEL 16_10_2025",
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANAINO SRL/PANAINO SRL SITUAZIONE CONTABILE DEL 16_10_2025",
                   "cartelle": [],
@@ -96409,7 +96433,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANAINO SRL/friggitrice-elettrica-fr88n.pdf"
                 }
               ],
-              "_totale_file": 45
+              "_totale_file": 46
             },
             {
               "nome": "PANIFICIO FERRARO",
@@ -96443,6 +96467,22 @@
                   "nome": "PANIFICIO FERRARO AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA",
                   "cartelle": [
+                    {
+                      "nome": "ASPIRAPOLVERE SOTECO PANDA 633",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/ASPIRAPOLVERE SOTECO PANDA 633",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "Gmail - Viceconti Snc_ ordine ricambio per PANDA 633 SOTECO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/d31ntx800wc1ymkegb2uo/Gmail-Viceconti-Snc_-ordine-ricambio-per-PANDA-633-SOTECO.pdf?rlkey=r9botai4mto1731efzdc4e1ty&dl=0?raw=1",
+                          "dimensione_kb": 1916,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/ASPIRAPOLVERE SOTECO PANDA 633/Gmail - Viceconti Snc_ ordine ricambio per PANDA 633 SOTECO.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
                     {
                       "nome": "BILANCIA CUSTOM ICONA 11_2024",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/BILANCIA CUSTOM ICONA 11_2024",
@@ -96482,50 +96522,65 @@
                         }
                       ],
                       "_totale_file": 4
+                    },
+                    {
+                      "nome": "CONFEZIONATRICE BREVETTI GASPARIN 50 PETIT MATRICOLA 515",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/CONFEZIONATRICE BREVETTI GASPARIN 50 PETIT MATRICOLA 515",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "CONFEZIONATRICE GASPARIN 50 PETIT MATRICOLA 515 MANUALE D'USO E MANUTENZIONE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/qkfx59v0cqk8cwvtjsl01/CONFEZIONATRICE-GASPARIN-50-PETIT-MATRICOLA-515-MANUALE-D-USO-E-MANUTENZIONE.pdf?rlkey=eu23jgte200a44t0nctzzhqv4&dl=0?raw=1",
+                          "dimensione_kb": 7537,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/CONFEZIONATRICE BREVETTI GASPARIN 50 PETIT MATRICOLA 515/CONFEZIONATRICE GASPARIN 50 PETIT MATRICOLA 515 MANUALE D'USO E MANUTENZIONE.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "IMPASTATRICE FIMAR IM38SNGV405T MATRICOLA 101002563",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/IMPASTATRICE FIMAR IM38SNGV405T MATRICOLA 101002563",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "IMPASTATRICE FIMAR IM38SNGV405T MATRICOLA 101002563 DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/1tguycqxvglfq4542jewb/IMPASTATRICE-FIMAR-IM38SNGV405T-MATRICOLA-101002563-DATI-MACCHINA.jpeg?rlkey=3uw41471kjpg027gqeoqj328y&dl=0?raw=1",
+                          "dimensione_kb": 171,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/IMPASTATRICE FIMAR IM38SNGV405T MATRICOLA 101002563/IMPASTATRICE FIMAR IM38SNGV405T MATRICOLA 101002563 DATI MACCHINA.jpeg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "TAGLIERINA ORIZZONTALE SOTTORIVA TF-E",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/TAGLIERINA ORIZZONTALE SOTTORIVA TF-E",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "TAGLIERINA ORIZZONTALE SOTTORIVA MANUALE DI ISTRUZIONE - TF-E Cod.35290204-00 ITA Rev.0.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/roxmu405rhlsrk1tcofu9/TAGLIERINA-ORIZZONTALE-SOTTORIVA-MANUALE-DI-ISTRUZIONE-TF-E-Cod.35290204-00-ITA-Rev.0.pdf?rlkey=1948izi9822wwih4pbf5f6bih&dl=0?raw=1",
+                          "dimensione_kb": 464,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/TAGLIERINA ORIZZONTALE SOTTORIVA TF-E/TAGLIERINA ORIZZONTALE SOTTORIVA MANUALE DI ISTRUZIONE - TF-E Cod.35290204-00 ITA Rev.0.pdf"
+                        },
+                        {
+                          "nome": "TAGLIERINA ORIZZONTALE SOTTORIVA TF-E DATI MACCHINA.png",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/ehvwcfi90v5ntxa3gkg5q/TAGLIERINA-ORIZZONTALE-SOTTORIVA-TF-E-DATI-MACCHINA.png?rlkey=11c1wawex6l80hpm3mrkztg18&dl=0?raw=1",
+                          "dimensione_kb": 475,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/TAGLIERINA ORIZZONTALE SOTTORIVA TF-E/TAGLIERINA ORIZZONTALE SOTTORIVA TF-E DATI MACCHINA.png"
+                        }
+                      ],
+                      "_totale_file": 2
                     }
                   ],
-                  "file": [
-                    {
-                      "nome": "Gmail - Viceconti Snc_ ordine ricambio per PANDA 633 SOTECO.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/d31ntx800wc1ymkegb2uo/Gmail-Viceconti-Snc_-ordine-ricambio-per-PANDA-633-SOTECO.pdf?rlkey=r9botai4mto1731efzdc4e1ty&dl=0?raw=1",
-                      "dimensione_kb": 1916,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/Gmail - Viceconti Snc_ ordine ricambio per PANDA 633 SOTECO.pdf"
-                    },
-                    {
-                      "nome": "MANU1 - TF-E Cod.35290204-00 ITA Rev.0.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/roxmu405rhlsrk1tcofu9/MANU1-TF-E-Cod.35290204-00-ITA-Rev.0.pdf?rlkey=1948izi9822wwih4pbf5f6bih&dl=0?raw=1",
-                      "dimensione_kb": 464,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/MANU1 - TF-E Cod.35290204-00 ITA Rev.0.pdf"
-                    },
-                    {
-                      "nome": "PETIT-ITA 2010.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/qkfx59v0cqk8cwvtjsl01/PETIT-ITA-2010.pdf?rlkey=eu23jgte200a44t0nctzzhqv4&dl=0?raw=1",
-                      "dimensione_kb": 7537,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/PETIT-ITA 2010.pdf"
-                    },
-                    {
-                      "nome": "WhatsApp Image 2024-10-01 at 16.03.00.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/1tguycqxvglfq4542jewb/WhatsApp-Image-2024-10-01-at-16.03.00.jpeg?rlkey=3uw41471kjpg027gqeoqj328y&dl=0?raw=1",
-                      "dimensione_kb": 171,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/WhatsApp Image 2024-10-01 at 16.03.00.jpeg"
-                    },
-                    {
-                      "nome": "image003.png",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/ehvwcfi90v5ntxa3gkg5q/image003.png?rlkey=11c1wawex6l80hpm3mrkztg18&dl=0?raw=1",
-                      "dimensione_kb": 475,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/image003.png"
-                    }
-                  ],
+                  "file": [],
                   "_totale_file": 9
                 }
               ],
@@ -101433,7 +101488,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1303
+          "_totale_file": 1304
         },
         {
           "nome": "LAVELLO",
