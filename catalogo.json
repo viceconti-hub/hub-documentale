@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-20T02:24:01Z",
-  "totale_file": 26409,
+  "generato": "2026-08-20T05:33:17Z",
+  "totale_file": 26416,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6764,
+      "totale_file": 6771,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1648,6 +1648,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260720_20260812_134239 RIF. DETERGENTE LAVABICCHIERI + TRAPPOLA INSETTICIDA Basato su Or.pdf"
             },
             {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260733_20260819_104018 RIF. DOSATORE Basato su Ordini cliente 260399..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0hkx8ae9lq2i7dktdo2sq/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Consegna_260733_20260819_104018-RIF.-DOSATORE-Basato-su-Ordini-cliente-260399..pdf?rlkey=skrgx10hc6wgop2jigrlkme4r&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260733_20260819_104018 RIF. DOSATORE Basato su Ordini cliente 260399..pdf"
+            },
+            {
               "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_231298_20260618_195207 RIF. ASSISTENZA SU RATIONAL MONTAGGIO DEPURATORE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2110,6 +2118,14 @@
               "link": "https://www.dropbox.com/scl/fi/l53hoan0akntdl8xy7a7f/LA-CAMBUSA-SRL-RISTORANTE-Consegna_260497_20260630_140618-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260246..pdf?rlkey=s83e0taoznzr2sim264wm2tez&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA CAMBUSA SRL RISTORANTE Consegna_260497_20260630_140618 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260246..pdf"
+            },
+            {
+              "nome": "LA DOLCE VITA SRLS Consegna_260732_20260818_131745 RIF. HOTELLERIE Basato su Ordini cliente 260398. PAGATO SEGUE FAT.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dxv4to22f9e6rjggcsxpy/LA-DOLCE-VITA-SRLS-Consegna_260732_20260818_131745-RIF.-HOTELLERIE-Basato-su-Ordini-cliente-260398.-PAGATO-SEGUE-FAT.pdf?rlkey=uj0i1b1b5uy8s0s6xvc6j23kb&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA DOLCE VITA SRLS Consegna_260732_20260818_131745 RIF. HOTELLERIE Basato su Ordini cliente 260398. PAGATO SEGUE FAT.pdf"
             },
             {
               "nome": "LA FONTANELLA DI LUCIA ARLEO E NATALE Consegna_260398_20260612_102341 RIF. PALETTINO PIZZA FORATO INOX Ø 17 CM, L MANICO CM 150.pdf",
@@ -2870,6 +2886,14 @@
               "link": "https://www.dropbox.com/scl/fi/pikj6wlao2u4fdhnda4v9/PANAINO-SRL-UNIPERSONALE-Consegna_260681_20260806_123207-RIF.-OFFERTA-SPECIALE-VETRINA-BIBITE-KLIMAITALIA-SILM-COOLER-225.pdf?rlkey=x0lee4gg5vspycpx4fczlciq1&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PANAINO SRL UNIPERSONALE Consegna_260681_20260806_123207 RIF. OFFERTA SPECIALE VETRINA BIBITE KLIMAITALIA SILM COOLER 225.pdf"
+            },
+            {
+              "nome": "PANAINO SRL UNIPERSONALE Consegna_260681_20260818_122812 RIF. OFFERTA SPECIALE VETRINA BIBITE KLIMAITALIA SILM COOLER 225.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oqpu2h6mt0u32p6sjeaov/PANAINO-SRL-UNIPERSONALE-Consegna_260681_20260818_122812-RIF.-OFFERTA-SPECIALE-VETRINA-BIBITE-KLIMAITALIA-SILM-COOLER-225.pdf?rlkey=dszdw45ea52gm2sd4b8w19u2r&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PANAINO SRL UNIPERSONALE Consegna_260681_20260818_122812 RIF. OFFERTA SPECIALE VETRINA BIBITE KLIMAITALIA SILM COOLER 225.pdf"
             },
             {
               "nome": "PANINOTECA ESSEDI snc di SABELLA ANGELO & C. Consegna_260705_20260810_113430 RIF. INTERRUTTORE (ON-OFF) Basato su Ordini cliente 260377..pdf",
@@ -3856,7 +3880,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 480
+          "_totale_file": 483
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -7536,6 +7560,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LUILORE' SRLS Offerta di vendita_260352_20260812_155825.pdf"
             },
             {
+              "nome": "LUILORE' SRLS Offerta di vendita_260352_20260819_193810.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/66jr2pn2zv1ue6yxyeksf/LUILORE-SRLS-Offerta-di-vendita_260352_20260819_193810.pdf?rlkey=uifyosr2g07k136f9lav3jdg7&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LUILORE' SRLS Offerta di vendita_260352_20260819_193810.pdf"
+            },
+            {
               "nome": "LUTIPICO SRLS Offerta di vendita_260162_20260514_202207.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -8104,7 +8136,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 215
+          "_totale_file": 216
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -33209,7 +33241,7 @@
                               "nome": "FAEMA_X1 GRANDITALIA.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/sm1gcohdwwun6xcaejwqq/FAEMA_X1-GRANDITALIA.pdf?rlkey=aqk2gwpz8l3yjmdidcwwqcok2&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 635,
                               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/POLLINO TOUR/SCHEDE TECNICHE ATTREZZATURE OFS 180841/FAEMA_X1 GRANDITALIA.pdf"
                             },
@@ -67091,6 +67123,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260389_20260812_134217 RIF. DETERGENTE LAVABICCHIERI + TRAPPOLA INSETTICIDA.pdf"
             },
             {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260399_20260819_103957 RIF. DOSATORE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/65ylwpgveb20hdzazch16/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Ordine-cliente_260399_20260819_103957-RIF.-DOSATORE.pdf?rlkey=es6uryxh8gfomb4wc450mscie&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260399_20260819_103957 RIF. DOSATORE.pdf"
+            },
+            {
               "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260153_20260518_170835 RIF. Basato su Offerte di vendita 260173..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -67371,6 +67411,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA CAMBUSA SRL RISTORANTE Ordine cliente_260246_20260630_140608 RIF. DETERGENTE RATIONAL.pdf"
             },
             {
+              "nome": "LA DOLCE VITA SRLS Ordine cliente_260398_20260818_131659 RIF. HOTELLERIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pebsjn4ot0g5qhgsa81tg/LA-DOLCE-VITA-SRLS-Ordine-cliente_260398_20260818_131659-RIF.-HOTELLERIE.pdf?rlkey=5zez4d8yfptzirogyhot2iaat&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA DOLCE VITA SRLS Ordine cliente_260398_20260818_131659 RIF. HOTELLERIE.pdf"
+            },
+            {
               "nome": "LA GINESTRA S.r.l. Ordine cliente_260247_20260701_185126.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -67625,6 +67673,14 @@
               "link": "https://www.dropbox.com/scl/fi/4g6m50z90bqwo852t7fww/M-M-SRL-Ordine-cliente_260367_20260807_120747-RIF.-BACINELLE-GASTRONORM-INOX.pdf?rlkey=7houceayl3eiyzfibvxpfvyq2&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/M&M SRL Ordine cliente_260367_20260807_120747 RIF. BACINELLE GASTRONORM INOX.pdf"
+            },
+            {
+              "nome": "M&M SRL Ordine cliente_260400_20260819_162302.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dq2gwyb32s5d4d6q90t20/M-M-SRL-Ordine-cliente_260400_20260819_162302.pdf?rlkey=esazlua22t095dgvn39rsu8vi&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/M&M SRL Ordine cliente_260400_20260819_162302.pdf"
             },
             {
               "nome": "MACELLERIA COSENTINO DOMENICO Ordine cliente_260287_20260720_115333 RIF. PIASTRA E COLTELLO TRITACARNE 32.pdf",
@@ -68379,7 +68435,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 269
+          "_totale_file": 272
         }
       ],
       "file": []
