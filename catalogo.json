@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-20T00:22:18Z",
-  "totale_file": 26408,
+  "generato": "2026-08-20T02:24:01Z",
+  "totale_file": 26409,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -145331,7 +145331,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4456,
+      "totale_file": 4457,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -161616,6 +161616,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015 - refrigerazione.pdf"
             },
             {
+              "nome": "Dropbox.zip",
+              "tipo": "Archivio",
+              "icona": "🗜️",
+              "link": "https://www.dropbox.com/scl/fi/lfgyo6n6ct9yp3i3asvck/Dropbox.zip?rlkey=iitm4pmg2cifhwxvlqyuc6xbn&dl=0?raw=1",
+              "dimensione_kb": 48,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/Dropbox.zip"
+            },
+            {
               "nome": "Lettera Blender Rio Hamilton.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -161632,7 +161640,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/facsimile lettera ritiro Blender Rio Hamilton_P.docx"
             }
           ],
-          "_totale_file": 29
+          "_totale_file": 30
         },
         {
           "nome": "DINI ARGEO",
