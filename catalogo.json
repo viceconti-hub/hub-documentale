@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-19T09:01:06Z",
-  "totale_file": 26403,
+  "generato": "2026-08-20T00:22:18Z",
+  "totale_file": 26408,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -72982,7 +72982,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7239,
+      "totale_file": 7244,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -83150,6 +83150,30 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "PELAPATATE FIMA PPF10MA405T ESPLOSO RICAMBI ppn-ppf-lcn-lcf10-18m_0.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/7rlqpkjq7w4qx4cro96y3/PELAPATATE-FIMA-PPF10MA405T-ESPLOSO-RICAMBI-ppn-ppf-lcn-lcf10-18m_0.pdf?rlkey=m43w76c3fw81mr8yis67d7h7f&dl=0?raw=1",
+                          "dimensione_kb": 101,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/PELAPATATE FIMAR/PELAPATATE FIMA PPF10MA405T ESPLOSO RICAMBI ppn-ppf-lcn-lcf10-18m_0.pdf"
+                        },
+                        {
+                          "nome": "PELAPATATE FIMA PPF10MA405T MANUALE D'USO E MANUTENZIONE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/xw58kka1gqt4uo1v8r0ml/PELAPATATE-FIMA-PPF10MA405T-MANUALE-D-USO-E-MANUTENZIONE.pdf?rlkey=bm5ngaxn5nzg6tzlztsut5uqb&dl=0?raw=1",
+                          "dimensione_kb": 4055,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/PELAPATATE FIMAR/PELAPATATE FIMA PPF10MA405T MANUALE D'USO E MANUTENZIONE.pdf"
+                        },
+                        {
+                          "nome": "PELAPATATE FIMA PPF10MA405T SCHEMA ELETTRICO TRIFASE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/42uosil5ms7viod9mrjqz/PELAPATATE-FIMA-PPF10MA405T-SCHEMA-ELETTRICO-TRIFASE.pdf?rlkey=m5bexvxrof4txfgei63dzjspk&dl=0?raw=1",
+                          "dimensione_kb": 17,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/PELAPATATE FIMAR/PELAPATATE FIMA PPF10MA405T SCHEMA ELETTRICO TRIFASE.pdf"
+                        },
+                        {
                           "nome": "PELAPATATE FIMAR DATI MACCHINA.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -83158,11 +83182,11 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/AI CARCONI/AI CARCONI AREA TECNICA/PELAPATATE FIMAR/PELAPATATE FIMAR DATI MACCHINA.jpeg"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 4
                     }
                   ],
                   "file": [],
-                  "_totale_file": 14
+                  "_totale_file": 17
                 },
                 {
                   "nome": "ARCHIVIO",
@@ -83254,7 +83278,7 @@
                 }
               ],
               "file": [],
-              "_totale_file": 24
+              "_totale_file": 27
             },
             {
               "nome": "AVVOCATO RICCIARDONE",
@@ -85113,7 +85137,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 212
+          "_totale_file": 215
         },
         {
           "nome": "LAINO",
@@ -88266,7 +88290,24 @@
                 {
                   "nome": "AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AGUA LOCA/AREA TECNICA",
-                  "cartelle": [],
+                  "cartelle": [
+                    {
+                      "nome": "IMPASTATRICE FIMAR IMP 38 S MATRICOLA 0640308",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AGUA LOCA/AREA TECNICA/IMPASTATRICE FIMAR IMP 38 S MATRICOLA 0640308",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "IMPASTATRICE FIMAR IMP 38 S MATRICOLA 0640308 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/4e9xke5eeqz3u8nv8xhrx/IMPASTATRICE-FIMAR-IMP-38-S-MATRICOLA-0640308-DATI-MACCHINA.jpg?rlkey=5udjsbhbi4v22c18lmho1glzw&dl=0?raw=1",
+                          "dimensione_kb": 98,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AGUA LOCA/AREA TECNICA/IMPASTATRICE FIMAR IMP 38 S MATRICOLA 0640308/IMPASTATRICE FIMAR IMP 38 S MATRICOLA 0640308 DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    }
+                  ],
                   "file": [
                     {
                       "nome": "BERTO'S ESPLOSO CUCINA 4 FUOCHI.pdf",
@@ -88285,7 +88326,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AGUA LOCA/AREA TECNICA/PRODOTTI per CLIENTE.pdf"
                     }
                   ],
-                  "_totale_file": 2
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -88346,7 +88387,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AGUA LOCA/PREVENTIVO 1 LISTINO _ qtà + descr + prezzo + importo.pdf"
                 }
               ],
-              "_totale_file": 9
+              "_totale_file": 10
             },
             {
               "nome": "ALICE SRL",
@@ -93061,6 +93102,22 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "SPEEDY-PLUS-ITA_REV.-22.01.2016.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/em2kn5m1tggphuq3d9eb7/SPEEDY-PLUS-ITA_REV.-22.01.2016.pdf?rlkey=3ocq5gopn7zit3oxpe4gcs237&dl=0?raw=1",
+                          "dimensione_kb": 270,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/ASCIUGA POSATE/SPEEDY-PLUS-ITA_REV.-22.01.2016.pdf"
+                        },
+                        {
+                          "nome": "Speedy-Plus-e-Super-MARCIA-ARRESTO-Esploso.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/e1cp1o4zqr4dk51pc2c93/Speedy-Plus-e-Super-MARCIA-ARRESTO-Esploso.pdf?rlkey=4rxic19umceyxszila1p1pp3d&dl=0?raw=1",
+                          "dimensione_kb": 103,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/ASCIUGA POSATE/Speedy-Plus-e-Super-MARCIA-ARRESTO-Esploso.pdf"
+                        },
+                        {
                           "nome": "WhatsApp Image 2023-04-21 at 09.04.21.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -93069,7 +93126,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/ASCIUGA POSATE/WhatsApp Image 2023-04-21 at 09.04.21.jpeg"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 3
                     },
                     {
                       "nome": "BOLLITORE MBM 100 LT",
@@ -93189,20 +93246,20 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "DRYAGER DATI MACCHINA DDT HAPPY MOMENT.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/644o96x83byyaeay0jqkc/DRYAGER-DATI-MACCHINA-DDT-HAPPY-MOMENT.jpeg?rlkey=mu2zn8jikloy9zte8klpuga5a&dl=0?raw=1",
+                          "dimensione_kb": 150,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/DRYAGER/DRYAGER DATI MACCHINA DDT HAPPY MOMENT.jpeg"
+                        },
+                        {
                           "nome": "DRYAGER DATI MACCHINA HAPPY MOMENTS.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/lhe2rny5qm6usfmn2tti4/DRYAGER-DATI-MACCHINA-HAPPY-MOMENTS.jpeg?rlkey=061e59jzbwstb84pz387ev9cx&dl=0?raw=1",
                           "dimensione_kb": 119,
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/DRYAGER/DRYAGER DATI MACCHINA HAPPY MOMENTS.jpeg"
-                        },
-                        {
-                          "nome": "WhatsApp Image 2022-03-17 at 17.59.25.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/644o96x83byyaeay0jqkc/WhatsApp-Image-2022-03-17-at-17.59.25.jpeg?rlkey=mu2zn8jikloy9zte8klpuga5a&dl=0?raw=1",
-                          "dimensione_kb": 150,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/DRYAGER/WhatsApp Image 2022-03-17 at 17.59.25.jpeg"
                         }
                       ],
                       "_totale_file": 2
@@ -93544,8 +93601,8 @@
                       "_totale_file": 3
                     },
                     {
-                      "nome": "LAVASTOVILGLIE A CAPPOTTA SILANOS",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/LAVASTOVILGLIE A CAPPOTTA SILANOS",
+                      "nome": "LAVASTOVIGLIE A CAPPOTTA SILANOS",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA SILANOS",
                       "cartelle": [],
                       "file": [
                         {
@@ -93554,7 +93611,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/fbavrd8ukhzs0qlftolt9/C60-PLUS-TFT-N1300-EVO2-HY-NRG-1.pdf?rlkey=xjfm6ib2dafai2d6hexphvchs&dl=0?raw=1",
                           "dimensione_kb": 243,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/LAVASTOVILGLIE A CAPPOTTA SILANOS/C60 PLUS TFT (N1300 EVO2 HY-NRG)-1.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA SILANOS/C60 PLUS TFT (N1300 EVO2 HY-NRG)-1.pdf"
                         },
                         {
                           "nome": "Gmail - Re_ Viceconti Snc_ richiesta codice ricambio RIF. HAPPY SILANOS - Ticket Id_ 5280558 (#5280558#).pdf",
@@ -93562,7 +93619,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/qogg6csx07pik57nbg2vt/Gmail-Re_-Viceconti-Snc_-richiesta-codice-ricambio-RIF.-HAPPY-SILANOS-Ticket-Id_-5280558-5280558.pdf?rlkey=50pig7bv7bdwlobudh58yhma2&dl=0?raw=1",
                           "dimensione_kb": 244,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/LAVASTOVILGLIE A CAPPOTTA SILANOS/Gmail - Re_ Viceconti Snc_ richiesta codice ricambio RIF. HAPPY SILANOS - Ticket Id_ 5280558 (#5280558#).pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA SILANOS/Gmail - Re_ Viceconti Snc_ richiesta codice ricambio RIF. HAPPY SILANOS - Ticket Id_ 5280558 (#5280558#).pdf"
                         },
                         {
                           "nome": "LAVASTOVIGLIE A CAPPOTTA SILANOS WhatsApp Image 2021-10-12 at 17.50.04.jpeg",
@@ -93570,7 +93627,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/48gahhbxklqm29yt65s6e/LAVASTOVIGLIE-A-CAPPOTTA-SILANOS-WhatsApp-Image-2021-10-12-at-17.50.04.jpeg?rlkey=kt7s34t5wfk38jf0mxyqlebtg&dl=0?raw=1",
                           "dimensione_kb": 63,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/LAVASTOVILGLIE A CAPPOTTA SILANOS/LAVASTOVIGLIE A CAPPOTTA SILANOS WhatsApp Image 2021-10-12 at 17.50.04.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA SILANOS/LAVASTOVIGLIE A CAPPOTTA SILANOS WhatsApp Image 2021-10-12 at 17.50.04.jpeg"
                         },
                         {
                           "nome": "LAVASTOVIGLIE A CAPPOTTA SILANOS WhatsApp Image 2021-10-12 at 17.50.43.jpeg",
@@ -93578,7 +93635,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/m21tlmvyrmxyifuvbkzwn/LAVASTOVIGLIE-A-CAPPOTTA-SILANOS-WhatsApp-Image-2021-10-12-at-17.50.43.jpeg?rlkey=00q3mxdnepvjjfentluxv5rww&dl=0?raw=1",
                           "dimensione_kb": 70,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/LAVASTOVILGLIE A CAPPOTTA SILANOS/LAVASTOVIGLIE A CAPPOTTA SILANOS WhatsApp Image 2021-10-12 at 17.50.43.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA SILANOS/LAVASTOVIGLIE A CAPPOTTA SILANOS WhatsApp Image 2021-10-12 at 17.50.43.jpeg"
                         }
                       ],
                       "_totale_file": 4
@@ -93664,65 +93721,73 @@
                       "_totale_file": 2
                     }
                   ],
-                  "file": [
-                    {
-                      "nome": "List & Label Report.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/wpuy2g163c5402l6h287u/List-Label-Report.pdf?rlkey=pnq4033lvj9w02eirlmvg4oiv&dl=0?raw=1",
-                      "dimensione_kb": 8270,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/List & Label Report.pdf"
-                    },
-                    {
-                      "nome": "SPEEDY-PLUS-ITA_REV.-22.01.2016.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/em2kn5m1tggphuq3d9eb7/SPEEDY-PLUS-ITA_REV.-22.01.2016.pdf?rlkey=3ocq5gopn7zit3oxpe4gcs237&dl=0?raw=1",
-                      "dimensione_kb": 270,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/SPEEDY-PLUS-ITA_REV.-22.01.2016.pdf"
-                    },
-                    {
-                      "nome": "Speedy-Plus-e-Super-MARCIA-ARRESTO-Esploso (1).pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/4xdglq0wfpsxzq82pansv/Speedy-Plus-e-Super-MARCIA-ARRESTO-Esploso-1.pdf?rlkey=wjmd5bv2kfjnbxsckpo8nz0d7&dl=0?raw=1",
-                      "dimensione_kb": 103,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/Speedy-Plus-e-Super-MARCIA-ARRESTO-Esploso (1).pdf"
-                    },
-                    {
-                      "nome": "Speedy-Plus-e-Super-MARCIA-ARRESTO-Esploso.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/e1cp1o4zqr4dk51pc2c93/Speedy-Plus-e-Super-MARCIA-ARRESTO-Esploso.pdf?rlkey=4rxic19umceyxszila1p1pp3d&dl=0?raw=1",
-                      "dimensione_kb": 103,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/Speedy-Plus-e-Super-MARCIA-ARRESTO-Esploso.pdf"
-                    }
-                  ],
-                  "_totale_file": 61
+                  "file": [],
+                  "_totale_file": 59
                 },
                 {
-                  "nome": "HAPPY MOMENTS SITUAZIONE CONTABILE AL 11_10_2025",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE AL 11_10_2025",
-                  "cartelle": [],
-                  "file": [
+                  "nome": "HAPPY MOMENTS SITUAZIONE CONTABILE",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE",
+                  "cartelle": [
                     {
-                      "nome": "Gmail - Situazione debitoria Happy Moments_Viceconti snc.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/r8xwjr1z55iw7mlebqdq6/Gmail-Situazione-debitoria-Happy-Moments_Viceconti-snc.pdf?rlkey=i6mlipm7teg9livy7nxnzw12p&dl=0?raw=1",
-                      "dimensione_kb": 252,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE AL 11_10_2025/Gmail - Situazione debitoria Happy Moments_Viceconti snc.pdf"
-                    },
-                    {
-                      "nome": "HAPPY MOMENTS Fattura di vendita_2300375_20250925_192110 NON TRASMESSA ELETTRONICAMENTE.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/rzk9d1vg48y8e2zx8xzgk/HAPPY-MOMENTS-Fattura-di-vendita_2300375_20250925_192110-NON-TRASMESSA-ELETTRONICAMENTE.pdf?rlkey=67ddupxu6bc9anusl7l1xiq2q&dl=0?raw=1",
-                      "dimensione_kb": 68,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE AL 11_10_2025/HAPPY MOMENTS Fattura di vendita_2300375_20250925_192110 NON TRASMESSA ELETTRONICAMENTE.pdf"
+                      "nome": "HAPPY MOMENTS SITUAZIONE CONTABILE AL 11_10_2025",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE/HAPPY MOMENTS SITUAZIONE CONTABILE AL 11_10_2025",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "Gmail - Situazione debitoria Happy Moments_Viceconti snc.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/r8xwjr1z55iw7mlebqdq6/Gmail-Situazione-debitoria-Happy-Moments_Viceconti-snc.pdf?rlkey=i6mlipm7teg9livy7nxnzw12p&dl=0?raw=1",
+                          "dimensione_kb": 252,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE/HAPPY MOMENTS SITUAZIONE CONTABILE AL 11_10_2025/Gmail - Situazione debitoria Happy Moments_Viceconti snc.pdf"
+                        },
+                        {
+                          "nome": "HAPPY MOMENTS Fattura di vendita_2300375_20250925_192110 NON TRASMESSA ELETTRONICAMENTE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/rzk9d1vg48y8e2zx8xzgk/HAPPY-MOMENTS-Fattura-di-vendita_2300375_20250925_192110-NON-TRASMESSA-ELETTRONICAMENTE.pdf?rlkey=67ddupxu6bc9anusl7l1xiq2q&dl=0?raw=1",
+                          "dimensione_kb": 68,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE/HAPPY MOMENTS SITUAZIONE CONTABILE AL 11_10_2025/HAPPY MOMENTS Fattura di vendita_2300375_20250925_192110 NON TRASMESSA ELETTRONICAMENTE.pdf"
+                        }
+                      ],
+                      "_totale_file": 2
                     }
                   ],
-                  "_totale_file": 2
+                  "file": [
+                    {
+                      "nome": "Movimenti effettuati per CLIENTE 10_10_2025.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/xf0uf31jc3l6phi45qu55/Movimenti-effettuati-per-CLIENTE-10_10_2025.pdf?rlkey=uuaoygg27n3swnw4d0xnri1ko&dl=0?raw=1",
+                      "dimensione_kb": 258,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE/Movimenti effettuati per CLIENTE 10_10_2025.pdf"
+                    },
+                    {
+                      "nome": "Movimenti effettuati per CLIENTE 11_10_2025.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/xlgbzuahblc3pjgqbh4ok/Movimenti-effettuati-per-CLIENTE-11_10_2025.pdf?rlkey=gfo3lw5nxjx8tmwhq7vhfwduk&dl=0?raw=1",
+                      "dimensione_kb": 295,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE/Movimenti effettuati per CLIENTE 11_10_2025.pdf"
+                    },
+                    {
+                      "nome": "Scheda contabile - C001320_ HAPPY MOMENTS RESTAURANT & SERVICE S.R.L DAL 01_01_2019 AL 11_10_2025.xlsx",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/2nfv31w5bgaa2ewa8zpvy/Scheda-contabile-C001320_-HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L-DAL-01_01_2019-AL-11_10_2025.xlsx?rlkey=af4lq5yzhzrxhtjjr9gsbrhdw&dl=0?raw=1",
+                      "dimensione_kb": 25,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE/Scheda contabile - C001320_ HAPPY MOMENTS RESTAURANT & SERVICE S.R.L DAL 01_01_2019 AL 11_10_2025.xlsx"
+                    },
+                    {
+                      "nome": "Scheda contabile - C001320_ HAPPY MOMENTS RESTAURANT & SERVICE S.R.L DAL 01_01_2023 AL 31_08_2025.xlsx",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/0iltpw5s9vp9np0dlouu5/Scheda-contabile-C001320_-HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L-DAL-01_01_2023-AL-31_08_2025.xlsx?rlkey=ml7ip92nr91bnr37akzx0r7mz&dl=0?raw=1",
+                      "dimensione_kb": 34,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS SITUAZIONE CONTABILE/Scheda contabile - C001320_ HAPPY MOMENTS RESTAURANT & SERVICE S.R.L DAL 01_01_2023 AL 31_08_2025.xlsx"
+                    }
+                  ],
+                  "_totale_file": 6
                 },
                 {
                   "nome": "HAPPY MOMENTS VOLANO + GRIGLIA",
@@ -93903,44 +93968,12 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/INOXBIM_TAVOLO RISCALDATO TV6T.10.pdf"
                 },
                 {
-                  "nome": "Movimenti effettuati per CLIENTE 10_10_2025.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/xf0uf31jc3l6phi45qu55/Movimenti-effettuati-per-CLIENTE-10_10_2025.pdf?rlkey=uuaoygg27n3swnw4d0xnri1ko&dl=0?raw=1",
-                  "dimensione_kb": 258,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/Movimenti effettuati per CLIENTE 10_10_2025.pdf"
-                },
-                {
-                  "nome": "Movimenti effettuati per CLIENTE 11_10_2025.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/xlgbzuahblc3pjgqbh4ok/Movimenti-effettuati-per-CLIENTE-11_10_2025.pdf?rlkey=gfo3lw5nxjx8tmwhq7vhfwduk&dl=0?raw=1",
-                  "dimensione_kb": 295,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/Movimenti effettuati per CLIENTE 11_10_2025.pdf"
-                },
-                {
                   "nome": "STOPPER.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/75l1kkh7btniu72nnf20n/STOPPER.pdf?rlkey=jbpbhnbnb09rq0juctxy1wm17&dl=0?raw=1",
                   "dimensione_kb": 540,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/STOPPER.pdf"
-                },
-                {
-                  "nome": "Scheda contabile - C001320_ HAPPY MOMENTS RESTAURANT & SERVICE S.R.L DAL 01_01_2019 AL 11_10_2025.xlsx",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/2nfv31w5bgaa2ewa8zpvy/Scheda-contabile-C001320_-HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L-DAL-01_01_2019-AL-11_10_2025.xlsx?rlkey=af4lq5yzhzrxhtjjr9gsbrhdw&dl=0?raw=1",
-                  "dimensione_kb": 25,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/Scheda contabile - C001320_ HAPPY MOMENTS RESTAURANT & SERVICE S.R.L DAL 01_01_2019 AL 11_10_2025.xlsx"
-                },
-                {
-                  "nome": "Scheda contabile - C001320_ HAPPY MOMENTS RESTAURANT & SERVICE S.R.L DAL 01_01_2023 AL 31_08_2025.xlsx",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/0iltpw5s9vp9np0dlouu5/Scheda-contabile-C001320_-HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L-DAL-01_01_2023-AL-31_08_2025.xlsx?rlkey=ml7ip92nr91bnr37akzx0r7mz&dl=0?raw=1",
-                  "dimensione_kb": 34,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/Scheda contabile - C001320_ HAPPY MOMENTS RESTAURANT & SERVICE S.R.L DAL 01_01_2023 AL 31_08_2025.xlsx"
                 },
                 {
                   "nome": "WhatsApp Image 2021-08-09 at 16.05.28.jpeg",
@@ -93959,7 +93992,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/mbm cesti x pentole_offerta.pdf"
                 }
               ],
-              "_totale_file": 100
+              "_totale_file": 98
             },
             {
               "nome": "HOTEL SAN DOMENICO",
@@ -95583,6 +95616,22 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/MARIZIOSA PASTICCERIA LISTA/MARIZIOSA AREA TECNICA",
                   "cartelle": [
                     {
+                      "nome": "FORNO A CONVEZIONE FEDL10NEMIDVH20 MATRICOLA 201931804G",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/MARIZIOSA PASTICCERIA LISTA/MARIZIOSA AREA TECNICA/FORNO A CONVEZIONE FEDL10NEMIDVH20 MATRICOLA 201931804G",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "FORNO A CONVEZIONE FEDL10NEMIDVH20 MATRICOLA 201931804G DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/i58f5ip0v6dblv5j8fdmi/FORNO-A-CONVEZIONE-FEDL10NEMIDVH20-MATRICOLA-201931804G-DATI-MACCHINA.jpg?rlkey=mn9k9wwcukf3rsjbop9l2n0ov&dl=0?raw=1",
+                          "dimensione_kb": 126,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/MARIZIOSA PASTICCERIA LISTA/MARIZIOSA AREA TECNICA/FORNO A CONVEZIONE FEDL10NEMIDVH20 MATRICOLA 201931804G/FORNO A CONVEZIONE FEDL10NEMIDVH20 MATRICOLA 201931804G DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "LAVASTOVIGLIE KUPPS MARIZIOSA",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/MARIZIOSA PASTICCERIA LISTA/MARIZIOSA AREA TECNICA/LAVASTOVIGLIE KUPPS MARIZIOSA",
                       "cartelle": [],
@@ -95608,7 +95657,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 2
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -95765,7 +95814,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/MARIZIOSA PASTICCERIA LISTA/PASTICCERIA LISTA Ordine cliente_220148_20220322_175844.pdf"
                 }
               ],
-              "_totale_file": 21
+              "_totale_file": 22
             },
             {
               "nome": "MARUCA",
@@ -96719,9 +96768,25 @@
                           "link": "https://www.dropbox.com/scl/fi/qkfx59v0cqk8cwvtjsl01/CONFEZIONATRICE-GASPARIN-50-PETIT-MATRICOLA-515-MANUALE-D-USO-E-MANUTENZIONE.pdf?rlkey=eu23jgte200a44t0nctzzhqv4&dl=0?raw=1",
                           "dimensione_kb": 7537,
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/CONFEZIONATRICE BREVETTI GASPARIN 50 PETIT MATRICOLA 515/CONFEZIONATRICE GASPARIN 50 PETIT MATRICOLA 515 MANUALE D'USO E MANUTENZIONE.pdf"
+                        },
+                        {
+                          "nome": "CONFEZIONATRICE GASPARINI PETIT_99-977_515-221_IT SCHEMA ELETTRICO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/6afjh5fzu39v0utxlldlz/CONFEZIONATRICE-GASPARINI-PETIT_99-977_515-221_IT-SCHEMA-ELETTRICO.pdf?rlkey=5q3zi4pbn7r6hd5vk1k62ia12&dl=0?raw=1",
+                          "dimensione_kb": 1135,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/CONFEZIONATRICE BREVETTI GASPARIN 50 PETIT MATRICOLA 515/CONFEZIONATRICE GASPARINI PETIT_99-977_515-221_IT SCHEMA ELETTRICO.pdf"
+                        },
+                        {
+                          "nome": "CONFEZIONATRICI GASPARIN DISEGNO IPOTESI COLLEGAMENTO RESISTENZE.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/s88dr3s58ccsn1k2i5yap/CONFEZIONATRICI-GASPARIN-DISEGNO-IPOTESI-COLLEGAMENTO-RESISTENZE.jpg?rlkey=jljjwndqngyldj7dt4qrvdow8&dl=0?raw=1",
+                          "dimensione_kb": 168,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/PANIFICIO FERRARO AREA TECNICA/CONFEZIONATRICE BREVETTI GASPARIN 50 PETIT MATRICOLA 515/CONFEZIONATRICI GASPARIN DISEGNO IPOTESI COLLEGAMENTO RESISTENZE.jpg"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 3
                     },
                     {
                       "nome": "IMPASTATRICE FIMAR IM38SNGV405T MATRICOLA 101002563",
@@ -96765,7 +96830,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 9
+                  "_totale_file": 11
                 }
               ],
               "file": [
@@ -96818,7 +96883,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANIFICIO FERRARO/WhatsApp Image 2023-08-28 at 17.25.59.jpeg"
                 }
               ],
-              "_totale_file": 17
+              "_totale_file": 19
             },
             {
               "nome": "PECCATI DI GOLA",
@@ -101672,7 +101737,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1304
+          "_totale_file": 1306
         },
         {
           "nome": "LAVELLO",
