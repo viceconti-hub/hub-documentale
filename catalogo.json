@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-20T07:36:17Z",
-  "totale_file": 26416,
+  "generato": "2026-08-20T08:41:36Z",
+  "totale_file": 26418,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -230560,7 +230560,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2422,
+      "totale_file": 2424,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -246498,7 +246498,7 @@
                           "nome": "PADERNO BONIFICO DEL 14_05_2024.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/zmvmfur5of8vqii29qhnq/PADERNO-BONIFICO-DEL-14_05_2024.pdf?rlkey=wx8g8unicy5iwwcrr3udzva1l&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 100,
                           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/PADERNO PAGAMENTI/PADERNO BONIFICO DEL 14_05_2024.pdf"
                         },
@@ -251625,6 +251625,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR Dettaglio bonifico istantaneo DEL 20_04_2026.pdf"
             },
             {
+              "nome": "FOODEX SRL Dettaglio bonifico DEL 19_08_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w82koq7ticj0rvlo0jh89/FOODEX-SRL-Dettaglio-bonifico-DEL-19_08_2026.pdf?rlkey=od70iykefhb5y33w7hambi3i6&dl=0?raw=1",
+              "dimensione_kb": 102,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FOODEX SRL Dettaglio bonifico DEL 19_08_2026.pdf"
+            },
+            {
               "nome": "FRIGOMAT COPIA TITOLI AR DEL 14_11_2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -252105,6 +252113,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/REPA Dettaglio bonifico istantaneo DEL 17_03_2026.pdf"
             },
             {
+              "nome": "REPA Dettaglio bonifico istantaneo DEL 19_08_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cpdt3m4pfo3j4l1eh3nt4/REPA-Dettaglio-bonifico-istantaneo-DEL-19_08_2026.pdf?rlkey=uylkjevsu2to0nkygs18vhyq6&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/REPA Dettaglio bonifico istantaneo DEL 19_08_2026.pdf"
+            },
+            {
               "nome": "SALYER BLADES SRL Dettaglio bonifico istantaneo DEL 15_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -252281,7 +252297,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2402
+          "_totale_file": 2404
         }
       ],
       "file": []
