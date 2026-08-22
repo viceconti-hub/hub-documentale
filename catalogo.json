@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-22T00:20:51Z",
-  "totale_file": 26425,
+  "generato": "2026-08-22T02:19:46Z",
+  "totale_file": 26426,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -145469,7 +145469,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4457,
+      "totale_file": 4458,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -148022,7 +148022,7 @@
                           "nome": "AS6040E+PRS_ARISTARCO.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/hew8f4w9b1sirbuafwewc/AS6040E-PRS_ARISTARCO.pdf?rlkey=fbqfofkbdlzpfgu0ucqjutzvp&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 2291,
                           "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4450-4550_(60E_PRS)/AS6040E+PRS_ARISTARCO.pdf"
                         },
@@ -169979,7 +169979,7 @@
                                   "nome": "CERTIFICATI.zip",
                                   "tipo": "Archivio",
                                   "icona": "🗜️",
-                                  "link": "https://www.dropbox.com/scl/fi/2qplwx844uqk2ps9wk9rc/CERTIFICATI.zip?rlkey=h4ihqhk8s9kdedmhioauhnn8n&dl=0?raw=1",
+                                  "link": null,
                                   "dimensione_kb": 1051,
                                   "path": "/HUB DOCUMENTALE/FORNITORI/GRENKE/GRENKE - RR.VICECONTI - lAURETTA79@/CLIENTI/VIAGGIANELLO/CAMPOLEROSE_VIAGGIANELLO/Inviati a GRENKE/CERTIFICATI.zip"
                                 },
@@ -177078,7 +177078,7 @@
                   "nome": "LONGONI meat_and_wine_2023.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/x6251og49px37qtawjq82/LONGONI-meat_and_wine_2023.pdf?rlkey=quugkj4g34k3qmqex9d99tuu8&dl=0?raw=1",
                   "dimensione_kb": 8061,
                   "path": "/HUB DOCUMENTALE/FORNITORI/LONGONI/ARCHIVIO LONGONI/LONGONI meat_and_wine_2023.pdf"
                 }
@@ -179421,6 +179421,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 05_11_2025.XLSX"
             },
             {
+              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 10_08_2026.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/90hg0o4gdjw4xv87ztuan/MORINI-ESTRAZIONE-LISTINO-LI0018500-10_08_2026.XLSX?rlkey=okpik2eh5pjcoe0c8dlox40c9&dl=0?raw=1",
+              "dimensione_kb": 1185,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 10_08_2026.XLSX"
+            },
+            {
               "nome": "MORINI ESTRAZIONE LISTINO LI0018500 20_01_2026.XLSX",
               "tipo": "Excel",
               "icona": "📊",
@@ -179469,7 +179477,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/Nuovo Foglio di lavoro di Microsoft Excel.xlsx"
             }
           ],
-          "_totale_file": 65
+          "_totale_file": 66
         },
         {
           "nome": "NARDI TAVOLI E SEDIE",
