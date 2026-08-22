@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-21T14:31:34Z",
-  "totale_file": 26424,
+  "generato": "2026-08-22T00:20:51Z",
+  "totale_file": 26425,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -73038,7 +73038,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7250,
+      "totale_file": 7251,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -144305,7 +144305,24 @@
                 {
                   "nome": "LUKANIA SRL AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/LUKANIA SRL AREA TECNICA",
-                  "cartelle": [],
+                  "cartelle": [
+                    {
+                      "nome": "CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/LUKANIA SRL AREA TECNICA/CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776 mareno-npc76g-55359 ESPOLOS RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/z2peztl7apk50ixdnzpvw/CUOCIPASTA-MARENO-NPC76G-MATRICOLA-MA020403776-mareno-npc76g-55359-ESPOLOS-RICAMBI.pdf?rlkey=w1ryhhic4k2h8f5em6b5z6qy2&dl=0?raw=1",
+                          "dimensione_kb": 553,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/LUKANIA SRL AREA TECNICA/CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776/CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776 mareno-npc76g-55359 ESPOLOS RICAMBI.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    }
+                  ],
                   "file": [
                     {
                       "nome": "Fattura di vendita_2500594_20250813_132241.pdf",
@@ -144332,7 +144349,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/LUKANIA SRL AREA TECNICA/WhatsApp Image 2025-08-13 at 12.11.27.jpeg"
                     }
                   ],
-                  "_totale_file": 3
+                  "_totale_file": 4
                 }
               ],
               "file": [
@@ -144361,7 +144378,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/Offerta di vendita_210447_20210615_150052.pdf"
                 }
               ],
-              "_totale_file": 6
+              "_totale_file": 7
             },
             {
               "nome": "MACELLERIA PATITUCCI",
@@ -145235,7 +145252,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 117
+          "_totale_file": 118
         },
         {
           "nome": "VIGGIANO",
