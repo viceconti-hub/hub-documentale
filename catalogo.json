@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-26T00:23:03Z",
-  "totale_file": 26479,
+  "generato": "2026-08-26T02:24:46Z",
+  "totale_file": 26485,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -145987,7 +145987,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4458,
+      "totale_file": 4464,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -182053,6 +182053,62 @@
               "_totale_file": 33
             },
             {
+              "nome": "RATIONAL CHIAVI USB",
+              "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL CHIAVI USB",
+              "cartelle": [
+                {
+                  "nome": "CONTENUTO SALVATO IL 25 AGOSTO 2026 CHIAVE CLEAN UP",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL CHIAVI USB/CONTENUTO SALVATO IL 25 AGOSTO 2026 CHIAVE CLEAN UP",
+                  "cartelle": [
+                    {
+                      "nome": "pkgs",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL CHIAVI USB/CONTENUTO SALVATO IL 25 AGOSTO 2026 CHIAVE CLEAN UP/pkgs",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "mlo.tar.gz",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/xy6kvrprs80221r109ust/mlo.tar.gz?rlkey=upwwavfwea7oidju0woqbypa7&dl=0?raw=1",
+                          "dimensione_kb": 58,
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL CHIAVI USB/CONTENUTO SALVATO IL 25 AGOSTO 2026 CHIAVE CLEAN UP/pkgs/mlo.tar.gz"
+                        },
+                        {
+                          "nome": "u-boot.tar.gz",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/9rdvai9s7ynwk9zmh12lr/u-boot.tar.gz?rlkey=pvy3ghjnmkwee29xy5t1aeere&dl=0?raw=1",
+                          "dimensione_kb": 220,
+                          "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL CHIAVI USB/CONTENUTO SALVATO IL 25 AGOSTO 2026 CHIAVE CLEAN UP/pkgs/u-boot.tar.gz"
+                        }
+                      ],
+                      "_totale_file": 2
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 2
+                },
+                {
+                  "nome": "CONTENUTO SALVATO IL 25 AGOSTO PENNA iVARIO",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL CHIAVI USB/CONTENUTO SALVATO IL 25 AGOSTO PENNA iVARIO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "IMPORTANT NOTE_80_00_580_V01_A5.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/0x5757essqv5bnlk648nn/IMPORTANT-NOTE_80_00_580_V01_A5.pdf?rlkey=gmwzjoln836of3lz1blrxtkyt&dl=0?raw=1",
+                      "dimensione_kb": 557,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL CHIAVI USB/CONTENUTO SALVATO IL 25 AGOSTO PENNA iVARIO/IMPORTANT NOTE_80_00_580_V01_A5.pdf"
+                    }
+                  ],
+                  "_totale_file": 1
+                }
+              ],
+              "file": [],
+              "_totale_file": 3
+            },
+            {
               "nome": "RATIONAL COPIA PENNA",
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL COPIA PENNA",
               "cartelle": [],
@@ -182772,6 +182828,30 @@
               ],
               "file": [
                 {
+                  "nome": "23_913_flyer_rational_updater_how-to_a5-it_it.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/spidpq735rzjhf82rhu66/23_913_flyer_rational_updater_how-to_a5-it_it.pdf?rlkey=a40omxwn6obcsbft4xhi3ygjx&dl=0?raw=1",
+                  "dimensione_kb": 602,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/23_913_flyer_rational_updater_how-to_a5-it_it.pdf"
+                },
+                {
+                  "nome": "SCC_SCC-XS_CMP_CMP-XS.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/n931aosf08skdypcvnnig/SCC_SCC-XS_CMP_CMP-XS.zip?rlkey=b94rkf6vyqp8x7piwrel90w5f&dl=0?raw=1",
+                  "dimensione_kb": 221503,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/SCC_SCC-XS_CMP_CMP-XS.zip"
+                },
+                {
+                  "nome": "VCCM_01-01-04.7_01-02-04.7_DOC-16-16.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/4q4rpkpqh8litvm19r4dc/VCCM_01-01-04.7_01-02-04.7_DOC-16-16.zip?rlkey=8xgb3uwo19lc3kxvn4fd0orx6&dl=0?raw=1",
+                  "dimensione_kb": 140603,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/VCCM_01-01-04.7_01-02-04.7_DOC-16-16.zip"
+                },
+                {
                   "nome": "iCombiPro_iCombiClassic_sw.zip",
                   "tipo": "Archivio",
                   "icona": "🗜️",
@@ -182780,7 +182860,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL SOFTWARE/iCombiPro_iCombiClassic_sw.zip"
                 }
               ],
-              "_totale_file": 49
+              "_totale_file": 52
             },
             {
               "nome": "RATIONAL WORKORDER INSTALLAZIONE",
@@ -182921,7 +183001,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/cannillo viceconti solo logo.pdf"
             }
           ],
-          "_totale_file": 140
+          "_totale_file": 146
         },
         {
           "nome": "REGINA ATTREZZATURE",
@@ -183703,7 +183783,7 @@
               "nome": "Dettaglio bonifico istantaneo.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/7fmrqeekkxfgvwpw5lwgw/Dettaglio-bonifico-istantaneo.pdf?rlkey=asgg02imxqqcxu7mzwl2zvk5u&dl=0?raw=1",
               "dimensione_kb": 96,
               "path": "/HUB DOCUMENTALE/FORNITORI/SATRIANO SRL/Dettaglio bonifico istantaneo.pdf"
             }
