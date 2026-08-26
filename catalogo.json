@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-25T09:06:03Z",
-  "totale_file": 26458,
+  "generato": "2026-08-26T00:23:03Z",
+  "totale_file": 26479,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -73294,7 +73294,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7251,
+      "totale_file": 7272,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -87372,7 +87372,7 @@
                           "nome": "RIEPILOGO ANTONIO DEL 12_07_2022.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/vsp1kdkxdjk07l0bygxd8/RIEPILOGO-ANTONIO-DEL-12_07_2022.pdf?rlkey=638j6bx03akvdm74yosbiqz1c&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 454,
                           "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/ARCHIVIO/HOTEL TERME 12_07_2022/RIEPILOGO ANTONIO DEL 12_07_2022.pdf"
                         }
@@ -124254,6 +124254,201 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA",
                   "cartelle": [
                     {
+                      "nome": "RATIONAL SCCWE G2G MATRICOLA G62SI18042663759",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759",
+                      "cartelle": [
+                        {
+                          "nome": "1638be3472ce6ba072401ffc4249466c",
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c",
+                          "cartelle": [
+                            {
+                              "nome": "SCC_SCC-XS_CMP_CMP-XS",
+                              "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS",
+                              "cartelle": [
+                                {
+                                  "nome": "startexec",
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/startexec",
+                                  "cartelle": [],
+                                  "file": [
+                                    {
+                                      "nome": "patch.xml",
+                                      "tipo": "File",
+                                      "icona": "📎",
+                                      "link": "https://www.dropbox.com/scl/fi/pxiqc7sgfydxr1v75amqk/patch.xml?rlkey=0niquhhbf8f9gghe68qt01ymz&dl=0?raw=1",
+                                      "dimensione_kb": 0,
+                                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/startexec/patch.xml"
+                                    },
+                                    {
+                                      "nome": "patch_101G.xml",
+                                      "tipo": "File",
+                                      "icona": "📎",
+                                      "link": "https://www.dropbox.com/scl/fi/gj3pjbqwtmoxs783s17cy/patch_101G.xml?rlkey=xatuywr51ipm2m9g3qaedv6po&dl=0?raw=1",
+                                      "dimensione_kb": 0,
+                                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/startexec/patch_101G.xml"
+                                    },
+                                    {
+                                      "nome": "patch_102G.xml",
+                                      "tipo": "File",
+                                      "icona": "📎",
+                                      "link": "https://www.dropbox.com/scl/fi/3hzf5umawnygfghniwxfb/patch_102G.xml?rlkey=g6hanb6u0o8cch4zu95h0laxv&dl=0?raw=1",
+                                      "dimensione_kb": 0,
+                                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/startexec/patch_102G.xml"
+                                    },
+                                    {
+                                      "nome": "patch_201G.xml",
+                                      "tipo": "File",
+                                      "icona": "📎",
+                                      "link": "https://www.dropbox.com/scl/fi/fxe3ab8dgtmq030xpfils/patch_201G.xml?rlkey=3nr452nsd1gfcmea34rbyty96&dl=0?raw=1",
+                                      "dimensione_kb": 0,
+                                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/startexec/patch_201G.xml"
+                                    },
+                                    {
+                                      "nome": "patch_202G.xml",
+                                      "tipo": "File",
+                                      "icona": "📎",
+                                      "link": "https://www.dropbox.com/scl/fi/shcr81u21dfub2h0f08zl/patch_202G.xml?rlkey=b7jo129eh9l9zo1bebq8yklka&dl=0?raw=1",
+                                      "dimensione_kb": 0,
+                                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/startexec/patch_202G.xml"
+                                    },
+                                    {
+                                      "nome": "patch_61G.xml",
+                                      "tipo": "File",
+                                      "icona": "📎",
+                                      "link": "https://www.dropbox.com/scl/fi/yfekqt06peubqnia4ktlg/patch_61G.xml?rlkey=wj79i1bza4sfys11fzk0ahq3g&dl=0?raw=1",
+                                      "dimensione_kb": 0,
+                                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/startexec/patch_61G.xml"
+                                    },
+                                    {
+                                      "nome": "patch_62G.xml",
+                                      "tipo": "File",
+                                      "icona": "📎",
+                                      "link": "https://www.dropbox.com/scl/fi/rmqj23pjec7f0bjqomp5i/patch_62G.xml?rlkey=i048ktw0b2dnzq7lrqkpcd0vs&dl=0?raw=1",
+                                      "dimensione_kb": 0,
+                                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/startexec/patch_62G.xml"
+                                    }
+                                  ],
+                                  "_totale_file": 7
+                                }
+                              ],
+                              "file": [
+                                {
+                                  "nome": "RAG_RacCm.xml",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/yo7r6ypjxhtbnjd9v42pj/RAG_RacCm.xml?rlkey=ctxn6oxpqg3crvwjcdr0zy265&dl=0?raw=1",
+                                  "dimensione_kb": 62,
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/RAG_RacCm.xml"
+                                },
+                                {
+                                  "nome": "Softwareversion.txt",
+                                  "tipo": "Testo",
+                                  "icona": "📃",
+                                  "link": "https://www.dropbox.com/scl/fi/a12s61r19pu3nu960oeni/Softwareversion.txt?rlkey=4fhfqhyd88870jzdvcl04ft7t&dl=0?raw=1",
+                                  "dimensione_kb": 0,
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/Softwareversion.txt"
+                                },
+                                {
+                                  "nome": "Test Version C-3-04.00.txt",
+                                  "tipo": "Testo",
+                                  "icona": "📃",
+                                  "link": "https://www.dropbox.com/scl/fi/5q7plufwolwtwg72x8keh/Test-Version-C-3-04.00.txt?rlkey=pfw55wot3nxs2xw9ajz1xu01m&dl=0?raw=1",
+                                  "dimensione_kb": 0,
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/Test Version C-3-04.00.txt"
+                                },
+                                {
+                                  "nome": "Update.txt",
+                                  "tipo": "Testo",
+                                  "icona": "📃",
+                                  "link": "https://www.dropbox.com/scl/fi/a2dy9hkobk54wy4bo2bso/Update.txt?rlkey=7oyl99qmw5icqycwixkces2yl&dl=0?raw=1",
+                                  "dimensione_kb": 0,
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/Update.txt"
+                                },
+                                {
+                                  "nome": "versionsinfo.txt",
+                                  "tipo": "Testo",
+                                  "icona": "📃",
+                                  "link": "https://www.dropbox.com/scl/fi/wbcwsm5edcmj5k16skd2w/versionsinfo.txt?rlkey=mze3sxkfolj5k4z7jqwskv82q&dl=0?raw=1",
+                                  "dimensione_kb": 0,
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS/versionsinfo.txt"
+                                }
+                              ],
+                              "_totale_file": 12
+                            }
+                          ],
+                          "file": [
+                            {
+                              "nome": "SCC_SCC-XS_CMP_CMP-XS.zip",
+                              "tipo": "Archivio",
+                              "icona": "🗜️",
+                              "link": "https://www.dropbox.com/scl/fi/nu5nu0070jkk4yhxrlacn/SCC_SCC-XS_CMP_CMP-XS.zip?rlkey=sqt65gaxwj16zh7hvgxg2h1in&dl=0?raw=1",
+                              "dimensione_kb": 221503,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c/SCC_SCC-XS_CMP_CMP-XS.zip"
+                            }
+                          ],
+                          "_totale_file": 13
+                        },
+                        {
+                          "nome": "G62SI18042663759",
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/G62SI18042663759",
+                          "cartelle": [
+                            {
+                              "nome": "startexec",
+                              "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/G62SI18042663759/startexec",
+                              "cartelle": [],
+                              "file": [
+                                {
+                                  "nome": "A_makereport.xml",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/j0lolahq13w5lgp5su8jt/A_makereport.xml?rlkey=fkxurck26v2orqgwdh7e4nl15&dl=0?raw=1",
+                                  "dimensione_kb": 0,
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/G62SI18042663759/startexec/A_makereport.xml"
+                                },
+                                {
+                                  "nome": "G62SI18042663759.xml",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/t36o1bft56drzkto15p1e/G62SI18042663759.xml?rlkey=gvyfn9llxe4uwd8fxa5hknwew&dl=0?raw=1",
+                                  "dimensione_kb": 9,
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/G62SI18042663759/startexec/G62SI18042663759.xml"
+                                }
+                              ],
+                              "_totale_file": 2
+                            }
+                          ],
+                          "file": [],
+                          "_totale_file": 2
+                        }
+                      ],
+                      "file": [
+                        {
+                          "nome": "1638be3472ce6ba072401ffc4249466c.zip",
+                          "tipo": "Archivio",
+                          "icona": "🗜️",
+                          "link": "https://www.dropbox.com/scl/fi/qqcnytpc8xm31z5dwzc04/1638be3472ce6ba072401ffc4249466c.zip?rlkey=a7rfmwjrhkv1b8xgwkyohy6ay&dl=0?raw=1",
+                          "dimensione_kb": 220762,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/1638be3472ce6ba072401ffc4249466c.zip"
+                        },
+                        {
+                          "nome": "G62SI18042663759.zip",
+                          "tipo": "Archivio",
+                          "icona": "🗜️",
+                          "link": "https://www.dropbox.com/scl/fi/bpoqtl2y1fext5k9i0zfq/G62SI18042663759.zip?rlkey=peqitloo2e3nmrxv4u80l9cif&dl=0?raw=1",
+                          "dimensione_kb": 3,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/G62SI18042663759.zip"
+                        },
+                        {
+                          "nome": "NOTA_TECNICA_RECOVERY_E_UPDATE_2026-08-25.md",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/0zbzzy8bs6jkvq3iegd82/NOTA_TECNICA_RECOVERY_E_UPDATE_2026-08-25.md?rlkey=245d4ts9gp33tvypsx2dz286q&dl=0?raw=1",
+                          "dimensione_kb": 4,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/NOTA_TECNICA_RECOVERY_E_UPDATE_2026-08-25.md"
+                        }
+                      ],
+                      "_totale_file": 18
+                    },
+                    {
                       "nome": "RATIONAL iCOMBI PRO 62 GAS",
                       "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL iCOMBI PRO 62 GAS",
                       "cartelle": [],
@@ -124280,7 +124475,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/WhatsApp Image 2022-10-25 at 17.17.19.jpeg"
                     }
                   ],
-                  "_totale_file": 2
+                  "_totale_file": 20
                 }
               ],
               "file": [
@@ -124301,7 +124496,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/TURIST CALABRA offerta di vendita_220721_20221027_180012.pdf"
                 }
               ],
-              "_totale_file": 4
+              "_totale_file": 22
             },
             {
               "nome": "VIPAMA SRL",
@@ -124507,7 +124702,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 690
+          "_totale_file": 708
         },
         {
           "nome": "RIMINI",
@@ -142154,9 +142349,59 @@
                       "_totale_file": 1
                     },
                     {
-                      "nome": "RATIONAL",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/RATIONAL",
-                      "cartelle": [],
+                      "nome": "RATIONAL  E61SH12042296413",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/RATIONAL  E61SH12042296413",
+                      "cartelle": [
+                        {
+                          "nome": "RATIONAL E61SH12042296413 FILE DI RECOVERY LANTERNA VERDE",
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/RATIONAL  E61SH12042296413/RATIONAL E61SH12042296413 FILE DI RECOVERY LANTERNA VERDE",
+                          "cartelle": [
+                            {
+                              "nome": "E61SH12042296413",
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/RATIONAL  E61SH12042296413/RATIONAL E61SH12042296413 FILE DI RECOVERY LANTERNA VERDE/E61SH12042296413",
+                              "cartelle": [
+                                {
+                                  "nome": "startexec",
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/RATIONAL  E61SH12042296413/RATIONAL E61SH12042296413 FILE DI RECOVERY LANTERNA VERDE/E61SH12042296413/startexec",
+                                  "cartelle": [],
+                                  "file": [
+                                    {
+                                      "nome": "A_makereport.xml",
+                                      "tipo": "File",
+                                      "icona": "📎",
+                                      "link": "https://www.dropbox.com/scl/fi/ao8id3q1cce4uxk8s20zy/A_makereport.xml?rlkey=u76p0j1t14lrnypm2l25cdzwh&dl=0?raw=1",
+                                      "dimensione_kb": 0,
+                                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/RATIONAL  E61SH12042296413/RATIONAL E61SH12042296413 FILE DI RECOVERY LANTERNA VERDE/E61SH12042296413/startexec/A_makereport.xml"
+                                    },
+                                    {
+                                      "nome": "E61SH12042296413.xml",
+                                      "tipo": "File",
+                                      "icona": "📎",
+                                      "link": "https://www.dropbox.com/scl/fi/ndgt7qglxpmo3ezpr8y80/E61SH12042296413.xml?rlkey=45z5bk6fra0b9miheev0cveba&dl=0?raw=1",
+                                      "dimensione_kb": 7,
+                                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/RATIONAL  E61SH12042296413/RATIONAL E61SH12042296413 FILE DI RECOVERY LANTERNA VERDE/E61SH12042296413/startexec/E61SH12042296413.xml"
+                                    }
+                                  ],
+                                  "_totale_file": 2
+                                }
+                              ],
+                              "file": [],
+                              "_totale_file": 2
+                            }
+                          ],
+                          "file": [
+                            {
+                              "nome": "E61SH12042296413.zip",
+                              "tipo": "Archivio",
+                              "icona": "🗜️",
+                              "link": "https://www.dropbox.com/scl/fi/zyk1jqznlrtlwtkyosu7e/E61SH12042296413.zip?rlkey=olblkppe175ndnxg8h21yepra&dl=0?raw=1",
+                              "dimensione_kb": 2,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/RATIONAL  E61SH12042296413/RATIONAL E61SH12042296413 FILE DI RECOVERY LANTERNA VERDE/E61SH12042296413.zip"
+                            }
+                          ],
+                          "_totale_file": 3
+                        }
+                      ],
                       "file": [
                         {
                           "nome": "LANTERNA VERDE ESPLOSO RATIONAL.pdf",
@@ -142164,10 +142409,10 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/kujx3pnnsltzrqm2hvb9k/LANTERNA-VERDE-ESPLOSO-RATIONAL.pdf?rlkey=v9070azrgn2f3pkcgkv4a4baw&dl=0?raw=1",
                           "dimensione_kb": 1182,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/RATIONAL/LANTERNA VERDE ESPLOSO RATIONAL.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/RATIONAL  E61SH12042296413/LANTERNA VERDE ESPLOSO RATIONAL.pdf"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 4
                     }
                   ],
                   "file": [
@@ -142228,7 +142473,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/unnamed.jpg"
                     }
                   ],
-                  "_totale_file": 9
+                  "_totale_file": 12
                 },
                 {
                   "nome": "DOCUMENTI PER BANDO 09_2024",
@@ -142417,7 +142662,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/WhatsApp Image 2022-09-06 at 12.30.10.jpeg"
                 }
               ],
-              "_totale_file": 30
+              "_totale_file": 33
             },
             {
               "nome": "LE BONTA' TRECCHINESI",
@@ -143913,7 +144158,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/Fattura anticipo cliente_2510012_20250710_103114.pdf"
             }
           ],
-          "_totale_file": 292
+          "_totale_file": 295
         },
         {
           "nome": "TRIESTE",
