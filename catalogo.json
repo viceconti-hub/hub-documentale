@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-26T08:58:36Z",
-  "totale_file": 26492,
+  "generato": "2026-08-27T00:28:05Z",
+  "totale_file": 26495,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -73350,7 +73350,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7272,
+      "totale_file": 7275,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -80770,7 +80770,7 @@
                   "nome": "MEDITERRANEA FT 180209 DEL 23 MAG 2018.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/tw3r5pexggb4xfbbz2mfd/MEDITERRANEA-FT-180209-DEL-23-MAG-2018.pdf?rlkey=zwpykglvgk0c5vox885eb5zip&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 67,
                   "path": "/HUB DOCUMENTALE/CLIENTI/DA ARCHIVIARE/FATTURE VENDITA ARCHIVIO/MEDITERRANEA FT 180209 DEL 23 MAG 2018.pdf"
                 },
@@ -87428,7 +87428,7 @@
                           "nome": "RIEPILOGO ANTONIO DEL 12_07_2022.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/vsp1kdkxdjk07l0bygxd8/RIEPILOGO-ANTONIO-DEL-12_07_2022.pdf?rlkey=638j6bx03akvdm74yosbiqz1c&dl=0?raw=1",
                           "dimensione_kb": 454,
                           "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/HOTEL TERME DI OROFINO/ARCHIVIO/HOTEL TERME 12_07_2022/RIEPILOGO ANTONIO DEL 12_07_2022.pdf"
                         }
@@ -88272,7 +88272,24 @@
                 {
                   "nome": "AREA TECNICA AGROCARNE",
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE",
-                  "cartelle": [],
+                  "cartelle": [
+                    {
+                      "nome": "AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/4fgh305fealg6pq8j47m0/AFFETTATRICE-FAEMA-AG.220-MATRICOLA-92-03-0002-DATI-MACCHINA.jpg?rlkey=43zvo5fl5dnyx3rezb7zo8xk9&dl=0?raw=1",
+                          "dimensione_kb": 184,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002 DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    }
+                  ],
                   "file": [
                     {
                       "nome": "WhatsApp Image 2022-08-08 at 18.24.44.jpeg",
@@ -88291,7 +88308,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/WhatsApp Image 2023-07-04 at 16.13.34.jpeg"
                     }
                   ],
-                  "_totale_file": 2
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -88376,7 +88393,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/Situazione Contabile CREDITI.pdf"
                 }
               ],
-              "_totale_file": 12
+              "_totale_file": 13
             },
             {
               "nome": "STREET",
@@ -88452,7 +88469,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 213
+          "_totale_file": 214
         },
         {
           "nome": "LAURIA",
@@ -98912,16 +98929,16 @@
               "_totale_file": 16
             },
             {
-              "nome": "TIME OUT FIMAAMG SRLS",
-              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS",
+              "nome": "TIME OUT FIMAANG SRLS",
+              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS",
               "cartelle": [
                 {
                   "nome": "TIME OUT AREA TECNICA",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT AREA TECNICA",
                   "cartelle": [
                     {
                       "nome": "LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M",
                       "cartelle": [],
                       "file": [
                         {
@@ -98930,7 +98947,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/yz9vmtpgexkn36j8vo9kg/LAVASTOVIGLIE-A-CAPPOTTA-COMENDA-LC-700M-ESPLOSO-Catalogue_20267232614.pdf?rlkey=ub3t67r17dh91hjviq0mthy4u&dl=0?raw=1",
                           "dimensione_kb": 4047,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO Catalogue_20267232614.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO Catalogue_20267232614.pdf"
                         },
                         {
                           "nome": "LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO MULINELLO Catalogue_20267232614.pdf",
@@ -98938,7 +98955,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/bnj1yni093j2xjlphgr5j/LAVASTOVIGLIE-A-CAPPOTTA-COMENDA-LC-700M-ESPLOSO-MULINELLO-Catalogue_20267232614.pdf?rlkey=95x35837i116tmtsf9gwghq9k&dl=0?raw=1",
                           "dimensione_kb": 215,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO MULINELLO Catalogue_20267232614.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M/LAVASTOVIGLIE A CAPPOTTA COMENDA LC 700M ESPLOSO MULINELLO Catalogue_20267232614.pdf"
                         }
                       ],
                       "_totale_file": 2
@@ -98951,7 +98968,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/frcdsy57u33x3dkbp1t6p/Entrata-merci-da-fornitore_230520_20240311_123951.pdf?rlkey=n3am0bukj75mem9nvfekwijld&dl=0?raw=1",
                       "dimensione_kb": 62,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT AREA TECNICA/Entrata merci da fornitore_230520_20240311_123951.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT AREA TECNICA/Entrata merci da fornitore_230520_20240311_123951.pdf"
                     }
                   ],
                   "_totale_file": 3
@@ -98964,7 +98981,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/c78ciww00zmceevv35xde/Ordine-cliente_230966_20231121_190454-R.pdf?rlkey=ilyv638eic74e84mf4vi12ozc&dl=0?raw=1",
                   "dimensione_kb": 97,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/Ordine cliente_230966_20231121_190454 R.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/Ordine cliente_230966_20231121_190454 R.pdf"
                 },
                 {
                   "nome": "Ordine cliente_230987_20231121_185352 CREDITO D'IMPOSTA.pdf",
@@ -98972,7 +98989,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/ovkx67nu9anwmuzovcqc7/Ordine-cliente_230987_20231121_185352-CREDITO-D-IMPOSTA.pdf?rlkey=ibjvgg9jywk9bkhhnf1e47tgt&dl=0?raw=1",
                   "dimensione_kb": 76,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/Ordine cliente_230987_20231121_185352 CREDITO D'IMPOSTA.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/Ordine cliente_230987_20231121_185352 CREDITO D'IMPOSTA.pdf"
                 },
                 {
                   "nome": "TIME OUT BONIFICO DEL 19_12_2023 20231219_M4018622376.pdf",
@@ -98980,7 +98997,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/37ddmlcvtcnfi6azqnkxt/TIME-OUT-BONIFICO-DEL-19_12_2023-20231219_M4018622376.pdf?rlkey=rqa9skwy8b4fak1c5yl3rxscu&dl=0?raw=1",
                   "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT BONIFICO DEL 19_12_2023 20231219_M4018622376.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT BONIFICO DEL 19_12_2023 20231219_M4018622376.pdf"
                 },
                 {
                   "nome": "TIME OUT Fattura di vendita_2300788_20231218_201032.pdf",
@@ -98988,7 +99005,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/4agl55ns4lihh2ac3oa7a/TIME-OUT-Fattura-di-vendita_2300788_20231218_201032.pdf?rlkey=lsg2zvswoukalge4f4n7rfnui&dl=0?raw=1",
                   "dimensione_kb": 78,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/TIME OUT Fattura di vendita_2300788_20231218_201032.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT Fattura di vendita_2300788_20231218_201032.pdf"
                 },
                 {
                   "nome": "WhatsApp Image 2023-11-21 at 19.06.42.jpeg",
@@ -98996,7 +99013,7 @@
                   "icona": "🖼️",
                   "link": "https://www.dropbox.com/scl/fi/r4evgqyuhwrls56u1qfqe/WhatsApp-Image-2023-11-21-at-19.06.42.jpeg?rlkey=bx01xvxz8z8eub9bldqmuei4g&dl=0?raw=1",
                   "dimensione_kb": 60,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/WhatsApp Image 2023-11-21 at 19.06.42.jpeg"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/WhatsApp Image 2023-11-21 at 19.06.42.jpeg"
                 },
                 {
                   "nome": "WhatsApp Image 2024-06-10 at 13.57.52.jpeg",
@@ -99004,7 +99021,7 @@
                   "icona": "🖼️",
                   "link": "https://www.dropbox.com/scl/fi/g0b3fkmyjpbgpmgycptan/WhatsApp-Image-2024-06-10-at-13.57.52.jpeg?rlkey=2svh7pbzqcc8rpi8jglu7ihtl&dl=0?raw=1",
                   "dimensione_kb": 173,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAAMG SRLS/WhatsApp Image 2024-06-10 at 13.57.52.jpeg"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/WhatsApp Image 2024-06-10 at 13.57.52.jpeg"
                 }
               ],
               "_totale_file": 9
@@ -109024,6 +109041,22 @@
                       "_totale_file": 1
                     },
                     {
+                      "nome": "FORNO PIZZERIA MORETTI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/FORNO PIZZERIA MORETTI",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "Neapolis_6.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/z6skxyzp0gfwf9zqoa8j4/Neapolis_6.pdf?rlkey=n0ri93oc4d713dtl2yagkn3nu&dl=0?raw=1",
+                          "dimensione_kb": 277,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/FORNO PIZZERIA MORETTI/Neapolis_6.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "FORNO PIZZERIA ZANOLLI",
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/FORNO PIZZERIA ZANOLLI",
                       "cartelle": [],
@@ -109232,14 +109265,6 @@
                       "link": "https://www.dropbox.com/scl/fi/g37pgdt3dsc7yeo6xp1q5/MARATEA-SERVIZI-CHIAMATE-DI-SERVIZIO-DEL-20_01_2026.jpeg?rlkey=hgc7j62rr8061foqs0n6tm233&dl=0?raw=1",
                       "dimensione_kb": 144,
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/MARATEA SERVIZI CHIAMATE DI SERVIZIO DEL 20_01_2026.jpeg"
-                    },
-                    {
-                      "nome": "Neapolis_6.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/z6skxyzp0gfwf9zqoa8j4/Neapolis_6.pdf?rlkey=n0ri93oc4d713dtl2yagkn3nu&dl=0?raw=1",
-                      "dimensione_kb": 277,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/Neapolis_6.pdf"
                     }
                   ],
                   "_totale_file": 28
@@ -114513,19 +114538,27 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT",
               "cartelle": [
                 {
-                  "nome": "AREA TECNICA GMT",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/AREA TECNICA GMT",
-                  "cartelle": [],
-                  "file": [
+                  "nome": "GMT SRL AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA",
+                  "cartelle": [
                     {
-                      "nome": "WhatsApp Image 2022-03-22 at 17.41.10.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/dlw4dv2lvlkva014snadr/WhatsApp-Image-2022-03-22-at-17.41.10.jpeg?rlkey=857j69e0f84sdmc8xzqqxpl85&dl=0?raw=1",
-                      "dimensione_kb": 75,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/AREA TECNICA GMT/WhatsApp Image 2022-03-22 at 17.41.10.jpeg"
+                      "nome": "LAVASTOVIGLIE KRUPPS THESIS H56E MATRICOLA  201568590",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/LAVASTOVIGLIE KRUPPS THESIS H56E MATRICOLA  201568590",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "LAVASTOVIGLIE KRUPPS THESIS H56E MATRICOLA  201568590 DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/dlw4dv2lvlkva014snadr/LAVASTOVIGLIE-KRUPPS-THESIS-H56E-MATRICOLA-201568590-DATI-MACCHINA.jpeg?rlkey=857j69e0f84sdmc8xzqqxpl85&dl=0?raw=1",
+                          "dimensione_kb": 75,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/LAVASTOVIGLIE KRUPPS THESIS H56E MATRICOLA  201568590/LAVASTOVIGLIE KRUPPS THESIS H56E MATRICOLA  201568590 DATI MACCHINA.jpeg"
+                        }
+                      ],
+                      "_totale_file": 1
                     }
                   ],
+                  "file": [],
                   "_totale_file": 1
                 }
               ],
@@ -124500,9 +124533,17 @@
                           "link": "https://www.dropbox.com/scl/fi/0zbzzy8bs6jkvq3iegd82/NOTA_TECNICA_RECOVERY_E_UPDATE_2026-08-25.md?rlkey=245d4ts9gp33tvypsx2dz286q&dl=0?raw=1",
                           "dimensione_kb": 4,
                           "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/NOTA_TECNICA_RECOVERY_E_UPDATE_2026-08-25.md"
+                        },
+                        {
+                          "nome": "RATIONAL SCCWE G2G MATRICOLA G62SI18042663759 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/24xrohfkn3fuonuzaszdx/RATIONAL-SCCWE-G2G-MATRICOLA-G62SI18042663759-DATI-MACCHINA.jpg?rlkey=nxhepzgtj3ecuc57te6dcn4a2&dl=0?raw=1",
+                          "dimensione_kb": 180,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759/RATIONAL SCCWE G2G MATRICOLA G62SI18042663759 DATI MACCHINA.jpg"
                         }
                       ],
-                      "_totale_file": 18
+                      "_totale_file": 19
                     },
                     {
                       "nome": "RATIONAL iCOMBI PRO 62 GAS",
@@ -124510,15 +124551,23 @@
                       "cartelle": [],
                       "file": [
                         {
-                          "nome": "3036213_it.pdf",
+                          "nome": "RATIONAL iCOMBI PRO 62 GAS DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/sea177qy43mol2c4scw3n/RATIONAL-iCOMBI-PRO-62-GAS-DATI-MACCHINA.jpg?rlkey=z0kf1ltnzh61a2e43g3yl2t9o&dl=0?raw=1",
+                          "dimensione_kb": 142,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL iCOMBI PRO 62 GAS/RATIONAL iCOMBI PRO 62 GAS DATI MACCHINA.jpg"
+                        },
+                        {
+                          "nome": "RATIONAL iCOMBI PRO 62 GAS ESPLOSO 3036213_it.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/hqa2ghmoqaruvre2y3fxr/3036213_it.pdf?rlkey=zsfye986n8wevyv8v2veyg8ry&dl=0?raw=1",
+                          "link": "https://www.dropbox.com/scl/fi/hqa2ghmoqaruvre2y3fxr/RATIONAL-iCOMBI-PRO-62-GAS-ESPLOSO-3036213_it.pdf?rlkey=zsfye986n8wevyv8v2veyg8ry&dl=0?raw=1",
                           "dimensione_kb": 1691,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL iCOMBI PRO 62 GAS/3036213_it.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/RATIONAL iCOMBI PRO 62 GAS/RATIONAL iCOMBI PRO 62 GAS ESPLOSO 3036213_it.pdf"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 2
                     }
                   ],
                   "file": [
@@ -124531,7 +124580,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/AREA TECNICA LA MANTINERA/WhatsApp Image 2022-10-25 at 17.17.19.jpeg"
                     }
                   ],
-                  "_totale_file": 20
+                  "_totale_file": 22
                 }
               ],
               "file": [
@@ -124552,7 +124601,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/TURIST CALABRA offerta di vendita_220721_20221027_180012.pdf"
                 }
               ],
-              "_totale_file": 22
+              "_totale_file": 24
             },
             {
               "nome": "VIPAMA SRL",
@@ -124758,7 +124807,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 708
+          "_totale_file": 710
         },
         {
           "nome": "RIMINI",
@@ -144873,16 +144922,16 @@
               "_totale_file": 3
             },
             {
-              "nome": "LUKANIA TRURISMO SRL",
-              "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL",
+              "nome": "LUKANIA TURISMO SRL",
+              "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TURISMO SRL",
               "cartelle": [
                 {
                   "nome": "LUKANIA SRL AREA TECNICA",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/LUKANIA SRL AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TURISMO SRL/LUKANIA SRL AREA TECNICA",
                   "cartelle": [
                     {
                       "nome": "CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/LUKANIA SRL AREA TECNICA/CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TURISMO SRL/LUKANIA SRL AREA TECNICA/CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776",
                       "cartelle": [],
                       "file": [
                         {
@@ -144891,7 +144940,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/z2peztl7apk50ixdnzpvw/CUOCIPASTA-MARENO-NPC76G-MATRICOLA-MA020403776-mareno-npc76g-55359-ESPOLOS-RICAMBI.pdf?rlkey=w1ryhhic4k2h8f5em6b5z6qy2&dl=0?raw=1",
                           "dimensione_kb": 553,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/LUKANIA SRL AREA TECNICA/CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776/CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776 mareno-npc76g-55359 ESPOLOS RICAMBI.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TURISMO SRL/LUKANIA SRL AREA TECNICA/CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776/CUOCIPASTA MARENO NPC76G  MATRICOLA MA020403776 mareno-npc76g-55359 ESPOLOS RICAMBI.pdf"
                         }
                       ],
                       "_totale_file": 1
@@ -144904,7 +144953,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/4kpg3qyw9towhirfp8ysl/Fattura-di-vendita_2500594_20250813_132241.pdf?rlkey=l160znyrp1pitcj9fb44y15wk&dl=0?raw=1",
                       "dimensione_kb": 72,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/LUKANIA SRL AREA TECNICA/Fattura di vendita_2500594_20250813_132241.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TURISMO SRL/LUKANIA SRL AREA TECNICA/Fattura di vendita_2500594_20250813_132241.pdf"
                     },
                     {
                       "nome": "WhatsApp Image 2025-08-13 at 12.11.18.jpeg",
@@ -144912,7 +144961,7 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/jjhsqx6e7s5i3y91zn480/WhatsApp-Image-2025-08-13-at-12.11.18.jpeg?rlkey=1peom41ard59d581qve9atv7n&dl=0?raw=1",
                       "dimensione_kb": 158,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/LUKANIA SRL AREA TECNICA/WhatsApp Image 2025-08-13 at 12.11.18.jpeg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TURISMO SRL/LUKANIA SRL AREA TECNICA/WhatsApp Image 2025-08-13 at 12.11.18.jpeg"
                     },
                     {
                       "nome": "WhatsApp Image 2025-08-13 at 12.11.27.jpeg",
@@ -144920,7 +144969,7 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/39om84ecnjaexw4d37fpa/WhatsApp-Image-2025-08-13-at-12.11.27.jpeg?rlkey=4fzaeg9zh9bql6t1xh7wkegp8&dl=0?raw=1",
                       "dimensione_kb": 156,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/LUKANIA SRL AREA TECNICA/WhatsApp Image 2025-08-13 at 12.11.27.jpeg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TURISMO SRL/LUKANIA SRL AREA TECNICA/WhatsApp Image 2025-08-13 at 12.11.27.jpeg"
                     }
                   ],
                   "_totale_file": 4
@@ -144933,7 +144982,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/d0ps8syaayflmpp6fz68q/Offerta-di-vendita_210431_20210608_134913.pdf?rlkey=ttuy4tmntm0swpv0pb3awyj7j&dl=0?raw=1",
                   "dimensione_kb": 71,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/Offerta di vendita_210431_20210608_134913.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TURISMO SRL/Offerta di vendita_210431_20210608_134913.pdf"
                 },
                 {
                   "nome": "Offerta di vendita_210432_20210608_134953.pdf",
@@ -144941,7 +144990,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/e2fqy4ryq00zt1wbvq1o0/Offerta-di-vendita_210432_20210608_134953.pdf?rlkey=s45mrv52bsp2e2wp2u4qhtp42&dl=0?raw=1",
                   "dimensione_kb": 71,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/Offerta di vendita_210432_20210608_134953.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TURISMO SRL/Offerta di vendita_210432_20210608_134953.pdf"
                 },
                 {
                   "nome": "Offerta di vendita_210447_20210615_150052.pdf",
@@ -144949,7 +144998,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/f27gculkv94lu216sd2gq/Offerta-di-vendita_210447_20210615_150052.pdf?rlkey=a20bd61hqcpudi8z41bbue267&dl=0?raw=1",
                   "dimensione_kb": 61,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TRURISMO SRL/Offerta di vendita_210447_20210615_150052.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LUKANIA TURISMO SRL/Offerta di vendita_210447_20210615_150052.pdf"
                 }
               ],
               "_totale_file": 7
