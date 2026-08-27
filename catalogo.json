@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-27T02:30:05Z",
-  "totale_file": 26495,
+  "generato": "2026-08-27T05:41:27Z",
+  "totale_file": 26509,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6809,
+      "totale_file": 6823,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -163,7 +163,7 @@
               "nome": "ACOOP SRL Consegna_260332_20260602_210420 RIF. ASSISTENZA SU MISCELATORE SOSTITUZIONE CARTUCCIA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/8qu1fhcpmdry0hed4wug8/ACOOP-SRL-Consegna_260332_20260602_210420-RIF.-ASSISTENZA-SU-MISCELATORE-SOSTITUZIONE-CARTUCCIA.pdf?rlkey=2lq7udiyqfxiqfcby5msy77m3&dl=0?raw=1",
               "dimensione_kb": 50,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ACOOP SRL Consegna_260332_20260602_210420 RIF. ASSISTENZA SU MISCELATORE SOSTITUZIONE CARTUCCIA.pdf"
             },
@@ -472,6 +472,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BOTTEGA 63 SRLS Consegna_260592_20260723_154720 RIF. RICAMBI PER GRANITORE KLIMAITALIA.pdf"
             },
             {
+              "nome": "BOTTEGA 63 SRLS Consegna_260753_20260826_122313 RIF. TUBO BATTIFILTRO SERIE A3 R990201 Basato su Ordini cliente 260412..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qagybh20umb4kzh3h14fp/BOTTEGA-63-SRLS-Consegna_260753_20260826_122313-RIF.-TUBO-BATTIFILTRO-SERIE-A3-R990201-Basato-su-Ordini-cliente-260412..pdf?rlkey=tpu7cfb3yemxodr3ous1i4k2y&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BOTTEGA 63 SRLS Consegna_260753_20260826_122313 RIF. TUBO BATTIFILTRO SERIE A3 R990201 Basato su Ordini cliente 260412..pdf"
+            },
+            {
               "nome": "Billy Bar di SCALDAFERRI PIETRO Consegna_260325_20260531_102233 RIF. ASSISTENZA SU FAEMA EMBLEMA A2 MANUTENZIONE ORDINARIA GRUPPI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -654,6 +662,14 @@
               "link": "https://www.dropbox.com/scl/fi/fxwzaryrpeq2l0ehwphc7/CARNI-LIMONGI-SRL-Consegna_260717_20260811_181521-RIF.-LAMA-SEGAOSSA-1850xh16-mm-DIAMANTATA-Basato-su-Ordini-client.pdf?rlkey=fkdn7dsfabhkmrdlafu8mdxiy&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CARNI LIMONGI SRL Consegna_260717_20260811_181521 RIF. LAMA SEGAOSSA 1850xh16 mm DIAMANTATA Basato su Ordini client.pdf"
+            },
+            {
+              "nome": "CARNI LIMONGI SRL Consegna_260757_20260826_170218 RIF. FILM TERM PP FASCIA 400MMX400MTL - 1250MY (N° 01 BOBINA, COMPRESO CONTRIBUTO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dzofnma5bjpldncorxsoj/CARNI-LIMONGI-SRL-Consegna_260757_20260826_170218-RIF.-FILM-TERM-PP-FASCIA-400MMX400MTL-1250MY-N-01-BOBINA-COMPRESO-CONTRIBUTO.pdf?rlkey=99dbxb9exz5f9u13qvaugp0ww&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CARNI LIMONGI SRL Consegna_260757_20260826_170218 RIF. FILM TERM PP FASCIA 400MMX400MTL - 1250MY (N° 01 BOBINA, COMPRESO CONTRIBUTO.pdf"
             },
             {
               "nome": "CASTELLUCCIO PAOLA AGRITURISMO Consegna_260441_20260622_163022 RIF. HOTELLERIE RESIDUO PIATTO PIANO MORINI Basato su Offerte di.pdf",
@@ -1014,6 +1030,14 @@
               "link": "https://www.dropbox.com/scl/fi/6dhykzbxznlk48oh6baai/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Consegna_260725_20260813_113803-RIF.-DESAN-KG.-12-DETERGENTE-PER-LAVASTOVIGLIE-ACQUE-DURE-Basato.pdf?rlkey=9yfk2qu7j3mn1zo8b346qe0h5&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260725_20260813_113803 RIF. DESAN KG. 12, DETERGENTE PER LAVASTOVIGLIE ACQUE DURE Basato.pdf"
+            },
+            {
+              "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260754_20260826_124146 RIF. TAGLIERE IN POLIETILENE 50x30x2h CM Basato su Ordini cliente 260402..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8i7nn0ttg75o9153uk8ph/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Consegna_260754_20260826_124146-RIF.-TAGLIERE-IN-POLIETILENE-50x30x2h-CM-Basato-su-Ordini-cliente-260402..pdf?rlkey=1a9eq4320ta884006sb8hqiy5&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260754_20260826_124146 RIF. TAGLIERE IN POLIETILENE 50x30x2h CM Basato su Ordini cliente 260402..pdf"
             },
             {
               "nome": "DIMAC SRL Consegna_260266_20260512_100144 RIF. DETERGENTE RATIONAL ROSSO.pdf",
@@ -1464,6 +1488,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GFI Consegna_260453_20260625_100239 RIF. Basato su Offerte di vendita 260233. Basato su Ordini client.pdf"
             },
             {
+              "nome": "GINATO GIULIA Consegna_260755_20260826_163348 RIF. Teglia Pizza Cm 20 Ferro Blu Basato su Ordini cliente 260413..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bxe9fsll0xc81xs97p6op/GINATO-GIULIA-Consegna_260755_20260826_163348-RIF.-Teglia-Pizza-Cm-20-Ferro-Blu-Basato-su-Ordini-cliente-260413..pdf?rlkey=qg36q0xjliuc0w19ffhq8vgo1&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GINATO GIULIA Consegna_260755_20260826_163348 RIF. Teglia Pizza Cm 20 Ferro Blu Basato su Ordini cliente 260413..pdf"
+            },
+            {
               "nome": "GINATO GIULIA DDT 4046805_1_2026S000028426.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1854,6 +1886,14 @@
               "link": "https://www.dropbox.com/scl/fi/9awtb9tjbnl8sri32boru/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Consegna_260751_20260824_212011-RIF.-RICAMBI.pdf?rlkey=ltr2807qd8swth89knxckmdmn&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_260751_20260824_212011 RIF. RICAMBI.pdf"
+            },
+            {
+              "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_260758_20260826_181200 RIF. ASSISTENZA SU ARMADIO FROLLATURA DRY AGER DX 1000 MATRICOLA 85.613.802.5.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/uvc4eoco0zwv35tw9c2uw/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Consegna_260758_20260826_181200-RIF.-ASSISTENZA-SU-ARMADIO-FROLLATURA-DRY-AGER-DX-1000-MATRICOLA-85.613.802.5.pdf?rlkey=4qxtsreaduf7xp7r1gm7w820r&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_260758_20260826_181200 RIF. ASSISTENZA SU ARMADIO FROLLATURA DRY AGER DX 1000 MATRICOLA 85.613.802.5.pdf"
             },
             {
               "nome": "HOTEL BRUTIUM di CHIAPPETTA OLIVIO Consegna_260706_20260810_142506 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260378..pdf",
@@ -3008,6 +3048,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PANAINO SRL UNIPERSONALE Consegna_260681_20260818_122812 RIF. OFFERTA SPECIALE VETRINA BIBITE KLIMAITALIA SILM COOLER 225 T Basato su Offerte.pdf"
             },
             {
+              "nome": "PANIFICIO DOLC&PANE S.R.L. Consegna_260759_20260826_181501 RIF. COMODATO AFFETTATRICE A GRAVITÀ CORSA LUNGA MOD.F300CLPRO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qbpdivguygmj57tqqh1sf/PANIFICIO-DOLC-PANE-S.R.L.-Consegna_260759_20260826_181501-RIF.-COMODATO-AFFETTATRICE-A-GRAVIT-CORSA-LUNGA-MOD.F300CLPRO.pdf?rlkey=yqi3wjchboj6e0elaki494nn8&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PANIFICIO DOLC&PANE S.R.L. Consegna_260759_20260826_181501 RIF. COMODATO AFFETTATRICE A GRAVITÀ CORSA LUNGA MOD.F300CLPRO.pdf"
+            },
+            {
               "nome": "PANINOTECA ESSEDI snc di SABELLA ANGELO & C. Consegna_260705_20260810_113430 RIF. INTERRUTTORE (ON-OFF) Basato su Ordini cliente 260377..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3262,6 +3310,14 @@
               "link": "https://www.dropbox.com/scl/fi/remu6n23u564usz0f3g3m/Panificio-D-IMPERIO-snc-Consegna_260693_20260807_140916-RIF.-HOTELLERIE-Basato-su-Offerte-di-vendita-260327.-Basato-su-Or.pdf?rlkey=tdxz26u1ze5d1xzauknwxpmv6&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio D'IMPERIO snc Consegna_260693_20260807_140916 RIF. HOTELLERIE Basato su Offerte di vendita 260327. Basato su Or.pdf"
+            },
+            {
+              "nome": "Panificio D'IMPERIO snc Consegna_260756_20260826_165820 RIF. CONTENITORI Basato su Offerte di vendita 260353. Basato su Ordini cliente.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qi78d63bpfinmhoqlrdwj/Panificio-D-IMPERIO-snc-Consegna_260756_20260826_165820-RIF.-CONTENITORI-Basato-su-Offerte-di-vendita-260353.-Basato-su-Ordini-cliente.pdf?rlkey=uy1adofzvg1d2t1ivqpyldo1l&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio D'IMPERIO snc Consegna_260756_20260826_165820 RIF. CONTENITORI Basato su Offerte di vendita 260353. Basato su Ordini cliente.pdf"
             },
             {
               "nome": "Panificio FERRARO di SCHETTINI ANGELO A. Consegna_260361_20260602_224452 RIF. ASSISTENZA SU TERMOIMPELLICOLATRICE SOSTITUZIONE RESISTENZA.pdf",
@@ -3896,6 +3952,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TURIST CALABRIA SRL LA MANTINERA Consegna_260736_20260821_172728 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260406..pdf"
             },
             {
+              "nome": "TURIST CALABRIA SRL LA MANTINERA Consegna_260760_20260826_202832 RIF. ASSISTENZA SU FORNO A GAS RATIONAL SCCWE G2G MATRICOLA G62SI18042663759.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/602o6me49brvdif03j7le/TURIST-CALABRIA-SRL-LA-MANTINERA-Consegna_260760_20260826_202832-RIF.-ASSISTENZA-SU-FORNO-A-GAS-RATIONAL-SCCWE-G2G-MATRICOLA-G62SI18042663759.pdf?rlkey=c1ohxcsrty4fl9y4tb41wx93j&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TURIST CALABRIA SRL LA MANTINERA Consegna_260760_20260826_202832 RIF. ASSISTENZA SU FORNO A GAS RATIONAL SCCWE G2G MATRICOLA G62SI18042663759.pdf"
+            },
+            {
               "nome": "TURISTICA MARATEA snc di BARONE FRANCESCO & C. BAR LA COLONNA Consegna_260433_20260619_083327 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260211..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4032,7 +4096,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 502
+          "_totale_file": 510
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -6352,12 +6416,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Fattura di vendita_2600323_20260727_100205 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf"
             },
             {
-              "nome": "SUPERMERCATO CRAI di FORTE MARIA Fattura di vendita_2600390_20260811_101322 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260380..pdf",
+              "nome": "SUPERMERCATO CRAI di FORTE MARIA Fattura di vendita_2600390_20260826_163906 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260380. Basato su Consegne.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2aztjizlr3otqp05qw68x/SUPERMERCATO-CRAI-di-FORTE-MARIA-Fattura-di-vendita_2600390_20260811_101322-RIF.-DETERGENTE-RATIONAL-2-VERDI-Basato-su-Ordini-cliente-260380..pdf?rlkey=2nvyouodkca9qle28aibeuvap&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/9tjpba2lp6s2bfzl0lplo/SUPERMERCATO-CRAI-di-FORTE-MARIA-Fattura-di-vendita_2600390_20260826_163906-RIF.-DETERGENTE-RATIONAL-2-VERDI-Basato-su-Ordini-cliente-260380.-Basato-su-Consegne.pdf?rlkey=avvdyffw96ov0ub1j4u9pccq6&dl=0?raw=1",
               "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SUPERMERCATO CRAI di FORTE MARIA Fattura di vendita_2600390_20260811_101322 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260380..pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SUPERMERCATO CRAI di FORTE MARIA Fattura di vendita_2600390_20260826_163906 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260380. Basato su Consegne.pdf"
             },
             {
               "nome": "SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Fattura di vendita_2600302_20260722_121232 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI B.pdf",
@@ -7238,6 +7302,14 @@
               "link": "https://www.dropbox.com/scl/fi/pc6xw4d5wslt33k6pouw4/DA-SPECIFICARE-Offerta-di-vendita_260342_20260805_164106.pdf?rlkey=4ozxsc6hwad8fom11gahyd8zf&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260342_20260805_164106.pdf"
+            },
+            {
+              "nome": "DA SPECIFICARE Offerta di vendita_260368_20260826_175008.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tfaeiugil2gsp2hco6zs1/DA-SPECIFICARE-Offerta-di-vendita_260368_20260826_175008.pdf?rlkey=8in4beb5cuohhez6ezxq94qkc&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260368_20260826_175008.pdf"
             },
             {
               "nome": "DE FILIPPO ROCCO Offerta di vendita_260194_20260605_111616 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO.pdf",
@@ -8352,7 +8424,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 219
+          "_totale_file": 220
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -14303,7 +14375,7 @@
                           "nome": "Offerta di vendita_200781_sirman 20 kg.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/v2qa1hkfg1zb9cpmlu2z9/Offerta-di-vendita_200781_sirman-20-kg.pdf?rlkey=x9yeirwxz30ajzaz7wb8dllls&dl=0?raw=1",
                           "dimensione_kb": 73,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/BASILICATA GRANTOUR/Offerta di vendita_200781_sirman 20 kg.pdf"
                         },
@@ -14311,7 +14383,7 @@
                           "nome": "Offerta di vendita_200782_3okg.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/yjidlpubh6dqfi6r7ww19/Offerta-di-vendita_200782_3okg.pdf?rlkey=vwauxco58mea4qw03sio699hz&dl=0?raw=1",
                           "dimensione_kb": 73,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/BASILICATA GRANTOUR/Offerta di vendita_200782_3okg.pdf"
                         },
@@ -14471,7 +14543,7 @@
                           "nome": "BEL VEDERE OFFERTA 190866 DEL 18_11_2019.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/cjcueeaia6355wwuo2wqv/BEL-VEDERE-OFFERTA-190866-DEL-18_11_2019.pdf?rlkey=v9nvaxxlvsqp93zk42gi43pzz&dl=0?raw=1",
                           "dimensione_kb": 78,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/BEL VEDERE/BEL VEDERE OFFERTA 190866 DEL 18_11_2019.pdf"
                         },
@@ -66595,6 +66667,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ANELLO MARATEA Ordine cliente_260350_20260803_165716 RIF. SEGA MACELLO.pdf"
             },
             {
+              "nome": "ANTONIOLLI KATIA Ordine cliente_260414_20260826_164539 RIF. LAMA PER AFF.300 Ø EST 300 Ø FORO 57 VITI 4 Ø INT. 254 H 22,5 MAT. C45.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qo2s05n9c1zvc2zmlbos2/ANTONIOLLI-KATIA-Ordine-cliente_260414_20260826_164539-RIF.-LAMA-PER-AFF.300-EST-300-FORO-57-VITI-4-INT.-254-H-22-5-MAT.-C45.pdf?rlkey=k85wo3gdb7e00c15rgun4zpif&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ANTONIOLLI KATIA Ordine cliente_260414_20260826_164539 RIF. LAMA PER AFF.300 Ø EST 300 Ø FORO 57 VITI 4 Ø INT. 254 H 22,5 MAT. C45.pdf"
+            },
+            {
               "nome": "ARCENNI SOCIETA' AGRICOLA SRL Ordine cliente_260171_20260526_164759 RIF. COPPIIE GUIDA E GRIGLIE PER ARMADIO COLDLINE A701NE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -66699,6 +66779,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BHOTEL SRL Ordine cliente_260204_20260612_142219 RIF. BICCHIERE COOLER CORTINA Basato su Offerte di vendita 260184.pdf"
             },
             {
+              "nome": "BOTTEGA 63 SRLS Ordine cliente_260412_20260826_122258 RIF. TUBO BATTIFILTRO SERIE A3 R990201.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/284ci044cyrouh61297j8/BOTTEGA-63-SRLS-Ordine-cliente_260412_20260826_122258-RIF.-TUBO-BATTIFILTRO-SERIE-A3-R990201.pdf?rlkey=2i5kdm0my6p626rsukira1idl&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BOTTEGA 63 SRLS Ordine cliente_260412_20260826_122258 RIF. TUBO BATTIFILTRO SERIE A3 R990201.pdf"
+            },
+            {
               "nome": "Bartolino Snc di Orefice Bartolomeo & C. Ordine cliente_260268_20260712_164324 RIF. COPERCHIO GRIGLIATO INOX 12-18-25-38 SN-FN-CN PAGAMENTO EFFE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -66777,6 +66865,14 @@
               "link": "https://www.dropbox.com/scl/fi/or42u0rxnv139htxwd4uv/CARNI-LIMONGI-SRL-Ordine-cliente_260387_20260811_181511-RIF.-LAMA-SEGAOSSA-1850xh16-mm-DIAMANTATA.pdf?rlkey=0de8z0x74cswbh9ucjap49lho&dl=0?raw=1",
               "dimensione_kb": 64,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CARNI LIMONGI SRL Ordine cliente_260387_20260811_181511 RIF. LAMA SEGAOSSA 1850xh16 mm DIAMANTATA.pdf"
+            },
+            {
+              "nome": "CARNI LIMONGI SRL Ordine cliente_260416_20260826_170106 RIF. FILM TERM PP FASCIA 400MMX400MTL - 1250MY (N° 01 BOBINA, COMPRESO CONTRIBUTO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hauvhzkv8a90vweisbwnz/CARNI-LIMONGI-SRL-Ordine-cliente_260416_20260826_170106-RIF.-FILM-TERM-PP-FASCIA-400MMX400MTL-1250MY-N-01-BOBINA-COMPRESO-CONTRIBUTO.pdf?rlkey=w3ve7idx2s1zv2vizlxnbxbm3&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CARNI LIMONGI SRL Ordine cliente_260416_20260826_170106 RIF. FILM TERM PP FASCIA 400MMX400MTL - 1250MY (N° 01 BOBINA, COMPRESO CONTRIBUTO.pdf"
             },
             {
               "nome": "CATA' EVENTI di CANNAZZARO MARISA Ordine cliente_260232_20260625_112508 RIF. PALETTINO Basato su Offerte di vendita 260232..pdf",
@@ -67249,6 +67345,14 @@
               "link": "https://www.dropbox.com/scl/fi/rl6zre3tqmnnja308mq5a/GIANFRANCO-FORMAGGIO-Ordine-cliente_260262_20260708_131331-RIF.-MATIC-35.pdf?rlkey=mbdk7rf1vwssgw3tyyhnzizab&dl=0?raw=1",
               "dimensione_kb": 58,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GIANFRANCO FORMAGGIO Ordine cliente_260262_20260708_131331 RIF. MATIC 35.pdf"
+            },
+            {
+              "nome": "GINATO GIULIA Ordine cliente_260413_20260826_163048 RIF. Teglia Pizza Cm 20 Ferro Blu.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/x8j8fm4a3cngh213lp83n/GINATO-GIULIA-Ordine-cliente_260413_20260826_163048-RIF.-Teglia-Pizza-Cm-20-Ferro-Blu.pdf?rlkey=ktwjc5jhofdt67ebp09t2plad&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GINATO GIULIA Ordine cliente_260413_20260826_163048 RIF. Teglia Pizza Cm 20 Ferro Blu.pdf"
             },
             {
               "nome": "GIOEL MARCON Ordine cliente_260196_20260609_131613 RIF. CONICA CARAFFA LT.1 MORINI.pdf",
@@ -68283,6 +68387,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio D'IMPERIO snc Ordine cliente_260336_20260807_132212 RIF. HOTELLERIE Basato su Offerte di vendita 260327..pdf"
             },
             {
+              "nome": "Panificio D'IMPERIO snc Ordine cliente_260415_20260826_165149 RIF. CONTENITORI Basato su Offerte di vendita 260353..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rnju1a99jlxs9epxm1b8m/Panificio-D-IMPERIO-snc-Ordine-cliente_260415_20260826_165149-RIF.-CONTENITORI-Basato-su-Offerte-di-vendita-260353..pdf?rlkey=3qf2txay8f5xr31svzu7y8h7m&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio D'IMPERIO snc Ordine cliente_260415_20260826_165149 RIF. CONTENITORI Basato su Offerte di vendita 260353..pdf"
+            },
+            {
               "nome": "RI. SA. LU srls Ordine cliente_260197_20260609_132712 RIF. DETERGENTE E GUARNIZIONE RATIONAL.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -68739,7 +68851,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 283
+          "_totale_file": 288
         }
       ],
       "file": []
