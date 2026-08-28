@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-28T05:38:26Z",
-  "totale_file": 26540,
+  "generato": "2026-08-28T07:43:01Z",
+  "totale_file": 26543,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -189659,7 +189659,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4975,
+      "totale_file": 4978,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -189889,6 +189889,14 @@
               "link": "https://www.dropbox.com/scl/fi/asf4743pqysbj20m98eu0/COLDLINE-srl-Entrata-merci-da-fornitore_260070_20260520_213419-RIF.-ARTE-DOLCIARIA__MeM-Basato-su-Ordini-cliente-260089.-Basato.pdf?rlkey=apldehryewju192tcddkk9fyn&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLDLINE srl Entrata merci da fornitore_260070_20260520_213419 RIF. ARTE DOLCIARIA__MeM Basato su Ordini cliente 260089. Basato.pdf"
+            },
+            {
+              "nome": "COMENDA ALI GROUP SRL Entrata merci da fornitore_260170_20260826_220719 RIF. RICAMBI PER TIME OUT + MAG Basato su Ordini d'acquisto 260211..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ref4c7fverqiv2barilzo/COMENDA-ALI-GROUP-SRL-Entrata-merci-da-fornitore_260170_20260826_220719-RIF.-RICAMBI-PER-TIME-OUT-MAG-Basato-su-Ordini-d-acquisto-260211..pdf?rlkey=d0l6uu2ij2n9q7s930mrztxoq&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COMENDA ALI GROUP SRL Entrata merci da fornitore_260170_20260826_220719 RIF. RICAMBI PER TIME OUT + MAG Basato su Ordini d'acquisto 260211..pdf"
             },
             {
               "nome": "CUSTOM SPA Entrata merci da fornitore_260163_20260730_220329 RIF. GRUPPO STAMPANTE PER MARKET DA CRUSCO + BATTERIA PER MAG Bas.pdf",
@@ -190635,6 +190643,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260162_20260730_172820 RIF. Basato su Ordini d'acquisto 260163. 260180. 260201..pdf"
             },
             {
+              "nome": "REPA ITALIA SRL Entrata merci da fornitore_260171_20260827_120930 RIF. Basato su Ordini d'acquisto 260212..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mbueivdkytl9ftf2ajio3/REPA-ITALIA-SRL-Entrata-merci-da-fornitore_260171_20260827_120930-RIF.-Basato-su-Ordini-d-acquisto-260212..pdf?rlkey=3mpczwmkz2gnyo5q5ic3ukz4r&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260171_20260827_120930 RIF. Basato su Ordini d'acquisto 260212..pdf"
+            },
+            {
               "nome": "SIRMAN DDT N° 2025134519 DEL 28.10.2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -190755,7 +190771,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 136
+          "_totale_file": 138
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -197366,7 +197382,7 @@
               "nome": "SELMABIPIEMME LEASING SPA_TV1202525004190_2025-05-15.xml",
               "tipo": "File",
               "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/7hjza5uta12sijx3l3n2a/SELMABIPIEMME-LEASING-SPA_TV1202525004190_2025-05-15.xml?rlkey=fpi8lzxw2150rkitlaf3ach2c&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/SELMABIPIEMME LEASING SPA_TV1202525004190_2025-05-15.xml"
             },
@@ -231356,7 +231372,7 @@
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/r011ux70zbohe1qlmk0lz/COLDLINE-Conferma-ordine-n-26-13538-RIF.-NERA-VENTOLA-VISION.pdf?rlkey=ze602ecen1jpr1k3v36wrms6a&dl=0?raw=1",
-              "dimensione_kb": 97,
+              "dimensione_kb": 85,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13538 RIF. NERA VENTOLA VISION.pdf"
             },
             {
@@ -231374,6 +231390,14 @@
               "link": "https://www.dropbox.com/scl/fi/p8081atqn862pa6o5z9ay/COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx-collegamento.lnk?rlkey=f7cq7pmwc6cx1bmtuus3f924s&dl=0?raw=1",
               "dimensione_kb": 2,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx - collegamento.lnk"
+            },
+            {
+              "nome": "COMENDA ALI GROUP SRL Ordine dacquisto_260211_20260826_220526 RIF. RICAMBI PER TIME OUT + MAG.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/e85ukwfub6n1r1kxeoe5b/COMENDA-ALI-GROUP-SRL-Ordine-dacquisto_260211_20260826_220526-RIF.-RICAMBI-PER-TIME-OUT-MAG.pdf?rlkey=4sq2tmvwpb0f1l34x7ldir9ny&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COMENDA ALI GROUP SRL Ordine dacquisto_260211_20260826_220526 RIF. RICAMBI PER TIME OUT + MAG.pdf"
             },
             {
               "nome": "CUSTOM CONFERMA ORDINE Conf.Ord. 100916505 Cl.5212053 RIF. CRUSCO.pdf",
@@ -231760,7 +231784,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260208_20260809_111702 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf"
             }
           ],
-          "_totale_file": 3773
+          "_totale_file": 3774
         }
       ],
       "file": []
