@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-29T05:32:15Z",
-  "totale_file": 26562,
+  "generato": "2026-08-29T07:30:27Z",
+  "totale_file": 26564,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -189853,7 +189853,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4978,
+      "totale_file": 4980,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -190059,6 +190059,14 @@
               "link": "https://www.dropbox.com/scl/fi/gg4hzdtegth2iecba5u0r/COLD-LINE-srl-Entrata-merci-da-fornitore_260165_20260801_215144-RIF.-FLAVIA-DE-MARCO-MAG-Basato-su-Ordini-cliente-260257.-Basat.pdf?rlkey=ownew40yfrzoknatftzkh3nt0&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260165_20260801_215144 RIF. FLAVIA DE MARCO + MAG Basato su Ordini cliente 260257. Basat.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260172_20260827_232921 RIF. Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST 2019 PER.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7c1gwc8c29yi4scyy56b9/COLD-LINE-srl-Entrata-merci-da-fornitore_260172_20260827_232921-RIF.-Kit-ventilatore-250-4-fili-il-codice-O18300016001-PER-MODELLI-POST-2019-PER.pdf?rlkey=20j1hz1dgwsn3j4nvkdnj8tfh&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260172_20260827_232921 RIF. Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST 2019 PER.pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -190965,7 +190973,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 138
+          "_totale_file": 139
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -197576,7 +197584,7 @@
               "nome": "SELMABIPIEMME LEASING SPA_TV1202525004190_2025-05-15.xml",
               "tipo": "File",
               "icona": "📎",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/7hjza5uta12sijx3l3n2a/SELMABIPIEMME-LEASING-SPA_TV1202525004190_2025-05-15.xml?rlkey=fpi8lzxw2150rkitlaf3ach2c&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/SELMABIPIEMME LEASING SPA_TV1202525004190_2025-05-15.xml"
             },
@@ -231522,6 +231530,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260204_20260806_114949.pdf"
             },
             {
+              "nome": "COLD LINE srl Ordine dacquisto_260213_20260827_232706 RIF. MATRICOLA Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yfbdxspwwr87a6g0qatcb/COLD-LINE-srl-Ordine-dacquisto_260213_20260827_232706-RIF.-MATRICOLA-Kit-ventilatore-250-4-fili-il-codice-O18300016001-PER-MODELLI-POST.pdf?rlkey=mojom9ziue0k6ak0eamkhheen&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260213_20260827_232706 RIF. MATRICOLA Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST.pdf"
+            },
+            {
               "nome": "COLDLINE CONFERMA Offerta n°26-08084 RIF.MeM TOP.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -231978,7 +231994,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260208_20260809_111702 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf"
             }
           ],
-          "_totale_file": 3774
+          "_totale_file": 3775
         }
       ],
       "file": []
