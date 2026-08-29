@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-28T09:03:57Z",
-  "totale_file": 26543,
+  "generato": "2026-08-29T00:23:03Z",
+  "totale_file": 26548,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -73670,7 +73670,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7281,
+      "totale_file": 7286,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -111722,17 +111722,25 @@
                       "_totale_file": 3
                     },
                     {
-                      "nome": "GRATTUGIA FIMAR",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/GRATTUGIA FIMAR",
+                      "nome": "GRATTUGIA FIMAR GR12S23050M MATRICOLA 170609540 ANNO 2017 FIUMICELLO",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/GRATTUGIA FIMAR GR12S23050M MATRICOLA 170609540 ANNO 2017 FIUMICELLO",
                       "cartelle": [],
                       "file": [
+                        {
+                          "nome": "GRATTUGIA FIMAR GR12S23050M MATRICOLA 170609540 ANNO 2017 FIUMICELLO DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/e6unodcflxmt4az8mw0es/GRATTUGIA-FIMAR-GR12S23050M-MATRICOLA-170609540-ANNO-2017-FIUMICELLO-DATI-MACCHINA.jpg?rlkey=ndhoot6f2bnc6x3xzj6psrtmg&dl=0?raw=1",
+                          "dimensione_kb": 123,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/GRATTUGIA FIMAR GR12S23050M MATRICOLA 170609540 ANNO 2017 FIUMICELLO/GRATTUGIA FIMAR GR12S23050M MATRICOLA 170609540 ANNO 2017 FIUMICELLO DATI MACCHINA.jpg"
+                        },
                         {
                           "nome": "WhatsApp Image 2025-07-07 at 11.07.43.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/wgdepewj7yhqmfw7fvs1s/WhatsApp-Image-2025-07-07-at-11.07.43.jpeg?rlkey=mh2c19jyhus58agj611gxe5ga&dl=0?raw=1",
                           "dimensione_kb": 295,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/GRATTUGIA FIMAR/WhatsApp Image 2025-07-07 at 11.07.43.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/GRATTUGIA FIMAR GR12S23050M MATRICOLA 170609540 ANNO 2017 FIUMICELLO/WhatsApp Image 2025-07-07 at 11.07.43.jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2025-07-23 at 19.11.49.jpeg",
@@ -111740,10 +111748,10 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/j0jpxhrasyp26o3ceir4a/WhatsApp-Image-2025-07-23-at-19.11.49.jpeg?rlkey=v0728hy1orkr4dy2497ayilfa&dl=0?raw=1",
                           "dimensione_kb": 213,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/GRATTUGIA FIMAR/WhatsApp Image 2025-07-23 at 19.11.49.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/GRATTUGIA FIMAR GR12S23050M MATRICOLA 170609540 ANNO 2017 FIUMICELLO/WhatsApp Image 2025-07-23 at 19.11.49.jpeg"
                         }
                       ],
-                      "_totale_file": 2
+                      "_totale_file": 3
                     },
                     {
                       "nome": "GRATTUGIA SILVER MOD.GV  72 MATRICOLA 51",
@@ -111868,7 +111876,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/Piatto VULCANO TV 350-370 BS Vers.1.pdf"
                     }
                   ],
-                  "_totale_file": 25
+                  "_totale_file": 26
                 },
                 {
                   "nome": "VELARDI PIAZZA EUROPA FORNITURA ARREDO INOX MAGGIO 2026",
@@ -112009,7 +112017,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI SITUAZIONE AL 17_05_2022.pdf"
                 }
               ],
-              "_totale_file": 41
+              "_totale_file": 42
             }
           ],
           "file": [
@@ -112022,7 +112030,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 919
+          "_totale_file": 920
         },
         {
           "nome": "MARCELLINA",
@@ -119919,7 +119927,40 @@
             {
               "nome": "FULLIN AMEDEO",
               "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/FULLIN AMEDEO",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "FULLINA AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/FULLIN AMEDEO/FULLINA AREA TECNICA",
+                  "cartelle": [
+                    {
+                      "nome": "FRIGGITRICE OFFCAR",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/FULLIN AMEDEO/FULLINA AREA TECNICA/FRIGGITRICE OFFCAR",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "FRIGGITRICE OFFCAR ESPLOSO RICAMBI document.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/gtn0b4ju6box06vgdm2iq/FRIGGITRICE-OFFCAR-ESPLOSO-RICAMBI-document.pdf?rlkey=j4h27vf7v85s89yizsdkx1frf&dl=0?raw=1",
+                          "dimensione_kb": 146,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/FULLIN AMEDEO/FULLINA AREA TECNICA/FRIGGITRICE OFFCAR/FRIGGITRICE OFFCAR ESPLOSO RICAMBI document.pdf"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2026-08-28 at 11.02.06.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/nhw29890n6ijnwatxwh61/WhatsApp-Image-2026-08-28-at-11.02.06.jpeg?rlkey=1dgc737hko7wu5aahoda27q6s&dl=0?raw=1",
+                          "dimensione_kb": 146,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/FULLIN AMEDEO/FULLINA AREA TECNICA/FRIGGITRICE OFFCAR/WhatsApp Image 2026-08-28 at 11.02.06.jpeg"
+                        }
+                      ],
+                      "_totale_file": 2
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 2
+                }
+              ],
               "file": [
                 {
                   "nome": "Offerta di vendita_210539_20210713_182134.pdf",
@@ -119938,7 +119979,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/FULLIN AMEDEO/Ordine cliente_210551_20210713_113912.pdf"
                 }
               ],
-              "_totale_file": 2
+              "_totale_file": 4
             },
             {
               "nome": "GANESHA",
@@ -125199,7 +125240,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 710
+          "_totale_file": 712
         },
         {
           "nome": "RIMINI",
@@ -139426,12 +139467,12 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO",
               "cartelle": [
                 {
-                  "nome": "AREA TECNICA LE DELIZIE DEL GRANO",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO",
+                  "nome": "LE DELIZIE DEL GRANO AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA",
                   "cartelle": [
                     {
                       "nome": "ABBATTITORE VISION COLDLINE",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/ABBATTITORE VISION COLDLINE",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/ABBATTITORE VISION COLDLINE",
                       "cartelle": [],
                       "file": [
                         {
@@ -139440,14 +139481,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/jx8u9l0snd4sumox8ba6c/WhatsApp-Image-2024-05-24-at-18.05.12.jpeg?rlkey=uq59ip8arygnrv8xlqfqyz8tt&dl=0?raw=1",
                           "dimensione_kb": 151,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/ABBATTITORE VISION COLDLINE/WhatsApp Image 2024-05-24 at 18.05.12.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/ABBATTITORE VISION COLDLINE/WhatsApp Image 2024-05-24 at 18.05.12.jpeg"
                         }
                       ],
                       "_totale_file": 1
                     },
                     {
                       "nome": "AMRADIO FRIGO FORCAR",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/AMRADIO FRIGO FORCAR",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/AMRADIO FRIGO FORCAR",
                       "cartelle": [],
                       "file": [
                         {
@@ -139456,22 +139497,22 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/hfjc5iyrnc2h0fa7yzivl/WhatsApp-Image-2024-05-24-at-18.05.11.jpeg?rlkey=6ard7u1d1ipqtblkglclj3jx5&dl=0?raw=1",
                           "dimensione_kb": 84,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/AMRADIO FRIGO FORCAR/WhatsApp Image 2024-05-24 at 18.05.11.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/AMRADIO FRIGO FORCAR/WhatsApp Image 2024-05-24 at 18.05.11.jpeg"
                         }
                       ],
                       "_totale_file": 1
                     },
                     {
                       "nome": "FORNO MORETTI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI",
                       "cartelle": [
                         {
                           "nome": "aggiorna",
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna",
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna",
                           "cartelle": [
                             {
                               "nome": "bar",
-                              "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar",
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar",
                               "cartelle": [],
                               "file": [
                                 {
@@ -139480,7 +139521,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/cr8dz4ycg8ekzliyfcba4/crash-s.bmp?rlkey=9yxj68j9tz42tu7d6amw62cxj&dl=0?raw=1",
                                   "dimensione_kb": 1125,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/crash-s.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/crash-s.bmp"
                                 },
                                 {
                                   "nome": "crash-t.bmp",
@@ -139488,7 +139529,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/xrxjkepk7eyophppy45vk/crash-t.bmp?rlkey=8s011gon01ktyespi37b39d0w&dl=0?raw=1",
                                   "dimensione_kb": 1125,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/crash-t.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/crash-t.bmp"
                                 },
                                 {
                                   "nome": "fnt30x32bv.bmp",
@@ -139496,7 +139537,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/vzm0hsk4ziju0hm2avu1e/fnt30x32bv.bmp?rlkey=bkpnx4y5aewy9neicou9dkfwl&dl=0?raw=1",
                                   "dimensione_kb": 960,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/fnt30x32bv.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/fnt30x32bv.bmp"
                                 },
                                 {
                                   "nome": "up0.bmp",
@@ -139504,7 +139545,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/xx8tlo1xm3r80awktde3w/up0.bmp?rlkey=i2qdjq25tjd1w8glz9f2i8f2l&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up0.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up0.bmp"
                                 },
                                 {
                                   "nome": "up1.bmp",
@@ -139512,7 +139553,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/7qef80k4xom0di52oyq14/up1.bmp?rlkey=s9hklc18k7itnxgen9z7atv62&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up1.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up1.bmp"
                                 },
                                 {
                                   "nome": "up10.bmp",
@@ -139520,7 +139561,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/iuqozyvfhqdgskl2j1ivy/up10.bmp?rlkey=oledb09h6ffdr8nl24hqvyfqp&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up10.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up10.bmp"
                                 },
                                 {
                                   "nome": "up2.bmp",
@@ -139528,7 +139569,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/l25uzgwk5mvgop8ieer7a/up2.bmp?rlkey=ot5fvn4bmquw8ar9r9r3oeux0&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up2.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up2.bmp"
                                 },
                                 {
                                   "nome": "up3.bmp",
@@ -139536,7 +139577,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/he8kz39o6h0qvg10dcvnz/up3.bmp?rlkey=ncx6kzj6klbl25htcwpbw0is7&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up3.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up3.bmp"
                                 },
                                 {
                                   "nome": "up4.bmp",
@@ -139544,7 +139585,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/e4dgkog9ccdrd3qfmjtz5/up4.bmp?rlkey=74os92s71s5c8tcqpw3we2v2d&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up4.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up4.bmp"
                                 },
                                 {
                                   "nome": "up5.bmp",
@@ -139552,7 +139593,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/5ldcxintbtw4ft8khqd9q/up5.bmp?rlkey=bxryw3az4h3cj4u8amezghi1i&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up5.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up5.bmp"
                                 },
                                 {
                                   "nome": "up6.bmp",
@@ -139560,7 +139601,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/e3rov48iupxomp3z2mmbm/up6.bmp?rlkey=pc4ez30qtnzzxwnzwjai5hlkl&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up6.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up6.bmp"
                                 },
                                 {
                                   "nome": "up7.bmp",
@@ -139568,7 +139609,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/oirnu5m0m49s5qbk56hvy/up7.bmp?rlkey=wk9r4qfw2ad3fpwkq4ubv3864&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up7.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up7.bmp"
                                 },
                                 {
                                   "nome": "up8.bmp",
@@ -139576,7 +139617,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/radrer8wytm6p11gohfc3/up8.bmp?rlkey=41lii1be1ga2rvc6gaw5qtvjo&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up8.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up8.bmp"
                                 },
                                 {
                                   "nome": "up9.bmp",
@@ -139584,7 +139625,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/531w72uc27mq2u0rdr4mh/up9.bmp?rlkey=kz1zynmm1tsgm1snz6he3uqbg&dl=0?raw=1",
                                   "dimensione_kb": 31,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/up9.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/up9.bmp"
                                 },
                                 {
                                   "nome": "update_err-s.bmp",
@@ -139592,7 +139633,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/zzklliaof3wv1t1wd17fy/update_err-s.bmp?rlkey=q252jcqv5ydl95ymg9b8qxyo2&dl=0?raw=1",
                                   "dimensione_kb": 1125,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/update_err-s.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/update_err-s.bmp"
                                 },
                                 {
                                   "nome": "update_err-t.bmp",
@@ -139600,7 +139641,7 @@
                                   "icona": "📎",
                                   "link": "https://www.dropbox.com/scl/fi/thg7fzu5spee71kt3uf0b/update_err-t.bmp?rlkey=5y5spd1agewbtme8wn2kobrys&dl=0?raw=1",
                                   "dimensione_kb": 1125,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna/bar/update_err-t.bmp"
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna/bar/update_err-t.bmp"
                                 }
                               ],
                               "_totale_file": 16
@@ -139617,7 +139658,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/xq59o8an5t8f6jhu58e1m/Gmail-R_-Viceconti-Snc_-richiesta-software-per-aggiornamento-urgente-RIF.-LE-DELIZIE-DEL-GRANO.pdf?rlkey=9cdekw1gor007key7sjwp2scs&dl=0?raw=1",
                           "dimensione_kb": 335,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/Gmail - R_ Viceconti Snc_ richiesta software per aggiornamento urgente RIF. LE DELIZIE DEL GRANO.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/Gmail - R_ Viceconti Snc_ richiesta software per aggiornamento urgente RIF. LE DELIZIE DEL GRANO.pdf"
                         },
                         {
                           "nome": "MORETTI FATTURA FORNO RIF.LE DELIZIE DEL GRANO.pdf",
@@ -139625,7 +139666,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ffizoai8i21on1jh02w66/MORETTI-FATTURA-FORNO-RIF.LE-DELIZIE-DEL-GRANO.pdf?rlkey=wblseejs8zy01euoljg8kf2yz&dl=0?raw=1",
                           "dimensione_kb": 8,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/MORETTI FATTURA FORNO RIF.LE DELIZIE DEL GRANO.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/MORETTI FATTURA FORNO RIF.LE DELIZIE DEL GRANO.pdf"
                         },
                         {
                           "nome": "WhatsApp Image 2022-07-08 at 17.19.51.jpeg",
@@ -139633,7 +139674,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/d4rwwxo6zsjhghyayrus2/WhatsApp-Image-2022-07-08-at-17.19.51.jpeg?rlkey=ja8kly5ginfmn0hnt09pws2hc&dl=0?raw=1",
                           "dimensione_kb": 77,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/WhatsApp Image 2022-07-08 at 17.19.51.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/WhatsApp Image 2022-07-08 at 17.19.51.jpeg"
                         },
                         {
                           "nome": "aggiorna.zip",
@@ -139641,14 +139682,30 @@
                           "icona": "🗜️",
                           "link": "https://www.dropbox.com/scl/fi/7wsh0mjx6y3y9tc3qknf1/aggiorna.zip?rlkey=ltcjom1wyevcr9cy3x4nnzo48&dl=0?raw=1",
                           "dimensione_kb": 5432,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/AREA TECNICA LE DELIZIE DEL GRANO/FORNO MORETTI/aggiorna.zip"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/FORNO MORETTI/aggiorna.zip"
                         }
                       ],
                       "_totale_file": 20
+                    },
+                    {
+                      "nome": "RATIONAL SCCWE61 MATRICOLA E61SH13042346878",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/RATIONAL SCCWE61 MATRICOLA E61SH13042346878",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "RATIONAL SCCWE61 MATRICOLA E61SH13042346878 ESPLOSO RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/vh76c9q13v39wun9wro47/RATIONAL-SCCWE61-MATRICOLA-E61SH13042346878-ESPLOSO-RICAMBI.pdf?rlkey=wizm5747vqei1vain2dkychoh&dl=0?raw=1",
+                          "dimensione_kb": 1181,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/LE DELIZIE DEL GRANO AREA TECNICA/RATIONAL SCCWE61 MATRICOLA E61SH13042346878/RATIONAL SCCWE61 MATRICOLA E61SH13042346878 ESPLOSO RICAMBI.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
                     }
                   ],
                   "file": [],
-                  "_totale_file": 22
+                  "_totale_file": 23
                 },
                 {
                   "nome": "LE DELIZIE DEL GRANO BIGLIETTI HOST 2025",
@@ -139749,7 +139806,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/LE DELIZIE DEL GRANO/Saldo contabile - C050933 LE DELIZIE DEL GRANO S.R.L._20250823_182824.pdf"
                 }
               ],
-              "_totale_file": 33
+              "_totale_file": 34
             },
             {
               "nome": "LU BUCCACCIU DI ANGELA PRAINO",
@@ -141349,7 +141406,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL - collegamento.lnk"
             }
           ],
-          "_totale_file": 295
+          "_totale_file": 296
         },
         {
           "nome": "TORTORELLA",
@@ -142243,12 +142300,12 @@
               "_totale_file": 8
             },
             {
-              "nome": "BAR PUNTICIEDDO",
-              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO",
+              "nome": "BAR PUNTICIEDDO C000125",
+              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO C000125",
               "cartelle": [
                 {
                   "nome": "BAR PUNTICIEDDO AREA TECNCA",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO/BAR PUNTICIEDDO AREA TECNCA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO C000125/BAR PUNTICIEDDO AREA TECNCA",
                   "cartelle": [],
                   "file": [
                     {
@@ -142257,7 +142314,7 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/v7r4v5uwtggt7moxc7axa/WhatsApp-Image-2023-08-08-at-21.10.58.jpeg?rlkey=7q0dnr278oiulkq0j5x9spbjo&dl=0?raw=1",
                       "dimensione_kb": 79,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO/BAR PUNTICIEDDO AREA TECNCA/WhatsApp Image 2023-08-08 at 21.10.58.jpeg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO C000125/BAR PUNTICIEDDO AREA TECNCA/WhatsApp Image 2023-08-08 at 21.10.58.jpeg"
                     },
                     {
                       "nome": "WhatsApp Image 2023-08-08 at 21.10.59.jpeg",
@@ -142265,7 +142322,7 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/nypf0fjvm3jmc0jldb018/WhatsApp-Image-2023-08-08-at-21.10.59.jpeg?rlkey=nargs2c5yuij36auocz18c7rg&dl=0?raw=1",
                       "dimensione_kb": 46,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO/BAR PUNTICIEDDO AREA TECNCA/WhatsApp Image 2023-08-08 at 21.10.59.jpeg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO C000125/BAR PUNTICIEDDO AREA TECNCA/WhatsApp Image 2023-08-08 at 21.10.59.jpeg"
                     }
                   ],
                   "_totale_file": 2
@@ -142278,7 +142335,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/ac0jt4ec4rvo0s09q4te8/FIMAR_LISTINO_2020_-13.pdf.pdf?rlkey=kp6x8lyyv1680wqp8nw4vkn4i&dl=0?raw=1",
                   "dimensione_kb": 580,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO/FIMAR_LISTINO_2020_+13.pdf.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO C000125/FIMAR_LISTINO_2020_+13.pdf.pdf"
                 },
                 {
                   "nome": "Fattura di vendita_2300592_20230918_123747.pdf",
@@ -142286,7 +142343,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/wkpvru5phssgdckwzjkim/Fattura-di-vendita_2300592_20230918_123747.pdf?rlkey=pc51jluvzwbomguc307xvbu1t&dl=0?raw=1",
                   "dimensione_kb": 74,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO/Fattura di vendita_2300592_20230918_123747.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/BAR PUNTICIEDDO C000125/Fattura di vendita_2300592_20230918_123747.pdf"
                 }
               ],
               "_totale_file": 4
@@ -144684,7 +144741,32 @@
         {
           "nome": "TRIESTE",
           "path": "/HUB DOCUMENTALE/CLIENTI/TRIESTE",
-          "cartelle": [],
+          "cartelle": [
+            {
+              "nome": "ILLY CAFE SPA",
+              "path": "/HUB DOCUMENTALE/CLIENTI/TRIESTE/ILLY CAFE SPA",
+              "cartelle": [
+                {
+                  "nome": "ILLY CAFE SPA AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TRIESTE/ILLY CAFE SPA/ILLY CAFE SPA AREA TECNICA",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "OrdineAssistenza_SO24-04652.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/3gf9un5gi72f83gdt7wyk/OrdineAssistenza_SO24-04652.pdf?rlkey=hxzqwqjqm287560p5obtwksav&dl=0?raw=1",
+                      "dimensione_kb": 10,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRIESTE/ILLY CAFE SPA/ILLY CAFE SPA AREA TECNICA/OrdineAssistenza_SO24-04652.pdf"
+                    }
+                  ],
+                  "_totale_file": 1
+                }
+              ],
+              "file": [],
+              "_totale_file": 1
+            }
+          ],
           "file": [
             {
               "nome": "modulo anagrafica fornitore ITA.docx",
@@ -144695,7 +144777,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TRIESTE/modulo anagrafica fornitore ITA.docx"
             }
           ],
-          "_totale_file": 1
+          "_totale_file": 2
         },
         {
           "nome": "TROPEA",
