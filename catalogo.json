@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-08-31T02:28:44Z",
-  "totale_file": 26564,
+  "generato": "2026-08-31T05:45:36Z",
+  "totale_file": 26581,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6862,
+      "totale_file": 6879,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -246,6 +246,14 @@
               "link": "https://www.dropbox.com/scl/fi/t571juoivfic4yond6f2c/AGRITURISMO-L-AIA-DEI-CAPPELLANI-di-RICCARDI-VINCENZO-Consegna_260545_20260706_132322-RIF.-ASSISTENZA-SU-PRODUTTORE-DI-GHIACCIO-BREMA-IMF-35W-Q-MATRICO.pdf?rlkey=ai29savirba773ruh290hb037&dl=0?raw=1",
               "dimensione_kb": 54,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Consegna_260545_20260706_132322 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA IMF 35W-Q MATRICO.pdf"
+            },
+            {
+              "nome": "AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Consegna_260791_20260828_215453 RIF. ASSISTENZA SU CUCINA SOSTITUZIONE BRUCIATORE PILOTA FUOCO POSTERIORE SINISTRO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/r0eq9b5qixffjbdcxnvz4/AGRITURISMO-L-AIA-DEI-CAPPELLANI-di-RICCARDI-VINCENZO-Consegna_260791_20260828_215453-RIF.-ASSISTENZA-SU-CUCINA-SOSTITUZIONE-BRUCIATORE-PILOTA-FUOCO-POSTERIORE-SINISTRO.pdf?rlkey=q8u3dac0b4idnv9athh1hh3ii&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Consegna_260791_20260828_215453 RIF. ASSISTENZA SU CUCINA SOSTITUZIONE BRUCIATORE PILOTA FUOCO POSTERIORE SINISTRO.pdf"
             },
             {
               "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Consegna_260404_20260612_142014 RIF. VENTILATORE E INVERTER Basato su Ordini cliente 260136. VENTILATORE E INVERTER.pdf",
@@ -504,6 +512,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BOTTEGA 63 SRLS Consegna_260753_20260826_122313 RIF. TUBO BATTIFILTRO SERIE A3 R990201 Basato su Ordini cliente 260412..pdf"
             },
             {
+              "nome": "Bar PUNTISCIJEDDRO sas & C. di NASTA MARIA MICHELA Consegna_231247_20260828_194245 RIF. PLANETARIA DOMINO SM12 MATRICOLA MATRICOLA 33114 Basato su Offerte di vendita.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oodz845oicyzmvbcr1v4b/Bar-PUNTISCIJEDDRO-sas-C.-di-NASTA-MARIA-MICHELA-Consegna_231247_20260828_194245-RIF.-PLANETARIA-DOMINO-SM12-MATRICOLA-MATRICOLA-33114-Basato-su-Offerte-di-vendita.pdf?rlkey=kv7hu0c3o7ck270akryeedyoa&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Bar PUNTISCIJEDDRO sas & C. di NASTA MARIA MICHELA Consegna_231247_20260828_194245 RIF. PLANETARIA DOMINO SM12 MATRICOLA MATRICOLA 33114 Basato su Offerte di vendita.pdf"
+            },
+            {
+              "nome": "Bar PUNTISCIJEDDRO sas & C. di NASTA MARIA MICHELA Consegna_260785_20260828_195317 RIF. ASSISTENZA SU LAVABICCHIERI COMENDA CONTROLLO ASSISTENZA SU PRODUTTORE DI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/e42caiym2ooogzr7v86t4/Bar-PUNTISCIJEDDRO-sas-C.-di-NASTA-MARIA-MICHELA-Consegna_260785_20260828_195317-RIF.-ASSISTENZA-SU-LAVABICCHIERI-COMENDA-CONTROLLO-ASSISTENZA-SU-PRODUTTORE-DI.pdf?rlkey=71r83yll2cftsc4pthnmo8duj&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Bar PUNTISCIJEDDRO sas & C. di NASTA MARIA MICHELA Consegna_260785_20260828_195317 RIF. ASSISTENZA SU LAVABICCHIERI COMENDA CONTROLLO ASSISTENZA SU PRODUTTORE DI.pdf"
+            },
+            {
               "nome": "Billy Bar di SCALDAFERRI PIETRO Consegna_260325_20260531_102233 RIF. ASSISTENZA SU FAEMA EMBLEMA A2 MANUTENZIONE ORDINARIA GRUPPI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -544,12 +568,28 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CAFFETTERIA DA CECILIA DI DI SANZO CECILIA Consegna_260746_20260824_200226 RIF. ASSISTENZA SU LAVABAR ARISTARCO AF40 MATRICOLA 03020291 SOSTITUZIONE TUBO.pdf"
             },
             {
+              "nome": "CAFFETTERIA DA CECILIA DI DI SANZO CECILIA Consegna_260787_20260828_210824 RIF. ASSISTENZA SU LAVABAR ARISTARCO AF40 MATRICOLA 03020291 SOSTITUZIONE TUBO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/usrr36otjza2vd0v54rcf/CAFFETTERIA-DA-CECILIA-DI-DI-SANZO-CECILIA-Consegna_260787_20260828_210824-RIF.-ASSISTENZA-SU-LAVABAR-ARISTARCO-AF40-MATRICOLA-03020291-SOSTITUZIONE-TUBO.pdf?rlkey=tt6ccvse7apwjlo1jvh0m0d17&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CAFFETTERIA DA CECILIA DI DI SANZO CECILIA Consegna_260787_20260828_210824 RIF. ASSISTENZA SU LAVABAR ARISTARCO AF40 MATRICOLA 03020291 SOSTITUZIONE TUBO.pdf"
+            },
+            {
               "nome": "CALA DEL CITRO S.R.L.S. Consegna_260427_20260618_091923 RIF. Basato su Offerte di vendita 250806. EMESSA FATTURA DI ANTIC.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/th85y2nskj27tsi5ratsv/CALA-DEL-CITRO-S.R.L.S.-Consegna_260427_20260618_091923-RIF.-Basato-su-Offerte-di-vendita-250806.-EMESSA-FATTURA-DI-ANTIC.pdf?rlkey=w967r9ygak73j229dw6esotx2&dl=0?raw=1",
               "dimensione_kb": 56,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CALA DEL CITRO S.R.L.S. Consegna_260427_20260618_091923 RIF. Basato su Offerte di vendita 250806. EMESSA FATTURA DI ANTIC.pdf"
+            },
+            {
+              "nome": "CALA DEL CITRO S.R.L.S. Consegna_260788_20260828_210959 RIF. ASSISTENZA SU PIANO COTTURA A GAS TECNOINOX PCGM8FG73 REVISIONE BRUCIATORE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dd3pz41hq0040kdiwpgxa/CALA-DEL-CITRO-S.R.L.S.-Consegna_260788_20260828_210959-RIF.-ASSISTENZA-SU-PIANO-COTTURA-A-GAS-TECNOINOX-PCGM8FG73-REVISIONE-BRUCIATORE.pdf?rlkey=oxl7quu543ebcuodkgmakf2a3&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CALA DEL CITRO S.R.L.S. Consegna_260788_20260828_210959 RIF. ASSISTENZA SU PIANO COTTURA A GAS TECNOINOX PCGM8FG73 REVISIONE BRUCIATORE.pdf"
             },
             {
               "nome": "CANNAZZARO SRL Consegna_251441_20260811_100119 RIF. PIASTRE BUFFET Basato su Offerte di vendita 250958. Basato s.pdf",
@@ -1240,6 +1280,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ESCOPOCO S.R.L. Consegna_260524_20260705_172843 RIF. ASSISTENZA SU FORNO QUBI DECALCIFICAZIONE CIRCUITO RIEMPIMEN.pdf"
             },
             {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_221534_20260828_220518 RIF. MATRICOLA Spesa di EURO 8.328,60 rendicontata a valere sul credito d imposta pre.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cquvcyvqeoccnof1uz7u1/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_221534_20260828_220518-RIF.-MATRICOLA-Spesa-di-EURO-8.328-60-rendicontata-a-valere-sul-credito-d-imposta-pre.pdf?rlkey=ueucsdz30zetkj9zkp6jblhdn&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_221534_20260828_220518 RIF. MATRICOLA Spesa di EURO 8.328,60 rendicontata a valere sul credito d imposta pre.pdf"
+            },
+            {
               "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_260270_20260514_103109 RIF. CONENTITORI POLIPROPILENE URGENTE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1334,6 +1382,14 @@
               "link": "https://www.dropbox.com/scl/fi/f0qiccnezws80qvrr9y5l/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_260777_20260827_230640-RIF.-ASSISTENZA-SU-FRIGGITRICE-ELETTRICA-MODULAR-MATRICOLA-SN_102524205.pdf?rlkey=yy3dx33zm6nwhvruis4hqfpe8&dl=0?raw=1",
               "dimensione_kb": 62,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260777_20260827_230640 RIF. ASSISTENZA SU FRIGGITRICE ELETTRICA MODULAR MATRICOLA SN_102524205.pdf"
+            },
+            {
+              "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_260793_20260828_222539 RIF. ASSISTENZA SU FORNO ELETTRICO RATIONAL ICOMBI MATRICOLA E61MJ22092997527.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/kvt0bnbovzua5ksam6oko/FA-TU-PIZZA-AND-MORE-FA-TU-SRL-Consegna_260793_20260828_222539-RIF.-ASSISTENZA-SU-FORNO-ELETTRICO-RATIONAL-ICOMBI-MATRICOLA-E61MJ22092997527.pdf?rlkey=pxs8hvm4hqix68gswibv8r42j&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FA TU PIZZA AND MORE FA TU SRL Consegna_260793_20260828_222539 RIF. ASSISTENZA SU FORNO ELETTRICO RATIONAL ICOMBI MATRICOLA E61MJ22092997527.pdf"
             },
             {
               "nome": "FALCONE SAS di FALCONE ALESSANDRO & C. BISCOTTIFICIO CAUCCI Consegna_211378_20260810_102306 RIF. ASSISTENZA SU BOLLITORE REVISIONE GRUPPO BRUCIATORI PILOTA.pdf",
@@ -1520,6 +1576,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Consegna_260782_20260828_103423 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO RICABLAGGIO ASSISTENZA SU FRIGGITRICE FIMAR.pdf"
             },
             {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Consegna_260794_20260830_190048 RIF. RAT DETERGENTE VERDE Basato su Ordini cliente 260422..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tncoszd35ul2qu81wsjn3/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Consegna_260794_20260830_190048-RIF.-RAT-DETERGENTE-VERDE-Basato-su-Ordini-cliente-260422..pdf?rlkey=4svinl383knlelaca2dcmaykw&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Consegna_260794_20260830_190048 RIF. RAT DETERGENTE VERDE Basato su Ordini cliente 260422..pdf"
+            },
+            {
               "nome": "GESTIONI TURISTICHE LA TORRE SRL Consegna_260319_20260531_093554 RIF. ASSISTENZA SU FRYTOP RICABLAGGIO PIEZO ELETTRICO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1550,6 +1614,14 @@
               "link": "https://www.dropbox.com/scl/fi/v1t3ymaps4m6n8ynuglov/GESTIONI-TURISTICHE-LA-TORRE-SRL-Consegna_260761_20260826_210557-RIF.-ASSISTENZA-SU-FRIGGITRICE-RIARMO-TERMOSTATO-DI-SICUREZZA-COLLAUDO-DI-BUON.pdf?rlkey=mcd48rqnaklimp9fcagxw5u8b&dl=0?raw=1",
               "dimensione_kb": 62,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GESTIONI TURISTICHE LA TORRE SRL Consegna_260761_20260826_210557 RIF. ASSISTENZA SU FRIGGITRICE RIARMO TERMOSTATO DI SICUREZZA, COLLAUDO DI BUON.pdf"
+            },
+            {
+              "nome": "GESTIONI TURISTICHE LA TORRE SRL Consegna_260786_20260828_200212 RIF. ASSISTENZA SU CUOCIPASTA A GAS BERTO'S G9CP40 SOSTITUZIONE TERMOCOPPIA Basato.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s27n8ca2sfai4ptts20sv/GESTIONI-TURISTICHE-LA-TORRE-SRL-Consegna_260786_20260828_200212-RIF.-ASSISTENZA-SU-CUOCIPASTA-A-GAS-BERTO-S-G9CP40-SOSTITUZIONE-TERMOCOPPIA-Basato.pdf?rlkey=jnn6zkr75j69b21abdb0u7hux&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GESTIONI TURISTICHE LA TORRE SRL Consegna_260786_20260828_200212 RIF. ASSISTENZA SU CUOCIPASTA A GAS BERTO'S G9CP40 SOSTITUZIONE TERMOCOPPIA Basato.pdf"
             },
             {
               "nome": "GFI Consegna_260453_20260625_100239 RIF. Basato su Offerte di vendita 260233. Basato su Ordini client.pdf",
@@ -2624,6 +2696,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LIDO GOLDEN BEACH di LUCI GIUSEPPE Consegna_260775_20260827_230000 RIF. ASSISTENZA SU CUCINA REVISIONE FUOCHI ASSISTENZA SU AFFETTATRICE SOSTITUZIONE.pdf"
             },
             {
+              "nome": "LIDO GOLDEN BEACH di LUCI GIUSEPPE Consegna_260789_20260828_213651 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO EUR MATIC35 RIPARAZIONE SCHEDA ALIMENTAZIONE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ex89ujksayd045sm45013/LIDO-GOLDEN-BEACH-di-LUCI-GIUSEPPE-Consegna_260789_20260828_213651-RIF.-ASSISTENZA-SU-MACCHINA-SOTTOVUOTO-EUR-MATIC35-RIPARAZIONE-SCHEDA-ALIMENTAZIONE.pdf?rlkey=ntsydnexa3xi944hcgsvufgy1&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LIDO GOLDEN BEACH di LUCI GIUSEPPE Consegna_260789_20260828_213651 RIF. ASSISTENZA SU MACCHINA SOTTOVUOTO EUR MATIC35 RIPARAZIONE SCHEDA ALIMENTAZIONE.pdf"
+            },
+            {
               "nome": "LIDO POINT BREAK Consegna_260296_20260526_093623 RIF. Basato su Offerte di vendita 260151. Basato su Ordini client TAVOLOLO CON VASCA INCASSATA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2726,6 +2806,14 @@
               "link": "https://www.dropbox.com/scl/fi/o8gr918si15nrwjinr7mu/LIDO-VALENTINA-DI-LOPEZ-ANTONIO-Consegna_260395_20260612_081247-RIF.-LIDO-VALENTINA-FRIGGITRICE-GAS-LOTUS-MODELLO-F218-78GLT-18-1.pdf?rlkey=d8g8if1q0mvy7dcg10n0ufh4a&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LIDO VALENTINA DI LOPEZ ANTONIO Consegna_260395_20260612_081247 RIF. LIDO VALENTINA FRIGGITRICE GAS LOTUS MODELLO F218-78GLT 18+1.pdf"
+            },
+            {
+              "nome": "LIDO VALENTINA DI LOPEZ ANTONIO Consegna_260792_20260828_215630 RIF. ASSISTENZA SU CUCINA REGOLAZIONE FUOCHI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d3x2v8bopwrd0u06nweqi/LIDO-VALENTINA-DI-LOPEZ-ANTONIO-Consegna_260792_20260828_215630-RIF.-ASSISTENZA-SU-CUCINA-REGOLAZIONE-FUOCHI.pdf?rlkey=j30bedpwsd3gjdfid2a5b9lud&dl=0?raw=1",
+              "dimensione_kb": 50,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LIDO VALENTINA DI LOPEZ ANTONIO Consegna_260792_20260828_215630 RIF. ASSISTENZA SU CUCINA REGOLAZIONE FUOCHI.pdf"
             },
             {
               "nome": "LO RUSSO VITO Consegna_260281_20260520_184534 RIF. Basato su Ordini cliente 260139. GRIGLIE PLASTIFICATE COLDLINE.pdf",
@@ -2942,6 +3030,14 @@
               "link": "https://www.dropbox.com/scl/fi/58l8kzusbibnhgoebfqmz/MARIZIOSA-S.N.C.-DI-MARILENA-FORESTIEIRI-E-MARIA-BLOISE-Consegna_260748_20260824_210030-RIF.-ASSISTENZA-SU-LAVAOGGETTI-KRUPPS-EL981E-MATRICOLA-840D8EAD4550-SOSTITUZIONE.pdf?rlkey=rcxh7nqeuk888h8qjxg2yo3l0&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MARIZIOSA S.N.C. DI MARILENA FORESTIEIRI E MARIA BLOISE Consegna_260748_20260824_210030 RIF. ASSISTENZA SU LAVAOGGETTI KRUPPS EL981E MATRICOLA 840D8EAD4550 SOSTITUZIONE.pdf"
+            },
+            {
+              "nome": "MICELI PAMELA RISTREETTO Consegna_260790_20260828_215236 RIF. ASSISTENZA SU LAVABAR ARISTARCO AF40 MATRICOLA 518202208 TRATTAMENTO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gi6tkxdi0bhqe1jz2pg5u/MICELI-PAMELA-RISTREETTO-Consegna_260790_20260828_215236-RIF.-ASSISTENZA-SU-LAVABAR-ARISTARCO-AF40-MATRICOLA-518202208-TRATTAMENTO.pdf?rlkey=riflsf96u23ygb635tktkblja&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MICELI PAMELA RISTREETTO Consegna_260790_20260828_215236 RIF. ASSISTENZA SU LAVABAR ARISTARCO AF40 MATRICOLA 518202208 TRATTAMENTO.pdf"
             },
             {
               "nome": "MILORD S.R.L. Consegna_260323_20260531_101652 RIF. ASSISTENZA SU PLANETARIA MINNEAPOLIS RIPARAZIONE MECCANISMO.pdf",
@@ -4296,7 +4392,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 535
+          "_totale_file": 547
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -5120,20 +5216,36 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600256_20260703_113848 RIF. HOTELLERIE E DETERGENTE Basato su Consegne 260485. 260508..pdf"
             },
             {
-              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600301_20260722_120626 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260296. Basato.pdf",
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600301_20260830_191304 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260296. Basato su Consegne 260586..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/fq55vk1avvveg8q5kv0gu/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Fattura-di-vendita_2600301_20260722_120626-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260296.-Basato.pdf?rlkey=zh7lrtsgrevhfpvicoif4h8bq&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/iphu9ce1y4o5n6yieznls/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Fattura-di-vendita_2600301_20260830_191304-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260296.-Basato-su-Consegne-260586..pdf?rlkey=52raclzt9dpgfcyx61m385bep&dl=0?raw=1",
               "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600301_20260722_120626 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260296. Basato.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600301_20260830_191304 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260296. Basato su Consegne 260586..pdf"
             },
             {
-              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600368_20260805_092833 RIF. PIANI IN POLIETILENE E COLTELLI Basato su Consegne 260661. 2.pdf",
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600368_20260830_191315 RIF. PIANI IN POLIETILENE E COLTELLI Basato su Consegne 260661. 260662..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/lhqtt5goec3y8etr7s24r/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Fattura-di-vendita_2600368_20260805_092833-RIF.-PIANI-IN-POLIETILENE-E-COLTELLI-Basato-su-Consegne-260661.-2.pdf?rlkey=dfqgfp27i5w7nf1vrordoo4pm&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/ax4ggtape60e3pfb5sfb8/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Fattura-di-vendita_2600368_20260830_191315-RIF.-PIANI-IN-POLIETILENE-E-COLTELLI-Basato-su-Consegne-260661.-260662..pdf?rlkey=ztqmautnsh0i2c77ufmv0jiiq&dl=0?raw=1",
               "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600368_20260805_092833 RIF. PIANI IN POLIETILENE E COLTELLI Basato su Consegne 260661. 2.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600368_20260830_191315 RIF. PIANI IN POLIETILENE E COLTELLI Basato su Consegne 260661. 260662..pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600410_20260830_191238 RIF. RAT DETERGENTE VERDE Basato su Ordini cliente 260422. Basato su Consegne 260794.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dru6jdgiez6rd2j4nc3hw/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Fattura-di-vendita_2600410_20260830_191238-RIF.-RAT-DETERGENTE-VERDE-Basato-su-Ordini-cliente-260422.-Basato-su-Consegne-260794.pdf?rlkey=f4uooytz77l4mwybjo0r6cvft&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600410_20260830_191238 RIF. RAT DETERGENTE VERDE Basato su Ordini cliente 260422. Basato su Consegne 260794.pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600411_20260830_191231 RIF. ASSISTENZA SU FORNO A GAS RATIONAL ICOMBI PRO 101 MATRICOLA G11SJ22022953963.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xms2p2pf88mr1iap3tqlz/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Fattura-di-vendita_2600411_20260830_191231-RIF.-ASSISTENZA-SU-FORNO-A-GAS-RATIONAL-ICOMBI-PRO-101-MATRICOLA-G11SJ22022953963.pdf?rlkey=s49am5i8lvllmanobsd54nmeh&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600411_20260830_191231 RIF. ASSISTENZA SU FORNO A GAS RATIONAL ICOMBI PRO 101 MATRICOLA G11SJ22022953963.pdf"
             },
             {
               "nome": "GESTIONI TURISTICHE LA TORRE SRL Fattura di vendita_2600135_20260706_201644 RIF. ASSISTENZA SU FRYTOP RICABLAGGIO PIEZO ELETTRICO ASSISTENZA.pdf",
@@ -6304,6 +6416,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/Panificio FERRARO di SCHETTINI ANGELO A. Fattura di vendita_2600189_20260607_184056 RIF. ASSISTENZA SU TERMOIMPELLICOLATRICE SOSTITUZIONE RESISTENZA.pdf"
             },
             {
+              "nome": "Panificio MAGIE DI GRANO DI LATRONICO PIETRO E DI LASCIO ANTONIO SNC Fattura di vendita_2600409_20260828_120529 RIF. ASSISTENZA SU BILANCIA ITALIANA MACCHI MACH3000E MATRICOLA 6-062373.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4636psc9c5ya5gg2uaqhk/Panificio-MAGIE-DI-GRANO-DI-LATRONICO-PIETRO-E-DI-LASCIO-ANTONIO-SNC-Fattura-di-vendita_2600409_20260828_120529-RIF.-ASSISTENZA-SU-BILANCIA-ITALIANA-MACCHI-MACH3000E-MATRICOLA-6-062373.pdf?rlkey=1ldfav62vp9xvlrlrgi4b7uch&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/Panificio MAGIE DI GRANO DI LATRONICO PIETRO E DI LASCIO ANTONIO SNC Fattura di vendita_2600409_20260828_120529 RIF. ASSISTENZA SU BILANCIA ITALIANA MACCHI MACH3000E MATRICOLA 6-062373.pdf"
+            },
+            {
               "nome": "RI.SA.LU srls Fattura di vendita_2600285_20260712_171337 RIF. DETERGENTE E GUARNIZIONE RATIONAL Basato su Ordini cliente 2.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -6864,7 +6984,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260607_185001 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260.pdf"
             }
           ],
-          "_totale_file": 320
+          "_totale_file": 323
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -8096,6 +8216,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MAMA MIA LTD Offerta di vendita_260222_20260618_122617.pdf"
             },
             {
+              "nome": "MAMMI' MARIANNA Offerta di vendita_260401_20260829_200639.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lz9az1cu7lzk5t9fdrl84/MAMMI-MARIANNA-Offerta-di-vendita_260401_20260829_200639.pdf?rlkey=rogdmq5k4ng60bi8cr44s5j0u&dl=0?raw=1",
+              "dimensione_kb": 84,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MAMMI' MARIANNA Offerta di vendita_260401_20260829_200639.pdf"
+            },
+            {
               "nome": "MARIA ROSARIA GUERRESE Offerta di vendita_260264_20260714_100404.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -8680,7 +8808,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 226
+          "_totale_file": 227
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -67635,6 +67763,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Ordine cliente_260349_20260803_124608 RIF. COLTELLI.pdf"
             },
             {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Ordine cliente_260422_20260830_185945 RIF. RAT DETERGENTE VERDE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wni33ltq75ivm381pgt08/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Ordine-cliente_260422_20260830_185945-RIF.-RAT-DETERGENTE-VERDE.pdf?rlkey=c0s5fdu49ekch3pw7cmvtkvjy&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Ordine cliente_260422_20260830_185945 RIF. RAT DETERGENTE VERDE.pdf"
+            },
+            {
               "nome": "GFI Ordine cliente_260230_20260625_100227 RIF. Basato su Offerte di vendita 260233..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69171,7 +69307,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 292
+          "_totale_file": 293
         }
       ],
       "file": []
