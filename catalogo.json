@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-01T00:24:56Z",
-  "totale_file": 26581,
+  "generato": "2026-09-01T02:25:38Z",
+  "totale_file": 26584,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -146838,7 +146838,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4464,
+      "totale_file": 4467,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -187295,6 +187295,22 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/ARCHIVIO/2021_Tecnoinox_Cottura_Cooking Lines.pdf"
                 },
                 {
+                  "nome": "2025 Listino Modulari_TECNOINOX.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mj3atd1nqe52thwog1deh/2025-Listino-Modulari_TECNOINOX.pdf?rlkey=hf8qqu7us5kij93xb6bcpxuyc&dl=0?raw=1",
+                  "dimensione_kb": 55556,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/ARCHIVIO/2025 Listino Modulari_TECNOINOX.pdf"
+                },
+                {
+                  "nome": "2025 Listino Tecnoinox Forni.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/y1etvzvbqsy8ldgwwe8pb/2025-Listino-Tecnoinox-Forni.pdf?rlkey=9tsz0f9e65zhdyd8cer8as6in&dl=0?raw=1",
+                  "dimensione_kb": 23446,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/ARCHIVIO/2025 Listino Tecnoinox Forni.pdf"
+                },
+                {
                   "nome": "2025_TECNOINOX Listino Cottura Modulare.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -187317,6 +187333,14 @@
                   "link": "https://www.dropbox.com/scl/fi/dvgpy2upqxjx74yhxt1ub/Gmail-ERRATA-CORRIGE-Aggiornamento-Listini-Prezzi-_-Pricelists-Update-2021.pdf?rlkey=gbp7l29uz5c95whtzhqid7z3h&dl=0?raw=1",
                   "dimensione_kb": 417,
                   "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/ARCHIVIO/Gmail - ERRATA CORRIGE Aggiornamento Listini Prezzi _ Pricelists Update 2021.pdf"
+                },
+                {
+                  "nome": "Gmail - Tecnoinox_ nuovo listino _ new price list _ nouvelle liste de prix _ neue Preisliste _ nuevas tarifas.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ul9bgz0j8m6l0t403u48k/Gmail-Tecnoinox_-nuovo-listino-_-new-price-list-_-nouvelle-liste-de-prix-_-neue-Preisliste-_-nuevas-tarifas.pdf?rlkey=yvdiyb8aqbb3f4d0fz3xjbdlc&dl=0?raw=1",
+                  "dimensione_kb": 396,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/ARCHIVIO/Gmail - Tecnoinox_ nuovo listino _ new price list _ nouvelle liste de prix _ neue Preisliste _ nuevas tarifas.pdf"
                 },
                 {
                   "nome": "TECNOINOX - LIST_2017 MODULAR COOKING LINES.pdf",
@@ -187359,6 +187383,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/ARCHIVIO/TECNOINOX FORNI COMPLETO 2017.pdf"
                 },
                 {
+                  "nome": "TECNOINOX Listino 2025 per invio clienti.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/yjqweera69rlqpydi21xk/TECNOINOX-Listino-2025-per-invio-clienti.xlsx?rlkey=eov8bzbk935d8jrulq7dcd6ic&dl=0?raw=1",
+                  "dimensione_kb": 95,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/ARCHIVIO/TECNOINOX Listino 2025 per invio clienti.xlsx"
+                },
+                {
                   "nome": "TECNOINOX Listino Modulari 2022_low.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -187397,6 +187429,14 @@
                   "link": "https://www.dropbox.com/scl/fi/une0vi87cw1k96q3fgynz/TECNOINOX-Price-list-2021-2-valid-from-01.10.2021.xlsx?rlkey=6aml1h80w7b1tu6ro1vfx4pal&dl=0?raw=1",
                   "dimensione_kb": 222,
                   "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/ARCHIVIO/TECNOINOX Price-list 2021-2 valid from 01.10.2021.xlsx"
+                },
+                {
+                  "nome": "TECNOINOX SALAMANDRE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bbk1s4yulocegvn0895ir/TECNOINOX-SALAMANDRE.pdf?rlkey=52bdafmflzyc2szx6vp5zs9j0&dl=0?raw=1",
+                  "dimensione_kb": 747,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/ARCHIVIO/TECNOINOX SALAMANDRE.pdf"
                 },
                 {
                   "nome": "TECNOINOX.zip",
@@ -187439,26 +187479,10 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/ARCHIVIO/listini 01012022.zip"
                 }
               ],
-              "_totale_file": 19
+              "_totale_file": 24
             }
           ],
           "file": [
-            {
-              "nome": "2025 Listino Modulari_TECNOINOX.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mj3atd1nqe52thwog1deh/2025-Listino-Modulari_TECNOINOX.pdf?rlkey=hf8qqu7us5kij93xb6bcpxuyc&dl=0?raw=1",
-              "dimensione_kb": 55556,
-              "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/2025 Listino Modulari_TECNOINOX.pdf"
-            },
-            {
-              "nome": "2025 Listino Tecnoinox Forni.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/y1etvzvbqsy8ldgwwe8pb/2025-Listino-Tecnoinox-Forni.pdf?rlkey=9tsz0f9e65zhdyd8cer8as6in&dl=0?raw=1",
-              "dimensione_kb": 23446,
-              "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/2025 Listino Tecnoinox Forni.pdf"
-            },
             {
               "nome": "Gmail - Re_ Viceconti Snc_ richiesta credenziali per area riservata.pdf",
               "tipo": "PDF",
@@ -187466,30 +187490,6 @@
               "link": "https://www.dropbox.com/scl/fi/qe6lyhqaq4uodkyy3z9td/Gmail-Re_-Viceconti-Snc_-richiesta-credenziali-per-area-riservata.pdf?rlkey=p5a2cu5vgpa10fk9guro2m005&dl=0?raw=1",
               "dimensione_kb": 204,
               "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/Gmail - Re_ Viceconti Snc_ richiesta credenziali per area riservata.pdf"
-            },
-            {
-              "nome": "Gmail - Tecnoinox_ nuovo listino _ new price list _ nouvelle liste de prix _ neue Preisliste _ nuevas tarifas.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ul9bgz0j8m6l0t403u48k/Gmail-Tecnoinox_-nuovo-listino-_-new-price-list-_-nouvelle-liste-de-prix-_-neue-Preisliste-_-nuevas-tarifas.pdf?rlkey=yvdiyb8aqbb3f4d0fz3xjbdlc&dl=0?raw=1",
-              "dimensione_kb": 396,
-              "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/Gmail - Tecnoinox_ nuovo listino _ new price list _ nouvelle liste de prix _ neue Preisliste _ nuevas tarifas.pdf"
-            },
-            {
-              "nome": "TECNOINOX Listino 2025 per invio clienti.xlsx",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/yjqweera69rlqpydi21xk/TECNOINOX-Listino-2025-per-invio-clienti.xlsx?rlkey=eov8bzbk935d8jrulq7dcd6ic&dl=0?raw=1",
-              "dimensione_kb": 95,
-              "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/TECNOINOX Listino 2025 per invio clienti.xlsx"
-            },
-            {
-              "nome": "TECNOINOX SALAMANDRE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/bbk1s4yulocegvn0895ir/TECNOINOX-SALAMANDRE.pdf?rlkey=52bdafmflzyc2szx6vp5zs9j0&dl=0?raw=1",
-              "dimensione_kb": 747,
-              "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/TECNOINOX SALAMANDRE.pdf"
             },
             {
               "nome": "TECNOINOX VIDEO SHOW ROOM.url",
@@ -187516,6 +187516,30 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/mappatura_vecchi_nuovi_codici_tecnoinox.csv"
             },
             {
+              "nome": "price list 2026 Combi Steamers.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ob0r57v888qowlo7pl4x6/price-list-2026-Combi-Steamers.pdf?rlkey=bgdvzdtxu3hvi3c9whfr7o2vq&dl=0?raw=1",
+              "dimensione_kb": 11583,
+              "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/price list 2026 Combi Steamers.pdf"
+            },
+            {
+              "nome": "price list 2026 Modular Cooking.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/noyfy82klpz6vw7cdz8lz/price-list-2026-Modular-Cooking.pdf?rlkey=nnj5xoyogzu8yin20qnchu98l&dl=0?raw=1",
+              "dimensione_kb": 63539,
+              "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/price list 2026 Modular Cooking.pdf"
+            },
+            {
+              "nome": "price list 2026 Salamanders.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ymw24xdayp5gn98dfqkez/price-list-2026-Salamanders.pdf?rlkey=0pjinxf3jtg41tqeuhdxkus08&dl=0?raw=1",
+              "dimensione_kb": 2812,
+              "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/price list 2026 Salamanders.pdf"
+            },
+            {
               "nome": "product_2025-12-24_132700.csv",
               "tipo": "File",
               "icona": "📎",
@@ -187532,7 +187556,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/product_2025-12-24_175932.csv"
             }
           ],
-          "_totale_file": 30
+          "_totale_file": 33
         },
         {
           "nome": "TESTO",
