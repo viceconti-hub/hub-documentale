@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-01T05:41:22Z",
-  "totale_file": 26657,
+  "generato": "2026-09-01T07:44:30Z",
+  "totale_file": 26659,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -190597,7 +190597,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4980,
+      "totale_file": 4982,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -232226,6 +232226,22 @@
           ],
           "file": [
             {
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-002637-2026 RIF.LA SECCA PENSILE 120X60.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hbq07cu68w9sbc704i86x/ACCIAIO-T-D-CONFERMA-ORDVE-002637-2026-RIF.LA-SECCA-PENSILE-120X60.pdf?rlkey=8gl4k274bzl474ngywty08bbg&dl=0?raw=1",
+              "dimensione_kb": 738,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-002637-2026 RIF.LA SECCA PENSILE 120X60.pdf"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260214_20260831_122334 RIF. LA SECCA PENSILE 120X60 Basato su Ordini cliente 260425..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8pl7on3hvf0757o9q8q7u/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260214_20260831_122334-RIF.-LA-SECCA-PENSILE-120X60-Basato-su-Ordini-cliente-260425..pdf?rlkey=qcrdtxdr5vhfad1dg2zmhyfv3&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260214_20260831_122334 RIF. LA SECCA PENSILE 120X60 Basato su Ordini cliente 260425..pdf"
+            },
+            {
               "nome": "AIRFAN CONFERMA 3523 VICECONTI SNC CO RIF.YOU MARINA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -232738,7 +232754,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260208_20260809_111702 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf"
             }
           ],
-          "_totale_file": 3775
+          "_totale_file": 3777
         }
       ],
       "file": []
