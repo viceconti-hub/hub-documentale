@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-02T18:23:27Z",
-  "totale_file": 26670,
+  "generato": "2026-09-02T18:33:26Z",
+  "totale_file": 26673,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -73467,8 +73467,40 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 132,
+      "totale_file": 135,
       "cartelle": [
+        {
+          "nome": "10_04_2026",
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/10_04_2026",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "BELLADONNA ILAMA CONFERMA Preventivo 1288PRE del 19-03-2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/k75lc60bq1ga78o6vq9jq/BELLADONNA-ILAMA-CONFERMA-Preventivo-1288PRE-del-19-03-2026.pdf?rlkey=5ly7otnp9t4a65t2u4bzc39sx&dl=0?raw=1",
+              "dimensione_kb": 208,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/10_04_2026/BELLADONNA ILAMA CONFERMA Preventivo 1288PRE del 19-03-2026.pdf"
+            },
+            {
+              "nome": "LA MITO KLIMATIALIA FA TU Conferma d'Ordine-Klimaitalia-P-2271.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8ly45rqw21vgkq35cyxfw/LA-MITO-KLIMATIALIA-FA-TU-Conferma-d-Ordine-Klimaitalia-P-2271.pdf?rlkey=wvdoukgu5m198xp8480nomyhx&dl=0?raw=1",
+              "dimensione_kb": 178,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/10_04_2026/LA MITO KLIMATIALIA FA TU Conferma d'Ordine-Klimaitalia-P-2271.pdf"
+            },
+            {
+              "nome": "ZINCO GROUP IMALA CONFERMA VICECONTI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ndyhez70ipg2hy2gondk9/ZINCO-GROUP-IMALA-CONFERMA-VICECONTI.pdf?rlkey=vwjcnkm7sfztovt986cz58wy1&dl=0?raw=1",
+              "dimensione_kb": 631,
+              "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/10_04_2026/ZINCO GROUP IMALA CONFERMA VICECONTI.pdf"
+            }
+          ],
+          "_totale_file": 3
+        },
         {
           "nome": "FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/FA TU AGGIORNAMENTO LOGISTICA 23_03_2026",
