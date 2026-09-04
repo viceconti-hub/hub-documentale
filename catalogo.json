@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-03T09:09:01Z",
-  "totale_file": 26673,
+  "generato": "2026-09-04T00:24:53Z",
+  "totale_file": 26678,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -74614,7 +74614,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7286,
+      "totale_file": 7291,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -75257,7 +75257,7 @@
                   "nome": "Consegna_230648_20230630_092645.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/sna70cmkpbzg9z2wld8an/Consegna_230648_20230630_092645.pdf?rlkey=om0me00tyzcdlhew0nff8ymac&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 62,
                   "path": "/HUB DOCUMENTALE/CLIENTI/BUONVICINO/IL MULINO/Consegna_230648_20230630_092645.pdf"
                 },
@@ -76326,6 +76326,63 @@
               "_totale_file": 3
             },
             {
+              "nome": "LUTIPICO",
+              "path": "/HUB DOCUMENTALE/CLIENTI/CASTELSARACENO/LUTIPICO",
+              "cartelle": [
+                {
+                  "nome": "TEST DISEGNO CELLE",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CASTELSARACENO/LUTIPICO/TEST DISEGNO CELLE",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "LUTIPICO BOZZA DISEGNO CELLE PER APERTURE PORTE E MONOBLOCCHI.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/8oe8fq6p08svwzbrl2wr4/LUTIPICO-BOZZA-DISEGNO-CELLE-PER-APERTURE-PORTE-E-MONOBLOCCHI.pdf?rlkey=8i0o803erq2366oshbs3iqaju&dl=0?raw=1",
+                      "dimensione_kb": 81,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/CASTELSARACENO/LUTIPICO/TEST DISEGNO CELLE/LUTIPICO BOZZA DISEGNO CELLE PER APERTURE PORTE E MONOBLOCCHI.pdf"
+                    },
+                    {
+                      "nome": "LUTIPICO DISEGNO CELLE APERTURE PORTE E MONOBLOCCHI TAV01 REV0.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/6tr6i1te8sfvc5a5hbm1s/LUTIPICO-DISEGNO-CELLE-APERTURE-PORTE-E-MONOBLOCCHI-TAV01-REV0.pdf?rlkey=rm1vo8kiix8et0mjv1pwq2vwz&dl=0?raw=1",
+                      "dimensione_kb": 55,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/CASTELSARACENO/LUTIPICO/TEST DISEGNO CELLE/LUTIPICO DISEGNO CELLE APERTURE PORTE E MONOBLOCCHI TAV01 REV0.pdf"
+                    },
+                    {
+                      "nome": "LUTIPICO SRLS Ordine cliente_250827_20260903_104020 CELLE ELENCO ATTREZZATURE..pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/tq6v9k27pfkzs3bwz96af/LUTIPICO-SRLS-Ordine-cliente_250827_20260903_104020-CELLE-ELENCO-ATTREZZATURE..pdf?rlkey=kxivyvlj8m0w7i7vxvuji2xsm&dl=0?raw=1",
+                      "dimensione_kb": 61,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/CASTELSARACENO/LUTIPICO/TEST DISEGNO CELLE/LUTIPICO SRLS Ordine cliente_250827_20260903_104020 CELLE ELENCO ATTREZZATURE..pdf"
+                    }
+                  ],
+                  "_totale_file": 3
+                }
+              ],
+              "file": [
+                {
+                  "nome": "LUTIPICO DISEGNO CELLE CLIENTE.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/ust0g7iw0fa01lvrxpkw9/LUTIPICO-DISEGNO-CELLE-CLIENTE.jpeg?rlkey=zosuwe5e5blxlglnmwio9qcv5&dl=0?raw=1",
+                  "dimensione_kb": 853,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CASTELSARACENO/LUTIPICO/LUTIPICO DISEGNO CELLE CLIENTE.jpeg"
+                },
+                {
+                  "nome": "LUTIPICO Ordine cliente_250827_20260903_103824 CELLE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dalmj7yc3p725ouj39o21/LUTIPICO-Ordine-cliente_250827_20260903_103824-CELLE.pdf?rlkey=i0z8m2j1h68d0wukzvbj4s0t1&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CASTELSARACENO/LUTIPICO/LUTIPICO Ordine cliente_250827_20260903_103824 CELLE.pdf"
+                }
+              ],
+              "_totale_file": 5
+            },
+            {
               "nome": "RICCIARDI MARIO",
               "path": "/HUB DOCUMENTALE/CLIENTI/CASTELSARACENO/RICCIARDI MARIO",
               "cartelle": [],
@@ -76455,7 +76512,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 27
+          "_totale_file": 32
         },
         {
           "nome": "CAVA DE' TIRRENI",
