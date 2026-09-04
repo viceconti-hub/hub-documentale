@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-04T05:42:48Z",
-  "totale_file": 26695,
+  "generato": "2026-09-04T07:45:14Z",
+  "totale_file": 26693,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -190902,7 +190902,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 4982,
+      "totale_file": 4980,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -229638,6 +229638,30 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260157_20260707_121347 RIF. Coppia guide tipo L 605 mm per griglie EN60x40 CORRADO MICHE.pdf"
                 },
                 {
+                  "nome": "COLD LINE srl Ordine dacquisto_260195_20260729_164800 RIF. NERA SRL matricola 012300627 il codice corretto e aggiornato.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1vouyr3stqsvosuxbzghb/COLD-LINE-srl-Ordine-dacquisto_260195_20260729_164800-RIF.-NERA-SRL-matricola-012300627-il-codice-corretto-e-aggiornato.pdf?rlkey=xcr01purni2mbwd8kfy0acywv&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260195_20260729_164800 RIF. NERA SRL matricola 012300627 il codice corretto e aggiornato.pdf"
+                },
+                {
+                  "nome": "COLD LINE srl Ordine dacquisto_260204_20260806_114949.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/np6mmclx1ju8984pecm1v/COLD-LINE-srl-Ordine-dacquisto_260204_20260806_114949.pdf?rlkey=hclwkvemqezg13n42dlnif0s7&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260204_20260806_114949.pdf"
+                },
+                {
+                  "nome": "COLD LINE srl Ordine dacquisto_260213_20260827_232706 RIF. MATRICOLA Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yfbdxspwwr87a6g0qatcb/COLD-LINE-srl-Ordine-dacquisto_260213_20260827_232706-RIF.-MATRICOLA-Kit-ventilatore-250-4-fili-il-codice-O18300016001-PER-MODELLI-POST.pdf?rlkey=mojom9ziue0k6ak0eamkhheen&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260213_20260827_232706 RIF. MATRICOLA Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST.pdf"
+                },
+                {
                   "nome": "COLDINE Conferma ordine n°25-16183 RIF.JOEL_GARANZIA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -229854,12 +229878,36 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-09454 RIF.LA LUMERA.pdf"
                 },
                 {
+                  "nome": "COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9oz0vbcyq66xouxt8f4m0/COLDLINE-Conferma-ordine-n-26-09815-RIF.RICAMBI.pdf?rlkey=hup5c334i3134yrx44p3mkwat&dl=0?raw=1",
+                  "dimensione_kb": 89,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf"
+                },
+                {
+                  "nome": "COLDLINE Conferma ordine n°26-11538 RIF.FLAVIA DE MARCO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3v1z91ijpahvmftzisjhy/COLDLINE-Conferma-ordine-n-26-11538-RIF.FLAVIA-DE-MARCO.pdf?rlkey=1bc7r28imwhig4ihsmtnj75rb&dl=0?raw=1",
+                  "dimensione_kb": 91,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-11538 RIF.FLAVIA DE MARCO.pdf"
+                },
+                {
                   "nome": "COLDLINE Conferma ordine n°26-11994 RIF.CORRADO COPPIE GUIDE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/qqqnai6paz0adbkae9e73/COLDLINE-Conferma-ordine-n-26-11994-RIF.CORRADO-COPPIE-GUIDE.pdf?rlkey=82n1nnbxp5otdw5qeqcf19lnx&dl=0?raw=1",
                   "dimensione_kb": 96,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-11994 RIF.CORRADO COPPIE GUIDE.pdf"
+                },
+                {
+                  "nome": "COLDLINE Conferma ordine n°26-13538 RIF. NERA VENTOLA VISION.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/r011ux70zbohe1qlmk0lz/COLDLINE-Conferma-ordine-n-26-13538-RIF.-NERA-VENTOLA-VISION.pdf?rlkey=ze602ecen1jpr1k3v36wrms6a&dl=0?raw=1",
+                  "dimensione_kb": 85,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLDLINE Conferma ordine n°26-13538 RIF. NERA VENTOLA VISION.pdf"
                 },
                 {
                   "nome": "COLDLINE Ordine dacquisto_250427_20251028_184825 RIF.GRIGLIE E GUIDE.pdf",
@@ -230134,6 +230182,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/DE LUCA SRL Ordine dacquisto_260152_20260703_085808 RIF. IMPASTATRICE SOTTOVUOTO E PORDUTTORE DI GHIACCIO PER MeM.pdf"
                 },
                 {
+                  "nome": "DE LUCA SRL Ordine dacquisto_260207_20260808_201227.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mch92wk0z9o45i9hilwip/DE-LUCA-SRL-Ordine-dacquisto_260207_20260808_201227.pdf?rlkey=euvczsykha4id3pu7xib2x5co&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/DE LUCA SRL Ordine dacquisto_260207_20260808_201227.pdf"
+                },
+                {
                   "nome": "DM COMMERCIALE S.R.L. Ordine dacquisto_260107_20260521_132039 RIF. LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -230204,6 +230260,22 @@
                   "link": "https://www.dropbox.com/scl/fi/zs83ecfqqjhnhhgcmgl0n/ECOSAN-RAPIDO-Ordine-dacquisto_260023_20260323_125505.pdf?rlkey=kzw5zydsb2bdtknaiglj0o9ty&dl=0?raw=1",
                   "dimensione_kb": 75,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ECOSAN RAPIDO Ordine dacquisto_260023_20260323_125505.pdf"
+                },
+                {
+                  "nome": "ECOSAN SRL Ordine dacquisto_260167_20260718_095931 RIF. ORDINE RAPIDO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ky8em0f26vf5xiu8kqs4o/ECOSAN-SRL-Ordine-dacquisto_260167_20260718_095931-RIF.-ORDINE-RAPIDO.pdf?rlkey=suwawv4b5j8xpu8hbcbxe8a4j&dl=0?raw=1",
+                  "dimensione_kb": 69,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ECOSAN SRL Ordine dacquisto_260167_20260718_095931 RIF. ORDINE RAPIDO.pdf"
+                },
+                {
+                  "nome": "ECOSAN SRL Ordine dacquisto_260168_20260715_124344.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/x5ky2x6owwsvv85gksnu7/ECOSAN-SRL-Ordine-dacquisto_260168_20260715_124344.pdf?rlkey=3a2lr3ejzo8iwa0jabh9hcbb2&dl=0?raw=1",
+                  "dimensione_kb": 70,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/ECOSAN SRL Ordine dacquisto_260168_20260715_124344.pdf"
                 },
                 {
                   "nome": "FABIO LEONARDI SRL CONFERMA VICECONTI RIF.REALE GIACOMO.pdf",
@@ -230324,6 +230396,14 @@
                   "link": "https://www.dropbox.com/scl/fi/a820apm4gvocy1gy4nagh/FIMAR-2025W02170VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.MADI.PDF?rlkey=loppt9duyjeaorrttu71jmw1g&dl=0?raw=1",
                   "dimensione_kb": 131,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR 2025W02170VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.MADI.PDF"
+                },
+                {
+                  "nome": "FIMAR 2026 28441VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.NATALE_GUARNIZIONI.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/s1r4v21oyjxkd819x511z/FIMAR-2026-28441VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.NATALE_GUARNIZIONI.PDF?rlkey=hhu31ntlhqy37j00sdfq47vd2&dl=0?raw=1",
+                  "dimensione_kb": 131,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/FIMAR 2026 28441VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.NATALE_GUARNIZIONI.PDF"
                 },
                 {
                   "nome": "FIMAR CONFERMA ORDINE 2026W03693VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. PASSION SUSHI.PDF",
@@ -230492,6 +230572,14 @@
                   "link": "https://www.dropbox.com/scl/fi/4u2bwa31ylgsa7t0d0dkh/GO-PACK-S.R.L.-a-socio-unico-Ordine-dacquisto_260099_20260518_094118.pdf?rlkey=cn10vafyhgh58dcaolstyx2lw&dl=0?raw=1",
                   "dimensione_kb": 74,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/GO PACK S.R.L. a socio unico Ordine dacquisto_260099_20260518_094118.pdf"
+                },
+                {
+                  "nome": "GO PACK S.R.L. a socio unico Ordine dacquisto_260169_20260720_120819.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/a4ybju46f1vaj5f9s9rq5/GO-PACK-S.R.L.-a-socio-unico-Ordine-dacquisto_260169_20260720_120819.pdf?rlkey=6itm1q9pmelxknhdzror1zd38&dl=0?raw=1",
+                  "dimensione_kb": 74,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/GO PACK S.R.L. a socio unico Ordine dacquisto_260169_20260720_120819.pdf"
                 },
                 {
                   "nome": "GOPACK Conferma prenotazione ritiro.pdf",
@@ -231198,12 +231286,60 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KAREL 202525010206I121225 RIF.BAR CASTELLO.pdf"
                 },
                 {
+                  "nome": "KAREL CONFERMA 202626005745I280726.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hhlh087wiz1ab1i3lvr38/KAREL-CONFERMA-202626005745I280726.pdf?rlkey=ebubqd5d6vqi0n4hwuzy2b2zx&dl=0?raw=1",
+                  "dimensione_kb": 53,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KAREL CONFERMA 202626005745I280726.pdf"
+                },
+                {
                   "nome": "KAREL CONFERMA D'ORDINE 202525009622I201125 RIF.OSTERIA DELLA ROCCA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/1twyggg3zvlj89hx7fezw/KAREL-CONFERMA-D-ORDINE-202525009622I201125-RIF.OSTERIA-DELLA-ROCCA.pdf?rlkey=gmhonrusip6g1506lefg4l6cv&dl=0?raw=1",
                   "dimensione_kb": 39,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KAREL CONFERMA D'ORDINE 202525009622I201125 RIF.OSTERIA DELLA ROCCA.pdf"
+                },
+                {
+                  "nome": "KAREL CONFERMA ORDINE 202626005508I170726.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/uecaleh2kaibnck9hm3ia/KAREL-CONFERMA-ORDINE-202626005508I170726.pdf?rlkey=ziz65m4f5qfba19mu4aom2xth&dl=0?raw=1",
+                  "dimensione_kb": 53,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KAREL CONFERMA ORDINE 202626005508I170726.pdf"
+                },
+                {
+                  "nome": "KAREL CONFERMA ORDINE 26 5508 202626005508I230726.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/e55e2pkq59qjeakq1fro1/KAREL-CONFERMA-ORDINE-26-5508-202626005508I230726.pdf?rlkey=i61j5tdncff2kdpzvwy5sjmho&dl=0?raw=1",
+                  "dimensione_kb": 53,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KAREL CONFERMA ORDINE 26 5508 202626005508I230726.pdf"
+                },
+                {
+                  "nome": "KAREL srl Ordine dacquisto_260178_20260724_132917.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2r4d6707c0dltieqxo2rq/KAREL-srl-Ordine-dacquisto_260178_20260724_132917.pdf?rlkey=00oe65rzrgjcbvudkj03ak61c&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KAREL srl Ordine dacquisto_260178_20260724_132917.pdf"
+                },
+                {
+                  "nome": "KAREL srl Ordine dacquisto_260184_20260728_101841 RIF. Basato su Ordini cliente 260128. 260157. 260320. 260321. 260.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1roontttlxu2njsbvzodg/KAREL-srl-Ordine-dacquisto_260184_20260728_101841-RIF.-Basato-su-Ordini-cliente-260128.-260157.-260320.-260321.-260.pdf?rlkey=76u7agd1ov6a7gvdrpaq3xf0a&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KAREL srl Ordine dacquisto_260184_20260728_101841 RIF. Basato su Ordini cliente 260128. 260157. 260320. 260321. 260.pdf"
+                },
+                {
+                  "nome": "KAREL srl Ordine dacquisto_260189_20260729_083049 RIF. LIDO SAN FRANCESCO Basato su Ordini cliente 260320..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/u6viag4ckptv5w818gjxs/KAREL-srl-Ordine-dacquisto_260189_20260729_083049-RIF.-LIDO-SAN-FRANCESCO-Basato-su-Ordini-cliente-260320..pdf?rlkey=34kkrofviicptr0qfr7ajwpit&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/KAREL srl Ordine dacquisto_260189_20260729_083049 RIF. LIDO SAN FRANCESCO Basato su Ordini cliente 260320..pdf"
                 },
                 {
                   "nome": "KLIMAITALIA Conferma d'Ordine-Klimaitalia-P-2271 RIF.FA TU.pdf",
@@ -231782,6 +231918,38 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MORINI s.r.l. Ordine dacquisto_260139_20260617_105747 RIF. HAPPY MOMENTS SANTA LUCIA AIA DEI CAPPELLANI Basato su Ordin.pdf"
                 },
                 {
+                  "nome": "MORINI s.r.l. Ordine dacquisto_260170_20260717_123309 RIF. Basato su Ordini cliente 260231. 260237. 260280..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/tobeonp3y5mjws70d2vsh/MORINI-s.r.l.-Ordine-dacquisto_260170_20260717_123309-RIF.-Basato-su-Ordini-cliente-260231.-260237.-260280..pdf?rlkey=xo6bmx8aw523qb4mf4ocwd9b2&dl=0?raw=1",
+                  "dimensione_kb": 70,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MORINI s.r.l. Ordine dacquisto_260170_20260717_123309 RIF. Basato su Ordini cliente 260231. 260237. 260280..pdf"
+                },
+                {
+                  "nome": "MORINI s.r.l. Ordine dacquisto_260187_20260728_104923 RIF. Basato su Ordini cliente 260306. 260309. 260326. 260327..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/x1mw3katqx4fyqdusq51w/MORINI-s.r.l.-Ordine-dacquisto_260187_20260728_104923-RIF.-Basato-su-Ordini-cliente-260306.-260309.-260326.-260327..pdf?rlkey=hzyik266dxk4okhoi7p73vl41&dl=0?raw=1",
+                  "dimensione_kb": 69,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MORINI s.r.l. Ordine dacquisto_260187_20260728_104923 RIF. Basato su Ordini cliente 260306. 260309. 260326. 260327..pdf"
+                },
+                {
+                  "nome": "MORINI s.r.l. Ordine dacquisto_260196_20260803_102008 RIF. PANIFICIO D'IMPERIO Basato su Ordini cliente 260336..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/88kocmbuq8dgsf6ah350g/MORINI-s.r.l.-Ordine-dacquisto_260196_20260803_102008-RIF.-PANIFICIO-D-IMPERIO-Basato-su-Ordini-cliente-260336..pdf?rlkey=lve21yibh8keproz8od0bpr1n&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MORINI s.r.l. Ordine dacquisto_260196_20260803_102008 RIF. PANIFICIO D'IMPERIO Basato su Ordini cliente 260336..pdf"
+                },
+                {
+                  "nome": "MORINI s.r.l. Ordine dacquisto_260209_20260811_175042 RIF. Basato su Ordini cliente 260381. 260385. 260386..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pojbznu7ilm4ikxnmrnqp/MORINI-s.r.l.-Ordine-dacquisto_260209_20260811_175042-RIF.-Basato-su-Ordini-cliente-260381.-260385.-260386..pdf?rlkey=wos512gswnft1dcwbcd74f7qh&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/MORINI s.r.l. Ordine dacquisto_260209_20260811_175042 RIF. Basato su Ordini cliente 260381. 260385. 260386..pdf"
+                },
+                {
                   "nome": "NTA CONFERMA FP-4-2025 RIF.LAMPADE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -231798,12 +231966,44 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/NTA Ordine dacquisto_250380_20250918_122810 RIF.LAMPADE.pdf"
                 },
                 {
+                  "nome": "NTA Preventivo 71-PR del 31-07-2026 VICECONTI SNC DI ANTONIO E PROSPERO VICECONTI (1) (1).pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/n303iupkmkarsh9gmgjdp/NTA-Preventivo-71-PR-del-31-07-2026-VICECONTI-SNC-DI-ANTONIO-E-PROSPERO-VICECONTI-1-1.pdf?rlkey=ptosctvjpyjatkg9ldhmgz5n6&dl=0?raw=1",
+                  "dimensione_kb": 36,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/NTA Preventivo 71-PR del 31-07-2026 VICECONTI SNC DI ANTONIO E PROSPERO VICECONTI (1) (1).pdf"
+                },
+                {
+                  "nome": "NTA SRL Ordine dacquisto_260182_20260727_163809 RIF. LAMPADA E FILTRO AI CARBONI ATTIVI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mygtnyfgea7v1u9ynh4a3/NTA-SRL-Ordine-dacquisto_260182_20260727_163809-RIF.-LAMPADA-E-FILTRO-AI-CARBONI-ATTIVI.pdf?rlkey=qa54134eiz3643dxzz4sltcp5&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/NTA SRL Ordine dacquisto_260182_20260727_163809 RIF. LAMPADA E FILTRO AI CARBONI ATTIVI.pdf"
+                },
+                {
                   "nome": "NUOVA RICAMBI Ordini_clienti.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/xev0p9oq36v0wof64a2cz/NUOVA-RICAMBI-Ordini_clienti.PDF?rlkey=tj0abnwi0a30i2d6gee61heyn&dl=0?raw=1",
                   "dimensione_kb": 25,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/NUOVA RICAMBI Ordini_clienti.PDF"
+                },
+                {
+                  "nome": "NUOVA RICAMBI srl Ordine dacquisto_260181_20260727_121511 RIF. DISINCROSTANTE DS-3 PERGEL 1 Kg.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/v85d82aq1wehjrs9u7uw8/NUOVA-RICAMBI-srl-Ordine-dacquisto_260181_20260727_121511-RIF.-DISINCROSTANTE-DS-3-PERGEL-1-Kg.pdf?rlkey=4u4p0jydbsrwaktux3no32iev&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/NUOVA RICAMBI srl Ordine dacquisto_260181_20260727_121511 RIF. DISINCROSTANTE DS-3 PERGEL 1 Kg.pdf"
+                },
+                {
+                  "nome": "NUOVA RIRCAMBI CONFERMA Ordini_clienti DEL 27_07_2026.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hoys92ecpvcxdphrwhocg/NUOVA-RIRCAMBI-CONFERMA-Ordini_clienti-DEL-27_07_2026.PDF?rlkey=r9575xi3p2kz6gommpsk3olr0&dl=0?raw=1",
+                  "dimensione_kb": 25,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/NUOVA RIRCAMBI CONFERMA Ordini_clienti DEL 27_07_2026.PDF"
                 },
                 {
                   "nome": "Offer_OP-2025-0078103.pdf",
@@ -232094,6 +232294,54 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260180_20260727_113611 RIF. GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richies.pdf"
                 },
                 {
+                  "nome": "REPA ITALIA SRL Ordine dacquisto_260194_20260729_162152 RIF. ELETTROVALVOLE BREMA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/taivhutu29lqg921t7a9e/REPA-ITALIA-SRL-Ordine-dacquisto_260194_20260729_162152-RIF.-ELETTROVALVOLE-BREMA.pdf?rlkey=58t4onzpx1u0c0qehes4f4evg&dl=0?raw=1",
+                  "dimensione_kb": 28,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260194_20260729_162152 RIF. ELETTROVALVOLE BREMA.pdf"
+                },
+                {
+                  "nome": "REPA ITALIA SRL Ordine dacquisto_260197_20260730_155131.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/q561gyel3k4ph44ivr90z/REPA-ITALIA-SRL-Ordine-dacquisto_260197_20260730_155131.pdf?rlkey=xxf4xc4veimix05phs2qxtsq8&dl=0?raw=1",
+                  "dimensione_kb": 69,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260197_20260730_155131.pdf"
+                },
+                {
+                  "nome": "REPA ITALIA SRL Ordine dacquisto_260198_20260730_155542 RIF. FILTRO PURITY C QUELL ST 50 BRITA + DETERGENTE COFFEE CLEAN.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ew5i8mqjr1vxz1mcft7cr/REPA-ITALIA-SRL-Ordine-dacquisto_260198_20260730_155542-RIF.-FILTRO-PURITY-C-QUELL-ST-50-BRITA-DETERGENTE-COFFEE-CLEAN.pdf?rlkey=53fon11b2nvz9egxvqls5c8np&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260198_20260730_155542 RIF. FILTRO PURITY C QUELL ST 50 BRITA + DETERGENTE COFFEE CLEAN.pdf"
+                },
+                {
+                  "nome": "REPA ITALIA SRL Ordine dacquisto_260199_20260730_160123.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/f1n06l8iahnc5trtzxab6/REPA-ITALIA-SRL-Ordine-dacquisto_260199_20260730_160123.pdf?rlkey=nipoyol70kmot6w4gkk89zeo4&dl=0?raw=1",
+                  "dimensione_kb": 69,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260199_20260730_160123.pdf"
+                },
+                {
+                  "nome": "REPA ITALIA SRL Ordine dacquisto_260200_20260730_162205.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4rgbjhrq6jci4fsdwgyh4/REPA-ITALIA-SRL-Ordine-dacquisto_260200_20260730_162205.pdf?rlkey=gmjgl5quvby8seg1zefs11db1&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260200_20260730_162205.pdf"
+                },
+                {
+                  "nome": "REPA ITALIA SRL Ordine dacquisto_260201_20260730_171540.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/sqckngz14x07y2nsubtz3/REPA-ITALIA-SRL-Ordine-dacquisto_260201_20260730_171540.pdf?rlkey=a41iw2dq5n1lj154y1bacfbi2&dl=0?raw=1",
+                  "dimensione_kb": 29,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/REPA ITALIA SRL Ordine dacquisto_260201_20260730_171540.pdf"
+                },
+                {
                   "nome": "REPA ORDINE_CLIENTE-1010970-170212 RIF.MADI MIXER+MAG.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -232148,6 +232396,22 @@
                   "link": "https://www.dropbox.com/scl/fi/xkg45frdwh76gll7cizia/SIRMAN-CONFERMA-ORDINE-2010251338-DEL-18_05_2026-RIF.-MeM-HppyM-PassionSushi.pdf?rlkey=tfkrnzytlaa9jhru95qqdz2mo&dl=0?raw=1",
                   "dimensione_kb": 81,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN CONFERMA ORDINE 2010251338 DEL 18_05_2026 RIF. MeM HppyM PassionSushi.pdf"
+                },
+                {
+                  "nome": "SIRMAN CONFERMA ORDINE 2010260037 RIF.O3 TOWER PER EUROPAPOLICE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cqatz4jlg9qvv63aqdvq7/SIRMAN-CONFERMA-ORDINE-2010260037-RIF.O3-TOWER-PER-EUROPAPOLICE.pdf?rlkey=kx1uxl9p9bsmby379lh7df3og&dl=0?raw=1",
+                  "dimensione_kb": 81,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN CONFERMA ORDINE 2010260037 RIF.O3 TOWER PER EUROPAPOLICE.pdf"
+                },
+                {
+                  "nome": "SIRMAN CONFERMA ORDINE 2010260038 RIF. PLUTONE 7 HAPPY.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xur2uk851uuxwon2mjbcq/SIRMAN-CONFERMA-ORDINE-2010260038-RIF.-PLUTONE-7-HAPPY.pdf?rlkey=dik4clorl6q5qe32cx9n0upon&dl=0?raw=1",
+                  "dimensione_kb": 81,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN CONFERMA ORDINE 2010260038 RIF. PLUTONE 7 HAPPY.pdf"
                 },
                 {
                   "nome": "SIRMAN CONFERMA ORDINE DEL 21_10_2025 RIF.3AM+RICAMBIO.pdf",
@@ -232222,12 +232486,28 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SIRMAN spa Ordine dacquisto_260154_20260705_175443 RIF. GUARNIZIONE CAMPAMA E KIT MANICOTTO SOTTOVUOTO VE.RO..pdf"
                 },
                 {
+                  "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z7o13s45ric93o5chymsl/SLAYER-BLADES-CONFERMA-ORDINE-26RC06453-RIF.-CULURGIONI-WEB-LAMA.PDF?rlkey=ib0smww7byha6kofy8pzp7y1i&dl=0?raw=1",
+                  "dimensione_kb": 45,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF"
+                },
+                {
                   "nome": "SLAYER BLADES ORDINE 25RC12709 RIF.HAPPY MOMENTS_VALVOLA.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/wcuczbb1didenwobrxrq7/SLAYER-BLADES-ORDINE-25RC12709-RIF.HAPPY-MOMENTS_VALVOLA.PDF?rlkey=doceqzoj94wxe567k3e1kn1j2&dl=0?raw=1",
                   "dimensione_kb": 45,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SLAYER BLADES ORDINE 25RC12709 RIF.HAPPY MOMENTS_VALVOLA.PDF"
+                },
+                {
+                  "nome": "SLAYER BLADES RBA CONFERMA ORDINE 26RC09324.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/saik5gs91kpb355snh00u/SLAYER-BLADES-RBA-CONFERMA-ORDINE-26RC09324.PDF?rlkey=8im3xt74z5n4qnj8godsaarbo&dl=0?raw=1",
+                  "dimensione_kb": 45,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/SLAYER BLADES RBA CONFERMA ORDINE 26RC09324.PDF"
                 },
                 {
                   "nome": "SLAYER BLADES SRL Ordine dacquisto_260171_20260720_115146.pdf",
@@ -232342,6 +232622,22 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/TENCOINOX ORDINE Gmail -  RIF.L'URMO.pdf"
                 },
                 {
+                  "nome": "TOMA CONFERMA 1100_A Ordini_clienti RIF. BERRETTI E CUFFIE.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qajzdsjqkefgshd111czy/TOMA-CONFERMA-1100_A-Ordini_clienti-RIF.-BERRETTI-E-CUFFIE.PDF?rlkey=6sxrkz7rkkxymq9zidvp52w6r&dl=0?raw=1",
+                  "dimensione_kb": 52,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/TOMA CONFERMA 1100_A Ordini_clienti RIF. BERRETTI E CUFFIE.PDF"
+                },
+                {
+                  "nome": "TOMA SRL Ordine dacquisto_260161_20260708_104124 RIF. Basato su Ordini cliente 260258..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bwigq4p6jh2p6yn87tx2h/TOMA-SRL-Ordine-dacquisto_260161_20260708_104124-RIF.-Basato-su-Ordini-cliente-260258..pdf?rlkey=3q72gm9wfgxj15q64kkc3vn9t&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/TOMA SRL Ordine dacquisto_260161_20260708_104124 RIF. Basato su Ordini cliente 260258..pdf"
+                },
+                {
                   "nome": "TOP SERVICE DI TRIESTINO PANETTA 1 - Viceconti snc RIF. CENTRAL PAUSA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -232356,6 +232652,14 @@
                   "link": "https://www.dropbox.com/scl/fi/e0q3huk0a4hmczlvl0jpt/TRE-SPADE-Ordine-1438-Tre-Spade-Account-RIF.LENTINI.pdf?rlkey=1rvo8yccrz3tlbs3a5a9vpnah&dl=0?raw=1",
                   "dimensione_kb": 157,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/TRE SPADE Ordine #1438 - Tre Spade - Account RIF.LENTINI.pdf"
+                },
+                {
+                  "nome": "UNIVAC Conferma d'ordine 1.374_1 del 08_07_2026 .pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/q206jr0wc2ok128fkmgjs/UNIVAC-Conferma-d-ordine-1.374_1-del-08_07_2026.pdf?rlkey=hggp7q6ppe2fk83y6lon3ne96&dl=0?raw=1",
+                  "dimensione_kb": 90,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/UNIVAC Conferma d'ordine 1.374_1 del 08_07_2026 .pdf"
                 },
                 {
                   "nome": "UNIVAC EUROMATIC CONFERMA oc1-84212del20251104 RIF.BAR ER PIU'.pdf",
@@ -232390,12 +232694,28 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/UNIVAC Ordine dacquisto_250431_20251103_202450 RIF.BAR ER PIU'.pdf"
                 },
                 {
+                  "nome": "VAN BERKEL CONFERMA ORDINE 001761 RIF.PALETTA SCHEDA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8m1fd4g0qe2xb6j10kb1k/VAN-BERKEL-CONFERMA-ORDINE-001761-RIF.PALETTA-SCHEDA.pdf?rlkey=ak8kcbm3n5wscghjjvhgqfler&dl=0?raw=1",
+                  "dimensione_kb": 131,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/VAN BERKEL CONFERMA ORDINE 001761 RIF.PALETTA SCHEDA.pdf"
+                },
+                {
                   "nome": "VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260097_20260519_233227 RIF. PALETTA AFFETTATRICE OMAS MOD. L 37S MATR.02605 VOLT 230.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/oeu3t32y9bbz5euu7f7uc/VAN-BERKEL-INTERNATIONAL-SRL-Ordine-dacquisto_260097_20260519_233227-RIF.-PALETTA-AFFETTATRICE-OMAS-MOD.-L-37S-MATR.02605-VOLT-230.pdf?rlkey=jbfcu410mq4gmurom5dnxzew9&dl=0?raw=1",
                   "dimensione_kb": 29,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260097_20260519_233227 RIF. PALETTA AFFETTATRICE OMAS MOD. L 37S MATR.02605 VOLT 230.pdf"
+                },
+                {
+                  "nome": "VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260208_20260809_111702 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ashuulruyr7dl7xvcbqs6/VAN-BERKEL-INTERNATIONAL-SRL-Ordine-dacquisto_260208_20260809_111702-RIF.-SCHEDA-ELETTRONICA-PER-OMAS-L-37S-MATRICOLA-026305-RIF.-PALE.pdf?rlkey=fyogpfws3lru88p0byd440bq8&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260208_20260809_111702 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf"
                 },
                 {
                   "nome": "VENTURA Conferma prenotazione ritiro.pdf",
@@ -232526,7 +232846,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3711
+              "_totale_file": 3751
             }
           ],
           "file": [
@@ -232579,52 +232899,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS AGGIORNATA.pdf"
             },
             {
-              "nome": "COLD LINE srl Ordine dacquisto_260195_20260729_164800 RIF. NERA SRL matricola 012300627 il codice corretto e aggiornato.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/1vouyr3stqsvosuxbzghb/COLD-LINE-srl-Ordine-dacquisto_260195_20260729_164800-RIF.-NERA-SRL-matricola-012300627-il-codice-corretto-e-aggiornato.pdf?rlkey=xcr01purni2mbwd8kfy0acywv&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260195_20260729_164800 RIF. NERA SRL matricola 012300627 il codice corretto e aggiornato.pdf"
-            },
-            {
-              "nome": "COLD LINE srl Ordine dacquisto_260204_20260806_114949.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/np6mmclx1ju8984pecm1v/COLD-LINE-srl-Ordine-dacquisto_260204_20260806_114949.pdf?rlkey=hclwkvemqezg13n42dlnif0s7&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260204_20260806_114949.pdf"
-            },
-            {
-              "nome": "COLD LINE srl Ordine dacquisto_260213_20260827_232706 RIF. MATRICOLA Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/yfbdxspwwr87a6g0qatcb/COLD-LINE-srl-Ordine-dacquisto_260213_20260827_232706-RIF.-MATRICOLA-Kit-ventilatore-250-4-fili-il-codice-O18300016001-PER-MODELLI-POST.pdf?rlkey=mojom9ziue0k6ak0eamkhheen&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260213_20260827_232706 RIF. MATRICOLA Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST.pdf"
-            },
-            {
               "nome": "COLDLINE CONFERMA Offerta n°26-08084 RIF.MeM TOP.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/51mxodxdn12oklyivh2vp/COLDLINE-CONFERMA-Offerta-n-26-08084-RIF.MeM-TOP.pdf?rlkey=ft9nzvpduc3vph8w5mj27qouv&dl=0?raw=1",
               "dimensione_kb": 127,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE CONFERMA Offerta n°26-08084 RIF.MeM TOP.pdf"
-            },
-            {
-              "nome": "COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/9oz0vbcyq66xouxt8f4m0/COLDLINE-Conferma-ordine-n-26-09815-RIF.RICAMBI.pdf?rlkey=hup5c334i3134yrx44p3mkwat&dl=0?raw=1",
-              "dimensione_kb": 89,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-09815 RIF.RICAMBI.pdf"
-            },
-            {
-              "nome": "COLDLINE Conferma ordine n°26-11538 RIF.FLAVIA DE MARCO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/3v1z91ijpahvmftzisjhy/COLDLINE-Conferma-ordine-n-26-11538-RIF.FLAVIA-DE-MARCO.pdf?rlkey=1bc7r28imwhig4ihsmtnj75rb&dl=0?raw=1",
-              "dimensione_kb": 91,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-11538 RIF.FLAVIA DE MARCO.pdf"
             },
             {
               "nome": "COLDLINE Conferma ordine n°26-13324 RIF.M&M GARANZIA.pdf",
@@ -232641,14 +232921,6 @@
               "link": "https://www.dropbox.com/scl/fi/dkk22k98yj9owq75v8vxw/COLDLINE-Conferma-ordine-n-26-13515-RIF.-CORRADO-MICHELA-GARANZIA.pdf?rlkey=54k26n00vb25dmli84a0fd3ky&dl=0?raw=1",
               "dimensione_kb": 97,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13515 RIF. CORRADO MICHELA GARANZIA.pdf"
-            },
-            {
-              "nome": "COLDLINE Conferma ordine n°26-13538 RIF. NERA VENTOLA VISION.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/r011ux70zbohe1qlmk0lz/COLDLINE-Conferma-ordine-n-26-13538-RIF.-NERA-VENTOLA-VISION.pdf?rlkey=ze602ecen1jpr1k3v36wrms6a&dl=0?raw=1",
-              "dimensione_kb": 85,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13538 RIF. NERA VENTOLA VISION.pdf"
             },
             {
               "nome": "COLDLINE Conferma ordine n°26-13874 RIF. GRIGLIE MAG.pdf",
@@ -232715,94 +232987,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
             },
             {
-              "nome": "DE LUCA SRL Ordine dacquisto_260207_20260808_201227.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mch92wk0z9o45i9hilwip/DE-LUCA-SRL-Ordine-dacquisto_260207_20260808_201227.pdf?rlkey=euvczsykha4id3pu7xib2x5co&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/DE LUCA SRL Ordine dacquisto_260207_20260808_201227.pdf"
-            },
-            {
-              "nome": "ECOSAN SRL Ordine dacquisto_260167_20260718_095931 RIF. ORDINE RAPIDO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ky8em0f26vf5xiu8kqs4o/ECOSAN-SRL-Ordine-dacquisto_260167_20260718_095931-RIF.-ORDINE-RAPIDO.pdf?rlkey=suwawv4b5j8xpu8hbcbxe8a4j&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ECOSAN SRL Ordine dacquisto_260167_20260718_095931 RIF. ORDINE RAPIDO.pdf"
-            },
-            {
-              "nome": "ECOSAN SRL Ordine dacquisto_260168_20260715_124344.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/x5ky2x6owwsvv85gksnu7/ECOSAN-SRL-Ordine-dacquisto_260168_20260715_124344.pdf?rlkey=3a2lr3ejzo8iwa0jabh9hcbb2&dl=0?raw=1",
-              "dimensione_kb": 70,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ECOSAN SRL Ordine dacquisto_260168_20260715_124344.pdf"
-            },
-            {
-              "nome": "FIMAR 2026 28441VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.NATALE_GUARNIZIONI.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/s1r4v21oyjxkd819x511z/FIMAR-2026-28441VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3-RIF.NATALE_GUARNIZIONI.PDF?rlkey=hhu31ntlhqy37j00sdfq47vd2&dl=0?raw=1",
-              "dimensione_kb": 131,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR 2026 28441VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF.NATALE_GUARNIZIONI.PDF"
-            },
-            {
-              "nome": "GO PACK S.R.L. a socio unico Ordine dacquisto_260169_20260720_120819.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/a4ybju46f1vaj5f9s9rq5/GO-PACK-S.R.L.-a-socio-unico-Ordine-dacquisto_260169_20260720_120819.pdf?rlkey=6itm1q9pmelxknhdzror1zd38&dl=0?raw=1",
-              "dimensione_kb": 74,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/GO PACK S.R.L. a socio unico Ordine dacquisto_260169_20260720_120819.pdf"
-            },
-            {
-              "nome": "KAREL CONFERMA 202626005745I280726.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hhlh087wiz1ab1i3lvr38/KAREL-CONFERMA-202626005745I280726.pdf?rlkey=ebubqd5d6vqi0n4hwuzy2b2zx&dl=0?raw=1",
-              "dimensione_kb": 53,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA 202626005745I280726.pdf"
-            },
-            {
-              "nome": "KAREL CONFERMA ORDINE 202626005508I170726.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/uecaleh2kaibnck9hm3ia/KAREL-CONFERMA-ORDINE-202626005508I170726.pdf?rlkey=ziz65m4f5qfba19mu4aom2xth&dl=0?raw=1",
-              "dimensione_kb": 53,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA ORDINE 202626005508I170726.pdf"
-            },
-            {
-              "nome": "KAREL CONFERMA ORDINE 26 5508 202626005508I230726.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/e55e2pkq59qjeakq1fro1/KAREL-CONFERMA-ORDINE-26-5508-202626005508I230726.pdf?rlkey=i61j5tdncff2kdpzvwy5sjmho&dl=0?raw=1",
-              "dimensione_kb": 53,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA ORDINE 26 5508 202626005508I230726.pdf"
-            },
-            {
-              "nome": "KAREL srl Ordine dacquisto_260178_20260724_132917.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2r4d6707c0dltieqxo2rq/KAREL-srl-Ordine-dacquisto_260178_20260724_132917.pdf?rlkey=00oe65rzrgjcbvudkj03ak61c&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL srl Ordine dacquisto_260178_20260724_132917.pdf"
-            },
-            {
-              "nome": "KAREL srl Ordine dacquisto_260184_20260728_101841 RIF. Basato su Ordini cliente 260128. 260157. 260320. 260321. 260.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/1roontttlxu2njsbvzodg/KAREL-srl-Ordine-dacquisto_260184_20260728_101841-RIF.-Basato-su-Ordini-cliente-260128.-260157.-260320.-260321.-260.pdf?rlkey=76u7agd1ov6a7gvdrpaq3xf0a&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL srl Ordine dacquisto_260184_20260728_101841 RIF. Basato su Ordini cliente 260128. 260157. 260320. 260321. 260.pdf"
-            },
-            {
-              "nome": "KAREL srl Ordine dacquisto_260189_20260729_083049 RIF. LIDO SAN FRANCESCO Basato su Ordini cliente 260320..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/u6viag4ckptv5w818gjxs/KAREL-srl-Ordine-dacquisto_260189_20260729_083049-RIF.-LIDO-SAN-FRANCESCO-Basato-su-Ordini-cliente-260320..pdf?rlkey=34kkrofviicptr0qfr7ajwpit&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL srl Ordine dacquisto_260189_20260729_083049 RIF. LIDO SAN FRANCESCO Basato su Ordini cliente 260320..pdf"
-            },
-            {
               "nome": "MECNOSUD CONFERMA 7449 DEL 23_07_2026 VICECONTI SNC - R_7449 RIF. MARATEA SERVIZI SPIRALE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -232827,70 +233011,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260203_20260805_172505 RIF. Cesto vasca intera per friggitrice elettrica vasca da 17 lt.pdf"
             },
             {
-              "nome": "MORINI s.r.l. Ordine dacquisto_260170_20260717_123309 RIF. Basato su Ordini cliente 260231. 260237. 260280..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/tobeonp3y5mjws70d2vsh/MORINI-s.r.l.-Ordine-dacquisto_260170_20260717_123309-RIF.-Basato-su-Ordini-cliente-260231.-260237.-260280..pdf?rlkey=xo6bmx8aw523qb4mf4ocwd9b2&dl=0?raw=1",
-              "dimensione_kb": 70,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260170_20260717_123309 RIF. Basato su Ordini cliente 260231. 260237. 260280..pdf"
-            },
-            {
-              "nome": "MORINI s.r.l. Ordine dacquisto_260187_20260728_104923 RIF. Basato su Ordini cliente 260306. 260309. 260326. 260327..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/x1mw3katqx4fyqdusq51w/MORINI-s.r.l.-Ordine-dacquisto_260187_20260728_104923-RIF.-Basato-su-Ordini-cliente-260306.-260309.-260326.-260327..pdf?rlkey=hzyik266dxk4okhoi7p73vl41&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260187_20260728_104923 RIF. Basato su Ordini cliente 260306. 260309. 260326. 260327..pdf"
-            },
-            {
-              "nome": "MORINI s.r.l. Ordine dacquisto_260196_20260803_102008 RIF. PANIFICIO D'IMPERIO Basato su Ordini cliente 260336..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/88kocmbuq8dgsf6ah350g/MORINI-s.r.l.-Ordine-dacquisto_260196_20260803_102008-RIF.-PANIFICIO-D-IMPERIO-Basato-su-Ordini-cliente-260336..pdf?rlkey=lve21yibh8keproz8od0bpr1n&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260196_20260803_102008 RIF. PANIFICIO D'IMPERIO Basato su Ordini cliente 260336..pdf"
-            },
-            {
-              "nome": "MORINI s.r.l. Ordine dacquisto_260209_20260811_175042 RIF. Basato su Ordini cliente 260381. 260385. 260386..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/pojbznu7ilm4ikxnmrnqp/MORINI-s.r.l.-Ordine-dacquisto_260209_20260811_175042-RIF.-Basato-su-Ordini-cliente-260381.-260385.-260386..pdf?rlkey=wos512gswnft1dcwbcd74f7qh&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260209_20260811_175042 RIF. Basato su Ordini cliente 260381. 260385. 260386..pdf"
-            },
-            {
-              "nome": "NTA Preventivo 71-PR del 31-07-2026 VICECONTI SNC DI ANTONIO E PROSPERO VICECONTI (1) (1).pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/n303iupkmkarsh9gmgjdp/NTA-Preventivo-71-PR-del-31-07-2026-VICECONTI-SNC-DI-ANTONIO-E-PROSPERO-VICECONTI-1-1.pdf?rlkey=ptosctvjpyjatkg9ldhmgz5n6&dl=0?raw=1",
-              "dimensione_kb": 36,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/NTA Preventivo 71-PR del 31-07-2026 VICECONTI SNC DI ANTONIO E PROSPERO VICECONTI (1) (1).pdf"
-            },
-            {
-              "nome": "NTA SRL Ordine dacquisto_260182_20260727_163809 RIF. LAMPADA E FILTRO AI CARBONI ATTIVI.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mygtnyfgea7v1u9ynh4a3/NTA-SRL-Ordine-dacquisto_260182_20260727_163809-RIF.-LAMPADA-E-FILTRO-AI-CARBONI-ATTIVI.pdf?rlkey=qa54134eiz3643dxzz4sltcp5&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/NTA SRL Ordine dacquisto_260182_20260727_163809 RIF. LAMPADA E FILTRO AI CARBONI ATTIVI.pdf"
-            },
-            {
-              "nome": "NUOVA RICAMBI srl Ordine dacquisto_260181_20260727_121511 RIF. DISINCROSTANTE DS-3 PERGEL 1 Kg.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/v85d82aq1wehjrs9u7uw8/NUOVA-RICAMBI-srl-Ordine-dacquisto_260181_20260727_121511-RIF.-DISINCROSTANTE-DS-3-PERGEL-1-Kg.pdf?rlkey=4u4p0jydbsrwaktux3no32iev&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/NUOVA RICAMBI srl Ordine dacquisto_260181_20260727_121511 RIF. DISINCROSTANTE DS-3 PERGEL 1 Kg.pdf"
-            },
-            {
-              "nome": "NUOVA RIRCAMBI CONFERMA Ordini_clienti DEL 27_07_2026.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hoys92ecpvcxdphrwhocg/NUOVA-RIRCAMBI-CONFERMA-Ordini_clienti-DEL-27_07_2026.PDF?rlkey=r9575xi3p2kz6gommpsk3olr0&dl=0?raw=1",
-              "dimensione_kb": 25,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/NUOVA RIRCAMBI CONFERMA Ordini_clienti DEL 27_07_2026.PDF"
-            },
-            {
               "nome": "PADERNO ORDINE SBT-26016461.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -232907,94 +233027,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26021558.pdf"
             },
             {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260194_20260729_162152 RIF. ELETTROVALVOLE BREMA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/taivhutu29lqg921t7a9e/REPA-ITALIA-SRL-Ordine-dacquisto_260194_20260729_162152-RIF.-ELETTROVALVOLE-BREMA.pdf?rlkey=58t4onzpx1u0c0qehes4f4evg&dl=0?raw=1",
-              "dimensione_kb": 28,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260194_20260729_162152 RIF. ELETTROVALVOLE BREMA.pdf"
-            },
-            {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260197_20260730_155131.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/q561gyel3k4ph44ivr90z/REPA-ITALIA-SRL-Ordine-dacquisto_260197_20260730_155131.pdf?rlkey=xxf4xc4veimix05phs2qxtsq8&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260197_20260730_155131.pdf"
-            },
-            {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260198_20260730_155542 RIF. FILTRO PURITY C QUELL ST 50 BRITA + DETERGENTE COFFEE CLEAN.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ew5i8mqjr1vxz1mcft7cr/REPA-ITALIA-SRL-Ordine-dacquisto_260198_20260730_155542-RIF.-FILTRO-PURITY-C-QUELL-ST-50-BRITA-DETERGENTE-COFFEE-CLEAN.pdf?rlkey=53fon11b2nvz9egxvqls5c8np&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260198_20260730_155542 RIF. FILTRO PURITY C QUELL ST 50 BRITA + DETERGENTE COFFEE CLEAN.pdf"
-            },
-            {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260199_20260730_160123.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/f1n06l8iahnc5trtzxab6/REPA-ITALIA-SRL-Ordine-dacquisto_260199_20260730_160123.pdf?rlkey=nipoyol70kmot6w4gkk89zeo4&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260199_20260730_160123.pdf"
-            },
-            {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260200_20260730_162205.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/4rgbjhrq6jci4fsdwgyh4/REPA-ITALIA-SRL-Ordine-dacquisto_260200_20260730_162205.pdf?rlkey=gmjgl5quvby8seg1zefs11db1&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260200_20260730_162205.pdf"
-            },
-            {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260201_20260730_171540.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/sqckngz14x07y2nsubtz3/REPA-ITALIA-SRL-Ordine-dacquisto_260201_20260730_171540.pdf?rlkey=a41iw2dq5n1lj154y1bacfbi2&dl=0?raw=1",
-              "dimensione_kb": 29,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260201_20260730_171540.pdf"
-            },
-            {
-              "nome": "SIRMAN CONFERMA ORDINE 2010260037 RIF.O3 TOWER PER EUROPAPOLICE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/cqatz4jlg9qvv63aqdvq7/SIRMAN-CONFERMA-ORDINE-2010260037-RIF.O3-TOWER-PER-EUROPAPOLICE.pdf?rlkey=kx1uxl9p9bsmby379lh7df3og&dl=0?raw=1",
-              "dimensione_kb": 81,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010260037 RIF.O3 TOWER PER EUROPAPOLICE.pdf"
-            },
-            {
-              "nome": "SIRMAN CONFERMA ORDINE 2010260038 RIF. PLUTONE 7 HAPPY.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xur2uk851uuxwon2mjbcq/SIRMAN-CONFERMA-ORDINE-2010260038-RIF.-PLUTONE-7-HAPPY.pdf?rlkey=dik4clorl6q5qe32cx9n0upon&dl=0?raw=1",
-              "dimensione_kb": 81,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010260038 RIF. PLUTONE 7 HAPPY.pdf"
-            },
-            {
-              "nome": "SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/z7o13s45ric93o5chymsl/SLAYER-BLADES-CONFERMA-ORDINE-26RC06453-RIF.-CULURGIONI-WEB-LAMA.PDF?rlkey=ib0smww7byha6kofy8pzp7y1i&dl=0?raw=1",
-              "dimensione_kb": 45,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SLAYER BLADES CONFERMA ORDINE 26RC06453 RIF. CULURGIONI WEB LAMA.PDF"
-            },
-            {
-              "nome": "SLAYER BLADES RBA CONFERMA ORDINE 26RC09324.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/saik5gs91kpb355snh00u/SLAYER-BLADES-RBA-CONFERMA-ORDINE-26RC09324.PDF?rlkey=8im3xt74z5n4qnj8godsaarbo&dl=0?raw=1",
-              "dimensione_kb": 45,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SLAYER BLADES RBA CONFERMA ORDINE 26RC09324.PDF"
-            },
-            {
-              "nome": "SLAYER BLADES SRL Ordine dacquisto_260171_20260720_115146.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/cn89mesfhm6g3yi6wlqca/SLAYER-BLADES-SRL-Ordine-dacquisto_260171_20260720_115146.pdf?rlkey=d3gnzey0i7j0281n41potdkth&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SLAYER BLADES SRL Ordine dacquisto_260171_20260720_115146.pdf"
-            },
-            {
               "nome": "STAFF ICE SYSTEM SRL Ordine dacquisto_260205_20260807_092218 RIF. RICAMBI PER PESCHERIA AZZURRA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -233009,57 +233041,9 @@
               "link": "https://www.dropbox.com/scl/fi/we8srzoblk279r31v3dsh/TESTO-CONFERMA-13499466-conferma-aggiornata-RIF.NS.pdf?rlkey=0oewu7pvq55fyjmks6bhc3n0i&dl=0?raw=1",
               "dimensione_kb": 40,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
-            },
-            {
-              "nome": "TOMA CONFERMA 1100_A Ordini_clienti RIF. BERRETTI E CUFFIE.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qajzdsjqkefgshd111czy/TOMA-CONFERMA-1100_A-Ordini_clienti-RIF.-BERRETTI-E-CUFFIE.PDF?rlkey=6sxrkz7rkkxymq9zidvp52w6r&dl=0?raw=1",
-              "dimensione_kb": 52,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TOMA CONFERMA 1100_A Ordini_clienti RIF. BERRETTI E CUFFIE.PDF"
-            },
-            {
-              "nome": "TOMA SRL Ordine dacquisto_260161_20260708_104124 RIF. Basato su Ordini cliente 260258..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/bwigq4p6jh2p6yn87tx2h/TOMA-SRL-Ordine-dacquisto_260161_20260708_104124-RIF.-Basato-su-Ordini-cliente-260258..pdf?rlkey=3q72gm9wfgxj15q64kkc3vn9t&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TOMA SRL Ordine dacquisto_260161_20260708_104124 RIF. Basato su Ordini cliente 260258..pdf"
-            },
-            {
-              "nome": "UNIVAC Conferma d'ordine 1.374_1 del 08_07_2026 .pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/q206jr0wc2ok128fkmgjs/UNIVAC-Conferma-d-ordine-1.374_1-del-08_07_2026.pdf?rlkey=hggp7q6ppe2fk83y6lon3ne96&dl=0?raw=1",
-              "dimensione_kb": 90,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC Conferma d'ordine 1.374_1 del 08_07_2026 .pdf"
-            },
-            {
-              "nome": "UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nw8yvy8ocdts50py55xsa/UNIVAC-GROUP-SRL-Ordine-dacquisto_260160_20260708_101037.pdf?rlkey=wxqwxi2alhamm1yvswfg4z9l7&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC GROUP SRL Ordine dacquisto_260160_20260708_101037.pdf"
-            },
-            {
-              "nome": "VAN BERKEL CONFERMA ORDINE 001761 RIF.PALETTA SCHEDA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/8m1fd4g0qe2xb6j10kb1k/VAN-BERKEL-CONFERMA-ORDINE-001761-RIF.PALETTA-SCHEDA.pdf?rlkey=ak8kcbm3n5wscghjjvhgqfler&dl=0?raw=1",
-              "dimensione_kb": 131,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORDINE 001761 RIF.PALETTA SCHEDA.pdf"
-            },
-            {
-              "nome": "VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260208_20260809_111702 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ashuulruyr7dl7xvcbqs6/VAN-BERKEL-INTERNATIONAL-SRL-Ordine-dacquisto_260208_20260809_111702-RIF.-SCHEDA-ELETTRONICA-PER-OMAS-L-37S-MATRICOLA-026305-RIF.-PALE.pdf?rlkey=fyogpfws3lru88p0byd440bq8&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL INTERNATIONAL SRL Ordine dacquisto_260208_20260809_111702 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf"
             }
           ],
-          "_totale_file": 3777
+          "_totale_file": 3775
         }
       ],
       "file": []
