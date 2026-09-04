@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-04T07:45:14Z",
-  "totale_file": 26693,
+  "generato": "2026-09-04T08:50:18Z",
+  "totale_file": 26695,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -233052,7 +233052,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2424,
+      "totale_file": 2426,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -253709,6 +253709,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARTINOX Dettaglio bonifico istantaneo DEL 20_04_2026.pdf"
             },
             {
+              "nome": "BCC LEASE COPIA TITOLO MPS SCADENZA 21_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/72tak7kg8v5fv6v0atqe6/BCC-LEASE-COPIA-TITOLO-MPS-SCADENZA-21_09_2026.pdf?rlkey=wnfw1qiuinxjy4jyy41wvfd9a&dl=0?raw=1",
+              "dimensione_kb": 234,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/BCC LEASE COPIA TITOLO MPS SCADENZA 21_09_2026.pdf"
+            },
+            {
               "nome": "BRT Dettaglio bonifico istantaneo DEL 12_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -254693,6 +254701,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/STAFF ICE SYSTEM SRL Dettaglio bonifico istantaneo DEL 28_01_2026.pdf"
             },
             {
+              "nome": "Scansione 3 set 2026, 16.38.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/o39aoe62562bz5sy1gl6m/Scansione-3-set-2026-16.38.pdf?rlkey=hp7wariklq1f6rq4j3r7f9rnb&dl=0?raw=1",
+              "dimensione_kb": 291,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/Scansione 3 set 2026, 16.38.pdf"
+            },
+            {
               "nome": "TECNCOINOX Dettaglio bonifico DEL 27_02_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -254789,7 +254805,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2404
+          "_totale_file": 2406
         }
       ],
       "file": []
