@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-05T02:19:48Z",
-  "totale_file": 26695,
+  "generato": "2026-09-05T05:32:59Z",
+  "totale_file": 26701,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6983,
+      "totale_file": 6989,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1944,6 +1944,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260733_20260819_104018 RIF. DOSATORE Basato su Ordini cliente 260399..pdf"
             },
             {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260812_20260904_120608 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260433..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nznw61snk5sodtf269ule/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Consegna_260812_20260904_120608-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260433..pdf?rlkey=s5rd95jm0ni2z4dbk09xzk01j&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260812_20260904_120608 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260433..pdf"
+            },
+            {
               "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Consegna_231298_20260618_195207 RIF. ASSISTENZA SU RATIONAL MONTAGGIO DEPURATORE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2518,6 +2526,14 @@
               "link": "https://www.dropbox.com/scl/fi/9xeqdqfpf35qdv4j4bfoq/LA-PERLA-DEL-TIRRENO-SRLS-Consegna_260362_20260602_224944-RIF.-ASSISTENZA-SU-RATIONAL-SOSTITUZIONE-VENTOLA-RAFFREDDAMENTO-A.pdf?rlkey=a7s3l2n4ceb5dsffrm11646jk&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA PERLA DEL TIRRENO SRLS Consegna_260362_20260602_224944 RIF. ASSISTENZA SU RATIONAL SOSTITUZIONE VENTOLA RAFFREDDAMENTO A.pdf"
+            },
+            {
+              "nome": "LA PERLA DEL TIRRENO SRLS Consegna_260811_20260904_114012 RIF. Pastiglia detergente RATIONAL priva di fosforo SelfCookingCenter con Efficient.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/68oh9fgjpwj6iexmny4ay/LA-PERLA-DEL-TIRRENO-SRLS-Consegna_260811_20260904_114012-RIF.-Pastiglia-detergente-RATIONAL-priva-di-fosforo-SelfCookingCenter-con-Efficient.pdf?rlkey=7lq6vceh7hoscvxic8lf6tdoo&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA PERLA DEL TIRRENO SRLS Consegna_260811_20260904_114012 RIF. Pastiglia detergente RATIONAL priva di fosforo SelfCookingCenter con Efficient.pdf"
             },
             {
               "nome": "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Consegna_260457_20260625_124339 RIF. DETERGENTE RATINAL VERDE Basato su Ordini cliente 260233..pdf",
@@ -4520,7 +4536,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 563
+          "_totale_file": 565
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -6208,6 +6224,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LA PERLA DEL TIRRENO SRLS Fattura di vendita_2600161_20260603_223831 RIF. ASSISTENZA SU FORNO RATIONAL SOSTITUZIONE VENTOLA RAFFREDDAM.pdf"
             },
             {
+              "nome": "LA PERLA DEL TIRRENO SRLS Fattura di vendita_2600469_20260904_114028 RIF. Pastiglia detergente RATIONAL priva di fosforo SelfCookingCenter con Efficient.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2yba575h3ubgq9jkcf82f/LA-PERLA-DEL-TIRRENO-SRLS-Fattura-di-vendita_2600469_20260904_114028-RIF.-Pastiglia-detergente-RATIONAL-priva-di-fosforo-SelfCookingCenter-con-Efficient.pdf?rlkey=o71h37e7ou1c5x7d1v4pxhf38&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LA PERLA DEL TIRRENO SRLS Fattura di vendita_2600469_20260904_114028 RIF. Pastiglia detergente RATIONAL priva di fosforo SelfCookingCenter con Efficient.pdf"
+            },
+            {
               "nome": "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Fattura di vendita_2600227_20260625_124532 RIF. DETERGENTE RATINAL VERDE Basato su Ordini cliente 260233. Ba.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -7664,7 +7688,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600463_20260831_203815 RIF. GUIDE E GRIGLIA PER ARMADIO COLDLINE Basato su Ordini cliente 260288. Basato su.pdf"
             }
           ],
-          "_totale_file": 392
+          "_totale_file": 393
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -68035,6 +68059,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CANNAZZARO SRL Ordine cliente_250922_20260811_100138 RIF. Basato su Offerte di vendita 250958..pdf"
             },
             {
+              "nome": "CANTISANI MIMMA Ordine cliente_260431_20260904_094210 RIF. PIATTO PIANO ø 28 CM COLLEZIONE TREE DIGITAL PRINT SATURNIA (IMB.6 PEZZI).pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/v81n427pc0bacykfqw0kh/CANTISANI-MIMMA-Ordine-cliente_260431_20260904_094210-RIF.-PIATTO-PIANO-28-CM-COLLEZIONE-TREE-DIGITAL-PRINT-SATURNIA-IMB.6-PEZZI.pdf?rlkey=cmq9ogjd539fagd5nj0n97gw2&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CANTISANI MIMMA Ordine cliente_260431_20260904_094210 RIF. PIATTO PIANO ø 28 CM COLLEZIONE TREE DIGITAL PRINT SATURNIA (IMB.6 PEZZI).pdf"
+            },
+            {
               "nome": "CAPUTO ANTONIO Ordine cliente_260427_20260901_184724 RIF. CARTUCCIA MISCELATORE TIPO ALTO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -68707,6 +68739,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260399_20260819_103957 RIF. DOSATORE.pdf"
             },
             {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260433_20260904_120552 RIF. DETERGENTE LAVABICCHIERI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1y9tplddl6vyv0u2w35vy/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Ordine-cliente_260433_20260904_120552-RIF.-DETERGENTE-LAVABICCHIERI.pdf?rlkey=q4g4a0sep453ivf83946l9ogv&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260433_20260904_120552 RIF. DETERGENTE LAVABICCHIERI.pdf"
+            },
+            {
               "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260153_20260518_170835 RIF. Basato su Offerte di vendita 260173..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69041,6 +69081,14 @@
               "link": "https://www.dropbox.com/scl/fi/3v9sd3b84hxh57hsetvb3/LA-MARINELLA-di-CLAUDIO-CASTALDI-Ordine-cliente_260327_20260728_104156-RIF.-PIATTI-e-TAPPI-PER-SPUMANTE-Basato-su-Offerte-di-vendita-260.pdf?rlkey=okynhe08waw42d3da743yf1mp&dl=0?raw=1",
               "dimensione_kb": 50,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA MARINELLA di CLAUDIO CASTALDI Ordine cliente_260327_20260728_104156 RIF. PIATTI e TAPPI PER SPUMANTE Basato su Offerte di vendita 260.pdf"
+            },
+            {
+              "nome": "LA PERLA DEL TIRRENO SRLS Ordine cliente_260432_20260904_113926 RIF. Pastiglia detergente RATIONAL priva di fosforo SelfCookingCenter con Efficient.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wyw0qe3vvmy0n2ptssu5h/LA-PERLA-DEL-TIRRENO-SRLS-Ordine-cliente_260432_20260904_113926-RIF.-Pastiglia-detergente-RATIONAL-priva-di-fosforo-SelfCookingCenter-con-Efficient.pdf?rlkey=vs8et4mw54hth73en7w2iqon0&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA PERLA DEL TIRRENO SRLS Ordine cliente_260432_20260904_113926 RIF. Pastiglia detergente RATIONAL priva di fosforo SelfCookingCenter con Efficient.pdf"
             },
             {
               "nome": "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Ordine cliente_260233_20260625_113001 RIF. DETERGENTE RATINAL VERDE.pdf",
@@ -70139,7 +70187,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 301
+          "_totale_file": 304
         }
       ],
       "file": []
