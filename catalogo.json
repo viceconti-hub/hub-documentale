@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-06T00:19:47Z",
-  "totale_file": 26703,
+  "generato": "2026-09-06T02:19:05Z",
+  "totale_file": 26704,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -147799,7 +147799,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4467,
+      "totale_file": 4468,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -150379,6 +150379,22 @@
                     }
                   ],
                   "_totale_file": 17
+                },
+                {
+                  "nome": "ESI (display 4035-0005)",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ESI (display 4035-0005)",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "5501-0016_Manuale-tecnico-display-4035-0005-INSTALLATORE-R4-ITA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/7nw6w938nyvx9rh7a9imc/5501-0016_Manuale-tecnico-display-4035-0005-INSTALLATORE-R4-ITA.pdf?rlkey=2dj2e5zb252d5cfcd50c2abxj&dl=0?raw=1",
+                      "dimensione_kb": 1560,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ESI (display 4035-0005)/5501-0016_Manuale-tecnico-display-4035-0005-INSTALLATORE-R4-ITA.pdf"
+                    }
+                  ],
+                  "_totale_file": 1
                 }
               ],
               "file": [
@@ -150431,7 +150447,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO MANUALE TECNICO DISPLAY 4035 0005 RIF. AI CARCONI CAPPOTTA.pdf"
                 }
               ],
-              "_totale_file": 78
+              "_totale_file": 79
             },
             {
               "nome": "ARISTARCO DDT",
@@ -150725,7 +150741,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/invio_listino_ricambi2024_ita.pdf"
             }
           ],
-          "_totale_file": 132
+          "_totale_file": 133
         },
         {
           "nome": "ARO",
