@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-06T02:19:05Z",
-  "totale_file": 26704,
+  "generato": "2026-09-06T05:29:02Z",
+  "totale_file": 26705,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6989,
+      "totale_file": 6990,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -9606,6 +9606,22 @@
           "nome": "OFFERTE DI VENDITA WORKSPACE",
           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE",
           "cartelle": [
+            {
+              "nome": "2026-09-05 PUGLIESE MATTIA",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026-09-05 PUGLIESE MATTIA",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "PUGLIESE MATTIA Offerta di vendita_260413_20260905_084554.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mhvztnp72ulhat2l4w6v4/PUGLIESE-MATTIA-Offerta-di-vendita_260413_20260905_084554.pdf?rlkey=zdamow0ik5hqs4395277yzi12&dl=0?raw=1",
+                  "dimensione_kb": 92,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026-09-05 PUGLIESE MATTIA/PUGLIESE MATTIA Offerta di vendita_260413_20260905_084554.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
             {
               "nome": "2026_02_24 GIOIA MARIA PENTOLE",
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_02_24 GIOIA MARIA PENTOLE",
@@ -67747,7 +67763,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5489
+          "_totale_file": 5490
         },
         {
           "nome": "ORDINI CLIENTE",
