@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-05T08:48:31Z",
-  "totale_file": 26702,
+  "generato": "2026-09-06T00:19:47Z",
+  "totale_file": 26703,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -74798,7 +74798,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7291,
+      "totale_file": 7292,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -119029,6 +119029,30 @@
           "_totale_file": 1
         },
         {
+          "nome": "ORSOMARSO",
+          "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO",
+          "cartelle": [
+            {
+              "nome": "PUGLIESE MATTIA",
+              "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "PUGLIESE MATTIA ORDINE 260434 SCANSIONE FIRMATO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/70js5x0z53brzeitrlsea/PUGLIESE-MATTIA-ORDINE-260434-SCANSIONE-FIRMATO.pdf?rlkey=v8hguuy7knkroevamkofpsa5r&dl=0?raw=1",
+                  "dimensione_kb": 1353,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ORDINE 260434 SCANSIONE FIRMATO.pdf"
+                }
+              ],
+              "_totale_file": 1
+            }
+          ],
+          "file": [],
+          "_totale_file": 1
+        },
+        {
           "nome": "PIEDIMONTE MATESE",
           "path": "/HUB DOCUMENTALE/CLIENTI/PIEDIMONTE MATESE",
           "cartelle": [
@@ -130737,7 +130761,7 @@
                               "nome": "MEKANO PRO 900 SCHEDA TECNICA.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/kghjhi7gzznep9tlmblpr/MEKANO-PRO-900-SCHEDA-TECNICA.pdf?rlkey=9z2a5bwfpz4j7jpme5339uz7m&dl=0?raw=1",
+                              "link": null,
                               "dimensione_kb": 522,
                               "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/FA TU CANTIERE GENNAIO 2025/SCHEDE TECNICHE/FERMALIEVITA MEKANO PRO AFINOX/MEKANO PRO 900 SCHEDA TECNICA.pdf"
                             }
