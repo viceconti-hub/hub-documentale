@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-07T09:06:07Z",
-  "totale_file": 26705,
+  "generato": "2026-09-07T12:48:23Z",
+  "totale_file": 26706,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -73667,7 +73667,7 @@
       "nome": "FILE TEMPORANEI",
       "descrizione": "File caricati per consultazione rapida",
       "icona": "📌",
-      "totale_file": 135,
+      "totale_file": 136,
       "cartelle": [
         {
           "nome": "10_04_2026",
@@ -74799,6 +74799,14 @@
           "link": "https://www.dropbox.com/scl/fi/supcwd4db7qn1g5mr8got/Riepilogo-attivit-per-BP-SOC.-COOP.-MARATEA-SERVIZI-A.R.L._20260423_135032.pdf?rlkey=hzwb0qqfielbk65pb46u1p9bs&dl=0?raw=1",
           "dimensione_kb": 45,
           "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/Riepilogo attività per BP - SOC. COOP. MARATEA SERVIZI A.R.L._20260423_135032.pdf"
+        },
+        {
+          "nome": "attivita_2026_09_07.json",
+          "tipo": "File",
+          "icona": "📎",
+          "link": "https://www.dropbox.com/scl/fi/16epuhmx86ipopq343ioj/attivita_2026_09_07.json?rlkey=ymh2qmii9jqtej64uad0heori&dl=0?raw=1",
+          "dimensione_kb": 85,
+          "path": "/HUB DOCUMENTALE/FILE TEMPORANEI/attivita_2026_09_07.json"
         },
         {
           "nome": "test di stampa.pdf",
