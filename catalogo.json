@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-08T07:56:57Z",
-  "totale_file": 26721,
+  "generato": "2026-09-08T09:03:27Z",
+  "totale_file": 26722,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -233292,7 +233292,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2427,
+      "totale_file": 2428,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -254325,6 +254325,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FE.MA Dettaglio bonifico istantaneo DEL 09_06_2026.pdf"
             },
             {
+              "nome": "FIMAR COPIA TITOLI MPS AGOSTO_SETTEMBRE 2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nl1l4y5f3zdlsd5p6h3vb/FIMAR-COPIA-TITOLI-MPS-AGOSTO_SETTEMBRE-2026.pdf?rlkey=qs3k1hx0gz6564hchdjyfbnd0&dl=0?raw=1",
+              "dimensione_kb": 481,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR COPIA TITOLI MPS AGOSTO_SETTEMBRE 2026.pdf"
+            },
+            {
               "nome": "FIMAR COPIA TITOLO BPER SCADENZA 02_03_2026.jpeg",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -255053,7 +255061,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2407
+          "_totale_file": 2408
         }
       ],
       "file": []
