@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-08T02:30:42Z",
-  "totale_file": 26706,
+  "generato": "2026-09-08T05:50:41Z",
+  "totale_file": 26721,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 6990,
+      "totale_file": 7005,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1824,6 +1824,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/H2A srl Consegna_260618_20260728_090155 RIF. DETERGENTE LAVABICCHIERI DET6 1 + COFFE CLEAN 1 Basato su Or.pdf"
             },
             {
+              "nome": "H2A srl Consegna_260814_20260907_113517 RIF. DETERGENTE LAVABICCHIERI E COFFEE CLEAN Basato su Ordini cliente 260436..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/42l7j1vchfg6ynb4ruqb7/H2A-srl-Consegna_260814_20260907_113517-RIF.-DETERGENTE-LAVABICCHIERI-E-COFFEE-CLEAN-Basato-su-Ordini-cliente-260436..pdf?rlkey=ihxqmlw7pvf8n38htja2vomkh&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/H2A srl Consegna_260814_20260907_113517 RIF. DETERGENTE LAVABICCHIERI E COFFEE CLEAN Basato su Ordini cliente 260436..pdf"
+            },
+            {
               "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Consegna_260268_20260513_112936 RIF. DETERGENTE LAVABAR.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3400,6 +3408,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PANIFICIO DOLC&PANE S.R.L. Consegna_260759_20260826_181501 RIF. COMODATO AFFETTATRICE A GRAVITÀ CORSA LUNGA MOD.F300CLPRO.pdf"
             },
             {
+              "nome": "PANIFICIO DOLCEPANE S.R.L. Consegna_260813_20260904_185142 RIF. ASSISTENZA SU AFFETTATRICE ABM UNI 370 S MN MATRICOLA 220875 SISTEMAZIONE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5v3z7tp46e4e2kvd3601a/PANIFICIO-DOLCEPANE-S.R.L.-Consegna_260813_20260904_185142-RIF.-ASSISTENZA-SU-AFFETTATRICE-ABM-UNI-370-S-MN-MATRICOLA-220875-SISTEMAZIONE.pdf?rlkey=5xsij5w0m4dm2cliisl5y4sy6&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/PANIFICIO DOLCEPANE S.R.L. Consegna_260813_20260904_185142 RIF. ASSISTENZA SU AFFETTATRICE ABM UNI 370 S MN MATRICOLA 220875 SISTEMAZIONE.pdf"
+            },
+            {
               "nome": "PANINOTECA ESSEDI snc di SABELLA ANGELO & C. Consegna_260705_20260810_113430 RIF. INTERRUTTORE (ON-OFF) Basato su Ordini cliente 260377..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4536,7 +4552,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 565
+          "_totale_file": 567
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -4678,6 +4694,14 @@
               "link": "https://www.dropbox.com/scl/fi/3pwj2ytbzhyx3iknalu42/AGUA-LOCA-DI-D-IMPERIO-NICOLA-Fattura-di-vendita_2600415_20260830_205753-RIF.-VASSOIO-OVALE-35-CM-COLLEZIONE-TIVOLI-BIANCO-SATURNIA-IMB.MIN.-1-PEZZO-Basato.pdf?rlkey=qk64vhb28hp59tls44d3yvnzs&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/AGUA LOCA DI D'IMPERIO NICOLA Fattura di vendita_2600415_20260830_205753 RIF. VASSOIO OVALE 35 CM COLLEZIONE TIVOLI BIANCO SATURNIA (IMB.MIN. 1 PEZZO) Basato.pdf"
+            },
+            {
+              "nome": "ALICE SRLS Fattura di vendita_2500880_20260906_205749 RIF. Rif. Accordo Quadro di messa a disposizione beni, spazi e servizi – Anno 2025 –.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zhbzkqgvys5r8dlv186k6/ALICE-SRLS-Fattura-di-vendita_2500880_20260906_205749-RIF.-Rif.-Accordo-Quadro-di-messa-a-disposizione-beni-spazi-e-servizi-Anno-2025.pdf?rlkey=mgzip738nyjkucosib02praly&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ALICE SRLS Fattura di vendita_2500880_20260906_205749 RIF. Rif. Accordo Quadro di messa a disposizione beni, spazi e servizi – Anno 2025 –.pdf"
             },
             {
               "nome": "AZIENDA AGRICOLA PECORELLI FRANCESCO Fattura di vendita_2600212_20260618_131651 RIF. HOTELLERIE Basato su Ordini cliente 260218. Basato su Conseg.pdf",
@@ -5560,6 +5584,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600411_20260830_191231 RIF. ASSISTENZA SU FORNO A GAS RATIONAL ICOMBI PRO 101 MATRICOLA G11SJ22022953963.pdf"
             },
             {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600470_20260906_213223 RIF. Basato su Offerte di vendita 260417..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0w83uw8g9zvxgoot02730/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Fattura-di-vendita_2600470_20260906_213223-RIF.-Basato-su-Offerte-di-vendita-260417..pdf?rlkey=nyinwkj8zwgbn5kf4ileekdrs&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Fattura di vendita_2600470_20260906_213223 RIF. Basato su Offerte di vendita 260417..pdf"
+            },
+            {
               "nome": "GATTO & VOLPE S.R.L. Fattura di vendita_2600030_20260901_092644 RIF. ASSISTENZA SU TOSTIERAFIMAR MODELLO TOP623050M MATRICOLA 100402275.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5654,6 +5686,14 @@
               "link": "https://www.dropbox.com/scl/fi/8ozmj9mwpjjv6litrcg8z/GRANOCIELO-SRL-Fattura-di-vendita_2600140_20260603_211224-RIF.-Palettino-pizza-inox-26-cm-forato-manico-1.20-mt-Basato-su.pdf?rlkey=b7yylldzyr5w66xjt7bwryibs&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GRANOCIELO SRL Fattura di vendita_2600140_20260603_211224 RIF. Palettino pizza inox ø 26 cm forato manico 1.20 mt Basato su.pdf"
+            },
+            {
+              "nome": "GRENKE LOCAZIONE srl Fattura di vendita_2400349_20260906_210222 RIF. NUMERO DI SERIE  24241 Basato su Consegne 240767..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/153b67604xdgzf114xvvn/GRENKE-LOCAZIONE-srl-Fattura-di-vendita_2400349_20260906_210222-RIF.-NUMERO-DI-SERIE-24241-Basato-su-Consegne-240767..pdf?rlkey=ahz1mlx9w1vunc6dihbx268nc&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GRENKE LOCAZIONE srl Fattura di vendita_2400349_20260906_210222 RIF. NUMERO DI SERIE  24241 Basato su Consegne 240767..pdf"
             },
             {
               "nome": "H2A srl Fattura di vendita_2600141_20260603_211325 RIF. Rif. Attività Assistenza n. 7210 Produttore di ghiaccio Sost.pdf",
@@ -7688,7 +7728,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600463_20260831_203815 RIF. GUIDE E GRIGLIA PER ARMADIO COLDLINE Basato su Ordini cliente 260288. Basato su.pdf"
             }
           ],
-          "_totale_file": 393
+          "_totale_file": 396
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -7816,12 +7856,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/BASILICATA GRANTOUR S.A.S. DI ANTONIO AGRELLO & C. Offerta di vendita_260252_20260706_125349.pdf"
             },
             {
-              "nome": "BENEDETTO NICOLETTA Offerta di vendita_260413_20260901_211430.pdf",
+              "nome": "BENEDETTO NICOLETTA Offerta di vendita_260413_20260905_084554.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/9smh952v3aimi4pn2gvrq/BENEDETTO-NICOLETTA-Offerta-di-vendita_260413_20260901_211430.pdf?rlkey=0yfp8wuk36qu9pu58l4zqd2ju&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/b9qu2z4jgm43s3w0pyaul/BENEDETTO-NICOLETTA-Offerta-di-vendita_260413_20260905_084554.pdf?rlkey=w3d20w5ipoeilhq4s9z2t4uvw&dl=0?raw=1",
               "dimensione_kb": 87,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/BENEDETTO NICOLETTA Offerta di vendita_260413_20260901_211430.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/BENEDETTO NICOLETTA Offerta di vendita_260413_20260905_084554.pdf"
             },
             {
               "nome": "BHOTEL SRL Offerta di vendita_260177_20260519_185944 RIF. BICCHIERE CORTINA COOLER.pdf",
@@ -8552,6 +8592,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260277_20260722_122050 RIF. PIANI IN POLIETILENE ROSSO BRUNO 57 GIORNI LAVORATIVI.pdf"
             },
             {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260417_20260906_212931.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6kd8gtxm91kjvsahxxnb5/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Offerta-di-vendita_260417_20260906_212931.pdf?rlkey=07h0nahzzfhbirqlvhgz73dng&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260417_20260906_212931.pdf"
+            },
+            {
               "nome": "GFI Offerta di vendita_260233_20260625_100211.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -8968,12 +9016,20 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LUTIPICO SRLS Offerta di vendita_260162_20260514_202207.pdf"
             },
             {
-              "nome": "MACELLERIA COSENTINO Offerta di vendita_260346_20260811_102731.pdf",
+              "nome": "MACELLERIA COSENTINO Offerta di vendita_260346_20260906_220354.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/q9ss6s6tcngbktk4zptyy/MACELLERIA-COSENTINO-Offerta-di-vendita_260346_20260811_102731.pdf?rlkey=0apz5302jcsrthb27ttf3531i&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/f2afcy26f8ykc80s886gj/MACELLERIA-COSENTINO-Offerta-di-vendita_260346_20260906_220354.pdf?rlkey=wcsdlasm1jymir5quguie3jk1&dl=0?raw=1",
               "dimensione_kb": 97,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260346_20260811_102731.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260346_20260906_220354.pdf"
+            },
+            {
+              "nome": "MACELLERIA COSENTINO Offerta di vendita_260418_20260906_234310.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g8vmufp0c7956gof9qruu/MACELLERIA-COSENTINO-Offerta-di-vendita_260418_20260906_234310.pdf?rlkey=fpsup69lfrhfm6d3oprjbhjlf&dl=0?raw=1",
+              "dimensione_kb": 96,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260418_20260906_234310.pdf"
             },
             {
               "nome": "MADI SNC di DISMA CASELLA & C. Offerta di vendita_260278_20260722_160656 RIF. POSATE CONCA.pdf",
@@ -9304,6 +9360,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PIZZERIA FORESTIERI ERSILIO Offerta di vendita_260284_20260722_200031.pdf"
             },
             {
+              "nome": "PUGLIESE MATTIA Offerta di vendita_260415_20260905_092018.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5qlm8tacusbpef1ndkizo/PUGLIESE-MATTIA-Offerta-di-vendita_260415_20260905_092018.pdf?rlkey=25j63uixqnyr9elz4c9lpg6hm&dl=0?raw=1",
+              "dimensione_kb": 85,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PUGLIESE MATTIA Offerta di vendita_260415_20260905_092018.pdf"
+            },
+            {
+              "nome": "PUGLIESE MATTIA Offerta di vendita_260416_20260905_092749.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/39u7t327cpmomv30x7fcl/PUGLIESE-MATTIA-Offerta-di-vendita_260416_20260905_092749.pdf?rlkey=d9vvyhtzr6xfhesmxnuxax2cp&dl=0?raw=1",
+              "dimensione_kb": 84,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PUGLIESE MATTIA Offerta di vendita_260416_20260905_092749.pdf"
+            },
+            {
               "nome": "Panificio D'IMPERIO snc Offerta di vendita_260327_20260729_124951 RIF. HOTELLERIE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9600,7 +9672,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 238
+          "_totale_file": 242
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -11626,6 +11698,38 @@
                   "link": "https://www.dropbox.com/scl/fi/eu8c74ls65sm3us02cuzk/PIZZERIA-MACI-Offerta-di-vendita_260383_20260827_213149.pdf?rlkey=qao1p7sx890b2hlbl3v3332s4&dl=0?raw=1",
                   "dimensione_kb": 87,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_08_27 PIZZERIA MACI/PIZZERIA MACI Offerta di vendita_260383_20260827_213149.pdf"
+                }
+              ],
+              "_totale_file": 3
+            },
+            {
+              "nome": "2026_09_07 GIOVANNI CELLA",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_07 GIOVANNI CELLA",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "CELLE CON RIPIANI.webp",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/il0196ogzenrimdi6aw48/CELLE-CON-RIPIANI.webp?rlkey=32p596npwnlolbux05hjazkg5&dl=0?raw=1",
+                  "dimensione_kb": 8,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_07 GIOVANNI CELLA/CELLE CON RIPIANI.webp"
+                },
+                {
+                  "nome": "JKS Scheda tecnica MINICELLA100.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gw5q6yui8d55s1mgixw29/JKS-Scheda-tecnica-MINICELLA100.pdf?rlkey=xvxja5iqezwzum6tji69kgl7k&dl=0?raw=1",
+                  "dimensione_kb": 1223,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_07 GIOVANNI CELLA/JKS Scheda tecnica MINICELLA100.pdf"
+                },
+                {
+                  "nome": "Offerta di vendita_260419_20260907_180512.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rbk0vth6rohl63ju6gm4g/Offerta-di-vendita_260419_20260907_180512.pdf?rlkey=cuays18zihdz0ctgnqd4u6y7w&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_07 GIOVANNI CELLA/Offerta di vendita_260419_20260907_180512.pdf"
                 }
               ],
               "_totale_file": 3
@@ -67763,7 +67867,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5490
+          "_totale_file": 5493
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -68259,6 +68363,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/COZZI GIACOMO Ordine cliente_260324_20260728_084547 RIF. FRYTOP A GAS FIMAR Basato su Offerte di vendita 260316..pdf"
             },
             {
+              "nome": "COZZI NICOLA Ordine cliente_260435_20260907_104427 RIF. FRYTOP A GAS FIMAR FRY1LM.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/themq86elqw0kp1ymuy24/COZZI-NICOLA-Ordine-cliente_260435_20260907_104427-RIF.-FRYTOP-A-GAS-FIMAR-FRY1LM.pdf?rlkey=d7k14ftsjc0x418nwe2cstvhh&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/COZZI NICOLA Ordine cliente_260435_20260907_104427 RIF. FRYTOP A GAS FIMAR FRY1LM.pdf"
+            },
+            {
               "nome": "COZZI ROSA Ordine cliente_260258_20260708_100612.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -68697,6 +68809,14 @@
               "link": "https://www.dropbox.com/scl/fi/anth0yyzssq9zd9apomyg/H2A-srl-Ordine-cliente_260325_20260728_090047-RIF.-DETERGENTE-LAVABICCHIERI-DET6-1-COFFE-CLEAN-1.pdf?rlkey=3ljrcodewmpfnf487nve8br2w&dl=0?raw=1",
               "dimensione_kb": 50,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/H2A srl Ordine cliente_260325_20260728_090047 RIF. DETERGENTE LAVABICCHIERI DET6 1 + COFFE CLEAN 1.pdf"
+            },
+            {
+              "nome": "H2A srl Ordine cliente_260436_20260907_113356 RIF. DETERGENTE LAVABIXXHIERI E COFFEE CLEAN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qp3qq7uc1mcs16ptspy25/H2A-srl-Ordine-cliente_260436_20260907_113356-RIF.-DETERGENTE-LAVABIXXHIERI-E-COFFEE-CLEAN.pdf?rlkey=rp5kdbikffg9ofp7ixxt5ostn&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/H2A srl Ordine cliente_260436_20260907_113356 RIF. DETERGENTE LAVABIXXHIERI E COFFEE CLEAN.pdf"
             },
             {
               "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260144_20260513_111800 RIF. DETERGENTE LAVABAR.pdf",
@@ -69691,6 +69811,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PROVINCIA DI CAMPANIA BASILICATA DEI FRATI MINORI CAPPUCCINI Ordine cliente_260390_20260812_163032 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A,LAMA 20x22,5hcm,Ø1.pdf"
             },
             {
+              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260905_095936 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/llwvy2apylzxe5gv34wp1/PUGLIESE-MATTIA-Ordine-cliente_260434_20260905_095936-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416..pdf?rlkey=r8stqy3tuefxecewudwuyqtgo&dl=0?raw=1",
+              "dimensione_kb": 83,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260905_095936 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf"
+            },
+            {
               "nome": "Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -70203,7 +70331,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 304
+          "_totale_file": 307
         }
       ],
       "file": []
