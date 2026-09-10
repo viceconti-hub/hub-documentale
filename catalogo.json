@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-10T07:40:20Z",
-  "totale_file": 26852,
+  "generato": "2026-09-10T08:44:20Z",
+  "totale_file": 26853,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -234364,7 +234364,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2428,
+      "totale_file": 2429,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -254020,22 +254020,6 @@
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/COLDLINE RICEVUTA AR DEL 04_03_2026.jpeg"
                     },
                     {
-                      "nome": "COLDLINE SCHEDA CONTABILE 01_01_2025 AL 1_12_2025.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/dygu17rfrgbojtw1mq0vx/COLDLINE-SCHEDA-CONTABILE-01_01_2025-AL-1_12_2025.pdf?rlkey=1lhudrkhedlsjliczhc1r9ssf&dl=0?raw=1",
-                      "dimensione_kb": 121,
-                      "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/COLDLINE SCHEDA CONTABILE 01_01_2025 AL 1_12_2025.pdf"
-                    },
-                    {
-                      "nome": "COLDLINE SITUAZIONE CONTABILE AL 20_11_2025.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/qy1i7a1wgkb7swz7cbjh8/COLDLINE-SITUAZIONE-CONTABILE-AL-20_11_2025.pdf?rlkey=6vg45p055abci9qsmo5xj0ng9&dl=0?raw=1",
-                      "dimensione_kb": 73,
-                      "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/COLDLINE SITUAZIONE CONTABILE AL 20_11_2025.pdf"
-                    },
-                    {
                       "nome": "COMENDA Dettaglio bonifico DEL 22_10_2025.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -254860,11 +254844,20 @@
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/ARCHIVIO DEL 15_05_2026/ZMATIK Dettaglio bonifico istantaneo DEL 22_09_2025.pdf"
                     }
                   ],
-                  "_totale_file": 2250
+                  "_totale_file": 2248
                 }
               ],
-              "file": [],
-              "_totale_file": 2250
+              "file": [
+                {
+                  "nome": "MODULAR Dettaglio bonifico istantaneo DEL 08_09_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m2je4e7b7qwh9l9zakiti/MODULAR-Dettaglio-bonifico-istantaneo-DEL-08_09_2026.pdf?rlkey=7mfi1nmjpovhq3ayjprrwbk3l&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARCHIVIO/MODULAR Dettaglio bonifico istantaneo DEL 08_09_2026.pdf"
+                }
+              ],
+              "_totale_file": 2249
             }
           ],
           "file": [
@@ -255019,6 +255012,14 @@
               "link": "https://www.dropbox.com/scl/fi/5klsapnvtamzco3oi96bv/ARTINOX-Dettaglio-bonifico-istantaneo-DEL-20_04_2026.pdf?rlkey=62rcta1q53yaz85em4xlmv2ip&dl=0?raw=1",
               "dimensione_kb": 108,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ARTINOX Dettaglio bonifico istantaneo DEL 20_04_2026.pdf"
+            },
+            {
+              "nome": "AUTOTRASPORTI GANGALE disposizioni-online DEL 09_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ft92eyxzyq2qe7pue4i3z/AUTOTRASPORTI-GANGALE-disposizioni-online-DEL-09_09_2026.pdf?rlkey=7xm6c19badf75h0zsr07elh6a&dl=0?raw=1",
+              "dimensione_kb": 2,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/AUTOTRASPORTI GANGALE disposizioni-online DEL 09_09_2026.pdf"
             },
             {
               "nome": "BCC LEASE COPIA TITOLO MPS SCADENZA 21_09_2026.pdf",
@@ -255451,6 +255452,14 @@
               "link": "https://www.dropbox.com/scl/fi/hap9hqy9lv5ejgvxtfkuo/FIMAR-Dettaglio-bonifico-istantaneo-DEL-20_04_2026.pdf?rlkey=i20pylf7wbjmjf0a5crd4tsw7&dl=0?raw=1",
               "dimensione_kb": 108,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR Dettaglio bonifico istantaneo DEL 20_04_2026.pdf"
+            },
+            {
+              "nome": "FIMAR RACCOMADATA TITOLI MPS AGOSTO_SETTEMBRE 2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ltalvo0z8gmyw1yur5j3k/FIMAR-RACCOMADATA-TITOLI-MPS-AGOSTO_SETTEMBRE-2026.pdf?rlkey=9ldzplxlpfgadsx3ejmvefm2u&dl=0?raw=1",
+              "dimensione_kb": 290,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/FIMAR RACCOMADATA TITOLI MPS AGOSTO_SETTEMBRE 2026.pdf"
             },
             {
               "nome": "FOODEX SRL Dettaglio bonifico DEL 19_08_2026.pdf",
@@ -256133,7 +256142,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2408
+          "_totale_file": 2409
         }
       ],
       "file": []
