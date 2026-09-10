@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-10T00:21:09Z",
-  "totale_file": 26723,
+  "generato": "2026-09-10T02:21:16Z",
+  "totale_file": 26730,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -147967,7 +147967,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4468,
+      "totale_file": 4475,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -149527,8 +149527,8 @@
           "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO",
           "cartelle": [
             {
-              "nome": "ARCHIVIO",
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO",
+              "nome": "ARISTARCO ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO",
               "cartelle": [],
               "file": [
                 {
@@ -149537,7 +149537,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/6e1mpd6mbz6q9uyypkcs8/2022_ED01-2022_ARISTARCO_POCKET_ICE.pdf?rlkey=1mao6jtxlb4620y0xnjbmh9tr&dl=0?raw=1",
                   "dimensione_kb": 5269,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/2022_ED01-2022_ARISTARCO_POCKET_ICE.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/2022_ED01-2022_ARISTARCO_POCKET_ICE.pdf"
                 },
                 {
                   "nome": "2022_ED01-2022_POCKET_ARISTARCO_WASH.pdf",
@@ -149545,7 +149545,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/avs74yt0sc10237wurozp/2022_ED01-2022_POCKET_ARISTARCO_WASH.pdf?rlkey=nd333s109092j2y16p72khj25&dl=0?raw=1",
                   "dimensione_kb": 2523,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/2022_ED01-2022_POCKET_ARISTARCO_WASH.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/2022_ED01-2022_POCKET_ARISTARCO_WASH.pdf"
                 },
                 {
                   "nome": "2022_ED01-2022_PRICE LIST_ARISTARCO_ICE.pdf",
@@ -149553,7 +149553,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/eeiumu6bpkiu6w7kb5r87/2022_ED01-2022_PRICE-LIST_ARISTARCO_ICE.pdf?rlkey=h1l1ii6siy5wdh5kdgpr7njwc&dl=0?raw=1",
                   "dimensione_kb": 9026,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/2022_ED01-2022_PRICE LIST_ARISTARCO_ICE.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/2022_ED01-2022_PRICE LIST_ARISTARCO_ICE.pdf"
                 },
                 {
                   "nome": "2022_ED01-2022_PRICE LIST_ARISTARCO_WASH.pdf",
@@ -149561,7 +149561,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/loyjqr52e75bp08sy9aoe/2022_ED01-2022_PRICE-LIST_ARISTARCO_WASH.pdf?rlkey=ofthdvexnij918897j18v8zj0&dl=0?raw=1",
                   "dimensione_kb": 6296,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/2022_ED01-2022_PRICE LIST_ARISTARCO_WASH.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/2022_ED01-2022_PRICE LIST_ARISTARCO_WASH.pdf"
                 },
                 {
                   "nome": "2022_ED06-2022 PRICE LIST_ARISTARCO_WASH.pdf",
@@ -149569,7 +149569,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/lmsalo23ssyh9rrsmoyyx/2022_ED06-2022-PRICE-LIST_ARISTARCO_WASH.pdf?rlkey=ulktqcqwaqrq2rtg4ak2rvemj&dl=0?raw=1",
                   "dimensione_kb": 6565,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/2022_ED06-2022 PRICE LIST_ARISTARCO_WASH.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/2022_ED06-2022 PRICE LIST_ARISTARCO_WASH.pdf"
                 },
                 {
                   "nome": "2022_ED06-2022_POCKET_ARISTARCO_WASH.pdf",
@@ -149577,7 +149577,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/ski5n835r06h81vol5jvs/2022_ED06-2022_POCKET_ARISTARCO_WASH.pdf?rlkey=hqf95lkyghhr2o1h4xd3odj6h&dl=0?raw=1",
                   "dimensione_kb": 2523,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/2022_ED06-2022_POCKET_ARISTARCO_WASH.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/2022_ED06-2022_POCKET_ARISTARCO_WASH.pdf"
                 },
                 {
                   "nome": "2023_ED07-2023_PRICE LIST_ARISTARCO_WASH.pdf",
@@ -149585,7 +149585,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/wy66chw55b2vxg7cb6bna/2023_ED07-2023_PRICE-LIST_ARISTARCO_WASH.pdf?rlkey=uyqxypsiwhmis7cl27369wy8q&dl=0?raw=1",
                   "dimensione_kb": 6272,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/2023_ED07-2023_PRICE LIST_ARISTARCO_WASH.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/2023_ED07-2023_PRICE LIST_ARISTARCO_WASH.pdf"
                 },
                 {
                   "nome": "2023_ED07_PRICE LIST_ARISTARCO_ICE.pdf",
@@ -149593,7 +149593,23 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/f86ywduwr4fspme0l4kyq/2023_ED07_PRICE-LIST_ARISTARCO_ICE.pdf?rlkey=324j9ipey0zowhsw8o7ugwcfg&dl=0?raw=1",
                   "dimensione_kb": 3903,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/2023_ED07_PRICE LIST_ARISTARCO_ICE.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/2023_ED07_PRICE LIST_ARISTARCO_ICE.pdf"
+                },
+                {
+                  "nome": "2025_ED 2025_PRICE LIST_ARISTARCO_WASH.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hp2rxh3bvdi4ndngf3zgc/2025_ED-2025_PRICE-LIST_ARISTARCO_WASH.pdf?rlkey=kn59xgyjh4baewvzqceh5dsud&dl=0?raw=1",
+                  "dimensione_kb": 6741,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/2025_ED 2025_PRICE LIST_ARISTARCO_WASH.pdf"
+                },
+                {
+                  "nome": "2025_ED-2025_PRICE LIST_ARISTARCO_ICE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/087iruvxtl33ph3rlp8s1/2025_ED-2025_PRICE-LIST_ARISTARCO_ICE.pdf?rlkey=6hydyxi7oj9g1tsqvmik5uz2w&dl=0?raw=1",
+                  "dimensione_kb": 2551,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/2025_ED-2025_PRICE LIST_ARISTARCO_ICE.pdf"
                 },
                 {
                   "nome": "ARISTARCO 2020_ED 7-2021_PRICE LIST_ARISTARCO_ICE.pdf",
@@ -149601,7 +149617,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/cvk8bpvgzy70853r1tk8g/ARISTARCO-2020_ED-7-2021_PRICE-LIST_ARISTARCO_ICE.pdf?rlkey=fgtprvbb0tli0c6g130x05w4p&dl=0?raw=1",
                   "dimensione_kb": 2864,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/ARISTARCO 2020_ED 7-2021_PRICE LIST_ARISTARCO_ICE.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/ARISTARCO 2020_ED 7-2021_PRICE LIST_ARISTARCO_ICE.pdf"
                 },
                 {
                   "nome": "ARISTARCO CATALOGO 2020_ED 7-2021_POCKET_ARISTARCO_WASH.pdf",
@@ -149609,7 +149625,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/v1cs3d9l90r7un0ta0nqz/ARISTARCO-CATALOGO-2020_ED-7-2021_POCKET_ARISTARCO_WASH.pdf?rlkey=kpmiet4brwikjgx30nc6i4zd1&dl=0?raw=1",
                   "dimensione_kb": 2484,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/ARISTARCO CATALOGO 2020_ED 7-2021_POCKET_ARISTARCO_WASH.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/ARISTARCO CATALOGO 2020_ED 7-2021_POCKET_ARISTARCO_WASH.pdf"
                 },
                 {
                   "nome": "ARISTARCO LISTINO 12_2018.pdf",
@@ -149617,7 +149633,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/alog4wvbuucam5761uztt/ARISTARCO-LISTINO-12_2018.pdf?rlkey=zruf0uoxth1po13lejmimopic&dl=0?raw=1",
                   "dimensione_kb": 2813,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/ARISTARCO LISTINO 12_2018.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/ARISTARCO LISTINO 12_2018.pdf"
                 },
                 {
                   "nome": "ARISTARCO LISTINO 2020_ED 7-2021_PRICE LIST_ARISTARCO_WASH.pdf",
@@ -149625,7 +149641,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/erl7hzei4oslsd29n75aq/ARISTARCO-LISTINO-2020_ED-7-2021_PRICE-LIST_ARISTARCO_WASH.pdf?rlkey=rpflmo56dmtt9gkp24n50wcqp&dl=0?raw=1",
                   "dimensione_kb": 6226,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/ARISTARCO LISTINO 2020_ED 7-2021_PRICE LIST_ARISTARCO_WASH.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/ARISTARCO LISTINO 2020_ED 7-2021_PRICE LIST_ARISTARCO_WASH.pdf"
                 },
                 {
                   "nome": "ARISTARCO Listino ricambi 2020.pdf",
@@ -149633,7 +149649,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/6hc7z9as233z6fw7zxn89/ARISTARCO-Listino-ricambi-2020.pdf?rlkey=88c5afira44r12nmok2yfrqni&dl=0?raw=1",
                   "dimensione_kb": 264,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/ARISTARCO Listino ricambi 2020.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/ARISTARCO Listino ricambi 2020.pdf"
                 },
                 {
                   "nome": "ARISTARCO Price List Aristarco Wash 2020.pdf",
@@ -149641,7 +149657,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/z2il90t1b5lfzca6yvda0/ARISTARCO-Price-List-Aristarco-Wash-2020.pdf?rlkey=0mh7yq8stxsihk5gpg5oyeko4&dl=0?raw=1",
                   "dimensione_kb": 6309,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/ARISTARCO Price List Aristarco Wash 2020.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/ARISTARCO Price List Aristarco Wash 2020.pdf"
                 },
                 {
                   "nome": "ARISTARCO Price List Kastel Cool 2020.pdf",
@@ -149649,7 +149665,15 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/pbvh5nzoss0kk8tzvmk14/ARISTARCO-Price-List-Kastel-Cool-2020.pdf?rlkey=udjtnkoazj1pxrd5rkmluucdr&dl=0?raw=1",
                   "dimensione_kb": 2818,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/ARISTARCO Price List Kastel Cool 2020.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/ARISTARCO Price List Kastel Cool 2020.pdf"
+                },
+                {
+                  "nome": "ARISTARCO listino ricambi - spares pricelist 2021.XLSX",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/drzlrtvk7s0vd2kqbowft/ARISTARCO-listino-ricambi-spares-pricelist-2021.XLSX?rlkey=dt14kps04817b3maqqqm3nq55&dl=0?raw=1",
+                  "dimensione_kb": 238,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/ARISTARCO listino ricambi - spares pricelist 2021.XLSX"
                 },
                 {
                   "nome": "Aristarco - Listino ricambi 2020.pdf",
@@ -149657,7 +149681,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/dcder66me6c7l7lh8jqew/Aristarco-Listino-ricambi-2020.pdf?rlkey=lv3hkmjet6lke659466r4v4nf&dl=0?raw=1",
                   "dimensione_kb": 264,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/Aristarco - Listino ricambi 2020.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/Aristarco - Listino ricambi 2020.pdf"
                 },
                 {
                   "nome": "Gmail - ARISTARCO - Listino ricambi - spare parts list 2020.pdf",
@@ -149665,7 +149689,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/xnqkd1t89ugji0w0tlzs0/Gmail-ARISTARCO-Listino-ricambi-spare-parts-list-2020.pdf?rlkey=v78erqp8wwjbycr945j4nnfe0&dl=0?raw=1",
                   "dimensione_kb": 84,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/Gmail - ARISTARCO - Listino ricambi - spare parts list 2020.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/Gmail - ARISTARCO - Listino ricambi - spare parts list 2020.pdf"
                 },
                 {
                   "nome": "Gmail - NUOVO LISTINO 2022 Lavaggio e Ghiaccio.pdf",
@@ -149673,7 +149697,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/0126qt9dxm98h3whdltri/Gmail-NUOVO-LISTINO-2022-Lavaggio-e-Ghiaccio.pdf?rlkey=xm3i0hha7sxbnjjruc7zef2bb&dl=0?raw=1",
                   "dimensione_kb": 138,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/Gmail - NUOVO LISTINO 2022 Lavaggio e Ghiaccio.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/Gmail - NUOVO LISTINO 2022 Lavaggio e Ghiaccio.pdf"
                 },
                 {
                   "nome": "Gmail - Nuovi Listini Prezzi 06-2022 ARISTARCO WASH & ICE.pdf",
@@ -149681,7 +149705,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/ypmvkuldt5fj5jzemyflm/Gmail-Nuovi-Listini-Prezzi-06-2022-ARISTARCO-WASH-ICE.pdf?rlkey=0xqc2bpb2ry1cv9jloxgko3hv&dl=0?raw=1",
                   "dimensione_kb": 190,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/Gmail - Nuovi Listini Prezzi 06-2022 ARISTARCO WASH & ICE.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/Gmail - Nuovi Listini Prezzi 06-2022 ARISTARCO WASH & ICE.pdf"
                 },
                 {
                   "nome": "Gmail - Nuovi Listini Prezzi 2022 ARISTARCO WASH & ICE.pdf",
@@ -149689,7 +149713,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/unwbe3wftmc63xnj5yxi0/Gmail-Nuovi-Listini-Prezzi-2022-ARISTARCO-WASH-ICE.pdf?rlkey=ivgdkc1dm35q9h3oxzxi5hd39&dl=0?raw=1",
                   "dimensione_kb": 140,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/Gmail - Nuovi Listini Prezzi 2022 ARISTARCO WASH & ICE.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/Gmail - Nuovi Listini Prezzi 2022 ARISTARCO WASH & ICE.pdf"
                 },
                 {
                   "nome": "OneDrive-2022-02-07.zip",
@@ -149697,7 +149721,7 @@
                   "icona": "🗜️",
                   "link": "https://www.dropbox.com/scl/fi/wmk0h66dz4t6uruhv0rxt/OneDrive-2022-02-07.zip?rlkey=e1kupc24517ce46xl5utxdzyh&dl=0?raw=1",
                   "dimensione_kb": 8820,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/OneDrive-2022-02-07.zip"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/OneDrive-2022-02-07.zip"
                 },
                 {
                   "nome": "Price increase-Aumento Prezzi 2020.pdf",
@@ -149705,22 +149729,30 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/bge1x1z8eu31y5obp7jeq/Price-increase-Aumento-Prezzi-2020.pdf?rlkey=wfqdyibax4f2orwycvqpvcnvn&dl=0?raw=1",
                   "dimensione_kb": 277,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARCHIVIO/Price increase-Aumento Prezzi 2020.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/Price increase-Aumento Prezzi 2020.pdf"
+                },
+                {
+                  "nome": "invio_listino_ricambi2024_ita.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5zt18xt0ey9bixx3tb8fg/invio_listino_ricambi2024_ita.pdf?rlkey=o5skcbkkivw37searkosyc9he&dl=0?raw=1",
+                  "dimensione_kb": 219,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ARCHIVIO/invio_listino_ricambi2024_ita.pdf"
                 }
               ],
-              "_totale_file": 22
+              "_totale_file": 26
             },
             {
-              "nome": "AREA TECNICA ARISTARCO",
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO",
+              "nome": "ARISTARCO AREA TECNICA",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA",
               "cartelle": [
                 {
                   "nome": "AF",
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF",
                   "cartelle": [
                     {
                       "nome": "TYPE3620-3820_(38)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3620-3820_(38)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3620-3820_(38)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149729,7 +149761,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/i1zed3ya3vqaocl59rkzf/3620-3820-OEM.pdf?rlkey=t833vagat8ur0zg5nvnx0i9lc&dl=0?raw=1",
                           "dimensione_kb": 2871,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3620-3820_(38)/3620-3820-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3620-3820_(38)/3620-3820-OEM.pdf"
                         },
                         {
                           "nome": "AF3825_3825S_ARISTARCO.pdf",
@@ -149737,14 +149769,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/048od2i1f5x0cdagpgphk/AF3825_3825S_ARISTARCO.pdf?rlkey=uqavqry3uu8yjaqikv054adqq&dl=0?raw=1",
                           "dimensione_kb": 2524,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3620-3820_(38)/AF3825_3825S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3620-3820_(38)/AF3825_3825S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3630-3830_(40)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3630-3830_(40)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3630-3830_(40)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149753,7 +149785,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/lmf8vchujf285uvyl1ib3/3630-3830_OEM.pdf?rlkey=we7zokct0sfpu89vs4jo2zufg&dl=0?raw=1",
                           "dimensione_kb": 2870,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3630-3830_(40)/3630-3830_OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3630-3830_(40)/3630-3830_OEM.pdf"
                         },
                         {
                           "nome": "AF4030_4030S_ARISTARCO.pdf",
@@ -149761,14 +149793,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/eunc04fuqu6doy72l51cq/AF4030_4030S_ARISTARCO.pdf?rlkey=eefs794436rk4you0rvmf16bb&dl=0?raw=1",
                           "dimensione_kb": 2522,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3630-3830_(40)/AF4030_4030S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3630-3830_(40)/AF4030_4030S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3640-3840_(40LS)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3640-3840_(40LS)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3640-3840_(40LS)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149777,7 +149809,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ziowilusqsi9n1dh99foh/3640-3840-OEM.pdf?rlkey=gthm5uujxplm7yq04fxqkooeh&dl=0?raw=1",
                           "dimensione_kb": 2882,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3640-3840_(40LS)/3640-3840-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3640-3840_(40LS)/3640-3840-OEM.pdf"
                         },
                         {
                           "nome": "AF4030LS_S_ARISTARCO.pdf",
@@ -149785,14 +149817,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/7j0wqp10jmnj3ds5mpn4j/AF4030LS_S_ARISTARCO.pdf?rlkey=nry2uoadzpmxzglwqfipbk0zn&dl=0?raw=1",
                           "dimensione_kb": 2528,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3640-3840_(40LS)/AF4030LS_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3640-3840_(40LS)/AF4030LS_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3650-3850_(45)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3650-3850_(45)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3650-3850_(45)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149801,7 +149833,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/pshrjxyon11zhy0fvquv1/3650-3850-OEM.pdf?rlkey=mx121ae0f2ni5ttba67moz5kz&dl=0?raw=1",
                           "dimensione_kb": 2880,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3650-3850_(45)/3650-3850-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3650-3850_(45)/3650-3850-OEM.pdf"
                         },
                         {
                           "nome": "AF4530-4530S_ARISTARCO.pdf",
@@ -149809,14 +149841,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/e8n7dj2cw7ov4aijuj2q4/AF4530-4530S_ARISTARCO.pdf?rlkey=mcloxb92hv36qspfqlf0lgwgd&dl=0?raw=1",
                           "dimensione_kb": 2498,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3650-3850_(45)/AF4530-4530S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3650-3850_(45)/AF4530-4530S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3660-3860_(50_MONO)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3660-3860_(50_MONO)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3660-3860_(50_MONO)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149825,7 +149857,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/qn4jedmgksml8wp7gk25y/3660-3860_OEM.pdf?rlkey=8hpaoi20f9b6vwf5ns05a2bq0&dl=0?raw=1",
                           "dimensione_kb": 2868,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3660-3860_(50_MONO)/3660-3860_OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3660-3860_(50_MONO)/3660-3860_OEM.pdf"
                         },
                         {
                           "nome": "AF5035M+M_S_ARISTARCO.pdf",
@@ -149833,14 +149865,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/lqha253al9bu68kv7ustj/AF5035M-M_S_ARISTARCO.pdf?rlkey=ea28znzgd5cdcr0iz4h8in2j4&dl=0?raw=1",
                           "dimensione_kb": 2493,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3660-3860_(50_MONO)/AF5035M+M_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3660-3860_(50_MONO)/AF5035M+M_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3670-3870_(50_TRIF)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3670-3870_(50_TRIF)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3670-3870_(50_TRIF)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149849,7 +149881,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/kp27t1tvlh7eiwpwm000h/3670-3870_OEM.pdf?rlkey=lbp8ajwdqa8wbtyzdn0adt7aw&dl=0?raw=1",
                           "dimensione_kb": 2839,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3670-3870_(50_TRIF)/3670-3870_OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3670-3870_(50_TRIF)/3670-3870_OEM.pdf"
                         },
                         {
                           "nome": "AF5035TRIF+S_ARISTARCO.pdf",
@@ -149857,14 +149889,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/a0qm5frwci999n97zmd4l/AF5035TRIF-S_ARISTARCO.pdf?rlkey=h2e7z6ta4m8d5ofc1v3jdk1yf&dl=0?raw=1",
                           "dimensione_kb": 2464,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3670-3870_(50_TRIF)/AF5035TRIF+S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3670-3870_(50_TRIF)/AF5035TRIF+S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3710-3910_(35E)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3710-3910_(35E)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3710-3910_(35E)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149873,7 +149905,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/h0j92mc374uuk64yed84r/3710-3910-OEM.pdf?rlkey=wtggu709lgnz9xf32s295j9cu&dl=0?raw=1",
                           "dimensione_kb": 2302,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3710-3910_(35E)/3710-3910-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3710-3910_(35E)/3710-3910-OEM.pdf"
                         },
                         {
                           "nome": "AF3525E+E_S_ARISTARCO.pdf",
@@ -149881,14 +149913,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/hfl4et8ckqr7jntpojzk7/AF3525E-E_S_ARISTARCO.pdf?rlkey=ezpglq3tzrsxafhn8lqo4yhk4&dl=0?raw=1",
                           "dimensione_kb": 2219,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3710-3910_(35E)/AF3525E+E_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3710-3910_(35E)/AF3525E+E_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3720-3920_(38E)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3720-3920_(38E)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3720-3920_(38E)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149897,7 +149929,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/jmjssnj2n6o5ths0h6500/3720-3920-OEM.pdf?rlkey=og4v1a13zns319jq1oory0h4n&dl=0?raw=1",
                           "dimensione_kb": 2304,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3720-3920_(38E)/3720-3920-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3720-3920_(38E)/3720-3920-OEM.pdf"
                         },
                         {
                           "nome": "AF3825E+E_S_ARISTARCO.pdf",
@@ -149905,14 +149937,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/1axz9941fkn9lr6ebwvwb/AF3825E-E_S_ARISTARCO.pdf?rlkey=chpqzqq0lu9uxp0ujov0mtug3&dl=0?raw=1",
                           "dimensione_kb": 2219,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3720-3920_(38E)/AF3825E+E_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3720-3920_(38E)/AF3825E+E_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3730-3930_(40E)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3730-3930_(40E)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3730-3930_(40E)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149921,7 +149953,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/q3ir1kgt87o6ss4k9ydig/3730-3930-OEM.pdf?rlkey=bpfvfrfxrjjachrwahy78jco3&dl=0?raw=1",
                           "dimensione_kb": 2301,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3730-3930_(40E)/3730-3930-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3730-3930_(40E)/3730-3930-OEM.pdf"
                         },
                         {
                           "nome": "AF4030E+E_S_ARISTARCO.pdf",
@@ -149929,14 +149961,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/p75i6xvdfl8y95ibnkn7h/AF4030E-E_S_ARISTARCO.pdf?rlkey=lfsr0ssz1gdhdtmfofdm5u01l&dl=0?raw=1",
                           "dimensione_kb": 2216,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3730-3930_(40E)/AF4030E+E_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3730-3930_(40E)/AF4030E+E_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3740-3940_(40E_LS)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3740-3940_(40E_LS)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3740-3940_(40E_LS)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149945,7 +149977,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/svqzstdlvy9rptr3omkrr/3740-3940-OEM.pdf?rlkey=g6wzzjpgkb11wfxo191nzsy1r&dl=0?raw=1",
                           "dimensione_kb": 2306,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3740-3940_(40E_LS)/3740-3940-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3740-3940_(40E_LS)/3740-3940-OEM.pdf"
                         },
                         {
                           "nome": "AF4030E_LS+S_ARISTARCO.pdf",
@@ -149953,14 +149985,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/fuaefm51ar0tt2mbt68ml/AF4030E_LS-S_ARISTARCO.pdf?rlkey=jngcsic5p5iekflnfwe4634s6&dl=0?raw=1",
                           "dimensione_kb": 2224,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3740-3940_(40E_LS)/AF4030E_LS+S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3740-3940_(40E_LS)/AF4030E_LS+S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3750-3950_(45E)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3750-3950_(45E)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3750-3950_(45E)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149969,7 +150001,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/jxx4xwheybyj6t17uuou7/3750-3950-OEM.pdf?rlkey=aujt56r8t0d6x7cray4oaal4s&dl=0?raw=1",
                           "dimensione_kb": 2307,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3750-3950_(45E)/3750-3950-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3750-3950_(45E)/3750-3950-OEM.pdf"
                         },
                         {
                           "nome": "AF4530E_E_S_ARISTARCO.pdf",
@@ -149977,14 +150009,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/jcvxw2s3aqfmehv0di91i/AF4530E_E_S_ARISTARCO.pdf?rlkey=4fs5ibf9ub969wdefkgrbgwp0&dl=0?raw=1",
                           "dimensione_kb": 2223,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3750-3950_(45E)/AF4530E_E_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3750-3950_(45E)/AF4530E_E_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3760-3960_(50E_MONO)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3760-3960_(50E_MONO)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3760-3960_(50E_MONO)",
                       "cartelle": [],
                       "file": [
                         {
@@ -149993,7 +150025,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/mcozfkhq4cu6e7olfnc80/3760-3960-OEM.pdf?rlkey=a3rzbu8wq542ybj8v3bd7prnk&dl=0?raw=1",
                           "dimensione_kb": 2319,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3760-3960_(50E_MONO)/3760-3960-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3760-3960_(50E_MONO)/3760-3960-OEM.pdf"
                         },
                         {
                           "nome": "AF5035E_Mono_E_S_ARISTARCO.pdf",
@@ -150001,14 +150033,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/u96k755y0uwv7f7flvbjq/AF5035E_Mono_E_S_ARISTARCO.pdf?rlkey=vf81kusjdzaihu4d6ggzoq0cm&dl=0?raw=1",
                           "dimensione_kb": 2214,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3760-3960_(50E_MONO)/AF5035E_Mono_E_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3760-3960_(50E_MONO)/AF5035E_Mono_E_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE3770-3970_(50E_TRIF)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3770-3970_(50E_TRIF)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3770-3970_(50E_TRIF)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150017,7 +150049,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/nal01m44onavxgeblbhoc/3770-3970-OEM.pdf?rlkey=m04g44tbq170fgjw1ju17tlje&dl=0?raw=1",
                           "dimensione_kb": 2320,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3770-3970_(50E_TRIF)/3770-3970-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3770-3970_(50E_TRIF)/3770-3970-OEM.pdf"
                         },
                         {
                           "nome": "AF5035E_E_S_ARISTARCO.pdf",
@@ -150025,14 +150057,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/6edbg0zqwalip6px6g3ai/AF5035E_E_S_ARISTARCO.pdf?rlkey=klddsjxn4xqu1k10qfnb54u94&dl=0?raw=1",
                           "dimensione_kb": 2217,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE3770-3970_(50E_TRIF)/AF5035E_E_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE3770-3970_(50E_TRIF)/AF5035E_E_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE4020-4120_(40E_LS_PRS)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE4020-4120_(40E_LS_PRS)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE4020-4120_(40E_LS_PRS)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150041,7 +150073,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/pnn3spjeh62fpuw1ju774/4020-4120-OEM.pdf?rlkey=3gr3qzej24znekls5mtm2w12v&dl=0?raw=1",
                           "dimensione_kb": 2387,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE4020-4120_(40E_LS_PRS)/4020-4120-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE4020-4120_(40E_LS_PRS)/4020-4120-OEM.pdf"
                         },
                         {
                           "nome": "AF4030E_LS_PRS_ARISTARCO.pdf",
@@ -150049,14 +150081,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/kbmied55fjkgupf38ph1w/AF4030E_LS_PRS_ARISTARCO.pdf?rlkey=sjhorort46kl8okpvfrkiapze&dl=0?raw=1",
                           "dimensione_kb": 2287,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE4020-4120_(40E_LS_PRS)/AF4030E_LS_PRS_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE4020-4120_(40E_LS_PRS)/AF4030E_LS_PRS_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE4050-4150_(50E_PRS)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE4050-4150_(50E_PRS)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE4050-4150_(50E_PRS)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150065,7 +150097,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/yk0tijw822g0qe7a2if6x/4050-4150-OEM.pdf?rlkey=54mhbyt404jgds8u6u9ryk9sv&dl=0?raw=1",
                           "dimensione_kb": 2388,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE4050-4150_(50E_PRS)/4050-4150-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE4050-4150_(50E_PRS)/4050-4150-OEM.pdf"
                         },
                         {
                           "nome": "A5035E_PRS+S_ARISTARCO.pdf",
@@ -150073,14 +150105,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/adpcqxkizc9tmnvqgk3rn/A5035E_PRS-S_ARISTARCO.pdf?rlkey=yp8t285rechh8f9pjn6p2jw2g&dl=0?raw=1",
                           "dimensione_kb": 2252,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE4050-4150_(50E_PRS)/A5035E_PRS+S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE4050-4150_(50E_PRS)/A5035E_PRS+S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE_3610-3810_(35)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE_3610-3810_(35)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE_3610-3810_(35)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150089,7 +150121,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/5x8tj54as1rw84a34k8jv/3610-3810-OEM.pdf?rlkey=o46icieque16zsu85ct6kre40&dl=0?raw=1",
                           "dimensione_kb": 2906,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE_3610-3810_(35)/3610-3810-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE_3610-3810_(35)/3610-3810-OEM.pdf"
                         },
                         {
                           "nome": "AF3525_3525S_ARISTARCO.pdf",
@@ -150097,7 +150129,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ayuszqblo54flcqw2fmgh/AF3525_3525S_ARISTARCO.pdf?rlkey=nfvuo6yhqhtkyleu3j44ngev0&dl=0?raw=1",
                           "dimensione_kb": 2523,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/TYPE_3610-3810_(35)/AF3525_3525S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/TYPE_3610-3810_(35)/AF3525_3525S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
@@ -150110,18 +150142,18 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/qzka9s4pr5jzxpfzlauik/CORRISPONDENZA_TYPE_MODELLO.pdf?rlkey=tmkv9ylkhzbna1gjm2dmz13pu&dl=0?raw=1",
                       "dimensione_kb": 112,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF/CORRISPONDENZA_TYPE_MODELLO.pdf"
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF/CORRISPONDENZA_TYPE_MODELLO.pdf"
                     }
                   ],
                   "_totale_file": 33
                 },
                 {
                   "nome": "AH",
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH",
                   "cartelle": [
                     {
                       "nome": "AH1040",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1040",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1040",
                       "cartelle": [],
                       "file": [
                         {
@@ -150130,7 +150162,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/lb2rl15h5stt1cdfj4tx5/AH1040_E_ES_PDF_Unico.pdf?rlkey=6uele9etgauxsohqo8d35pr8n&dl=0?raw=1",
                           "dimensione_kb": 2612,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1040/AH1040_E_ES_PDF_Unico.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1040/AH1040_E_ES_PDF_Unico.pdf"
                         },
                         {
                           "nome": "AH1040_E_ES_PDF_Unico_R1.pdf",
@@ -150138,7 +150170,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ek20m0918wu1g33qj3u9i/AH1040_E_ES_PDF_Unico_R1.pdf?rlkey=obpf2b58pc4apw291x9jcrhwa&dl=0?raw=1",
                           "dimensione_kb": 2899,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1040/AH1040_E_ES_PDF_Unico_R1.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1040/AH1040_E_ES_PDF_Unico_R1.pdf"
                         },
                         {
                           "nome": "AH1040_E_PDF_Unico.pdf",
@@ -150146,7 +150178,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/5ss3wjopz7qw8ti8apnnx/AH1040_E_PDF_Unico.pdf?rlkey=yujv2wmr2yxpn7bhgvqamul8k&dl=0?raw=1",
                           "dimensione_kb": 2296,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1040/AH1040_E_PDF_Unico.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1040/AH1040_E_PDF_Unico.pdf"
                         },
                         {
                           "nome": "AH1040_E_PRS_PDF_Unico.pdf",
@@ -150154,7 +150186,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/fsvmz6bkr61eu94zjp8vg/AH1040_E_PRS_PDF_Unico.pdf?rlkey=mrnwvc1kz3zmn2qdgjnck752d&dl=0?raw=1",
                           "dimensione_kb": 2336,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1040/AH1040_E_PRS_PDF_Unico.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1040/AH1040_E_PRS_PDF_Unico.pdf"
                         },
                         {
                           "nome": "AH1040_E_PRS_PDF_Unico_R1.pdf",
@@ -150162,14 +150194,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/fczulql2xg4gb1vh8ba9y/AH1040_E_PRS_PDF_Unico_R1.pdf?rlkey=scdo5qq4vw9f9vegjmvo95p98&dl=0?raw=1",
                           "dimensione_kb": 2926,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1040/AH1040_E_PRS_PDF_Unico_R1.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1040/AH1040_E_PRS_PDF_Unico_R1.pdf"
                         }
                       ],
                       "_totale_file": 5
                     },
                     {
                       "nome": "AH1240",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1240",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1240",
                       "cartelle": [],
                       "file": [
                         {
@@ -150178,7 +150210,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/wrcfgzc45c8c4ifculn0n/AH1240E_ES_PDF_Unico_R1.pdf?rlkey=oy4hbh46nbv87tt5eoczexm7l&dl=0?raw=1",
                           "dimensione_kb": 3201,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1240/AH1240E_ES_PDF_Unico_R1.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1240/AH1240E_ES_PDF_Unico_R1.pdf"
                         },
                         {
                           "nome": "AH1240E_PRS_PDF_Unico_R1.pdf",
@@ -150186,7 +150218,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/6r71e9omp5jjogyzuvmbs/AH1240E_PRS_PDF_Unico_R1.pdf?rlkey=8toke5ntqczy3g7csr0bjbvn1&dl=0?raw=1",
                           "dimensione_kb": 2926,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1240/AH1240E_PRS_PDF_Unico_R1.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1240/AH1240E_PRS_PDF_Unico_R1.pdf"
                         },
                         {
                           "nome": "AH1240_E_ES_PDF_Unico.pdf",
@@ -150194,7 +150226,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/eisw4kb3lksmwlfeapqg6/AH1240_E_ES_PDF_Unico.pdf?rlkey=twi13poe21uldaa29spnpikta&dl=0?raw=1",
                           "dimensione_kb": 2644,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1240/AH1240_E_ES_PDF_Unico.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1240/AH1240_E_ES_PDF_Unico.pdf"
                         },
                         {
                           "nome": "AH1240_E_PDF_Unico.pdf",
@@ -150202,7 +150234,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/sg0qdhutv3tok03vhhglv/AH1240_E_PDF_Unico.pdf?rlkey=peip4zgqy0s5y7vrqhkau5kd4&dl=0?raw=1",
                           "dimensione_kb": 2292,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1240/AH1240_E_PDF_Unico.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1240/AH1240_E_PDF_Unico.pdf"
                         },
                         {
                           "nome": "AH1240_E_PRS_PDF_Unico.pdf",
@@ -150210,14 +150242,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/qymhkuth5miykutegb7pu/AH1240_E_PRS_PDF_Unico.pdf?rlkey=7mfu6khmlqoohx7r22xuhxkit&dl=0?raw=1",
                           "dimensione_kb": 2329,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH1240/AH1240_E_PRS_PDF_Unico.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH1240/AH1240_E_PRS_PDF_Unico.pdf"
                         }
                       ],
                       "_totale_file": 5
                     },
                     {
                       "nome": "AH800",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH800",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH800",
                       "cartelle": [],
                       "file": [
                         {
@@ -150226,7 +150258,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/1a3wne2vp1jjrc7v5na6e/AH800E_ES_PDF_Unico.pdf?rlkey=cdhf9nqyhy5oki5u0vliat9oa&dl=0?raw=1",
                           "dimensione_kb": 2629,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH800/AH800E_ES_PDF_Unico.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH800/AH800E_ES_PDF_Unico.pdf"
                         },
                         {
                           "nome": "AH800E_ES_PDF_Unico_R1.pdf",
@@ -150234,7 +150266,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/onhancpe5ddb35henpfzd/AH800E_ES_PDF_Unico_R1.pdf?rlkey=145xkptgw7d9as2mzrvt227x9&dl=0?raw=1",
                           "dimensione_kb": 3200,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH800/AH800E_ES_PDF_Unico_R1.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH800/AH800E_ES_PDF_Unico_R1.pdf"
                         },
                         {
                           "nome": "AH800E_PDF_Unico.pdf",
@@ -150242,7 +150274,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/4f4r54ploa9gb8v1dkelz/AH800E_PDF_Unico.pdf?rlkey=81chvhf7m32qv7jorbhl5skcy&dl=0?raw=1",
                           "dimensione_kb": 2174,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH800/AH800E_PDF_Unico.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH800/AH800E_PDF_Unico.pdf"
                         },
                         {
                           "nome": "AH800E_PRS_PDF_Unico.pdf",
@@ -150250,7 +150282,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/92q59nr7thel78bojmzu1/AH800E_PRS_PDF_Unico.pdf?rlkey=uyvv1tngw92pxznewppva5xwz&dl=0?raw=1",
                           "dimensione_kb": 2227,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH800/AH800E_PRS_PDF_Unico.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH800/AH800E_PRS_PDF_Unico.pdf"
                         },
                         {
                           "nome": "AH800E_PRS_PDF_Unico_R1.pdf",
@@ -150258,7 +150290,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ylfnkex8kdsubp32lzpws/AH800E_PRS_PDF_Unico_R1.pdf?rlkey=87rqde5m65om8kxdi43kq8ccd&dl=0?raw=1",
                           "dimensione_kb": 2641,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH800/AH800E_PRS_PDF_Unico_R1.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH800/AH800E_PRS_PDF_Unico_R1.pdf"
                         },
                         {
                           "nome": "AH800_EM_PDF_Unico.pdf",
@@ -150266,7 +150298,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/miuntmzncop9bea5ti11a/AH800_EM_PDF_Unico.pdf?rlkey=zn1a5v6nphijnct68ipqj7i3l&dl=0?raw=1",
                           "dimensione_kb": 2440,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH800/AH800_EM_PDF_Unico.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH800/AH800_EM_PDF_Unico.pdf"
                         },
                         {
                           "nome": "AH800_EM_PDF_Unico_R1.pdf",
@@ -150274,7 +150306,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/fcralhl06qlpa95085gzn/AH800_EM_PDF_Unico_R1.pdf?rlkey=f08x382uaho5reynz7p2bpvkt&dl=0?raw=1",
                           "dimensione_kb": 2608,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AH/AH800/AH800_EM_PDF_Unico_R1.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AH/AH800/AH800_EM_PDF_Unico_R1.pdf"
                         }
                       ],
                       "_totale_file": 7
@@ -150285,7 +150317,7 @@
                 },
                 {
                   "nome": "ARISTARCO ESPLOSI",
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO ESPLOSI",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO ESPLOSI",
                   "cartelle": [],
                   "file": [
                     {
@@ -150294,7 +150326,7 @@
                       "icona": "🗜️",
                       "link": "https://www.dropbox.com/scl/fi/t94iv2k0n1xmbl9vs9a79/AF.zip?rlkey=mca29q02jhv1n74i3wfwrfyrp&dl=0?raw=1",
                       "dimensione_kb": 76620,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO ESPLOSI/AF.zip"
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO ESPLOSI/AF.zip"
                     },
                     {
                       "nome": "AH.zip",
@@ -150302,7 +150334,7 @@
                       "icona": "🗜️",
                       "link": "https://www.dropbox.com/scl/fi/ddzh2y3vapebympo99qek/AH.zip?rlkey=h140929v5el9siqzv84k6w48k&dl=0?raw=1",
                       "dimensione_kb": 43112,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO ESPLOSI/AH.zip"
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO ESPLOSI/AH.zip"
                     },
                     {
                       "nome": "ARISTARCO ESPLOSI.zip",
@@ -150310,7 +150342,7 @@
                       "icona": "🗜️",
                       "link": "https://www.dropbox.com/scl/fi/1u29wfh4wxtw2f8z69385/ARISTARCO-ESPLOSI.zip?rlkey=cj1zr17pvz0lw47rjgzwfjwci&dl=0?raw=1",
                       "dimensione_kb": 155396,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO ESPLOSI/ARISTARCO ESPLOSI.zip"
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO ESPLOSI/ARISTARCO ESPLOSI.zip"
                     },
                     {
                       "nome": "AS.zip",
@@ -150318,14 +150350,14 @@
                       "icona": "🗜️",
                       "link": "https://www.dropbox.com/scl/fi/n8s3hu4vzx1h1qz9fqfdo/AS.zip?rlkey=anq8jtmx8r4pr8wb10y45u1ho&dl=0?raw=1",
                       "dimensione_kb": 35663,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO ESPLOSI/AS.zip"
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO ESPLOSI/AS.zip"
                     }
                   ],
                   "_totale_file": 4
                 },
                 {
                   "nome": "ARISTARCO ESPLOSI PRODUTTORI",
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO ESPLOSI PRODUTTORI",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO ESPLOSI PRODUTTORI",
                   "cartelle": [],
                   "file": [
                     {
@@ -150334,18 +150366,18 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/eyzlm6pmhsqqkfs8wqo4m/EV_Type-5730_5735-CP30.10-A_W_REV00_09-2020.pdf?rlkey=rydsdtwg3gs0mt6tifwtrid6v&dl=0?raw=1",
                       "dimensione_kb": 659,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO ESPLOSI PRODUTTORI/EV_Type-5730_5735-CP30.10-A_W_REV00_09-2020.pdf"
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO ESPLOSI PRODUTTORI/EV_Type-5730_5735-CP30.10-A_W_REV00_09-2020.pdf"
                     }
                   ],
                   "_totale_file": 1
                 },
                 {
                   "nome": "AS",
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS",
                   "cartelle": [
                     {
                       "nome": "TYPE4200-4300_(40E)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4200-4300_(40E)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4200-4300_(40E)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150354,7 +150386,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/f2p67vrayj6q8ws2uqm6q/4200-4300-OEM.pdf?rlkey=yo2k0uc8s9r4n26dsqt5stt92&dl=0?raw=1",
                           "dimensione_kb": 2327,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4200-4300_(40E)/4200-4300-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4200-4300_(40E)/4200-4300-OEM.pdf"
                         },
                         {
                           "nome": "AS4030E+E_S_ARISTARCO.pdf",
@@ -150362,14 +150394,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/cvkiyc7y1519qk60t7noh/AS4030E-E_S_ARISTARCO.pdf?rlkey=b2zz66q53rr83ozl0caenx30n&dl=0?raw=1",
                           "dimensione_kb": 2226,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4200-4300_(40E)/AS4030E+E_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4200-4300_(40E)/AS4030E+E_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE4210-4310_(45E)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4210-4310_(45E)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4210-4310_(45E)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150378,7 +150410,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/y5lsdbckqdcssur9ogjaj/4210-4310-OEM.pdf?rlkey=x9m4oztiy9zau41s6tcoecnw6&dl=0?raw=1",
                           "dimensione_kb": 2327,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4210-4310_(45E)/4210-4310-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4210-4310_(45E)/4210-4310-OEM.pdf"
                         },
                         {
                           "nome": "AS4530E+E_S_ARISTARCO.pdf",
@@ -150386,14 +150418,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/00e7yt1kuaxyl8onvsltc/AS4530E-E_S_ARISTARCO.pdf?rlkey=poms6awafws8ch9gr7cu5m1mo&dl=0?raw=1",
                           "dimensione_kb": 2226,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4210-4310_(45E)/AS4530E+E_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4210-4310_(45E)/AS4530E+E_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE4220-4320_(50E_Monof)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4220-4320_(50E_Monof)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4220-4320_(50E_Monof)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150402,7 +150434,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/el3oz2ajoaajz74miqznl/4220-4320-OEM.pdf?rlkey=udyn5dy2p9zf9by065t0jb88w&dl=0?raw=1",
                           "dimensione_kb": 2317,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4220-4320_(50E_Monof)/4220-4320-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4220-4320_(50E_Monof)/4220-4320-OEM.pdf"
                         },
                         {
                           "nome": "AS5035E_M+S_ARISTARCO.pdf",
@@ -150410,14 +150442,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/4o1ihatc0c99gtsgzaubs/AS5035E_M-S_ARISTARCO.pdf?rlkey=zp8tso2aqwyrmxf1hvuzl09wo&dl=0?raw=1",
                           "dimensione_kb": 2216,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4220-4320_(50E_Monof)/AS5035E_M+S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4220-4320_(50E_Monof)/AS5035E_M+S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE4230-4330_(50E_TRIF)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4230-4330_(50E_TRIF)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4230-4330_(50E_TRIF)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150426,7 +150458,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/u9d2u0iqohteo3hx4ne30/AS5035E-E_S_ARISTARCO.pdf?rlkey=egnxnsh6ntdmahmwc5ukwjua0&dl=0?raw=1",
                           "dimensione_kb": 2220,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4230-4330_(50E_TRIF)/AS5035E+E_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4230-4330_(50E_TRIF)/AS5035E+E_S_ARISTARCO.pdf"
                         },
                         {
                           "nome": "TYPE4230-4330_OEM.pdf",
@@ -150434,14 +150466,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/87x8a64tbz5kyxqx3r1b7/TYPE4230-4330_OEM.pdf?rlkey=2l9xw1lpfujj78jy8w4xeov9f&dl=0?raw=1",
                           "dimensione_kb": 2262,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4230-4330_(50E_TRIF)/TYPE4230-4330_OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4230-4330_(50E_TRIF)/TYPE4230-4330_OEM.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE4250-4350_(60E)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4250-4350_(60E)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4250-4350_(60E)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150450,7 +150482,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/lrjfrgb0bxv8bduy4hoa0/AS6040E-E_S_ARISTARCO.pdf?rlkey=mn1h4edire3n2i4f6ekft0wxy&dl=0?raw=1",
                           "dimensione_kb": 2221,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4250-4350_(60E)/AS6040E+E_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4250-4350_(60E)/AS6040E+E_S_ARISTARCO.pdf"
                         },
                         {
                           "nome": "TYPE4250-4350_OEM.pdf",
@@ -150458,14 +150490,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/6wpj89y9bm70gvk7pjp65/TYPE4250-4350_OEM.pdf?rlkey=glsrskuykiggy2gxn89i481h4&dl=0?raw=1",
                           "dimensione_kb": 2322,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4250-4350_(60E)/TYPE4250-4350_OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4250-4350_(60E)/TYPE4250-4350_OEM.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE4400-4500_(40E_PRS)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4400-4500_(40E_PRS)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4400-4500_(40E_PRS)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150474,7 +150506,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/wn82zjhgt7i14dcc3ki1o/AS4030E-PRS_S_ARISTARCO.pdf?rlkey=46zsysrupimmq2kkvgu24pmtw&dl=0?raw=1",
                           "dimensione_kb": 2251,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4400-4500_(40E_PRS)/AS4030E+PRS_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4400-4500_(40E_PRS)/AS4030E+PRS_S_ARISTARCO.pdf"
                         },
                         {
                           "nome": "TYPE4400-4500-OEM.pdf",
@@ -150482,14 +150514,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/85ldrgqpbu8ixmwijocwf/TYPE4400-4500-OEM.pdf?rlkey=uujal4t02c6cynk6c9xpfohih&dl=0?raw=1",
                           "dimensione_kb": 2327,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4400-4500_(40E_PRS)/TYPE4400-4500-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4400-4500_(40E_PRS)/TYPE4400-4500-OEM.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE4430-4530_(50E_TRIF_PRS)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4430-4530_(50E_TRIF_PRS)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4430-4530_(50E_TRIF_PRS)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150498,7 +150530,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/z6z66j4zcvrrggaxj5uwj/4430-4530-OEM.pdf?rlkey=ze0y341261zy2d86dhxplcw83&dl=0?raw=1",
                           "dimensione_kb": 2390,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4430-4530_(50E_TRIF_PRS)/4430-4530-OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4430-4530_(50E_TRIF_PRS)/4430-4530-OEM.pdf"
                         },
                         {
                           "nome": "AS5035E+PRS_S_ARISTARCO.pdf",
@@ -150506,14 +150538,14 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/1xbqn9krcae2hg127v1ds/AS5035E-PRS_S_ARISTARCO.pdf?rlkey=80t13hi86ly436on2q1vrzg5d&dl=0?raw=1",
                           "dimensione_kb": 2290,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4430-4530_(50E_TRIF_PRS)/AS5035E+PRS_S_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4430-4530_(50E_TRIF_PRS)/AS5035E+PRS_S_ARISTARCO.pdf"
                         }
                       ],
                       "_totale_file": 2
                     },
                     {
                       "nome": "TYPE4450-4550_(60E_PRS)",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4450-4550_(60E_PRS)",
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4450-4550_(60E_PRS)",
                       "cartelle": [],
                       "file": [
                         {
@@ -150522,7 +150554,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/hew8f4w9b1sirbuafwewc/AS6040E-PRS_ARISTARCO.pdf?rlkey=fbqfofkbdlzpfgu0ucqjutzvp&dl=0?raw=1",
                           "dimensione_kb": 2291,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4450-4550_(60E_PRS)/AS6040E+PRS_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4450-4550_(60E_PRS)/AS6040E+PRS_ARISTARCO.pdf"
                         },
                         {
                           "nome": "TYPE4450-4550_OEM.pdf",
@@ -150530,7 +150562,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/bbnoq6shz6pr821pgqnj8/TYPE4450-4550_OEM.pdf?rlkey=dogw5fk9yk9uvkvsuackzszs8&dl=0?raw=1",
                           "dimensione_kb": 2390,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/TYPE4450-4550_(60E_PRS)/TYPE4450-4550_OEM.pdf"
+                          "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/TYPE4450-4550_(60E_PRS)/TYPE4450-4550_OEM.pdf"
                         }
                       ],
                       "_totale_file": 2
@@ -150543,14 +150575,14 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/3vzly2lsdhtagmxrld30l/CORRISPONDENZA_TYPE_MODELLO.pdf?rlkey=hu1t5dtw8xls73zfkejg3lh8c&dl=0?raw=1",
                       "dimensione_kb": 104,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AS/CORRISPONDENZA_TYPE_MODELLO.pdf"
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AS/CORRISPONDENZA_TYPE_MODELLO.pdf"
                     }
                   ],
                   "_totale_file": 17
                 },
                 {
                   "nome": "ESI (display 4035-0005)",
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ESI (display 4035-0005)",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ESI (display 4035-0005)",
                   "cartelle": [],
                   "file": [
                     {
@@ -150559,7 +150591,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/7nw6w938nyvx9rh7a9imc/5501-0016_Manuale-tecnico-display-4035-0005-INSTALLATORE-R4-ITA.pdf?rlkey=2dj2e5zb252d5cfcd50c2abxj&dl=0?raw=1",
                       "dimensione_kb": 1560,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ESI (display 4035-0005)/5501-0016_Manuale-tecnico-display-4035-0005-INSTALLATORE-R4-ITA.pdf"
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ESI (display 4035-0005)/5501-0016_Manuale-tecnico-display-4035-0005-INSTALLATORE-R4-ITA.pdf"
                     }
                   ],
                   "_totale_file": 1
@@ -150572,7 +150604,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/4u7uij0qbyfjgukrpqyy1/AF-AS-Ed.04.2018-ISTRUZIONI-PER-L-USO.pdf?rlkey=ugh6edtov1ggwal00roqb84oh&dl=0?raw=1",
                   "dimensione_kb": 2505,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF-AS (Ed.04.2018) ISTRUZIONI PER L'USO.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF-AS (Ed.04.2018) ISTRUZIONI PER L'USO.pdf"
                 },
                 {
                   "nome": "AF5035E_E_S_ESPLOSO_ARISTARCO.pdf",
@@ -150580,7 +150612,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/a622k2eksrb443r8drjfy/AF5035E_E_S_ESPLOSO_ARISTARCO.pdf?rlkey=rugs5aaj8tc7jy4qg90g0r3iz&dl=0?raw=1",
                   "dimensione_kb": 2221,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/AF5035E_E_S_ESPLOSO_ARISTARCO.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/AF5035E_E_S_ESPLOSO_ARISTARCO.pdf"
                 },
                 {
                   "nome": "ARISTARCO DOSATORI.pdf",
@@ -150588,7 +150620,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/wtbf3xtabssm33c7a200k/ARISTARCO-DOSATORI.pdf?rlkey=l1kytpt6bjph4jvzgdp443yc4&dl=0?raw=1",
                   "dimensione_kb": 389,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO DOSATORI.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO DOSATORI.pdf"
                 },
                 {
                   "nome": "ARISTARCO ERRORI VISUALIZZABILI SU DISPLAY AF-AS (Ed.04.2018).pdf",
@@ -150596,7 +150628,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/um64nkpbnrdz2v276dmal/ARISTARCO-ERRORI-VISUALIZZABILI-SU-DISPLAY-AF-AS-Ed.04.2018.pdf?rlkey=pwcyx62fgg0sfbhpan32mehh4&dl=0?raw=1",
                   "dimensione_kb": 548,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO ERRORI VISUALIZZABILI SU DISPLAY AF-AS (Ed.04.2018).pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO ERRORI VISUALIZZABILI SU DISPLAY AF-AS (Ed.04.2018).pdf"
                 },
                 {
                   "nome": "ARISTARCO GUIDA RAPIDA 5503-0001.pdf",
@@ -150604,7 +150636,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/kv0jou4g5xeeyw3lhgjp8/ARISTARCO-GUIDA-RAPIDA-5503-0001.pdf?rlkey=v5cyp5ptfoa2li6gvz6xn2r0r&dl=0?raw=1",
                   "dimensione_kb": 428,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO GUIDA RAPIDA 5503-0001.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO GUIDA RAPIDA 5503-0001.pdf"
                 },
                 {
                   "nome": "ARISTARCO MANUALE TECNICO DISPLAY 4035 0005 RIF. AI CARCONI CAPPOTTA.pdf",
@@ -150612,26 +150644,99 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/wsidpdwha0ts2pgz3h0qb/ARISTARCO-MANUALE-TECNICO-DISPLAY-4035-0005-RIF.-AI-CARCONI-CAPPOTTA.pdf?rlkey=9zji631cc9vsh0rb6tunxgx65&dl=0?raw=1",
                   "dimensione_kb": 1731,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/AREA TECNICA ARISTARCO/ARISTARCO MANUALE TECNICO DISPLAY 4035 0005 RIF. AI CARCONI CAPPOTTA.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO AREA TECNICA/ARISTARCO MANUALE TECNICO DISPLAY 4035 0005 RIF. AI CARCONI CAPPOTTA.pdf"
                 }
               ],
               "_totale_file": 79
             },
             {
-              "nome": "ARISTARCO DDT",
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DDT",
-              "cartelle": [],
-              "file": [
+              "nome": "ARISTARCO DOCUMENTI AMMINISTRATIVI",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI",
+              "cartelle": [
                 {
-                  "nome": "DDV_1874855_2023_1_5059_14072023.PDF",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/brw5t7569e8utqi33dgf1/DDV_1874855_2023_1_5059_14072023.PDF?rlkey=9juxctr0rs1buhs9klxazmsmy&dl=0?raw=1",
-                  "dimensione_kb": 9,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DDT/DDV_1874855_2023_1_5059_14072023.PDF"
+                  "nome": "ARISTARCO DDT",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI/ARISTARCO DDT",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "DDV_1874855_2023_1_5059_14072023.PDF",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/brw5t7569e8utqi33dgf1/DDV_1874855_2023_1_5059_14072023.PDF?rlkey=9juxctr0rs1buhs9klxazmsmy&dl=0?raw=1",
+                      "dimensione_kb": 9,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI/ARISTARCO DDT/DDV_1874855_2023_1_5059_14072023.PDF"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
+                  "nome": "ENI CAFE'",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI/ENI CAFE'",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "ARISTARCO Fattura di vendita_220200_20220429_104535.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/yhe1pg6u8g1ozjlwngpgz/ARISTARCO-Fattura-di-vendita_220200_20220429_104535.pdf?rlkey=tjj8suwz7hlojd3uyyoknkz7b&dl=0?raw=1",
+                      "dimensione_kb": 71,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI/ENI CAFE'/ARISTARCO Fattura di vendita_220200_20220429_104535.pdf"
+                    },
+                    {
+                      "nome": "ARISTARCO RAPPORTO DI INSTALLAZIONE ENI.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ye9728i9x7q11xc9fa267/ARISTARCO-RAPPORTO-DI-INSTALLAZIONE-ENI.pdf?rlkey=udbatq55sme8xqvww4x0dvxq4&dl=0?raw=1",
+                      "dimensione_kb": 226,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI/ENI CAFE'/ARISTARCO RAPPORTO DI INSTALLAZIONE ENI.pdf"
+                    },
+                    {
+                      "nome": "DDV_1631020_2022_1_762_16022022.PDF",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/vop7o34q0lyw9ich5qifs/DDV_1631020_2022_1_762_16022022.PDF?rlkey=8guxu28u7k9ahjw7qmj3qcrrf&dl=0?raw=1",
+                      "dimensione_kb": 42,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI/ENI CAFE'/DDV_1631020_2022_1_762_16022022.PDF"
+                    },
+                    {
+                      "nome": "Gmail - installazione ENI CAFE' & SHOP per conto Frigemeccanica a Francavilla in Sinni - PZ.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/97spf824c9bwb3om903ce/Gmail-installazione-ENI-CAFE-SHOP-per-conto-Frigemeccanica-a-Francavilla-in-Sinni-PZ.pdf?rlkey=993f46t2piu008ggxftkha833&dl=0?raw=1",
+                      "dimensione_kb": 118,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI/ENI CAFE'/Gmail - installazione ENI CAFE' & SHOP per conto Frigemeccanica a Francavilla in Sinni - PZ.pdf"
+                    },
+                    {
+                      "nome": "Report installazione.doc",
+                      "tipo": "Word",
+                      "icona": "📝",
+                      "link": "https://www.dropbox.com/scl/fi/hoa2x948p71v2u8zuxa28/Report-installazione.doc?rlkey=d03of4oqv7jyl8gu7kl53vmb8&dl=0?raw=1",
+                      "dimensione_kb": 60,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI/ENI CAFE'/Report installazione.doc"
+                    }
+                  ],
+                  "_totale_file": 5
                 }
               ],
-              "_totale_file": 1
+              "file": [
+                {
+                  "nome": "RAPPORTO DI INSTALLAZIONE DEL 16_06_2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oqm8ywj89297tegt8npr8/RAPPORTO-DI-INSTALLAZIONE-DEL-16_06_2023.pdf?rlkey=iekacos9gfsqnmgich5haa9hk&dl=0?raw=1",
+                  "dimensione_kb": 380,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI/RAPPORTO DI INSTALLAZIONE DEL 16_06_2023.pdf"
+                },
+                {
+                  "nome": "VICECONTI SNC Fattura di vendita_2300314_20230619_165455.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gqdpe5guczrji55pg1x6e/VICECONTI-SNC-Fattura-di-vendita_2300314_20230619_165455.pdf?rlkey=yfwzo7ewl1xwhbu02epj0720k&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO DOCUMENTI AMMINISTRATIVI/VICECONTI SNC Fattura di vendita_2300314_20230619_165455.pdf"
+                }
+              ],
+              "_totale_file": 8
             },
             {
               "nome": "ARISTARCO SCHEDE TECNICHE",
@@ -150776,97 +150881,32 @@
                 }
               ],
               "_totale_file": 17
-            },
-            {
-              "nome": "DOCUMENTI AMMINISTRATIVI",
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/DOCUMENTI AMMINISTRATIVI",
-              "cartelle": [
-                {
-                  "nome": "ENI CAFE'",
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/DOCUMENTI AMMINISTRATIVI/ENI CAFE'",
-                  "cartelle": [],
-                  "file": [
-                    {
-                      "nome": "ARISTARCO Fattura di vendita_220200_20220429_104535.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/yhe1pg6u8g1ozjlwngpgz/ARISTARCO-Fattura-di-vendita_220200_20220429_104535.pdf?rlkey=tjj8suwz7hlojd3uyyoknkz7b&dl=0?raw=1",
-                      "dimensione_kb": 71,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/DOCUMENTI AMMINISTRATIVI/ENI CAFE'/ARISTARCO Fattura di vendita_220200_20220429_104535.pdf"
-                    },
-                    {
-                      "nome": "ARISTARCO RAPPORTO DI INSTALLAZIONE ENI.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/ye9728i9x7q11xc9fa267/ARISTARCO-RAPPORTO-DI-INSTALLAZIONE-ENI.pdf?rlkey=udbatq55sme8xqvww4x0dvxq4&dl=0?raw=1",
-                      "dimensione_kb": 226,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/DOCUMENTI AMMINISTRATIVI/ENI CAFE'/ARISTARCO RAPPORTO DI INSTALLAZIONE ENI.pdf"
-                    },
-                    {
-                      "nome": "DDV_1631020_2022_1_762_16022022.PDF",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/vop7o34q0lyw9ich5qifs/DDV_1631020_2022_1_762_16022022.PDF?rlkey=8guxu28u7k9ahjw7qmj3qcrrf&dl=0?raw=1",
-                      "dimensione_kb": 42,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/DOCUMENTI AMMINISTRATIVI/ENI CAFE'/DDV_1631020_2022_1_762_16022022.PDF"
-                    },
-                    {
-                      "nome": "Gmail - installazione ENI CAFE' & SHOP per conto Frigemeccanica a Francavilla in Sinni - PZ.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/97spf824c9bwb3om903ce/Gmail-installazione-ENI-CAFE-SHOP-per-conto-Frigemeccanica-a-Francavilla-in-Sinni-PZ.pdf?rlkey=993f46t2piu008ggxftkha833&dl=0?raw=1",
-                      "dimensione_kb": 118,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/DOCUMENTI AMMINISTRATIVI/ENI CAFE'/Gmail - installazione ENI CAFE' & SHOP per conto Frigemeccanica a Francavilla in Sinni - PZ.pdf"
-                    },
-                    {
-                      "nome": "Report installazione.doc",
-                      "tipo": "Word",
-                      "icona": "📝",
-                      "link": "https://www.dropbox.com/scl/fi/hoa2x948p71v2u8zuxa28/Report-installazione.doc?rlkey=d03of4oqv7jyl8gu7kl53vmb8&dl=0?raw=1",
-                      "dimensione_kb": 60,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/DOCUMENTI AMMINISTRATIVI/ENI CAFE'/Report installazione.doc"
-                    }
-                  ],
-                  "_totale_file": 5
-                }
-              ],
-              "file": [
-                {
-                  "nome": "RAPPORTO DI INSTALLAZIONE DEL 16_06_2023.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/oqm8ywj89297tegt8npr8/RAPPORTO-DI-INSTALLAZIONE-DEL-16_06_2023.pdf?rlkey=iekacos9gfsqnmgich5haa9hk&dl=0?raw=1",
-                  "dimensione_kb": 380,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/DOCUMENTI AMMINISTRATIVI/RAPPORTO DI INSTALLAZIONE DEL 16_06_2023.pdf"
-                },
-                {
-                  "nome": "VICECONTI SNC Fattura di vendita_2300314_20230619_165455.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/gqdpe5guczrji55pg1x6e/VICECONTI-SNC-Fattura-di-vendita_2300314_20230619_165455.pdf?rlkey=yfwzo7ewl1xwhbu02epj0720k&dl=0?raw=1",
-                  "dimensione_kb": 73,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/DOCUMENTI AMMINISTRATIVI/VICECONTI SNC Fattura di vendita_2300314_20230619_165455.pdf"
-                }
-              ],
-              "_totale_file": 7
             }
           ],
           "file": [
             {
-              "nome": "2025_ED 2025_PRICE LIST_ARISTARCO_WASH.pdf",
+              "nome": "100.ARISTARCO LISTINO GHIACCIO IT-EN_2026_ED01-2026_PRICE LIST_ARISTARCO_ICE.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hp2rxh3bvdi4ndngf3zgc/2025_ED-2025_PRICE-LIST_ARISTARCO_WASH.pdf?rlkey=kn59xgyjh4baewvzqceh5dsud&dl=0?raw=1",
-              "dimensione_kb": 6741,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/2025_ED 2025_PRICE LIST_ARISTARCO_WASH.pdf"
+              "link": "https://www.dropbox.com/scl/fi/esqqvclj25uso8qkvmac1/100.ARISTARCO-LISTINO-GHIACCIO-IT-EN_2026_ED01-2026_PRICE-LIST_ARISTARCO_ICE.pdf?rlkey=9kej26j574ibu8204ciytgt0c&dl=0?raw=1",
+              "dimensione_kb": 6966,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/100.ARISTARCO LISTINO GHIACCIO IT-EN_2026_ED01-2026_PRICE LIST_ARISTARCO_ICE.pdf"
             },
             {
-              "nome": "2025_ED-2025_PRICE LIST_ARISTARCO_ICE.pdf",
+              "nome": "100.ARISTARCO LISTINO LAVAGGIO 2026 IT-EN_2026_ED01-2026_PRICE LIST_ARISTARCO_WASH.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/087iruvxtl33ph3rlp8s1/2025_ED-2025_PRICE-LIST_ARISTARCO_ICE.pdf?rlkey=6hydyxi7oj9g1tsqvmik5uz2w&dl=0?raw=1",
-              "dimensione_kb": 2551,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/2025_ED-2025_PRICE LIST_ARISTARCO_ICE.pdf"
+              "link": "https://www.dropbox.com/scl/fi/zey245l5at5sjwq7xm9i1/100.ARISTARCO-LISTINO-LAVAGGIO-2026-IT-EN_2026_ED01-2026_PRICE-LIST_ARISTARCO_WASH.pdf?rlkey=0kqelbbxncsgwhf0y3oopfyxs&dl=0?raw=1",
+              "dimensione_kb": 5442,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/100.ARISTARCO LISTINO LAVAGGIO 2026 IT-EN_2026_ED01-2026_PRICE LIST_ARISTARCO_WASH.pdf"
+            },
+            {
+              "nome": "100.ARISTARCO Listino ricambi - Spares pricelist 04-2026.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/8yf3ipqi2eje8qo81xhwo/100.ARISTARCO-Listino-ricambi-Spares-pricelist-04-2026.XLSX?rlkey=f3vrjqhl27gqrew4jq6ifdsxd&dl=0?raw=1",
+              "dimensione_kb": 264,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/100.ARISTARCO Listino ricambi - Spares pricelist 04-2026.XLSX"
             },
             {
               "nome": "ARISTARCO codici ARTICOLI PRINCIPALI.xlsx",
@@ -150875,14 +150915,6 @@
               "link": "https://www.dropbox.com/scl/fi/2xqmktitkpl7l91lt8sdq/ARISTARCO-codici-ARTICOLI-PRINCIPALI.xlsx?rlkey=3qku2crcnvdq5zmbcu2xgurji&dl=0?raw=1",
               "dimensione_kb": 18,
               "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO codici ARTICOLI PRINCIPALI.xlsx"
-            },
-            {
-              "nome": "ARISTARCO listino ricambi - spares pricelist 2021.XLSX",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/drzlrtvk7s0vd2kqbowft/ARISTARCO-listino-ricambi-spares-pricelist-2021.XLSX?rlkey=dt14kps04817b3maqqqm3nq55&dl=0?raw=1",
-              "dimensione_kb": 238,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO listino ricambi - spares pricelist 2021.XLSX"
             },
             {
               "nome": "Invio e-mail Aristarco end of season.pdf",
@@ -150899,17 +150931,9 @@
               "link": "https://www.dropbox.com/scl/fi/k6k3o6erp3pd0a7uzj03l/Listino-Ricambi_Spares-Listprice_04-2024.XLSX?rlkey=rss6urhzo2moi9n9vsu9jhmev&dl=0?raw=1",
               "dimensione_kb": 168,
               "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/Listino Ricambi_Spares Listprice_04-2024.XLSX"
-            },
-            {
-              "nome": "invio_listino_ricambi2024_ita.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/5zt18xt0ey9bixx3tb8fg/invio_listino_ricambi2024_ita.pdf?rlkey=o5skcbkkivw37searkosyc9he&dl=0?raw=1",
-              "dimensione_kb": 219,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/invio_listino_ricambi2024_ita.pdf"
             }
           ],
-          "_totale_file": 133
+          "_totale_file": 136
         },
         {
           "nome": "ARO",
@@ -151151,8 +151175,8 @@
           "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX",
           "cartelle": [
             {
-              "nome": "ARCHIVIO",
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARCHIVIO",
+              "nome": "ARTINOX ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO",
               "cartelle": [],
               "file": [
                 {
@@ -151161,7 +151185,7 @@
                   "icona": "📊",
                   "link": "https://www.dropbox.com/scl/fi/xke9ukwbnpw0pp5uv7ly7/ARTINOX-_ITALIANO_Luglio-2021-ecxel.xlsx?rlkey=9cweflqmm8yybfsb3e278xak8&dl=0?raw=1",
                   "dimensione_kb": 1311,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARCHIVIO/ARTINOX _ITALIANO_Luglio 2021 ecxel.xlsx"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO/ARTINOX _ITALIANO_Luglio 2021 ecxel.xlsx"
                 },
                 {
                   "nome": "ARTINOX_listino_INFIX_2019 Aggiungere 10%.pdf",
@@ -151169,7 +151193,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/0oy708q7guaqkcb6irjet/ARTINOX_listino_INFIX_2019-Aggiungere-10.pdf?rlkey=a2q4wcnu7k0fbqzqfb46wpybw&dl=0?raw=1",
                   "dimensione_kb": 15293,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARCHIVIO/ARTINOX_listino_INFIX_2019 Aggiungere 10%.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO/ARTINOX_listino_INFIX_2019 Aggiungere 10%.pdf"
                 },
                 {
                   "nome": "ARTINOX_listino_INFIX_2021_aumento5+5.pdf",
@@ -151177,7 +151201,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/2yhz3c6aa6ijrweggmqh0/ARTINOX_listino_INFIX_2021_aumento5-5.pdf?rlkey=ejt837kmh7dxb1h0fi8h6nyya&dl=0?raw=1",
                   "dimensione_kb": 26726,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARCHIVIO/ARTINOX_listino_INFIX_2021_aumento5+5.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO/ARTINOX_listino_INFIX_2021_aumento5+5.pdf"
                 },
                 {
                   "nome": "ARTINOX_listino_INFIX_2022_aumento 5+5+18.pdf",
@@ -151185,7 +151209,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/ifiixmyzqodz3zvyqyvpk/ARTINOX_listino_INFIX_2022_aumento-5-5-18.pdf?rlkey=on4agoxkikx6vbbrxuq5mn7f1&dl=0?raw=1",
                   "dimensione_kb": 27106,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARCHIVIO/ARTINOX_listino_INFIX_2022_aumento 5+5+18.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO/ARTINOX_listino_INFIX_2022_aumento 5+5+18.pdf"
                 },
                 {
                   "nome": "Gmail - Artinox Scaffalature - Aumento listino + 18.pdf",
@@ -151193,7 +151217,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/5jpb8m1esmty3napl03kn/Gmail-Artinox-Scaffalature-Aumento-listino-18.pdf?rlkey=s8ccmgwompgt97zcg0fwzxfbk&dl=0?raw=1",
                   "dimensione_kb": 92,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARCHIVIO/Gmail - Artinox Scaffalature - Aumento listino + 18.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO/Gmail - Artinox Scaffalature - Aumento listino + 18.pdf"
                 },
                 {
                   "nome": "Gmail - Artinox Scaffalature - Aumento listino 10_02_2022.pdf",
@@ -151201,7 +151225,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/mvgl28leksyqhbyye9l19/Gmail-Artinox-Scaffalature-Aumento-listino-10_02_2022.pdf?rlkey=tqhuiypk2dz65fe3fi4273891&dl=0?raw=1",
                   "dimensione_kb": 92,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARCHIVIO/Gmail - Artinox Scaffalature - Aumento listino 10_02_2022.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO/Gmail - Artinox Scaffalature - Aumento listino 10_02_2022.pdf"
                 },
                 {
                   "nome": "Gmail - Scaffalature Artinox - AGGIORNAMENTO LISTINO PREZZI 2021.pdf",
@@ -151209,7 +151233,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/ho597yx7m3juqdno00jph/Gmail-Scaffalature-Artinox-AGGIORNAMENTO-LISTINO-PREZZI-2021.pdf?rlkey=rlf7sv0jrjzcr7csxn2kn76na&dl=0?raw=1",
                   "dimensione_kb": 216,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARCHIVIO/Gmail - Scaffalature Artinox - AGGIORNAMENTO LISTINO PREZZI 2021.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO/Gmail - Scaffalature Artinox - AGGIORNAMENTO LISTINO PREZZI 2021.pdf"
                 },
                 {
                   "nome": "NUOVO LISTINO 2022_marzo_ITALIANO_originale.xlsx",
@@ -151217,14 +151241,14 @@
                   "icona": "📊",
                   "link": "https://www.dropbox.com/scl/fi/yaubchunjbt94l6sww5fc/NUOVO-LISTINO-2022_marzo_ITALIANO_originale.xlsx?rlkey=sijaz7q5w9o6n8hxfde09f4y6&dl=0?raw=1",
                   "dimensione_kb": 1966,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARCHIVIO/NUOVO LISTINO 2022_marzo_ITALIANO_originale.xlsx"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO/NUOVO LISTINO 2022_marzo_ITALIANO_originale.xlsx"
                 }
               ],
               "_totale_file": 8
             },
             {
-              "nome": "CATALOGHI",
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/CATALOGHI",
+              "nome": "ARTINOX CATALOGHI",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX CATALOGHI",
               "cartelle": [],
               "file": [
                 {
@@ -151233,7 +151257,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/ndpseuxdiwlje82xz6ixv/DEPLIANT-5-IDEE-ITA_ENG.pdf?rlkey=8dxxoer8307p2qheu5azjtz6v&dl=0?raw=1",
                   "dimensione_kb": 19343,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/CATALOGHI/DEPLIANT 5 IDEE ITA_ENG.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX CATALOGHI/DEPLIANT 5 IDEE ITA_ENG.pdf"
                 },
                 {
                   "nome": "Depliant_Enoline.pdf",
@@ -151241,7 +151265,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/lx3carn6rv93d5cbiklmn/Depliant_Enoline.pdf?rlkey=dqvvios4f7dbl6g69ea69yg3p&dl=0?raw=1",
                   "dimensione_kb": 1383,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/CATALOGHI/Depliant_Enoline.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX CATALOGHI/Depliant_Enoline.pdf"
                 },
                 {
                   "nome": "Depliant_INFIX_Eco.pdf",
@@ -151249,7 +151273,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/ud3xekencl9bhm8ig8x9c/Depliant_INFIX_Eco.pdf?rlkey=c3ny32so89h48hponhtwljf8e&dl=0?raw=1",
                   "dimensione_kb": 2618,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/CATALOGHI/Depliant_INFIX_Eco.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX CATALOGHI/Depliant_INFIX_Eco.pdf"
                 },
                 {
                   "nome": "Depliant_INFIX_Inox.pdf",
@@ -151257,7 +151281,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/31nwe1v6abcld3v527ljq/Depliant_INFIX_Inox.pdf?rlkey=v15qtnuwm0r6n87sq1l5qa3ld&dl=0?raw=1",
                   "dimensione_kb": 2738,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/CATALOGHI/Depliant_INFIX_Inox.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX CATALOGHI/Depliant_INFIX_Inox.pdf"
                 },
                 {
                   "nome": "depliant generale NF IT-UK.pdf",
@@ -151265,7 +151289,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/i4hbbwf56ym5pw9vlgns8/depliant-generale-NF-IT-UK.pdf?rlkey=7cxb83tvo8wglzxuodr8btvyh&dl=0?raw=1",
                   "dimensione_kb": 3004,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/CATALOGHI/depliant generale NF IT-UK.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX CATALOGHI/depliant generale NF IT-UK.pdf"
                 }
               ],
               "_totale_file": 5
@@ -151305,6 +151329,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/000_newofferta ESEMPIO_ ITALIANO.xlsx"
             },
             {
+              "nome": "100.ARTINOX LISTINO 2026 Catalogo Shelvings 2026 ed.3 - Vrs digitale aff Con Prezzi - Protetta.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vfyfdfdn7zphdl715u3j6/100.ARTINOX-LISTINO-2026-Catalogo-Shelvings-2026-ed.3-Vrs-digitale-aff-Con-Prezzi-Protetta.pdf?rlkey=vegjexrfjms921yc407h4w0sp&dl=0?raw=1",
+              "dimensione_kb": 18992,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/100.ARTINOX LISTINO 2026 Catalogo Shelvings 2026 ed.3 - Vrs digitale aff Con Prezzi - Protetta.pdf"
+            },
+            {
               "nome": "ARTINOX LISTINO 2024.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -151313,7 +151345,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX LISTINO 2024.pdf"
             }
           ],
-          "_totale_file": 17
+          "_totale_file": 18
         },
         {
           "nome": "ARUBA",
@@ -154215,182 +154247,6 @@
           "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE",
           "cartelle": [
             {
-              "nome": "ARCHIVIO",
-              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO",
-              "cartelle": [],
-              "file": [
-                {
-                  "nome": "COLDLINE CATALOGHI 2020.zip",
-                  "tipo": "Archivio",
-                  "icona": "🗜️",
-                  "link": "https://www.dropbox.com/scl/fi/o04v1op3nyjh941kgav10/COLDLINE-CATALOGHI-2020.zip?rlkey=ef7wao0mcra4ltumaaqrku3dt&dl=0?raw=1",
-                  "dimensione_kb": 19926,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE CATALOGHI 2020.zip"
-                },
-                {
-                  "nome": "COLDLINE FATTURA RIF. CALA DEL CITRO.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/jpnk6uuyjtx5vr7mlg9ri/COLDLINE-FATTURA-RIF.-CALA-DEL-CITRO.pdf?rlkey=nxpoapr5anak9tf0jed17duv3&dl=0?raw=1",
-                  "dimensione_kb": 156,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE FATTURA RIF. CALA DEL CITRO.pdf"
-                },
-                {
-                  "nome": "COLDLINE Listino 2020.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/dzm28qweacwthpyep5hrl/COLDLINE-Listino-2020.pdf?rlkey=dmk51mhd6a228obo3v90n0zcn&dl=0?raw=1",
-                  "dimensione_kb": 26250,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE Listino 2020.pdf"
-                },
-                {
-                  "nome": "COLDLINE Listino_Vision_2020.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/u26z7dzmtug4tr1fbpbxc/COLDLINE-Listino_Vision_2020.pdf?rlkey=xt85w5nqj47oq87ud16clwi7d&dl=0?raw=1",
-                  "dimensione_kb": 11311,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE Listino_Vision_2020.pdf"
-                },
-                {
-                  "nome": "COLDLINE listino_coldline_11-2021_it.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/3bfqwt9hj8slw619pk673/COLDLINE-listino_coldline_11-2021_it.pdf?rlkey=cbbhpnv603wn0pjmfke4i2k84&dl=0?raw=1",
-                  "dimensione_kb": 22757,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE listino_coldline_11-2021_it.pdf"
-                },
-                {
-                  "nome": "COLDLINE listino_vision_11-2021_it.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/2s5aozqy029opotnscgmt/COLDLINE-listino_vision_11-2021_it.pdf?rlkey=haeuc4khflo90kapyqwq6oga8&dl=0?raw=1",
-                  "dimensione_kb": 9694,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE listino_vision_11-2021_it.pdf"
-                },
-                {
-                  "nome": "COLDLINE_ABBATTITORE_LIFE_ITA_20_LQ.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/lyaclejexabjdo9t427gh/COLDLINE_ABBATTITORE_LIFE_ITA_20_LQ.pdf?rlkey=rp4ck7521q7x00lm3di82oef4&dl=0?raw=1",
-                  "dimensione_kb": 2693,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE_ABBATTITORE_LIFE_ITA_20_LQ.pdf"
-                },
-                {
-                  "nome": "COLDLINE_LISTINO_2021_IT_LQ_rev.1-5.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/d20mh0mmov9dppkxelwmk/COLDLINE_LISTINO_2021_IT_LQ_rev.1-5.pdf?rlkey=437212dy9g3ehpq6xznppee99&dl=0?raw=1",
-                  "dimensione_kb": 24926,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE_LISTINO_2021_IT_LQ_rev.1-5.pdf"
-                },
-                {
-                  "nome": "COLDLINE_Listino_Avenir_2015.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/qiq8sxi3x8kalz5yo4a7t/COLDLINE_Listino_Avenir_2015.pdf?rlkey=ogjyd1vi73i0z40xda4jtjgi0&dl=0?raw=1",
-                  "dimensione_kb": 8776,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE_Listino_Avenir_2015.pdf"
-                },
-                {
-                  "nome": "COLDLINE_Listino_Vision_2015.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/2h4unq9fte2fhvpvbkjcb/COLDLINE_Listino_Vision_2015.pdf?rlkey=v2wtf0w6t2e1zepzif0wwm7ft&dl=0?raw=1",
-                  "dimensione_kb": 4748,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE_Listino_Vision_2015.pdf"
-                },
-                {
-                  "nome": "COLDLINE_Listino_Vision_2021_IT_LQ_rev.1-5.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/slssmya42kkvmllynxhbp/COLDLINE_Listino_Vision_2021_IT_LQ_rev.1-5.pdf?rlkey=ypvm2g9379ibcyrfoggs1m2qi&dl=0?raw=1",
-                  "dimensione_kb": 16095,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/COLDLINE_Listino_Vision_2021_IT_LQ_rev.1-5.pdf"
-                },
-                {
-                  "nome": "Gmail - Comunicazione Ufficiale Coldline_ Aumento listino prezzi Coldline, Vision, LIFE.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/w29jq4mwkhdvcd29fbdi6/Gmail-Comunicazione-Ufficiale-Coldline_-Aumento-listino-prezzi-Coldline-Vision-LIFE.pdf?rlkey=dvqz9fo9v69b7bqmaggtn60rp&dl=0?raw=1",
-                  "dimensione_kb": 76,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/Gmail - Comunicazione Ufficiale Coldline_ Aumento listino prezzi Coldline, Vision, LIFE.pdf"
-                },
-                {
-                  "nome": "Listino_COLDLINE_09-2021_IT.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/7lom77u47swnbzijc58nd/Listino_COLDLINE_09-2021_IT.pdf?rlkey=z3wfv4dse1v3mmu5gfi67a8y7&dl=0?raw=1",
-                  "dimensione_kb": 22966,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/Listino_COLDLINE_09-2021_IT.pdf"
-                },
-                {
-                  "nome": "Listino_Vision_09-2021_IT.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/70vaiksiwhwmmkv5efzwc/Listino_Vision_09-2021_IT.pdf?rlkey=q8n9zfcibbitxsh1112sf228f&dl=0?raw=1",
-                  "dimensione_kb": 9695,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/Listino_Vision_09-2021_IT.pdf"
-                },
-                {
-                  "nome": "Promo Dealer 2020 ITA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/eqoyjlsdly5bk4vh7cl9q/Promo-Dealer-2020-ITA.pdf?rlkey=dvwo81a8zvur20jq5gs7rdkgh&dl=0?raw=1",
-                  "dimensione_kb": 386,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/Promo Dealer 2020 ITA.pdf"
-                },
-                {
-                  "nome": "coldline-1a6e0c.zip",
-                  "tipo": "Archivio",
-                  "icona": "🗜️",
-                  "link": "https://www.dropbox.com/scl/fi/m4h5g6tsr2jexfvjn41ha/coldline-1a6e0c.zip?rlkey=2rvyx5s4l4n7h40ghgfn1sfxz&dl=0?raw=1",
-                  "dimensione_kb": 40265,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/coldline-1a6e0c.zip"
-                },
-                {
-                  "nome": "coldline_listino_coldline_09-2021_it-pdf_2021-08-27_0704.zip",
-                  "tipo": "Archivio",
-                  "icona": "🗜️",
-                  "link": "https://www.dropbox.com/scl/fi/l207mfgws8buq36x5uqnt/coldline_listino_coldline_09-2021_it-pdf_2021-08-27_0704.zip?rlkey=z220f4idc2lblrwg5vt2duc5l&dl=0?raw=1",
-                  "dimensione_kb": 32661,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/coldline_listino_coldline_09-2021_it-pdf_2021-08-27_0704.zip"
-                },
-                {
-                  "nome": "listino_coldline_2-2022_it.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/qhy4h3crffgybu5owpgbs/listino_coldline_2-2022_it.pdf?rlkey=qz0ecnedo6ekjvysutbbd18vk&dl=0?raw=1",
-                  "dimensione_kb": 22824,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/listino_coldline_2-2022_it.pdf"
-                },
-                {
-                  "nome": "listino_coldline_5-2022_it.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/vtbt8zs99611yfappiq55/listino_coldline_5-2022_it.pdf?rlkey=u58f18875r3u04ez1oheb1pap&dl=0?raw=1",
-                  "dimensione_kb": 22831,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/listino_coldline_5-2022_it.pdf"
-                },
-                {
-                  "nome": "listino_vision_2-2022_it.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/rj9euo1zhsu1jasgbvt8b/listino_vision_2-2022_it.pdf?rlkey=lrvitt8tvyurg26rnkt5qgkbt&dl=0?raw=1",
-                  "dimensione_kb": 9656,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/listino_vision_2-2022_it.pdf"
-                },
-                {
-                  "nome": "listino_vision_5-2022_it.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/gi8ysb0qfhkajhrwqlzlm/listino_vision_5-2022_it.pdf?rlkey=2rq5kba19h5yc24uxr1pu31wv&dl=0?raw=1",
-                  "dimensione_kb": 9676,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/ARCHIVIO/listino_vision_5-2022_it.pdf"
-                }
-              ],
-              "_totale_file": 21
-            },
-            {
               "nome": "COLDLINE 4.0",
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE 4.0",
               "cartelle": [],
@@ -154431,42 +154287,202 @@
               "_totale_file": 4
             },
             {
+              "nome": "COLDLINE ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "COLDLINE CATALOGHI 2020.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/o04v1op3nyjh941kgav10/COLDLINE-CATALOGHI-2020.zip?rlkey=ef7wao0mcra4ltumaaqrku3dt&dl=0?raw=1",
+                  "dimensione_kb": 19926,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE CATALOGHI 2020.zip"
+                },
+                {
+                  "nome": "COLDLINE FATTURA RIF. CALA DEL CITRO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jpnk6uuyjtx5vr7mlg9ri/COLDLINE-FATTURA-RIF.-CALA-DEL-CITRO.pdf?rlkey=nxpoapr5anak9tf0jed17duv3&dl=0?raw=1",
+                  "dimensione_kb": 156,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE FATTURA RIF. CALA DEL CITRO.pdf"
+                },
+                {
+                  "nome": "COLDLINE Listino 2020.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dzm28qweacwthpyep5hrl/COLDLINE-Listino-2020.pdf?rlkey=dmk51mhd6a228obo3v90n0zcn&dl=0?raw=1",
+                  "dimensione_kb": 26250,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE Listino 2020.pdf"
+                },
+                {
+                  "nome": "COLDLINE Listino_Vision_2020.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/u26z7dzmtug4tr1fbpbxc/COLDLINE-Listino_Vision_2020.pdf?rlkey=xt85w5nqj47oq87ud16clwi7d&dl=0?raw=1",
+                  "dimensione_kb": 11311,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE Listino_Vision_2020.pdf"
+                },
+                {
+                  "nome": "COLDLINE listino_coldline_11-2021_it.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3bfqwt9hj8slw619pk673/COLDLINE-listino_coldline_11-2021_it.pdf?rlkey=cbbhpnv603wn0pjmfke4i2k84&dl=0?raw=1",
+                  "dimensione_kb": 22757,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE listino_coldline_11-2021_it.pdf"
+                },
+                {
+                  "nome": "COLDLINE listino_vision_11-2021_it.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2s5aozqy029opotnscgmt/COLDLINE-listino_vision_11-2021_it.pdf?rlkey=haeuc4khflo90kapyqwq6oga8&dl=0?raw=1",
+                  "dimensione_kb": 9694,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE listino_vision_11-2021_it.pdf"
+                },
+                {
+                  "nome": "COLDLINE_ABBATTITORE_LIFE_ITA_20_LQ.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lyaclejexabjdo9t427gh/COLDLINE_ABBATTITORE_LIFE_ITA_20_LQ.pdf?rlkey=rp4ck7521q7x00lm3di82oef4&dl=0?raw=1",
+                  "dimensione_kb": 2693,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE_ABBATTITORE_LIFE_ITA_20_LQ.pdf"
+                },
+                {
+                  "nome": "COLDLINE_LISTINO_2021_IT_LQ_rev.1-5.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d20mh0mmov9dppkxelwmk/COLDLINE_LISTINO_2021_IT_LQ_rev.1-5.pdf?rlkey=437212dy9g3ehpq6xznppee99&dl=0?raw=1",
+                  "dimensione_kb": 24926,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE_LISTINO_2021_IT_LQ_rev.1-5.pdf"
+                },
+                {
+                  "nome": "COLDLINE_Listino_Avenir_2015.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qiq8sxi3x8kalz5yo4a7t/COLDLINE_Listino_Avenir_2015.pdf?rlkey=ogjyd1vi73i0z40xda4jtjgi0&dl=0?raw=1",
+                  "dimensione_kb": 8776,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE_Listino_Avenir_2015.pdf"
+                },
+                {
+                  "nome": "COLDLINE_Listino_Vision_2015.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2h4unq9fte2fhvpvbkjcb/COLDLINE_Listino_Vision_2015.pdf?rlkey=v2wtf0w6t2e1zepzif0wwm7ft&dl=0?raw=1",
+                  "dimensione_kb": 4748,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE_Listino_Vision_2015.pdf"
+                },
+                {
+                  "nome": "COLDLINE_Listino_Vision_2021_IT_LQ_rev.1-5.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/slssmya42kkvmllynxhbp/COLDLINE_Listino_Vision_2021_IT_LQ_rev.1-5.pdf?rlkey=ypvm2g9379ibcyrfoggs1m2qi&dl=0?raw=1",
+                  "dimensione_kb": 16095,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/COLDLINE_Listino_Vision_2021_IT_LQ_rev.1-5.pdf"
+                },
+                {
+                  "nome": "Gmail - Comunicazione Ufficiale Coldline_ Aumento listino prezzi Coldline, Vision, LIFE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/w29jq4mwkhdvcd29fbdi6/Gmail-Comunicazione-Ufficiale-Coldline_-Aumento-listino-prezzi-Coldline-Vision-LIFE.pdf?rlkey=dvqz9fo9v69b7bqmaggtn60rp&dl=0?raw=1",
+                  "dimensione_kb": 76,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/Gmail - Comunicazione Ufficiale Coldline_ Aumento listino prezzi Coldline, Vision, LIFE.pdf"
+                },
+                {
+                  "nome": "Listino_COLDLINE_09-2021_IT.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7lom77u47swnbzijc58nd/Listino_COLDLINE_09-2021_IT.pdf?rlkey=z3wfv4dse1v3mmu5gfi67a8y7&dl=0?raw=1",
+                  "dimensione_kb": 22966,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/Listino_COLDLINE_09-2021_IT.pdf"
+                },
+                {
+                  "nome": "Listino_Vision_09-2021_IT.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/70vaiksiwhwmmkv5efzwc/Listino_Vision_09-2021_IT.pdf?rlkey=q8n9zfcibbitxsh1112sf228f&dl=0?raw=1",
+                  "dimensione_kb": 9695,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/Listino_Vision_09-2021_IT.pdf"
+                },
+                {
+                  "nome": "Promo Dealer 2020 ITA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/eqoyjlsdly5bk4vh7cl9q/Promo-Dealer-2020-ITA.pdf?rlkey=dvwo81a8zvur20jq5gs7rdkgh&dl=0?raw=1",
+                  "dimensione_kb": 386,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/Promo Dealer 2020 ITA.pdf"
+                },
+                {
+                  "nome": "coldline-1a6e0c.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/m4h5g6tsr2jexfvjn41ha/coldline-1a6e0c.zip?rlkey=2rvyx5s4l4n7h40ghgfn1sfxz&dl=0?raw=1",
+                  "dimensione_kb": 40265,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/coldline-1a6e0c.zip"
+                },
+                {
+                  "nome": "coldline_listino_coldline_09-2021_it-pdf_2021-08-27_0704.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/l207mfgws8buq36x5uqnt/coldline_listino_coldline_09-2021_it-pdf_2021-08-27_0704.zip?rlkey=z220f4idc2lblrwg5vt2duc5l&dl=0?raw=1",
+                  "dimensione_kb": 32661,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/coldline_listino_coldline_09-2021_it-pdf_2021-08-27_0704.zip"
+                },
+                {
+                  "nome": "listino-coldline-2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gqwtl47owlnrinanzxdoq/listino-coldline-2024.pdf?rlkey=bqu2ao69bep3rcfldr2mpd8gm&dl=0?raw=1",
+                  "dimensione_kb": 27155,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/listino-coldline-2024.pdf"
+                },
+                {
+                  "nome": "listino-vision-2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xb1pcamd2fvnousvqeo49/listino-vision-2024.pdf?rlkey=wt085jqt5xz3yf6g1i58tlxb6&dl=0?raw=1",
+                  "dimensione_kb": 10874,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/listino-vision-2024.pdf"
+                },
+                {
+                  "nome": "listino_coldline_2-2022_it.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qhy4h3crffgybu5owpgbs/listino_coldline_2-2022_it.pdf?rlkey=qz0ecnedo6ekjvysutbbd18vk&dl=0?raw=1",
+                  "dimensione_kb": 22824,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/listino_coldline_2-2022_it.pdf"
+                },
+                {
+                  "nome": "listino_coldline_5-2022_it.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vtbt8zs99611yfappiq55/listino_coldline_5-2022_it.pdf?rlkey=u58f18875r3u04ez1oheb1pap&dl=0?raw=1",
+                  "dimensione_kb": 22831,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/listino_coldline_5-2022_it.pdf"
+                },
+                {
+                  "nome": "listino_vision_2-2022_it.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rj9euo1zhsu1jasgbvt8b/listino_vision_2-2022_it.pdf?rlkey=lrvitt8tvyurg26rnkt5qgkbt&dl=0?raw=1",
+                  "dimensione_kb": 9656,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/listino_vision_2-2022_it.pdf"
+                },
+                {
+                  "nome": "listino_vision_5-2022_it.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gi8ysb0qfhkajhrwqlzlm/listino_vision_5-2022_it.pdf?rlkey=2rq5kba19h5yc24uxr1pu31wv&dl=0?raw=1",
+                  "dimensione_kb": 9676,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE ARCHIVIO/listino_vision_5-2022_it.pdf"
+                }
+              ],
+              "_totale_file": 23
+            },
+            {
               "nome": "COLDLINE AREA TECNICA",
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA",
               "cartelle": [],
               "file": [
-                {
-                  "nome": "A140-2BE.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/xzbpxtqpsknj57vvv1ydd/A140-2BE.pdf?rlkey=p5af8vxpoygeul9dj0aehvzag&dl=0?raw=1",
-                  "dimensione_kb": 101,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/A140-2BE.pdf"
-                },
-                {
-                  "nome": "A140-2ME.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/2kzit3hs0snikmhtdy4hj/A140-2ME.pdf?rlkey=kz3xep42jzdjwx0layalakkia&dl=0?raw=1",
-                  "dimensione_kb": 98,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/A140-2ME.pdf"
-                },
-                {
-                  "nome": "A70-1BE.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/m4gs4vlendqpnefzpy9dn/A70-1BE.pdf?rlkey=26pvedu813zne4d588lmnt0gw&dl=0?raw=1",
-                  "dimensione_kb": 96,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/A70-1BE.pdf"
-                },
-                {
-                  "nome": "A70-1ME.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/afeq5pi0gp37x8wpjo4mu/A70-1ME.pdf?rlkey=7ewdgotpxuex0ybl34ijc5fef&dl=0?raw=1",
-                  "dimensione_kb": 96,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/A70-1ME.pdf"
-                },
                 {
                   "nome": "COLD LINE ESPLOSO ABBATTITORE W5TGO.pdf",
                   "tipo": "PDF",
@@ -154540,6 +154556,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/COLD LINE Y110506040-6-Lista parametri armadi B - XW30LR (doppia unità).pdf"
                 },
                 {
+                  "nome": "COLDLINE C16600001001-C - Manuale a corredo Balance 11_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gov408fz6aluyff2c072e/COLDLINE-C16600001001-C-Manuale-a-corredo-Balance-11_05_2026.pdf?rlkey=9yv4t4cflnecxlx4mkhzaphal&dl=0?raw=1",
+                  "dimensione_kb": 20378,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/COLDLINE C16600001001-C - Manuale a corredo Balance 11_05_2026.pdf"
+                },
+                {
                   "nome": "COLDLINE ESPLOSO EV-A12070200101-A-Armadio Smart 700 lt -2°+8°C 1 porta.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -154596,6 +154620,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/COLDLINE SCHEMA ELETTRICO E24010952001_G_Cablaggio_quadro_elettrico_W5_W6_W7_Modi_Vision_Levtronic.pdf"
                 },
                 {
+                  "nome": "COLDLINE manuale abbattitori.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/p01es1i2nhhvalcr1wsd8/COLDLINE-manuale-abbattitori.pdf?rlkey=yf6lay5p8fnusfnlhz0lyo3qr&dl=0?raw=1",
+                  "dimensione_kb": 1409,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/COLDLINE manuale abbattitori.pdf"
+                },
+                {
                   "nome": "Y11050202001-D-Lista parametri armadi 07 M - XW30LR.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -154620,15 +154652,71 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/Y40000009001-B-Manuale installazione modulo Cosmo Wifi.pdf"
                 },
                 {
+                  "nome": "Y40000009001-D-Manuale installazione modulo Cosmo Wifi.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/it6i8n5srbqchfgj0rlv3/Y40000009001-D-Manuale-installazione-modulo-Cosmo-Wifi.pdf?rlkey=qg1ibxxqht9q5hh7asi330a9b&dl=0?raw=1",
+                  "dimensione_kb": 1222,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/Y40000009001-D-Manuale installazione modulo Cosmo Wifi.pdf"
+                },
+                {
                   "nome": "Y43000002801-E-Istruzioni installazione pannello Cosmo.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/ep0yojngz10vmsnc94bxo/Y43000002801-E-Istruzioni-installazione-pannello-Cosmo.pdf?rlkey=rppmvjpc4mz7e1srv5uq01ho2&dl=0?raw=1",
                   "dimensione_kb": 3540,
                   "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/Y43000002801-E-Istruzioni installazione pannello Cosmo.pdf"
+                },
+                {
+                  "nome": "manuale-modi-levtronic-5-lingue.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/470uqc665wofupbtx7xqz/manuale-modi-levtronic-5-lingue.pdf?rlkey=hezcdirsp9ugp13r0sf1b8hwm&dl=0?raw=1",
+                  "dimensione_kb": 7151,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/manuale-modi-levtronic-5-lingue.pdf"
+                },
+                {
+                  "nome": "manuale-modi-levtronic-5-lingue_1.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/blc52cipzxioqwqbi4o5g/manuale-modi-levtronic-5-lingue_1.pdf?rlkey=14o67nk1xr6zr0wi7toncnakw&dl=0?raw=1",
+                  "dimensione_kb": 7151,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/manuale-modi-levtronic-5-lingue_1.pdf"
+                },
+                {
+                  "nome": "manuale-vision-5-lingue.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zp84gc8mjjq6eyl19htpv/manuale-vision-5-lingue.pdf?rlkey=ir9ftuznm194z0y97o561l74e&dl=0?raw=1",
+                  "dimensione_kb": 9985,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/manuale-vision-5-lingue.pdf"
+                },
+                {
+                  "nome": "manuale_armadi_tavoli_5_lingue.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3gfe8miame85tmk879fjq/manuale_armadi_tavoli_5_lingue.pdf?rlkey=7u158bqgb8gbsucz0q6pe2owx&dl=0?raw=1",
+                  "dimensione_kb": 3417,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/manuale_armadi_tavoli_5_lingue.pdf"
+                },
+                {
+                  "nome": "manuale_vetrine_5_lingue.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vlmt2msvqlf9fayird7wj/manuale_vetrine_5_lingue.pdf?rlkey=4meq85z7qg9sffpmkz25dnfw3&dl=0?raw=1",
+                  "dimensione_kb": 2673,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/manuale_vetrine_5_lingue.pdf"
+                },
+                {
+                  "nome": "wetransfer_01-w5-w6-firmware-v124_2025-07-21_0753.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/07a2loer9ofvql4n1sy1l/wetransfer_01-w5-w6-firmware-v124_2025-07-21_0753.zip?rlkey=lwhzsl3eywitqk7qp36uiypv7&dl=0?raw=1",
+                  "dimensione_kb": 51184,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/wetransfer_01-w5-w6-firmware-v124_2025-07-21_0753.zip"
                 }
               ],
-              "_totale_file": 24
+              "_totale_file": 29
             },
             {
               "nome": "COLDLINE COPIA FATTURA",
@@ -154687,25 +154775,49 @@
               "_totale_file": 2
             },
             {
-              "nome": "COLDLINE MANUALI E SCHEDE TECNICHE",
-              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE",
+              "nome": "COLDLINE SCHEDE TECNICHE",
+              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE",
               "cartelle": [],
               "file": [
+                {
+                  "nome": "A140-2BE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xzbpxtqpsknj57vvv1ydd/A140-2BE.pdf?rlkey=p5af8vxpoygeul9dj0aehvzag&dl=0?raw=1",
+                  "dimensione_kb": 101,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/A140-2BE.pdf"
+                },
+                {
+                  "nome": "A140-2ME.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2kzit3hs0snikmhtdy4hj/A140-2ME.pdf?rlkey=kz3xep42jzdjwx0layalakkia&dl=0?raw=1",
+                  "dimensione_kb": 98,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/A140-2ME.pdf"
+                },
+                {
+                  "nome": "A70-1BE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m4gs4vlendqpnefzpy9dn/A70-1BE.pdf?rlkey=26pvedu813zne4d588lmnt0gw&dl=0?raw=1",
+                  "dimensione_kb": 96,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/A70-1BE.pdf"
+                },
+                {
+                  "nome": "A70-1ME.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/afeq5pi0gp37x8wpjo4mu/A70-1ME.pdf?rlkey=7ewdgotpxuex0ybl34ijc5fef&dl=0?raw=1",
+                  "dimensione_kb": 96,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/A70-1ME.pdf"
+                },
                 {
                   "nome": "COLDLINE ABBATTITORE MODI UP W5U 60X40.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/azb482exy9drejhu9c6dh/COLDLINE-ABBATTITORE-MODI-UP-W5U-60X40.pdf?rlkey=d0bjbuyeomugclsdcf95bdlno&dl=0?raw=1",
                   "dimensione_kb": 100,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/COLDLINE ABBATTITORE MODI UP W5U 60X40.pdf"
-                },
-                {
-                  "nome": "COLDLINE C16600001001-C - Manuale a corredo Balance 11_05_2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/gov408fz6aluyff2c072e/COLDLINE-C16600001001-C-Manuale-a-corredo-Balance-11_05_2026.pdf?rlkey=9yv4t4cflnecxlx4mkhzaphal&dl=0?raw=1",
-                  "dimensione_kb": 20378,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/COLDLINE C16600001001-C - Manuale a corredo Balance 11_05_2026.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/COLDLINE ABBATTITORE MODI UP W5U 60X40.pdf"
                 },
                 {
                   "nome": "COLDLINE SCHEDA ARMADIO SMART 1400 -2+8.pdf",
@@ -154713,7 +154825,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/aezz2yewe4w883qihqslg/COLDLINE-SCHEDA-ARMADIO-SMART-1400-2-8.pdf?rlkey=eqp7b53y3947oghzt4yh5guya&dl=0?raw=1",
                   "dimensione_kb": 110,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/COLDLINE SCHEDA ARMADIO SMART 1400 -2+8.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/COLDLINE SCHEDA ARMADIO SMART 1400 -2+8.pdf"
                 },
                 {
                   "nome": "COLDLINE SCHEDA ARMADIO SMART 700 -18-22°C.pdf",
@@ -154721,7 +154833,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/s2ezzm2hl5az7ybkegc50/COLDLINE-SCHEDA-ARMADIO-SMART-700-18-22-C.pdf?rlkey=4t3q0fm7mbnpnahk048r2kk3e&dl=0?raw=1",
                   "dimensione_kb": 148,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/COLDLINE SCHEDA ARMADIO SMART 700 -18-22°C.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/COLDLINE SCHEDA ARMADIO SMART 700 -18-22°C.pdf"
                 },
                 {
                   "nome": "COLDLINE SCHEDA ARMADIO SMART 700 -2+8.pdf",
@@ -154729,7 +154841,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/ulsc5vtz7apobld2kjdec/COLDLINE-SCHEDA-ARMADIO-SMART-700-2-8.pdf?rlkey=3lue1hfoug4kvhlpvjpgvcx0a&dl=0?raw=1",
                   "dimensione_kb": 98,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/COLDLINE SCHEDA ARMADIO SMART 700 -2+8.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/COLDLINE SCHEDA ARMADIO SMART 700 -2+8.pdf"
                 },
                 {
                   "nome": "COLDLINE SCHEDA TECNICA ABBATTITORE 5 TEGLEI 1 1GN.pdf",
@@ -154737,7 +154849,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/crwvs2wp5966a2eeerc92/COLDLINE-SCHEDA-TECNICA-ABBATTITORE-5-TEGLEI-1-1GN.pdf?rlkey=s3zl37jnttvlr8nqaqu2y7wco&dl=0?raw=1",
                   "dimensione_kb": 796,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/COLDLINE SCHEDA TECNICA ABBATTITORE 5 TEGLEI 1 1GN.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/COLDLINE SCHEDA TECNICA ABBATTITORE 5 TEGLEI 1 1GN.pdf"
                 },
                 {
                   "nome": "COLDLINE SCHEDA TECNICA ARMADIO CONGELATORE 1400 -18-22°C.pdf",
@@ -154745,15 +154857,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/m6ithtc5wafhdrxl9jr2e/COLDLINE-SCHEDA-TECNICA-ARMADIO-CONGELATORE-1400-18-22-C.pdf?rlkey=kmsiv90j75r75ww0l6242nndy&dl=0?raw=1",
                   "dimensione_kb": 100,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/COLDLINE SCHEDA TECNICA ARMADIO CONGELATORE 1400 -18-22°C.pdf"
-                },
-                {
-                  "nome": "COLDLINE manuale abbattitori.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/p01es1i2nhhvalcr1wsd8/COLDLINE-manuale-abbattitori.pdf?rlkey=yf6lay5p8fnusfnlhz0lyo3qr&dl=0?raw=1",
-                  "dimensione_kb": 1409,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/COLDLINE manuale abbattitori.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/COLDLINE SCHEDA TECNICA ARMADIO CONGELATORE 1400 -18-22°C.pdf"
                 },
                 {
                   "nome": "ISTITUTO SUPERIORE DI SANITA' TEMPI DI CONGELAMENTO.pdf",
@@ -154761,7 +154865,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/a8br1r9t0w1chh1j0pmgf/ISTITUTO-SUPERIORE-DI-SANITA-TEMPI-DI-CONGELAMENTO.pdf?rlkey=aeudf7j34hf61nfnfy9iztnfh&dl=0?raw=1",
                   "dimensione_kb": 38,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/ISTITUTO SUPERIORE DI SANITA' TEMPI DI CONGELAMENTO.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/ISTITUTO SUPERIORE DI SANITA' TEMPI DI CONGELAMENTO.pdf"
                 },
                 {
                   "nome": "SCHEDA ABBATTITORE W3AG.pdf",
@@ -154769,7 +154873,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/flukrqevucstsrbic7zza/SCHEDA-ABBATTITORE-W3AG.pdf?rlkey=v3sn5ckvpaw3bllkha0soauoe&dl=0?raw=1",
                   "dimensione_kb": 78,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/SCHEDA ABBATTITORE W3AG.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/SCHEDA ABBATTITORE W3AG.pdf"
                 },
                 {
                   "nome": "TA13-1ME-710.pdf",
@@ -154777,7 +154881,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/2i1j58jtue1vifklkecns/TA13-1ME-710.pdf?rlkey=uhkqnt63y0b56yx7l23p0msef&dl=0?raw=1",
                   "dimensione_kb": 105,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/TA13-1ME-710.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/TA13-1ME-710.pdf"
                 },
                 {
                   "nome": "TA17-1ME-710.pdf",
@@ -154785,7 +154889,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/mxaim7gu5f1zdzdyjn0wb/TA17-1ME-710.pdf?rlkey=mf7wch1fsi0hzegkjb31sfmcp&dl=0?raw=1",
                   "dimensione_kb": 112,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/TA17-1ME-710.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/TA17-1ME-710.pdf"
                 },
                 {
                   "nome": "W5U.pdf",
@@ -154793,7 +154897,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/yi4h4y5xojd363t8yno9i/W5U.pdf?rlkey=30cfsbdpz8vlu0ymfiw66p2er&dl=0?raw=1",
                   "dimensione_kb": 107,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/W5U.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/W5U.pdf"
                 },
                 {
                   "nome": "W5UG-P.pdf",
@@ -154801,7 +154905,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/j9fm3nv1c240v1iz1bv6l/W5UG-P.pdf?rlkey=1nwmhzj9n9eg5w8pip1yz6l1h&dl=0?raw=1",
                   "dimensione_kb": 109,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/W5UG-P.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/W5UG-P.pdf"
                 },
                 {
                   "nome": "W5UG.pdf",
@@ -154809,50 +154913,34 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/bp9su2ugmn9ozujff54sd/W5UG.pdf?rlkey=egcmyanspvbslxcwmbqqtdczm&dl=0?raw=1",
                   "dimensione_kb": 109,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/W5UG.pdf"
-                },
-                {
-                  "nome": "manuale-modi-levtronic-5-lingue.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/470uqc665wofupbtx7xqz/manuale-modi-levtronic-5-lingue.pdf?rlkey=hezcdirsp9ugp13r0sf1b8hwm&dl=0?raw=1",
-                  "dimensione_kb": 7151,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/manuale-modi-levtronic-5-lingue.pdf"
-                },
-                {
-                  "nome": "manuale-modi-levtronic-5-lingue_1.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/blc52cipzxioqwqbi4o5g/manuale-modi-levtronic-5-lingue_1.pdf?rlkey=14o67nk1xr6zr0wi7toncnakw&dl=0?raw=1",
-                  "dimensione_kb": 7151,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/manuale-modi-levtronic-5-lingue_1.pdf"
-                },
-                {
-                  "nome": "manuale-vision-5-lingue.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/zp84gc8mjjq6eyl19htpv/manuale-vision-5-lingue.pdf?rlkey=ir9ftuznm194z0y97o561l74e&dl=0?raw=1",
-                  "dimensione_kb": 9985,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/manuale-vision-5-lingue.pdf"
-                },
-                {
-                  "nome": "manuale_armadi_tavoli_5_lingue.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/3gfe8miame85tmk879fjq/manuale_armadi_tavoli_5_lingue.pdf?rlkey=7u158bqgb8gbsucz0q6pe2owx&dl=0?raw=1",
-                  "dimensione_kb": 3417,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/manuale_armadi_tavoli_5_lingue.pdf"
-                },
-                {
-                  "nome": "manuale_vetrine_5_lingue.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/vlmt2msvqlf9fayird7wj/manuale_vetrine_5_lingue.pdf?rlkey=4meq85z7qg9sffpmkz25dnfw3&dl=0?raw=1",
-                  "dimensione_kb": 2673,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE MANUALI E SCHEDE TECNICHE/manuale_vetrine_5_lingue.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SCHEDE TECNICHE/W5UG.pdf"
                 }
               ],
-              "_totale_file": 20
+              "_totale_file": 17
+            },
+            {
+              "nome": "COLDLINE SITUAZIONE CONTABILE",
+              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SITUAZIONE CONTABILE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "COLDLINE SCHEDA CONTABILE 01_01_2025 AL 1_12_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dygu17rfrgbojtw1mq0vx/COLDLINE-SCHEDA-CONTABILE-01_01_2025-AL-1_12_2025.pdf?rlkey=1lhudrkhedlsjliczhc1r9ssf&dl=0?raw=1",
+                  "dimensione_kb": 121,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SITUAZIONE CONTABILE/COLDLINE SCHEDA CONTABILE 01_01_2025 AL 1_12_2025.pdf"
+                },
+                {
+                  "nome": "COLDLINE SITUAZIONE CONTABILE AL 20_11_2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qy1i7a1wgkb7swz7cbjh8/COLDLINE-SITUAZIONE-CONTABILE-AL-20_11_2025.pdf?rlkey=6vg45p055abci9qsmo5xj0ng9&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE SITUAZIONE CONTABILE/COLDLINE SITUAZIONE CONTABILE AL 20_11_2025.pdf"
+                }
+              ],
+              "_totale_file": 2
             },
             {
               "nome": "Documenti inviati per App",
@@ -155114,14 +155202,6 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE CONDIZIONI SPECIALI GIUGNO 2023.docx"
             },
             {
-              "nome": "COLDLINE Offerta n°23-05485 (1).pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/yitfjk6bd5t0te3wzb2h1/COLDLINE-Offerta-n-23-05485-1.pdf?rlkey=xpnmzuw2kwdj7ew1qjvsls86f&dl=0?raw=1",
-              "dimensione_kb": 113,
-              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE Offerta n°23-05485 (1).pdf"
-            },
-            {
               "nome": "Gmail - Nuovi Orari Front Office e Magazzino.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -155152,41 +155232,9 @@
               "link": "https://www.dropbox.com/scl/fi/h54h0vfmhxqcu9urez9ot/Offerta-Sigep-25-19.12.24.pdf?rlkey=amp4fysqsinev1zj2r12iu6l1&dl=0?raw=1",
               "dimensione_kb": 1074,
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/Offerta Sigep 25 - 19.12.24.pdf"
-            },
-            {
-              "nome": "Y40000009001-D-Manuale installazione modulo Cosmo Wifi.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/it6i8n5srbqchfgj0rlv3/Y40000009001-D-Manuale-installazione-modulo-Cosmo-Wifi.pdf?rlkey=qg1ibxxqht9q5hh7asi330a9b&dl=0?raw=1",
-              "dimensione_kb": 1222,
-              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/Y40000009001-D-Manuale installazione modulo Cosmo Wifi.pdf"
-            },
-            {
-              "nome": "listino-coldline-2024.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gqwtl47owlnrinanzxdoq/listino-coldline-2024.pdf?rlkey=bqu2ao69bep3rcfldr2mpd8gm&dl=0?raw=1",
-              "dimensione_kb": 27155,
-              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/listino-coldline-2024.pdf"
-            },
-            {
-              "nome": "listino-vision-2024.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xb1pcamd2fvnousvqeo49/listino-vision-2024.pdf?rlkey=wt085jqt5xz3yf6g1i58tlxb6&dl=0?raw=1",
-              "dimensione_kb": 10874,
-              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/listino-vision-2024.pdf"
-            },
-            {
-              "nome": "wetransfer_01-w5-w6-firmware-v124_2025-07-21_0753.zip",
-              "tipo": "Archivio",
-              "icona": "🗜️",
-              "link": "https://www.dropbox.com/scl/fi/07a2loer9ofvql4n1sy1l/wetransfer_01-w5-w6-firmware-v124_2025-07-21_0753.zip?rlkey=lwhzsl3eywitqk7qp36uiypv7&dl=0?raw=1",
-              "dimensione_kb": 51184,
-              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/wetransfer_01-w5-w6-firmware-v124_2025-07-21_0753.zip"
             }
           ],
-          "_totale_file": 111
+          "_totale_file": 112
         },
         {
           "nome": "COLDMARK",
@@ -179791,15 +179839,31 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "FMPG-2020_2006025020_99999999-560037101M00P00.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z3k0qvulw9kki254z5zwl/FMPG-2020_2006025020_99999999-560037101M00P00.pdf?rlkey=fvqyvj77gfn8ep9ghw1hbyfh3&dl=0?raw=1",
+                  "dimensione_kb": 3741,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/LOTUS AREA TECNICA/FMPG-2020_2006025020_99999999-560037101M00P00.pdf"
+                },
+                {
                   "nome": "FPE-2520_2006025020_99999999.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/m7zjpidyjidxn0erha36m/FPE-2520_2006025020_99999999.pdf?rlkey=ee8pzzteqbbtfl1v1l6fd7ryr&dl=0?raw=1",
                   "dimensione_kb": 3066,
                   "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/LOTUS AREA TECNICA/FPE-2520_2006025020_99999999.pdf"
+                },
+                {
+                  "nome": "FREELOTUS GAS _ita MANUALI DI ISTRUZIONE.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/4r9gvwgl4iwbwokg1mt43/FREELOTUS-GAS-_ita-MANUALI-DI-ISTRUZIONE.zip?rlkey=apngbns61vpyf2quxvc70rh1k&dl=0?raw=1",
+                  "dimensione_kb": 9059,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/LOTUS AREA TECNICA/FREELOTUS GAS _ita MANUALI DI ISTRUZIONE.zip"
                 }
               ],
-              "_totale_file": 1
+              "_totale_file": 3
             },
             {
               "nome": "LOTUS SCHEDE TECNICHE",
@@ -179852,7 +179916,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/LOTUS/100.LOTUS LISTINO Cookers 04_2026 low.pdf"
             }
           ],
-          "_totale_file": 22
+          "_totale_file": 24
         },
         {
           "nome": "LS TRASPORTI",
