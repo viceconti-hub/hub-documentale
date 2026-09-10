@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-10T02:21:16Z",
-  "totale_file": 26730,
+  "generato": "2026-09-10T05:34:17Z",
+  "totale_file": 26748,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7005,
+      "totale_file": 7023,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1702,6 +1702,22 @@
               "link": "https://www.dropbox.com/scl/fi/gof2ht6wce3rjguqelneq/GIOIA-AURELIO-Consegna_260409_20260615_100900-RIF.-TEGLIA-IN-LAMIERA-BLU-Basato-su-Offerte-di-vendita-260183.-B.pdf?rlkey=bdsji1rjyo8s0qpbk3j29lpxi&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GIOIA AURELIO Consegna_260409_20260615_100900 RIF. TEGLIA IN LAMIERA BLU Basato su Offerte di vendita 260183. B.pdf"
+            },
+            {
+              "nome": "GIOIA AURELIO Consegna_260815_20260907_181852 RIF. WEIZEN BICCHIERE 0,3 (CL.40,7) B6K4NG16 147168 Basato su Ordini cliente 260437..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vec5ktkd0p83xo5zgx45e/GIOIA-AURELIO-Consegna_260815_20260907_181852-RIF.-WEIZEN-BICCHIERE-0-3-CL.40-7-B6K4NG16-147168-Basato-su-Ordini-cliente-260437..pdf?rlkey=r2q6u0rftah62z3w1dkuvve6i&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GIOIA AURELIO Consegna_260815_20260907_181852 RIF. WEIZEN BICCHIERE 0,3 (CL.40,7) B6K4NG16 147168 Basato su Ordini cliente 260437..pdf"
+            },
+            {
+              "nome": "GIOIA AURELIO Consegna_260816_20260907_195639 RIF. TERMOSTATO DI LAVORO PER FRIGGITRICE FIMAR FR 8 Basato su Offerte di vendita.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rzrav3e0lnz1uwiwdgrzj/GIOIA-AURELIO-Consegna_260816_20260907_195639-RIF.-TERMOSTATO-DI-LAVORO-PER-FRIGGITRICE-FIMAR-FR-8-Basato-su-Offerte-di-vendita.pdf?rlkey=zzlezb93fr3vzzyt727abez1n&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GIOIA AURELIO Consegna_260816_20260907_195639 RIF. TERMOSTATO DI LAVORO PER FRIGGITRICE FIMAR FR 8 Basato su Offerte di vendita.pdf"
             },
             {
               "nome": "GMT srl unipersonale Consegna_260538_20260705_211615 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE INTERRUTTO.pdf",
@@ -4552,7 +4568,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 567
+          "_totale_file": 569
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -7072,6 +7088,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/RICCIARDI MARIA PIERINA Fattura di vendita_2600403_20260820_121333 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE Basato su Offerte di vendita 260355..pdf"
             },
             {
+              "nome": "RINALDI SRLS Fattura di vendita_2300554_20260909_161518 RIF. ABBATTITORE + CAPPA Basato su Consegne 200622. 200944. 231200..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ees7x2qbyiz0mdc56u5kn/RINALDI-SRLS-Fattura-di-vendita_2300554_20260909_161518-RIF.-ABBATTITORE-CAPPA-Basato-su-Consegne-200622.-200944.-231200..pdf?rlkey=3rgd4zpf84j2sktz9gbadbpjh&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/RINALDI SRLS Fattura di vendita_2300554_20260909_161518 RIF. ABBATTITORE + CAPPA Basato su Consegne 200622. 200944. 231200..pdf"
+            },
+            {
               "nome": "RISTO BRACERIA A L'URMO SNC di IANNELLI OTTAVIO & C. Fattura di vendita_2600162_20260604_161201 RIF. ASSISTENZA SU Griglia TecnoInox modello GR70E-0, matricola 3.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -7728,7 +7752,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600463_20260831_203815 RIF. GUIDE E GRIGLIA PER ARMADIO COLDLINE Basato su Ordini cliente 260288. Basato su.pdf"
             }
           ],
-          "_totale_file": 396
+          "_totale_file": 397
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -7758,6 +7782,14 @@
               "link": "https://www.dropbox.com/scl/fi/hreygj654s6gwm7uw4yqr/4.0-SRLS-YUMARA-Offerta-di-vendita_260257_20260710_090940.pdf?rlkey=slk9hnj8ouum9to4tcla8srj1&dl=0?raw=1",
               "dimensione_kb": 78,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/4.0 SRLS YUMARA Offerta di vendita_260257_20260710_090940.pdf"
+            },
+            {
+              "nome": "A.M. di Antonella Mancino s.a.s. CABOSSA Offerta di vendita_260422_20260909_132514 RIF. LAVAOGGETTI ARISTARCO HER PRO COMPACT 60.40 - COMANDI ELETTRONICI EPI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/p1iq6udc1wh827jbpo2k5/A.M.-di-Antonella-Mancino-s.a.s.-CABOSSA-Offerta-di-vendita_260422_20260909_132514-RIF.-LAVAOGGETTI-ARISTARCO-HER-PRO-COMPACT-60.40-COMANDI-ELETTRONICI-EPI.pdf?rlkey=pccnll7vbov97dses0scgxkgq&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/A.M. di Antonella Mancino s.a.s. CABOSSA Offerta di vendita_260422_20260909_132514 RIF. LAVAOGGETTI ARISTARCO HER PRO COMPACT 60.40 - COMANDI ELETTRONICI EPI.pdf"
             },
             {
               "nome": "AGRITURISMO COCCOVELLO di DA SILVA SOUZA MARIA ALICE Offerta di vendita_260258_20260710_102449 RIF. MACINADOSATORE MD5000, OUTPUT GS 3,CAP.TRAMOGGIA KG1100, Ø M.pdf",
@@ -8632,6 +8664,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GIOIA AURELIO Offerta di vendita_260338_20260804_132449 RIF. WEIZEN BICCHIERE 0,3 (CL.40,7) B6K4NG16 147168.pdf"
             },
             {
+              "nome": "GIOIA AURELIO Offerta di vendita_260420_20260907_181801.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/l3b8l1orvero5cwb40wkj/GIOIA-AURELIO-Offerta-di-vendita_260420_20260907_181801.pdf?rlkey=xkjb10qex7kivfsijiyvr8hcr&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GIOIA AURELIO Offerta di vendita_260420_20260907_181801.pdf"
+            },
+            {
+              "nome": "GIOIA AURELIO Offerta di vendita_260421_20260907_182307 RIF. TERMOSTATO DI LAVORO PER FRIGGITRICE FIMAR FR 8.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8gbbv4dej5kog9mki576y/GIOIA-AURELIO-Offerta-di-vendita_260421_20260907_182307-RIF.-TERMOSTATO-DI-LAVORO-PER-FRIGGITRICE-FIMAR-FR-8.pdf?rlkey=hph1wmc5t9uh344neuqm0f4g4&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GIOIA AURELIO Offerta di vendita_260421_20260907_182307 RIF. TERMOSTATO DI LAVORO PER FRIGGITRICE FIMAR FR 8.pdf"
+            },
+            {
               "nome": "GMT srl unipersonale Offerta di vendita_260207_20260609_104712 RIF. PALA ZIO PEPE 4 STAGIONI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9024,12 +9072,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260346_20260906_220354.pdf"
             },
             {
-              "nome": "MACELLERIA COSENTINO Offerta di vendita_260418_20260906_234310.pdf",
+              "nome": "MACELLERIA COSENTINO Offerta di vendita_260418_20260908_150106.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/g8vmufp0c7956gof9qruu/MACELLERIA-COSENTINO-Offerta-di-vendita_260418_20260906_234310.pdf?rlkey=fpsup69lfrhfm6d3oprjbhjlf&dl=0?raw=1",
-              "dimensione_kb": 96,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260418_20260906_234310.pdf"
+              "link": "https://www.dropbox.com/scl/fi/kgntj9nza7uernd6i27m9/MACELLERIA-COSENTINO-Offerta-di-vendita_260418_20260908_150106.pdf?rlkey=pspz6bid9yrllkwk1n9dwsess&dl=0?raw=1",
+              "dimensione_kb": 111,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260418_20260908_150106.pdf"
             },
             {
               "nome": "MADI SNC di DISMA CASELLA & C. Offerta di vendita_260278_20260722_160656 RIF. POSATE CONCA.pdf",
@@ -9408,6 +9456,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RICCIARDI MARIA PIERINA Offerta di vendita_260355_20260820_121249 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE.pdf"
             },
             {
+              "nome": "RINTELLI GIOVANNI Offerta di vendita_260419_20260907_180512.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gxnkggdsjmukbe1nk62z0/RINTELLI-GIOVANNI-Offerta-di-vendita_260419_20260907_180512.pdf?rlkey=93c07yjcdx3w6ad6woygryy1n&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RINTELLI GIOVANNI Offerta di vendita_260419_20260907_180512.pdf"
+            },
+            {
               "nome": "RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA Offerta di vendita_260348_20260811_172444 RIF. COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANC.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9672,7 +9728,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 242
+          "_totale_file": 246
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -11733,6 +11789,54 @@
                 }
               ],
               "_totale_file": 3
+            },
+            {
+              "nome": "2026_09_09 A.M. di Antonella Mancino s.a.s. CABOSSA LAVAOGGETTI",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_09 A.M. di Antonella Mancino s.a.s. CABOSSA LAVAOGGETTI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ARISTARCO PAGINE LISTINO Type-4255_4355_HER-PRO-COMPACT-60.40_ED06_2026_IT.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cw7v8e625z5un014t708h/ARISTARCO-PAGINE-LISTINO-Type-4255_4355_HER-PRO-COMPACT-60.40_ED06_2026_IT.pdf?rlkey=bfqwfadhj8mpnq500y9qed95z&dl=0?raw=1",
+                  "dimensione_kb": 390,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_09 A.M. di Antonella Mancino s.a.s. CABOSSA LAVAOGGETTI/ARISTARCO PAGINE LISTINO Type-4255_4355_HER-PRO-COMPACT-60.40_ED06_2026_IT.pdf"
+                },
+                {
+                  "nome": "ARISTARCO SCHEDA TECNICA Type-4255_4355_HER-PRO-COMPACT-60.40_ED06_2026_IT.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xdo4npj4wpf1ob43rv7tu/ARISTARCO-SCHEDA-TECNICA-Type-4255_4355_HER-PRO-COMPACT-60.40_ED06_2026_IT.pdf?rlkey=szqvtpc945e9vo3h97rs80zq8&dl=0?raw=1",
+                  "dimensione_kb": 371,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_09 A.M. di Antonella Mancino s.a.s. CABOSSA LAVAOGGETTI/ARISTARCO SCHEDA TECNICA Type-4255_4355_HER-PRO-COMPACT-60.40_ED06_2026_IT.pdf"
+                }
+              ],
+              "_totale_file": 2
+            },
+            {
+              "nome": "2026_09_09 CLIENTE WEB UGELLI LOTUS",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_09 CLIENTE WEB UGELLI LOTUS",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "F213T-78G20_2006025020_9999.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mv2pgrq7k4x697vnheoym/F213T-78G20_2006025020_9999.pdf?rlkey=gkgo6cm1otenqrwk2mgtoexoe&dl=0?raw=1",
+                  "dimensione_kb": 6912,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_09 CLIENTE WEB UGELLI LOTUS/F213T-78G20_2006025020_9999.pdf"
+                },
+                {
+                  "nome": "FMPG-2020_2006025020_99999999.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i1jiv0l7wou0opk73omzm/FMPG-2020_2006025020_99999999.pdf?rlkey=po2s9apudozxbbvvjgz1zxmka&dl=0?raw=1",
+                  "dimensione_kb": 4628,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_09 CLIENTE WEB UGELLI LOTUS/FMPG-2020_2006025020_99999999.pdf"
+                }
+              ],
+              "_totale_file": 2
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -67867,7 +67971,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5493
+          "_totale_file": 5497
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -67993,6 +68097,14 @@
               "link": "https://www.dropbox.com/scl/fi/7xju5acir3iqp07f48fro/AGUA-LOCA-DI-D-IMPERIO-NICOLA-Ordine-cliente_260306_20260723_201057-RIF.-EXECUTIVE-CALICE-ACQUA-26-VC12KFNG16-QTA-60.pdf?rlkey=d3jhq0gt0c3imsgz3mz2xca3i&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260306_20260723_201057 RIF. EXECUTIVE CALICE ACQUA 26 VC12KFNG16 QTA' 60.pdf"
+            },
+            {
+              "nome": "AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260441_20260908_113133 RIF. PORZIONATORE GELATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/symoik1jdxwxjekquaqvb/AGUA-LOCA-DI-D-IMPERIO-NICOLA-Ordine-cliente_260441_20260908_113133-RIF.-PORZIONATORE-GELATO.pdf?rlkey=z8boq0chm61yynfx0wqpukkn5&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260441_20260908_113133 RIF. PORZIONATORE GELATO.pdf"
             },
             {
               "nome": "ANELLO MARATEA Ordine cliente_260350_20260803_165716 RIF. SEGA MACELLO.pdf",
@@ -68763,6 +68875,30 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GIOIA AURELIO Ordine cliente_260162_20260522_151910 RIF. TEGLIA IN LAMIERA BLU Basato su Offerte di vendita 260183..pdf"
             },
             {
+              "nome": "GIOIA AURELIO Ordine cliente_260437_20260907_181841 RIF. WEIZEN BICCHIERE 0,3 (CL.40,7) B6K4NG16 147168.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2asomgyoyghoxno30pcl6/GIOIA-AURELIO-Ordine-cliente_260437_20260907_181841-RIF.-WEIZEN-BICCHIERE-0-3-CL.40-7-B6K4NG16-147168.pdf?rlkey=vi4jord31dspwqbzdai05353i&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GIOIA AURELIO Ordine cliente_260437_20260907_181841 RIF. WEIZEN BICCHIERE 0,3 (CL.40,7) B6K4NG16 147168.pdf"
+            },
+            {
+              "nome": "GIOIA AURELIO Ordine cliente_260438_20260907_182112 RIF. PALINO DIAMETRO 20 NON FORATO Basato su Offerte di vendita 260420..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w9o6o1cty1jol8b6q7h55/GIOIA-AURELIO-Ordine-cliente_260438_20260907_182112-RIF.-PALINO-DIAMETRO-20-NON-FORATO-Basato-su-Offerte-di-vendita-260420..pdf?rlkey=vmly3iu6h3969dysti9ooiwio&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GIOIA AURELIO Ordine cliente_260438_20260907_182112 RIF. PALINO DIAMETRO 20 NON FORATO Basato su Offerte di vendita 260420..pdf"
+            },
+            {
+              "nome": "GIOIA AURELIO Ordine cliente_260439_20260907_195625 RIF. TERMOSTATO DI LAVORO PER FRIGGITRICE FIMAR FR 8 Basato su Offerte di vendita.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f1j833yn79bzhyzaogq8f/GIOIA-AURELIO-Ordine-cliente_260439_20260907_195625-RIF.-TERMOSTATO-DI-LAVORO-PER-FRIGGITRICE-FIMAR-FR-8-Basato-su-Offerte-di-vendita.pdf?rlkey=ynixqnofnshsgr0b6blx08nr5&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GIOIA AURELIO Ordine cliente_260439_20260907_195625 RIF. TERMOSTATO DI LAVORO PER FRIGGITRICE FIMAR FR 8 Basato su Offerte di vendita.pdf"
+            },
+            {
               "nome": "GRAN SOLE S.r.l. Ordine cliente_260178_20260530_100638 RIF. ACCESSORI PRESSO PUNTO VENDITA DI MARATEA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -68881,6 +69017,14 @@
               "link": "https://www.dropbox.com/scl/fi/1y9tplddl6vyv0u2w35vy/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Ordine-cliente_260433_20260904_120552-RIF.-DETERGENTE-LAVABICCHIERI.pdf?rlkey=q4g4a0sep453ivf83946l9ogv&dl=0?raw=1",
               "dimensione_kb": 57,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260433_20260904_120552 RIF. DETERGENTE LAVABICCHIERI.pdf"
+            },
+            {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260440_20260908_112748 RIF. SHAKER INOX KENTA ML.500 L0208.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wf6xurff4g9p4s6porkc0/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Ordine-cliente_260440_20260908_112748-RIF.-SHAKER-INOX-KENTA-ML.500-L0208.pdf?rlkey=fnn1e8o0ouuwwybf0kaqszlgu&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260440_20260908_112748 RIF. SHAKER INOX KENTA ML.500 L0208.pdf"
             },
             {
               "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Ordine cliente_260153_20260518_170835 RIF. Basato su Offerte di vendita 260173..pdf",
@@ -69635,6 +69779,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NEW BAR GRAN CAFFE' srls Ordine cliente_260234_20260625_113315 RIF. OFFERTA SPECIALE LAVABICCHIERI AF.35E MATRICOLA 94610036 Bas.pdf"
             },
             {
+              "nome": "NICHELE MASSIMO Ordine cliente_260442_20260909_113559 RIF. TEGLIA E GRIGLIE LIFE W30 PAGAMENTO PAYPAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0tgsr2sb1rhj19nyvz4ct/NICHELE-MASSIMO-Ordine-cliente_260442_20260909_113559-RIF.-TEGLIA-E-GRIGLIE-LIFE-W30-PAGAMENTO-PAYPAL.pdf?rlkey=cg8c2qx652ikujhn8unlz91ml&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NICHELE MASSIMO Ordine cliente_260442_20260909_113559 RIF. TEGLIA E GRIGLIE LIFE W30 PAGAMENTO PAYPAL.pdf"
+            },
+            {
               "nome": "OCTO SRLS Ordine cliente_260001_20260510_210215 RIF. prova.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69811,12 +69963,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PROVINCIA DI CAMPANIA BASILICATA DEI FRATI MINORI CAPPUCCINI Ordine cliente_260390_20260812_163032 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A,LAMA 20x22,5hcm,Ø1.pdf"
             },
             {
-              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260905_095936 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf",
+              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260907_171235 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/llwvy2apylzxe5gv34wp1/PUGLIESE-MATTIA-Ordine-cliente_260434_20260905_095936-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416..pdf?rlkey=r8stqy3tuefxecewudwuyqtgo&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/mda1r5qyslldxaqxi0t9b/PUGLIESE-MATTIA-Ordine-cliente_260434_20260907_171235-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416..pdf?rlkey=anvh85lpcw45k49lvmy685pcp&dl=0?raw=1",
               "dimensione_kb": 83,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260905_095936 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260907_171235 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf"
             },
             {
               "nome": "Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf",
@@ -69873,6 +70025,14 @@
               "link": "https://www.dropbox.com/scl/fi/0xx0qt0o2bq112qzjx55i/RICCIARDI-MARIA-PIERINA-Ordine-cliente_260403_20260820_121306-RIF.-AFFETTATRICE-ECO250-230V-50Hz-1PH-EXCE-Basato-su-Offerte-di-vendita-260355..pdf?rlkey=wf6xv9ycxm6gha0vgjuubj1m6&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RICCIARDI MARIA PIERINA Ordine cliente_260403_20260820_121306 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE Basato su Offerte di vendita 260355..pdf"
+            },
+            {
+              "nome": "RINALDI SRLS Ordine cliente_260444_20260909_170350 RIF. CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2zlgn3tpxrkyvw010fq77/RINALDI-SRLS-Ordine-cliente_260444_20260909_170350-RIF.-CAPPA-A-PARETE-SNACK-SENZA-MOTORE-COMPLETA-DI-FILTRI-A-LABIRINTO-PROF.900-3.pdf?rlkey=0t6zf5czwukn1c89d953o9jz7&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RINALDI SRLS Ordine cliente_260444_20260909_170350 RIF. CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3.pdf"
             },
             {
               "nome": "RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA Ordine cliente_260385_20260811_173456 RIF. COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANC.pdf",
@@ -70331,7 +70491,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 307
+          "_totale_file": 314
         }
       ],
       "file": []
