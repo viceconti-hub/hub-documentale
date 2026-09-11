@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-11T02:18:55Z",
-  "totale_file": 26853,
+  "generato": "2026-09-11T05:32:36Z",
+  "totale_file": 26861,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7023,
+      "totale_file": 7031,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -398,6 +398,14 @@
               "link": "https://www.dropbox.com/scl/fi/kcqnzlb5sv44223xpyerz/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Consegna_260654_20260731_165208-RIF.-DETERGENTE-LAVABICCHIERI-BRILLANTANTE-Basato-su-Ordini-clien.pdf?rlkey=r6iv2mcj9ya7w3opdi6zdgx6c&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Consegna_260654_20260731_165208 RIF. DETERGENTE LAVABICCHIERI BRILLANTANTE Basato su Ordini clien.pdf"
+            },
+            {
+              "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Consegna_260818_20260910_180100 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260445..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d4m2mfiiv1ojyd84iwz2u/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Consegna_260818_20260910_180100-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260445..pdf?rlkey=x6yabyd23rq1ee41s7pc3bbda&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Consegna_260818_20260910_180100 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260445..pdf"
             },
             {
               "nome": "BAR MILLE VOGLIE DI D'ANDREA SALVATORE ANDREA Consegna_260431_20260618_173047 RIF. Riempi Bigne' Inox Basato su Offerte di vendita 260111. Basa.pdf",
@@ -918,6 +926,14 @@
               "link": "https://www.dropbox.com/scl/fi/944onmglpl3sdnqij1d24/CIDO-SRL-Consegna_260473_20260626_082916-RIF.-ASSISTENZA-SU-ABBATTITORE-SOSTITUZIONE-INTERRUTTORE.pdf?rlkey=5yyiqiyp36uuegpo8agc9gwh2&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CIDO SRL Consegna_260473_20260626_082916 RIF. ASSISTENZA SU ABBATTITORE SOSTITUZIONE INTERRUTTORE.pdf"
+            },
+            {
+              "nome": "CITY IPER SCALEA s.r.l. Consegna_260817_20260910_103952 RIF. FLESSIBILE E PERGEL Basato su Ordini cliente 260446..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xmdd7tgtur5t7c7xtgylx/CITY-IPER-SCALEA-s.r.l.-Consegna_260817_20260910_103952-RIF.-FLESSIBILE-E-PERGEL-Basato-su-Ordini-cliente-260446..pdf?rlkey=9hapymnjulexkmmdvfwu00buy&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CITY IPER SCALEA s.r.l. Consegna_260817_20260910_103952 RIF. FLESSIBILE E PERGEL Basato su Ordini cliente 260446..pdf"
             },
             {
               "nome": "CITYBAR di MICELI A. & DI LASCIO V. SNC Consegna_260303_20260528_155930.pdf",
@@ -4568,7 +4584,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 569
+          "_totale_file": 571
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -4742,6 +4758,14 @@
               "link": "https://www.dropbox.com/scl/fi/5vee69mu5rxhija9s9clq/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Fattura-di-vendita_2600361_20260731_165220-RIF.-DETERGENTE-LAVABICCHIERI-BRILLANTANTE-Basato-su-Ordini-clien.pdf?rlkey=e9u6bk8zxzuor7fqm3wi0na8j&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Fattura di vendita_2600361_20260731_165220 RIF. DETERGENTE LAVABICCHIERI BRILLANTANTE Basato su Ordini clien.pdf"
+            },
+            {
+              "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Fattura di vendita_2600473_20260910_180112 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260445. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0lsvhclbj5xia5navrsl6/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Fattura-di-vendita_2600473_20260910_180112-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260445.-Basato-su-Consegne.pdf?rlkey=tl0f5hpr1306by8db94qbw9bv&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Fattura di vendita_2600473_20260910_180112 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260445. Basato su Consegne.pdf"
             },
             {
               "nome": "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Fattura di vendita_2600293_20260718_100524 RIF. Basato su Consegne 260530. 260531. 260570..pdf",
@@ -5038,6 +5062,14 @@
               "link": "https://www.dropbox.com/scl/fi/soc3fy4rr55nn6ao9wbdr/CIDO-SRL-Fattura-di-vendita_2600242_20260626_082928-RIF.-ASSISTENZA-SU-ABBATTITORE-SOSTITUZIONE-INTERRUTTORE-Basato-s.pdf?rlkey=p224wpe0y590lb7cq05yxyuj3&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/CIDO SRL Fattura di vendita_2600242_20260626_082928 RIF. ASSISTENZA SU ABBATTITORE SOSTITUZIONE INTERRUTTORE Basato s.pdf"
+            },
+            {
+              "nome": "CITY IPER SCALEA s.r.l. Fattura di vendita_2600472_20260910_104200 RIF. FLESSIBILE E PERGEL Basato su Ordini cliente 260446. Basato su Consegne 260817..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cfmeyzk1p81h2869ddmkn/CITY-IPER-SCALEA-s.r.l.-Fattura-di-vendita_2600472_20260910_104200-RIF.-FLESSIBILE-E-PERGEL-Basato-su-Ordini-cliente-260446.-Basato-su-Consegne-260817..pdf?rlkey=mizkw24e06sm40m922cj9632i&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/CITY IPER SCALEA s.r.l. Fattura di vendita_2600472_20260910_104200 RIF. FLESSIBILE E PERGEL Basato su Ordini cliente 260446. Basato su Consegne 260817..pdf"
             },
             {
               "nome": "CONVENTO FRATI MINORI CAPPUCCINI S.ANTONIO Fattura di vendita_2600467_20260902_174547 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A Basato su Offerte di vendita 260325..pdf",
@@ -7750,9 +7782,17 @@
               "link": "https://www.dropbox.com/scl/fi/413cwjkg5v7hf5njcmxaq/ZANI-STEFANO-Fattura-di-vendita_2600463_20260831_203815-RIF.-GUIDE-E-GRIGLIA-PER-ARMADIO-COLDLINE-Basato-su-Ordini-cliente-260288.-Basato-su.pdf?rlkey=vwrrpt6q63w3e2bsrm48kh3i5&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600463_20260831_203815 RIF. GUIDE E GRIGLIA PER ARMADIO COLDLINE Basato su Ordini cliente 260288. Basato su.pdf"
+            },
+            {
+              "nome": "ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hdbupta2hz8dx3pxsiqdi/ZANI-STEFANO-Fattura-di-vendita_2600471_20260909_193433-RIF.-COPPIA-GUIDE-ARMADIO-COLDLINE-Basato-su-Ordini-cliente-260260.-Basato-su.pdf?rlkey=lr2hrhe1jg1hsjqf1az94dfm3&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 397
+          "_totale_file": 400
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -8744,6 +8784,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Offerta di vendita_260349_20260811_173623 RIF. AFFILACOLTELLO MANUALE.pdf"
             },
             {
+              "nome": "HOTEL SAN RAFFAELE SRL Offerta di vendita_260423_20260910_184922 RIF. PREZZI PER NUOVO ORDINE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xnpwv2res4b9ool9hvrn7/HOTEL-SAN-RAFFAELE-SRL-Offerta-di-vendita_260423_20260910_184922-RIF.-PREZZI-PER-NUOVO-ORDINE.pdf?rlkey=am8nmvrv6s8b7egx6g1rq5tw5&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/HOTEL SAN RAFFAELE SRL Offerta di vendita_260423_20260910_184922 RIF. PREZZI PER NUOVO ORDINE.pdf"
+            },
+            {
+              "nome": "HOTEL SAN RAFFAELE SRL Offerta di vendita_260424_20260910_184743 RIF. OFFERTA SPECIALE CALICI DISPONIBILI IN MAGAZZINO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/43vyqehabuq1gdti22acd/HOTEL-SAN-RAFFAELE-SRL-Offerta-di-vendita_260424_20260910_184743-RIF.-OFFERTA-SPECIALE-CALICI-DISPONIBILI-IN-MAGAZZINO.pdf?rlkey=8ebhf59764abw9judgo68ph2n&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/HOTEL SAN RAFFAELE SRL Offerta di vendita_260424_20260910_184743 RIF. OFFERTA SPECIALE CALICI DISPONIBILI IN MAGAZZINO.pdf"
+            },
+            {
               "nome": "I CARNALI di DE LUCA ANTONIO Offerta di vendita_260381_20260827_102033.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9728,7 +9784,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 246
+          "_totale_file": 248
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -68419,6 +68475,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CIDO SRL Ordine cliente_260228_20260622_155455 RIF. ASSISTENZA SU CUCINA ANGELO PO CON FORNO ASSISTENZA SU CUCIN.pdf"
             },
             {
+              "nome": "CITY IPER SCALEA s.r.l. Ordine cliente_260446_20260910_103940 RIF. FLESSIBILE E PERGEL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2ihgpe8f9pwrlk47h16k8/CITY-IPER-SCALEA-s.r.l.-Ordine-cliente_260446_20260910_103940-RIF.-FLESSIBILE-E-PERGEL.pdf?rlkey=ww2tmdxa3k7rtzy6thp2rppxc&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CITY IPER SCALEA s.r.l. Ordine cliente_260446_20260910_103940 RIF. FLESSIBILE E PERGEL.pdf"
+            },
+            {
               "nome": "CONVENTO FRATI MINORI CAPPUCCINI S.ANTONIO Ordine cliente_260333_20260729_113148 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A Basato su Offerte.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69963,12 +70027,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PROVINCIA DI CAMPANIA BASILICATA DEI FRATI MINORI CAPPUCCINI Ordine cliente_260390_20260812_163032 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A,LAMA 20x22,5hcm,Ø1.pdf"
             },
             {
-              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260907_171235 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf",
+              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260910_180435 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mda1r5qyslldxaqxi0t9b/PUGLIESE-MATTIA-Ordine-cliente_260434_20260907_171235-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416..pdf?rlkey=anvh85lpcw45k49lvmy685pcp&dl=0?raw=1",
-              "dimensione_kb": 83,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260907_171235 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf"
+              "link": "https://www.dropbox.com/scl/fi/23vcodm06pbz3yfagwycn/PUGLIESE-MATTIA-Ordine-cliente_260434_20260910_180435-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416..pdf?rlkey=gddbyh7o6755xl2d7cu6e5723&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260910_180435 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf"
             },
             {
               "nome": "Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf",
@@ -70491,7 +70555,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 314
+          "_totale_file": 315
         }
       ],
       "file": []
