@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-11T05:32:36Z",
-  "totale_file": 26861,
+  "generato": "2026-09-11T07:36:13Z",
+  "totale_file": 26868,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -191446,7 +191446,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5084,
+      "totale_file": 5091,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -230902,6 +230902,46 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260213_20260827_232706 RIF. MATRICOLA Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST.pdf"
                 },
                 {
+                  "nome": "COLD LINE srl Ordine dacquisto_260217_20260909_101058 RIF. MeM Top 4P GN 2263×700×40 P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i8pml5hk1h2n5l9y1y78n/COLD-LINE-srl-Ordine-dacquisto_260217_20260909_101058-RIF.-MeM-Top-4P-GN-2263-700-40-P.pdf?rlkey=rjpcpmvajkpmy4486nl49bloy&dl=0?raw=1",
+                  "dimensione_kb": 65,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260217_20260909_101058 RIF. MeM Top 4P GN 2263×700×40 P.pdf"
+                },
+                {
+                  "nome": "COLD LINE srl Ordine dacquisto_260218_20260909_101704 RIF. GRIGLIA PLASTIFICATA GN 21.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0eilu35we79mvr7ga53pl/COLD-LINE-srl-Ordine-dacquisto_260218_20260909_101704-RIF.-GRIGLIA-PLASTIFICATA-GN-21.pdf?rlkey=wpooztigy59sxrcukak0v5l8v&dl=0?raw=1",
+                  "dimensione_kb": 65,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260218_20260909_101704 RIF. GRIGLIA PLASTIFICATA GN 21.pdf"
+                },
+                {
+                  "nome": "COLD LINE srl Ordine dacquisto_260219_20260909_102222 RIF. RUSTICHELLI ARMADIO LEVTRONIC 900 ARMADIO FRIGO SMART E ARMADIO CONGELATORE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fh8y65wbyo1ytkde12whj/COLD-LINE-srl-Ordine-dacquisto_260219_20260909_102222-RIF.-RUSTICHELLI-ARMADIO-LEVTRONIC-900-ARMADIO-FRIGO-SMART-E-ARMADIO-CONGELATORE.pdf?rlkey=gcp5vkoljh3sb5ugqviz5e4o1&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260219_20260909_102222 RIF. RUSTICHELLI ARMADIO LEVTRONIC 900 ARMADIO FRIGO SMART E ARMADIO CONGELATORE.pdf"
+                },
+                {
+                  "nome": "COLD LINE srl Ordine dacquisto_260220_20260909_102554 RIF. SONDA NTC 10K RANGE DI TEMPERATURA -50 +110°C.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qdu82zuknyhzdr1cuztqp/COLD-LINE-srl-Ordine-dacquisto_260220_20260909_102554-RIF.-SONDA-NTC-10K-RANGE-DI-TEMPERATURA-50-110-C.pdf?rlkey=uj9thpxm0uq47ccw208f05taz&dl=0?raw=1",
+                  "dimensione_kb": 65,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260220_20260909_102554 RIF. SONDA NTC 10K RANGE DI TEMPERATURA -50 +110°C.pdf"
+                },
+                {
+                  "nome": "COLD LINE srl Ordine dacquisto_260221_20260909_115026 RIF. Basato su Ordini cliente 260442..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3ism8uw7jnf76nzcuhbm6/COLD-LINE-srl-Ordine-dacquisto_260221_20260909_115026-RIF.-Basato-su-Ordini-cliente-260442..pdf?rlkey=s9roh0qu33gmryy2u5gqocour&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/COLD LINE srl Ordine dacquisto_260221_20260909_115026 RIF. Basato su Ordini cliente 260442..pdf"
+                },
+                {
                   "nome": "COLDINE Conferma ordine n°25-16183 RIF.JOEL_GARANZIA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -234126,7 +234166,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO/unnamed.png"
                 }
               ],
-              "_totale_file": 3756
+              "_totale_file": 3761
             }
           ],
           "file": [
@@ -234137,6 +234177,14 @@
               "link": "https://www.dropbox.com/scl/fi/hbq07cu68w9sbc704i86x/ACCIAIO-T-D-CONFERMA-ORDVE-002637-2026-RIF.LA-SECCA-PENSILE-120X60.pdf?rlkey=8gl4k274bzl474ngywty08bbg&dl=0?raw=1",
               "dimensione_kb": 738,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-002637-2026 RIF.LA SECCA PENSILE 120X60.pdf"
+            },
+            {
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-002734-2026 RIF.RINALDI SRLS CAPPA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hk1g0g0d6mnbbz4bmiku6/ACCIAIO-T-D-CONFERMA-ORDVE-002734-2026-RIF.RINALDI-SRLS-CAPPA.pdf?rlkey=vcgx1fszpzjj9tbl0hqj03425&dl=0?raw=1",
+              "dimensione_kb": 738,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-002734-2026 RIF.RINALDI SRLS CAPPA.pdf"
             },
             {
               "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260214_20260831_122334 RIF. LA SECCA PENSILE 120X60 Basato su Ordini cliente 260425..pdf",
@@ -234190,7 +234238,7 @@
               "nome": "COLD LINE srl Ordine dacquisto_260217_20260909_101058 RIF. MeM Top 4P GN 2263×700×40 P.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/i8pml5hk1h2n5l9y1y78n/COLD-LINE-srl-Ordine-dacquisto_260217_20260909_101058-RIF.-MeM-Top-4P-GN-2263-700-40-P.pdf?rlkey=rjpcpmvajkpmy4486nl49bloy&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/6cke16eilmi9a730ihnuc/COLD-LINE-srl-Ordine-dacquisto_260217_20260909_101058-RIF.-MeM-Top-4P-GN-2263-700-40-P.pdf?rlkey=o4eyz6as5gexw3dmmwcqaksd9&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260217_20260909_101058 RIF. MeM Top 4P GN 2263×700×40 P.pdf"
             },
@@ -234198,7 +234246,7 @@
               "nome": "COLD LINE srl Ordine dacquisto_260218_20260909_101704 RIF. GRIGLIA PLASTIFICATA GN 21.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/0eilu35we79mvr7ga53pl/COLD-LINE-srl-Ordine-dacquisto_260218_20260909_101704-RIF.-GRIGLIA-PLASTIFICATA-GN-21.pdf?rlkey=wpooztigy59sxrcukak0v5l8v&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/jpyoboyq32n79zr6o5juf/COLD-LINE-srl-Ordine-dacquisto_260218_20260909_101704-RIF.-GRIGLIA-PLASTIFICATA-GN-21.pdf?rlkey=y2erzwpnc8t6g6c9jleonnixb&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260218_20260909_101704 RIF. GRIGLIA PLASTIFICATA GN 21.pdf"
             },
@@ -234206,7 +234254,7 @@
               "nome": "COLD LINE srl Ordine dacquisto_260219_20260909_102222 RIF. RUSTICHELLI ARMADIO LEVTRONIC 900 ARMADIO FRIGO SMART E ARMADIO CONGELATORE.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/fh8y65wbyo1ytkde12whj/COLD-LINE-srl-Ordine-dacquisto_260219_20260909_102222-RIF.-RUSTICHELLI-ARMADIO-LEVTRONIC-900-ARMADIO-FRIGO-SMART-E-ARMADIO-CONGELATORE.pdf?rlkey=gcp5vkoljh3sb5ugqviz5e4o1&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/br41m5zen63xvz9xnmxgf/COLD-LINE-srl-Ordine-dacquisto_260219_20260909_102222-RIF.-RUSTICHELLI-ARMADIO-LEVTRONIC-900-ARMADIO-FRIGO-SMART-E-ARMADIO-CONGELATORE.pdf?rlkey=u5cibbp4whny0z0gvrqu4udxj&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260219_20260909_102222 RIF. RUSTICHELLI ARMADIO LEVTRONIC 900 ARMADIO FRIGO SMART E ARMADIO CONGELATORE.pdf"
             },
@@ -234214,7 +234262,7 @@
               "nome": "COLD LINE srl Ordine dacquisto_260220_20260909_102554 RIF. SONDA NTC 10K RANGE DI TEMPERATURA -50 +110°C.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qdu82zuknyhzdr1cuztqp/COLD-LINE-srl-Ordine-dacquisto_260220_20260909_102554-RIF.-SONDA-NTC-10K-RANGE-DI-TEMPERATURA-50-110-C.pdf?rlkey=uj9thpxm0uq47ccw208f05taz&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/sa065lgz2rp687uikd42v/COLD-LINE-srl-Ordine-dacquisto_260220_20260909_102554-RIF.-SONDA-NTC-10K-RANGE-DI-TEMPERATURA-50-110-C.pdf?rlkey=uxy4qs7e3chon9ejckwrr1i8b&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260220_20260909_102554 RIF. SONDA NTC 10K RANGE DI TEMPERATURA -50 +110°C.pdf"
             },
@@ -234222,7 +234270,7 @@
               "nome": "COLD LINE srl Ordine dacquisto_260221_20260909_115026 RIF. Basato su Ordini cliente 260442..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/3ism8uw7jnf76nzcuhbm6/COLD-LINE-srl-Ordine-dacquisto_260221_20260909_115026-RIF.-Basato-su-Ordini-cliente-260442..pdf?rlkey=s9roh0qu33gmryy2u5gqocour&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/6kada1mdryrbyg3d7ar63/COLD-LINE-srl-Ordine-dacquisto_260221_20260909_115026-RIF.-Basato-su-Ordini-cliente-260442..pdf?rlkey=xi7ryapon53d7v0g8fz4mlito&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260221_20260909_115026 RIF. Basato su Ordini cliente 260442..pdf"
             },
@@ -234257,6 +234305,14 @@
               "link": "https://www.dropbox.com/scl/fi/xvforx69r9138yziziaat/COLDLINE-Conferma-ordine-n-26-13997-RIF.MeM-TOP.pdf?rlkey=0s6bbl1zxmz0gjlz9rzs6ezzg&dl=0?raw=1",
               "dimensione_kb": 79,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13997 RIF.MeM TOP.pdf"
+            },
+            {
+              "nome": "COLDLINE Conferma ordine n°26-15446 RIF.NICHELE MASSIMO WEB.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/voceo2u03rp6pe2z0h9q6/COLDLINE-Conferma-ordine-n-26-15446-RIF.NICHELE-MASSIMO-WEB.pdf?rlkey=adr29sjrkwz7fp6zf0qnz2s2j&dl=0?raw=1",
+              "dimensione_kb": 87,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-15446 RIF.NICHELE MASSIMO WEB.pdf"
             },
             {
               "nome": "COLDLINE ORDINI E TITOLI - collegamento.lnk",
@@ -234419,7 +234475,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3792
+          "_totale_file": 3799
         }
       ],
       "file": []
