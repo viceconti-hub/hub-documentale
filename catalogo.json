@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-12T07:23:57Z",
-  "totale_file": 26890,
+  "generato": "2026-09-12T08:25:03Z",
+  "totale_file": 26892,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -234645,7 +234645,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2432,
+      "totale_file": 2434,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -235214,6 +235214,22 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR COPIA TITOLO BPER SCADENZA 30_09_2026.pdf"
             },
             {
+              "nome": "MODULAR COPIA TITOLO MPS 10_11_2026 ORIGINALE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/i3iszkus5oy69jhqoswoq/MODULAR-COPIA-TITOLO-MPS-10_11_2026-ORIGINALE.pdf?rlkey=orqy71k0c12fa8uijh1i88207&dl=0?raw=1",
+              "dimensione_kb": 393,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR COPIA TITOLO MPS 10_11_2026 ORIGINALE.pdf"
+            },
+            {
+              "nome": "MODULAR COPIA TITOLO MPS 10_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ybilw314b050jq5ptgjxp/MODULAR-COPIA-TITOLO-MPS-10_11_2026.pdf?rlkey=sbo8x2x5oxg9y2em3ftdflrjz&dl=0?raw=1",
+              "dimensione_kb": 279,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR COPIA TITOLO MPS 10_11_2026.pdf"
+            },
+            {
               "nome": "MODULAR_IMPORTO_TITOLI_2026.xlsx",
               "tipo": "Excel",
               "icona": "📊",
@@ -235246,7 +235262,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/SIRMAN RICEVUTA AR DEL 29_07_2026.pdf"
             }
           ],
-          "_totale_file": 52
+          "_totale_file": 54
         },
         {
           "nome": "PAGAMENTI IN USCITA BONIFICI",
