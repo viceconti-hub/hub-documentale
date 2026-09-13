@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-13T02:12:42Z",
-  "totale_file": 26892,
+  "generato": "2026-09-13T05:21:25Z",
+  "totale_file": 26904,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7031,
+      "totale_file": 7043,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -2192,6 +2192,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HOTEL PISACANE S. R. L. Consegna_260554_20260710_120057 RIF. ECOJETSAN Basato su Ordini cliente 260263..pdf"
             },
             {
+              "nome": "HOTEL SAN RAFFAELE SRL Consegna_260819_20260911_103910 RIF. OFFERTA SPECIALE CALICI DISPONIBILI IN MAGAZZINO Basato su Offerte di vendita.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9tfivmebvgq5elr2aypd2/HOTEL-SAN-RAFFAELE-SRL-Consegna_260819_20260911_103910-RIF.-OFFERTA-SPECIALE-CALICI-DISPONIBILI-IN-MAGAZZINO-Basato-su-Offerte-di-vendita.pdf?rlkey=1o4lteaa0b5d40mvp09z9e29w&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/HOTEL SAN RAFFAELE SRL Consegna_260819_20260911_103910 RIF. OFFERTA SPECIALE CALICI DISPONIBILI IN MAGAZZINO Basato su Offerte di vendita.pdf"
+            },
+            {
               "nome": "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Consegna_260298_20260527_091623 RIF. LAVABAR IN COMODATO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2648,6 +2656,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA REGINA S.r.l. Servizi e Logistica Consegna_260806_20260902_174241 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260420..pdf"
             },
             {
+              "nome": "LA REGINA S.r.l. Servizi e Logistica Consegna_260821_20260912_151755 RIF. OFFERTA SPECIALE Lavabicchieri COMENDA HB34 R Multipower doppia parete con.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1rytalpxkm28gi5izycy3/LA-REGINA-S.r.l.-Servizi-e-Logistica-Consegna_260821_20260912_151755-RIF.-OFFERTA-SPECIALE-Lavabicchieri-COMENDA-HB34-R-Multipower-doppia-parete-con.pdf?rlkey=0s9ym2lgvr2ddl56v1i2iw0zm&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA REGINA S.r.l. Servizi e Logistica Consegna_260821_20260912_151755 RIF. OFFERTA SPECIALE Lavabicchieri COMENDA HB34 R Multipower doppia parete con.pdf"
+            },
+            {
               "nome": "LA RUSTICA ANTICHI SAPORI DI ALAGIA VERONICA Consegna_260351_20260602_221211 RIF. ASSISTENZA SU FORNO NERONE RIPRISTINO FUNZIONAMENTO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2806,6 +2822,14 @@
               "link": "https://www.dropbox.com/scl/fi/2yh535dz0gnh1x3y9kcx5/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Consegna_260557_20260711_095727-RIF.-DETERGENTE-RATIONAL-ROSSO.pdf?rlkey=n35w1bnot5fw6gz59vdzj17ag&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260557_20260711_095727 RIF. DETERGENTE RATIONAL ROSSO.pdf"
+            },
+            {
+              "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260820_20260912_112653 RIF. DETERGENTE RATIONAL ROSSO Basato su Ordini cliente 260449..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/btpj6oppgampruaa6tx5r/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Consegna_260820_20260912_112653-RIF.-DETERGENTE-RATIONAL-ROSSO-Basato-su-Ordini-cliente-260449..pdf?rlkey=rp6txjq5lt3y7zqdef3yjippu&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LANTERNA VERDE di RUGGIERO SALVATORE Consegna_260820_20260912_112653 RIF. DETERGENTE RATIONAL ROSSO Basato su Ordini cliente 260449..pdf"
             },
             {
               "nome": "LE DELIZIE DEL GRANO S.R.L. Consegna_260781_20260828_094614 RIF. ASSISTENZA SU FORNO ELETTRICO RATIONAL SCC 61E MATRICOLA E61SH13042346878.pdf",
@@ -4584,7 +4608,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 571
+          "_totale_file": 574
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -5942,6 +5966,14 @@
               "link": "https://www.dropbox.com/scl/fi/hunmz9ux1rb7k0bso3h2s/HOTEL-PISACANE-S.-R.-L.-Fattura-di-vendita_2600291_20260716_092817-RIF.-ECOJETSAN-LT1-Basato-su-Consegne-260396.-260554..pdf?rlkey=k0m5lebwhqxloufkkh0vt6qvo&dl=0?raw=1",
               "dimensione_kb": 61,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/HOTEL PISACANE S. R. L. Fattura di vendita_2600291_20260716_092817 RIF. ECOJETSAN LT1 Basato su Consegne 260396. 260554..pdf"
+            },
+            {
+              "nome": "HOTEL SAN RAFFAELE SRL Fattura di vendita_2600474_20260911_103936 RIF. OFFERTA SPECIALE CALICI DISPONIBILI IN MAGAZZINO Basato su Offerte di vendita.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d8jtp375k6r0f0ti6xjlr/HOTEL-SAN-RAFFAELE-SRL-Fattura-di-vendita_2600474_20260911_103936-RIF.-OFFERTA-SPECIALE-CALICI-DISPONIBILI-IN-MAGAZZINO-Basato-su-Offerte-di-vendita.pdf?rlkey=es9mpaqyos4qwoet8gaxwxm9l&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/HOTEL SAN RAFFAELE SRL Fattura di vendita_2600474_20260911_103936 RIF. OFFERTA SPECIALE CALICI DISPONIBILI IN MAGAZZINO Basato su Offerte di vendita.pdf"
             },
             {
               "nome": "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Fattura di vendita_2600148_20260811_161547 RIF. ASSISTENZA SU LAVABAR COLGED MODELLOM STEEL TECH 13-008 MATR.pdf",
@@ -7792,7 +7824,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 400
+          "_totale_file": 401
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -8944,6 +8976,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA REGINA S.r.l. Servizi e Logistica Offerta di vendita_260261_20260713_121801 RIF. OFFERTA FORNITURA DETERGENTI LAVASTOVIGLIE.pdf"
             },
             {
+              "nome": "LA REGINA S.r.l. Servizi e Logistica Offerta di vendita_260425_20260912_114257 RIF. OFFERTA SPECIALE Lavabicchieri HB34 R Multipower doppia parete con pompa.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dleycwcgqakvu2lljkzo6/LA-REGINA-S.r.l.-Servizi-e-Logistica-Offerta-di-vendita_260425_20260912_114257-RIF.-OFFERTA-SPECIALE-Lavabicchieri-HB34-R-Multipower-doppia-parete-con-pompa.pdf?rlkey=cbbdcipdf6ye8cayrxglif5pf&dl=0?raw=1",
+              "dimensione_kb": 82,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/LA REGINA S.r.l. Servizi e Logistica Offerta di vendita_260425_20260912_114257 RIF. OFFERTA SPECIALE Lavabicchieri HB34 R Multipower doppia parete con pompa.pdf"
+            },
+            {
               "nome": "LA SECCA di FULCO ANTONIO Offerta di vendita_260254_20260709_105036 RIF. VETRINA DA BANCO REFRIGERATA, +2+8°C ATOSA MOD.WTF110L CM 70.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9784,7 +9824,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 248
+          "_totale_file": 249
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -11893,6 +11933,38 @@
                 }
               ],
               "_totale_file": 2
+            },
+            {
+              "nome": "2026_09_12 DILETTA LABORANTI CLENTE WEB",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_12 DILETTA LABORANTI CLENTE WEB",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ca51-2-it-manuale.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/sqel7w9u5tkoh0zf0vupf/ca51-2-it-manuale.pdf?rlkey=7omvc9ap1l0gzbq0edofxdfuy&dl=0?raw=1",
+                  "dimensione_kb": 174,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_12 DILETTA LABORANTI CLENTE WEB/ca51-2-it-manuale.pdf"
+                },
+                {
+                  "nome": "ca51-2-xx-esploso.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7vol33b1cyl038jds8yu4/ca51-2-xx-esploso.pdf?rlkey=013h5ztf84vv63ebbez613jlj&dl=0?raw=1",
+                  "dimensione_kb": 145,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_12 DILETTA LABORANTI CLENTE WEB/ca51-2-xx-esploso.pdf"
+                },
+                {
+                  "nome": "cantinette_piccole.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6043cok4vkoztfw4kq8gq/cantinette_piccole.pdf?rlkey=14znbhymqvgtgyp5lpru34zqi&dl=0?raw=1",
+                  "dimensione_kb": 254,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_12 DILETTA LABORANTI CLENTE WEB/cantinette_piccole.pdf"
+                }
+              ],
+              "_totale_file": 3
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -68027,7 +68099,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5497
+          "_totale_file": 5500
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -69163,6 +69235,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HOTEL PISACANE S. R. L. Ordine cliente_260263_20260710_115957 RIF. ECOJETSAN.pdf"
             },
             {
+              "nome": "HOTEL SAN RAFFAELE SRL Ordine cliente_260447_20260911_103839 RIF. OFFERTA SPECIALE CALICI DISPONIBILI IN MAGAZZINO Basato su Offerte di vendita.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5bvg1n12t384dffoeay01/HOTEL-SAN-RAFFAELE-SRL-Ordine-cliente_260447_20260911_103839-RIF.-OFFERTA-SPECIALE-CALICI-DISPONIBILI-IN-MAGAZZINO-Basato-su-Offerte-di-vendita.pdf?rlkey=14lg08x7qxkew1dsbto3fejy3&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/HOTEL SAN RAFFAELE SRL Ordine cliente_260447_20260911_103839 RIF. OFFERTA SPECIALE CALICI DISPONIBILI IN MAGAZZINO Basato su Offerte di vendita.pdf"
+            },
+            {
               "nome": "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Ordine cliente_260331_20260729_092157 RIF. DETERGENTE RATIONAL ROSSO QTA' 1.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69483,6 +69563,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA REGINA S.r.l. Servizi e Logistica Ordine cliente_260420_20260828_094932 RIF. DETERGENTE RATIONAL.pdf"
             },
             {
+              "nome": "LA REGINA S.r.l. Servizi e Logistica Ordine cliente_260450_20260912_153809 RIF. OFFERTA SPECIALE Lavabicchieri COMENDA HB34 R Multipower doppia parete con.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qdl1jm2xtxkqdmj4hgq6i/LA-REGINA-S.r.l.-Servizi-e-Logistica-Ordine-cliente_260450_20260912_153809-RIF.-OFFERTA-SPECIALE-Lavabicchieri-COMENDA-HB34-R-Multipower-doppia-parete-con.pdf?rlkey=nevn92fbiwmitld3wieuynk5z&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA REGINA S.r.l. Servizi e Logistica Ordine cliente_260450_20260912_153809 RIF. OFFERTA SPECIALE Lavabicchieri COMENDA HB34 R Multipower doppia parete con.pdf"
+            },
+            {
               "nome": "LA SECCA E IL MIRTO SOCIETA' COOPERATIVA Ordine cliente_260148_20260516_104835 RIF. TUBO SCARICO PER LAVASTOVIGLIE COMENDA RG20.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69603,6 +69691,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260265_20260710_183148 RIF. DETERGENTE RATIONAL.pdf"
             },
             {
+              "nome": "LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260449_20260912_112627 RIF. DETERGENTE RATIONAL ROSSO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/72losgy844mu8xb8bvx1u/LANTERNA-VERDE-di-RUGGIERO-SALVATORE-Ordine-cliente_260449_20260912_112627-RIF.-DETERGENTE-RATIONAL-ROSSO.pdf?rlkey=pgl2dux103cl1cysvn330o26w&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LANTERNA VERDE di RUGGIERO SALVATORE Ordine cliente_260449_20260912_112627 RIF. DETERGENTE RATIONAL ROSSO.pdf"
+            },
+            {
               "nome": "LIDO POINT BREAK Ordine cliente_260158_20260526_095712 RIF. Basato su Offerte di vendita 260151. TAVOLOLO CON VASCA INCASSATA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69713,6 +69809,14 @@
               "link": "https://www.dropbox.com/scl/fi/gcgxw7xj9l9ecj4s7yfzi/MACELLERIA-COSENTINO-DOMENICO-Ordine-cliente_260287_20260720_115333-RIF.-PIASTRA-E-COLTELLO-TRITACARNE-32.pdf?rlkey=1y2m6bipveifmtw3d3384hnjd&dl=0?raw=1",
               "dimensione_kb": 56,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO DOMENICO Ordine cliente_260287_20260720_115333 RIF. PIASTRA E COLTELLO TRITACARNE 32.pdf"
+            },
+            {
+              "nome": "MACELLERIA COSENTINO Ordine cliente_260448_20260911_183429 RIF. Basato su Offerte di vendita 260418..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ceowtg1f38iwikd0r9ehm/MACELLERIA-COSENTINO-Ordine-cliente_260448_20260911_183429-RIF.-Basato-su-Offerte-di-vendita-260418..pdf?rlkey=7j5qos0wdse0rac8a7dzmxr36&dl=0?raw=1",
+              "dimensione_kb": 87,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO Ordine cliente_260448_20260911_183429 RIF. Basato su Offerte di vendita 260418..pdf"
             },
             {
               "nome": "MACELLERIA LOSARDO GIOVANNINO Ordine cliente_260170_20260603_092842 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
@@ -70027,12 +70131,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PROVINCIA DI CAMPANIA BASILICATA DEI FRATI MINORI CAPPUCCINI Ordine cliente_260390_20260812_163032 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A,LAMA 20x22,5hcm,Ø1.pdf"
             },
             {
-              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260910_180435 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf",
+              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260911_175722 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/23vcodm06pbz3yfagwycn/PUGLIESE-MATTIA-Ordine-cliente_260434_20260910_180435-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416..pdf?rlkey=gddbyh7o6755xl2d7cu6e5723&dl=0?raw=1",
-              "dimensione_kb": 60,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260910_180435 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf"
+              "link": "https://www.dropbox.com/scl/fi/z0edll33hci0omp5xjl2f/PUGLIESE-MATTIA-Ordine-cliente_260434_20260911_175722-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416..pdf?rlkey=ryktk6l48advndm5rw9vwaem9&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260911_175722 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf"
             },
             {
               "nome": "Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf",
@@ -70555,7 +70659,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 315
+          "_totale_file": 319
         }
       ],
       "file": []
