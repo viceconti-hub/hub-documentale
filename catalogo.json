@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-13T05:21:25Z",
-  "totale_file": 26904,
+  "generato": "2026-09-13T07:19:45Z",
+  "totale_file": 26906,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -191711,7 +191711,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5091,
+      "totale_file": 5093,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -191957,6 +191957,14 @@
               "link": "https://www.dropbox.com/scl/fi/ref4c7fverqiv2barilzo/COMENDA-ALI-GROUP-SRL-Entrata-merci-da-fornitore_260170_20260826_220719-RIF.-RICAMBI-PER-TIME-OUT-MAG-Basato-su-Ordini-d-acquisto-260211..pdf?rlkey=d0l6uu2ij2n9q7s930mrztxoq&dl=0?raw=1",
               "dimensione_kb": 73,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COMENDA ALI GROUP SRL Entrata merci da fornitore_260170_20260826_220719 RIF. RICAMBI PER TIME OUT + MAG Basato su Ordini d'acquisto 260211..pdf"
+            },
+            {
+              "nome": "COMENDA ALI GROUP SRL Entrata merci da fornitore_260173_20260912_113615 RIF. LAVABICCHIERI COMENDA HB34-R (HR+RCD) Multipower 5kW MATRICOLA WE0637080626.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qy3t2kmjd0czsth9ana2o/COMENDA-ALI-GROUP-SRL-Entrata-merci-da-fornitore_260173_20260912_113615-RIF.-LAVABICCHIERI-COMENDA-HB34-R-HR-RCD-Multipower-5kW-MATRICOLA-WE0637080626.pdf?rlkey=qudiu3pop0kcgupng0zhwjyqk&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COMENDA ALI GROUP SRL Entrata merci da fornitore_260173_20260912_113615 RIF. LAVABICCHIERI COMENDA HB34-R (HR+RCD) Multipower 5kW MATRICOLA WE0637080626.pdf"
             },
             {
               "nome": "CUSTOM SPA Entrata merci da fornitore_260163_20260730_220329 RIF. GRUPPO STAMPANTE PER MARKET DA CRUSCO + BATTERIA PER MAG Bas.pdf",
@@ -192831,7 +192839,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 139
+          "_totale_file": 140
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -234604,6 +234612,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COMENDA ALI GROUP SRL Ordine dacquisto_260211_20260826_220526 RIF. RICAMBI PER TIME OUT + MAG.pdf"
             },
             {
+              "nome": "COMENDA ALI GROUP SRL Ordine dacquisto_260224_20260912_113228 RIF. LAVABICCHIERI COMENDA HB34-R (HR+RCD) Multipower 5kW.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/i0kukhmex1e699h5gdzq8/COMENDA-ALI-GROUP-SRL-Ordine-dacquisto_260224_20260912_113228-RIF.-LAVABICCHIERI-COMENDA-HB34-R-HR-RCD-Multipower-5kW.pdf?rlkey=qmp5326a1hci7yl7xmubza1w1&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COMENDA ALI GROUP SRL Ordine dacquisto_260224_20260912_113228 RIF. LAVABICCHIERI COMENDA HB34-R (HR+RCD) Multipower 5kW.pdf"
+            },
+            {
               "nome": "CUSTOM CONFERMA ORDINE Conf.Ord. 100916505 Cl.5212053 RIF. CRUSCO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -234740,7 +234756,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3799
+          "_totale_file": 3800
         }
       ],
       "file": []
