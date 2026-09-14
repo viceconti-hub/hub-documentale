@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-14T07:53:29Z",
-  "totale_file": 26906,
+  "generato": "2026-09-14T09:00:47Z",
+  "totale_file": 26908,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -234765,7 +234765,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2434,
+      "totale_file": 2436,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -235238,6 +235238,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/CIMBALI GROUP SPA COPIA TITOLI INTESA 31_08-30_09-31_10_2026.pdf"
             },
             {
+              "nome": "COLD LINE RICEVUTA RACCOMANDATA 11_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yzo0xg5pq5kcgypjrweag/COLD-LINE-RICEVUTA-RACCOMANDATA-11_09_2026.pdf?rlkey=0tc4plj7l3cyi4hdrfj5w0pft&dl=0?raw=1",
+              "dimensione_kb": 428,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/COLD LINE RICEVUTA RACCOMANDATA 11_09_2026.pdf"
+            },
+            {
               "nome": "COLDLINE COPIA TITOLI MPS AR 29_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -235350,6 +235358,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR COPIA TITOLO MPS 10_11_2026.pdf"
             },
             {
+              "nome": "MODULAR RICEVUTA RACCOMANDATA 11_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/y79x9twrh6wmi35yau3z2/MODULAR-RICEVUTA-RACCOMANDATA-11_09_2026.pdf?rlkey=p84ilrnctwdxgs3asz4ggnngv&dl=0?raw=1",
+              "dimensione_kb": 416,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR RICEVUTA RACCOMANDATA 11_09_2026.pdf"
+            },
+            {
               "nome": "MODULAR_IMPORTO_TITOLI_2026.xlsx",
               "tipo": "Excel",
               "icona": "📊",
@@ -235382,7 +235398,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/SIRMAN RICEVUTA AR DEL 29_07_2026.pdf"
             }
           ],
-          "_totale_file": 54
+          "_totale_file": 56
         },
         {
           "nome": "PAGAMENTI IN USCITA BONIFICI",
