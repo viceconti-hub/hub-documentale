@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-14T09:16:07Z",
-  "totale_file": 26908,
+  "generato": "2026-09-15T00:26:07Z",
+  "totale_file": 26911,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -75278,7 +75278,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7312,
+      "totale_file": 7315,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -88324,10 +88324,26 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "RINTELLI GIOVANNI",
+              "path": "/HUB DOCUMENTALE/CLIENTI/LAINO/RINTELLI GIOVANNI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "RINTELLI GIOVANNI RICEVUTA DI PAGAMENTO PRIMO ACCONTO 11_09_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/notdb8wd6w25s5q6dn0qo/RINTELLI-GIOVANNI-RICEVUTA-DI-PAGAMENTO-PRIMO-ACCONTO-11_09_2026.pdf?rlkey=r5kf6viw6udlu8i0bi8r8wbys&dl=0?raw=1",
+                  "dimensione_kb": 222,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAINO/RINTELLI GIOVANNI/RINTELLI GIOVANNI RICEVUTA DI PAGAMENTO PRIMO ACCONTO 11_09_2026.pdf"
+                }
+              ],
+              "_totale_file": 1
             }
           ],
           "file": [],
-          "_totale_file": 83
+          "_totale_file": 84
         },
         {
           "nome": "LATRONICO",
@@ -111944,7 +111960,7 @@
                       "nome": "Autocertificazione per credito d’imposta.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/vu85ccrgi74eyjkzhmp0o/Autocertificazione-per-credito-d-imposta.pdf?rlkey=r1nl51mrufbw8vo3f07bj7t4v&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 3357,
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/NERA SRL/4.0 DOCUMENTAZIONE/Autocertificazione per credito d’imposta.pdf"
                     },
@@ -119533,8 +119549,32 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA",
               "cartelle": [
                 {
-                  "nome": "PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434",
+                  "nome": "PUGLIESE MATTIA ARCHIVIO",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ARCHIVIO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "PUGLIESE MATTIA ORDINE 260434 SCANSIONE FIRMATO.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/70js5x0z53brzeitrlsea/PUGLIESE-MATTIA-ORDINE-260434-SCANSIONE-FIRMATO.pdf?rlkey=v8hguuy7knkroevamkofpsa5r&dl=0?raw=1",
+                      "dimensione_kb": 1353,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ARCHIVIO/PUGLIESE MATTIA ORDINE 260434 SCANSIONE FIRMATO.pdf"
+                    },
+                    {
+                      "nome": "PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 11_09_2026.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/npx31n87n6zqfble82pz8/PUGLIESE-MATTIA-ORDINE-CON-RICEVUTA-DI-PAGAMENTO-AGGIORNATO-AL-11_09_2026.pdf?rlkey=rlpu8g2cjl0td7lzpapp8w268&dl=0?raw=1",
+                      "dimensione_kb": 657,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ARCHIVIO/PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 11_09_2026.pdf"
+                    }
+                  ],
+                  "_totale_file": 2
+                },
+                {
+                  "nome": "PUGLIESE MATTIA RISORSE ORDINE 260434",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434",
                   "cartelle": [],
                   "file": [
                     {
@@ -119543,7 +119583,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/v3le7f4dj5l7mo2xurx38/COLDLINE-SCHEDA-ARMADIO-SMART-700-2-8.pdf?rlkey=jax3za0hees3twd9hgogyagpv&dl=0?raw=1",
                       "dimensione_kb": 104,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/COLDLINE SCHEDA ARMADIO SMART 700 -2+8.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/COLDLINE SCHEDA ARMADIO SMART 700 -2+8.pdf"
                     },
                     {
                       "nome": "G-PZ2600TN_banchi_pizza_pizza_counters_forcar_refrigeration-3.jpg",
@@ -119551,7 +119591,7 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/bgh9d6q2qfgegionizgfs/G-PZ2600TN_banchi_pizza_pizza_counters_forcar_refrigeration-3.jpg?rlkey=djfoje4ufo6w0150r6fz4y9k4&dl=0?raw=1",
                       "dimensione_kb": 236,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/G-PZ2600TN_banchi_pizza_pizza_counters_forcar_refrigeration-3.jpg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/G-PZ2600TN_banchi_pizza_pizza_counters_forcar_refrigeration-3.jpg"
                     },
                     {
                       "nome": "G-RI15038V_vetrine_pizza_pizza_display_cases_forcar_refrigeration.jpg",
@@ -119559,7 +119599,7 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/z7bw9708kg8eplsz6gfex/G-RI15038V_vetrine_pizza_pizza_display_cases_forcar_refrigeration.jpg?rlkey=g6u17snj1dgk9xs9pjk14in6t&dl=0?raw=1",
                       "dimensione_kb": 83,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/G-RI15038V_vetrine_pizza_pizza_display_cases_forcar_refrigeration.jpg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/G-RI15038V_vetrine_pizza_pizza_display_cases_forcar_refrigeration.jpg"
                     },
                     {
                       "nome": "G-VPR100-120-160_espositore_display_forcar_refrigeration.jpg",
@@ -119567,7 +119607,7 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/q3u9f8by2jskodv7aunn8/G-VPR100-120-160_espositore_display_forcar_refrigeration.jpg?rlkey=daxfqspi7yb8fxi2ufw7pydd3&dl=0?raw=1",
                       "dimensione_kb": 260,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/G-VPR100-120-160_espositore_display_forcar_refrigeration.jpg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/G-VPR100-120-160_espositore_display_forcar_refrigeration.jpg"
                     },
                     {
                       "nome": "IM25SBN0-38SBN0_spiral_kneader_Fimar-500x500.jpg",
@@ -119575,7 +119615,7 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/ge15pcredp1j5ptoxzmbu/IM25SBN0-38SBN0_spiral_kneader_Fimar-500x500.jpg?rlkey=2e7pq14pwa19jisuqtaaxhqp4&dl=0?raw=1",
                       "dimensione_kb": 25,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/IM25SBN0-38SBN0_spiral_kneader_Fimar-500x500.jpg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/IM25SBN0-38SBN0_spiral_kneader_Fimar-500x500.jpg"
                     },
                     {
                       "nome": "SIR.30401103E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 1 CAMERA FOTO1.pdf",
@@ -119583,7 +119623,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/znwh4acg4umymc368d8xv/SIR.30401103E-FORNO-PIZZA-ELETTRICO-SIRMAN-VESUVIO-1-CAMERA-FOTO1.pdf?rlkey=k0drah2p4k7xcebuouuf04e4z&dl=0?raw=1",
                       "dimensione_kb": 45,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/SIR.30401103E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 1 CAMERA FOTO1.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/SIR.30401103E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 1 CAMERA FOTO1.pdf"
                     },
                     {
                       "nome": "SIR.30401103E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 1 CAMERA SCHEDA TECNICA.pdf",
@@ -119591,7 +119631,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/osjwo4h6kb93f12pgpo6e/SIR.30401103E-FORNO-PIZZA-ELETTRICO-SIRMAN-VESUVIO-1-CAMERA-SCHEDA-TECNICA.pdf?rlkey=ekbm32fcqoq2k9cxn73fzfd1m&dl=0?raw=1",
                       "dimensione_kb": 419,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/SIR.30401103E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 1 CAMERA SCHEDA TECNICA.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/SIR.30401103E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 1 CAMERA SCHEDA TECNICA.pdf"
                     },
                     {
                       "nome": "SIR.30401113E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 2 CAMERE BLOCCHI AUTOCAD FILE 1.DWG",
@@ -119599,7 +119639,7 @@
                       "icona": "📐",
                       "link": "https://www.dropbox.com/scl/fi/rf9dazzwoyb4ro50d7mrk/SIR.30401113E-FORNO-PIZZA-ELETTRICO-SIRMAN-VESUVIO-2-CAMERE-BLOCCHI-AUTOCAD-FILE-1.DWG?rlkey=x97eojytvoicijzgqwvhqfxre&dl=0?raw=1",
                       "dimensione_kb": 2542,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/SIR.30401113E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 2 CAMERE BLOCCHI AUTOCAD FILE 1.DWG"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/SIR.30401113E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 2 CAMERE BLOCCHI AUTOCAD FILE 1.DWG"
                     },
                     {
                       "nome": "SIR.30401113E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 2 CAMERE BLOCCHI AUTOCAD FILE 2.DWG",
@@ -119607,7 +119647,7 @@
                       "icona": "📐",
                       "link": "https://www.dropbox.com/scl/fi/z5ff2mg9flmbgj3mqrtl6/SIR.30401113E-FORNO-PIZZA-ELETTRICO-SIRMAN-VESUVIO-2-CAMERE-BLOCCHI-AUTOCAD-FILE-2.DWG?rlkey=0lpjvpsyavqje13h6nfmnvs0o&dl=0?raw=1",
                       "dimensione_kb": 3057,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/SIR.30401113E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 2 CAMERE BLOCCHI AUTOCAD FILE 2.DWG"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/SIR.30401113E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 2 CAMERE BLOCCHI AUTOCAD FILE 2.DWG"
                     },
                     {
                       "nome": "SIR.30401113E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 2 CAMERE SCHEDA TECNICA.pdf",
@@ -119615,7 +119655,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/z4l1lw10u1w4r70k3ipla/SIR.30401113E-FORNO-PIZZA-ELETTRICO-SIRMAN-VESUVIO-2-CAMERE-SCHEDA-TECNICA.pdf?rlkey=7jru61n5xyv5l89nd92mkbv10&dl=0?raw=1",
                       "dimensione_kb": 419,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/SIR.30401113E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 2 CAMERE SCHEDA TECNICA.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/SIR.30401113E FORNO PIZZA ELETTRICO SIRMAN VESUVIO 2 CAMERE SCHEDA TECNICA.pdf"
                     },
                     {
                       "nome": "armadio-frigo-smart-700lt-mod-a701me-coldline-28c-3-griglie-gn-21-profondita-815-mm-classe-energetica-a.jpg",
@@ -119623,7 +119663,7 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/riaebwqnfhf4tuyplml8g/armadio-frigo-smart-700lt-mod-a701me-coldline-28c-3-griglie-gn-21-profondita-815-mm-classe-energetica-a.jpg?rlkey=919pbioa2wkcq1cvaaf5b79jp&dl=0?raw=1",
                       "dimensione_kb": 77,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/armadio-frigo-smart-700lt-mod-a701me-coldline-28c-3-griglie-gn-21-profondita-815-mm-classe-energetica-a.jpg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/armadio-frigo-smart-700lt-mod-a701me-coldline-28c-3-griglie-gn-21-profondita-815-mm-classe-energetica-a.jpg"
                     },
                     {
                       "nome": "espositori-refrigerati-vetro-curvo-ventilati-g-vpr100.pdf",
@@ -119631,7 +119671,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/1an5ix1od6kto4h3zv54x/espositori-refrigerati-vetro-curvo-ventilati-g-vpr100.pdf?rlkey=nv1vd5m9jy7teovdjds7al4ux&dl=0?raw=1",
                       "dimensione_kb": 102,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/espositori-refrigerati-vetro-curvo-ventilati-g-vpr100.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/espositori-refrigerati-vetro-curvo-ventilati-g-vpr100.pdf"
                     },
                     {
                       "nome": "forcar.it_prodotto_banchi-pizza-refrigerati-ventilati-g-pz2600tn__print-products=pdf.pdf",
@@ -119639,7 +119679,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/9my05d5amacoc3vx2r09o/forcar.it_prodotto_banchi-pizza-refrigerati-ventilati-g-pz2600tn__print-products-pdf.pdf?rlkey=7wyx6iu9wqa0xyknyc989rso0&dl=0?raw=1",
                       "dimensione_kb": 68,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/forcar.it_prodotto_banchi-pizza-refrigerati-ventilati-g-pz2600tn__print-products=pdf.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/forcar.it_prodotto_banchi-pizza-refrigerati-ventilati-g-pz2600tn__print-products=pdf.pdf"
                     },
                     {
                       "nome": "forno-a-microonde-professionale-wp-1000-pf-minneapolis-di-sirman-piatto-fisso-comandi-manuali-cap-25-litri-1-mag.jpg",
@@ -119647,7 +119687,7 @@
                       "icona": "🖼️",
                       "link": "https://www.dropbox.com/scl/fi/80ze3u928qi9yi4hzf1b5/forno-a-microonde-professionale-wp-1000-pf-minneapolis-di-sirman-piatto-fisso-comandi-manuali-cap-25-litri-1-mag.jpg?rlkey=rmvrh43ulelkpvz9mv6ispe30&dl=0?raw=1",
                       "dimensione_kb": 27,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/forno-a-microonde-professionale-wp-1000-pf-minneapolis-di-sirman-piatto-fisso-comandi-manuali-cap-25-litri-1-mag.jpg"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/forno-a-microonde-professionale-wp-1000-pf-minneapolis-di-sirman-piatto-fisso-comandi-manuali-cap-25-litri-1-mag.jpg"
                     },
                     {
                       "nome": "microonde 51GA1000PFM.pdf",
@@ -119655,7 +119695,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/pq3raku8nqmdfe4m8v6t9/microonde-51GA1000PFM.pdf?rlkey=h5pcju67zp2hggsteto7opmnj&dl=0?raw=1",
                       "dimensione_kb": 117,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/microonde 51GA1000PFM.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/microonde 51GA1000PFM.pdf"
                     },
                     {
                       "nome": "shop.fimargroup.it_interactive1_index.php_route=product_documentation&product_id=2940&filter_model=25SB.pdf",
@@ -119663,7 +119703,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/kjht8o2bp08uvy519bj4j/shop.fimargroup.it_interactive1_index.php_route-product_documentation-product_id-2940-filter_model-25SB.pdf?rlkey=axy1ndvghstqar197nhezcs75&dl=0?raw=1",
                       "dimensione_kb": 99,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/shop.fimargroup.it_interactive1_index.php_route=product_documentation&product_id=2940&filter_model=25SB.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/shop.fimargroup.it_interactive1_index.php_route=product_documentation&product_id=2940&filter_model=25SB.pdf"
                     },
                     {
                       "nome": "vetrine-refrigerate-pizza-statiche-g-ri15038v.pdf",
@@ -119671,7 +119711,7 @@
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/glu6pomgwam8qruuu7ley/vetrine-refrigerate-pizza-statiche-g-ri15038v.pdf?rlkey=dbn5q6s8e9j9qxcpzz4pai7uc&dl=0?raw=1",
                       "dimensione_kb": 74,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA SCHEDE RISORSE ORDINE 260434/vetrine-refrigerate-pizza-statiche-g-ri15038v.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RISORSE ORDINE 260434/vetrine-refrigerate-pizza-statiche-g-ri15038v.pdf"
                     }
                   ],
                   "_totale_file": 17
@@ -119695,19 +119735,19 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/Orsomarso CS - PUGLIESE MATTIA Bozza Soluzione 00.pdf"
                 },
                 {
-                  "nome": "PUGLIESE MATTIA ORDINE 260434 SCANSIONE FIRMATO.pdf",
+                  "nome": "PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 14_09_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/70js5x0z53brzeitrlsea/PUGLIESE-MATTIA-ORDINE-260434-SCANSIONE-FIRMATO.pdf?rlkey=v8hguuy7knkroevamkofpsa5r&dl=0?raw=1",
-                  "dimensione_kb": 1353,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ORDINE 260434 SCANSIONE FIRMATO.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/0l631i5ooou3g64whqqag/PUGLIESE-MATTIA-ORDINE-CON-RICEVUTA-DI-PAGAMENTO-AGGIORNATO-AL-14_09_2026.pdf?rlkey=1sr5cr4d4rpqwn7ie7qq16ln1&dl=0?raw=1",
+                  "dimensione_kb": 646,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 14_09_2026.pdf"
                 }
               ],
-              "_totale_file": 20
+              "_totale_file": 22
             }
           ],
           "file": [],
-          "_totale_file": 20
+          "_totale_file": 22
         },
         {
           "nome": "PIEDIMONTE MATESE",
