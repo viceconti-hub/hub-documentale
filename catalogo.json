@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-16T02:40:06Z",
-  "totale_file": 26924,
+  "generato": "2026-09-16T06:04:47Z",
+  "totale_file": 26934,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7043,
+      "totale_file": 7053,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -486,6 +486,14 @@
               "link": "https://www.dropbox.com/scl/fi/3negrhuiof78waccqvgd4/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Consegna_260799_20260831_155553-RIF.-DETERGENTE-Basato-su-Ordini-cliente-260417..pdf?rlkey=02marmbh0ah697tmhpuzjaf6t&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260799_20260831_155553 RIF. DETERGENTE Basato su Ordini cliente 260417..pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260824_20260915_101509 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260455..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4ykkdza6d1w1a31wwv5nh/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Consegna_260824_20260915_101509-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260455..pdf?rlkey=yxz142qwyzigcqimifgmaykb2&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260824_20260915_101509 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260455..pdf"
             },
             {
               "nome": "BARLASCINI FLAVIO Consegna_260562_20260715_100937 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf",
@@ -1798,6 +1806,14 @@
               "link": "https://www.dropbox.com/scl/fi/t9b19jj1ueizs1b8coz74/GRAN-SOLE-S.r.l.-Consegna_260709_20260811_100356-RIF.-AFFETTATRICE-CARNE-IN-COMODATO.pdf?rlkey=2elhmp1d03fwznduksmyd0oho&dl=0?raw=1",
               "dimensione_kb": 50,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260709_20260811_100356 RIF. AFFETTATRICE CARNE IN COMODATO.pdf"
+            },
+            {
+              "nome": "GRAN SOLE S.r.l. Consegna_260823_20260915_095553 RIF. DETERGENTE RATIONAL AUTODOSE Basato su Ordini cliente 260454..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ugapf77mkdu1yv7zv0d7z/GRAN-SOLE-S.r.l.-Consegna_260823_20260915_095553-RIF.-DETERGENTE-RATIONAL-AUTODOSE-Basato-su-Ordini-cliente-260454..pdf?rlkey=ud0q014qxijawa8u1hzbip6ac&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260823_20260915_095553 RIF. DETERGENTE RATIONAL AUTODOSE Basato su Ordini cliente 260454..pdf"
             },
             {
               "nome": "GRISOLIA DOMENICO Consegna_260555_20260710_180725 RIF. COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 26007.pdf",
@@ -3336,6 +3352,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NERA SRL Consegna_260779_20260827_233641 RIF. ASSISTENZA SU ABBATTITORE COLDLINE W6HS MATRICOLA 012300627 SOSTITUZIONE.pdf"
             },
             {
+              "nome": "NERA SRL Consegna_260822_20260915_094454 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260453..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tddxxuyejeqlvsvqwyq4n/NERA-SRL-Consegna_260822_20260915_094454-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260453..pdf?rlkey=uqlpit8nd6nqkg1xz3mtvt0ui&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NERA SRL Consegna_260822_20260915_094454 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260453..pdf"
+            },
+            {
               "nome": "NEW BAR GRAN CAFFE' srls Consegna_260411_20260615_131236 RIF. AFFETTATRICE IDEA TGL 250 Basato su Ordini cliente 260210..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3792,12 +3816,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/RISTORANTE BAR ALIMENTARI DI GAGLIARDI FRANCA Consegna_260802_20260902_115022 RIF. ASSISTENZA SU AFFETTATRICE FIMAR AFK350M23050M MATRICOLA 110901578.pdf"
             },
             {
-              "nome": "RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA Consegna_260728_20260817_104304 RIF. COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANC.pdf",
+              "nome": "RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA Consegna_260728_20260915_103540 RIF. COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANCO (IMBALLO MINIMO.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/khof0v5kzjkan10h4rmw2/RISTORANTE-CAZZANEDDA-G.S.-sas-di-SISINNI-ANNA-RITA-Consegna_260728_20260817_104304-RIF.-COPPETTA-IMPILABILE-10-CM-H-5-CM-COLLEZIONE-X-TANBUL-BIANC.pdf?rlkey=llw0uuzooueljlg3h1fq6kxod&dl=0?raw=1",
-              "dimensione_kb": 55,
-              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA Consegna_260728_20260817_104304 RIF. COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANC.pdf"
+              "link": "https://www.dropbox.com/scl/fi/nexvii6of87i6j4rnwcaw/RISTORANTE-CAZZANEDDA-G.S.-sas-di-SISINNI-ANNA-RITA-Consegna_260728_20260915_103540-RIF.-COPPETTA-IMPILABILE-10-CM-H-5-CM-COLLEZIONE-X-TANBUL-BIANCO-IMBALLO-MINIMO.pdf?rlkey=f2q55c0r03pampvo19k3xm1vh&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA Consegna_260728_20260915_103540 RIF. COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANCO (IMBALLO MINIMO.pdf"
             },
             {
               "nome": "RISTORANTE DA CESARE Consegna_260632_20260730_154711 RIF. ASSISTENZA SU LAVASTOVIGLIE A CAPPOTTA TOP C60 MATRICOLA 439.pdf",
@@ -4608,7 +4632,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 574
+          "_totale_file": 577
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -4838,6 +4862,14 @@
               "link": "https://www.dropbox.com/scl/fi/kt2ocnpf3kgcypym7ursc/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600366_20260804_105555-RIF.-DETERGENTE-Basato-su-Consegne-260666..pdf?rlkey=vtiys22gfsboyc1xnivq5mzpn&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600366_20260804_105555 RIF. DETERGENTE Basato su Consegne 260666..pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600477_20260915_101530 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260455. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5w9sccbo3ouj1inkrdgaf/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600477_20260915_101530-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260455.-Basato-su-Consegne.pdf?rlkey=cwau84ui54d1ls39ip2p6f3sj&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600477_20260915_101530 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260455. Basato su Consegne.pdf"
             },
             {
               "nome": "BHOTEL SRL Fattura di vendita_2600210_20260612_142252 RIF. BICCHIERE COOLER CORTINA Basato su Offerte di vendita 260184.pdf",
@@ -6416,6 +6448,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LA REGINA S.r.l. Servizi e Logistica Fattura di vendita_2600466_20260902_174305 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260420. Basato su Consegne 260806..pdf"
             },
             {
+              "nome": "LA REGINA S.r.l. Servizi e Logistica Fattura di vendita_2600475_20260914_121808 RIF. OFFERTA SPECIALE Lavabicchieri COMENDA HB34 R Multipower doppia parete con.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pqkd6fx7wi4bvwbdjo9nq/LA-REGINA-S.r.l.-Servizi-e-Logistica-Fattura-di-vendita_2600475_20260914_121808-RIF.-OFFERTA-SPECIALE-Lavabicchieri-COMENDA-HB34-R-Multipower-doppia-parete-con.pdf?rlkey=gjqgrft575oi81w07yn3l81u7&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LA REGINA S.r.l. Servizi e Logistica Fattura di vendita_2600475_20260914_121808 RIF. OFFERTA SPECIALE Lavabicchieri COMENDA HB34 R Multipower doppia parete con.pdf"
+            },
+            {
               "nome": "LA SECCA di FULCO ANTONIO Fattura di vendita_2600292_20260717_095606 RIF. VETRINA REFRIGERATA DA BANCO VPR100 CON VETRO CURVO,CAPACITA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -6846,6 +6886,14 @@
               "link": "https://www.dropbox.com/scl/fi/0fcwbyui9l43j54loke07/NERA-SRL-Fattura-di-vendita_2600449_20260830_232021-RIF.-ASSISTENZA-SU-ABBATTITORE-COLDLINE-W6HS-MATRICOLA-012300627-SOSTITUZIONE.pdf?rlkey=f0mauo2evg2kd48inp0urr4qz&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600449_20260830_232021 RIF. ASSISTENZA SU ABBATTITORE COLDLINE W6HS MATRICOLA 012300627 SOSTITUZIONE.pdf"
+            },
+            {
+              "nome": "NERA SRL Fattura di vendita_2600476_20260915_094506 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260453. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2y37p3y2zpdagigitnuce/NERA-SRL-Fattura-di-vendita_2600476_20260915_094506-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260453.-Basato-su-Consegne.pdf?rlkey=dkj36gcm8vr9xcwifatr2gmk8&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600476_20260915_094506 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260453. Basato su Consegne.pdf"
             },
             {
               "nome": "NEW SCALZIPENNA S.A.S. Fattura di vendita_2600394_20260811_171643 RIF. MIXER A IMMERSIONE MX25 INOX CON MESCOLATORE 30cm (MAX IMMER.pdf",
@@ -7824,7 +7872,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 401
+          "_totale_file": 404
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -68347,6 +68395,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260417_20260827_101035 RIF. DETERGENTE.pdf"
             },
             {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260455_20260915_101014 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/a6elmybwtdd3bw74gu89d/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Ordine-cliente_260455_20260915_101014-RIF.-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=dmtvmryayuaj8vezigmagjfnm&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260455_20260915_101014 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
+            },
+            {
               "nome": "BARLASCINI FLAVIO Ordine cliente_260173_20260527_082920 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69041,6 +69097,14 @@
               "link": "https://www.dropbox.com/scl/fi/u4ayf2eqvpu1zrokqm0jb/GRAN-SOLE-S.r.l.-Ordine-cliente_260178_20260530_100638-RIF.-ACCESSORI-PRESSO-PUNTO-VENDITA-DI-MARATEA.pdf?rlkey=kei9gvf8qj96za0jispycrd2j&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GRAN SOLE S.r.l. Ordine cliente_260178_20260530_100638 RIF. ACCESSORI PRESSO PUNTO VENDITA DI MARATEA.pdf"
+            },
+            {
+              "nome": "GRAN SOLE S.r.l. Ordine cliente_260454_20260915_095535 RIF. DETERGENTE RATIONAL AUTODOSE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wnu66cos4i0ngajnr4ifo/GRAN-SOLE-S.r.l.-Ordine-cliente_260454_20260915_095535-RIF.-DETERGENTE-RATIONAL-AUTODOSE.pdf?rlkey=yrgjxlo1tfjmrfv6pstkqumjo&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GRAN SOLE S.r.l. Ordine cliente_260454_20260915_095535 RIF. DETERGENTE RATIONAL AUTODOSE.pdf"
             },
             {
               "nome": "GRISOLIA DOMENICO Ordine cliente_260085_20260710_175651 RIF. COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 26007.pdf",
@@ -69811,12 +69875,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO DOMENICO Ordine cliente_260287_20260720_115333 RIF. PIASTRA E COLTELLO TRITACARNE 32.pdf"
             },
             {
-              "nome": "MACELLERIA COSENTINO Ordine cliente_260448_20260911_183429 RIF. Basato su Offerte di vendita 260418..pdf",
+              "nome": "MACELLERIA COSENTINO Ordine cliente_260448_20260912_173034 RIF. Basato su Offerte di vendita 260418..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ceowtg1f38iwikd0r9ehm/MACELLERIA-COSENTINO-Ordine-cliente_260448_20260911_183429-RIF.-Basato-su-Offerte-di-vendita-260418..pdf?rlkey=7j5qos0wdse0rac8a7dzmxr36&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/xjzreo2zpqu4znjbkvp88/MACELLERIA-COSENTINO-Ordine-cliente_260448_20260912_173034-RIF.-Basato-su-Offerte-di-vendita-260418..pdf?rlkey=vjfkznky3xhemkz9hw6j5ovr3&dl=0?raw=1",
               "dimensione_kb": 87,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO Ordine cliente_260448_20260911_183429 RIF. Basato su Offerte di vendita 260418..pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO Ordine cliente_260448_20260912_173034 RIF. Basato su Offerte di vendita 260418..pdf"
             },
             {
               "nome": "MACELLERIA LOSARDO GIOVANNINO Ordine cliente_260170_20260603_092842 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
@@ -69929,6 +69993,14 @@
               "link": "https://www.dropbox.com/scl/fi/v237zda5g3iyy187kils7/NERA-SRL-Ordine-cliente_260186_20260605_110102-RIF.-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=jo1fkeoi71csczyb8c0gseyqd&dl=0?raw=1",
               "dimensione_kb": 59,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NERA SRL Ordine cliente_260186_20260605_110102 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
+            },
+            {
+              "nome": "NERA SRL Ordine cliente_260453_20260915_094445 RIF. DETERGENTE LAVABICCHIERI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7oqj402hn4zeviiklyyvq/NERA-SRL-Ordine-cliente_260453_20260915_094445-RIF.-DETERGENTE-LAVABICCHIERI.pdf?rlkey=x7o2mmuac4z6c315vd0p22ycs&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NERA SRL Ordine cliente_260453_20260915_094445 RIF. DETERGENTE LAVABICCHIERI.pdf"
             },
             {
               "nome": "NEW BAR GRAN CAFFE' srls Ordine cliente_260210_20260615_131223 RIF. AFFETTATRICE IDEA TGL 250.pdf",
@@ -70131,12 +70203,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PROVINCIA DI CAMPANIA BASILICATA DEI FRATI MINORI CAPPUCCINI Ordine cliente_260390_20260812_163032 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A,LAMA 20x22,5hcm,Ø1.pdf"
             },
             {
-              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260911_175722 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf",
+              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260914_102352 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/z0edll33hci0omp5xjl2f/PUGLIESE-MATTIA-Ordine-cliente_260434_20260911_175722-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416..pdf?rlkey=ryktk6l48advndm5rw9vwaem9&dl=0?raw=1",
-              "dimensione_kb": 81,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260911_175722 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416..pdf"
+              "link": "https://www.dropbox.com/scl/fi/ybu4txjpsfw0oib2x18dl/PUGLIESE-MATTIA-Ordine-cliente_260434_20260914_102352-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416.-ORDINE-AGGIORNATO-IL.pdf?rlkey=6lw7k0xwbhpctvazzkpwexakc&dl=0?raw=1",
+              "dimensione_kb": 82,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260914_102352 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL.pdf"
             },
             {
               "nome": "Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf",
@@ -70177,6 +70249,14 @@
               "link": "https://www.dropbox.com/scl/fi/rnju1a99jlxs9epxm1b8m/Panificio-D-IMPERIO-snc-Ordine-cliente_260415_20260826_165149-RIF.-CONTENITORI-Basato-su-Offerte-di-vendita-260353..pdf?rlkey=3qf2txay8f5xr31svzu7y8h7m&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio D'IMPERIO snc Ordine cliente_260415_20260826_165149 RIF. CONTENITORI Basato su Offerte di vendita 260353..pdf"
+            },
+            {
+              "nome": "RATTU PENUGU GmbH CATANESE PIETRO Ordine cliente_260452_20260914_164357 RIF. RICAMBI IN GARANZIA PER LAVABICCHIERI ARISTARCO MATRICOLA 50620118.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qrz3cbzy1ci0igsn7r8ed/RATTU-PENUGU-GmbH-CATANESE-PIETRO-Ordine-cliente_260452_20260914_164357-RIF.-RICAMBI-IN-GARANZIA-PER-LAVABICCHIERI-ARISTARCO-MATRICOLA-50620118.pdf?rlkey=5qeohv3hmcgipm6wnyuuqfdz2&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RATTU PENUGU GmbH CATANESE PIETRO Ordine cliente_260452_20260914_164357 RIF. RICAMBI IN GARANZIA PER LAVABICCHIERI ARISTARCO MATRICOLA 50620118.pdf"
             },
             {
               "nome": "RI. SA. LU srls Ordine cliente_260197_20260609_132712 RIF. DETERGENTE E GUARNIZIONE RATIONAL.pdf",
@@ -70659,7 +70739,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 319
+          "_totale_file": 323
         }
       ],
       "file": []
