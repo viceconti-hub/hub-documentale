@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-16T08:16:23Z",
-  "totale_file": 26943,
+  "generato": "2026-09-16T09:23:23Z",
+  "totale_file": 26947,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -235078,7 +235078,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2436,
+      "totale_file": 2440,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -235247,6 +235247,46 @@
             }
           ],
           "_totale_file": 20
+        },
+        {
+          "nome": "PAGAMENTI IN ENTRATA ASSEGNI",
+          "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA ASSEGNI",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "COCCOVELLO AB 21_09_2026 e 31_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fduuem71xsoxoyj6qc52k/COCCOVELLO-AB-21_09_2026-e-31_10_2026.pdf?rlkey=c3k6tna8pekt6dcjxmmh409io&dl=0?raw=1",
+              "dimensione_kb": 423,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA ASSEGNI/COCCOVELLO AB 21_09_2026 e 31_10_2026.pdf"
+            },
+            {
+              "nome": "HAPPY MOMENTS ASSEGNI 31_07_2026 31_08_2026.jpeg",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/e2ox3ewf1sbc5360hvk6j/HAPPY-MOMENTS-ASSEGNI-31_07_2026-31_08_2026.jpeg?rlkey=nccon8vd9jgx5b3d1r6lwhv0o&dl=0?raw=1",
+              "dimensione_kb": 202,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA ASSEGNI/HAPPY MOMENTS ASSEGNI 31_07_2026 31_08_2026.jpeg"
+            },
+            {
+              "nome": "HAPPY MOMENTS SCADENZA 31_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ifceuidcwym5n2i5z7u0u/HAPPY-MOMENTS-SCADENZA-31_10_2026.pdf?rlkey=09uu4psmja20c36ly0kgfm0jg&dl=0?raw=1",
+              "dimensione_kb": 1082,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA ASSEGNI/HAPPY MOMENTS SCADENZA 31_10_2026.pdf"
+            },
+            {
+              "nome": "Saldo contabile - C001320 HAPPY MOMENTS RESTAURANT & SERVICE S.R.L._20260915_203002.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zm94004lcbwnfcajqohi2/Saldo-contabile-C001320-HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L._20260915_203002.pdf?rlkey=5vfox72hrrfaw95sv4bhavesa&dl=0?raw=1",
+              "dimensione_kb": 402,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA ASSEGNI/Saldo contabile - C001320 HAPPY MOMENTS RESTAURANT & SERVICE S.R.L._20260915_203002.pdf"
+            }
+          ],
+          "_totale_file": 4
         },
         {
           "nome": "PAGAMENTI IN USCITA ASSEGNI",
