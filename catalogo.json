@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-16T06:04:47Z",
-  "totale_file": 26934,
+  "generato": "2026-09-16T08:16:23Z",
+  "totale_file": 26943,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -191952,7 +191952,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5093,
+      "totale_file": 5102,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -192038,6 +192038,14 @@
               "link": "https://www.dropbox.com/scl/fi/9z52mf0ioaeglgv5p31w7/ARISTARCO-S.P.A.-Entrata-merci-da-fornitore_260158_20260728_133107-RIF.-AI-CARCONI-MATRICOLA-62720616-Basato-su-Ordini-d-acquisto-26.pdf?rlkey=d1ojm6vq93ilgvmqzfup9oke4&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ARISTARCO S.P.A. Entrata merci da fornitore_260158_20260728_133107 RIF. AI CARCONI MATRICOLA 62720616 Basato su Ordini d'acquisto 26.pdf"
+            },
+            {
+              "nome": "ARISTARCO S.P.A. Entrata merci da fornitore_260174_20260914_164307 RIF. PER LAVABICCHIERI 4120-010009 ORI 40.30 LS PRS DD TF V230 MATRICOLA 50620118.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/250k2cutmhnc6uxvpby0u/ARISTARCO-S.P.A.-Entrata-merci-da-fornitore_260174_20260914_164307-RIF.-PER-LAVABICCHIERI-4120-010009-ORI-40.30-LS-PRS-DD-TF-V230-MATRICOLA-50620118.pdf?rlkey=l58ypwd58yoe4v6emqx9bwbo8&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ARISTARCO S.P.A. Entrata merci da fornitore_260174_20260914_164307 RIF. PER LAVABICCHIERI 4120-010009 ORI 40.30 LS PRS DD TF V230 MATRICOLA 50620118.pdf"
             },
             {
               "nome": "BELLADONNA SRL Entrata merci da fornitore_260079_20260524_171945 RIF. Basato su Ordini d'acquisto 260016. 260017..pdf",
@@ -193080,7 +193088,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 140
+          "_totale_file": 141
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -234717,6 +234725,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260223_20260909_170558 RIF. RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444..pdf"
             },
             {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260229_20260915_164203 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/s3zkcsmaegdqutx7i66o7/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260229_20260915_164203-RIF.-MACELLERIA-COSENTINO-Basato-su-Ordini-cliente-260448..pdf?rlkey=kfr75zry08kw91z8hpcc552xj&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260229_20260915_164203 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260234_20260915_160509 RIF. PUGLIESE MATTIA Basato su Ordini cliente 260434..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/e38z22eqfu32hf9487civ/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260234_20260915_160509-RIF.-PUGLIESE-MATTIA-Basato-su-Ordini-cliente-260434..pdf?rlkey=1789ktyk9fhdcfappei80oq9j&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260234_20260915_160509 RIF. PUGLIESE MATTIA Basato su Ordini cliente 260434..pdf"
+            },
+            {
               "nome": "AIRFAN CONFERMA 3523 VICECONTI SNC CO RIF.YOU MARINA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -234901,6 +234925,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
             },
             {
+              "nome": "FRIGOMECCANICA CONFERMA ORDINE SKM_C300i26091515120-1 RIF.COSENTINO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u4985tojbu7xm53dmmxr4/FRIGOMECCANICA-CONFERMA-ORDINE-SKM_C300i26091515120-1-RIF.COSENTINO.pdf?rlkey=ucy2u9y9m10zbhldcxy68k4y0&dl=0?raw=1",
+              "dimensione_kb": 707,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FRIGOMECCANICA CONFERMA ORDINE SKM_C300i26091515120-1 RIF.COSENTINO.pdf"
+            },
+            {
               "nome": "LOTUS spa Ordine dacquisto_260222_20260909_120649 RIF. Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -234941,12 +234973,36 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA ORDINE DISEGNO CELLA DIM INT 163 X 163 X 243H S6 CP RIF.MACELLERIA COSENTINO.pdf"
             },
             {
+              "nome": "MISA CONFERMA ORDINE RIF. RINTELLI.txt",
+              "tipo": "Testo",
+              "icona": "📃",
+              "link": "https://www.dropbox.com/scl/fi/zlvafvusjl2dbk3pcxbkk/MISA-CONFERMA-ORDINE-RIF.-RINTELLI.txt?rlkey=tnbt1wltubt473eotal7sjbhi&dl=0?raw=1",
+              "dimensione_kb": 1,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA ORDINE RIF. RINTELLI.txt"
+            },
+            {
+              "nome": "MISA DISEGNO RINTELLI POSIZIONE PORTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/na22ev8y8hmnjic9r1ldz/MISA-DISEGNO-RINTELLI-POSIZIONE-PORTA.pdf?rlkey=my4tf5rf9kirxd0duin4jtmea&dl=0?raw=1",
+              "dimensione_kb": 646,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA DISEGNO RINTELLI POSIZIONE PORTA.pdf"
+            },
+            {
               "nome": "MISA SRL Ordine dacquisto_260215_20260908_092659 RIF. Basato su Ordini cliente 250827..pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/ga799el6zb6gxixmpgn6n/MISA-SRL-Ordine-dacquisto_260215_20260908_092659-RIF.-Basato-su-Ordini-cliente-250827..pdf?rlkey=mnumx5owptltcwlr4q3d66zzf&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA SRL Ordine dacquisto_260215_20260908_092659 RIF. Basato su Ordini cliente 250827..pdf"
+            },
+            {
+              "nome": "MISA SRL Ordine dacquisto_260236_20260915_163833 RIF. MACELLERIA COSENTNO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oxeqs715tct7423lxcbk5/MISA-SRL-Ordine-dacquisto_260236_20260915_163833-RIF.-MACELLERIA-COSENTNO.pdf?rlkey=1v194bwgfp8k7qavs7z5n2uks&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA SRL Ordine dacquisto_260236_20260915_163833 RIF. MACELLERIA COSENTNO.pdf"
             },
             {
               "nome": "MODULAR CONFERMA ORDINE 26_06834  MD_SaleOrdForm_2022 RIF.FA TU CESTI.pdf",
@@ -234981,6 +235037,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26021558.pdf"
             },
             {
+              "nome": "SIRMAN spa Ordine dacquisto_260228_20260915_155628 RIF. Basato su Ordini cliente 260448..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g98djcffocrpy5q3gccmc/SIRMAN-spa-Ordine-dacquisto_260228_20260915_155628-RIF.-Basato-su-Ordini-cliente-260448..pdf?rlkey=yaj81970752vdx46e1ehuivbv&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260228_20260915_155628 RIF. Basato su Ordini cliente 260448..pdf"
+            },
+            {
+              "nome": "SIRMAN spa Ordine dacquisto_260233_20260915_162404 RIF. PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0vqwplldkensdl137xn7h/SIRMAN-spa-Ordine-dacquisto_260233_20260915_162404-RIF.-PUGLIESE-MATTIA-FORNO-PIZZA-E-CAVALLETTO-Basato-su-Ordini-cliente-260434..pdf?rlkey=txa5ogm17zr3kwv94s8mgxvgn&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260233_20260915_162404 RIF. PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434..pdf"
+            },
+            {
               "nome": "STAFF ICE SYSTEM SRL Ordine dacquisto_260205_20260807_092218 RIF. RICAMBI PER PESCHERIA AZZURRA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -234997,7 +235069,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3800
+          "_totale_file": 3808
         }
       ],
       "file": []
