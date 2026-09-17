@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-17T07:51:45Z",
-  "totale_file": 26959,
+  "generato": "2026-09-17T08:58:10Z",
+  "totale_file": 26960,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -235182,7 +235182,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2440,
+      "totale_file": 2441,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -235348,9 +235348,17 @@
               "link": "https://www.dropbox.com/scl/fi/eb7hkzzs8l7wwc7r7exwj/VELARDI-RIEPILOGO-TITOLI-RITIRATI-IL-14_4_2026.xlsx?rlkey=1ymniofje4vkht68pmhev1de3&dl=0?raw=1",
               "dimensione_kb": 9,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/VELARDI RIEPILOGO TITOLI RITIRATI IL 14_4_2026.xlsx"
+            },
+            {
+              "nome": "pdf8190000073064447897.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/15y0wole8w0gxcmli13x8/pdf8190000073064447897.pdf?rlkey=lnmvujomdlbrfh4maqzr1zw1n&dl=0?raw=1",
+              "dimensione_kb": 37,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA/pdf8190000073064447897.pdf"
             }
           ],
-          "_totale_file": 20
+          "_totale_file": 21
         },
         {
           "nome": "PAGAMENTI IN ENTRATA ASSEGNI",
