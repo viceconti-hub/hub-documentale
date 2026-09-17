@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-17T05:44:32Z",
-  "totale_file": 26955,
+  "generato": "2026-09-17T07:51:45Z",
+  "totale_file": 26959,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -192024,7 +192024,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5102,
+      "totale_file": 5106,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -234781,6 +234781,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-002734-2026 RIF.RINALDI SRLS CAPPA.pdf"
             },
             {
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-002799-2026 RIF.PULGLIESE MATTIA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8xauvwa4scbxih8n6son1/ACCIAIO-T-D-CONFERMA-ORDVE-002799-2026-RIF.PULGLIESE-MATTIA.pdf?rlkey=m67k3xaz657zug8ts61njx8qg&dl=0?raw=1",
+              "dimensione_kb": 742,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-002799-2026 RIF.PULGLIESE MATTIA.pdf"
+            },
+            {
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-002800-2026 RIF.MACELLERIA COSENTINO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f509uw2xtboeeje570xpq/ACCIAIO-T-D-CONFERMA-ORDVE-002800-2026-RIF.MACELLERIA-COSENTINO.pdf?rlkey=n91ts1iyybycuhf6paspa5fa1&dl=0?raw=1",
+              "dimensione_kb": 740,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-002800-2026 RIF.MACELLERIA COSENTINO.pdf"
+            },
+            {
               "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260214_20260831_122334 RIF. LA SECCA PENSILE 120X60 Basato su Ordini cliente 260425..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -235021,6 +235037,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MECNOSUD CONFERMA 7449 DEL 23_07_2026 VICECONTI SNC - R_7449 RIF. MARATEA SERVIZI SPIRALE.pdf"
             },
             {
+              "nome": "MISA CONFERMA DISEGNO SO20262382 RIF.RINTELLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/l8peanimjpf5w5ipssvau/MISA-CONFERMA-DISEGNO-SO20262382-RIF.RINTELLI.pdf?rlkey=5lbjs3qhw1i9bipesgz1f3n8c&dl=0?raw=1",
+              "dimensione_kb": 201,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA DISEGNO SO20262382 RIF.RINTELLI.pdf"
+            },
+            {
               "nome": "MISA CONFERMA ORDINE CELLA RIF.MACELLERIA COSENTINO.png",
               "tipo": "Immagine",
               "icona": "🖼️",
@@ -235051,6 +235075,14 @@
               "link": "https://www.dropbox.com/scl/fi/zlvafvusjl2dbk3pcxbkk/MISA-CONFERMA-ORDINE-RIF.-RINTELLI.txt?rlkey=tnbt1wltubt473eotal7sjbhi&dl=0?raw=1",
               "dimensione_kb": 1,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA ORDINE RIF. RINTELLI.txt"
+            },
+            {
+              "nome": "MISA CONFERMA Ordine vendita SO20262382 RIF.RINTELLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7c2c1hjmmpujhpfg2i0ov/MISA-CONFERMA-Ordine-vendita-SO20262382-RIF.RINTELLI.pdf?rlkey=ellpqxxrlawyskk3zhujcvs5d&dl=0?raw=1",
+              "dimensione_kb": 509,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA Ordine vendita SO20262382 RIF.RINTELLI.pdf"
             },
             {
               "nome": "MISA DISEGNO RINTELLI POSIZIONE PORTA.pdf",
@@ -235109,12 +235141,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26021558.pdf"
             },
             {
-              "nome": "SIRMAN spa Ordine dacquisto_260228_20260915_155628 RIF. Basato su Ordini cliente 260448..pdf",
+              "nome": "SIRMAN spa Ordine dacquisto_260228_20260915_155628 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/g98djcffocrpy5q3gccmc/SIRMAN-spa-Ordine-dacquisto_260228_20260915_155628-RIF.-Basato-su-Ordini-cliente-260448..pdf?rlkey=yaj81970752vdx46e1ehuivbv&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/4bzyojmjtjls59rc6v9d5/SIRMAN-spa-Ordine-dacquisto_260228_20260915_155628-RIF.-MACELLERIA-COSENTINO-Basato-su-Ordini-cliente-260448..pdf?rlkey=6eturvvt6sg3qtm6ni6ybq7wl&dl=0?raw=1",
               "dimensione_kb": 61,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260228_20260915_155628 RIF. Basato su Ordini cliente 260448..pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260228_20260915_155628 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf"
             },
             {
               "nome": "SIRMAN spa Ordine dacquisto_260233_20260915_162404 RIF. PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434..pdf",
@@ -235141,7 +235173,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3808
+          "_totale_file": 3812
         }
       ],
       "file": []
