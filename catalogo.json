@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-17T02:28:02Z",
-  "totale_file": 26951,
+  "generato": "2026-09-17T05:44:32Z",
+  "totale_file": 26955,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7053,
+      "totale_file": 7057,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -366,6 +366,14 @@
               "link": "https://www.dropbox.com/scl/fi/r8o04l72ghoucftlnphub/AZIENDA-AGRICOLA-LA-CAPPELLINA-DI-ROSA-FORASTIERO-Consegna_260513_20260703_193609-RIF.-VETRINA-MIX-CON-VETRI-EXTRACHIARI-SNACK-FREDDO-VENTILATO-MOD.pdf?rlkey=ho0srjh9x8fvhpnki5497ngh9&dl=0?raw=1",
               "dimensione_kb": 54,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Consegna_260513_20260703_193609 RIF. VETRINA MIX CON VETRI EXTRACHIARI SNACK FREDDO VENTILATO MOD.pdf"
+            },
+            {
+              "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Consegna_260825_20260916_123306 RIF. CSR Basilicata 2023-2027 SRD03 CUP F92H25000660007 Basato su Offerte di.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c1duy8ueihk25x1nyefmz/AZIENDA-AGRICOLA-LA-CAPPELLINA-DI-ROSA-FORASTIERO-Consegna_260825_20260916_123306-RIF.-CSR-Basilicata-2023-2027-SRD03-CUP-F92H25000660007-Basato-su-Offerte-di.pdf?rlkey=40ike5a9q2cctd7hfcurj14qs&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Consegna_260825_20260916_123306 RIF. CSR Basilicata 2023-2027 SRD03 CUP F92H25000660007 Basato su Offerte di.pdf"
             },
             {
               "nome": "AZIENDA AGRICOLA PECORELLI FRANCESCO Consegna_260430_20260618_131624 RIF. Basato su Ordini cliente 260218..pdf",
@@ -4632,7 +4640,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 577
+          "_totale_file": 578
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -4782,6 +4790,14 @@
               "link": "https://www.dropbox.com/scl/fi/zhbzkqgvys5r8dlv186k6/ALICE-SRLS-Fattura-di-vendita_2500880_20260906_205749-RIF.-Rif.-Accordo-Quadro-di-messa-a-disposizione-beni-spazi-e-servizi-Anno-2025.pdf?rlkey=mgzip738nyjkucosib02praly&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ALICE SRLS Fattura di vendita_2500880_20260906_205749 RIF. Rif. Accordo Quadro di messa a disposizione beni, spazi e servizi – Anno 2025 –.pdf"
+            },
+            {
+              "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Fattura di vendita_2600478_20260916_123546 RIF. CSR Basilicata 2023-2027 SRD03 CUP F92H25000660007 Basato su Offerte di.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/84z73nnoeboklbfrtz8ls/AZIENDA-AGRICOLA-LA-CAPPELLINA-DI-ROSA-FORASTIERO-Fattura-di-vendita_2600478_20260916_123546-RIF.-CSR-Basilicata-2023-2027-SRD03-CUP-F92H25000660007-Basato-su-Offerte-di.pdf?rlkey=bjtqhc2gxz5fczwrth8xhwrj3&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO Fattura di vendita_2600478_20260916_123546 RIF. CSR Basilicata 2023-2027 SRD03 CUP F92H25000660007 Basato su Offerte di.pdf"
             },
             {
               "nome": "AZIENDA AGRICOLA PECORELLI FRANCESCO Fattura di vendita_2600212_20260618_131651 RIF. HOTELLERIE Basato su Ordini cliente 260218. Basato su Conseg.pdf",
@@ -7872,7 +7888,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 404
+          "_totale_file": 405
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -9248,6 +9264,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MAMA MIA LTD Offerta di vendita_260222_20260618_122617.pdf"
             },
             {
+              "nome": "MAMA MIA LTD Offerta di vendita_260426_20260916_124218 RIF. RICAMBI PER W5UG SN 022102314.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yqx7v28xgie68hau5z4t2/MAMA-MIA-LTD-Offerta-di-vendita_260426_20260916_124218-RIF.-RICAMBI-PER-W5UG-SN-022102314.pdf?rlkey=9frxpgqab685pzz91s1zogf5x&dl=0?raw=1",
+              "dimensione_kb": 79,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MAMA MIA LTD Offerta di vendita_260426_20260916_124218 RIF. RICAMBI PER W5UG SN 022102314.pdf"
+            },
+            {
               "nome": "MAMMI' MARIANNA Offerta di vendita_260401_20260829_200639.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9872,7 +9896,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 249
+          "_totale_file": 250
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -68643,6 +68667,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA BINARIO 1 Ordine cliente_260395_20260817_105306 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
             },
             {
+              "nome": "CORRADO MICHELA BINARIO 1 Ordine cliente_260456_20260916_104842 RIF. OFFERTA SPECIALE TAVOLO CONGELATORE 2 SPORTELLI FORCAR USATO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rybpkzjvgqptg7bocyirg/CORRADO-MICHELA-BINARIO-1-Ordine-cliente_260456_20260916_104842-RIF.-OFFERTA-SPECIALE-TAVOLO-CONGELATORE-2-SPORTELLI-FORCAR-USATO.pdf?rlkey=t16704vsm4hk6qd52ys0uqtom&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA BINARIO 1 Ordine cliente_260456_20260916_104842 RIF. OFFERTA SPECIALE TAVOLO CONGELATORE 2 SPORTELLI FORCAR USATO.pdf"
+            },
+            {
               "nome": "CORRADO MICHELA Ordine cliente_260166_20260603_103030 RIF. Armadio LevTronic 550 -20°+40°C RH 45÷95% 1 porta.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -70203,12 +70235,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PROVINCIA DI CAMPANIA BASILICATA DEI FRATI MINORI CAPPUCCINI Ordine cliente_260390_20260812_163032 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A,LAMA 20x22,5hcm,Ø1.pdf"
             },
             {
-              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260914_102352 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL.pdf",
+              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260915_214500 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ybu4txjpsfw0oib2x18dl/PUGLIESE-MATTIA-Ordine-cliente_260434_20260914_102352-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416.-ORDINE-AGGIORNATO-IL.pdf?rlkey=6lw7k0xwbhpctvazzkpwexakc&dl=0?raw=1",
-              "dimensione_kb": 82,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260914_102352 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL.pdf"
+              "link": "https://www.dropbox.com/scl/fi/8rz4ql2q20ydw8ejio3it/PUGLIESE-MATTIA-Ordine-cliente_260434_20260915_214500-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416.-ORDINE-AGGIORNATO-IL.pdf?rlkey=xcd3okpvcbay2nd30dbszcpov&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260915_214500 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL.pdf"
             },
             {
               "nome": "Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf",
@@ -70251,12 +70283,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio D'IMPERIO snc Ordine cliente_260415_20260826_165149 RIF. CONTENITORI Basato su Offerte di vendita 260353..pdf"
             },
             {
-              "nome": "RATTU PENUGU GmbH CATANESE PIETRO Ordine cliente_260452_20260914_164357 RIF. RICAMBI IN GARANZIA PER LAVABICCHIERI ARISTARCO MATRICOLA 50620118.pdf",
+              "nome": "RATTU PENUGU GmbH CATANESE PIETRO Ordine cliente_260452_20260915_175755 RIF. RICAMBI IN GARANZIA PER LAVABICCHIERI ARISTARCO MATRICOLA 50620118.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qrz3cbzy1ci0igsn7r8ed/RATTU-PENUGU-GmbH-CATANESE-PIETRO-Ordine-cliente_260452_20260914_164357-RIF.-RICAMBI-IN-GARANZIA-PER-LAVABICCHIERI-ARISTARCO-MATRICOLA-50620118.pdf?rlkey=5qeohv3hmcgipm6wnyuuqfdz2&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/81cx4n8kmaya9gcskoc86/RATTU-PENUGU-GmbH-CATANESE-PIETRO-Ordine-cliente_260452_20260915_175755-RIF.-RICAMBI-IN-GARANZIA-PER-LAVABICCHIERI-ARISTARCO-MATRICOLA-50620118.pdf?rlkey=a0iidyivu6vh6ureain2u6yam&dl=0?raw=1",
               "dimensione_kb": 71,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RATTU PENUGU GmbH CATANESE PIETRO Ordine cliente_260452_20260914_164357 RIF. RICAMBI IN GARANZIA PER LAVABICCHIERI ARISTARCO MATRICOLA 50620118.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RATTU PENUGU GmbH CATANESE PIETRO Ordine cliente_260452_20260915_175755 RIF. RICAMBI IN GARANZIA PER LAVABICCHIERI ARISTARCO MATRICOLA 50620118.pdf"
             },
             {
               "nome": "RI. SA. LU srls Ordine cliente_260197_20260609_132712 RIF. DETERGENTE E GUARNIZIONE RATIONAL.pdf",
@@ -70739,7 +70771,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 323
+          "_totale_file": 324
         }
       ],
       "file": []
