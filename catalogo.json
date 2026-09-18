@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-17T09:13:14Z",
+  "generato": "2026-09-18T00:31:56Z",
   "totale_file": 26960,
   "totale_sezioni": 8,
   "sezioni": [
@@ -142016,6 +142016,22 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO",
               "cartelle": [
                 {
+                  "nome": "MACELLERIA COSENTINO ORIDNI CLIENTE",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/MACELLERIA COSENTINO ORIDNI CLIENTE",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "MACELLERIA COSENTINO - Ordine cliente n° 260448 del 11 10 2026.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/73idnr0l266ksfzj54jaw/MACELLERIA-COSENTINO-Ordine-cliente-n-260448-del-11-10-2026.pdf?rlkey=261z2parl9hc0gstlh98vvjhm&dl=0?raw=1",
+                      "dimensione_kb": 93,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/MACELLERIA COSENTINO ORIDNI CLIENTE/MACELLERIA COSENTINO - Ordine cliente n° 260448 del 11 10 2026.pdf"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
                   "nome": "MACELLERIA COSENTINO RISORSE ORDINE 260448",
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/MACELLERIA COSENTINO RISORSE ORDINE 260448",
                   "cartelle": [],
@@ -142120,16 +142136,7 @@
                   "_totale_file": 12
                 }
               ],
-              "file": [
-                {
-                  "nome": "MACELLERIA COSENTINO - Ordine cliente n° 260448 del 11 10 2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/73idnr0l266ksfzj54jaw/MACELLERIA-COSENTINO-Ordine-cliente-n-260448-del-11-10-2026.pdf?rlkey=261z2parl9hc0gstlh98vvjhm&dl=0?raw=1",
-                  "dimensione_kb": 93,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/MACELLERIA COSENTINO - Ordine cliente n° 260448 del 11 10 2026.pdf"
-                }
-              ],
+              "file": [],
               "_totale_file": 13
             },
             {
