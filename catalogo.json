@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-18T00:31:56Z",
+  "generato": "2026-09-18T02:33:39Z",
   "totale_file": 26960,
   "totale_sezioni": 8,
   "sezioni": [
@@ -151989,6 +151989,14 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "ARTINOX LISTINO 2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xy0yvbde66e4rygvs2rwe/ARTINOX-LISTINO-2024.pdf?rlkey=c4vjult6dh1xmyv53wh2mgep4&dl=0?raw=1",
+                  "dimensione_kb": 21772,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO/ARTINOX LISTINO 2024.pdf"
+                },
+                {
                   "nome": "ARTINOX _ITALIANO_Luglio 2021 ecxel.xlsx",
                   "tipo": "Excel",
                   "icona": "📊",
@@ -152053,7 +152061,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX ARCHIVIO/NUOVO LISTINO 2022_marzo_ITALIANO_originale.xlsx"
                 }
               ],
-              "_totale_file": 8
+              "_totale_file": 9
             },
             {
               "nome": "ARTINOX CATALOGHI",
@@ -152144,14 +152152,6 @@
               "link": "https://www.dropbox.com/scl/fi/vfyfdfdn7zphdl715u3j6/100.ARTINOX-LISTINO-2026-Catalogo-Shelvings-2026-ed.3-Vrs-digitale-aff-Con-Prezzi-Protetta.pdf?rlkey=vegjexrfjms921yc407h4w0sp&dl=0?raw=1",
               "dimensione_kb": 18992,
               "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/100.ARTINOX LISTINO 2026 Catalogo Shelvings 2026 ed.3 - Vrs digitale aff Con Prezzi - Protetta.pdf"
-            },
-            {
-              "nome": "ARTINOX LISTINO 2024.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xy0yvbde66e4rygvs2rwe/ARTINOX-LISTINO-2024.pdf?rlkey=c4vjult6dh1xmyv53wh2mgep4&dl=0?raw=1",
-              "dimensione_kb": 21772,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ARTINOX/ARTINOX LISTINO 2024.pdf"
             }
           ],
           "_totale_file": 18
