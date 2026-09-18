@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-18T02:33:39Z",
-  "totale_file": 26960,
+  "generato": "2026-09-18T05:51:28Z",
+  "totale_file": 26969,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7057,
+      "totale_file": 7066,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -390,6 +390,14 @@
               "link": "https://www.dropbox.com/scl/fi/rr2ibo1anqvwusg7sbgle/AZIENDA-AGRICOLA-PECORELLI-FRANCESCO-Consegna_260548_20260707_125909-RIF.-MACCHINA-SOTTOVUOTO-UNIVAC-SMALL-Basato-su-Ordini-cliente-26.pdf?rlkey=txip3pzempq5uyxsq59uytmmc&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AZIENDA AGRICOLA PECORELLI FRANCESCO Consegna_260548_20260707_125909 RIF. MACCHINA SOTTOVUOTO UNIVAC SMALL Basato su Ordini cliente 26.pdf"
+            },
+            {
+              "nome": "AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Consegna_260827_20260917_103140 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260457..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ik7cez8e9csbz3qhm4fvg/AZIENDA-VINICOLA-GIOIA-AL-NEGRO-S.A.S.-di-D.-Gioia-ed-E.-Fattorini-C.-Consegna_260827_20260917_103140-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260457..pdf?rlkey=gkxei0kaic7yqzonj8akhj9rs&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Consegna_260827_20260917_103140 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260457..pdf"
             },
             {
               "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Consegna_260391_20260609_100006 RIF. DETEGENTE LAVABICCHIERI Basato su Ordini cliente 260194..pdf",
@@ -3800,6 +3808,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio MAGIE DI GRANO DI LATRONICO PIETRO E DI LASCIO ANTONIO SNC Consegna_260778_20260827_231945 RIF. ASSISTENZA SU BILANCIA ITALIANA MACCHI MACH3000E MATRICOLA 6-062373.pdf"
             },
             {
+              "nome": "RATTU PENUGU GmbH CATANESE PIETRO Consegna_260826_20260916_131906 RIF. RICAMBI IN GARANZIA PER LAVABICCHIERI ARISTARCO MATRICOLA 50620118 Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mr5k6vyqgjqh53twlwwdh/RATTU-PENUGU-GmbH-CATANESE-PIETRO-Consegna_260826_20260916_131906-RIF.-RICAMBI-IN-GARANZIA-PER-LAVABICCHIERI-ARISTARCO-MATRICOLA-50620118-Basato-su.pdf?rlkey=y0yioz374puwip0zbf4z2o3w3&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/RATTU PENUGU GmbH CATANESE PIETRO Consegna_260826_20260916_131906 RIF. RICAMBI IN GARANZIA PER LAVABICCHIERI ARISTARCO MATRICOLA 50620118 Basato su.pdf"
+            },
+            {
               "nome": "RI.SA.LU srls Consegna_260416_20260616_081046 RIF. DETERGENTE E GUARNIZIONE RATIONAL Basato su Ordini cliente 2.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4640,7 +4656,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 578
+          "_totale_file": 580
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -4806,6 +4822,14 @@
               "link": "https://www.dropbox.com/scl/fi/i39hg9bplsrug122ife52/AZIENDA-AGRICOLA-PECORELLI-FRANCESCO-Fattura-di-vendita_2600212_20260618_131651-RIF.-HOTELLERIE-Basato-su-Ordini-cliente-260218.-Basato-su-Conseg.pdf?rlkey=723walm3o3keawwepdk4trefe&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/AZIENDA AGRICOLA PECORELLI FRANCESCO Fattura di vendita_2600212_20260618_131651 RIF. HOTELLERIE Basato su Ordini cliente 260218. Basato su Conseg.pdf"
+            },
+            {
+              "nome": "AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Fattura di vendita_2600479_20260917_103154 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260457. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/661l8bbd6b49lvz6nrszv/AZIENDA-VINICOLA-GIOIA-AL-NEGRO-S.A.S.-di-D.-Gioia-ed-E.-Fattorini-C.-Fattura-di-vendita_2600479_20260917_103154-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260457.-Basato-su-Consegne.pdf?rlkey=upvknt5x5q3yoqjrgt91oglt7&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Fattura di vendita_2600479_20260917_103154 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260457. Basato su Consegne.pdf"
             },
             {
               "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Fattura di vendita_2600204_20260609_100021 RIF. DETEGENTE LAVABICCHIERI Basato su Ordini cliente 260194. Bas.pdf",
@@ -7888,7 +7912,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 405
+          "_totale_file": 406
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -8600,6 +8624,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260368_20260826_175008.pdf"
             },
             {
+              "nome": "DA SPECIFICARE WEB Offerta di vendita_260428_20260917_130204 RIF. COPERCHIO GRIGLIATO PER IMPASTATRICE FIMAR IM38SBN0V405T MATRICOLA 240711943.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bwnrtwrrnufwlt20evcy1/DA-SPECIFICARE-WEB-Offerta-di-vendita_260428_20260917_130204-RIF.-COPERCHIO-GRIGLIATO-PER-IMPASTATRICE-FIMAR-IM38SBN0V405T-MATRICOLA-240711943.pdf?rlkey=ixov3man8ilnvolnu3cn5lvof&dl=0?raw=1",
+              "dimensione_kb": 80,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE WEB Offerta di vendita_260428_20260917_130204 RIF. COPERCHIO GRIGLIATO PER IMPASTATRICE FIMAR IM38SBN0V405T MATRICOLA 240711943.pdf"
+            },
+            {
               "nome": "DE FILIPPO ROCCO Offerta di vendita_260194_20260605_111616 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -8718,6 +8750,14 @@
               "link": "https://www.dropbox.com/scl/fi/wtvf7fiqpywh50gvd76ji/EUROPAPOLICE-SRL-Offerta-di-vendita_260266_20260715_114249-RIF.-SANIFICATORE-DA-PAVIMENTO-ALL-OZONO-MOD.-O3-TOWER-28-PRODUZ.pdf?rlkey=cmxz4jkl34i8dne4ny6avzyer&dl=0?raw=1",
               "dimensione_kb": 81,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/EUROPAPOLICE SRL Offerta di vendita_260266_20260715_114249 RIF. SANIFICATORE DA PAVIMENTO ALL'OZONO MOD. O3 TOWER 28, PRODUZ.pdf"
+            },
+            {
+              "nome": "EVRA S.R.L. Offerta di vendita_260429_20260917_173333 RIF. MACINA SPEZIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u8hiz0s2lw94c0qn2mgmu/EVRA-S.R.L.-Offerta-di-vendita_260429_20260917_173333-RIF.-MACINA-SPEZIE.pdf?rlkey=j26iqpzan60l9naln7l85yp4p&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/EVRA S.R.L. Offerta di vendita_260429_20260917_173333 RIF. MACINA SPEZIE.pdf"
             },
             {
               "nome": "FORASTIERO FRANCESCO Offerta di vendita_260188_20260526_183020.pdf",
@@ -9240,6 +9280,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260418_20260908_150106.pdf"
             },
             {
+              "nome": "MACELLERIA COSENTINO Offerta di vendita_260427_20260916_235248.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ar3bm5o8n3odyh0cvvbhq/MACELLERIA-COSENTINO-Offerta-di-vendita_260427_20260916_235248.pdf?rlkey=k39a3t5gn0d2364lho1a783pn&dl=0?raw=1",
+              "dimensione_kb": 87,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260427_20260916_235248.pdf"
+            },
+            {
               "nome": "MADI SNC di DISMA CASELLA & C. Offerta di vendita_260278_20260722_160656 RIF. POSATE CONCA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9632,6 +9680,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RINTELLI GIOVANNI Offerta di vendita_260419_20260907_180512.pdf"
             },
             {
+              "nome": "RINTELLI GIOVANNI Offerta di vendita_260430_20260917_213715 RIF. SCAFFALE ARTINOX ECOCOLOR 130X40X180H 4 RIPIANI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hqyj4tq1iu0v58aq8dbcb/RINTELLI-GIOVANNI-Offerta-di-vendita_260430_20260917_213715-RIF.-SCAFFALE-ARTINOX-ECOCOLOR-130X40X180H-4-RIPIANI.pdf?rlkey=crp7pubhhdnq5vgysp4up4qm7&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RINTELLI GIOVANNI Offerta di vendita_260430_20260917_213715 RIF. SCAFFALE ARTINOX ECOCOLOR 130X40X180H 4 RIPIANI.pdf"
+            },
+            {
               "nome": "RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA Offerta di vendita_260348_20260811_172444 RIF. COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANC.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9896,7 +9952,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 250
+          "_totale_file": 254
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -68363,6 +68419,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AZIENDA AGRICOLA PECORELLI FRANCESCO Ordine cliente_260218_20260617_121045.pdf"
             },
             {
+              "nome": "AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Ordine cliente_260457_20260917_103124 RIF. DETERGENTE LAVABICCHIERI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4syo5xykgzzwm8hz6dnla/AZIENDA-VINICOLA-GIOIA-AL-NEGRO-S.A.S.-di-D.-Gioia-ed-E.-Fattorini-C.-Ordine-cliente_260457_20260917_103124-RIF.-DETERGENTE-LAVABICCHIERI.pdf?rlkey=0yvb8lyio18qihnlrydjio24a&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AZIENDA VINICOLA GIOIA AL NEGRO S.A.S. di D. Gioia ed E. Fattorini & C. Ordine cliente_260457_20260917_103124 RIF. DETERGENTE LAVABICCHIERI.pdf"
+            },
+            {
               "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Ordine cliente_260194_20260609_095951 RIF. DETEGENTE LAVABICCHIERI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69907,12 +69971,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO DOMENICO Ordine cliente_260287_20260720_115333 RIF. PIASTRA E COLTELLO TRITACARNE 32.pdf"
             },
             {
-              "nome": "MACELLERIA COSENTINO Ordine cliente_260448_20260912_173034 RIF. Basato su Offerte di vendita 260418..pdf",
+              "nome": "MACELLERIA COSENTINO Ordine cliente_260448_20260917_194725 RIF. ATTREZZATURE MACELLERIA Basato su Offerte di vendita 260418. AGGIORNATO AL.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xjzreo2zpqu4znjbkvp88/MACELLERIA-COSENTINO-Ordine-cliente_260448_20260912_173034-RIF.-Basato-su-Offerte-di-vendita-260418..pdf?rlkey=vjfkznky3xhemkz9hw6j5ovr3&dl=0?raw=1",
-              "dimensione_kb": 87,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO Ordine cliente_260448_20260912_173034 RIF. Basato su Offerte di vendita 260418..pdf"
+              "link": "https://www.dropbox.com/scl/fi/lq8wgc9f2wca1wwmg7mks/MACELLERIA-COSENTINO-Ordine-cliente_260448_20260917_194725-RIF.-ATTREZZATURE-MACELLERIA-Basato-su-Offerte-di-vendita-260418.-AGGIORNATO-AL.pdf?rlkey=sc59k90vuerk1ftpugp5g44rd&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO Ordine cliente_260448_20260917_194725 RIF. ATTREZZATURE MACELLERIA Basato su Offerte di vendita 260418. AGGIORNATO AL.pdf"
             },
             {
               "nome": "MACELLERIA LOSARDO GIOVANNINO Ordine cliente_260170_20260603_092842 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
@@ -69969,6 +70033,14 @@
               "link": "https://www.dropbox.com/scl/fi/fevz6fid7p99qu0twv2wq/MAGONETTI-SNC-DI-ANDREA-GIORGETTI-E-CHIARA-MAGONARA-Ordine-cliente_260150_20260516_165845-RIF.-CONTENITORE-ISOTERMICO-CON-COPERCHIO-LT-53.pdf?rlkey=cy7gkojcr5u5ru7h7mfl3z9jq&dl=0?raw=1",
               "dimensione_kb": 57,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MAGONETTI SNC DI ANDREA GIORGETTI E CHIARA MAGONARA Ordine cliente_260150_20260516_165845 RIF. CONTENITORE ISOTERMICO CON COPERCHIO LT 53.pdf"
+            },
+            {
+              "nome": "MAMA MIA LTD Ordine cliente_260459_20260917_163613 RIF. fattura esente IVA Cessioni ad esportatori non residenti art. 8 comma 1.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/amj0nndsmq74ow7kyt1ec/MAMA-MIA-LTD-Ordine-cliente_260459_20260917_163613-RIF.-fattura-esente-IVA-Cessioni-ad-esportatori-non-residenti-art.-8-comma-1.pdf?rlkey=o0clbzed31ng3gvd6n68r6j2k&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MAMA MIA LTD Ordine cliente_260459_20260917_163613 RIF. fattura esente IVA Cessioni ad esportatori non residenti art. 8 comma 1.pdf"
             },
             {
               "nome": "MS NAPOLEONE SRL Ordine cliente_260294_20260721_112805 RIF. ASCIUGA LUCIDA POSATE MOD.STAR EVO MANUALE Basato su Offerte.pdf",
@@ -70771,7 +70843,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 324
+          "_totale_file": 326
         }
       ],
       "file": []
