@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-18T05:51:28Z",
-  "totale_file": 26969,
+  "generato": "2026-09-18T08:00:12Z",
+  "totale_file": 26976,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -192103,7 +192103,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5106,
+      "totale_file": 5113,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -202493,6 +202493,126 @@
           "nome": "ORDINI D'ACQUISTO",
           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO",
           "cartelle": [
+            {
+              "nome": "MISA CONFERME D'ORDINE",
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "MISA CONFERAM DISEGNO SO20262400 PORTA SX RIF.LUTIPICO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dusr0600fi0x4szplad3z/MISA-CONFERAM-DISEGNO-SO20262400-PORTA-SX-RIF.LUTIPICO.pdf?rlkey=vde6ktbyw1qxi5c4n9n53dxml&dl=0?raw=1",
+                  "dimensione_kb": 193,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA CONFERAM DISEGNO SO20262400 PORTA SX RIF.LUTIPICO.pdf"
+                },
+                {
+                  "nome": "MISA CONFERMA DISEGNO ASS_INSTR_SO20262401 RIF. MACELLERIA COSENTINO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/sr37ksbt1ofzb7n7cqbe5/MISA-CONFERMA-DISEGNO-ASS_INSTR_SO20262401-RIF.-MACELLERIA-COSENTINO.pdf?rlkey=1s1js0bxa0o47vsl1cro2s47i&dl=0?raw=1",
+                  "dimensione_kb": 30,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA CONFERMA DISEGNO ASS_INSTR_SO20262401 RIF. MACELLERIA COSENTINO.pdf"
+                },
+                {
+                  "nome": "MISA CONFERMA DISEGNO SO20262382 RIF.RINTELLI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/l8peanimjpf5w5ipssvau/MISA-CONFERMA-DISEGNO-SO20262382-RIF.RINTELLI.pdf?rlkey=5lbjs3qhw1i9bipesgz1f3n8c&dl=0?raw=1",
+                  "dimensione_kb": 201,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA CONFERMA DISEGNO SO20262382 RIF.RINTELLI.pdf"
+                },
+                {
+                  "nome": "MISA CONFERMA DISEGNO SO20262400 PORTA DX RIF.LUTIPICO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/apuf4e98h91zl5xc1izkq/MISA-CONFERMA-DISEGNO-SO20262400-PORTA-DX-RIF.LUTIPICO.pdf?rlkey=b2fpz8fihy6xn7gqvd3iriefk&dl=0?raw=1",
+                  "dimensione_kb": 204,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA CONFERMA DISEGNO SO20262400 PORTA DX RIF.LUTIPICO.pdf"
+                },
+                {
+                  "nome": "MISA CONFERMA ORDINE CELLA RIF.MACELLERIA COSENTINO.png",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/o7clkrh599chkqim06v2w/MISA-CONFERMA-ORDINE-CELLA-RIF.MACELLERIA-COSENTINO.png?rlkey=u7nfbiwgum1rm8rm5eh9t0iqu&dl=0?raw=1",
+                  "dimensione_kb": 50,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA CONFERMA ORDINE CELLA RIF.MACELLERIA COSENTINO.png"
+                },
+                {
+                  "nome": "MISA CONFERMA ORDINE DISEGNO 2 CELLE 203 X 203 X 243H S6 SP RIF.LUTIPICO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fju8hj1e9xvxxmg7bdik0/MISA-CONFERMA-ORDINE-DISEGNO-2-CELLE-203-X-203-X-243H-S6-SP-RIF.LUTIPICO.pdf?rlkey=1botihamcfyoylao25asdsyg7&dl=0?raw=1",
+                  "dimensione_kb": 601,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA CONFERMA ORDINE DISEGNO 2 CELLE 203 X 203 X 243H S6 SP RIF.LUTIPICO.pdf"
+                },
+                {
+                  "nome": "MISA CONFERMA ORDINE DISEGNO CELLA DIM INT 163 X 163 X 243H S6 CP RIF.MACELLERIA COSENTINO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/elk261jxa9n0omvj2znx0/MISA-CONFERMA-ORDINE-DISEGNO-CELLA-DIM-INT-163-X-163-X-243H-S6-CP-RIF.MACELLERIA-COSENTINO.pdf?rlkey=zyyrhlui9x82836vpr37po70q&dl=0?raw=1",
+                  "dimensione_kb": 59,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA CONFERMA ORDINE DISEGNO CELLA DIM INT 163 X 163 X 243H S6 CP RIF.MACELLERIA COSENTINO.pdf"
+                },
+                {
+                  "nome": "MISA CONFERMA ORDINE RIF. RINTELLI.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/zlvafvusjl2dbk3pcxbkk/MISA-CONFERMA-ORDINE-RIF.-RINTELLI.txt?rlkey=tnbt1wltubt473eotal7sjbhi&dl=0?raw=1",
+                  "dimensione_kb": 1,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA CONFERMA ORDINE RIF. RINTELLI.txt"
+                },
+                {
+                  "nome": "MISA CONFERMA Ordine vendita SO20262382 RIF.RINTELLI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7c2c1hjmmpujhpfg2i0ov/MISA-CONFERMA-Ordine-vendita-SO20262382-RIF.RINTELLI.pdf?rlkey=ellpqxxrlawyskk3zhujcvs5d&dl=0?raw=1",
+                  "dimensione_kb": 509,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA CONFERMA Ordine vendita SO20262382 RIF.RINTELLI.pdf"
+                },
+                {
+                  "nome": "MISA CONFERMA Ordine vendita SO20262400 RIF.LUTIPICO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vmxabd10y8oeqsjnah6ac/MISA-CONFERMA-Ordine-vendita-SO20262400-RIF.LUTIPICO.pdf?rlkey=il20mbfzts2y8l5wilgnjpz09&dl=0?raw=1",
+                  "dimensione_kb": 592,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA CONFERMA Ordine vendita SO20262400 RIF.LUTIPICO.pdf"
+                },
+                {
+                  "nome": "MISA DISEGNO RINTELLI POSIZIONE PORTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/na22ev8y8hmnjic9r1ldz/MISA-DISEGNO-RINTELLI-POSIZIONE-PORTA.pdf?rlkey=my4tf5rf9kirxd0duin4jtmea&dl=0?raw=1",
+                  "dimensione_kb": 646,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA DISEGNO RINTELLI POSIZIONE PORTA.pdf"
+                },
+                {
+                  "nome": "MISA SO20262401_VICECONTI - Conferma Ordine RIF.MACELLERIA COSENTINO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dy4u5vs9cyjghh1a7wvdp/MISA-SO20262401_VICECONTI-Conferma-Ordine-RIF.MACELLERIA-COSENTINO.pdf?rlkey=afhh4mk0t6zttp88lomvmrjo1&dl=0?raw=1",
+                  "dimensione_kb": 510,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA SO20262401_VICECONTI - Conferma Ordine RIF.MACELLERIA COSENTINO.pdf"
+                },
+                {
+                  "nome": "MISA SRL Ordine dacquisto_260215_20260908_092659 RIF. Basato su Ordini cliente 250827..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ga799el6zb6gxixmpgn6n/MISA-SRL-Ordine-dacquisto_260215_20260908_092659-RIF.-Basato-su-Ordini-cliente-250827..pdf?rlkey=mnumx5owptltcwlr4q3d66zzf&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA SRL Ordine dacquisto_260215_20260908_092659 RIF. Basato su Ordini cliente 250827..pdf"
+                },
+                {
+                  "nome": "MISA SRL Ordine dacquisto_260236_20260915_163833 RIF. MACELLERIA COSENTNO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oxeqs715tct7423lxcbk5/MISA-SRL-Ordine-dacquisto_260236_20260915_163833-RIF.-MACELLERIA-COSENTNO.pdf?rlkey=1v194bwgfp8k7qavs7z5n2uks&dl=0?raw=1",
+                  "dimensione_kb": 66,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA SRL Ordine dacquisto_260236_20260915_163833 RIF. MACELLERIA COSENTNO.pdf"
+                }
+              ],
+              "_totale_file": 14
+            },
             {
               "nome": "ORDINI D'ACQUISTO ARCHIVIO",
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ORDINI D'ACQUISTO ARCHIVIO",
@@ -234980,6 +235100,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260221_20260909_115026 RIF. Basato su Ordini cliente 260442..pdf"
             },
             {
+              "nome": "COLDLINE CONFERMA Offerta 9952 RIF.MAMA MIA RICAMBI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9vuwsy03l3caresi22bwb/COLDLINE-CONFERMA-Offerta-9952-RIF.MAMA-MIA-RICAMBI.pdf?rlkey=gtnozyn0aghxphabrffibtm90&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE CONFERMA Offerta 9952 RIF.MAMA MIA RICAMBI.pdf"
+            },
+            {
               "nome": "COLDLINE Conferma ordine n°26-13324 RIF.M&M GARANZIA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -235116,74 +235244,10 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MECNOSUD CONFERMA 7449 DEL 23_07_2026 VICECONTI SNC - R_7449 RIF. MARATEA SERVIZI SPIRALE.pdf"
             },
             {
-              "nome": "MISA CONFERMA DISEGNO SO20262382 RIF.RINTELLI.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/l8peanimjpf5w5ipssvau/MISA-CONFERMA-DISEGNO-SO20262382-RIF.RINTELLI.pdf?rlkey=5lbjs3qhw1i9bipesgz1f3n8c&dl=0?raw=1",
-              "dimensione_kb": 201,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA DISEGNO SO20262382 RIF.RINTELLI.pdf"
-            },
-            {
-              "nome": "MISA CONFERMA ORDINE CELLA RIF.MACELLERIA COSENTINO.png",
-              "tipo": "Immagine",
-              "icona": "🖼️",
-              "link": "https://www.dropbox.com/scl/fi/o7clkrh599chkqim06v2w/MISA-CONFERMA-ORDINE-CELLA-RIF.MACELLERIA-COSENTINO.png?rlkey=u7nfbiwgum1rm8rm5eh9t0iqu&dl=0?raw=1",
-              "dimensione_kb": 50,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA ORDINE CELLA RIF.MACELLERIA COSENTINO.png"
-            },
-            {
-              "nome": "MISA CONFERMA ORDINE DISEGNO 2 CELLE 203 X 203 X 243H S6 SP RIF.LUTIPICO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/fju8hj1e9xvxxmg7bdik0/MISA-CONFERMA-ORDINE-DISEGNO-2-CELLE-203-X-203-X-243H-S6-SP-RIF.LUTIPICO.pdf?rlkey=1botihamcfyoylao25asdsyg7&dl=0?raw=1",
-              "dimensione_kb": 601,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA ORDINE DISEGNO 2 CELLE 203 X 203 X 243H S6 SP RIF.LUTIPICO.pdf"
-            },
-            {
-              "nome": "MISA CONFERMA ORDINE DISEGNO CELLA DIM INT 163 X 163 X 243H S6 CP RIF.MACELLERIA COSENTINO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/elk261jxa9n0omvj2znx0/MISA-CONFERMA-ORDINE-DISEGNO-CELLA-DIM-INT-163-X-163-X-243H-S6-CP-RIF.MACELLERIA-COSENTINO.pdf?rlkey=zyyrhlui9x82836vpr37po70q&dl=0?raw=1",
-              "dimensione_kb": 59,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA ORDINE DISEGNO CELLA DIM INT 163 X 163 X 243H S6 CP RIF.MACELLERIA COSENTINO.pdf"
-            },
-            {
-              "nome": "MISA CONFERMA ORDINE RIF. RINTELLI.txt",
-              "tipo": "Testo",
-              "icona": "📃",
-              "link": "https://www.dropbox.com/scl/fi/zlvafvusjl2dbk3pcxbkk/MISA-CONFERMA-ORDINE-RIF.-RINTELLI.txt?rlkey=tnbt1wltubt473eotal7sjbhi&dl=0?raw=1",
-              "dimensione_kb": 1,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA ORDINE RIF. RINTELLI.txt"
-            },
-            {
-              "nome": "MISA CONFERMA Ordine vendita SO20262382 RIF.RINTELLI.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/7c2c1hjmmpujhpfg2i0ov/MISA-CONFERMA-Ordine-vendita-SO20262382-RIF.RINTELLI.pdf?rlkey=ellpqxxrlawyskk3zhujcvs5d&dl=0?raw=1",
-              "dimensione_kb": 509,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERMA Ordine vendita SO20262382 RIF.RINTELLI.pdf"
-            },
-            {
-              "nome": "MISA DISEGNO RINTELLI POSIZIONE PORTA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/na22ev8y8hmnjic9r1ldz/MISA-DISEGNO-RINTELLI-POSIZIONE-PORTA.pdf?rlkey=my4tf5rf9kirxd0duin4jtmea&dl=0?raw=1",
-              "dimensione_kb": 646,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA DISEGNO RINTELLI POSIZIONE PORTA.pdf"
-            },
-            {
-              "nome": "MISA SRL Ordine dacquisto_260215_20260908_092659 RIF. Basato su Ordini cliente 250827..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ga799el6zb6gxixmpgn6n/MISA-SRL-Ordine-dacquisto_260215_20260908_092659-RIF.-Basato-su-Ordini-cliente-250827..pdf?rlkey=mnumx5owptltcwlr4q3d66zzf&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA SRL Ordine dacquisto_260215_20260908_092659 RIF. Basato su Ordini cliente 250827..pdf"
-            },
-            {
               "nome": "MISA SRL Ordine dacquisto_260236_20260915_163833 RIF. MACELLERIA COSENTNO.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/oxeqs715tct7423lxcbk5/MISA-SRL-Ordine-dacquisto_260236_20260915_163833-RIF.-MACELLERIA-COSENTNO.pdf?rlkey=1v194bwgfp8k7qavs7z5n2uks&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/7rb2lsk9n5s410l5v5sn2/MISA-SRL-Ordine-dacquisto_260236_20260915_163833-RIF.-MACELLERIA-COSENTNO.pdf?rlkey=27pr86y5hhx6bcpc1ya7kev14&dl=0?raw=1",
               "dimensione_kb": 66,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA SRL Ordine dacquisto_260236_20260915_163833 RIF. MACELLERIA COSENTNO.pdf"
             },
@@ -235220,20 +235284,20 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26021558.pdf"
             },
             {
-              "nome": "SIRMAN spa Ordine dacquisto_260228_20260915_155628 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf",
+              "nome": "SIRMAN spa Ordine dacquisto_260228_20260917_121832 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/4bzyojmjtjls59rc6v9d5/SIRMAN-spa-Ordine-dacquisto_260228_20260915_155628-RIF.-MACELLERIA-COSENTINO-Basato-su-Ordini-cliente-260448..pdf?rlkey=6eturvvt6sg3qtm6ni6ybq7wl&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/tnt2d0mrx8i6h2q53svuj/SIRMAN-spa-Ordine-dacquisto_260228_20260917_121832-RIF.-MACELLERIA-COSENTINO-Basato-su-Ordini-cliente-260448..pdf?rlkey=gvzu56w0gzdb4gbgh7ar9k2fp&dl=0?raw=1",
               "dimensione_kb": 61,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260228_20260915_155628 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260228_20260917_121832 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf"
             },
             {
-              "nome": "SIRMAN spa Ordine dacquisto_260233_20260915_162404 RIF. PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434..pdf",
+              "nome": "SIRMAN spa Ordine dacquisto_260233_20260917_121812 RIF. PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/0vqwplldkensdl137xn7h/SIRMAN-spa-Ordine-dacquisto_260233_20260915_162404-RIF.-PUGLIESE-MATTIA-FORNO-PIZZA-E-CAVALLETTO-Basato-su-Ordini-cliente-260434..pdf?rlkey=txa5ogm17zr3kwv94s8mgxvgn&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/xutmbghp4y1m911z8z1pg/SIRMAN-spa-Ordine-dacquisto_260233_20260917_121812-RIF.-PUGLIESE-MATTIA-FORNO-PIZZA-E-CAVALLETTO-Basato-su-Ordini-cliente-260434..pdf?rlkey=teqx4rsgyml6n4zzxk5fv7fom&dl=0?raw=1",
               "dimensione_kb": 57,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260233_20260915_162404 RIF. PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434..pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260233_20260917_121812 RIF. PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434..pdf"
             },
             {
               "nome": "STAFF ICE SYSTEM SRL Ordine dacquisto_260205_20260807_092218 RIF. RICAMBI PER PESCHERIA AZZURRA.pdf",
@@ -235252,7 +235316,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3812
+          "_totale_file": 3819
         }
       ],
       "file": []
