@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-18T09:20:39Z",
-  "totale_file": 26977,
+  "generato": "2026-09-19T00:24:40Z",
+  "totale_file": 26979,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -75462,7 +75462,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7332,
+      "totale_file": 7334,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -92373,41 +92373,73 @@
                       "_totale_file": 1
                     },
                     {
-                      "nome": "BILANCE ITALIANA MACCHI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI",
+                      "nome": "BILANCE ITALIANA MACCHI CE 9000 EVO",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO",
                       "cartelle": [],
                       "file": [
                         {
-                          "nome": "0576100m000174_1.00.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/brab4emum0q9x4fw7a3tk/0576100m000174_1.00.pdf?rlkey=9rsqlyrpau4bhbiqh53hmsm1v&dl=0?raw=1",
-                          "dimensione_kb": 2729,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/0576100m000174_1.00.pdf"
-                        },
-                        {
-                          "nome": "CARNI LIMONGI SALUMIFICIO MATR. MACH 8000 1.JPG",
+                          "nome": "BILANCIA ITALIANA MACCHI CE 9000 ECO DATI MACCHINA 1.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/1bbbhxdehvspjln8pr8xn/CARNI-LIMONGI-SALUMIFICIO-MATR.-MACH-8000-1.JPG?rlkey=s6tc0978uo54i5x4wsp6sno4m&dl=0?raw=1",
-                          "dimensione_kb": 73,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/CARNI LIMONGI SALUMIFICIO MATR. MACH 8000 1.JPG"
+                          "link": "https://www.dropbox.com/scl/fi/of0f8x5u8lcvj8u0bb9nw/BILANCIA-ITALIANA-MACCHI-CE-9000-ECO-DATI-MACCHINA-1.jpeg?rlkey=u2lv66o331ulq1ew9mc6pvk22&dl=0?raw=1",
+                          "dimensione_kb": 150,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/BILANCIA ITALIANA MACCHI CE 9000 ECO DATI MACCHINA 1.jpeg"
                         },
                         {
-                          "nome": "CARNI LIMONGI SALUMIFICIO MATR. MACH 8000 2.JPG",
+                          "nome": "BILANCIA ITALIANA MACCHI CE 9000 ECO DATI MACCHINA 2.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/uj8o542r53aowoj63ulqg/CARNI-LIMONGI-SALUMIFICIO-MATR.-MACH-8000-2.JPG?rlkey=42jj3gi3ktuzxm6tmep7o6bfu&dl=0?raw=1",
-                          "dimensione_kb": 86,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/CARNI LIMONGI SALUMIFICIO MATR. MACH 8000 2.JPG"
+                          "link": "https://www.dropbox.com/scl/fi/brp56465fu3ms380y51np/BILANCIA-ITALIANA-MACCHI-CE-9000-ECO-DATI-MACCHINA-2.jpeg?rlkey=chfy437af21cofzk7obpy1cbq&dl=0?raw=1",
+                          "dimensione_kb": 168,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/BILANCIA ITALIANA MACCHI CE 9000 ECO DATI MACCHINA 2.jpeg"
                         },
                         {
-                          "nome": "CE9000_P_007186_REV-K.pdf",
+                          "nome": "BILANCIA ITALIANA MACCHI CE 9000 EVO GUIDA RAPIDA.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/4g4paogpzl2ezamqviyo5/CE9000_P_007186_REV-K.pdf?rlkey=99opxkrfw5n87l35gdsr7ktnz&dl=0?raw=1",
+                          "link": "https://www.dropbox.com/scl/fi/ag8fvxpqpxfgnajci9d06/BILANCIA-ITALIANA-MACCHI-CE-9000-EVO-GUIDA-RAPIDA.pdf?rlkey=ldzz1d0bydwrrk0gm2398yug9&dl=0?raw=1",
+                          "dimensione_kb": 3355,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/BILANCIA ITALIANA MACCHI CE 9000 EVO GUIDA RAPIDA.pdf"
+                        },
+                        {
+                          "nome": "BILANCIA ITALIANA MACCHI CE 9000EVO PROTOCOLLO DI COLLEGAMENTO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/4g4paogpzl2ezamqviyo5/BILANCIA-ITALIANA-MACCHI-CE-9000EVO-PROTOCOLLO-DI-COLLEGAMENTO.pdf?rlkey=99opxkrfw5n87l35gdsr7ktnz&dl=0?raw=1",
                           "dimensione_kb": 1030,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/CE9000_P_007186_REV-K.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/BILANCIA ITALIANA MACCHI CE 9000EVO PROTOCOLLO DI COLLEGAMENTO.pdf"
+                        },
+                        {
+                          "nome": "BILANCIA ITALIANA MACCHI ce9000_t_007180_rev-h MANUALE TECNICO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/3bbsf3u0yuq28vq8ukwqq/BILANCIA-ITALIANA-MACCHI-ce9000_t_007180_rev-h-MANUALE-TECNICO.pdf?rlkey=51mg3s893oc8umbplkuk9v88u&dl=0?raw=1",
+                          "dimensione_kb": 5574,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/BILANCIA ITALIANA MACCHI ce9000_t_007180_rev-h MANUALE TECNICO.pdf"
+                        },
+                        {
+                          "nome": "BILANCIA ITALIANA MACCHI ce9000evo_u_007269_rev-a5 MANUALE D'USO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/bfqthf75y33mq4g1p2w6k/BILANCIA-ITALIANA-MACCHI-ce9000evo_u_007269_rev-a5-MANUALE-D-USO.pdf?rlkey=ck1qs0y5t2ksvkea7z3hofyur&dl=0?raw=1",
+                          "dimensione_kb": 18949,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/BILANCIA ITALIANA MACCHI ce9000evo_u_007269_rev-a5 MANUALE D'USO.pdf"
+                        },
+                        {
+                          "nome": "CARNI LIMONGI CODICE A BARRE ATTUALE 18_09_2026.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/teg641h3qp64uxf9ilo31/CARNI-LIMONGI-CODICE-A-BARRE-ATTUALE-18_09_2026.jpeg?rlkey=qfjau8z72whqwewbjvuuzqfpa&dl=0?raw=1",
+                          "dimensione_kb": 141,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/CARNI LIMONGI CODICE A BARRE ATTUALE 18_09_2026.jpeg"
+                        },
+                        {
+                          "nome": "CARNI LIMONGI CODICE A BARRE OBIETTIVO 18_09_2026.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/k30xs0wyjjgo0x071erof/CARNI-LIMONGI-CODICE-A-BARRE-OBIETTIVO-18_09_2026.jpeg?rlkey=bo1dxkx968swmbqeuyax9nrlm&dl=0?raw=1",
+                          "dimensione_kb": 248,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/CARNI LIMONGI CODICE A BARRE OBIETTIVO 18_09_2026.jpeg"
                         },
                         {
                           "nome": "WhatsApp Image 2021-10-08 at 18.51.05 (1).jpeg",
@@ -92415,39 +92447,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/kq4173gh6ko9w07bcmycq/WhatsApp-Image-2021-10-08-at-18.51.05-1.jpeg?rlkey=dwxi79a8g8eg2ocn2yxxw9d9q&dl=0?raw=1",
                           "dimensione_kb": 111,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/WhatsApp Image 2021-10-08 at 18.51.05 (1).jpeg"
-                        },
-                        {
-                          "nome": "WhatsApp Image 2021-10-08 at 18.51.05.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/brp56465fu3ms380y51np/WhatsApp-Image-2021-10-08-at-18.51.05.jpeg?rlkey=chfy437af21cofzk7obpy1cbq&dl=0?raw=1",
-                          "dimensione_kb": 168,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/WhatsApp Image 2021-10-08 at 18.51.05.jpeg"
-                        },
-                        {
-                          "nome": "WhatsApp Image 2021-10-08 at 18.51.06.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/of0f8x5u8lcvj8u0bb9nw/WhatsApp-Image-2021-10-08-at-18.51.06.jpeg?rlkey=u2lv66o331ulq1ew9mc6pvk22&dl=0?raw=1",
-                          "dimensione_kb": 150,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/WhatsApp Image 2021-10-08 at 18.51.06.jpeg"
-                        },
-                        {
-                          "nome": "ce9000_t_007180_rev-h.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/3bbsf3u0yuq28vq8ukwqq/ce9000_t_007180_rev-h.pdf?rlkey=51mg3s893oc8umbplkuk9v88u&dl=0?raw=1",
-                          "dimensione_kb": 5574,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/ce9000_t_007180_rev-h.pdf"
-                        },
-                        {
-                          "nome": "ce9000evo_u_007269_rev-a5.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/bfqthf75y33mq4g1p2w6k/ce9000evo_u_007269_rev-a5.pdf?rlkey=ck1qs0y5t2ksvkea7z3hofyur&dl=0?raw=1",
-                          "dimensione_kb": 18949,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/ce9000evo_u_007269_rev-a5.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/WhatsApp Image 2021-10-08 at 18.51.05 (1).jpeg"
                         },
                         {
                           "nome": "collegamenti_t_007092_rev-n.pdf",
@@ -92455,26 +92455,10 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/uu2apni606wydjtwzrp6c/collegamenti_t_007092_rev-n.pdf?rlkey=abihd9xdhf90q15aflna737gl&dl=0?raw=1",
                           "dimensione_kb": 1967,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/collegamenti_t_007092_rev-n.pdf"
-                        },
-                        {
-                          "nome": "esploso_mach_8000-ita_rev_d_1.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/xinuak5cc7joen53of8e7/esploso_mach_8000-ita_rev_d_1.pdf?rlkey=rqzak58cdw3bate4cki9t8xj4&dl=0?raw=1",
-                          "dimensione_kb": 1996,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/esploso_mach_8000-ita_rev_d_1.pdf"
-                        },
-                        {
-                          "nome": "gr_ce9000_78100m000046_1.00.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/ag8fvxpqpxfgnajci9d06/gr_ce9000_78100m000046_1.00.pdf?rlkey=ldzz1d0bydwrrk0gm2398yug9&dl=0?raw=1",
-                          "dimensione_kb": 3355,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI/gr_ce9000_78100m000046_1.00.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/collegamenti_t_007092_rev-n.pdf"
                         }
                       ],
-                      "_totale_file": 12
+                      "_totale_file": 10
                     },
                     {
                       "nome": "BILANCIA AEREA ITALIANA MACCHI",
@@ -92507,6 +92491,46 @@
                         }
                       ],
                       "_totale_file": 3
+                    },
+                    {
+                      "nome": "BILANCIA ITALIANA MACCHI MACH 8000",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "BILANCIA ITALIANA MACCHI MACH 8000 MANUALE D'USO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/brab4emum0q9x4fw7a3tk/BILANCIA-ITALIANA-MACCHI-MACH-8000-MANUALE-D-USO.pdf?rlkey=9rsqlyrpau4bhbiqh53hmsm1v&dl=0?raw=1",
+                          "dimensione_kb": 2729,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/BILANCIA ITALIANA MACCHI MACH 8000 MANUALE D'USO.pdf"
+                        },
+                        {
+                          "nome": "CARNI LIMONGI SALUMIFICIO MACH 8000 1 DATI MACCHINA.JPG",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/1bbbhxdehvspjln8pr8xn/CARNI-LIMONGI-SALUMIFICIO-MACH-8000-1-DATI-MACCHINA.JPG?rlkey=s6tc0978uo54i5x4wsp6sno4m&dl=0?raw=1",
+                          "dimensione_kb": 73,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/CARNI LIMONGI SALUMIFICIO MACH 8000 1 DATI MACCHINA.JPG"
+                        },
+                        {
+                          "nome": "CARNI LIMONGI SALUMIFICIO MACH 8000 2 DATI MACCHINA.JPG",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/uj8o542r53aowoj63ulqg/CARNI-LIMONGI-SALUMIFICIO-MACH-8000-2-DATI-MACCHINA.JPG?rlkey=42jj3gi3ktuzxm6tmep7o6bfu&dl=0?raw=1",
+                          "dimensione_kb": 86,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/CARNI LIMONGI SALUMIFICIO MACH 8000 2 DATI MACCHINA.JPG"
+                        },
+                        {
+                          "nome": "esploso_mach_8000-ita_rev_d_1.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/xinuak5cc7joen53of8e7/esploso_mach_8000-ita_rev_d_1.pdf?rlkey=rqzak58cdw3bate4cki9t8xj4&dl=0?raw=1",
+                          "dimensione_kb": 1996,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/esploso_mach_8000-ita_rev_d_1.pdf"
+                        }
+                      ],
+                      "_totale_file": 4
                     },
                     {
                       "nome": "FRYTOP MODULAR",
@@ -92759,7 +92783,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/PRODOTTI per CLIENTE.pdf"
                     }
                   ],
-                  "_totale_file": 41
+                  "_totale_file": 43
                 },
                 {
                   "nome": "CARNI LIMONGI ETICHETTE PRESTAMPATE",
@@ -92973,7 +92997,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/Sterilizzatori.pdf"
                 }
               ],
-              "_totale_file": 64
+              "_totale_file": 66
             },
             {
               "nome": "CDI",
@@ -104420,7 +104444,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1312
+          "_totale_file": 1314
         },
         {
           "nome": "LAVELLO",
