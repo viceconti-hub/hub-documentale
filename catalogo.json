@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-19T07:39:54Z",
-  "totale_file": 26979,
+  "generato": "2026-09-19T08:43:14Z",
+  "totale_file": 26980,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -235349,7 +235349,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2442,
+      "totale_file": 2443,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -257152,6 +257152,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/STAFF ICE SYSTEM SRL Dettaglio bonifico istantaneo DEL 28_01_2026.pdf"
             },
             {
+              "nome": "TAMAI RICEVUTA BONIFICO DEL 18_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3gfq702g8nunqh3cwi4qf/TAMAI-RICEVUTA-BONIFICO-DEL-18_09_2026.pdf?rlkey=y4fnlw1ab8hjo57fhnocuigmz&dl=0?raw=1",
+              "dimensione_kb": 29,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/TAMAI RICEVUTA BONIFICO DEL 18_09_2026.pdf"
+            },
+            {
               "nome": "TAMAI RICEVUTA BONIFICO fattura1071_26.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -257256,7 +257264,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2361
+          "_totale_file": 2362
         }
       ],
       "file": []
