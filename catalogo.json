@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-19T08:57:42Z",
-  "totale_file": 26980,
+  "generato": "2026-09-20T00:23:52Z",
+  "totale_file": 26985,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -75462,7 +75462,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7334,
+      "totale_file": 7339,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -90477,7 +90477,24 @@
                     {
                       "nome": "AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002",
-                      "cartelle": [],
+                      "cartelle": [
+                        {
+                          "nome": "CHIAMATA DI SERVIZIO 260033",
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002/CHIAMATA DI SERVIZIO 260033",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "260033 MODULO TECNICO 2026-09-19.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/m2z5e160b9odi6y3llgkk/260033-MODULO-TECNICO-2026-09-19.pdf?rlkey=7d1t3qwv0z1s4fkp6rgm2tp9h&dl=0?raw=1",
+                              "dimensione_kb": 161,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002/CHIAMATA DI SERVIZIO 260033/260033 MODULO TECNICO 2026-09-19.pdf"
+                            }
+                          ],
+                          "_totale_file": 1
+                        }
+                      ],
                       "file": [
                         {
                           "nome": "AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002 DATI MACCHINA.jpg",
@@ -90488,7 +90505,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002 DATI MACCHINA.jpg"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 2
                     }
                   ],
                   "file": [
@@ -90509,7 +90526,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/WhatsApp Image 2023-07-04 at 16.13.34.jpeg"
                     }
                   ],
-                  "_totale_file": 3
+                  "_totale_file": 4
                 }
               ],
               "file": [
@@ -90594,7 +90611,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/Situazione Contabile CREDITI.pdf"
                 }
               ],
-              "_totale_file": 13
+              "_totale_file": 14
             },
             {
               "nome": "STREET",
@@ -90670,7 +90687,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 214
+          "_totale_file": 215
         },
         {
           "nome": "LAURIA",
@@ -92426,22 +92443,6 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/BILANCIA ITALIANA MACCHI ce9000evo_u_007269_rev-a5 MANUALE D'USO.pdf"
                         },
                         {
-                          "nome": "CARNI LIMONGI CODICE A BARRE ATTUALE 18_09_2026.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/teg641h3qp64uxf9ilo31/CARNI-LIMONGI-CODICE-A-BARRE-ATTUALE-18_09_2026.jpeg?rlkey=qfjau8z72whqwewbjvuuzqfpa&dl=0?raw=1",
-                          "dimensione_kb": 141,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/CARNI LIMONGI CODICE A BARRE ATTUALE 18_09_2026.jpeg"
-                        },
-                        {
-                          "nome": "CARNI LIMONGI CODICE A BARRE OBIETTIVO 18_09_2026.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/k30xs0wyjjgo0x071erof/CARNI-LIMONGI-CODICE-A-BARRE-OBIETTIVO-18_09_2026.jpeg?rlkey=bo1dxkx968swmbqeuyax9nrlm&dl=0?raw=1",
-                          "dimensione_kb": 248,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/CARNI LIMONGI CODICE A BARRE OBIETTIVO 18_09_2026.jpeg"
-                        },
-                        {
                           "nome": "WhatsApp Image 2021-10-08 at 18.51.05 (1).jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -92458,7 +92459,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCE ITALIANA MACCHI CE 9000 EVO/collegamenti_t_007092_rev-n.pdf"
                         }
                       ],
-                      "_totale_file": 10
+                      "_totale_file": 8
                     },
                     {
                       "nome": "BILANCIA AEREA ITALIANA MACCHI",
@@ -92495,7 +92496,64 @@
                     {
                       "nome": "BILANCIA ITALIANA MACCHI MACH 8000",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000",
-                      "cartelle": [],
+                      "cartelle": [
+                        {
+                          "nome": "CHIAMATA DI SERVIZIO 260179",
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/CHIAMATA DI SERVIZIO 260179",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "CARNI LIMONGI CODICE A BARRE ATTUALE 18_09_2026.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/teg641h3qp64uxf9ilo31/CARNI-LIMONGI-CODICE-A-BARRE-ATTUALE-18_09_2026.jpeg?rlkey=qfjau8z72whqwewbjvuuzqfpa&dl=0?raw=1",
+                              "dimensione_kb": 141,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/CHIAMATA DI SERVIZIO 260179/CARNI LIMONGI CODICE A BARRE ATTUALE 18_09_2026.jpeg"
+                            },
+                            {
+                              "nome": "CARNI LIMONGI CODICE A BARRE OBIETTIVO 18_09_2026.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/k30xs0wyjjgo0x071erof/CARNI-LIMONGI-CODICE-A-BARRE-OBIETTIVO-18_09_2026.jpeg?rlkey=bo1dxkx968swmbqeuyax9nrlm&dl=0?raw=1",
+                              "dimensione_kb": 248,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/CHIAMATA DI SERVIZIO 260179/CARNI LIMONGI CODICE A BARRE OBIETTIVO 18_09_2026.jpeg"
+                            },
+                            {
+                              "nome": "CARNI LIMONGI CODICE A BARRE PULITO BISTECCHE 2301050000001.png",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/qkji3r2g3lu40zrq29v98/CARNI-LIMONGI-CODICE-A-BARRE-PULITO-BISTECCHE-2301050000001.png?rlkey=erjzb7mdpbagsyywqaw3bihzr&dl=0?raw=1",
+                              "dimensione_kb": 20,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/CHIAMATA DI SERVIZIO 260179/CARNI LIMONGI CODICE A BARRE PULITO BISTECCHE 2301050000001.png"
+                            },
+                            {
+                              "nome": "CARNI LIMONGI CODICE A BARRE PULITO SALUME 2301510003290.png",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/m6fyy5nxhx8j5v13yts5c/CARNI-LIMONGI-CODICE-A-BARRE-PULITO-SALUME-2301510003290.png?rlkey=pasek1sq4a1kdmjhnm7ue3t6y&dl=0?raw=1",
+                              "dimensione_kb": 21,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/CHIAMATA DI SERVIZIO 260179/CARNI LIMONGI CODICE A BARRE PULITO SALUME 2301510003290.png"
+                            },
+                            {
+                              "nome": "CODICE A BARRE 1.jpg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/m3lvmlxoy1qkyn9pegd42/CODICE-A-BARRE-1.jpg?rlkey=evjufdu161bqozbkqkl826m48&dl=0?raw=1",
+                              "dimensione_kb": 164,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/CHIAMATA DI SERVIZIO 260179/CODICE A BARRE 1.jpg"
+                            },
+                            {
+                              "nome": "CODICE A BARRE 2.jpg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/iwhj8xqbbxwbphvh1izm4/CODICE-A-BARRE-2.jpg?rlkey=3c8im0fek0rogrg9hk9r7prq2&dl=0?raw=1",
+                              "dimensione_kb": 213,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/CHIAMATA DI SERVIZIO 260179/CODICE A BARRE 2.jpg"
+                            }
+                          ],
+                          "_totale_file": 6
+                        }
+                      ],
                       "file": [
                         {
                           "nome": "BILANCIA ITALIANA MACCHI MACH 8000 MANUALE D'USO.pdf",
@@ -92530,7 +92588,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/BILANCIA ITALIANA MACCHI MACH 8000/esploso_mach_8000-ita_rev_d_1.pdf"
                         }
                       ],
-                      "_totale_file": 4
+                      "_totale_file": 10
                     },
                     {
                       "nome": "FRYTOP MODULAR",
@@ -92783,7 +92841,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/CARNI LIMONGI AREA TECNICA/PRODOTTI per CLIENTE.pdf"
                     }
                   ],
-                  "_totale_file": 43
+                  "_totale_file": 47
                 },
                 {
                   "nome": "CARNI LIMONGI ETICHETTE PRESTAMPATE",
@@ -92997,7 +93055,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/CARNI LIMONGI/Sterilizzatori.pdf"
                 }
               ],
-              "_totale_file": 66
+              "_totale_file": 70
             },
             {
               "nome": "CDI",
@@ -104444,7 +104502,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1314
+          "_totale_file": 1318
         },
         {
           "nome": "LAVELLO",
