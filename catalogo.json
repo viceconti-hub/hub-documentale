@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-20T08:59:59Z",
-  "totale_file": 26995,
+  "generato": "2026-09-21T00:24:24Z",
+  "totale_file": 26994,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -75542,7 +75542,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7339,
+      "totale_file": 7338,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -90557,24 +90557,7 @@
                     {
                       "nome": "AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002",
-                      "cartelle": [
-                        {
-                          "nome": "CHIAMATA DI SERVIZIO 260033",
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002/CHIAMATA DI SERVIZIO 260033",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "260033 MODULO TECNICO 2026-09-19.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/m2z5e160b9odi6y3llgkk/260033-MODULO-TECNICO-2026-09-19.pdf?rlkey=7d1t3qwv0z1s4fkp6rgm2tp9h&dl=0?raw=1",
-                              "dimensione_kb": 161,
-                              "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002/CHIAMATA DI SERVIZIO 260033/260033 MODULO TECNICO 2026-09-19.pdf"
-                            }
-                          ],
-                          "_totale_file": 1
-                        }
-                      ],
+                      "cartelle": [],
                       "file": [
                         {
                           "nome": "AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002 DATI MACCHINA.jpg",
@@ -90585,7 +90568,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002/AFFETTATRICE FAEMA AG.220 MATRICOLA 92-03-0002 DATI MACCHINA.jpg"
                         }
                       ],
-                      "_totale_file": 2
+                      "_totale_file": 1
                     }
                   ],
                   "file": [
@@ -90606,7 +90589,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/AREA TECNICA AGROCARNE/WhatsApp Image 2023-07-04 at 16.13.34.jpeg"
                     }
                   ],
-                  "_totale_file": 4
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -90691,7 +90674,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/SOC. COOP. AGROCARNE SUD/Situazione Contabile CREDITI.pdf"
                 }
               ],
-              "_totale_file": 14
+              "_totale_file": 13
             },
             {
               "nome": "STREET",
@@ -90767,7 +90750,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 215
+          "_totale_file": 214
         },
         {
           "nome": "LAURIA",
