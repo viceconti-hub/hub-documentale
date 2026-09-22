@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-22T07:45:13Z",
-  "totale_file": 27008,
+  "generato": "2026-09-22T08:48:53Z",
+  "totale_file": 27013,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -235583,7 +235583,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2443,
+      "totale_file": 2448,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -236064,6 +236064,14 @@
           ],
           "file": [
             {
+              "nome": "2026-09-21 12.07.46.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hj28g3c5h2pu3lqp645x0/2026-09-21-12.07.46.pdf?rlkey=jiw92d68a4tqqu3kt8rfi1m2x&dl=0?raw=1",
+              "dimensione_kb": 317,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/2026-09-21 12.07.46.pdf"
+            },
+            {
               "nome": "ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -236240,6 +236248,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR_IMPORTO_TITOLI_2026.xlsx"
             },
             {
+              "nome": "REPA ITALIA SRL COPIA TITOLO MPS 05_10_2026 1956,20.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/i6hs1qaw0ikv384t39qoa/REPA-ITALIA-SRL-COPIA-TITOLO-MPS-05_10_2026-1956-20.pdf?rlkey=oib54xs9akautzbcpydructom&dl=0?raw=1",
+              "dimensione_kb": 306,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/REPA ITALIA SRL COPIA TITOLO MPS 05_10_2026 1956,20.pdf"
+            },
+            {
               "nome": "SIRMAN COPIA TITOLO BPER SCADENZA 10_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -236264,7 +236280,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/SIRMAN RICEVUTA AR DEL 29_07_2026.pdf"
             }
           ],
-          "_totale_file": 56
+          "_totale_file": 58
         },
         {
           "nome": "PAGAMENTI IN USCITA BONIFICI",
@@ -256746,6 +256762,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/BRT Dettaglio bonifico istantaneo DEL 15_06_2026.pdf"
             },
             {
+              "nome": "BRT Dettaglio bonifico istantaneo DEL 21_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iowcamplm9dxrutv3hmid/BRT-Dettaglio-bonifico-istantaneo-DEL-21_09_2026.pdf?rlkey=v0k231yaemej0xnw9fjjbhb2x&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/BRT Dettaglio bonifico istantaneo DEL 21_09_2026.pdf"
+            },
+            {
               "nome": "CASELLA GIUSEPPE Dettaglio bonifico istantaneo 9_04_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -257338,6 +257362,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/REPA Dettaglio bonifico istantaneo DEL 19_08_2026.pdf"
             },
             {
+              "nome": "REPA Dettaglio bonifico istantaneo DEL 21_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qctk0jkv25baxvjee1s0w/REPA-Dettaglio-bonifico-istantaneo-DEL-21_09_2026.pdf?rlkey=l4236t12jv97kvgbqx7cy4sgc&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/REPA Dettaglio bonifico istantaneo DEL 21_09_2026.pdf"
+            },
+            {
               "nome": "SALYER BLADES SRL Dettaglio bonifico istantaneo DEL 15_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -257368,6 +257400,14 @@
               "link": "https://www.dropbox.com/scl/fi/0nxp9mejfgdoc4b0fgj39/SIRMAN-Dettaglio-bonifico-istantaneo-DEL-13_04_2026.pdf?rlkey=qsnm7ocicjzf0ujz65a74ww63&dl=0?raw=1",
               "dimensione_kb": 108,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/SIRMAN Dettaglio bonifico istantaneo DEL 13_04_2026.pdf"
+            },
+            {
+              "nome": "SIRMAN Dettaglio bonifico istantaneo DEL 21_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/frcoczllzumeq1v3q4bbv/SIRMAN-Dettaglio-bonifico-istantaneo-DEL-21_09_2026.pdf?rlkey=xw868vwx2072j0qvqvdgws4cy&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/SIRMAN Dettaglio bonifico istantaneo DEL 21_09_2026.pdf"
             },
             {
               "nome": "STAFF Dettaglio bonifico istantaneo DEL 26_05_2026.pdf",
@@ -257498,7 +257538,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2362
+          "_totale_file": 2365
         }
       ],
       "file": []
