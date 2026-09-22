@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-21T05:42:11Z",
-  "totale_file": 26994,
+  "generato": "2026-09-22T00:25:02Z",
+  "totale_file": 26995,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -75542,7 +75542,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7338,
+      "totale_file": 7339,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -142353,8 +142353,17 @@
                   "_totale_file": 12
                 }
               ],
-              "file": [],
-              "_totale_file": 13
+              "file": [
+                {
+                  "nome": "Tortota CS - Macelleria & Salumeria 16 Settembre 2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/68il8k5fzm63n0xorq6zq/Tortota-CS-Macelleria-Salumeria-16-Settembre-2026.pdf?rlkey=93t8yruljlvduxgxc9ymgr1nn&dl=0?raw=1",
+                  "dimensione_kb": 257,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/Tortota CS - Macelleria & Salumeria 16 Settembre 2026.pdf"
+                }
+              ],
+              "_totale_file": 14
             },
             {
               "nome": "MACELLERIA OLIVA",
@@ -143809,7 +143818,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL - collegamento.lnk"
             }
           ],
-          "_totale_file": 309
+          "_totale_file": 310
         },
         {
           "nome": "TORTORELLA",
