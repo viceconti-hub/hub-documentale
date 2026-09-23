@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-23T07:51:37Z",
-  "totale_file": 27017,
+  "generato": "2026-09-23T08:56:40Z",
+  "totale_file": 27018,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -235615,7 +235615,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2448,
+      "totale_file": 2449,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -257322,6 +257322,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/PADERNO Dettaglio bonifico istantaneo DEL 10_02_2026.pdf"
             },
             {
+              "nome": "PERRETTA Dettaglio bonifico istantaneo DEL 22_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hghp048fpg8aavidb7nty/PERRETTA-Dettaglio-bonifico-istantaneo-DEL-22_09_2026.pdf?rlkey=c5w86eoabtzg7h7a4qrf3k1jy&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/PERRETTA Dettaglio bonifico istantaneo DEL 22_09_2026.pdf"
+            },
+            {
               "nome": "PIAZZA EFFEPI SRL Dettaglio bonifico istantaneo DEL 22_06_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -257570,7 +257578,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2365
+          "_totale_file": 2366
         }
       ],
       "file": []
