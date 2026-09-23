@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-23T00:25:53Z",
-  "totale_file": 27013,
+  "generato": "2026-09-23T02:26:00Z",
+  "totale_file": 27015,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -149082,7 +149082,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4475,
+      "totale_file": 4477,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -149677,9 +149677,25 @@
               "link": "https://www.dropbox.com/scl/fi/uutso7q95uh2asnpl9h8n/100.Acciaio-T-D-LISTINO_10-2020.pdf?rlkey=uc0rcck1h234jgm7som7q0fea&dl=0?raw=1",
               "dimensione_kb": 18913,
               "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/100.Acciaio T&D LISTINO_10-2020.pdf"
+            },
+            {
+              "nome": "Listino Agosto 2020 (1).pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ffg9vsvn8y8amrb92i2m9/Listino-Agosto-2020-1.pdf?rlkey=clygfnijuhcshfilmx2kjw948&dl=0?raw=1",
+              "dimensione_kb": 205653,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Listino Agosto 2020 (1).pdf"
+            },
+            {
+              "nome": "Listino Agosto 2020.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iilmrgtqqwj8qgvru3spz/Listino-Agosto-2020.pdf?rlkey=rfuvmxrywf6lwvmlxkvmokmsx&dl=0?raw=1",
+              "dimensione_kb": 205653,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Listino Agosto 2020.pdf"
             }
           ],
-          "_totale_file": 14
+          "_totale_file": 16
         },
         {
           "nome": "ACQUEDOTTO LUCANO",
