@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-24T07:57:35Z",
-  "totale_file": 27036,
+  "generato": "2026-09-24T09:03:34Z",
+  "totale_file": 27039,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -235783,7 +235783,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2449,
+      "totale_file": 2452,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -257058,6 +257058,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/COLDLINE Dettaglio bonifico istantaneo DEL 21_07_2026.pdf"
             },
             {
+              "nome": "COLDLINE Dettaglio bonifico istantaneo DEL 23_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mt0flz5o0hv5knhmpg2un/COLDLINE-Dettaglio-bonifico-istantaneo-DEL-23_09_2026.pdf?rlkey=njda6qi95uaofra1a3s5z2f83&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/COLDLINE Dettaglio bonifico istantaneo DEL 23_09_2026.pdf"
+            },
+            {
               "nome": "COLDLINE Dettaglio bonifico istantaneo DEL 29_07_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -257458,6 +257466,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/MODULAR Dettaglio bonifico istantaneo DEL 22_07_2026.pdf"
             },
             {
+              "nome": "MODULAR Dettaglio bonifico istantaneo DEL 23_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vcip2gmdfo6plvlbsyete/MODULAR-Dettaglio-bonifico-istantaneo-DEL-23_09_2026.pdf?rlkey=en18oq85s6pym1yjhdbb8o8kl&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/MODULAR Dettaglio bonifico istantaneo DEL 23_09_2026.pdf"
+            },
+            {
               "nome": "MODULAR Dettaglio bonifico istantaneo DEL 30_01_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -257496,6 +257512,14 @@
               "link": "https://www.dropbox.com/scl/fi/hghp048fpg8aavidb7nty/PERRETTA-Dettaglio-bonifico-istantaneo-DEL-22_09_2026.pdf?rlkey=c5w86eoabtzg7h7a4qrf3k1jy&dl=0?raw=1",
               "dimensione_kb": 109,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/PERRETTA Dettaglio bonifico istantaneo DEL 22_09_2026.pdf"
+            },
+            {
+              "nome": "PIAZZA Dettaglio bonifico istantaneo DEL 24_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rgi2p03em9z0a2pn5eia2/PIAZZA-Dettaglio-bonifico-istantaneo-DEL-24_09_2026.pdf?rlkey=o856alvxmtp909x82q91vukn8&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/PIAZZA Dettaglio bonifico istantaneo DEL 24_09_2026.pdf"
             },
             {
               "nome": "PIAZZA EFFEPI SRL Dettaglio bonifico istantaneo DEL 22_06_2026.pdf",
@@ -257746,7 +257770,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2366
+          "_totale_file": 2369
         }
       ],
       "file": []
