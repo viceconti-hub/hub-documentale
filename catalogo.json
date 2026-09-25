@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-25T07:52:22Z",
-  "totale_file": 27095,
+  "generato": "2026-09-25T08:57:42Z",
+  "totale_file": 27097,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -236256,7 +236256,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2452,
+      "totale_file": 2454,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -257883,12 +257883,28 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/LA MITO KLIMAITALIA Dettaglio bonifico istantaneo DEL 28_04_2026.pdf"
             },
             {
+              "nome": "LOTUS CONFERMA 8352.26 DEL 5.10.2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0lwa7my37vuvrttffaxtx/LOTUS-CONFERMA-8352.26-DEL-5.10.2026.pdf?rlkey=p1lx2vg42bc2swsn50301b6mm&dl=0?raw=1",
+              "dimensione_kb": 626,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/LOTUS CONFERMA 8352.26 DEL 5.10.2026.pdf"
+            },
+            {
               "nome": "LOTUS Dettaglio bonifico istantaneo DEL 13_04_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/xg3wuqx3w0wbkdubufsss/LOTUS-Dettaglio-bonifico-istantaneo-DEL-13_04_2026.pdf?rlkey=8x2glnnb0c3anlnq3xbj86b8j&dl=0?raw=1",
               "dimensione_kb": 108,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/LOTUS Dettaglio bonifico istantaneo DEL 13_04_2026.pdf"
+            },
+            {
+              "nome": "LOTUS Dettaglio bonifico istantaneo DEL 24_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ocs2szcfedlbpcjurxx92/LOTUS-Dettaglio-bonifico-istantaneo-DEL-24_09_2026.pdf?rlkey=3e3cmvigs2vl76rgcefwf6ql8&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/LOTUS Dettaglio bonifico istantaneo DEL 24_09_2026.pdf"
             },
             {
               "nome": "LOTUS NOCERA STREET FOOD CONFERMA 00000000385952_00000000066483400.pdf",
@@ -258243,7 +258259,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2369
+          "_totale_file": 2371
         }
       ],
       "file": []
