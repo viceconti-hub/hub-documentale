@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-25T05:45:13Z",
-  "totale_file": 27070,
+  "generato": "2026-09-25T07:52:22Z",
+  "totale_file": 27095,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -192714,7 +192714,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5128,
+      "totale_file": 5153,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -192803,6 +192803,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ACCIAIO T. & D. SRL Entrata merci da fornitore_260118_20260615_164430 RIF. Basato su Ordini d'acquisto 260079. 260088. 260117. 260133..pdf"
             },
             {
+              "nome": "ACCIAIO T. & D. SRL Entrata merci da fornitore_260188_20260923_222935 RIF. LA SECCA PENSILE 120X60 Basato su Ordini cliente 260425. Basato su Ordini.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0ntya6knvsmiefa18ytat/ACCIAIO-T.-D.-SRL-Entrata-merci-da-fornitore_260188_20260923_222935-RIF.-LA-SECCA-PENSILE-120X60-Basato-su-Ordini-cliente-260425.-Basato-su-Ordini.pdf?rlkey=rvn9xn3ebe6tca5va7xhny1ji&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ACCIAIO T. & D. SRL Entrata merci da fornitore_260188_20260923_222935 RIF. LA SECCA PENSILE 120X60 Basato su Ordini cliente 260425. Basato su Ordini.pdf"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Entrata merci da fornitore_260189_20260923_225235 RIF. Basato su Ordini d'acquisto 260118. 260129. 260134..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/j0earzwyz895b592dgvgn/ACCIAIO-T.-D.-SRL-Entrata-merci-da-fornitore_260189_20260923_225235-RIF.-Basato-su-Ordini-d-acquisto-260118.-260129.-260134..pdf?rlkey=nsf1gxa1160gf855ty5ozl4qw&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ACCIAIO T. & D. SRL Entrata merci da fornitore_260189_20260923_225235 RIF. Basato su Ordini d'acquisto 260118. 260129. 260134..pdf"
+            },
+            {
               "nome": "AIRFAN dI MANENTI & C. s.n.c. Entrata merci da fornitore_260083_20260526_095541 RIF. MACELLERIA DE DIEGO Basato su Ordini cliente 260143. Basato MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -192865,6 +192881,14 @@
               "link": "https://www.dropbox.com/scl/fi/250k2cutmhnc6uxvpby0u/ARISTARCO-S.P.A.-Entrata-merci-da-fornitore_260174_20260914_164307-RIF.-PER-LAVABICCHIERI-4120-010009-ORI-40.30-LS-PRS-DD-TF-V230-MATRICOLA-50620118.pdf?rlkey=l58ypwd58yoe4v6emqx9bwbo8&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ARISTARCO S.P.A. Entrata merci da fornitore_260174_20260914_164307 RIF. PER LAVABICCHIERI 4120-010009 ORI 40.30 LS PRS DD TF V230 MATRICOLA 50620118.pdf"
+            },
+            {
+              "nome": "ARISTARCO S.P.A. Entrata merci da fornitore_260187_20260923_222254 RIF. RICAMBI Basato su Ordini d'acquisto 250351..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g29i0ehpfofqza8f89zih/ARISTARCO-S.P.A.-Entrata-merci-da-fornitore_260187_20260923_222254-RIF.-RICAMBI-Basato-su-Ordini-d-acquisto-250351..pdf?rlkey=a3kus5qpzaoiklyh4q4cv0vq3&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ARISTARCO S.P.A. Entrata merci da fornitore_260187_20260923_222254 RIF. RICAMBI Basato su Ordini d'acquisto 250351..pdf"
             },
             {
               "nome": "BELLADONNA SRL Entrata merci da fornitore_260079_20260524_171945 RIF. Basato su Ordini d'acquisto 260016. 260017..pdf",
@@ -192993,6 +193017,30 @@
               "link": "https://www.dropbox.com/scl/fi/7c1gwc8c29yi4scyy56b9/COLD-LINE-srl-Entrata-merci-da-fornitore_260172_20260827_232921-RIF.-Kit-ventilatore-250-4-fili-il-codice-O18300016001-PER-MODELLI-POST-2019-PER.pdf?rlkey=20j1hz1dgwsn3j4nvkdnj8tfh&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260172_20260827_232921 RIF. Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST 2019 PER.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260184_20260923_214434 RIF. TEGLIA FORATA E GRIGLIA PER ABBATTITORE W30 Basato su Ordini cliente 260442.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/txmj1r79coyr5npyaz9gg/COLD-LINE-srl-Entrata-merci-da-fornitore_260184_20260923_214434-RIF.-TEGLIA-FORATA-E-GRIGLIA-PER-ABBATTITORE-W30-Basato-su-Ordini-cliente-260442.pdf?rlkey=tewh4mhalr4z0760hzio5ocgw&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260184_20260923_214434 RIF. TEGLIA FORATA E GRIGLIA PER ABBATTITORE W30 Basato su Ordini cliente 260442.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260185_20260923_215214 RIF. SONDA NTC 10K RANGE DI TEMPERATURA -50 +110°C Basato su Ordini d'acquisto.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8ql36v5qlems3yugcihsg/COLD-LINE-srl-Entrata-merci-da-fornitore_260185_20260923_215214-RIF.-SONDA-NTC-10K-RANGE-DI-TEMPERATURA-50-110-C-Basato-su-Ordini-d-acquisto.pdf?rlkey=upumeg5ukbw0iv8d8x0zijv5u&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260185_20260923_215214 RIF. SONDA NTC 10K RANGE DI TEMPERATURA -50 +110°C Basato su Ordini d'acquisto.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260186_20260923_220341 RIF. RUSTICHELLI ARMADIO LEVTRONIC 900 ARMADIO FRIGO SMART E ARMADIO CONGELATORE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/t1vtwtwfmqzvgg3dzwlx6/COLD-LINE-srl-Entrata-merci-da-fornitore_260186_20260923_220341-RIF.-RUSTICHELLI-ARMADIO-LEVTRONIC-900-ARMADIO-FRIGO-SMART-E-ARMADIO-CONGELATORE.pdf?rlkey=jzk3gm12urij1x9hddsmk6gob&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260186_20260923_220341 RIF. RUSTICHELLI ARMADIO LEVTRONIC 900 ARMADIO FRIGO SMART E ARMADIO CONGELATORE.pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -193275,6 +193323,62 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260156_20260728_084415 RIF. VETRINA REFRIGERATA DA BANCO CON VETRO CURVO Basato su Offer.pdf"
             },
             {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260176_20260923_205605 RIF. BANCO PIZZA VETRINA INGEDIENTI VETRINA REFRIGERATA e LAVELLO PUGLIESE MATTIA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/o4esvvclono0m7extvvpz/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260176_20260923_205605-RIF.-BANCO-PIZZA-VETRINA-INGEDIENTI-VETRINA-REFRIGERATA-e-LAVELLO-PUGLIESE-MATTIA.pdf?rlkey=ufbjpdopvcnlbak8fxo6fy9l6&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260176_20260923_205605 RIF. BANCO PIZZA VETRINA INGEDIENTI VETRINA REFRIGERATA e LAVELLO PUGLIESE MATTIA.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260177_20260923_205756 RIF. FRYTOP A GAS FIMAR FRY1LM COZZI NICOLA e TAGLIERE 70X40 OLIVIERI Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4dj8luekr7x1ekfyhjy2m/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260177_20260923_205756-RIF.-FRYTOP-A-GAS-FIMAR-FRY1LM-COZZI-NICOLA-e-TAGLIERE-70X40-OLIVIERI-Basato-su.pdf?rlkey=vqjn953s231y11dd9vovdcstv&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260177_20260923_205756 RIF. FRYTOP A GAS FIMAR FRY1LM COZZI NICOLA e TAGLIERE 70X40 OLIVIERI Basato su.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260178_20260923_205922 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE Basato su Ordini d'acquisto 260244..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xt5yy80v1prabu3zuxn8c/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260178_20260923_205922-RIF.-AFFETTATRICE-ECO250-230V-50Hz-1PH-EXCE-Basato-su-Ordini-d-acquisto-260244..pdf?rlkey=57mz8brvrmk2kgakfai7scoj4&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260178_20260923_205922 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE Basato su Ordini d'acquisto 260244..pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260179_20260923_210008 RIF. SEGAOSSI E IMPSTATRICE Basato su Ordini d'acquisto 260245..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g4l12ov3h4wjnoftuaoqc/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260179_20260923_210008-RIF.-SEGAOSSI-E-IMPSTATRICE-Basato-su-Ordini-d-acquisto-260245..pdf?rlkey=17hozfiodqtmplppvtjd95gtm&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260179_20260923_210008 RIF. SEGAOSSI E IMPSTATRICE Basato su Ordini d'acquisto 260245..pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260180_20260923_210050 RIF. GUARNIZIONE TAVOLO GN2100-3100-4100TN-BT SALVATORE NATALE PER HAPPY Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vn2mk18el35l7vypwhzol/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260180_20260923_210050-RIF.-GUARNIZIONE-TAVOLO-GN2100-3100-4100TN-BT-SALVATORE-NATALE-PER-HAPPY-Basato-su.pdf?rlkey=h1bwxrkht40mwuieulst7bucs&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260180_20260923_210050 RIF. GUARNIZIONE TAVOLO GN2100-3100-4100TN-BT SALVATORE NATALE PER HAPPY Basato su.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260181_20260923_210159 RIF. AFFETTATRICE A GRAVITÀ H275,LAMA INOXø275 mm RIF.PANAINO MATRICOLA 8050624424678.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0f8xm1oe3dhw5xg84ly0m/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260181_20260923_210159-RIF.-AFFETTATRICE-A-GRAVIT-H275-LAMA-INOX-275-mm-RIF.PANAINO-MATRICOLA-8050624424678.pdf?rlkey=6q7qxq7ortn1ojiwhpphlnxt0&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260181_20260923_210159 RIF. AFFETTATRICE A GRAVITÀ H275,LAMA INOXø275 mm RIF.PANAINO MATRICOLA 8050624424678.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260182_20260923_210304 RIF. TAVOLO ARMADIATO E FRYTOP A GAS Basato su Ordini d'acquisto 260179. 260186..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c4r35trklfqb8ijxwhkwz/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260182_20260923_210304-RIF.-TAVOLO-ARMADIATO-E-FRYTOP-A-GAS-Basato-su-Ordini-d-acquisto-260179.-260186..pdf?rlkey=yf3v1b52enfntdg0f8wqiegvv&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260182_20260923_210304 RIF. TAVOLO ARMADIATO E FRYTOP A GAS Basato su Ordini d'acquisto 260179. 260186..pdf"
+            },
+            {
               "nome": "FIMEL DOCUMENTO DI TRASPORTO 1842025 DEL 22-12-2025  VICECONTI SNC DI PROSPERO VICECONTI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -193451,6 +193555,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/LOTUS spa Entrata merci da fornitore_260117_20260612_081143 RIF. LIDO VALENTINA Basato su Ordini cliente 260175. TITOLO MPS 3.pdf"
             },
             {
+              "nome": "MISA SRL Entrata merci da fornitore_260183_20260923_211213 RIF. CELLA RIF.RINTELLI Basato su Ordini cliente 260469. Basato su Ordini d'acquisto.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ftvpbh6orxpga8z3bdhy7/MISA-SRL-Entrata-merci-da-fornitore_260183_20260923_211213-RIF.-CELLA-RIF.RINTELLI-Basato-su-Ordini-cliente-260469.-Basato-su-Ordini-d-acquisto.pdf?rlkey=6k3yytnpdf917k983dy5980mu&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MISA SRL Entrata merci da fornitore_260183_20260923_211213 RIF. CELLA RIF.RINTELLI Basato su Ordini cliente 260469. Basato su Ordini d'acquisto.pdf"
+            },
+            {
               "nome": "MODULAR DDT n°006546.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -193521,6 +193633,14 @@
               "link": "https://www.dropbox.com/scl/fi/9rwfta10gd56bpbfb0eem/MODULAR-PROFESSIONAL-srl-Entrata-merci-da-fornitore_260159_20260729_085220-RIF.-Guarnizione-porta-forno-QUBI6-DL-Basato-su-Ordini-d-acquisto.pdf?rlkey=ih7c29yfxlrwcwa7d9nrq1eeb&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260159_20260729_085220 RIF. Guarnizione porta forno QUBI6 DL Basato su Ordini d'acquisto.pdf"
+            },
+            {
+              "nome": "MODULAR PROFESSIONAL srl Entrata merci da fornitore_260175_20260923_194035 RIF. Cesto vasca intera per friggitrice elettrica vasca da 17 lt Dimensioni.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/90ihecdzj8e557iil5sgq/MODULAR-PROFESSIONAL-srl-Entrata-merci-da-fornitore_260175_20260923_194035-RIF.-Cesto-vasca-intera-per-friggitrice-elettrica-vasca-da-17-lt-Dimensioni.pdf?rlkey=w8pnnok9hzqu1v6ba55m8gh5m&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260175_20260923_194035 RIF. Cesto vasca intera per friggitrice elettrica vasca da 17 lt Dimensioni.pdf"
             },
             {
               "nome": "MORETTI FIMEL DDT DICEMBRE 2025 RIF.FA' TU.JPEG",
@@ -193907,7 +194027,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 146
+          "_totale_file": 161
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -235799,6 +235919,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-002892-2026 RIF.MACELLERIA COSENTINO INTEGRAZIONE.pdf"
             },
             {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260238_20260921_084700 RIF. MACELLERIA COSENTINO INTEGRAZIONE TAVOLI INOX Basato su Ordini cliente 260448..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/byfe0fftkw0ov1byz37ab/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260238_20260921_084700-RIF.-MACELLERIA-COSENTINO-INTEGRAZIONE-TAVOLI-INOX-Basato-su-Ordini-cliente-260448..pdf?rlkey=v7cn3sv3ied3rvcqkxv309wqh&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260238_20260921_084700 RIF. MACELLERIA COSENTINO INTEGRAZIONE TAVOLI INOX Basato su Ordini cliente 260448..pdf"
+            },
+            {
               "nome": "AIRFAN CONFERMA 3523 VICECONTI SNC CO RIF.YOU MARINA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -235853,6 +235981,14 @@
               "link": "https://www.dropbox.com/scl/fi/xvforx69r9138yziziaat/COLDLINE-Conferma-ordine-n-26-13997-RIF.MeM-TOP.pdf?rlkey=0s6bbl1zxmz0gjlz9rzs6ezzg&dl=0?raw=1",
               "dimensione_kb": 79,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13997 RIF.MeM TOP.pdf"
+            },
+            {
+              "nome": "COLDLINE Conferma ordine n°26-16458 RIF.MAMA MIA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dev4dtf2h8vj7bedegidm/COLDLINE-Conferma-ordine-n-26-16458-RIF.MAMA-MIA.pdf?rlkey=7llofi10zqrfggk5rmmev9w1q&dl=0?raw=1",
+              "dimensione_kb": 89,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-16458 RIF.MAMA MIA.pdf"
             },
             {
               "nome": "COLDLINE ORDINI E TITOLI - collegamento.lnk",
@@ -235925,6 +236061,54 @@
               "link": "https://www.dropbox.com/scl/fi/23xqh0wzqio27vs2fp7nx/Cimbali-Group-S.p.A.-Ordine-dacquisto_260054_20260611_093208-RIF.-DETERGENTE-GUARNIZIONI-DOCCETTE.pdf?rlkey=rbhhb6rqvbck1uj96010wqhsu&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Ordine dacquisto_260241_20260923_091101 RIF. RESISTENZE PER TOSTIERE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nanw8ht9533qx95rxtojv/FIMAR-s.p.a.-Ordine-dacquisto_260241_20260923_091101-RIF.-RESISTENZE-PER-TOSTIERE.pdf?rlkey=9opqrfr2qst6bww5pb0v4p7n6&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260241_20260923_091101 RIF. RESISTENZE PER TOSTIERE.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Ordine dacquisto_260243_20260923_203031 RIF. RESISTENZA PER CUOCIPASTA RIF. I CARNALI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ybz470n8hrornnsugs5h7/FIMAR-s.p.a.-Ordine-dacquisto_260243_20260923_203031-RIF.-RESISTENZA-PER-CUOCIPASTA-RIF.-I-CARNALI.pdf?rlkey=9lu0vbc9n12erb9n7iahns6rq&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260243_20260923_203031 RIF. RESISTENZA PER CUOCIPASTA RIF. I CARNALI.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Ordine dacquisto_260244_20260923_203422 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pgfhhgunxdu0g1y3d30d3/FIMAR-s.p.a.-Ordine-dacquisto_260244_20260923_203422-RIF.-AFFETTATRICE-ECO250-230V-50Hz-1PH-EXCE.pdf?rlkey=s99s604gie5dkim0n21h7u9b6&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260244_20260923_203422 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Ordine dacquisto_260245_20260923_203759 RIF. SEGAOSSI E IMPSTATRICE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xmboaq0j8g46czs00akdj/FIMAR-s.p.a.-Ordine-dacquisto_260245_20260923_203759-RIF.-SEGAOSSI-E-IMPSTATRICE.pdf?rlkey=eahf9631svd5q6eioeqwa0zu8&dl=0?raw=1",
+              "dimensione_kb": 72,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260245_20260923_203759 RIF. SEGAOSSI E IMPSTATRICE.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Ordine dacquisto_260246_20260923_204454 RIF. GUARNIZIONE TAVOLO GN2100-3100-4100TN-BT SALVATORE NATALE PER HAPPY.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/542vt2tz9n6bbwsr3ln4p/FIMAR-s.p.a.-Ordine-dacquisto_260246_20260923_204454-RIF.-GUARNIZIONE-TAVOLO-GN2100-3100-4100TN-BT-SALVATORE-NATALE-PER-HAPPY.pdf?rlkey=2qafr1xn6nw06bvjl6pb0kla1&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260246_20260923_204454 RIF. GUARNIZIONE TAVOLO GN2100-3100-4100TN-BT SALVATORE NATALE PER HAPPY.pdf"
+            },
+            {
+              "nome": "FIMAR s.p.a. Ordine dacquisto_260247_20260923_204705 RIF. AFFETTATRICE A GRAVITÀ H275,LAMA INOXø275 mm RIF.PANAINO RUA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tvg7gcfxspgdf34t9jyv1/FIMAR-s.p.a.-Ordine-dacquisto_260247_20260923_204705-RIF.-AFFETTATRICE-A-GRAVIT-H275-LAMA-INOX-275-mm-RIF.PANAINO-RUA.pdf?rlkey=wzf9oe7jnb4rhd2r4u6fcxn6s&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR s.p.a. Ordine dacquisto_260247_20260923_204705 RIF. AFFETTATRICE A GRAVITÀ H275,LAMA INOXø275 mm RIF.PANAINO RUA.pdf"
             },
             {
               "nome": "FRIGOMECCANICA CONFERMA ORDINE SKM_C300i26091515120-1 RIF.COSENTINO.pdf",
@@ -236007,6 +236191,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26021558.pdf"
             },
             {
+              "nome": "PIAZZA CONFERMA 11012179_ORD_CLI_2026-OC-0003998 RIF.EVRA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/98nki2w4xnalpyzbp2qba/PIAZZA-CONFERMA-11012179_ORD_CLI_2026-OC-0003998-RIF.EVRA.pdf?rlkey=pjbcd8f0pjelh2ccshqgqi3hp&dl=0?raw=1",
+              "dimensione_kb": 584,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PIAZZA CONFERMA 11012179_ORD_CLI_2026-OC-0003998 RIF.EVRA.pdf"
+            },
+            {
+              "nome": "SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ncle4un7h8eb5d6rqdkgu/SIRMAN-CONFERMA-ORDINE-2010264956-RIF.MACELLERIA-COSENTINO-E-PUGLIESE.pdf?rlkey=915vkrkvt5cb0dbictvqoux3u&dl=0?raw=1",
+              "dimensione_kb": 116,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE.pdf"
+            },
+            {
               "nome": "SIRMAN CONFERMA ORDINE RIF.LABORANTI WEB.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -236047,7 +236247,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3821
+          "_totale_file": 3831
         }
       ],
       "file": []
