@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-26T00:30:00Z",
-  "totale_file": 27101,
+  "generato": "2026-09-26T02:31:04Z",
+  "totale_file": 27112,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -149466,7 +149466,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4477,
+      "totale_file": 4488,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -157592,7 +157592,7 @@
                           "nome": "FI.LA. S.a.s - Mod. Redditi 2021 Ric. di presentazione.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/4cat3bq6sqn8wse00ag0t/FI.LA.-S.a.s-Mod.-Redditi-2021-Ric.-di-presentazione.pdf?rlkey=wzahmkgvjc3oremyzuewqcmkr&dl=0?raw=1",
                           "dimensione_kb": 16,
                           "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/LAURIA/LAURIA - OVER DREAM - FI.LA. Sas/Inviati a COMPASS/FI.LA. S.a.s - Mod. Redditi 2021 Ric. di presentazione.pdf"
                         },
@@ -165831,6 +165831,86 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015 - refrigerazione.pdf"
             },
             {
+              "nome": "DIGRIM_catalogo2015-accessori.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/k937ggi3fcz3vtpwxhjib/DIGRIM_catalogo2015-accessori.pdf?rlkey=3u1tib4igssek30mmgj3dc24k&dl=0?raw=1",
+              "dimensione_kb": 7613,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015-accessori.pdf"
+            },
+            {
+              "nome": "DIGRIM_catalogo2015-arredamento.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/aufnrqp1kdxk5a7ev89kk/DIGRIM_catalogo2015-arredamento.pdf?rlkey=pdztvnk1hr29nb2tisefxep7i&dl=0?raw=1",
+              "dimensione_kb": 5768,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015-arredamento.pdf"
+            },
+            {
+              "nome": "DIGRIM_catalogo2015-cottura.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rp1f66xhaj8ccgcnz844o/DIGRIM_catalogo2015-cottura.pdf?rlkey=7b2fy500u574tswd4pnubiyuf&dl=0?raw=1",
+              "dimensione_kb": 12733,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015-cottura.pdf"
+            },
+            {
+              "nome": "DIGRIM_catalogo2015-lavaggio.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8lo1syvsnkr585voihxd6/DIGRIM_catalogo2015-lavaggio.pdf?rlkey=jr5hc5b5omus9qe6t8r8mzs83&dl=0?raw=1",
+              "dimensione_kb": 4031,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015-lavaggio.pdf"
+            },
+            {
+              "nome": "DIGRIM_catalogo2015-movimentazione-esposizione.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7gz1o2nf37a6kohxwm6f7/DIGRIM_catalogo2015-movimentazione-esposizione.pdf?rlkey=30hldjod5y8pxbh1hshtrd9js&dl=0?raw=1",
+              "dimensione_kb": 12714,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015-movimentazione-esposizione.pdf"
+            },
+            {
+              "nome": "DIGRIM_catalogo2015-preparazione-dinamica.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lea9cr5y4an31rnms34a0/DIGRIM_catalogo2015-preparazione-dinamica.pdf?rlkey=yeuhfn1lxp51v604ua4um1mn5&dl=0?raw=1",
+              "dimensione_kb": 20981,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015-preparazione-dinamica.pdf"
+            },
+            {
+              "nome": "DIGRIM_catalogo2015-preparazione-statica.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fp5g31xduarfrwkdyhgri/DIGRIM_catalogo2015-preparazione-statica.pdf?rlkey=pbe2wba07t9h2pvdj1tj9h5tw&dl=0?raw=1",
+              "dimensione_kb": 1834,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015-preparazione-statica.pdf"
+            },
+            {
+              "nome": "DIGRIM_catalogo2015-pulizia-igiene-sicurezza.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dl8mprkves671br09d6li/DIGRIM_catalogo2015-pulizia-igiene-sicurezza.pdf?rlkey=y7i8roym5nwsby0bvg5yh7p8t&dl=0?raw=1",
+              "dimensione_kb": 8128,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015-pulizia-igiene-sicurezza.pdf"
+            },
+            {
+              "nome": "DIGRIM_catalogo2015-refrigerazione.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yuyxvwzasp8ve3r8wqiwd/DIGRIM_catalogo2015-refrigerazione.pdf?rlkey=krf3a9zgwpj4e1wizy3b1741y&dl=0?raw=1",
+              "dimensione_kb": 14878,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015-refrigerazione.pdf"
+            },
+            {
+              "nome": "DIGRIM_catalogo2015-trattamento-aria.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xj83q9rq97o748r8u4wwv/DIGRIM_catalogo2015-trattamento-aria.pdf?rlkey=axiwb8wwwa8kv2gqvsg4ft30a&dl=0?raw=1",
+              "dimensione_kb": 20368,
+              "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/DIGRIM_catalogo2015-trattamento-aria.pdf"
+            },
+            {
               "nome": "Dropbox.zip",
               "tipo": "Archivio",
               "icona": "🗜️",
@@ -165855,7 +165935,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/DIGRIM/facsimile lettera ritiro Blender Rio Hamilton_P.docx"
             }
           ],
-          "_totale_file": 30
+          "_totale_file": 40
         },
         {
           "nome": "DINI ARGEO",
@@ -178387,7 +178467,7 @@
               "nome": "Gmail - Irinox Home.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qcxrk22idd032dc79qy5h/Gmail-Irinox-Home.pdf?rlkey=wkrv6d1i7mps1jb4hiov4mlkh&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 127,
               "path": "/HUB DOCUMENTALE/FORNITORI/IRINOX/Gmail - Irinox Home.pdf"
             },
@@ -185780,7 +185860,7 @@
                   "nome": "RIVENDITORI EMAIL.txt",
                   "tipo": "Testo",
                   "icona": "📃",
-                  "link": "https://www.dropbox.com/scl/fi/l5i6vsjv0000vcric7dtz/RIVENDITORI-EMAIL.txt?rlkey=4clh9ggndq1jpanokutkew92y&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 2,
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL RIVENDITORI ITALIA/RIVENDITORI EMAIL.txt"
                 },
@@ -190950,6 +191030,22 @@
             }
           ],
           "_totale_file": 25
+        },
+        {
+          "nome": "UNIVAC",
+          "path": "/HUB DOCUMENTALE/FORNITORI/UNIVAC",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "UNIVAC AREA SERVICE CREDENZIALI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0f50vg14vdqxe7x7tgwgw/UNIVAC-AREA-SERVICE-CREDENZIALI.pdf?rlkey=9giqzgryahys38v7yzoswm9al&dl=0?raw=1",
+              "dimensione_kb": 368,
+              "path": "/HUB DOCUMENTALE/FORNITORI/UNIVAC/UNIVAC AREA SERVICE CREDENZIALI.pdf"
+            }
+          ],
+          "_totale_file": 1
         },
         {
           "nome": "UNOX",
