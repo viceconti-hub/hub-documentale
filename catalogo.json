@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-25T09:12:38Z",
-  "totale_file": 27097,
+  "generato": "2026-09-26T00:30:00Z",
+  "totale_file": 27101,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -75790,7 +75790,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7359,
+      "totale_file": 7363,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -91021,25 +91021,57 @@
           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA",
           "cartelle": [
             {
-              "nome": "A&M COMPANY",
-              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY",
+              "nome": "A&M COMPANY PIZZA SI",
+              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI",
               "cartelle": [
                 {
-                  "nome": "AeM COMPANY AREA TECNICA",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA",
+                  "nome": "23_12_2021",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/23_12_2021",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "PIZZA Sì SITUAZIONE CONTABILE AL 23_12_2021.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/n5oiwrer2csqz2fyi5yzf/PIZZA-S-SITUAZIONE-CONTABILE-AL-23_12_2021.pdf?rlkey=941h2ux55tc5azwtwxbp493p4&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/23_12_2021/PIZZA Sì SITUAZIONE CONTABILE AL 23_12_2021.pdf"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
+                  "nome": "AeM COMPANY PIZZA SI AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA",
                   "cartelle": [
                     {
                       "nome": "FORNO PIZZA CUPPONE",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FORNO PIZZA CUPPONE",
                       "cartelle": [],
                       "file": [
+                        {
+                          "nome": "CUPPONE image_6483441 RIF. PIZZA Sì.JPG",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/cseloaamojugpkhstro82/CUPPONE-image_6483441-RIF.-PIZZA-S.JPG?rlkey=2a3ws3qnqbypvzvf5mhq1mg0n&dl=0?raw=1",
+                          "dimensione_kb": 134,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FORNO PIZZA CUPPONE/CUPPONE image_6483441 RIF. PIZZA Sì.JPG"
+                        },
+                        {
+                          "nome": "CUPPONE image_6483442 RIF. PIZZA Sì.JPG",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/owdupf28xkpz9ic7a7xnh/CUPPONE-image_6483442-RIF.-PIZZA-S.JPG?rlkey=j6duqfhzrl9tenp7807opqmth&dl=0?raw=1",
+                          "dimensione_kb": 131,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FORNO PIZZA CUPPONE/CUPPONE image_6483442 RIF. PIZZA Sì.JPG"
+                        },
                         {
                           "nome": "FORNO CUPPONE RIEPILOGO ASSISTENZE AL 27_03_2026.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/zq1qhfr56xfrfjansj3w7/FORNO-CUPPONE-RIEPILOGO-ASSISTENZE-AL-27_03_2026.jpg?rlkey=jjgl40w8xu10n5ghab5kp87e5&dl=0?raw=1",
                           "dimensione_kb": 107,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE/FORNO CUPPONE RIEPILOGO ASSISTENZE AL 27_03_2026.jpg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FORNO PIZZA CUPPONE/FORNO CUPPONE RIEPILOGO ASSISTENZE AL 27_03_2026.jpg"
                         },
                         {
                           "nome": "FORNO CUPPONE RIEPILOGO TECNICO INTERNO.txt",
@@ -91047,7 +91079,7 @@
                           "icona": "📃",
                           "link": "https://www.dropbox.com/scl/fi/1xy8rtoxl1iaddkfadak8/FORNO-CUPPONE-RIEPILOGO-TECNICO-INTERNO.txt?rlkey=6k2eri9s5bpxe4qwal6i7nauw&dl=0?raw=1",
                           "dimensione_kb": 0,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE/FORNO CUPPONE RIEPILOGO TECNICO INTERNO.txt"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FORNO PIZZA CUPPONE/FORNO CUPPONE RIEPILOGO TECNICO INTERNO.txt"
                         },
                         {
                           "nome": "TERMOREGOLATORE IMMAGINE REPA.jpg",
@@ -91055,7 +91087,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/04rvvr10cuht4c4flcdge/TERMOREGOLATORE-IMMAGINE-REPA.jpg?rlkey=1fv8oubkk2rg4mf285juio6wy&dl=0?raw=1",
                           "dimensione_kb": 71,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE/TERMOREGOLATORE IMMAGINE REPA.jpg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FORNO PIZZA CUPPONE/TERMOREGOLATORE IMMAGINE REPA.jpg"
                         },
                         {
                           "nome": "TERMOREGOLATORE IMMAGINE REPA1.jpg",
@@ -91063,7 +91095,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/lbkh1ujx8xkmyvj4nxga4/TERMOREGOLATORE-IMMAGINE-REPA1.jpg?rlkey=drkwxmfwooqqi1cejpojzcvlq&dl=0?raw=1",
                           "dimensione_kb": 72,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE/TERMOREGOLATORE IMMAGINE REPA1.jpg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FORNO PIZZA CUPPONE/TERMOREGOLATORE IMMAGINE REPA1.jpg"
                         },
                         {
                           "nome": "TERMOREGOLATORE IMMAGINE REPA2.jpg",
@@ -91071,14 +91103,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/vn7p4ajhqeu9mfmbckl26/TERMOREGOLATORE-IMMAGINE-REPA2.jpg?rlkey=xulm7igleei9wpd6xgjl89f3s&dl=0?raw=1",
                           "dimensione_kb": 48,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/FORNO PIZZA CUPPONE/TERMOREGOLATORE IMMAGINE REPA2.jpg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FORNO PIZZA CUPPONE/TERMOREGOLATORE IMMAGINE REPA2.jpg"
                         }
                       ],
-                      "_totale_file": 5
+                      "_totale_file": 7
                     },
                     {
-                      "nome": "Nuova cartella",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/Nuova cartella",
+                      "nome": "FRIGGITRICE A GAS BERTO'S S9GL20M MATRICOLA 0803692082",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FRIGGITRICE A GAS BERTO'S S9GL20M MATRICOLA 0803692082",
                       "cartelle": [],
                       "file": [
                         {
@@ -91087,14 +91119,111 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/2yxgrod7fznhh9aeglpve/Berto-s_GAS_FRYERS_32876500-UGELLI.pdf?rlkey=49l2o9wqxxgk0adc49wesvdfj&dl=0?raw=1",
                           "dimensione_kb": 32,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/AeM COMPANY AREA TECNICA/Nuova cartella/Berto's_GAS_FRYERS_32876500 UGELLI .pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FRIGGITRICE A GAS BERTO'S S9GL20M MATRICOLA 0803692082/Berto's_GAS_FRYERS_32876500 UGELLI .pdf"
+                        },
+                        {
+                          "nome": "Berto's_GAS_FRYERS_32876500.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/daywqq7ib41b3m7cwezxs/Berto-s_GAS_FRYERS_32876500.pdf?rlkey=61dz80zuj7x1h6k1s6076l0rs&dl=0?raw=1",
+                          "dimensione_kb": 12358,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/FRIGGITRICE A GAS BERTO'S S9GL20M MATRICOLA 0803692082/Berto's_GAS_FRYERS_32876500.pdf"
+                        }
+                      ],
+                      "_totale_file": 2
+                    },
+                    {
+                      "nome": "LAVABICCHIERI COMENDA BC 3E RCD MATRICOLA AP0024860314",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/LAVABICCHIERI COMENDA BC 3E RCD MATRICOLA AP0024860314",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "LAVABICCHIERI COMENDA BC 3E RCD MATRICOLA AP0024860314 ESPLOSO RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/ivrgxcix461lk12wgvc0o/LAVABICCHIERI-COMENDA-BC-3E-RCD-MATRICOLA-AP0024860314-ESPLOSO-RICAMBI.pdf?rlkey=59v20vhhivipdypasev7md8km&dl=0?raw=1",
+                          "dimensione_kb": 2058,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/LAVABICCHIERI COMENDA BC 3E RCD MATRICOLA AP0024860314/LAVABICCHIERI COMENDA BC 3E RCD MATRICOLA AP0024860314 ESPLOSO RICAMBI.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "MACCHINA SOTTOVUOTO A CAMPANA KAREL",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/MACCHINA SOTTOVUOTO A CAMPANA KAREL",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "WhatsApp Image 2024-10-07 at 18.13.31.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/0uir0930zfmiocrns7si2/WhatsApp-Image-2024-10-07-at-18.13.31.jpeg?rlkey=bbgnn9b49j5bwa2ew4o4u1nux&dl=0?raw=1",
+                          "dimensione_kb": 171,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/MACCHINA SOTTOVUOTO A CAMPANA KAREL/WhatsApp Image 2024-10-07 at 18.13.31.jpeg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "PLANETARIA FIMAR",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/PLANETARIA FIMAR",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "MATRICOLA PLANETARIA FIMAR.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/bnyrjtb0ac0mw519l8rvv/MATRICOLA-PLANETARIA-FIMAR.jpg?rlkey=k6x3yos3p2dyxquh8hutxfpey&dl=0?raw=1",
+                          "dimensione_kb": 65,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/PLANETARIA FIMAR/MATRICOLA PLANETARIA FIMAR.jpg"
                         }
                       ],
                       "_totale_file": 1
                     }
                   ],
-                  "file": [],
-                  "_totale_file": 6
+                  "file": [
+                    {
+                      "nome": "20211002321F.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/99fkxy0cxhb3u48n6acrl/20211002321F.pdf?rlkey=5uhq97c8kx00gbg67100f30d9&dl=0?raw=1",
+                      "dimensione_kb": 100,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/20211002321F.pdf"
+                    },
+                    {
+                      "nome": "_MAN_1500362_VACUUM_2009-2010_ORVED_R02 (1).PDF",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/p242cwp6akespk3droihs/_MAN_1500362_VACUUM_2009-2010_ORVED_R02-1.PDF?rlkey=np865dwsaqms55p04ldokx2nj&dl=0?raw=1",
+                      "dimensione_kb": 4457,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/AeM COMPANY PIZZA SI AREA TECNICA/_MAN_1500362_VACUUM_2009-2010_ORVED_R02 (1).PDF"
+                    }
+                  ],
+                  "_totale_file": 14
+                },
+                {
+                  "nome": "SCHEDE TECNICHE",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/SCHEDE TECNICHE",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "PIASTRE AD INDUZIONE - PIASTRE AD INDUZIONE - COTTURA PREPARAZIONE DINAMICA - Prodotti - Karel Srl - Articoli professionali per la ristorazione collettiva.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/m5tsessxuece1izl01vw3/PIASTRE-AD-INDUZIONE-PIASTRE-AD-INDUZIONE-COTTURA-PREPARAZIONE-DINAMICA-Prodotti-Karel-Srl-Articoli-professionali-per-la-ristorazione-collettiva.pdf?rlkey=c9xzg20z83sc0cz5cbn4gfjgp&dl=0?raw=1",
+                      "dimensione_kb": 125,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/SCHEDE TECNICHE/PIASTRE AD INDUZIONE - PIASTRE AD INDUZIONE - COTTURA PREPARAZIONE DINAMICA - Prodotti - Karel Srl - Articoli professionali per la ristorazione collettiva.pdf"
+                    },
+                    {
+                      "nome": "it_S9820-135-4510-316057.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/kk6mab3jzxjs2vi4qowog/it_S9820-135-4510-316057.pdf?rlkey=o15lh930b8ghccdd3lwrxqics&dl=0?raw=1",
+                      "dimensione_kb": 22,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/SCHEDE TECNICHE/it_S9820-135-4510-316057.pdf"
+                    }
+                  ],
+                  "_totale_file": 2
                 }
               ],
               "file": [
@@ -91104,7 +91233,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/z6t0gms6llff7h1xf3ug7/A-M-Fattura-di-vendita_2300760_20231214_183619.pdf?rlkey=7y7fqv68wai1p42fiytsj9l0h&dl=0?raw=1",
                   "dimensione_kb": 81,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/A&M Fattura di vendita_2300760_20231214_183619.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/A&M Fattura di vendita_2300760_20231214_183619.pdf"
                 },
                 {
                   "nome": "BONIFICOSEPA_1693904257117.pdf",
@@ -91112,7 +91241,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/pgxqs63g5zhuyildn1qi5/BONIFICOSEPA_1693904257117.pdf?rlkey=x9d7364mv5zxj7cgkqptk1rr7&dl=0?raw=1",
                   "dimensione_kb": 44,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/BONIFICOSEPA_1693904257117.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/BONIFICOSEPA_1693904257117.pdf"
                 },
                 {
                   "nome": "BONIFICOSEPA_1702636693944.pdf",
@@ -91120,7 +91249,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/r7dqm954lej4qretwetu3/BONIFICOSEPA_1702636693944.pdf?rlkey=14hc0s47ahoywk8jmlt8tkh1d&dl=0?raw=1",
                   "dimensione_kb": 42,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/BONIFICOSEPA_1702636693944.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/BONIFICOSEPA_1702636693944.pdf"
                 },
                 {
                   "nome": "Fattura di vendita_2400574_20240822_113106.pdf",
@@ -91128,7 +91257,151 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/zit5p3kqw157auqhb1jxo/Fattura-di-vendita_2400574_20240822_113106.pdf?rlkey=lr62u4shmqljtf41trbxho0nb&dl=0?raw=1",
                   "dimensione_kb": 72,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/Fattura di vendita_2400574_20240822_113106.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/Fattura di vendita_2400574_20240822_113106.pdf"
+                },
+                {
+                  "nome": "Fattura di vendita_2400778_20241112_112918.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mo1ket8u8bxic1oy25cda/Fattura-di-vendita_2400778_20241112_112918.pdf?rlkey=fx21wmy0vmkbgfs7e4s7bh0ye&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/Fattura di vendita_2400778_20241112_112918.pdf"
+                },
+                {
+                  "nome": "Fattura di vendita_2400778_20241112_124406.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pxgvs79cvu4civsy2ph2n/Fattura-di-vendita_2400778_20241112_124406.pdf?rlkey=wlpy788jdea556n7b8k38lczp&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/Fattura di vendita_2400778_20241112_124406.pdf"
+                },
+                {
+                  "nome": "Ordine cliente_210905_20211109_180901.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5wxa6flyapgymi9z097r6/Ordine-cliente_210905_20211109_180901.pdf?rlkey=ijs7hncgzs6khnpbw0nhvm2tn&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/Ordine cliente_210905_20211109_180901.pdf"
+                },
+                {
+                  "nome": "PIZZA SI' OFFERTA NASSAU.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/51gssk9fqye7z6yrbz52i/PIZZA-SI-OFFERTA-NASSAU.pdf?rlkey=9g4skcqbmhz5uffgeaghqxlz6&dl=0?raw=1",
+                  "dimensione_kb": 82,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA SI' OFFERTA NASSAU.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì BONIFICO DEL 23_02_2023.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/vhbard6xepkkmdswhuinz/PIZZA-S-BONIFICO-DEL-23_02_2023.jpeg?rlkey=bh3gq5ptfabqz3f6ufagmifn7&dl=0?raw=1",
+                  "dimensione_kb": 98,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì BONIFICO DEL 23_02_2023.jpeg"
+                },
+                {
+                  "nome": "PIZZA Sì FATTURA ASSISTENZA LAVABAR Fattura di vendita_220084_20220302_161702.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rf4wyme2wmkpdske59q1f/PIZZA-S-FATTURA-ASSISTENZA-LAVABAR-Fattura-di-vendita_220084_20220302_161702.pdf?rlkey=py3o1i3uqyfh25wly1dubuh87&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì FATTURA ASSISTENZA LAVABAR Fattura di vendita_220084_20220302_161702.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì Fattura di vendita_200166_20220926_174414.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i2nw1xbn3vf0e989r4d5x/PIZZA-S-Fattura-di-vendita_200166_20220926_174414.pdf?rlkey=pw95c5k0s67icnguf4dz96640&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì Fattura di vendita_200166_20220926_174414.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì Fattura di vendita_210067_20220926_174827.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hvknbwkv67hzd77lpox5s/PIZZA-S-Fattura-di-vendita_210067_20220926_174827.pdf?rlkey=rzcbyuqwaosisg3g0a7r0vn8o&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì Fattura di vendita_210067_20220926_174827.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì Fattura di vendita_210530_20220926_174341.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/o02sl5mi5kcxcr223ddj1/PIZZA-S-Fattura-di-vendita_210530_20220926_174341.pdf?rlkey=73z3t8ieljecd1crnkwz5h474&dl=0?raw=1",
+                  "dimensione_kb": 82,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì Fattura di vendita_210530_20220926_174341.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì Fattura di vendita_210531_20220926_174506.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vez1fj476wqjycwyj0m7y/PIZZA-S-Fattura-di-vendita_210531_20220926_174506.pdf?rlkey=ehavbiww3z0wlpn0oaqoju39i&dl=0?raw=1",
+                  "dimensione_kb": 70,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì Fattura di vendita_210531_20220926_174506.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì Fattura di vendita_210633_20220926_174535.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fh5xbxcyfqrf2j4fec8oz/PIZZA-S-Fattura-di-vendita_210633_20220926_174535.pdf?rlkey=zw4k14v6x6uy4e0yjz7eisymc&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì Fattura di vendita_210633_20220926_174535.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì Fattura di vendita_220085_20220926_174245.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4uingq6t3juq3cyla5sht/PIZZA-S-Fattura-di-vendita_220085_20220926_174245.pdf?rlkey=qcugwvggtum9jyre9gnmyqv2e&dl=0?raw=1",
+                  "dimensione_kb": 90,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì Fattura di vendita_220085_20220926_174245.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì Fattura di vendita_220526_20220926_174603.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qj3tnh02roier2r5yvcm9/PIZZA-S-Fattura-di-vendita_220526_20220926_174603.pdf?rlkey=pjh6ml0kxixmndsineeqwuw8h&dl=0?raw=1",
+                  "dimensione_kb": 72,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì Fattura di vendita_220526_20220926_174603.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì Fattura di vendita_220822_20221230_183431.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/90vnqmm4360sayq0yyebp/PIZZA-S-Fattura-di-vendita_220822_20221230_183431.pdf?rlkey=adoshq19i2s8hhfzp7oi32h09&dl=0?raw=1",
+                  "dimensione_kb": 77,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì Fattura di vendita_220822_20221230_183431.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì Nota di Credito Vendita_220010_20220324_191415.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mjut7hky1to7xcwxdpahz/PIZZA-S-Nota-di-Credito-Vendita_220010_20220324_191415.pdf?rlkey=g3iwtg4vdqne86a2inoo8angv&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì Nota di Credito Vendita_220010_20220324_191415.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì QUIETANZA DEL 29_09_2022.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/iq483ur55kt5ffxxg0p2g/PIZZA-S-QUIETANZA-DEL-29_09_2022.jpeg?rlkey=49cwiwvex3sswgf2p1h74yda8&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì QUIETANZA DEL 29_09_2022.jpeg"
+                },
+                {
+                  "nome": "PIZZA Sì QUIETANZA DEL 29_09_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8ualcj8sewe0ezz8s3uso/PIZZA-S-QUIETANZA-DEL-29_09_2022.pdf?rlkey=tlrf2zu4oe3zc6xu9til1xcqb&dl=0?raw=1",
+                  "dimensione_kb": 167,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì QUIETANZA DEL 29_09_2022.pdf"
+                },
+                {
+                  "nome": "PIZZA Sì Situazione Contabile CREDITI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wt73jb9p9ci1u8zob3jcj/PIZZA-S-Situazione-Contabile-CREDITI.pdf?rlkey=ivd9bd5miga2l1u07aeb1j1tt&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/PIZZA Sì Situazione Contabile CREDITI.pdf"
                 },
                 {
                   "nome": "Situazione Contabile CREDITI 22_08_2024.pdf",
@@ -91136,7 +91409,23 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/fddh5h2qbjrt6o6d7fguj/Situazione-Contabile-CREDITI-22_08_2024.pdf?rlkey=v8badkqvazgfuwwr1n9er8hrp&dl=0?raw=1",
                   "dimensione_kb": 57,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/Situazione Contabile CREDITI 22_08_2024.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/Situazione Contabile CREDITI 22_08_2024.pdf"
+                },
+                {
+                  "nome": "VICSNC n° 2279.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2y96qilv5badjs1pxve3n/VICSNC-n-2279.pdf?rlkey=k445ez1d7gk130y4tyfutqbzc&dl=0?raw=1",
+                  "dimensione_kb": 173,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/VICSNC n° 2279.pdf"
+                },
+                {
+                  "nome": "WhatsApp Image 2022-03-28 at 12.17.42.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/o9d4lb5tftxptzr8l0iun/WhatsApp-Image-2022-03-28-at-12.17.42.jpeg?rlkey=44cqo6klmy89qkpk3n8hd5e0h&dl=0?raw=1",
+                  "dimensione_kb": 100,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/WhatsApp Image 2022-03-28 at 12.17.42.jpeg"
                 },
                 {
                   "nome": "temp3114490837887755179.pdf",
@@ -91144,7 +91433,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/v9q6dzaycu71nc0xl72mu/temp3114490837887755179.pdf?rlkey=stl11l3rgvrx1af8vsvgrncc4&dl=0?raw=1",
                   "dimensione_kb": 17,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/temp3114490837887755179.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/temp3114490837887755179.pdf"
                 },
                 {
                   "nome": "temp786825811179481098.pdf",
@@ -91152,10 +91441,10 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/s371b851jihg8lqwoacfm/temp786825811179481098.pdf?rlkey=7dg4iltljs7s7mg4ya8xygzsg&dl=0?raw=1",
                   "dimensione_kb": 17,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY/temp786825811179481098.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/A&M COMPANY PIZZA SI/temp786825811179481098.pdf"
                 }
               ],
-              "_totale_file": 13
+              "_totale_file": 44
             },
             {
               "nome": "AGRICOLA DAI NONNI",
@@ -100178,360 +100467,6 @@
               "_totale_file": 10
             },
             {
-              "nome": "PIZZA SI",
-              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI",
-              "cartelle": [
-                {
-                  "nome": "23_12_2021",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/23_12_2021",
-                  "cartelle": [],
-                  "file": [
-                    {
-                      "nome": "PIZZA Sì SITUAZIONE CONTABILE AL 23_12_2021.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/n5oiwrer2csqz2fyi5yzf/PIZZA-S-SITUAZIONE-CONTABILE-AL-23_12_2021.pdf?rlkey=941h2ux55tc5azwtwxbp493p4&dl=0?raw=1",
-                      "dimensione_kb": 57,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/23_12_2021/PIZZA Sì SITUAZIONE CONTABILE AL 23_12_2021.pdf"
-                    }
-                  ],
-                  "_totale_file": 1
-                },
-                {
-                  "nome": "Nuova cartella",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/Nuova cartella",
-                  "cartelle": [],
-                  "file": [
-                    {
-                      "nome": "Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Pianta.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/lna20zj3st5vq1e0w9nfs/Bozza-Tubazione-inox-Rif.-PIZZA-SI-al-03-11-2021-Pianta.pdf?rlkey=rp0ciix5gn6vu6zw2e9jvfuvo&dl=0?raw=1",
-                      "dimensione_kb": 68,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/Nuova cartella/Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Pianta.pdf"
-                    },
-                    {
-                      "nome": "Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Prospetto NORD.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/35z7g7w76e0qcv7oiyu71/Bozza-Tubazione-inox-Rif.-PIZZA-SI-al-03-11-2021-Prospetto-NORD.pdf?rlkey=7kd6i6z1ehrdr25z6c06s7xf8&dl=0?raw=1",
-                      "dimensione_kb": 272,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/Nuova cartella/Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Prospetto NORD.pdf"
-                    },
-                    {
-                      "nome": "Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 01.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/z3xymotn1vsfo0g1totfz/Bozza-Tubazione-inox-Rif.-PIZZA-SI-al-03-11-2021-Vista-01.pdf?rlkey=2i94bhntjabpdgfqbf4qbkm9n&dl=0?raw=1",
-                      "dimensione_kb": 226,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/Nuova cartella/Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 01.pdf"
-                    },
-                    {
-                      "nome": "Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 2.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/dngbl90qn1j4m2wdpo8rl/Bozza-Tubazione-inox-Rif.-PIZZA-SI-al-03-11-2021-Vista-2.pdf?rlkey=xyubc538k412x6j741cncuf01&dl=0?raw=1",
-                      "dimensione_kb": 128,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/Nuova cartella/Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 2.pdf"
-                    },
-                    {
-                      "nome": "Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 3.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/fhpvy4ichdc1y4adon820/Bozza-Tubazione-inox-Rif.-PIZZA-SI-al-03-11-2021-Vista-3.pdf?rlkey=ikbgut5pvvhav2defusybuz5d&dl=0?raw=1",
-                      "dimensione_kb": 95,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/Nuova cartella/Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 3.pdf"
-                    }
-                  ],
-                  "_totale_file": 5
-                },
-                {
-                  "nome": "PIZZA Sì AREA TECNICA",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA",
-                  "cartelle": [
-                    {
-                      "nome": "FRIGGITRICE A GAS BERTO'S S9GL20M MATRICOLA 0803692082",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/FRIGGITRICE A GAS BERTO'S S9GL20M MATRICOLA 0803692082",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "Berto's_GAS_FRYERS_32876500.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/daywqq7ib41b3m7cwezxs/Berto-s_GAS_FRYERS_32876500.pdf?rlkey=61dz80zuj7x1h6k1s6076l0rs&dl=0?raw=1",
-                          "dimensione_kb": 12358,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/FRIGGITRICE A GAS BERTO'S S9GL20M MATRICOLA 0803692082/Berto's_GAS_FRYERS_32876500.pdf"
-                        }
-                      ],
-                      "_totale_file": 1
-                    },
-                    {
-                      "nome": "MACCHINA SOTTOVUOTO A CAMPANA KAREL",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/MACCHINA SOTTOVUOTO A CAMPANA KAREL",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "WhatsApp Image 2024-10-07 at 18.13.31.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/0uir0930zfmiocrns7si2/WhatsApp-Image-2024-10-07-at-18.13.31.jpeg?rlkey=bbgnn9b49j5bwa2ew4o4u1nux&dl=0?raw=1",
-                          "dimensione_kb": 171,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/MACCHINA SOTTOVUOTO A CAMPANA KAREL/WhatsApp Image 2024-10-07 at 18.13.31.jpeg"
-                        }
-                      ],
-                      "_totale_file": 1
-                    },
-                    {
-                      "nome": "PLANETARIA FIMAR",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/PLANETARIA FIMAR",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "MATRICOLA PLANETARIA FIMAR.jpg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/bnyrjtb0ac0mw519l8rvv/MATRICOLA-PLANETARIA-FIMAR.jpg?rlkey=k6x3yos3p2dyxquh8hutxfpey&dl=0?raw=1",
-                          "dimensione_kb": 65,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/PLANETARIA FIMAR/MATRICOLA PLANETARIA FIMAR.jpg"
-                        }
-                      ],
-                      "_totale_file": 1
-                    }
-                  ],
-                  "file": [
-                    {
-                      "nome": "20211002321F.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/99fkxy0cxhb3u48n6acrl/20211002321F.pdf?rlkey=5uhq97c8kx00gbg67100f30d9&dl=0?raw=1",
-                      "dimensione_kb": 100,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/20211002321F.pdf"
-                    },
-                    {
-                      "nome": "CUPPONE image_6483441 RIF. PIZZA Sì.JPG",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/cseloaamojugpkhstro82/CUPPONE-image_6483441-RIF.-PIZZA-S.JPG?rlkey=2a3ws3qnqbypvzvf5mhq1mg0n&dl=0?raw=1",
-                      "dimensione_kb": 134,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/CUPPONE image_6483441 RIF. PIZZA Sì.JPG"
-                    },
-                    {
-                      "nome": "CUPPONE image_6483442 RIF. PIZZA Sì.JPG",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/owdupf28xkpz9ic7a7xnh/CUPPONE-image_6483442-RIF.-PIZZA-S.JPG?rlkey=j6duqfhzrl9tenp7807opqmth&dl=0?raw=1",
-                      "dimensione_kb": 131,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/CUPPONE image_6483442 RIF. PIZZA Sì.JPG"
-                    },
-                    {
-                      "nome": "_MAN_1500362_VACUUM_2009-2010_ORVED_R02 (1).PDF",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/p242cwp6akespk3droihs/_MAN_1500362_VACUUM_2009-2010_ORVED_R02-1.PDF?rlkey=np865dwsaqms55p04ldokx2nj&dl=0?raw=1",
-                      "dimensione_kb": 4457,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì AREA TECNICA/_MAN_1500362_VACUUM_2009-2010_ORVED_R02 (1).PDF"
-                    }
-                  ],
-                  "_totale_file": 7
-                },
-                {
-                  "nome": "SCHEDE TECNICHE",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/SCHEDE TECNICHE",
-                  "cartelle": [],
-                  "file": [
-                    {
-                      "nome": "PIASTRE AD INDUZIONE - PIASTRE AD INDUZIONE - COTTURA PREPARAZIONE DINAMICA - Prodotti - Karel Srl - Articoli professionali per la ristorazione collettiva.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/m5tsessxuece1izl01vw3/PIASTRE-AD-INDUZIONE-PIASTRE-AD-INDUZIONE-COTTURA-PREPARAZIONE-DINAMICA-Prodotti-Karel-Srl-Articoli-professionali-per-la-ristorazione-collettiva.pdf?rlkey=c9xzg20z83sc0cz5cbn4gfjgp&dl=0?raw=1",
-                      "dimensione_kb": 125,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/SCHEDE TECNICHE/PIASTRE AD INDUZIONE - PIASTRE AD INDUZIONE - COTTURA PREPARAZIONE DINAMICA - Prodotti - Karel Srl - Articoli professionali per la ristorazione collettiva.pdf"
-                    },
-                    {
-                      "nome": "it_S9820-135-4510-316057.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/kk6mab3jzxjs2vi4qowog/it_S9820-135-4510-316057.pdf?rlkey=o15lh930b8ghccdd3lwrxqics&dl=0?raw=1",
-                      "dimensione_kb": 22,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/SCHEDE TECNICHE/it_S9820-135-4510-316057.pdf"
-                    }
-                  ],
-                  "_totale_file": 2
-                }
-              ],
-              "file": [
-                {
-                  "nome": "Fattura di vendita_2400778_20241112_112918.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/mo1ket8u8bxic1oy25cda/Fattura-di-vendita_2400778_20241112_112918.pdf?rlkey=fx21wmy0vmkbgfs7e4s7bh0ye&dl=0?raw=1",
-                  "dimensione_kb": 72,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/Fattura di vendita_2400778_20241112_112918.pdf"
-                },
-                {
-                  "nome": "Fattura di vendita_2400778_20241112_124406.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/pxgvs79cvu4civsy2ph2n/Fattura-di-vendita_2400778_20241112_124406.pdf?rlkey=wlpy788jdea556n7b8k38lczp&dl=0?raw=1",
-                  "dimensione_kb": 72,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/Fattura di vendita_2400778_20241112_124406.pdf"
-                },
-                {
-                  "nome": "LAURIA_PIZZA SI - collegamento.lnk",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/x08le3m5t1efi87s73x7z/LAURIA_PIZZA-SI-collegamento.lnk?rlkey=9yqp70fch7e14zalf0ev0nwru&dl=0?raw=1",
-                  "dimensione_kb": 2,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/LAURIA_PIZZA SI - collegamento.lnk"
-                },
-                {
-                  "nome": "Ordine cliente_210905_20211109_180901.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/5wxa6flyapgymi9z097r6/Ordine-cliente_210905_20211109_180901.pdf?rlkey=ijs7hncgzs6khnpbw0nhvm2tn&dl=0?raw=1",
-                  "dimensione_kb": 79,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/Ordine cliente_210905_20211109_180901.pdf"
-                },
-                {
-                  "nome": "PIZZA SI' OFFERTA NASSAU.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/51gssk9fqye7z6yrbz52i/PIZZA-SI-OFFERTA-NASSAU.pdf?rlkey=9g4skcqbmhz5uffgeaghqxlz6&dl=0?raw=1",
-                  "dimensione_kb": 82,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA SI' OFFERTA NASSAU.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì BONIFICO DEL 23_02_2023.jpeg",
-                  "tipo": "Immagine",
-                  "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/vhbard6xepkkmdswhuinz/PIZZA-S-BONIFICO-DEL-23_02_2023.jpeg?rlkey=bh3gq5ptfabqz3f6ufagmifn7&dl=0?raw=1",
-                  "dimensione_kb": 98,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì BONIFICO DEL 23_02_2023.jpeg"
-                },
-                {
-                  "nome": "PIZZA Sì FATTURA ASSISTENZA LAVABAR Fattura di vendita_220084_20220302_161702.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/rf4wyme2wmkpdske59q1f/PIZZA-S-FATTURA-ASSISTENZA-LAVABAR-Fattura-di-vendita_220084_20220302_161702.pdf?rlkey=py3o1i3uqyfh25wly1dubuh87&dl=0?raw=1",
-                  "dimensione_kb": 72,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì FATTURA ASSISTENZA LAVABAR Fattura di vendita_220084_20220302_161702.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì Fattura di vendita_200166_20220926_174414.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/i2nw1xbn3vf0e989r4d5x/PIZZA-S-Fattura-di-vendita_200166_20220926_174414.pdf?rlkey=pw95c5k0s67icnguf4dz96640&dl=0?raw=1",
-                  "dimensione_kb": 71,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì Fattura di vendita_200166_20220926_174414.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì Fattura di vendita_210067_20220926_174827.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/hvknbwkv67hzd77lpox5s/PIZZA-S-Fattura-di-vendita_210067_20220926_174827.pdf?rlkey=rzcbyuqwaosisg3g0a7r0vn8o&dl=0?raw=1",
-                  "dimensione_kb": 68,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì Fattura di vendita_210067_20220926_174827.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì Fattura di vendita_210530_20220926_174341.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/o02sl5mi5kcxcr223ddj1/PIZZA-S-Fattura-di-vendita_210530_20220926_174341.pdf?rlkey=73z3t8ieljecd1crnkwz5h474&dl=0?raw=1",
-                  "dimensione_kb": 82,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì Fattura di vendita_210530_20220926_174341.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì Fattura di vendita_210531_20220926_174506.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/vez1fj476wqjycwyj0m7y/PIZZA-S-Fattura-di-vendita_210531_20220926_174506.pdf?rlkey=ehavbiww3z0wlpn0oaqoju39i&dl=0?raw=1",
-                  "dimensione_kb": 70,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì Fattura di vendita_210531_20220926_174506.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì Fattura di vendita_210633_20220926_174535.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/fh5xbxcyfqrf2j4fec8oz/PIZZA-S-Fattura-di-vendita_210633_20220926_174535.pdf?rlkey=zw4k14v6x6uy4e0yjz7eisymc&dl=0?raw=1",
-                  "dimensione_kb": 73,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì Fattura di vendita_210633_20220926_174535.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì Fattura di vendita_220085_20220926_174245.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/4uingq6t3juq3cyla5sht/PIZZA-S-Fattura-di-vendita_220085_20220926_174245.pdf?rlkey=qcugwvggtum9jyre9gnmyqv2e&dl=0?raw=1",
-                  "dimensione_kb": 90,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì Fattura di vendita_220085_20220926_174245.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì Fattura di vendita_220526_20220926_174603.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/qj3tnh02roier2r5yvcm9/PIZZA-S-Fattura-di-vendita_220526_20220926_174603.pdf?rlkey=pjh6ml0kxixmndsineeqwuw8h&dl=0?raw=1",
-                  "dimensione_kb": 72,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì Fattura di vendita_220526_20220926_174603.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì Fattura di vendita_220822_20221230_183431.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/90vnqmm4360sayq0yyebp/PIZZA-S-Fattura-di-vendita_220822_20221230_183431.pdf?rlkey=adoshq19i2s8hhfzp7oi32h09&dl=0?raw=1",
-                  "dimensione_kb": 77,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì Fattura di vendita_220822_20221230_183431.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì Nota di Credito Vendita_220010_20220324_191415.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/mjut7hky1to7xcwxdpahz/PIZZA-S-Nota-di-Credito-Vendita_220010_20220324_191415.pdf?rlkey=g3iwtg4vdqne86a2inoo8angv&dl=0?raw=1",
-                  "dimensione_kb": 73,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì Nota di Credito Vendita_220010_20220324_191415.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì QUIETANZA DEL 29_09_2022.jpeg",
-                  "tipo": "Immagine",
-                  "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/iq483ur55kt5ffxxg0p2g/PIZZA-S-QUIETANZA-DEL-29_09_2022.jpeg?rlkey=49cwiwvex3sswgf2p1h74yda8&dl=0?raw=1",
-                  "dimensione_kb": 71,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì QUIETANZA DEL 29_09_2022.jpeg"
-                },
-                {
-                  "nome": "PIZZA Sì QUIETANZA DEL 29_09_2022.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/8ualcj8sewe0ezz8s3uso/PIZZA-S-QUIETANZA-DEL-29_09_2022.pdf?rlkey=tlrf2zu4oe3zc6xu9til1xcqb&dl=0?raw=1",
-                  "dimensione_kb": 167,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì QUIETANZA DEL 29_09_2022.pdf"
-                },
-                {
-                  "nome": "PIZZA Sì Situazione Contabile CREDITI.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/wt73jb9p9ci1u8zob3jcj/PIZZA-S-Situazione-Contabile-CREDITI.pdf?rlkey=ivd9bd5miga2l1u07aeb1j1tt&dl=0?raw=1",
-                  "dimensione_kb": 58,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/PIZZA Sì Situazione Contabile CREDITI.pdf"
-                },
-                {
-                  "nome": "VICSNC n° 2279.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/2y96qilv5badjs1pxve3n/VICSNC-n-2279.pdf?rlkey=k445ez1d7gk130y4tyfutqbzc&dl=0?raw=1",
-                  "dimensione_kb": 173,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/VICSNC n° 2279.pdf"
-                },
-                {
-                  "nome": "WhatsApp Image 2022-03-28 at 12.17.42.jpeg",
-                  "tipo": "Immagine",
-                  "icona": "🖼️",
-                  "link": "https://www.dropbox.com/scl/fi/o9d4lb5tftxptzr8l0iun/WhatsApp-Image-2022-03-28-at-12.17.42.jpeg?rlkey=44cqo6klmy89qkpk3n8hd5e0h&dl=0?raw=1",
-                  "dimensione_kb": 100,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZA SI/WhatsApp Image 2022-03-28 at 12.17.42.jpeg"
-                }
-              ],
-              "_totale_file": 36
-            },
-            {
               "nome": "PIZZERIA DA LEO",
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PIZZERIA DA LEO",
               "cartelle": [
@@ -104033,16 +103968,16 @@
               "_totale_file": 199
             },
             {
-              "nome": "VILLA TERRY",
-              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY",
+              "nome": "VILLA TERRY CARLOMAGNO BIAGIO",
+              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO",
               "cartelle": [
                 {
                   "nome": "VILLA TERRY AREA TECNICA",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA",
                   "cartelle": [
                     {
                       "nome": "ABBATTITORE ZANUSSI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/ABBATTITORE ZANUSSI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/ABBATTITORE ZANUSSI",
                       "cartelle": [],
                       "file": [
                         {
@@ -104051,7 +103986,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/r0vf37fpn51qnktb178eo/COMPRESSORE-INDICATO-DA-PERRETTA-09_08_2025.jpeg?rlkey=ig3an5j710f5g2yvwqkglp7yw&dl=0?raw=1",
                           "dimensione_kb": 46,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/ABBATTITORE ZANUSSI/COMPRESSORE INDICATO DA PERRETTA 09_08_2025.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/ABBATTITORE ZANUSSI/COMPRESSORE INDICATO DA PERRETTA 09_08_2025.jpeg"
                         },
                         {
                           "nome": "SPC_541318b_6_1_541318b rev6.pdf",
@@ -104059,7 +103994,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/tf9p5heizgco5u60moxhd/SPC_541318b_6_1_541318b-rev6.pdf?rlkey=py8jwy62f4k9knk7395rccb09&dl=0?raw=1",
                           "dimensione_kb": 1108,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/ABBATTITORE ZANUSSI/SPC_541318b_6_1_541318b rev6.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/ABBATTITORE ZANUSSI/SPC_541318b_6_1_541318b rev6.pdf"
                         },
                         {
                           "nome": "VILLA TERRY ABBATTITORE ZANUSSI DATI MACCHINA.jpeg",
@@ -104067,14 +104002,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/4n9s409evt5gkmf4awv10/VILLA-TERRY-ABBATTITORE-ZANUSSI-DATI-MACCHINA.jpeg?rlkey=rohn3zernsxz5sexufqwygorc&dl=0?raw=1",
                           "dimensione_kb": 258,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/ABBATTITORE ZANUSSI/VILLA TERRY ABBATTITORE ZANUSSI DATI MACCHINA.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/ABBATTITORE ZANUSSI/VILLA TERRY ABBATTITORE ZANUSSI DATI MACCHINA.jpeg"
                         }
                       ],
                       "_totale_file": 3
                     },
                     {
                       "nome": "LAVASTOVIGLIE ZANUSSI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI",
                       "cartelle": [],
                       "file": [
                         {
@@ -104083,7 +104018,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ryaxdo746v6d7uok7c2qe/EWD_600634Y01_1_1_600634Y01_SCHEMA-ELE.pdf?rlkey=7lldcddtl1h53pq3o27qaurtv&dl=0?raw=1",
                           "dimensione_kb": 1117,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/EWD_600634Y01_1_1_600634Y01_SCHEMA ELE.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/EWD_600634Y01_1_1_600634Y01_SCHEMA ELE.pdf"
                         },
                         {
                           "nome": "OI_059566DU00_1_1_59566DU00.pdf",
@@ -104091,7 +104026,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/vrgyckar7qt3cd26ty1hv/OI_059566DU00_1_1_59566DU00.pdf?rlkey=lkcp8bhsa90p4c9tiuhosi2l9&dl=0?raw=1",
                           "dimensione_kb": 5080,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/OI_059566DU00_1_1_59566DU00.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/OI_059566DU00_1_1_59566DU00.pdf"
                         },
                         {
                           "nome": "OM_59566WN00_1_21_OM_59566WN00_02_it.pdf",
@@ -104099,7 +104034,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/l10bgc0xt0g27z1mzq0su/OM_59566WN00_1_21_OM_59566WN00_02_it.pdf?rlkey=qyauihjdd4je43umy68gyhem1&dl=0?raw=1",
                           "dimensione_kb": 2795,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/OM_59566WN00_1_21_OM_59566WN00_02_it.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/OM_59566WN00_1_21_OM_59566WN00_02_it.pdf"
                         },
                         {
                           "nome": "SM_595668V00_6_10_595668V00_IT_Ver030 (1).pdf",
@@ -104107,7 +104042,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/abh4geph3metnuklytuxn/SM_595668V00_6_10_595668V00_IT_Ver030-1.pdf?rlkey=sbmvnsbpyfyqz0jpmbfhieiz1&dl=0?raw=1",
                           "dimensione_kb": 7743,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/SM_595668V00_6_10_595668V00_IT_Ver030 (1).pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/SM_595668V00_6_10_595668V00_IT_Ver030 (1).pdf"
                         },
                         {
                           "nome": "SM_595668V00_6_10_595668V00_IT_Ver030.pdf",
@@ -104115,7 +104050,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/p8s3yg7lnggux08ewxlqd/SM_595668V00_6_10_595668V00_IT_Ver030.pdf?rlkey=cr06r0dwi1yfhtw75czei5msu&dl=0?raw=1",
                           "dimensione_kb": 7743,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/SM_595668V00_6_10_595668V00_IT_Ver030.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/SM_595668V00_6_10_595668V00_IT_Ver030.pdf"
                         },
                         {
                           "nome": "SPC_595668W00_18_1_595668W00 rev18.pdf",
@@ -104123,7 +104058,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/41mk26fom33vqn5ytf1aa/SPC_595668W00_18_1_595668W00-rev18.pdf?rlkey=jw8f5hzvjtaqptjb59ok10wlo&dl=0?raw=1",
                           "dimensione_kb": 3499,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/SPC_595668W00_18_1_595668W00 rev18.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/SPC_595668W00_18_1_595668W00 rev18.pdf"
                         },
                         {
                           "nome": "WhatsApp Image 2022-06-26 at 12.08.52.jpeg",
@@ -104131,14 +104066,14 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/aum8lwykgm64lk9tp4fin/WhatsApp-Image-2022-06-26-at-12.08.52.jpeg?rlkey=qvlmtvutfsb7rcixyc21zir9q&dl=0?raw=1",
                           "dimensione_kb": 85,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/WhatsApp Image 2022-06-26 at 12.08.52.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/LAVASTOVIGLIE ZANUSSI/WhatsApp Image 2022-06-26 at 12.08.52.jpeg"
                         }
                       ],
                       "_totale_file": 7
                     },
                     {
                       "nome": "TAVOLO REFRIGERATO ZANUSSI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI",
                       "cartelle": [],
                       "file": [
                         {
@@ -104147,7 +104082,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/34mqscl4ndopws07nrs79/411R17B02.pdf?rlkey=gisvhr28ogetvumcl75rfix7v&dl=0?raw=1",
                           "dimensione_kb": 206,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/411R17B02.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/411R17B02.pdf"
                         },
                         {
                           "nome": "Applica.pdf",
@@ -104155,7 +104090,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/2v6w1m4yzjp9tybqf0whu/Applica.pdf?rlkey=i4zom0foyqrwsi293m3mk80n8&dl=0?raw=1",
                           "dimensione_kb": 2284,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/Applica.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/Applica.pdf"
                         },
                         {
                           "nome": "SM_595R75100_2_12_595R75100_IT.pdf",
@@ -104163,7 +104098,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/zj4tnq3t33l5m7sjxackp/SM_595R75100_2_12_595R75100_IT.pdf?rlkey=ks77wwo5s8ehl7y4d2ucwt208&dl=0?raw=1",
                           "dimensione_kb": 5231,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/SM_595R75100_2_12_595R75100_IT.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/SM_595R75100_2_12_595R75100_IT.pdf"
                         },
                         {
                           "nome": "SPC_595R41300_8_1_595R41300 rev8 tavoli pizza CONTROLLORE.pdf",
@@ -104171,7 +104106,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/87uyw9wiax6pr7v5oxxz8/SPC_595R41300_8_1_595R41300-rev8-tavoli-pizza-CONTROLLORE.pdf?rlkey=34k698wh8izcd2mkt4g6ca3et&dl=0?raw=1",
                           "dimensione_kb": 263,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/SPC_595R41300_8_1_595R41300 rev8 tavoli pizza CONTROLLORE.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/SPC_595R41300_8_1_595R41300 rev8 tavoli pizza CONTROLLORE.pdf"
                         },
                         {
                           "nome": "SPC_595R41300_8_1_595R41300 rev8 tavoli pizza.pdf",
@@ -104179,7 +104114,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/v6cdr5rnxzehmhu6y1nvi/SPC_595R41300_8_1_595R41300-rev8-tavoli-pizza.pdf?rlkey=5jpzut5edtstqy9i7xq6ux117&dl=0?raw=1",
                           "dimensione_kb": 2768,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/SPC_595R41300_8_1_595R41300 rev8 tavoli pizza.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/SPC_595R41300_8_1_595R41300 rev8 tavoli pizza.pdf"
                         },
                         {
                           "nome": "TAVOLO REFRIGERATO ZANUSSI VILLA TERRY DATI MACCHINA.jpeg",
@@ -104187,7 +104122,7 @@
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/50fjnklnxhrnuun33wdrj/TAVOLO-REFRIGERATO-ZANUSSI-VILLA-TERRY-DATI-MACCHINA.jpeg?rlkey=l35vvb0xdkms0unpdc2h7entb&dl=0?raw=1",
                           "dimensione_kb": 101,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/TAVOLO REFRIGERATO ZANUSSI VILLA TERRY DATI MACCHINA.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/TAVOLO REFRIGERATO ZANUSSI VILLA TERRY DATI MACCHINA.jpeg"
                         },
                         {
                           "nome": "TB_VTX2022_08_2_6_VTX2022-08ed2_ITA.pdf",
@@ -104195,7 +104130,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/lsis7t51y9gsnychqojgb/TB_VTX2022_08_2_6_VTX2022-08ed2_ITA.pdf?rlkey=wblzvk1xz4xiv9z7b9fv117fr&dl=0?raw=1",
                           "dimensione_kb": 1018,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/TB_VTX2022_08_2_6_VTX2022-08ed2_ITA.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/TB_VTX2022_08_2_6_VTX2022-08ed2_ITA.pdf"
                         },
                         {
                           "nome": "Traduzione_VTX2022_08.docx",
@@ -104203,7 +104138,7 @@
                           "icona": "📝",
                           "link": "https://www.dropbox.com/scl/fi/7kw49jpv5fyx17jar7esu/Traduzione_VTX2022_08.docx?rlkey=lo0bv6vpeojm4ruwjsm92l4nm&dl=0?raw=1",
                           "dimensione_kb": 37,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/Traduzione_VTX2022_08.docx"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY AREA TECNICA/TAVOLO REFRIGERATO ZANUSSI/Traduzione_VTX2022_08.docx"
                         }
                       ],
                       "_totale_file": 8
@@ -104211,6 +104146,54 @@
                   ],
                   "file": [],
                   "_totale_file": 18
+                },
+                {
+                  "nome": "VILLA TERRY CARLOMAGNO BIAGIO DISEGNO TUBAZIONE",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY CARLOMAGNO BIAGIO DISEGNO TUBAZIONE",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Pianta.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/lna20zj3st5vq1e0w9nfs/Bozza-Tubazione-inox-Rif.-PIZZA-SI-al-03-11-2021-Pianta.pdf?rlkey=rp0ciix5gn6vu6zw2e9jvfuvo&dl=0?raw=1",
+                      "dimensione_kb": 68,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY CARLOMAGNO BIAGIO DISEGNO TUBAZIONE/Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Pianta.pdf"
+                    },
+                    {
+                      "nome": "Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Prospetto NORD.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/35z7g7w76e0qcv7oiyu71/Bozza-Tubazione-inox-Rif.-PIZZA-SI-al-03-11-2021-Prospetto-NORD.pdf?rlkey=7kd6i6z1ehrdr25z6c06s7xf8&dl=0?raw=1",
+                      "dimensione_kb": 272,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY CARLOMAGNO BIAGIO DISEGNO TUBAZIONE/Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Prospetto NORD.pdf"
+                    },
+                    {
+                      "nome": "Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 01.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/z3xymotn1vsfo0g1totfz/Bozza-Tubazione-inox-Rif.-PIZZA-SI-al-03-11-2021-Vista-01.pdf?rlkey=2i94bhntjabpdgfqbf4qbkm9n&dl=0?raw=1",
+                      "dimensione_kb": 226,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY CARLOMAGNO BIAGIO DISEGNO TUBAZIONE/Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 01.pdf"
+                    },
+                    {
+                      "nome": "Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 2.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/dngbl90qn1j4m2wdpo8rl/Bozza-Tubazione-inox-Rif.-PIZZA-SI-al-03-11-2021-Vista-2.pdf?rlkey=xyubc538k412x6j741cncuf01&dl=0?raw=1",
+                      "dimensione_kb": 128,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY CARLOMAGNO BIAGIO DISEGNO TUBAZIONE/Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 2.pdf"
+                    },
+                    {
+                      "nome": "Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 3.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/fhpvy4ichdc1y4adon820/Bozza-Tubazione-inox-Rif.-PIZZA-SI-al-03-11-2021-Vista-3.pdf?rlkey=ikbgut5pvvhav2defusybuz5d&dl=0?raw=1",
+                      "dimensione_kb": 95,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/VILLA TERRY CARLOMAGNO BIAGIO DISEGNO TUBAZIONE/Bozza Tubazione inox Rif. PIZZA SI al 03 11 2021 Vista 3.pdf"
+                    }
+                  ],
+                  "_totale_file": 5
                 }
               ],
               "file": [
@@ -104220,7 +104203,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/bb860dhik5npty10h2pe2/Consegna_250209_20250325_095840.pdf?rlkey=nritwr0lhaqbqhgvngdlqkrmu&dl=0?raw=1",
                   "dimensione_kb": 55,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/Consegna_250209_20250325_095840.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/Consegna_250209_20250325_095840.pdf"
                 },
                 {
                   "nome": "Fattura di vendita_2500115_20250310_132536.pdf",
@@ -104228,10 +104211,10 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/bldq16gxhis1t5h3f5od0/Fattura-di-vendita_2500115_20250310_132536.pdf?rlkey=03z9alzl6se6b3q39al2cz1c2&dl=0?raw=1",
                   "dimensione_kb": 75,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY/Fattura di vendita_2500115_20250310_132536.pdf"
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VILLA TERRY CARLOMAGNO BIAGIO/Fattura di vendita_2500115_20250310_132536.pdf"
                 }
               ],
-              "_totale_file": 20
+              "_totale_file": 25
             },
             {
               "nome": "VINEA DI CATALANO",
@@ -105728,6 +105711,38 @@
                       "_totale_file": 5
                     },
                     {
+                      "nome": "MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/4.0 YUMARA AREA TECNICA/MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/cxh99d5ptnjftagkorj02/MACCHINA-SOTTOVUOTO-A-CAMPANA-UNIVAC-SPRINT-AUT-MATRICOLA-386310320-DATI-MACCHINA.jpg?rlkey=n21mrq041k0u3zpy0hbsxuuv3&dl=0?raw=1",
+                          "dimensione_kb": 7551,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/4.0 YUMARA AREA TECNICA/MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320/MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320 DATI MACCHINA.jpg"
+                        },
+                        {
+                          "nome": "MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320 ESPLOSO RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/xj35n9ry14j028vvnzhip/MACCHINA-SOTTOVUOTO-A-CAMPANA-UNIVAC-SPRINT-AUT-MATRICOLA-386310320-ESPLOSO-RICAMBI.pdf?rlkey=ic7z6pgk3u9rl50mifjs5jbmz&dl=0?raw=1",
+                          "dimensione_kb": 478,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/4.0 YUMARA AREA TECNICA/MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320/MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320 ESPLOSO RICAMBI.pdf"
+                        },
+                        {
+                          "nome": "MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320 MANUALE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/exehmfacuxdtj7859hawj/MACCHINA-SOTTOVUOTO-A-CAMPANA-UNIVAC-SPRINT-AUT-MATRICOLA-386310320-MANUALE.pdf?rlkey=gapccsna059512zihp0sgxac2&dl=0?raw=1",
+                          "dimensione_kb": 11007,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/4.0 YUMARA AREA TECNICA/MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320/MACCHINA SOTTOVUOTO A CAMPANA UNIVAC SPRINT AUT MATRICOLA 386310320 MANUALE.pdf"
+                        }
+                      ],
+                      "_totale_file": 3
+                    },
+                    {
                       "nome": "PRODUTTORE DI GHIACCIO AUTOMATIC ICE MAKER B 3515 AS",
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/4.0 YUMARA AREA TECNICA/PRODUTTORE DI GHIACCIO AUTOMATIC ICE MAKER B 3515 AS",
                       "cartelle": [],
@@ -105801,7 +105816,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 14
+                  "_totale_file": 17
                 }
               ],
               "file": [
@@ -105950,7 +105965,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/YUMARA SITUAZIONE AL 25_06_2020.pdf"
                 }
               ],
-              "_totale_file": 32
+              "_totale_file": 35
             },
             {
               "nome": "AGRITURISMO LA TENUTA DEL BARONE",
@@ -114320,7 +114335,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 920
+          "_totale_file": 923
         },
         {
           "nome": "MARCELLINA",
@@ -129308,6 +129323,22 @@
                       "_totale_file": 12
                     },
                     {
+                      "nome": "CAMPOLEROSE SITUAZIONE LOGISTICA",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE APRILE 2026/CAMPOLEROSE SITUAZIONE LOGISTICA",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "CAMPOLEROSE SITUAZIONE LOGISTICA Ordine cliente_250801_20260323_225337.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/urbwcltla7oy3p4d2zcq5/CAMPOLEROSE-SITUAZIONE-LOGISTICA-Ordine-cliente_250801_20260323_225337.pdf?rlkey=5ogw169x6ro7aohkzfqs26am6&dl=0?raw=1",
+                          "dimensione_kb": 71,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE APRILE 2026/CAMPOLEROSE SITUAZIONE LOGISTICA/CAMPOLEROSE SITUAZIONE LOGISTICA Ordine cliente_250801_20260323_225337.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "Documenti x Grenke",
                       "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE APRILE 2026/Documenti x Grenke",
                       "cartelle": [],
@@ -129518,6 +129549,14 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE APRILE 2026/Bozza Progetto Banco Bar e Retro MC.dwg"
                     },
                     {
+                      "nome": "CAMPOLEROSE MISURE RILEVATE SUL CANTIERE 2026-09-25 13.30.52.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/blhpxij6epuc3fgmdhocg/CAMPOLEROSE-MISURE-RILEVATE-SUL-CANTIERE-2026-09-25-13.30.52.pdf?rlkey=9ee2rav3omcqojpvwa16axwgt&dl=0?raw=1",
+                      "dimensione_kb": 2268,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE APRILE 2026/CAMPOLEROSE MISURE RILEVATE SUL CANTIERE 2026-09-25 13.30.52.pdf"
+                    },
+                    {
                       "nome": "Fattura di vendita_2500507 GRENKE Rif. Capolerose.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -129574,23 +129613,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE APRILE 2026/Viggianello Agriturismo Propato & Tedesco Bozza Progetto Soluzione del 23 06 2025.dwg"
                     }
                   ],
-                  "_totale_file": 44
-                },
-                {
-                  "nome": "CAMPOLEROSE SITUAZIONE LOGISTICA",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE SITUAZIONE LOGISTICA",
-                  "cartelle": [],
-                  "file": [
-                    {
-                      "nome": "CAMPOLEROSE SITUAZIONE LOGISTICA Ordine cliente_250801_20260323_225337.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/urbwcltla7oy3p4d2zcq5/CAMPOLEROSE-SITUAZIONE-LOGISTICA-Ordine-cliente_250801_20260323_225337.pdf?rlkey=5ogw169x6ro7aohkzfqs26am6&dl=0?raw=1",
-                      "dimensione_kb": 71,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE SITUAZIONE LOGISTICA/CAMPOLEROSE SITUAZIONE LOGISTICA Ordine cliente_250801_20260323_225337.pdf"
-                    }
-                  ],
-                  "_totale_file": 1
+                  "_totale_file": 46
                 }
               ],
               "file": [
@@ -129635,7 +129658,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/Ordine cliente_210579_20210720_210617.pdf"
                 }
               ],
-              "_totale_file": 52
+              "_totale_file": 53
             },
             {
               "nome": "BRUNO SPA",
@@ -131452,7 +131475,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 242
+          "_totale_file": 243
         },
         {
           "nome": "SAN GREGORIO MAGNO",
