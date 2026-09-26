@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-26T05:47:56Z",
-  "totale_file": 27112,
+  "generato": "2026-09-26T07:54:19Z",
+  "totale_file": 27113,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -192833,7 +192833,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5153,
+      "totale_file": 5154,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -236318,6 +236318,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PIAZZA CONFERMA 11012179_ORD_CLI_2026-OC-0003998 RIF.EVRA.pdf"
             },
             {
+              "nome": "SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE CORRETTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/clo7c37dw1t8454oikv6y/SIRMAN-CONFERMA-ORDINE-2010264956-RIF.MACELLERIA-COSENTINO-E-PUGLIESE-CORRETTA.pdf?rlkey=t7rd7ecu4ypw9plta5iju5xpr&dl=0?raw=1",
+              "dimensione_kb": 115,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE CORRETTA.pdf"
+            },
+            {
               "nome": "SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -236366,7 +236374,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3831
+          "_totale_file": 3832
         }
       ],
       "file": []
