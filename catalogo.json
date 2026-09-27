@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-26T09:12:39Z",
-  "totale_file": 27113,
+  "generato": "2026-09-27T00:26:06Z",
+  "totale_file": 27114,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -75790,7 +75790,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7363,
+      "totale_file": 7364,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -89642,7 +89642,7 @@
                   "nome": "FRYLLOS BONIFICO DEL 18_09_2023 FD07C039-E7BB-447F-96EC-C5E2EACE8E98.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/70m7b2x2t0vu1c0vv4k7r/FRYLLOS-BONIFICO-DEL-18_09_2023-FD07C039-E7BB-447F-96EC-C5E2EACE8E98.pdf?rlkey=5jo5but1ggxbsc8uikid551e3&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 7,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/FRYLLOS DI VIOLA MICHELE/FRYLLOS BONIFICO DEL 18_09_2023 FD07C039-E7BB-447F-96EC-C5E2EACE8E98.pdf"
                 },
@@ -89650,7 +89650,7 @@
                   "nome": "ICOOL40_I COOL40G.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/4d704zquzg96g2t0y9oei/ICOOL40_I-COOL40G.pdf?rlkey=tip48szcfq23q89my8fbzsk91&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 767,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LATRONICO/FRYLLOS DI VIOLA MICHELE/ICOOL40_I COOL40G.pdf"
                 },
@@ -137909,6 +137909,14 @@
                   "cartelle": [],
                   "file": [
                     {
+                      "nome": "2026-09-26 18.36.45.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/5jp0jwkpfpveethcphur4/2026-09-26-18.36.45.pdf?rlkey=n7f9zvkei6t6u32uuxiubs55p&dl=0?raw=1",
+                      "dimensione_kb": 160,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO. AREA TECNICA/2026-09-26 18.36.45.pdf"
+                    },
+                    {
                       "nome": "MACCHINA SOTTOVUOTO SIRMAN VE.RO DATI MACCHINA.png",
                       "tipo": "Immagine",
                       "icona": "🖼️",
@@ -137941,7 +137949,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO. AREA TECNICA/SOTTOVUOTO SIRMAN easy touch Service Manual 06-2022 it-en.pdf"
                     }
                   ],
-                  "_totale_file": 4
+                  "_totale_file": 5
                 }
               ],
               "file": [
@@ -138058,7 +138066,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/struttura-base-macchina-caffe.pdf"
                 }
               ],
-              "_totale_file": 18
+              "_totale_file": 19
             },
             {
               "nome": "ZU FERDINANDO",
@@ -138095,7 +138103,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 184
+          "_totale_file": 185
         },
         {
           "nome": "SARCONI",
