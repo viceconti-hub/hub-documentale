@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-28T00:27:06Z",
-  "totale_file": 27114,
+  "generato": "2026-09-28T02:31:16Z",
+  "totale_file": 27115,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -149474,7 +149474,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4488,
+      "totale_file": 4489,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -187098,23 +187098,31 @@
           ],
           "file": [
             {
+              "nome": "100.ROSSANESE Listino_Anteprima_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nloolwi7te51kada214h2/100.ROSSANESE-Listino_Anteprima_2026.pdf?rlkey=z6bfz643e1fkn2g4u8v4gn7cf&dl=0?raw=1",
+              "dimensione_kb": 567,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/100.ROSSANESE Listino_Anteprima_2026.pdf"
+            },
+            {
+              "nome": "100.ROSSANESE_Listino_ottobre_2024.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/syorug8ybhsk86rsc6z85/100.ROSSANESE_Listino_ottobre_2024.pdf?rlkey=a0lcw79w4flwuu2dcay4jumh4&dl=0?raw=1",
+              "dimensione_kb": 9354,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/100.ROSSANESE_Listino_ottobre_2024.pdf"
+            },
+            {
               "nome": "Catalogo-Rossanese-edizione24.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/u47m4zqir865s715cpdtj/Catalogo-Rossanese-edizione24.pdf?rlkey=8t63506jqm3re0aiujo07sgdn&dl=0?raw=1",
               "dimensione_kb": 64433,
               "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/Catalogo-Rossanese-edizione24.pdf"
-            },
-            {
-              "nome": "ROSSANESE_Listino_ottobre_2024.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/syorug8ybhsk86rsc6z85/ROSSANESE_Listino_ottobre_2024.pdf?rlkey=a0lcw79w4flwuu2dcay4jumh4&dl=0?raw=1",
-              "dimensione_kb": 9354,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ROSSANESE_Listino_ottobre_2024.pdf"
             }
           ],
-          "_totale_file": 21
+          "_totale_file": 22
         },
         {
           "nome": "ROYALE SRL",
