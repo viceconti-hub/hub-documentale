@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-28T05:53:06Z",
-  "totale_file": 27123,
+  "generato": "2026-09-28T08:04:06Z",
+  "totale_file": 27125,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -192913,7 +192913,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5154,
+      "totale_file": 5156,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -193578,6 +193578,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260182_20260923_210304 RIF. TAVOLO ARMADIATO E FRYTOP A GAS Basato su Ordini d'acquisto 260179. 260186..pdf"
             },
             {
+              "nome": "FIMAR s.p.a. Entrata merci da fornitore_260190_20260925_165746 RIF. RESISTENZE TOSTIERE E RESISTENZA CUOCIPASTA CARNALI Basato su Ordini d'acquisto.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/echkyhbhpy79lo2ws4gq3/FIMAR-s.p.a.-Entrata-merci-da-fornitore_260190_20260925_165746-RIF.-RESISTENZE-TOSTIERE-E-RESISTENZA-CUOCIPASTA-CARNALI-Basato-su-Ordini-d-acquisto.pdf?rlkey=anxy32v0rijmoeyaiyuw5wlvw&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR s.p.a. Entrata merci da fornitore_260190_20260925_165746 RIF. RESISTENZE TOSTIERE E RESISTENZA CUOCIPASTA CARNALI Basato su Ordini d'acquisto.pdf"
+            },
+            {
               "nome": "FIMEL DOCUMENTO DI TRASPORTO 1842025 DEL 22-12-2025  VICECONTI SNC DI PROSPERO VICECONTI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -193840,6 +193848,14 @@
               "link": "https://www.dropbox.com/scl/fi/90ihecdzj8e557iil5sgq/MODULAR-PROFESSIONAL-srl-Entrata-merci-da-fornitore_260175_20260923_194035-RIF.-Cesto-vasca-intera-per-friggitrice-elettrica-vasca-da-17-lt-Dimensioni.pdf?rlkey=w8pnnok9hzqu1v6ba55m8gh5m&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260175_20260923_194035 RIF. Cesto vasca intera per friggitrice elettrica vasca da 17 lt Dimensioni.pdf"
+            },
+            {
+              "nome": "MODULAR PROFESSIONAL srl Entrata merci da fornitore_260191_20260925_170255 RIF. Guarnizione porta forno QUBI6 DL Basato su Ordini d'acquisto 260240..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5cuslc3yvfox34yotcznj/MODULAR-PROFESSIONAL-srl-Entrata-merci-da-fornitore_260191_20260925_170255-RIF.-Guarnizione-porta-forno-QUBI6-DL-Basato-su-Ordini-d-acquisto-260240..pdf?rlkey=9f46385ts5k575rj2xnl72gjs&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR PROFESSIONAL srl Entrata merci da fornitore_260191_20260925_170255 RIF. Guarnizione porta forno QUBI6 DL Basato su Ordini d'acquisto 260240..pdf"
             },
             {
               "nome": "MORETTI FIMEL DDT DICEMBRE 2025 RIF.FA' TU.JPEG",
@@ -194226,7 +194242,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 161
+          "_totale_file": 163
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -212306,7 +212322,7 @@
                       "nome": "ARISTARCO CONFERMA ORV_1968545_2024_1_986_1022024 RIF.MAG 02_2024.PDF",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/nsd271prptgpb6u9b0nfu/ARISTARCO-CONFERMA-ORV_1968545_2024_1_986_1022024-RIF.MAG-02_2024.PDF?rlkey=afls8kalxh66rk7wagucwmt7u&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 123,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/ARISTARCO ORDINI D'ACQUISTO ARCHIVIO/ARISTARCO CONFERMA ORV_1968545_2024_1_986_1022024 RIF.MAG 02_2024.PDF"
                     },
