@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-28T02:31:16Z",
-  "totale_file": 27115,
+  "generato": "2026-09-28T05:53:06Z",
+  "totale_file": 27123,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7105,
+      "totale_file": 7113,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1534,6 +1534,14 @@
               "link": "https://www.dropbox.com/scl/fi/ljt6dnxwdq2t08tvrg6cb/FALCONE-SRL-Consegna_260608_20260725_111922-RIF.-ADDOLCITORE-MANUALE-12-lt.-CON-BY-PASS-PAGATO-IN-CONTANTI-Ba.pdf?rlkey=93cw9lh91ve1hz67kuyqeelij&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FALCONE SRL Consegna_260608_20260725_111922 RIF. ADDOLCITORE MANUALE 12 lt. CON BY-PASS PAGATO IN CONTANTI Ba.pdf"
+            },
+            {
+              "nome": "FCOMILANO S.R.L. Consegna_260845_20260927_185820 RIF. ARMADIO LEVTRONIC 900 LT -20°+40°CINOX, 1PORTA, CAP. 60 TEGLIE 60X40, V240mf.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4fqpa4svrsulw9e7rabxw/FCOMILANO-S.R.L.-Consegna_260845_20260927_185820-RIF.-ARMADIO-LEVTRONIC-900-LT-20-40-CINOX-1PORTA-CAP.-60-TEGLIE-60X40-V240mf.pdf?rlkey=8t4hirt01uefic7p5ppp13em6&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FCOMILANO S.R.L. Consegna_260845_20260927_185820 RIF. ARMADIO LEVTRONIC 900 LT -20°+40°CINOX, 1PORTA, CAP. 60 TEGLIE 60X40, V240mf.pdf"
             },
             {
               "nome": "FLAVIA DE MARCO Consegna_260657_20260801_132624 RIF. ARMADIO CONGELATORE COLDLINE SMART A701BE Basato su Ordini c.pdf",
@@ -3328,6 +3336,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MARIZIOSA S.N.C. DI MARILENA FORESTIEIRI E MARIA BLOISE Consegna_260748_20260824_210030 RIF. ASSISTENZA SU LAVAOGGETTI KRUPPS EL981E MATRICOLA 840D8EAD4550 SOSTITUZIONE.pdf"
             },
             {
+              "nome": "MICELI BIAGIO Consegna_260843_20260925_183330 RIF. Basato su Ordini cliente 260473..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jxk8v8vu7p44fq3l22esl/MICELI-BIAGIO-Consegna_260843_20260925_183330-RIF.-Basato-su-Ordini-cliente-260473..pdf?rlkey=ppkls0vzannlbdmc1xk23058s&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MICELI BIAGIO Consegna_260843_20260925_183330 RIF. Basato su Ordini cliente 260473..pdf"
+            },
+            {
               "nome": "MICELI PAMELA RISTREETTO Consegna_260790_20260828_215236 RIF. ASSISTENZA SU LAVABAR ARISTARCO AF40 MATRICOLA 518202208 TRATTAMENTO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3942,6 +3958,14 @@
               "link": "https://www.dropbox.com/scl/fi/8utdoqfi2k6tf6la14ssk/RICCIARDI-MARIA-PIERINA-Consegna_260734_20260820_121315-RIF.-AFFETTATRICE-ECO250-230V-50Hz-1PH-EXCE-Basato-su-Offerte-di-vendita-260355..pdf?rlkey=coufp63q18rdpbeqtcrpr3ytn&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/RICCIARDI MARIA PIERINA Consegna_260734_20260820_121315 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE Basato su Offerte di vendita 260355..pdf"
+            },
+            {
+              "nome": "RINTELLI GIOVANNI Consegna_260844_20260926_193358 RIF. CELLA MISA SP S 6 MATRICOLA 26SER05806 Basato su Ordini cliente 260469..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/aartjdwzfv9su4riedyts/RINTELLI-GIOVANNI-Consegna_260844_20260926_193358-RIF.-CELLA-MISA-SP-S-6-MATRICOLA-26SER05806-Basato-su-Ordini-cliente-260469..pdf?rlkey=kohot7ulqnvr5p8a2nzlmmvm9&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/RINTELLI GIOVANNI Consegna_260844_20260926_193358 RIF. CELLA MISA SP S 6 MATRICOLA 26SER05806 Basato su Ordini cliente 260469..pdf"
             },
             {
               "nome": "RISTORANTE BAR ALIMENTARI DI GAGLIARDI FRANCA Consegna_260802_20260902_115022 RIF. ASSISTENZA SU AFFETTATRICE FIMAR AFK350M23050M MATRICOLA 110901578.pdf",
@@ -4784,7 +4808,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 596
+          "_totale_file": 599
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -5758,6 +5782,14 @@
               "link": "https://www.dropbox.com/scl/fi/lp68c5kft1qjhhzo1mvfe/FALCONE-SRL-Fattura-di-vendita_2600320_20260725_111944-RIF.-ADDOLCITORE-MANUALE-12-lt.-CON-BY-PASS-PAGATO-IN-CONTANTI-Ba.pdf?rlkey=3ufcar6z5pg12gop5v6s37seu&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FALCONE SRL Fattura di vendita_2600320_20260725_111944 RIF. ADDOLCITORE MANUALE 12 lt. CON BY-PASS PAGATO IN CONTANTI Ba.pdf"
+            },
+            {
+              "nome": "FCOMILANO S.R.L. Fattura di vendita_2600487_20260927_185839 RIF. ARMADIO LEVTRONIC 900 LT -20°+40°CINOX, 1PORTA, CAP. 60 TEGLIE 60X40, V240mf.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/h5wjcuxyzyznkgwmwd6nn/FCOMILANO-S.R.L.-Fattura-di-vendita_2600487_20260927_185839-RIF.-ARMADIO-LEVTRONIC-900-LT-20-40-CINOX-1PORTA-CAP.-60-TEGLIE-60X40-V240mf.pdf?rlkey=v6ixs7euaeurdf4wn1e0b7amh&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FCOMILANO S.R.L. Fattura di vendita_2600487_20260927_185839 RIF. ARMADIO LEVTRONIC 900 LT -20°+40°CINOX, 1PORTA, CAP. 60 TEGLIE 60X40, V240mf.pdf"
             },
             {
               "nome": "FLAVIA DE MARCO Fattura di vendita_2600365_20260801_132644 RIF. ARMADIO CONGELATORE COLDLINE SMART A701BE Basato su Ordini c.pdf",
@@ -7088,12 +7120,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600449_20260830_232021 RIF. ASSISTENZA SU ABBATTITORE COLDLINE W6HS MATRICOLA 012300627 SOSTITUZIONE.pdf"
             },
             {
-              "nome": "NERA SRL Fattura di vendita_2600476_20260915_094506 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260453. Basato su Consegne.pdf",
+              "nome": "NERA SRL Fattura di vendita_2600476_20260926_210913 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260453. Basato su Consegne.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2y37p3y2zpdagigitnuce/NERA-SRL-Fattura-di-vendita_2600476_20260915_094506-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260453.-Basato-su-Consegne.pdf?rlkey=dkj36gcm8vr9xcwifatr2gmk8&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/is632uc8sqb3o428ypuww/NERA-SRL-Fattura-di-vendita_2600476_20260926_210913-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260453.-Basato-su-Consegne.pdf?rlkey=bvans142ybbtj2p3iph66k2r5&dl=0?raw=1",
               "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600476_20260915_094506 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260453. Basato su Consegne.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/NERA SRL Fattura di vendita_2600476_20260926_210913 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260453. Basato su Consegne.pdf"
             },
             {
               "nome": "NEW SCALZIPENNA S.A.S. Fattura di vendita_2600394_20260811_171643 RIF. MIXER A IMMERSIONE MX25 INOX CON MESCOLATORE 30cm (MAX IMMER.pdf",
@@ -7278,6 +7310,14 @@
               "link": "https://www.dropbox.com/scl/fi/lw139gzifj2m25pl8rvzj/PECCATI-DI-GOLA-DA-WALTER-PIZZERIA-ROSTICCERIA-BAR-Fattura-di-vendita_2600459_20260831_110856-RIF.-ASSISTENZA-SU-FORNO-A-GAS-ITALFORNI-EG-Y230-MATRICOLA-51147-SOSTITUZIONE.pdf?rlkey=1p0pc5kyf6t660575yyg8tmcm&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PECCATI DI GOLA DA WALTER PIZZERIA - ROSTICCERIA - BAR Fattura di vendita_2600459_20260831_110856 RIF. ASSISTENZA SU FORNO A GAS ITALFORNI EG Y230 MATRICOLA 51147 SOSTITUZIONE.pdf"
+            },
+            {
+              "nome": "PERRETTA SERVICE DI IMMACOLATO EGIDIO Fattura di vendita_2600486_20260926_191737 RIF. SONDA PTC PVC 3000 mm Basato su Consegne 260546..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bkeai9x9n7czn5upm62r2/PERRETTA-SERVICE-DI-IMMACOLATO-EGIDIO-Fattura-di-vendita_2600486_20260926_191737-RIF.-SONDA-PTC-PVC-3000-mm-Basato-su-Consegne-260546..pdf?rlkey=7ep03ent9jdkqjywc4t9ia2xd&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PERRETTA SERVICE DI IMMACOLATO EGIDIO Fattura di vendita_2600486_20260926_191737 RIF. SONDA PTC PVC 3000 mm Basato su Consegne 260546..pdf"
             },
             {
               "nome": "PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Fattura di vendita_2600171_20260607_170239 RIF. ASSISTENZA SU Forno pizza Sostituzione ugello bruciatore pil.pdf",
@@ -7739,7 +7779,7 @@
               "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Fattura di vendita_2600323_20260727_100205 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/2rrwm6nkj3bitppcdkthz/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Fattura-di-vendita_2600323_20260727_100205-RIF.-LAVASTOVIGLIA-A-CAPPOTTA-ARISTARCO-AH-800-ESI-PRS-DD-V4003N.pdf?rlkey=vee57rtc42n5wcupu8ut07bht&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Fattura di vendita_2600323_20260727_100205 RIF. LAVASTOVIGLIA A CAPPOTTA ARISTARCO AH 800 ESI PRS DD V4003N.pdf"
             },
@@ -8088,7 +8128,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 412
+          "_totale_file": 414
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -8144,12 +8184,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Offerta di vendita_260251_20260705_190531 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA IMF 35W-Q MATRICO.pdf"
             },
             {
-              "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260606_175353.pdf",
+              "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260925_091610.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/0s7cimfe2ztoqqt2e3hlu/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Offerta-di-vendita_260199_20260606_175353.pdf?rlkey=wtsmdzwip5efvuxbcs0esmuxk&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/qtf8oprekbuwka374qjco/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Offerta-di-vendita_260199_20260925_091610.pdf?rlkey=bbvxso20q11cm8sznxy2byz9k&dl=0?raw=1",
               "dimensione_kb": 85,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260606_175353.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260925_091610.pdf"
             },
             {
               "nome": "ALIMENTARI E TABACCHI DA EGIDIA DI CHIARELLI ANTONIO Offerta di vendita_260285_20260723_130636.pdf",
@@ -9864,12 +9904,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RINTELLI GIOVANNI Offerta di vendita_260419_20260907_180512.pdf"
             },
             {
-              "nome": "RINTELLI GIOVANNI Offerta di vendita_260430_20260920_202951 RIF. SCAFFALE ARTINOX ECOCOLOR 130X40X180H 4 RIPIANI.pdf",
+              "nome": "RINTELLI GIOVANNI Offerta di vendita_260430_20260926_084525 RIF. SCAFFALE ARTINOX ECOCOLOR 130X40X180H 4 RIPIANI.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2i3rzop76bjisplw62qo7/RINTELLI-GIOVANNI-Offerta-di-vendita_260430_20260920_202951-RIF.-SCAFFALE-ARTINOX-ECOCOLOR-130X40X180H-4-RIPIANI.pdf?rlkey=oqktzxsoeleot3n32u5f4ocuy&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/8099zoik5tet81lc2zxam/RINTELLI-GIOVANNI-Offerta-di-vendita_260430_20260926_084525-RIF.-SCAFFALE-ARTINOX-ECOCOLOR-130X40X180H-4-RIPIANI.pdf?rlkey=gq23fxjwxnx070ndcf17ekhnz&dl=0?raw=1",
               "dimensione_kb": 76,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RINTELLI GIOVANNI Offerta di vendita_260430_20260920_202951 RIF. SCAFFALE ARTINOX ECOCOLOR 130X40X180H 4 RIPIANI.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RINTELLI GIOVANNI Offerta di vendita_260430_20260926_084525 RIF. SCAFFALE ARTINOX ECOCOLOR 130X40X180H 4 RIPIANI.pdf"
             },
             {
               "nome": "RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA Offerta di vendita_260348_20260811_172444 RIF. COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANC.pdf",
@@ -69251,6 +69291,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/FALCONE SRL Ordine cliente_260312_20260725_111911 RIF. ADDOLCITORE MANUALE 12 lt. CON BY-PASS PAGATO IN CONTANTI.pdf"
             },
             {
+              "nome": "FCOMILANO S.R.L. Ordine cliente_260474_20260927_185716 RIF. ARMADIO LEVTRONIC 900 LT -20°+40°CINOX, 1PORTA, CAP. 60 TEGLIE 60X40, V240mf.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/e70gctrs4366mi5ihthqm/FCOMILANO-S.R.L.-Ordine-cliente_260474_20260927_185716-RIF.-ARMADIO-LEVTRONIC-900-LT-20-40-CINOX-1PORTA-CAP.-60-TEGLIE-60X40-V240mf.pdf?rlkey=bnojb647ne4csk2a1sdpf5c6h&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/FCOMILANO S.R.L. Ordine cliente_260474_20260927_185716 RIF. ARMADIO LEVTRONIC 900 LT -20°+40°CINOX, 1PORTA, CAP. 60 TEGLIE 60X40, V240mf.pdf"
+            },
+            {
               "nome": "FIMAPA S.r.l. Ordine cliente_260192_20260608_092809 RIF. LAMA AFFETTATTRICE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -70339,6 +70387,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MAMA MIA LTD Ordine cliente_260459_20260917_163613 RIF. fattura esente IVA Cessioni ad esportatori non residenti art. 8 comma 1.pdf"
             },
             {
+              "nome": "MICELI BIAGIO Ordine cliente_260473_20260925_183319.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/13wnxb6v95xe3xiywlq1m/MICELI-BIAGIO-Ordine-cliente_260473_20260925_183319.pdf?rlkey=kilipotzkr8gm888ggbah2ixk&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MICELI BIAGIO Ordine cliente_260473_20260925_183319.pdf"
+            },
+            {
               "nome": "MS NAPOLEONE SRL Ordine cliente_260294_20260721_112805 RIF. ASCIUGA LUCIDA POSATE MOD.STAR EVO MANUALE Basato su Offerte.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -70377,6 +70433,14 @@
               "link": "https://www.dropbox.com/scl/fi/1zu71a13xx57iap60fa1j/NATALE-SALVATORE-Ordine-cliente_260375_20260810_103613.pdf?rlkey=myvpksts78konrsn1en5jdypy&dl=0?raw=1",
               "dimensione_kb": 64,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NATALE SALVATORE Ordine cliente_260375_20260810_103613.pdf"
+            },
+            {
+              "nome": "NERA SRL Ordine cliente_260080_20260926_210634 RIF. ATTREZZATURE PROFESSIONALI Riferimento Bozza Progetto.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/x9d1uvl68wm1tn94hsija/NERA-SRL-Ordine-cliente_260080_20260926_210634-RIF.-ATTREZZATURE-PROFESSIONALI-Riferimento-Bozza-Progetto.pdf?rlkey=xql3vi8lqj6sr3vyqsy8jy8l2&dl=0?raw=1",
+              "dimensione_kb": 85,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NERA SRL Ordine cliente_260080_20260926_210634 RIF. ATTREZZATURE PROFESSIONALI Riferimento Bozza Progetto.pdf"
             },
             {
               "nome": "NERA SRL Ordine cliente_260163_20260521_174924 RIF. ASSISTENZA SU LAVASTOVIGLIE KRUPPS EL51 MATRICOLA 202360385.pdf",
@@ -70699,12 +70763,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RINALDI SRLS Ordine cliente_260444_20260909_170350 RIF. CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3.pdf"
             },
             {
-              "nome": "RINTELLI GIOVANNI Ordine cliente_260469_20260923_085533.pdf",
+              "nome": "RINTELLI GIOVANNI Ordine cliente_260469_20260923_085533 RIF. CELLA MISA SP S 6 MATRICOLA 26SER05806.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/cr2frx6vfa3rnyrkzf4zh/RINTELLI-GIOVANNI-Ordine-cliente_260469_20260923_085533.pdf?rlkey=q20rstb05e1mfpujf3n0arzqp&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/j2sbkmyx90z51a46vvqaa/RINTELLI-GIOVANNI-Ordine-cliente_260469_20260923_085533-RIF.-CELLA-MISA-SP-S-6-MATRICOLA-26SER05806.pdf?rlkey=z5d4ruol6q613m7ljm0wlgdyh&dl=0?raw=1",
               "dimensione_kb": 54,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RINTELLI GIOVANNI Ordine cliente_260469_20260923_085533.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/RINTELLI GIOVANNI Ordine cliente_260469_20260923_085533 RIF. CELLA MISA SP S 6 MATRICOLA 26SER05806.pdf"
             },
             {
               "nome": "RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA Ordine cliente_260385_20260811_173456 RIF. COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANC.pdf",
@@ -71171,7 +71235,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 339
+          "_totale_file": 342
         }
       ],
       "file": []
