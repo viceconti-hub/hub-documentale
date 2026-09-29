@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-28T09:26:52Z",
-  "totale_file": 27125,
+  "generato": "2026-09-29T00:30:06Z",
+  "totale_file": 27139,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -75854,7 +75854,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7364,
+      "totale_file": 7378,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -92508,6 +92508,22 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BILLY BAR/BILLY BAR AREA TECNICA/MACCHINA DA CAFFE'/2024-09-25_102829.jpg"
                         },
                         {
+                          "nome": "EMBLEMA-R-109-MANUALE-TECNICO-EN-05 AZZERAMENTO BEEP MANUTENZIONE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/yrmpdbcl11k4olz2ebz35/EMBLEMA-R-109-MANUALE-TECNICO-EN-05-AZZERAMENTO-BEEP-MANUTENZIONE.pdf?rlkey=53ueb08lnr30eciuynnxbsekj&dl=0?raw=1",
+                          "dimensione_kb": 187,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BILLY BAR/BILLY BAR AREA TECNICA/MACCHINA DA CAFFE'/EMBLEMA-R-109-MANUALE-TECNICO-EN-05 AZZERAMENTO BEEP MANUTENZIONE.pdf"
+                        },
+                        {
+                          "nome": "EMBLEMA-R-109-MANUALE-TECNICO-EN-05.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/7m36qt19gsyyj2bvb62mn/EMBLEMA-R-109-MANUALE-TECNICO-EN-05.pdf?rlkey=7k38zqwzyyhc2ia1axxnb8hop&dl=0?raw=1",
+                          "dimensione_kb": 5775,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BILLY BAR/BILLY BAR AREA TECNICA/MACCHINA DA CAFFE'/EMBLEMA-R-109-MANUALE-TECNICO-EN-05.pdf"
+                        },
+                        {
                           "nome": "WhatsApp Image 2024-09-25 at 09.52.31.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -92516,11 +92532,11 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BILLY BAR/BILLY BAR AREA TECNICA/MACCHINA DA CAFFE'/WhatsApp Image 2024-09-25 at 09.52.31.jpeg"
                         }
                       ],
-                      "_totale_file": 2
+                      "_totale_file": 4
                     }
                   ],
                   "file": [],
-                  "_totale_file": 2
+                  "_totale_file": 4
                 }
               ],
               "file": [
@@ -92533,7 +92549,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/BILLY BAR/BILLY BAR Fattura di vendita_220043_20220228_200229.pdf"
                 }
               ],
-              "_totale_file": 3
+              "_totale_file": 5
             },
             {
               "nome": "BISCOTTIFICIO DOLCI RICORDI",
@@ -104876,7 +104892,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1318
+          "_totale_file": 1320
         },
         {
           "nome": "LAVELLO",
@@ -113992,6 +114008,14 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "AFFETTATRICE BERKEL MODELLO BSPSX01000000 P360V_V13 ESPLOSO RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/kj9sox3fkqavjbsal3wou/AFFETTATRICE-BERKEL-MODELLO-BSPSX01000000-P360V_V13-ESPLOSO-RICAMBI.pdf?rlkey=ov2alvp5pza82e13s4hhbmd81&dl=0?raw=1",
+                          "dimensione_kb": 2229,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/AFFETTATRICE BERKEL FIUMICELLO/AFFETTATRICE BERKEL MODELLO BSPSX01000000 P360V_V13 ESPLOSO RICAMBI.pdf"
+                        },
+                        {
                           "nome": "EMAIL.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -114056,7 +114080,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/AFFETTATRICE BERKEL FIUMICELLO/image.png"
                         }
                       ],
-                      "_totale_file": 8
+                      "_totale_file": 9
                     },
                     {
                       "nome": "AFFETTATRICE ITALIANA MACCHI 370",
@@ -114245,7 +114269,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/Piatto VULCANO TV 350-370 BS Vers.1.pdf"
                     }
                   ],
-                  "_totale_file": 26
+                  "_totale_file": 27
                 },
                 {
                   "nome": "VELARDI PIAZZA EUROPA FORNITURA ARREDO INOX MAGGIO 2026",
@@ -114386,7 +114410,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI SITUAZIONE AL 17_05_2022.pdf"
                 }
               ],
-              "_totale_file": 42
+              "_totale_file": 43
             }
           ],
           "file": [
@@ -114399,7 +114423,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 923
+          "_totale_file": 924
         },
         {
           "nome": "MARCELLINA",
@@ -117311,6 +117335,22 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE",
                   "cartelle": [
                     {
+                      "nome": "AFFETTATRICE BERKEL BSFSX02000000 MATRICOLA 0110S540 -2010",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/AFFETTATRICE BERKEL BSFSX02000000 MATRICOLA 0110S540 -2010",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "AFFETTATRICE CARNE BERKEL BSFSX02000000 F360V_V9 ESPLOSO RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/lwbjysk5574qgoiqpyxfc/AFFETTATRICE-CARNE-BERKEL-BSFSX02000000-F360V_V9-ESPLOSO-RICAMBI.pdf?rlkey=9gmsuef4sbnev42ihi237ueg9&dl=0?raw=1",
+                          "dimensione_kb": 2190,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/AFFETTATRICE BERKEL BSFSX02000000 MATRICOLA 0110S540 -2010/AFFETTATRICE CARNE BERKEL BSFSX02000000 F360V_V9 ESPLOSO RICAMBI.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "AFFETTATRICE BOSTON",
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/AFFETTATRICE BOSTON",
                       "cartelle": [],
@@ -117529,7 +117569,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/GRATTUGIA FIMAR DARI MACCHINA.jpg"
                     }
                   ],
-                  "_totale_file": 22
+                  "_totale_file": 23
                 },
                 {
                   "nome": "AREA TECNICA GRANSOLE MARATEA",
@@ -117752,6 +117792,22 @@
                       "_totale_file": 5
                     },
                     {
+                      "nome": "SEGAOSSI SRIMAN SO F3 1550 ANOD MATRICOLA 25BDJH0237",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE MARATEA/SEGAOSSI SRIMAN SO F3 1550 ANOD MATRICOLA 25BDJH0237",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "SEGAOSSI SRIMAN SO F3 1550 ANOD MATRICOLA 25BDJH0237 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/7vu3r4ponp2d88geb2p19/SEGAOSSI-SRIMAN-SO-F3-1550-ANOD-MATRICOLA-25BDJH0237-DATI-MACCHINA.jpg?rlkey=yh4geics4likn4jjbnf3t9q46&dl=0?raw=1",
+                          "dimensione_kb": 98,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE MARATEA/SEGAOSSI SRIMAN SO F3 1550 ANOD MATRICOLA 25BDJH0237/SEGAOSSI SRIMAN SO F3 1550 ANOD MATRICOLA 25BDJH0237 DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "TRITACARNE REFRIGERATO AMB",
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE MARATEA/TRITACARNE REFRIGERATO AMB",
                       "cartelle": [],
@@ -117866,7 +117922,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE MARATEA/WhatsApp Image 2023-05-05 at 20.16.50 (5).jpeg"
                     }
                   ],
-                  "_totale_file": 34
+                  "_totale_file": 35
                 },
                 {
                   "nome": "GRAN SOLE MARATEA 10_2024",
@@ -118976,7 +119032,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/WhatsApp Image 2023-03-27 at 10.51.53.jpeg"
                 }
               ],
-              "_totale_file": 191
+              "_totale_file": 193
             },
             {
               "nome": "H.END",
@@ -120194,7 +120250,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 453
+          "_totale_file": 455
         },
         {
           "nome": "ORIOLO",
@@ -120220,6 +120276,71 @@
               "nome": "PUGLIESE MATTIA",
               "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA",
               "cartelle": [
+                {
+                  "nome": "PUGLIESE DOCUMENTI PER COMPASS",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE DOCUMENTI PER COMPASS",
+                  "cartelle": [
+                    {
+                      "nome": "ARCHIVIO",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE DOCUMENTI PER COMPASS/ARCHIVIO",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "PUGLIESE MICHELE TESSERA SANITARIA E CARTA IDENTITA RETRO.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/0dv1430yk0wjf0p5f176y/PUGLIESE-MICHELE-TESSERA-SANITARIA-E-CARTA-IDENTITA-RETRO.jpeg?rlkey=fzzo1u44o0npoqb66st71rjvr&dl=0?raw=1",
+                          "dimensione_kb": 235,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE DOCUMENTI PER COMPASS/ARCHIVIO/PUGLIESE MICHELE TESSERA SANITARIA E CARTA IDENTITA RETRO.jpeg"
+                        },
+                        {
+                          "nome": "PUGLIESE MICHELE TESSERA SANITARIA FRONTE RETRO.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/vdmrrcarbmn786a6a5hu0/PUGLIESE-MICHELE-TESSERA-SANITARIA-FRONTE-RETRO.jpeg?rlkey=3kxo736gkdz324zle5yzqmvnz&dl=0?raw=1",
+                          "dimensione_kb": 142,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE DOCUMENTI PER COMPASS/ARCHIVIO/PUGLIESE MICHELE TESSERA SANITARIA FRONTE RETRO.jpeg"
+                        }
+                      ],
+                      "_totale_file": 2
+                    }
+                  ],
+                  "file": [
+                    {
+                      "nome": "CEDOLINI PAGA PUGLIESE MICHELE AGOSTO 2026.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/unz79cs6pkdu1h41gpmu2/CEDOLINI-PAGA-PUGLIESE-MICHELE-AGOSTO-2026.pdf?rlkey=o3sk4zbsunoeazoe3b2r8412a&dl=0?raw=1",
+                      "dimensione_kb": 79,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE DOCUMENTI PER COMPASS/CEDOLINI PAGA PUGLIESE MICHELE AGOSTO 2026.pdf"
+                    },
+                    {
+                      "nome": "PUGLIESE MICHELE CARTA IDENTITA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/jobft4yj4rjjna2mef653/PUGLIESE-MICHELE-CARTA-IDENTITA.pdf?rlkey=cz6tyvn5dnw8uab842xcc5iwl&dl=0?raw=1",
+                      "dimensione_kb": 417,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE DOCUMENTI PER COMPASS/PUGLIESE MICHELE CARTA IDENTITA.pdf"
+                    },
+                    {
+                      "nome": "PUGLIESE MICHELE TESSERA SANITARIA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/49ur0u6rocwu9l4zekuk5/PUGLIESE-MICHELE-TESSERA-SANITARIA.pdf?rlkey=mgiexdo474k8ehogye8oggdzi&dl=0?raw=1",
+                      "dimensione_kb": 416,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE DOCUMENTI PER COMPASS/PUGLIESE MICHELE TESSERA SANITARIA.pdf"
+                    },
+                    {
+                      "nome": "cedolino paga PUGLIESE MICHELE LUGLIO 2026.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/yc6psjcbz7r4a96i0jakz/cedolino-paga-PUGLIESE-MICHELE-LUGLIO-2026.pdf?rlkey=zgexb0ul5cw3hecfenwsl4ewk&dl=0?raw=1",
+                      "dimensione_kb": 79,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE DOCUMENTI PER COMPASS/cedolino paga PUGLIESE MICHELE LUGLIO 2026.pdf"
+                    }
+                  ],
+                  "_totale_file": 6
+                },
                 {
                   "nome": "PUGLIESE MATTIA ARCHIVIO",
                   "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ARCHIVIO",
@@ -120415,11 +120536,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 14_09_2026.pdf"
                 }
               ],
-              "_totale_file": 22
+              "_totale_file": 28
             }
           ],
           "file": [],
-          "_totale_file": 22
+          "_totale_file": 28
         },
         {
           "nome": "PIEDIMONTE MATESE",
@@ -129392,6 +129513,14 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "CAMPOLEROSE MISURE RILEVATE SUL CANTIERE 2026-09-25 13.30.52.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/blhpxij6epuc3fgmdhocg/CAMPOLEROSE-MISURE-RILEVATE-SUL-CANTIERE-2026-09-25-13.30.52.pdf?rlkey=9ee2rav3omcqojpvwa16axwgt&dl=0?raw=1",
+                          "dimensione_kb": 2268,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE APRILE 2026/CAMPOLEROSE SITUAZIONE LOGISTICA/CAMPOLEROSE MISURE RILEVATE SUL CANTIERE 2026-09-25 13.30.52.pdf"
+                        },
+                        {
                           "nome": "CAMPOLEROSE SITUAZIONE LOGISTICA Ordine cliente_250801_20260323_225337.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
@@ -129400,7 +129529,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE APRILE 2026/CAMPOLEROSE SITUAZIONE LOGISTICA/CAMPOLEROSE SITUAZIONE LOGISTICA Ordine cliente_250801_20260323_225337.pdf"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 2
                     },
                     {
                       "nome": "Documenti x Grenke",
@@ -129613,14 +129742,6 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE APRILE 2026/Bozza Progetto Banco Bar e Retro MC.dwg"
                     },
                     {
-                      "nome": "CAMPOLEROSE MISURE RILEVATE SUL CANTIERE 2026-09-25 13.30.52.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/blhpxij6epuc3fgmdhocg/CAMPOLEROSE-MISURE-RILEVATE-SUL-CANTIERE-2026-09-25-13.30.52.pdf?rlkey=9ee2rav3omcqojpvwa16axwgt&dl=0?raw=1",
-                      "dimensione_kb": 2268,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE APRILE 2026/CAMPOLEROSE MISURE RILEVATE SUL CANTIERE 2026-09-25 13.30.52.pdf"
-                    },
-                    {
                       "nome": "Fattura di vendita_2500507 GRENKE Rif. Capolerose.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -129678,6 +129799,38 @@
                     }
                   ],
                   "_totale_file": 46
+                },
+                {
+                  "nome": "CAMPOLEROSE CANTIERE SETTEMBRE 2026 COMPLETAMENTO",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE SETTEMBRE 2026 COMPLETAMENTO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "BOTTLE COOLER 3 SPORTELLI FORCAR.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/sqvotm2iplgjvs9huw6q1/BOTTLE-COOLER-3-SPORTELLI-FORCAR.pdf?rlkey=rhw96kzwpv33dbe4qktl9yo23&dl=0?raw=1",
+                      "dimensione_kb": 117,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE SETTEMBRE 2026 COMPLETAMENTO/BOTTLE COOLER 3 SPORTELLI FORCAR.pdf"
+                    },
+                    {
+                      "nome": "LAVABICCHIERI ARISTARCO Type-3730_3930_ORI-40.30_ED06_2026_IT SCHEDA TECNICA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/boz5dpyk6yuw7zcczulka/LAVABICCHIERI-ARISTARCO-Type-3730_3930_ORI-40.30_ED06_2026_IT-SCHEDA-TECNICA.pdf?rlkey=49yau0pdks4kh1r2cjg1zbhq3&dl=0?raw=1",
+                      "dimensione_kb": 383,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE SETTEMBRE 2026 COMPLETAMENTO/LAVABICCHIERI ARISTARCO Type-3730_3930_ORI-40.30_ED06_2026_IT SCHEDA TECNICA.pdf"
+                    },
+                    {
+                      "nome": "VASCHE DI LAVAGGIO PRIOLINOXcat.-acc-23-24 SCHEDA TECNICA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/0omqkforp7osul7vtpwmh/VASCHE-DI-LAVAGGIO-PRIOLINOXcat.-acc-23-24-SCHEDA-TECNICA.pdf?rlkey=a4wruorf7zt5ludol8bdxjrxo&dl=0?raw=1",
+                      "dimensione_kb": 307,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE SETTEMBRE 2026 COMPLETAMENTO/VASCHE DI LAVAGGIO PRIOLINOXcat.-acc-23-24 SCHEDA TECNICA.pdf"
+                    }
+                  ],
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -129722,7 +129875,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/Ordine cliente_210579_20210720_210617.pdf"
                 }
               ],
-              "_totale_file": 53
+              "_totale_file": 56
             },
             {
               "nome": "BRUNO SPA",
@@ -131539,7 +131692,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 243
+          "_totale_file": 246
         },
         {
           "nome": "SAN GREGORIO MAGNO",
