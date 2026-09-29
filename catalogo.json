@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-29T00:30:06Z",
-  "totale_file": 27139,
+  "generato": "2026-09-29T02:34:48Z",
+  "totale_file": 27143,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -149691,7 +149691,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4489,
+      "totale_file": 4493,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -152649,6 +152649,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/100.ARISTARCO Listino ricambi - Spares pricelist 04-2026.XLSX"
             },
             {
+              "nome": "ARISTARCO ESTRAZIONE CODICI FORNITORE EMAIL DEL 28_09_2026.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/sy0wz5ni4gl0lwde9nxk7/ARISTARCO-ESTRAZIONE-CODICI-FORNITORE-EMAIL-DEL-28_09_2026.XLSX?rlkey=eubvma7qkn2bic3w4s1gx5t0k&dl=0?raw=1",
+              "dimensione_kb": 16,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/ARISTARCO ESTRAZIONE CODICI FORNITORE EMAIL DEL 28_09_2026.XLSX"
+            },
+            {
               "nome": "ARISTARCO codici ARTICOLI PRINCIPALI.xlsx",
               "tipo": "Excel",
               "icona": "📊",
@@ -152673,7 +152681,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/Listino Ricambi_Spares Listprice_04-2024.XLSX"
             }
           ],
-          "_totale_file": 136
+          "_totale_file": 137
         },
         {
           "nome": "ARO",
@@ -162750,6 +162758,30 @@
           ],
           "file": [
             {
+              "nome": "2026_09_28 download CARTA IDENTITA ELETTRONICA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5c49s824692qggvbaqm6r/2026_09_28-download-CARTA-IDENTITA-ELETTRONICA.pdf?rlkey=ehs8sro4k6d1rtqraeky14v33&dl=0?raw=1",
+              "dimensione_kb": 132,
+              "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/2026_09_28 download CARTA IDENTITA ELETTRONICA.pdf"
+            },
+            {
+              "nome": "2026_09_28 download NUOVO PORTALE MARKETING.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pzh2upsdl6lu837i8uzzz/2026_09_28-download-NUOVO-PORTALE-MARKETING.pdf?rlkey=kldw75thzt0j14eizjkro5fds&dl=0?raw=1",
+              "dimensione_kb": 195,
+              "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/2026_09_28 download NUOVO PORTALE MARKETING.pdf"
+            },
+            {
+              "nome": "2026_09_28 download SCHERMATE PER CLIENTE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/y94q2f9znfoh0t9llyrbl/2026_09_28-download-SCHERMATE-PER-CLIENTE.pdf?rlkey=zdyuu8jnab0aw7svju2t33f03&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/2026_09_28 download SCHERMATE PER CLIENTE.pdf"
+            },
+            {
               "nome": "COM104D_10_23 Privacy Compass.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -162886,7 +162918,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COMPASS/TABELLE TASSO AGEVOLATO 28000.pdf"
             }
           ],
-          "_totale_file": 635
+          "_totale_file": 638
         },
         {
           "nome": "CONTI",
@@ -180222,20 +180254,20 @@
           ],
           "file": [
             {
-              "nome": "KLIMAITALIA CATALOGO AGGIORNATO 2026.pdf",
+              "nome": "100.KLIMAITALIA CATALOGO AGGIORNATO 2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/eapo98sdmxp8i0unks21m/KLIMAITALIA-CATALOGO-AGGIORNATO-2026.pdf?rlkey=oczklsclin8xl534hhfmfhafz&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/eapo98sdmxp8i0unks21m/100.KLIMAITALIA-CATALOGO-AGGIORNATO-2026.pdf?rlkey=oczklsclin8xl534hhfmfhafz&dl=0?raw=1",
               "dimensione_kb": 60449,
-              "path": "/HUB DOCUMENTALE/FORNITORI/KLIMAITALIA/KLIMAITALIA CATALOGO AGGIORNATO 2026.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/KLIMAITALIA/100.KLIMAITALIA CATALOGO AGGIORNATO 2026.pdf"
             },
             {
-              "nome": "KLIMAITALIA LISTINO AGGIORNATO 2026 ITALIA.pdf",
+              "nome": "100.KLIMAITALIA LISTINO AGGIORNATO 2026 ITALIA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/py0ppbqg5p18s4062255o/KLIMAITALIA-LISTINO-AGGIORNATO-2026-ITALIA.pdf?rlkey=l5lrlum2zm4qlp0k1sreb8gq3&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/py0ppbqg5p18s4062255o/100.KLIMAITALIA-LISTINO-AGGIORNATO-2026-ITALIA.pdf?rlkey=l5lrlum2zm4qlp0k1sreb8gq3&dl=0?raw=1",
               "dimensione_kb": 25282,
-              "path": "/HUB DOCUMENTALE/FORNITORI/KLIMAITALIA/KLIMAITALIA LISTINO AGGIORNATO 2026 ITALIA.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/KLIMAITALIA/100.KLIMAITALIA LISTINO AGGIORNATO 2026 ITALIA.pdf"
             }
           ],
           "_totale_file": 32
