@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-29T02:34:48Z",
-  "totale_file": 27143,
+  "generato": "2026-09-29T05:53:37Z",
+  "totale_file": 27150,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7113,
+      "totale_file": 7120,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -4488,6 +4488,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Consegna_260587_20260722_121221 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI B.pdf"
             },
             {
+              "nome": "SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Consegna_260846_20260928_120542 RIF. NASTRO IN TESSUTO VETRO P.T.F.E ADESIVO H27 Basato su Ordini cliente 260475..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8qi1n5jklkkp682uh099n/SUSHIEXPERIENCE-di-CISNEROS-BARRIOS-JESUS-ALBERTO-Consegna_260846_20260928_120542-RIF.-NASTRO-IN-TESSUTO-VETRO-P.T.F.E-ADESIVO-H27-Basato-su-Ordini-cliente-260475..pdf?rlkey=mfieog4cy13o78686yfbhqna5&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Consegna_260846_20260928_120542 RIF. NASTRO IN TESSUTO VETRO P.T.F.E ADESIVO H27 Basato su Ordini cliente 260475..pdf"
+            },
+            {
               "nome": "Salumificio VALENTINO snc Consegna_260718_20260812_114836 RIF. HOTELLERIE Basato su Offerte di vendita 260350. Basato su Or.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4808,7 +4816,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 599
+          "_totale_file": 600
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -8160,12 +8168,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/4.0 SRLS YUMARA Offerta di vendita_260257_20260710_090940.pdf"
             },
             {
-              "nome": "A.M. di Antonella Mancino s.a.s. CABOSSA Offerta di vendita_260422_20260909_132514 RIF. LAVAOGGETTI ARISTARCO HER PRO COMPACT 60.40 - COMANDI ELETTRONICI EPI.pdf",
+              "nome": "A.M. di Antonella Mancino s.a.s. CABOSSA Offerta di vendita_260422_20260928_160402 RIF. LAVAOGGETTI ARISTARCO HER PRO COMPACT 60.40 - COMANDI ELETTRONICI EPI.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/p1iq6udc1wh827jbpo2k5/A.M.-di-Antonella-Mancino-s.a.s.-CABOSSA-Offerta-di-vendita_260422_20260909_132514-RIF.-LAVAOGGETTI-ARISTARCO-HER-PRO-COMPACT-60.40-COMANDI-ELETTRONICI-EPI.pdf?rlkey=pccnll7vbov97dses0scgxkgq&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/sxst1a3p5ghs95njkkpem/A.M.-di-Antonella-Mancino-s.a.s.-CABOSSA-Offerta-di-vendita_260422_20260928_160402-RIF.-LAVAOGGETTI-ARISTARCO-HER-PRO-COMPACT-60.40-COMANDI-ELETTRONICI-EPI.pdf?rlkey=9pa2n7vin8o0e5ufqdsv4jkil&dl=0?raw=1",
               "dimensione_kb": 81,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/A.M. di Antonella Mancino s.a.s. CABOSSA Offerta di vendita_260422_20260909_132514 RIF. LAVAOGGETTI ARISTARCO HER PRO COMPACT 60.40 - COMANDI ELETTRONICI EPI.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/A.M. di Antonella Mancino s.a.s. CABOSSA Offerta di vendita_260422_20260928_160402 RIF. LAVAOGGETTI ARISTARCO HER PRO COMPACT 60.40 - COMANDI ELETTRONICI EPI.pdf"
             },
             {
               "nome": "AGRITURISMO COCCOVELLO di DA SILVA SOUZA MARIA ALICE Offerta di vendita_260258_20260710_102449 RIF. MACINADOSATORE MD5000, OUTPUT GS 3,CAP.TRAMOGGIA KG1100, Ø M.pdf",
@@ -8184,12 +8192,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Offerta di vendita_260251_20260705_190531 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA IMF 35W-Q MATRICO.pdf"
             },
             {
-              "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260925_091610.pdf",
+              "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260928_215442.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qtf8oprekbuwka374qjco/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Offerta-di-vendita_260199_20260925_091610.pdf?rlkey=bbvxso20q11cm8sznxy2byz9k&dl=0?raw=1",
-              "dimensione_kb": 85,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260925_091610.pdf"
+              "link": "https://www.dropbox.com/scl/fi/qglolihvv9g57aomkn3ks/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Offerta-di-vendita_260199_20260928_215442.pdf?rlkey=yq8sgx90uzum8uxq3fo7jcmhs&dl=0?raw=1",
+              "dimensione_kb": 88,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260928_215442.pdf"
             },
             {
               "nome": "ALIMENTARI E TABACCHI DA EGIDIA DI CHIARELLI ANTONIO Offerta di vendita_260285_20260723_130636.pdf",
@@ -8264,12 +8272,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/BASILICATA GRANTOUR S.A.S. DI ANTONIO AGRELLO & C. Offerta di vendita_260252_20260706_125349.pdf"
             },
             {
-              "nome": "BENEDETTO NICOLETTA Offerta di vendita_260413_20260905_084554.pdf",
+              "nome": "BENEDETTO NICOLETTA Offerta di vendita_260413_20260928_160533.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/b9qu2z4jgm43s3w0pyaul/BENEDETTO-NICOLETTA-Offerta-di-vendita_260413_20260905_084554.pdf?rlkey=w3d20w5ipoeilhq4s9z2t4uvw&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/v7jytctmm8oitsrchw3s8/BENEDETTO-NICOLETTA-Offerta-di-vendita_260413_20260928_160533.pdf?rlkey=3gcvpyn732zkfjq4ss0xswlc1&dl=0?raw=1",
               "dimensione_kb": 87,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/BENEDETTO NICOLETTA Offerta di vendita_260413_20260905_084554.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/BENEDETTO NICOLETTA Offerta di vendita_260413_20260928_160533.pdf"
             },
             {
               "nome": "BHOTEL SRL Offerta di vendita_260177_20260519_185944 RIF. BICCHIERE CORTINA COOLER.pdf",
@@ -8392,12 +8400,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CITY IPER SCALEA s.r.l. Offerta di vendita_260380_20260827_100350.pdf"
             },
             {
-              "nome": "CLAUDIO SAPRI - RAGIONE SOCIALE PROVVISORIA Offerta di vendita_260412_20260901_172327 RIF. ARROTONDATRICE MODELLO AR00M-TE,GRAMMATURA MINMAX 30-300gr, COCLEA IN TEFLON.pdf",
+              "nome": "CLAUDIO Offerta di vendita_260412_20260928_161614 RIF. ARROTONDATRICE MODELLO AR00M-TE,GRAMMATURA MINMAX 30-300gr, COCLEA IN TEFLON.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/pbaky2acxyn7ro9vou3ne/CLAUDIO-SAPRI-RAGIONE-SOCIALE-PROVVISORIA-Offerta-di-vendita_260412_20260901_172327-RIF.-ARROTONDATRICE-MODELLO-AR00M-TE-GRAMMATURA-MINMAX-30-300gr-COCLEA-IN-TEFLON.pdf?rlkey=8l91tyhtdruoruvwe2m6jxuxl&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/h31a5szkyr74szg8q9oph/CLAUDIO-Offerta-di-vendita_260412_20260928_161614-RIF.-ARROTONDATRICE-MODELLO-AR00M-TE-GRAMMATURA-MINMAX-30-300gr-COCLEA-IN-TEFLON.pdf?rlkey=piqhdre51jvzhgg8e18gc7suw&dl=0?raw=1",
               "dimensione_kb": 83,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CLAUDIO SAPRI - RAGIONE SOCIALE PROVVISORIA Offerta di vendita_260412_20260901_172327 RIF. ARROTONDATRICE MODELLO AR00M-TE,GRAMMATURA MINMAX 30-300gr, COCLEA IN TEFLON.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CLAUDIO Offerta di vendita_260412_20260928_161614 RIF. ARROTONDATRICE MODELLO AR00M-TE,GRAMMATURA MINMAX 30-300gr, COCLEA IN TEFLON.pdf"
             },
             {
               "nome": "CONVENTO FRATI MINORI CAPPUCCINI S.ANTONIO Offerta di vendita_260325_20260729_112957 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A.pdf",
@@ -9496,12 +9504,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260418_20260908_150106.pdf"
             },
             {
-              "nome": "MACELLERIA COSENTINO Offerta di vendita_260427_20260916_235248.pdf",
+              "nome": "MACELLERIA COSENTINO Offerta di vendita_260427_20260928_160329.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ar3bm5o8n3odyh0cvvbhq/MACELLERIA-COSENTINO-Offerta-di-vendita_260427_20260916_235248.pdf?rlkey=k39a3t5gn0d2364lho1a783pn&dl=0?raw=1",
-              "dimensione_kb": 87,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260427_20260916_235248.pdf"
+              "link": "https://www.dropbox.com/scl/fi/h5wdevvqwnb766z5vb78g/MACELLERIA-COSENTINO-Offerta-di-vendita_260427_20260928_160329.pdf?rlkey=abx8mtkz78god6bsbso48vz3j&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260427_20260928_160329.pdf"
             },
             {
               "nome": "MADI SNC di DISMA CASELLA & C. Offerta di vendita_260278_20260722_160656 RIF. POSATE CONCA.pdf",
@@ -9848,12 +9856,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PUGLIESE MATTIA Offerta di vendita_260415_20260905_092018.pdf"
             },
             {
-              "nome": "PUGLIESE MATTIA Offerta di vendita_260416_20260905_092749.pdf",
+              "nome": "PUGLIESE MATTIA Offerta di vendita_260416_20260928_160502.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/39u7t327cpmomv30x7fcl/PUGLIESE-MATTIA-Offerta-di-vendita_260416_20260905_092749.pdf?rlkey=d9vvyhtzr6xfhesmxnuxax2cp&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/oa2l5e5m5bbmqf16s1i8x/PUGLIESE-MATTIA-Offerta-di-vendita_260416_20260928_160502.pdf?rlkey=7ltjexw4f97dzgy4ucq3qpr9l&dl=0?raw=1",
               "dimensione_kb": 84,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PUGLIESE MATTIA Offerta di vendita_260416_20260905_092749.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PUGLIESE MATTIA Offerta di vendita_260416_20260928_160502.pdf"
             },
             {
               "nome": "PUGLIESE MATTIA Offerta di vendita_260431_20260924_201300 RIF. ACCESSORI PIZZERIA.pdf",
@@ -9896,12 +9904,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RICCIARDI MARIA PIERINA Offerta di vendita_260355_20260820_121249 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE.pdf"
             },
             {
-              "nome": "RINTELLI GIOVANNI Offerta di vendita_260419_20260907_180512.pdf",
+              "nome": "RINTELLI GIOVANNI Offerta di vendita_260419_20260928_160430.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gxnkggdsjmukbe1nk62z0/RINTELLI-GIOVANNI-Offerta-di-vendita_260419_20260907_180512.pdf?rlkey=93c07yjcdx3w6ad6woygryy1n&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RINTELLI GIOVANNI Offerta di vendita_260419_20260907_180512.pdf"
+              "link": "https://www.dropbox.com/scl/fi/zai0qa3mf3aq3w9ov9n4i/RINTELLI-GIOVANNI-Offerta-di-vendita_260419_20260928_160430.pdf?rlkey=8xdw0pulomv4z0m44gqsl2f07&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/RINTELLI GIOVANNI Offerta di vendita_260419_20260928_160430.pdf"
             },
             {
               "nome": "RINTELLI GIOVANNI Offerta di vendita_260430_20260926_084525 RIF. SCAFFALE ARTINOX ECOCOLOR 130X40X180H 4 RIPIANI.pdf",
@@ -12356,6 +12364,38 @@
                 }
               ],
               "file": [],
+              "_totale_file": 3
+            },
+            {
+              "nome": "2026_09_28 DONADIO NICOLETTA FRIGOBIBITE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_28 DONADIO NICOLETTA FRIGOBIBITE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "100.KLIMAITALIA LISTINO AGGIORNATO 2026 ITALIA pag 6.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mp0rfermjk4is2yf22yk0/100.KLIMAITALIA-LISTINO-AGGIORNATO-2026-ITALIA-pag-6.pdf?rlkey=ig81swvt2lsk48jxnnxyoplm6&dl=0?raw=1",
+                  "dimensione_kb": 115,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_28 DONADIO NICOLETTA FRIGOBIBITE/100.KLIMAITALIA LISTINO AGGIORNATO 2026 ITALIA pag 6.pdf"
+                },
+                {
+                  "nome": "KLIMAITALIA CL 1100-1300 2G SL SCHEDA TECNICA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/n6irewpubqxrtmq87bfwh/KLIMAITALIA-CL-1100-1300-2G-SL-SCHEDA-TECNICA.pdf?rlkey=su40w60ku507tpfqj0b45b43b&dl=0?raw=1",
+                  "dimensione_kb": 410,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_28 DONADIO NICOLETTA FRIGOBIBITE/KLIMAITALIA CL 1100-1300 2G SL SCHEDA TECNICA.pdf"
+                },
+                {
+                  "nome": "KLIMAITALIA CL_801_1100_1300_V2GCSL SCHEDA TECNICA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ivpfg6bz8czsazd49bk3f/KLIMAITALIA-CL_801_1100_1300_V2GCSL-SCHEDA-TECNICA.pdf?rlkey=5h14ab3fw4xp9193km4ueg3hp&dl=0?raw=1",
+                  "dimensione_kb": 498,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_28 DONADIO NICOLETTA FRIGOBIBITE/KLIMAITALIA CL_801_1100_1300_V2GCSL SCHEDA TECNICA.pdf"
+                }
+              ],
               "_totale_file": 3
             },
             {
@@ -68491,7 +68531,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5503
+          "_totale_file": 5506
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -69243,6 +69283,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/EUROPAPOLICE SRL Ordine cliente_260330_20260728_111028 RIF. SANIFICATORE DA PAVIMENTO ALL'OZONO MOD. O3 TOWER 28, PRODUZ.pdf"
             },
             {
+              "nome": "EVRA S.R.L. SOCIETA' BENEFIT Ordine cliente_260476_20260928_162754 RIF. MACINA SPEZIE Basato su Offerte di vendita 260429..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/q41bjejwrfyaz7lpviv4j/EVRA-S.R.L.-SOCIETA-BENEFIT-Ordine-cliente_260476_20260928_162754-RIF.-MACINA-SPEZIE-Basato-su-Offerte-di-vendita-260429..pdf?rlkey=rzcztfdjgvwj4e7joedd1nqc1&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/EVRA S.R.L. SOCIETA' BENEFIT Ordine cliente_260476_20260928_162754 RIF. MACINA SPEZIE Basato su Offerte di vendita 260429..pdf"
+            },
+            {
               "nome": "FA TU PIZZA AND MORE FA TU SRL Ordine cliente_260167_20260524_212913.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69497,6 +69545,14 @@
               "link": "https://www.dropbox.com/scl/fi/wnu66cos4i0ngajnr4ifo/GRAN-SOLE-S.r.l.-Ordine-cliente_260454_20260915_095535-RIF.-DETERGENTE-RATIONAL-AUTODOSE.pdf?rlkey=yrgjxlo1tfjmrfv6pstkqumjo&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GRAN SOLE S.r.l. Ordine cliente_260454_20260915_095535 RIF. DETERGENTE RATIONAL AUTODOSE.pdf"
+            },
+            {
+              "nome": "GRAN SOLE S.r.l. Ordine cliente_260477_20260928_173205 RIF. COPRICEPPO E LAMA SEGAOSSI CONSEGNA PRESSO PUNTO VENDITA DI MARATEA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nvr27sc4136ppmnmcn2dd/GRAN-SOLE-S.r.l.-Ordine-cliente_260477_20260928_173205-RIF.-COPRICEPPO-E-LAMA-SEGAOSSI-CONSEGNA-PRESSO-PUNTO-VENDITA-DI-MARATEA.pdf?rlkey=f9czfvf72xpozemxnncurt7ll&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GRAN SOLE S.r.l. Ordine cliente_260477_20260928_173205 RIF. COPRICEPPO E LAMA SEGAOSSI CONSEGNA PRESSO PUNTO VENDITA DI MARATEA.pdf"
             },
             {
               "nome": "GRISOLIA DOMENICO Ordine cliente_260085_20260710_175651 RIF. COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 26007.pdf",
@@ -70995,6 +71051,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Ordine cliente_260298_20260722_121210 RIF. TIMER 120 SEC. 23050Hz CON RISCIACQIP E SCARICO REGOLABILI.pdf"
             },
             {
+              "nome": "SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Ordine cliente_260475_20260928_101513 RIF. NASTRO IN TESSUTO VETRO P.T.F.E ADESIVO H27.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/p3goz8dq3acuohijw4nyo/SUSHIEXPERIENCE-di-CISNEROS-BARRIOS-JESUS-ALBERTO-Ordine-cliente_260475_20260928_101513-RIF.-NASTRO-IN-TESSUTO-VETRO-P.T.F.E-ADESIVO-H27.pdf?rlkey=sor704dpawsrrzv5ixxs94kjn&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/SUSHIEXPERIENCE di CISNEROS BARRIOS JESUS ALBERTO Ordine cliente_260475_20260928_101513 RIF. NASTRO IN TESSUTO VETRO P.T.F.E ADESIVO H27.pdf"
+            },
+            {
               "nome": "Salumificio VALENTINO snc Ordine cliente_260388_20260812_114822 RIF. HOTELLERIE Basato su Offerte di vendita 260350..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -71235,7 +71299,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 342
+          "_totale_file": 345
         }
       ],
       "file": []
