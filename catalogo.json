@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-29T05:53:37Z",
-  "totale_file": 27150,
+  "generato": "2026-09-29T08:02:57Z",
+  "totale_file": 27151,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -193162,7 +193162,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5156,
+      "totale_file": 5157,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -212571,7 +212571,7 @@
                       "nome": "ARISTARCO CONFERMA ORV_1968545_2024_1_986_1022024 RIF.MAG 02_2024.PDF",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/nsd271prptgpb6u9b0nfu/ARISTARCO-CONFERMA-ORV_1968545_2024_1_986_1022024-RIF.MAG-02_2024.PDF?rlkey=afls8kalxh66rk7wagucwmt7u&dl=0?raw=1",
                       "dimensione_kb": 123,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/ARISTARCO ORDINI D'ACQUISTO ARCHIVIO/ARISTARCO CONFERMA ORV_1968545_2024_1_986_1022024 RIF.MAG 02_2024.PDF"
                     },
@@ -236322,6 +236322,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA DISEGNO RINTELLI POSIZIONE PORTA.pdf"
                 },
                 {
+                  "nome": "MISA RICHIESTA DI OFFERTA CELLA RIF. SUSHI EXPERIENCE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xlwv5ah6qo7aaqio09bdj/MISA-RICHIESTA-DI-OFFERTA-CELLA-RIF.-SUSHI-EXPERIENCE.pdf?rlkey=x1n36ux9cokdvp9yj26jjqeq4&dl=0?raw=1",
+                  "dimensione_kb": 351,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA RICHIESTA DI OFFERTA CELLA RIF. SUSHI EXPERIENCE.pdf"
+                },
+                {
                   "nome": "MISA SO20262401_VICECONTI - Conferma Ordine RIF.MACELLERIA COSENTINO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -236346,7 +236354,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MISA CONFERME D'ORDINE/MISA SRL Ordine dacquisto_260236_20260915_163833 RIF. MACELLERIA COSENTNO.pdf"
                 }
               ],
-              "_totale_file": 14
+              "_totale_file": 15
             }
           ],
           "file": [
@@ -236719,7 +236727,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3832
+          "_totale_file": 3833
         }
       ],
       "file": []
