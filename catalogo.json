@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-30T00:34:02Z",
-  "totale_file": 27156,
+  "generato": "2026-09-30T02:37:48Z",
+  "totale_file": 27159,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -149796,7 +149796,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4493,
+      "totale_file": 4496,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -168572,9 +168572,17 @@
               "link": "https://www.dropbox.com/scl/fi/gubi6aeatx5s3179cu18d/100.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf?rlkey=d2xs1q48eq7q0w0iv55j5q09l&dl=0?raw=1",
               "dimensione_kb": 12899,
               "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/100.FORCAR_REFRIGERATION_FORCOLD_Catalogue_Price_25.26.pdf"
+            },
+            {
+              "nome": "FIMAR guida_ecommerce.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/471e8cj5qe3liern7esai/FIMAR-guida_ecommerce.pdf?rlkey=z0gqiof3hexomdjoyiqi8ycdv&dl=0?raw=1",
+              "dimensione_kb": 7075,
+              "path": "/HUB DOCUMENTALE/FORNITORI/FIMAR/FIMAR guida_ecommerce.pdf"
             }
           ],
-          "_totale_file": 72
+          "_totale_file": 73
         },
         {
           "nome": "FIMEL",
@@ -182572,6 +182580,46 @@
           "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR",
           "cartelle": [
             {
+              "nome": "ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/ARCHIVIO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "MODULA LISTINO 07_2025.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/kmj2nf6v3j9xn0b1yw7a0/MODULA-LISTINO-07_2025.jpg?rlkey=8jbpfn0qbtt9qvw3tjylfypql&dl=0?raw=1",
+                  "dimensione_kb": 21,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/ARCHIVIO/MODULA LISTINO 07_2025.jpg"
+                },
+                {
+                  "nome": "MODULAR LISTINO 2025-it.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7pajifpcxri96irob3pct/MODULAR-LISTINO-2025-it.pdf?rlkey=sbefwveestmszrezrd4xtbqpy&dl=0?raw=1",
+                  "dimensione_kb": 26547,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/ARCHIVIO/MODULAR LISTINO 2025-it.pdf"
+                },
+                {
+                  "nome": "MODULAR Listino_Cottura.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k4x5jc9ft13b1l7ocdwbr/MODULAR-Listino_Cottura.pdf?rlkey=y5wtmifeph9nhicki2yqckm75&dl=0?raw=1",
+                  "dimensione_kb": 136422,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/ARCHIVIO/MODULAR Listino_Cottura.pdf"
+                },
+                {
+                  "nome": "MODULAR Listino_Lavaggio_052022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3thsgbbbsx1elzq1wg5qo/MODULAR-Listino_Lavaggio_052022.pdf?rlkey=mivx7xm3un1mq68x52bgc8wv5&dl=0?raw=1",
+                  "dimensione_kb": 780,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/ARCHIVIO/MODULAR Listino_Lavaggio_052022.pdf"
+                }
+              ],
+              "_totale_file": 4
+            },
+            {
               "nome": "BALANCE",
               "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/BALANCE",
               "cartelle": [],
@@ -182612,8 +182660,96 @@
               "_totale_file": 2
             },
             {
-              "nome": "MODULAR SCHEDE TECNICHE",
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE",
+              "nome": "MODULAR CONDIZIONI COMMERCIALI",
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR CONDIZIONI COMMERCIALI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "APPOGGIO INTESA SAN PAOLO.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xkgbb8a6bmqtbtbutqmaz/APPOGGIO-INTESA-SAN-PAOLO.PDF?rlkey=qj4wjxvvtryrsew68v0erp9mr&dl=0?raw=1",
+                  "dimensione_kb": 33,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR CONDIZIONI COMMERCIALI/APPOGGIO INTESA SAN PAOLO.PDF"
+                },
+                {
+                  "nome": "MODULAR CONDIZIONI COMMERCIALI EMAIL TOCCANE 09_2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3jzwuxe3yqhsx6ejzl6vm/MODULAR-CONDIZIONI-COMMERCIALI-EMAIL-TOCCANE-09_2024.pdf?rlkey=3tfqvbmu4vhfdwqkk797d0d45&dl=0?raw=1",
+                  "dimensione_kb": 433,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR CONDIZIONI COMMERCIALI/MODULAR CONDIZIONI COMMERCIALI EMAIL TOCCANE 09_2024.pdf"
+                },
+                {
+                  "nome": "MODULAR FORMAT CLI 05.12.22 VICECONTI SNC.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/pivmj5oktmvg96ueai8q9/MODULAR-FORMAT-CLI-05.12.22-VICECONTI-SNC.xlsx?rlkey=6aks79iq2ejqa3us10zgwtba2&dl=0?raw=1",
+                  "dimensione_kb": 85,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR CONDIZIONI COMMERCIALI/MODULAR FORMAT CLI 05.12.22 VICECONTI SNC.xlsx"
+                }
+              ],
+              "_totale_file": 3
+            },
+            {
+              "nome": "MODULAR DOCUMENTI AMMINISTRATIVI",
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR DOCUMENTI AMMINISTRATIVI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "AUTORIZZAZIONE_RESO_nr_072_2026_VICECONTI_SNC.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oy3ep42v4w8w33e5gp0rd/AUTORIZZAZIONE_RESO_nr_072_2026_VICECONTI_SNC.pdf?rlkey=udx46wrzjrdsd2zihwl431med&dl=0?raw=1",
+                  "dimensione_kb": 116,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR DOCUMENTI AMMINISTRATIVI/AUTORIZZAZIONE_RESO_nr_072_2026_VICECONTI_SNC.pdf"
+                },
+                {
+                  "nome": "Modular Professional SRL_000565_2026-03-31.xml.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/zkce87098annd21ujwd36/Modular-Professional-SRL_000565_2026-03-31.xml.html?rlkey=jo48uy1z5uiuzr2gj2m2q61bo&dl=0?raw=1",
+                  "dimensione_kb": 16,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR DOCUMENTI AMMINISTRATIVI/Modular Professional SRL_000565_2026-03-31.xml.html"
+                },
+                {
+                  "nome": "Modular Professional SRL_000649_2026-04-27.xml.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/qr5nk7escj30d3segq7uh/Modular-Professional-SRL_000649_2026-04-27.xml.html?rlkey=68emh0s2f00p5h28un2n2jsme&dl=0?raw=1",
+                  "dimensione_kb": 15,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR DOCUMENTI AMMINISTRATIVI/Modular Professional SRL_000649_2026-04-27.xml.html"
+                },
+                {
+                  "nome": "Modular Professional SRL_000786_2026-04-30.xml.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/sgbn5w8ywplmy47swrb1a/Modular-Professional-SRL_000786_2026-04-30.xml.html?rlkey=koxw57tzdob3jbddd7bh1px13&dl=0?raw=1",
+                  "dimensione_kb": 13,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR DOCUMENTI AMMINISTRATIVI/Modular Professional SRL_000786_2026-04-30.xml.html"
+                },
+                {
+                  "nome": "Modular Professional SRL_000878_2026-05-29.xml.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/p18vgzhzz5pv9sbandcdi/Modular-Professional-SRL_000878_2026-05-29.xml.html?rlkey=6pab0vqmqwz1v5y86ysvmc05h&dl=0?raw=1",
+                  "dimensione_kb": 15,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR DOCUMENTI AMMINISTRATIVI/Modular Professional SRL_000878_2026-05-29.xml.html"
+                },
+                {
+                  "nome": "Modular Professional SRL_001090_2026-06-26.xml.html",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/w86xg7dwztz7c5z2b2aki/Modular-Professional-SRL_001090_2026-06-26.xml.html?rlkey=g7ih3pmpt319si1d2ckl1k0lj&dl=0?raw=1",
+                  "dimensione_kb": 13,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR DOCUMENTI AMMINISTRATIVI/Modular Professional SRL_001090_2026-06-26.xml.html"
+                }
+              ],
+              "_totale_file": 6
+            },
+            {
+              "nome": "MODULAR SCHEDE TECNICHE E MANUALI",
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE E MANUALI",
               "cartelle": [],
               "file": [
                 {
@@ -182622,7 +182758,7 @@
                   "icona": "🖼️",
                   "link": "https://www.dropbox.com/scl/fi/wrbtt8mdjpuvkssgtmxhn/FRYTOP-1.jpeg?rlkey=7y0cujlgw7bak7t9owiuc1lp9&dl=0?raw=1",
                   "dimensione_kb": 103,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE/FRYTOP 1.jpeg"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE E MANUALI/FRYTOP 1.jpeg"
                 },
                 {
                   "nome": "FRYTOP 2.jpeg",
@@ -182630,7 +182766,7 @@
                   "icona": "🖼️",
                   "link": "https://www.dropbox.com/scl/fi/is1eerxg8w11tc9jaspep/FRYTOP-2.jpeg?rlkey=dw0r7wpmtcjmcv9hxjcdmz31u&dl=0?raw=1",
                   "dimensione_kb": 141,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE/FRYTOP 2.jpeg"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE E MANUALI/FRYTOP 2.jpeg"
                 },
                 {
                   "nome": "FRYTOP 3.jpg",
@@ -182638,20 +182774,52 @@
                   "icona": "🖼️",
                   "link": "https://www.dropbox.com/scl/fi/4pnshsuzpyxlpx2yizz2s/FRYTOP-3.jpg?rlkey=j61ojhgywnd2r11u5ficgl13j&dl=0?raw=1",
                   "dimensione_kb": 57,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE/FRYTOP 3.jpg"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE E MANUALI/FRYTOP 3.jpg"
+                },
+                {
+                  "nome": "Gmail - R_ RICHIESTA SPINE ELETTRICHE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nw1x0t30exk203u52d3w5/Gmail-R_-RICHIESTA-SPINE-ELETTRICHE.pdf?rlkey=mp2m66asi0f6yswoga748wn7x&dl=0?raw=1",
+                  "dimensione_kb": 316,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE E MANUALI/Gmail - R_ RICHIESTA SPINE ELETTRICHE.pdf"
+                },
+                {
+                  "nome": "Manuale utente Qubi_multilingua.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/2reubdqu6hxkonvsu2shy/Manuale-utente-Qubi_multilingua.pdf?rlkey=d29v0nc2aphbm07kiin2eecaj&dl=0?raw=1",
+                  "dimensione_kb": 20878,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE E MANUALI/Manuale utente Qubi_multilingua.pdf"
+                },
+                {
+                  "nome": "NC16140100010_Manuale di installazione forni QUBI_IT-EN-FR-DE-ES (1).pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ox7wq8p87w25vjsi0k6of/NC16140100010_Manuale-di-installazione-forni-QUBI_IT-EN-FR-DE-ES-1.pdf?rlkey=zvqwipvb6h13mjus9y9su6vri&dl=0?raw=1",
+                  "dimensione_kb": 8299,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE E MANUALI/NC16140100010_Manuale di installazione forni QUBI_IT-EN-FR-DE-ES (1).pdf"
+                },
+                {
+                  "nome": "NC1614010010_Manuale di installazione forni QUBI_IT.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jts15qr2k42spr0npx7kb/NC1614010010_Manuale-di-installazione-forni-QUBI_IT.PDF?rlkey=r8klzqf82gr2zas3krmru1nc6&dl=0?raw=1",
+                  "dimensione_kb": 1890,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR SCHEDE TECNICHE E MANUALI/NC1614010010_Manuale di installazione forni QUBI_IT.PDF"
                 }
               ],
-              "_totale_file": 3
+              "_totale_file": 7
             }
           ],
           "file": [
             {
-              "nome": "100.MODULAR LISTINO 2025-it.pdf",
+              "nome": "100.MODULAR listino-prezzi-modular-26-it.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/7pajifpcxri96irob3pct/100.MODULAR-LISTINO-2025-it.pdf?rlkey=sbefwveestmszrezrd4xtbqpy&dl=0?raw=1",
-              "dimensione_kb": 26547,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/100.MODULAR LISTINO 2025-it.pdf"
+              "link": "https://www.dropbox.com/scl/fi/rmqu3u017v3cmzbpfvuap/100.MODULAR-listino-prezzi-modular-26-it.pdf?rlkey=f69z1t4tfm2of9l1wfv5iowjp&dl=0?raw=1",
+              "dimensione_kb": 25872,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/100.MODULAR listino-prezzi-modular-26-it.pdf"
             },
             {
               "nome": "100.NEVO_QUIBI LISTINO 2025.pdf",
@@ -182662,134 +182830,6 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/100.NEVO_QUIBI LISTINO 2025.pdf"
             },
             {
-              "nome": "APPOGGIO INTESA SAN PAOLO.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xkgbb8a6bmqtbtbutqmaz/APPOGGIO-INTESA-SAN-PAOLO.PDF?rlkey=qj4wjxvvtryrsew68v0erp9mr&dl=0?raw=1",
-              "dimensione_kb": 33,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/APPOGGIO INTESA SAN PAOLO.PDF"
-            },
-            {
-              "nome": "AUTORIZZAZIONE_RESO_nr_072_2026_VICECONTI_SNC.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/oy3ep42v4w8w33e5gp0rd/AUTORIZZAZIONE_RESO_nr_072_2026_VICECONTI_SNC.pdf?rlkey=udx46wrzjrdsd2zihwl431med&dl=0?raw=1",
-              "dimensione_kb": 116,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/AUTORIZZAZIONE_RESO_nr_072_2026_VICECONTI_SNC.pdf"
-            },
-            {
-              "nome": "Gmail - R_ RICHIESTA SPINE ELETTRICHE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nw1x0t30exk203u52d3w5/Gmail-R_-RICHIESTA-SPINE-ELETTRICHE.pdf?rlkey=mp2m66asi0f6yswoga748wn7x&dl=0?raw=1",
-              "dimensione_kb": 316,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Gmail - R_ RICHIESTA SPINE ELETTRICHE.pdf"
-            },
-            {
-              "nome": "MODULA LISTINO 07_2025.jpg",
-              "tipo": "Immagine",
-              "icona": "🖼️",
-              "link": "https://www.dropbox.com/scl/fi/kmj2nf6v3j9xn0b1yw7a0/MODULA-LISTINO-07_2025.jpg?rlkey=8jbpfn0qbtt9qvw3tjylfypql&dl=0?raw=1",
-              "dimensione_kb": 21,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULA LISTINO 07_2025.jpg"
-            },
-            {
-              "nome": "MODULAR CONDIZIONI COMMERCIALI EMAIL TOCCANE 09_2024.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/3jzwuxe3yqhsx6ejzl6vm/MODULAR-CONDIZIONI-COMMERCIALI-EMAIL-TOCCANE-09_2024.pdf?rlkey=3tfqvbmu4vhfdwqkk797d0d45&dl=0?raw=1",
-              "dimensione_kb": 433,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR CONDIZIONI COMMERCIALI EMAIL TOCCANE 09_2024.pdf"
-            },
-            {
-              "nome": "MODULAR FORMAT CLI 05.12.22 VICECONTI SNC.xlsx",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/pivmj5oktmvg96ueai8q9/MODULAR-FORMAT-CLI-05.12.22-VICECONTI-SNC.xlsx?rlkey=6aks79iq2ejqa3us10zgwtba2&dl=0?raw=1",
-              "dimensione_kb": 85,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR FORMAT CLI 05.12.22 VICECONTI SNC.xlsx"
-            },
-            {
-              "nome": "MODULAR Listino_Cottura.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/k4x5jc9ft13b1l7ocdwbr/MODULAR-Listino_Cottura.pdf?rlkey=y5wtmifeph9nhicki2yqckm75&dl=0?raw=1",
-              "dimensione_kb": 136422,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR Listino_Cottura.pdf"
-            },
-            {
-              "nome": "MODULAR Listino_Lavaggio_052022.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/3thsgbbbsx1elzq1wg5qo/MODULAR-Listino_Lavaggio_052022.pdf?rlkey=mivx7xm3un1mq68x52bgc8wv5&dl=0?raw=1",
-              "dimensione_kb": 780,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/MODULAR Listino_Lavaggio_052022.pdf"
-            },
-            {
-              "nome": "Manuale utente Qubi_multilingua.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2reubdqu6hxkonvsu2shy/Manuale-utente-Qubi_multilingua.pdf?rlkey=d29v0nc2aphbm07kiin2eecaj&dl=0?raw=1",
-              "dimensione_kb": 20878,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Manuale utente Qubi_multilingua.pdf"
-            },
-            {
-              "nome": "Modular Professional SRL_000565_2026-03-31.xml.html",
-              "tipo": "File",
-              "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/zkce87098annd21ujwd36/Modular-Professional-SRL_000565_2026-03-31.xml.html?rlkey=jo48uy1z5uiuzr2gj2m2q61bo&dl=0?raw=1",
-              "dimensione_kb": 16,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Modular Professional SRL_000565_2026-03-31.xml.html"
-            },
-            {
-              "nome": "Modular Professional SRL_000649_2026-04-27.xml.html",
-              "tipo": "File",
-              "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/qr5nk7escj30d3segq7uh/Modular-Professional-SRL_000649_2026-04-27.xml.html?rlkey=68emh0s2f00p5h28un2n2jsme&dl=0?raw=1",
-              "dimensione_kb": 15,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Modular Professional SRL_000649_2026-04-27.xml.html"
-            },
-            {
-              "nome": "Modular Professional SRL_000786_2026-04-30.xml.html",
-              "tipo": "File",
-              "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/sgbn5w8ywplmy47swrb1a/Modular-Professional-SRL_000786_2026-04-30.xml.html?rlkey=koxw57tzdob3jbddd7bh1px13&dl=0?raw=1",
-              "dimensione_kb": 13,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Modular Professional SRL_000786_2026-04-30.xml.html"
-            },
-            {
-              "nome": "Modular Professional SRL_000878_2026-05-29.xml.html",
-              "tipo": "File",
-              "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/p18vgzhzz5pv9sbandcdi/Modular-Professional-SRL_000878_2026-05-29.xml.html?rlkey=6pab0vqmqwz1v5y86ysvmc05h&dl=0?raw=1",
-              "dimensione_kb": 15,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Modular Professional SRL_000878_2026-05-29.xml.html"
-            },
-            {
-              "nome": "Modular Professional SRL_001090_2026-06-26.xml.html",
-              "tipo": "File",
-              "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/w86xg7dwztz7c5z2b2aki/Modular-Professional-SRL_001090_2026-06-26.xml.html?rlkey=g7ih3pmpt319si1d2ckl1k0lj&dl=0?raw=1",
-              "dimensione_kb": 13,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/Modular Professional SRL_001090_2026-06-26.xml.html"
-            },
-            {
-              "nome": "NC16140100010_Manuale di installazione forni QUBI_IT-EN-FR-DE-ES (1).pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ox7wq8p87w25vjsi0k6of/NC16140100010_Manuale-di-installazione-forni-QUBI_IT-EN-FR-DE-ES-1.pdf?rlkey=zvqwipvb6h13mjus9y9su6vri&dl=0?raw=1",
-              "dimensione_kb": 8299,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/NC16140100010_Manuale di installazione forni QUBI_IT-EN-FR-DE-ES (1).pdf"
-            },
-            {
-              "nome": "NC1614010010_Manuale di installazione forni QUBI_IT.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/jts15qr2k42spr0npx7kb/NC1614010010_Manuale-di-installazione-forni-QUBI_IT.PDF?rlkey=r8klzqf82gr2zas3krmru1nc6&dl=0?raw=1",
-              "dimensione_kb": 1890,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/NC1614010010_Manuale di installazione forni QUBI_IT.PDF"
-            },
-            {
               "nome": "listino-nevo SCARICATO IL 14_01_2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -182798,7 +182838,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/listino-nevo SCARICATO IL 14_01_2025.pdf"
             }
           ],
-          "_totale_file": 25
+          "_totale_file": 26
         },
         {
           "nome": "MOLTENI",
@@ -190812,6 +190852,22 @@
             }
           ],
           "_totale_file": 8
+        },
+        {
+          "nome": "TNK",
+          "path": "/HUB DOCUMENTALE/FORNITORI/TNK",
+          "cartelle": [],
+          "file": [
+            {
+              "nome": "TNK Sales Academy - Contatti Utili.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iq3z1lrs826n9ube34ztn/TNK-Sales-Academy-Contatti-Utili.pdf?rlkey=j40avqdvbev5xsemek2uqgmka&dl=0?raw=1",
+              "dimensione_kb": 350,
+              "path": "/HUB DOCUMENTALE/FORNITORI/TNK/TNK Sales Academy - Contatti Utili.pdf"
+            }
+          ],
+          "_totale_file": 1
         },
         {
           "nome": "TOMA",
