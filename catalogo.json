@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-30T02:37:48Z",
-  "totale_file": 27159,
+  "generato": "2026-09-30T06:02:29Z",
+  "totale_file": 27204,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7120,
+      "totale_file": 7165,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1406,6 +1406,14 @@
               "link": "https://www.dropbox.com/scl/fi/gqolc9u3a96relte9ieng/ESCOPOCO-S.R.L.-Consegna_260524_20260705_172843-RIF.-ASSISTENZA-SU-FORNO-QUBI-DECALCIFICAZIONE-CIRCUITO-RIEMPIMEN.pdf?rlkey=os8mfjahn36qgkgm1uh5xn7qu&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ESCOPOCO S.R.L. Consegna_260524_20260705_172843 RIF. ASSISTENZA SU FORNO QUBI DECALCIFICAZIONE CIRCUITO RIEMPIMEN.pdf"
+            },
+            {
+              "nome": "EVRA S.R.L. SOCIETA' BENEFIT Consegna_260847_20260929_095618 RIF. MACINA SPEZIE Basato su Offerte di vendita 260429. Basato su Ordini cliente.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/79t2n008su494q3y9yun1/EVRA-S.R.L.-SOCIETA-BENEFIT-Consegna_260847_20260929_095618-RIF.-MACINA-SPEZIE-Basato-su-Offerte-di-vendita-260429.-Basato-su-Ordini-cliente.pdf?rlkey=rfxnvalvck90qsauyb5mi5cl0&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/EVRA S.R.L. SOCIETA' BENEFIT Consegna_260847_20260929_095618 RIF. MACINA SPEZIE Basato su Offerte di vendita 260429. Basato su Ordini cliente.pdf"
             },
             {
               "nome": "FA TU PIZZA AND MORE FA TU SRL Consegna_221534_20260828_220518 RIF. MATRICOLA Spesa di EURO 8.328,60 rendicontata a valere sul credito d imposta pre.pdf",
@@ -4816,7 +4824,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 600
+          "_totale_file": 601
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -5638,6 +5646,14 @@
               "link": "https://www.dropbox.com/scl/fi/7xtuqlg9uniw4ltyqo74l/ESCOPOCO-S.R.L.-Fattura-di-vendita_2600344_20260730_204719-RIF.-DETERGENTE-FORNO-QUIBI-Basato-su-Ordini-cliente-260250.-Basa.pdf?rlkey=v0qjimqpncgqceh2f53lp9wd2&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ESCOPOCO S.R.L. Fattura di vendita_2600344_20260730_204719 RIF. DETERGENTE FORNO QUIBI Basato su Ordini cliente 260250. Basa.pdf"
+            },
+            {
+              "nome": "EVRA S.R.L. SOCIETA' BENEFIT Fattura di vendita_2600488_20260929_095643 RIF. MACINA SPEZIE Basato su Offerte di vendita 260429. Basato su Ordini cliente.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/htgw3ez634zsp75eagjkz/EVRA-S.R.L.-SOCIETA-BENEFIT-Fattura-di-vendita_2600488_20260929_095643-RIF.-MACINA-SPEZIE-Basato-su-Offerte-di-vendita-260429.-Basato-su-Ordini-cliente.pdf?rlkey=chlbw71gqtj91kcwpwjmq0guw&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/EVRA S.R.L. SOCIETA' BENEFIT Fattura di vendita_2600488_20260929_095643 RIF. MACINA SPEZIE Basato su Offerte di vendita 260429. Basato su Ordini cliente.pdf"
             },
             {
               "nome": "F2G SRLS Fattura di vendita_2300822_20260728_124117 RIF. Bene agevolabile ai sensi dell'articolo 1, commi da 98 a 108.pdf",
@@ -8136,7 +8152,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 414
+          "_totale_file": 415
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -12397,6 +12413,358 @@
                 }
               ],
               "_totale_file": 3
+            },
+            {
+              "nome": "2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "100.IDEAM INOX PUGLIAINOX Listino 2022-ArredamentoAcciaio codice ECPAM 28_9.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k8r05si0daubm3mvmewby/100.IDEAM-INOX-PUGLIAINOX-Listino-2022-ArredamentoAcciaio-codice-ECPAM-28_9.pdf?rlkey=5qdowl677fr1psmiiq9xnk9qp&dl=0?raw=1",
+                  "dimensione_kb": 34,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/100.IDEAM INOX PUGLIAINOX Listino 2022-ArredamentoAcciaio codice ECPAM 28_9.pdf"
+                },
+                {
+                  "nome": "51BP2625_fuochi_c-bacinelle_CERTIFICATO_DI_ESAME_UE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jvbuw1vff7m1maclicblc/51BP2625_fuochi_c-bacinelle_CERTIFICATO_DI_ESAME_UE.pdf?rlkey=fjrk7ob6k00eb7ygrstfduxos&dl=0?raw=1",
+                  "dimensione_kb": 1076,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/51BP2625_fuochi_c-bacinelle_CERTIFICATO_DI_ESAME_UE.pdf"
+                },
+                {
+                  "nome": "51CO4317_Friggitrici_tubi_in_vasca_CERTIFICATO_DI_ESAME_UE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1jhvizv9dn7vgdjuj94sk/51CO4317_Friggitrici_tubi_in_vasca_CERTIFICATO_DI_ESAME_UE.pdf?rlkey=njzcn60aiy6fjg1lym2x1ds2f&dl=0?raw=1",
+                  "dimensione_kb": 764,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/51CO4317_Friggitrici_tubi_in_vasca_CERTIFICATO_DI_ESAME_UE.pdf"
+                },
+                {
+                  "nome": "CERTIFICATO_DI_ESAME_UE_51BQ2872_27032023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/uzsdgbnh9ambf4t1hnzov/CERTIFICATO_DI_ESAME_UE_51BQ2872_27032023.pdf?rlkey=m0mcw5l3f7bfm9oy9ujhyt48k&dl=0?raw=1",
+                  "dimensione_kb": 806,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/CERTIFICATO_DI_ESAME_UE_51BQ2872_27032023.pdf"
+                },
+                {
+                  "nome": "CERTIFICATO_DI_ESAME_UE_51CO4343_18112022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6mmz9dovijonxb2mrezvy/CERTIFICATO_DI_ESAME_UE_51CO4343_18112022.pdf?rlkey=rmfu0zii856a9obexdx9xqmkn&dl=0?raw=1",
+                  "dimensione_kb": 767,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/CERTIFICATO_DI_ESAME_UE_51CO4343_18112022.pdf"
+                },
+                {
+                  "nome": "CUCINA 4 FUOCHI SU VANO CON PORTE LINEA FUN F70-70PCGB-P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1t7y31acrwcq36tade3d6/CUCINA-4-FUOCHI-SU-VANO-CON-PORTE-LINEA-FUN-F70-70PCGB-P.pdf?rlkey=1uricceulezk9d3mnk5untpj1&dl=0?raw=1",
+                  "dimensione_kb": 208,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/CUCINA 4 FUOCHI SU VANO CON PORTE LINEA FUN F70-70PCGB-P.pdf"
+                },
+                {
+                  "nome": "CUOCIPASTA A GAS MODULAR LINEA FUN F70-40CPG-1V40-P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qn9kawpgzurj5vf1usdt8/CUOCIPASTA-A-GAS-MODULAR-LINEA-FUN-F70-40CPG-1V40-P.pdf?rlkey=d5ulxpro0n529q2au06g8yvpj&dl=0?raw=1",
+                  "dimensione_kb": 119,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/CUOCIPASTA A GAS MODULAR LINEA FUN F70-40CPG-1V40-P.pdf"
+                },
+                {
+                  "nome": "DATI_TECNICI_F70-40CPG-1V40-P.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/08q2ctgtp806a18prupim/DATI_TECNICI_F70-40CPG-1V40-P.json?rlkey=y4smyn7aaw2y384uvyqrjsab6&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/DATI_TECNICI_F70-40CPG-1V40-P.json"
+                },
+                {
+                  "nome": "DATI_TECNICI_F70-40FRGV-1V13-P.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/7m2d0lotdxexws3nsbnee/DATI_TECNICI_F70-40FRGV-1V13-P.json?rlkey=h4e3i2atu412k6305p83e0rca&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/DATI_TECNICI_F70-40FRGV-1V13-P.json"
+                },
+                {
+                  "nome": "DATI_TECNICI_F70-40GRLG-P.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/zd1naldmfzg9ga29vxask/DATI_TECNICI_F70-40GRLG-P.json?rlkey=0z6w3c6lovaqw5x3qjvz0tuit&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/DATI_TECNICI_F70-40GRLG-P.json"
+                },
+                {
+                  "nome": "DATI_TECNICI_F70-40GRLI-P.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/ozy1h1v9ve47q5cw6y7t0/DATI_TECNICI_F70-40GRLI-P.json?rlkey=gz7o8jrgkfl50wzyjqh2be262&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/DATI_TECNICI_F70-40GRLI-P.json"
+                },
+                {
+                  "nome": "DATI_TECNICI_F70-70PCGB-P.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/exqk0rp62gaeg59hokrjb/DATI_TECNICI_F70-70PCGB-P.json?rlkey=jfd78bij29m61y6di6tleyvug&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/DATI_TECNICI_F70-70PCGB-P.json"
+                },
+                {
+                  "nome": "DATI_TECNICI_FC_60_GM_Bertos.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/5rz5b0n2i4afcbtuve9nx/DATI_TECNICI_FC_60_GM_Bertos.json?rlkey=ya8s2bi5cxkfnep85sdpwtev5&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/DATI_TECNICI_FC_60_GM_Bertos.json"
+                },
+                {
+                  "nome": "DRYRUN_CREAZIONE_ARTICOLI_AI_CARCONI.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/a8bc77wpep6yk7048ybai/DRYRUN_CREAZIONE_ARTICOLI_AI_CARCONI.json?rlkey=gypz509jwhrvp3olobgz5tf2h&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/DRYRUN_CREAZIONE_ARTICOLI_AI_CARCONI.json"
+                },
+                {
+                  "nome": "DRYRUN_OFFERTA_SAP_AI_CARCONI.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/gq0x8dttujqhkvrlfaeou/DRYRUN_OFFERTA_SAP_AI_CARCONI.json?rlkey=z1jd9r1uaiobfdrfo7pje1jkr&dl=0?raw=1",
+                  "dimensione_kb": 22,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/DRYRUN_OFFERTA_SAP_AI_CARCONI.json"
+                },
+                {
+                  "nome": "F70-40GRLG-P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9lruldy04rrr7cse4dphz/F70-40GRLG-P.pdf?rlkey=ss21pfxpws7m4cp586r3eovhg&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/F70-40GRLG-P.pdf"
+                },
+                {
+                  "nome": "F70-40GRLI-P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xl80yiqwrja2i4cw2vf61/F70-40GRLI-P.pdf?rlkey=y1365ckzvwiq1plm2ca5ulink&dl=0?raw=1",
+                  "dimensione_kb": 108,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/F70-40GRLI-P.pdf"
+                },
+                {
+                  "nome": "F7040CPG1V40P.dwg",
+                  "tipo": "CAD",
+                  "icona": "📐",
+                  "link": "https://www.dropbox.com/scl/fi/86u5j6oc8cbxtrqb9a0to/F7040CPG1V40P.dwg?rlkey=ufdtez5gs7w1bzekaozm6mgnd&dl=0?raw=1",
+                  "dimensione_kb": 691,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/F7040CPG1V40P.dwg"
+                },
+                {
+                  "nome": "F7040FRGV1V13P.dwg",
+                  "tipo": "CAD",
+                  "icona": "📐",
+                  "link": "https://www.dropbox.com/scl/fi/fiuxhr607156ql01zup8r/F7040FRGV1V13P.dwg?rlkey=wbnfmqfsy702fdmx7wf1g0z8x&dl=0?raw=1",
+                  "dimensione_kb": 692,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/F7040FRGV1V13P.dwg"
+                },
+                {
+                  "nome": "F7040GRLGP.dwg",
+                  "tipo": "CAD",
+                  "icona": "📐",
+                  "link": "https://www.dropbox.com/scl/fi/g7gydv69c3oa64qualkqw/F7040GRLGP.dwg?rlkey=7586s67s5z87z4umteb76ftgo&dl=0?raw=1",
+                  "dimensione_kb": 1465,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/F7040GRLGP.dwg"
+                },
+                {
+                  "nome": "F7070PCGBP.dwg",
+                  "tipo": "CAD",
+                  "icona": "📐",
+                  "link": "https://www.dropbox.com/scl/fi/guo4l3viqnft84op70oq3/F7070PCGBP.dwg?rlkey=hdm7cpji2zmir0l94g6jtblpa&dl=0?raw=1",
+                  "dimensione_kb": 1113,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/F7070PCGBP.dwg"
+                },
+                {
+                  "nome": "FORNO A GAS BERTO'S 6 TEGLIE CON SUPPORTO USATO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/eoevcvsmm0z8tx8364uyw/FORNO-A-GAS-BERTO-S-6-TEGLIE-CON-SUPPORTO-USATO.pdf?rlkey=50yasfqpklprn4t0s4yqiasbu&dl=0?raw=1",
+                  "dimensione_kb": 275,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/FORNO A GAS BERTO'S 6 TEGLIE CON SUPPORTO USATO.pdf"
+                },
+                {
+                  "nome": "FORNO BERTO'S FC 60 GM .txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/3ogv595tywql29zhbthpk/FORNO-BERTO-S-FC-60-GM.txt?rlkey=0vr4bwe5829b8lrlz0lul5ils&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/FORNO BERTO'S FC 60 GM .txt"
+                },
+                {
+                  "nome": "FORNO BERTO'S FC60GM USATO DATI MACCHINA.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/wiqhyk6hdyu559t4ydos1/FORNO-BERTO-S-FC60GM-USATO-DATI-MACCHINA.jpeg?rlkey=d80j569jwlbxdos7qdwg5kh4e&dl=0?raw=1",
+                  "dimensione_kb": 391,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/FORNO BERTO'S FC60GM USATO DATI MACCHINA.jpeg"
+                },
+                {
+                  "nome": "FOTO_FORNO_BERTOS_FC60GM_USATO_DA_VOLANTINO.png",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/cbb32r563e5poqwaqx6kq/FOTO_FORNO_BERTOS_FC60GM_USATO_DA_VOLANTINO.png?rlkey=c54sv98j8aq45mnz0zduox68z&dl=0?raw=1",
+                  "dimensione_kb": 938,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/FOTO_FORNO_BERTOS_FC60GM_USATO_DA_VOLANTINO.png"
+                },
+                {
+                  "nome": "FRIGGITRICE A GAS 13 LITRI MODULAR LINEA FUN F70-40FRGV-1V13-P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lo2na2chzjxdnajra57j6/FRIGGITRICE-A-GAS-13-LITRI-MODULAR-LINEA-FUN-F70-40FRGV-1V13-P.pdf?rlkey=ezuzxixeebfgrx14e5debhk3n&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/FRIGGITRICE A GAS 13 LITRI MODULAR LINEA FUN F70-40FRGV-1V13-P.pdf"
+                },
+                {
+                  "nome": "MC16101160010_LIBRETTO_CUCINE_TUTTAPIASTRA_GAS_FUN_700.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gz5ydmatrggi3i2k8zwk0/MC16101160010_LIBRETTO_CUCINE_TUTTAPIASTRA_GAS_FUN_700.pdf?rlkey=50qwlnmmn856ci9n1o8fqrtwe&dl=0?raw=1",
+                  "dimensione_kb": 6048,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MC16101160010_LIBRETTO_CUCINE_TUTTAPIASTRA_GAS_FUN_700.pdf"
+                },
+                {
+                  "nome": "MC16110160000_LIBRETTO_CUOCIPASTA_FUN.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3wfvmphh7994anihscns8/MC16110160000_LIBRETTO_CUOCIPASTA_FUN.pdf?rlkey=q2uke9gdxx50m8f98o8mlfqhj&dl=0?raw=1",
+                  "dimensione_kb": 4128,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MC16110160000_LIBRETTO_CUOCIPASTA_FUN.pdf"
+                },
+                {
+                  "nome": "MC16116150000_LIBRETTO_FRIGGITRICI_FUN.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/e2wlzj60r4vra5q4y5xo6/MC16116150000_LIBRETTO_FRIGGITRICI_FUN.pdf?rlkey=jdzu0jcmewl14p1nj1w93uomb&dl=0?raw=1",
+                  "dimensione_kb": 4312,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MC16116150000_LIBRETTO_FRIGGITRICI_FUN.pdf"
+                },
+                {
+                  "nome": "MC16122160010_LIBRETTO_GRIGLIE_FUN.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vofxdp2knmuyxgb5b0pd2/MC16122160010_LIBRETTO_GRIGLIE_FUN.pdf?rlkey=cenywrr2j1d76g5lvcz8j1srw&dl=0?raw=1",
+                  "dimensione_kb": 5277,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MC16122160010_LIBRETTO_GRIGLIE_FUN.pdf"
+                },
+                {
+                  "nome": "MP01012113006_Fun_700_Piano_cottura_gas_vano_con_porte_modulo_70_mod.png",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/y1tmxydo3cjvyuq8ecnpd/MP01012113006_Fun_700_Piano_cottura_gas_vano_con_porte_modulo_70_mod.png?rlkey=nf9qq7knwv1gflw9lcsk7ntjq&dl=0?raw=1",
+                  "dimensione_kb": 312,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MP01012113006_Fun_700_Piano_cottura_gas_vano_con_porte_modulo_70_mod.png"
+                },
+                {
+                  "nome": "MP01212113000_Fun700_Cuocipasta_gas_1_vasca_vano_con_porta_modulo_40.svg",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/pjivbtvuhfi9i1sp21jwf/MP01212113000_Fun700_Cuocipasta_gas_1_vasca_vano_con_porta_modulo_40.svg?rlkey=dr7rcd4p4ydguy8e7mfjt6pjy&dl=0?raw=1",
+                  "dimensione_kb": 422,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MP01212113000_Fun700_Cuocipasta_gas_1_vasca_vano_con_porta_modulo_40.svg"
+                },
+                {
+                  "nome": "MP01212113000_Fun_700_Cuocipasta_gas_modulo_40_mod.png",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/8a1s38nbld3rt5sq1wm8n/MP01212113000_Fun_700_Cuocipasta_gas_modulo_40_mod.png?rlkey=b0jdlfs66riprb735dwgilivk&dl=0?raw=1",
+                  "dimensione_kb": 170,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MP01212113000_Fun_700_Cuocipasta_gas_modulo_40_mod.png"
+                },
+                {
+                  "nome": "MP01292113001_Fun20gas2040_mod.png",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/mrk14nh93qv0i8c3hsfts/MP01292113001_Fun20gas2040_mod.png?rlkey=p6uy6bgtr9d4jvw8hperf6ucz&dl=0?raw=1",
+                  "dimensione_kb": 174,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MP01292113001_Fun20gas2040_mod.png"
+                },
+                {
+                  "nome": "MP01292113001_Fun700_Friggitrice_gas_13L_vano_con_porta_modulo_40.svg",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/gqpeudbmvahb5jeacxuhm/MP01292113001_Fun700_Friggitrice_gas_13L_vano_con_porta_modulo_40.svg?rlkey=e83uvv3c7sma532abt2esokmk&dl=0?raw=1",
+                  "dimensione_kb": 213,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MP01292113001_Fun700_Friggitrice_gas_13L_vano_con_porta_modulo_40.svg"
+                },
+                {
+                  "nome": "MP01452113004_Fun_700_Griglia_pietra_lavica_zona_ghisa_vano_con_porta_modulo_40_mod.png",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/trrcxqryjjuo1ss58ekr9/MP01452113004_Fun_700_Griglia_pietra_lavica_zona_ghisa_vano_con_porta_modulo_40_mod.png?rlkey=aqwrhdnogywdgugms82nzz12g&dl=0?raw=1",
+                  "dimensione_kb": 256,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MP01452113004_Fun_700_Griglia_pietra_lavica_zona_ghisa_vano_con_porta_modulo_40_mod.png"
+                },
+                {
+                  "nome": "MP01452113010_Fun700_Griglia_in_pietra_lavica_1_zona_inox_vano_con_porta_modulo_40.svg",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/xrav2hcse50yimonyppnl/MP01452113010_Fun700_Griglia_in_pietra_lavica_1_zona_inox_vano_con_porta_modulo_40.svg?rlkey=hl7vizwkzh7uspk0uxj2c9cdz&dl=0?raw=1",
+                  "dimensione_kb": 319,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MP01452113010_Fun700_Griglia_in_pietra_lavica_1_zona_inox_vano_con_porta_modulo_40.svg"
+                },
+                {
+                  "nome": "MP01452113010_Fun_700_Griglia_pietra_lavica_zona_inox_vano_con_porta_modulo_40_mod.png",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/7n1v68sxe6f5ltop5jjha/MP01452113010_Fun_700_Griglia_pietra_lavica_zona_inox_vano_con_porta_modulo_40_mod.png?rlkey=jjk11gfjc3htap5ek4ruzznge&dl=0?raw=1",
+                  "dimensione_kb": 398,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/MP01452113010_Fun_700_Griglia_pietra_lavica_zona_inox_vano_con_porta_modulo_40_mod.png"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/79per3iw8dydw0g1rdhcp/PREVENTIVO.json?rlkey=t6l9us26r2b8g739fsbie9gff&dl=0?raw=1",
+                  "dimensione_kb": 13,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29_BOZZA.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/188cb4jatoue23f4nzu9o/PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29_BOZZA.md?rlkey=xj3wtd7yrxt5kdddanb1au2vi&dl=0?raw=1",
+                  "dimensione_kb": 8,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29_BOZZA.md"
+                },
+                {
+                  "nome": "PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29_BOZZA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9tz74s1j6jnn5u97oa7q1/PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29_BOZZA.pdf?rlkey=3utmtrtnb7ufxvzq9ni7i79za&dl=0?raw=1",
+                  "dimensione_kb": 3364,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29_BOZZA.pdf"
+                },
+                {
+                  "nome": "REPORT_RISOLUZIONE_AI_CARCONI.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/gbgbt9qmbs8ow9l9s8wuu/REPORT_RISOLUZIONE_AI_CARCONI.md?rlkey=3oq3p53slb30i9rgmtjhkl2zm&dl=0?raw=1",
+                  "dimensione_kb": 10,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/REPORT_RISOLUZIONE_AI_CARCONI.md"
+                },
+                {
+                  "nome": "TRACCIA_AI_CARCONI.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/sdkc7q09xtctsirn55vi1/TRACCIA_AI_CARCONI.md?rlkey=zxw22o5svdrg5mwzx8giknu4x&dl=0?raw=1",
+                  "dimensione_kb": 24,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/TRACCIA_AI_CARCONI.md"
+                }
+              ],
+              "_totale_file": 43
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -68531,7 +68899,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5506
+          "_totale_file": 5549
         },
         {
           "nome": "ORDINI CLIENTE",
