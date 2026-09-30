@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-30T06:02:29Z",
-  "totale_file": 27204,
+  "generato": "2026-09-30T08:13:37Z",
+  "totale_file": 27207,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -193627,7 +193627,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5157,
+      "totale_file": 5160,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -237190,9 +237190,33 @@
               "link": "https://www.dropbox.com/scl/fi/we8srzoblk279r31v3dsh/TESTO-CONFERMA-13499466-conferma-aggiornata-RIF.NS.pdf?rlkey=0oewu7pvq55fyjmks6bhc3n0i&dl=0?raw=1",
               "dimensione_kb": 40,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
+            },
+            {
+              "nome": "UNIVAC CONFERMA Preventivo 3.255_2 del 29_09_2026 RIF.RICAMBI YUMARA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fd1xn890lf8r0a8auaulj/UNIVAC-CONFERMA-Preventivo-3.255_2-del-29_09_2026-RIF.RICAMBI-YUMARA.pdf?rlkey=wdo35s7jkfze3d6aghv4citk1&dl=0?raw=1",
+              "dimensione_kb": 92,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC CONFERMA Preventivo 3.255_2 del 29_09_2026 RIF.RICAMBI YUMARA.pdf"
+            },
+            {
+              "nome": "UNIVAC Conferma d'ordine 2.323_2 del 29_09_2026 RIF.RICAMBI YUMARA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hbye8lqa2caa0ft4659es/UNIVAC-Conferma-d-ordine-2.323_2-del-29_09_2026-RIF.RICAMBI-YUMARA.pdf?rlkey=hmn6l3pm5di46tixugui9qmvu&dl=0?raw=1",
+              "dimensione_kb": 80,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC Conferma d'ordine 2.323_2 del 29_09_2026 RIF.RICAMBI YUMARA.pdf"
+            },
+            {
+              "nome": "VAN BERKEL CONFERMA ORIDNE 002095 RIF. RICAMBI GRAN SOLE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u7houbjszpp3m9gkexbsi/VAN-BERKEL-CONFERMA-ORIDNE-002095-RIF.-RICAMBI-GRAN-SOLE.pdf?rlkey=l1kkij1m6v9i7d7wd661075cm&dl=0?raw=1",
+              "dimensione_kb": 100,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORIDNE 002095 RIF. RICAMBI GRAN SOLE.pdf"
             }
           ],
-          "_totale_file": 3833
+          "_totale_file": 3836
         }
       ],
       "file": []
