@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-30T08:13:37Z",
-  "totale_file": 27207,
+  "generato": "2026-09-30T09:20:17Z",
+  "totale_file": 27208,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -237225,7 +237225,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2454,
+      "totale_file": 2455,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -237706,14 +237706,6 @@
           ],
           "file": [
             {
-              "nome": "2026-09-21 12.07.46.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hj28g3c5h2pu3lqp645x0/2026-09-21-12.07.46.pdf?rlkey=jiw92d68a4tqqu3kt8rfi1m2x&dl=0?raw=1",
-              "dimensione_kb": 317,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/2026-09-21 12.07.46.pdf"
-            },
-            {
               "nome": "ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -237896,6 +237888,14 @@
               "link": "https://www.dropbox.com/scl/fi/i6hs1qaw0ikv384t39qoa/REPA-ITALIA-SRL-COPIA-TITOLO-MPS-05_10_2026-1956-20.pdf?rlkey=oib54xs9akautzbcpydructom&dl=0?raw=1",
               "dimensione_kb": 306,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/REPA ITALIA SRL COPIA TITOLO MPS 05_10_2026 1956,20.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL RICEVUTA RACCOMANDATA 21_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hj28g3c5h2pu3lqp645x0/REPA-ITALIA-SRL-RICEVUTA-RACCOMANDATA-21_09_2026.pdf?rlkey=jiw92d68a4tqqu3kt8rfi1m2x&dl=0?raw=1",
+              "dimensione_kb": 317,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/REPA ITALIA SRL RICEVUTA RACCOMANDATA 21_09_2026.pdf"
             },
             {
               "nome": "SIRMAN COPIA TITOLO BPER SCADENZA 10_09_2026.pdf",
@@ -258988,6 +258988,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/PIAZZA EFFEPI SRL Dettaglio bonifico istantaneo DEL 22_06_2026.pdf"
             },
             {
+              "nome": "PIZETA Dettaglio bonifico istantaneo DEL 29_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cwj5hcero9gz3csolk6dk/PIZETA-Dettaglio-bonifico-istantaneo-DEL-29_09_2026.pdf?rlkey=uu0lr9p0eg3n5m3s3gjw6romi&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/PIZETA Dettaglio bonifico istantaneo DEL 29_09_2026.pdf"
+            },
+            {
               "nome": "PIZETA SRL Dettaglio bonifico istantaneo DEL 16_12_2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -259228,7 +259236,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2371
+          "_totale_file": 2372
         }
       ],
       "file": []
