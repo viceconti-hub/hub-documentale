@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-09-29T09:25:59Z",
-  "totale_file": 27151,
+  "generato": "2026-09-30T00:34:02Z",
+  "totale_file": 27156,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -75918,7 +75918,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7378,
+      "totale_file": 7383,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -77699,8 +77699,17 @@
                   "_totale_file": 6
                 }
               ],
-              "file": [],
-              "_totale_file": 6
+              "file": [
+                {
+                  "nome": "Fattura di vendita - Bozza documento_2600489_20260929_163605.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6bd9rzs2568kcb9jw9i1u/Fattura-di-vendita-Bozza-documento_2600489_20260929_163605.pdf?rlkey=34ypeb4sr8yzmpszv0avr7n2p&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/CASTELSARACENO/LUTIPICO/Fattura di vendita - Bozza documento_2600489_20260929_163605.pdf"
+                }
+              ],
+              "_totale_file": 7
             },
             {
               "nome": "RICCIARDI MARIO",
@@ -77832,7 +77841,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 33
+          "_totale_file": 34
         },
         {
           "nome": "CAVA DE' TIRRENI",
@@ -103388,6 +103397,14 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "FORNO BERTO'S FC60GM USATO DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/976olwxakwgukqzbksasg/FORNO-BERTO-S-FC60GM-USATO-DATI-MACCHINA.jpeg?rlkey=kbbfebz8dq0g2iyswh37vc593&dl=0?raw=1",
+                          "dimensione_kb": 391,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VICECONTI SNC/VICECONTI SNC AREA TECNICA + USATO + MAG/FORNO BERTO'S A GAS RIF. I SAPORI DI MARIANNA/FORNO BERTO'S FC60GM USATO DATI MACCHINA.jpeg"
+                        },
+                        {
                           "nome": "WhatsApp Image 2025-03-17 at 12.33.55 (1).jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -103402,14 +103419,6 @@
                           "link": "https://www.dropbox.com/scl/fi/klj7uvdadugktcnj96gy7/WhatsApp-Image-2025-03-17-at-12.33.55.jpeg?rlkey=hxh5osjs5qhybvca4homja321&dl=0?raw=1",
                           "dimensione_kb": 366,
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VICECONTI SNC/VICECONTI SNC AREA TECNICA + USATO + MAG/FORNO BERTO'S A GAS RIF. I SAPORI DI MARIANNA/WhatsApp Image 2025-03-17 at 12.33.55.jpeg"
-                        },
-                        {
-                          "nome": "WhatsApp Image 2025-03-17 at 12.33.56.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/976olwxakwgukqzbksasg/WhatsApp-Image-2025-03-17-at-12.33.56.jpeg?rlkey=kbbfebz8dq0g2iyswh37vc593&dl=0?raw=1",
-                          "dimensione_kb": 391,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/VICECONTI SNC/VICECONTI SNC AREA TECNICA + USATO + MAG/FORNO BERTO'S A GAS RIF. I SAPORI DI MARIANNA/WhatsApp Image 2025-03-17 at 12.33.56.jpeg"
                         }
                       ],
                       "_totale_file": 3
@@ -129892,9 +129901,41 @@
                       "link": "https://www.dropbox.com/scl/fi/0omqkforp7osul7vtpwmh/VASCHE-DI-LAVAGGIO-PRIOLINOXcat.-acc-23-24-SCHEDA-TECNICA.pdf?rlkey=a4wruorf7zt5ludol8bdxjrxo&dl=0?raw=1",
                       "dimensione_kb": 307,
                       "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE SETTEMBRE 2026 COMPLETAMENTO/VASCHE DI LAVAGGIO PRIOLINOXcat.-acc-23-24 SCHEDA TECNICA.pdf"
+                    },
+                    {
+                      "nome": "Viggianello Agriturismo 29_09_2026-Mode CUCINA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/6nql28f63nqt836aqce2k/Viggianello-Agriturismo-29_09_2026-Mode-CUCINA.pdf?rlkey=vpv4r1j7el7d1hd39m2duas0f&dl=0?raw=1",
+                      "dimensione_kb": 375,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE SETTEMBRE 2026 COMPLETAMENTO/Viggianello Agriturismo 29_09_2026-Mode CUCINA.pdf"
+                    },
+                    {
+                      "nome": "Viggianello Agriturismo 29_09_2026-Model LAVAGGIO.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/slkl2ewshbr7pjvzo7csk/Viggianello-Agriturismo-29_09_2026-Model-LAVAGGIO.pdf?rlkey=fewhro5min2spchn9zjr2hpv2&dl=0?raw=1",
+                      "dimensione_kb": 173,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE SETTEMBRE 2026 COMPLETAMENTO/Viggianello Agriturismo 29_09_2026-Model LAVAGGIO.pdf"
+                    },
+                    {
+                      "nome": "Viggianello Agriturismo 29_09_2026-Model.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/j0tgx9gf5wloye121mj7a/Viggianello-Agriturismo-29_09_2026-Model.pdf?rlkey=2e724780gyc7sxox1fz7s8b0d&dl=0?raw=1",
+                      "dimensione_kb": 385,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE SETTEMBRE 2026 COMPLETAMENTO/Viggianello Agriturismo 29_09_2026-Model.pdf"
+                    },
+                    {
+                      "nome": "Viggianello Agriturismo 29_09_2026.dwg",
+                      "tipo": "CAD",
+                      "icona": "📐",
+                      "link": "https://www.dropbox.com/scl/fi/38l4kviaa37918jk0e6gy/Viggianello-Agriturismo-29_09_2026.dwg?rlkey=6hma9g8s6wcgvs6td5eptv7vs&dl=0?raw=1",
+                      "dimensione_kb": 4609,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE CANTIERE SETTEMBRE 2026 COMPLETAMENTO/Viggianello Agriturismo 29_09_2026.dwg"
                     }
                   ],
-                  "_totale_file": 3
+                  "_totale_file": 7
                 }
               ],
               "file": [
@@ -129939,7 +129980,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/Ordine cliente_210579_20210720_210617.pdf"
                 }
               ],
-              "_totale_file": 56
+              "_totale_file": 60
             },
             {
               "nome": "BRUNO SPA",
@@ -131756,7 +131797,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 246
+          "_totale_file": 250
         },
         {
           "nome": "SAN GREGORIO MAGNO",
@@ -148561,7 +148602,7 @@
                   "nome": "LA LOCANDA DI SAN FRANCESCO Fattura di vendita_220675_20221027_112624.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/khe7bt5h4f0bxz0r7sxfl/LA-LOCANDA-DI-SAN-FRANCESCO-Fattura-di-vendita_220675_20221027_112624.pdf?rlkey=u8pkdcsh4c436ab3eo7u44uvv&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 71,
                   "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/LA LOCANDA DI SAN FRANCESCO/LA LOCANDA DI SAN FRANCESCO Fattura di vendita_220675_20221027_112624.pdf"
                 },
