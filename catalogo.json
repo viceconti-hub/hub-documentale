@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-01T02:28:57Z",
-  "totale_file": 27209,
+  "generato": "2026-10-01T05:48:33Z",
+  "totale_file": 27212,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7165,
+      "totale_file": 7168,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -12732,6 +12732,22 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/PREVENTIVO.json"
                 },
                 {
+                  "nome": "PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/x9u21cgcdc3dld0on9izy/PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29.md?rlkey=b3he1b3wrocnrlhkxesg0sdbh&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29.md"
+                },
+                {
+                  "nome": "PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6mal5y6eu6t06faegegtd/PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29.pdf?rlkey=13r31iib1p5dg05mvwpvcxr9j&dl=0?raw=1",
+                  "dimensione_kb": 3363,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29.pdf"
+                },
+                {
                   "nome": "PREVENTIVO_AI_CARCONI_LINEA_COTTURA_MODULAR_2026-09-29_BOZZA.md",
                   "tipo": "File",
                   "icona": "📎",
@@ -12756,15 +12772,23 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/REPORT_RISOLUZIONE_AI_CARCONI.md"
                 },
                 {
+                  "nome": "RIEPILOGO_AI_CARCONI_PREVENTIVO_E_PROGETTO_2026-09-30.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/u9vcjcp3ajaetqc8lq61h/RIEPILOGO_AI_CARCONI_PREVENTIVO_E_PROGETTO_2026-09-30.md?rlkey=wfdlyxiywrqzm7c3z215ookyt&dl=0?raw=1",
+                  "dimensione_kb": 8,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/RIEPILOGO_AI_CARCONI_PREVENTIVO_E_PROGETTO_2026-09-30.md"
+                },
+                {
                   "nome": "TRACCIA_AI_CARCONI.md",
                   "tipo": "File",
                   "icona": "📎",
                   "link": "https://www.dropbox.com/scl/fi/sdkc7q09xtctsirn55vi1/TRACCIA_AI_CARCONI.md?rlkey=zxw22o5svdrg5mwzx8giknu4x&dl=0?raw=1",
-                  "dimensione_kb": 24,
+                  "dimensione_kb": 26,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/TRACCIA_AI_CARCONI.md"
                 }
               ],
-              "_totale_file": 43
+              "_totale_file": 46
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -68899,7 +68923,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5549
+          "_totale_file": 5552
         },
         {
           "nome": "ORDINI CLIENTE",
