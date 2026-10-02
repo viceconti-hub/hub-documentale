@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-02T05:50:51Z",
-  "totale_file": 27258,
+  "generato": "2026-10-02T08:00:26Z",
+  "totale_file": 27260,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -194062,7 +194062,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5160,
+      "totale_file": 5162,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -237395,6 +237395,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COMENDA ALI GROUP SRL Ordine dacquisto_260224_20260912_113228 RIF. LAVABICCHIERI COMENDA HB34-R (HR+RCD) Multipower 5kW.pdf"
             },
             {
+              "nome": "COMENDA ALI GROUP SRL Ordine dacquisto_260250_20260929_180748 RIF. DA COMPLETARE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mvhwrvadr3tiv7lghgi9w/COMENDA-ALI-GROUP-SRL-Ordine-dacquisto_260250_20260929_180748-RIF.-DA-COMPLETARE.pdf?rlkey=roamm3avnkxsofdydbli0c7zg&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COMENDA ALI GROUP SRL Ordine dacquisto_260250_20260929_180748 RIF. DA COMPLETARE.pdf"
+            },
+            {
               "nome": "CUSTOM CONFERMA ORDINE Conf.Ord. 100916505 Cl.5212053 RIF. CRUSCO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -237489,6 +237497,14 @@
               "link": "https://www.dropbox.com/scl/fi/u4985tojbu7xm53dmmxr4/FRIGOMECCANICA-CONFERMA-ORDINE-SKM_C300i26091515120-1-RIF.COSENTINO.pdf?rlkey=ucy2u9y9m10zbhldcxy68k4y0&dl=0?raw=1",
               "dimensione_kb": 707,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FRIGOMECCANICA CONFERMA ORDINE SKM_C300i26091515120-1 RIF.COSENTINO.pdf"
+            },
+            {
+              "nome": "KRUPPS s.r.l. Ordine dacquisto_260249_20260929_130905.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0lr7wu1obye4n8cqlbr28/KRUPPS-s.r.l.-Ordine-dacquisto_260249_20260929_130905.pdf?rlkey=5m2mu7elh7qxao98plx74mdem&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KRUPPS s.r.l. Ordine dacquisto_260249_20260929_130905.pdf"
             },
             {
               "nome": "LOTUS spa Ordine dacquisto_260222_20260909_120649 RIF. Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443..pdf",
@@ -237651,7 +237667,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORIDNE 002095 RIF. RICAMBI GRAN SOLE.pdf"
             }
           ],
-          "_totale_file": 3836
+          "_totale_file": 3838
         }
       ],
       "file": []
