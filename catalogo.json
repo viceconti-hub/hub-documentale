@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-02T00:30:02Z",
-  "totale_file": 27212,
+  "generato": "2026-10-02T02:31:06Z",
+  "totale_file": 27216,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -150196,7 +150196,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4496,
+      "totale_file": 4500,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -183210,6 +183210,46 @@
                 }
               ],
               "_totale_file": 7
+            },
+            {
+              "nome": "TNK COLDLINE MODULAR KRUPPS NEVO TULS RISORSE PER LA PROGETTAZIONE",
+              "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/TNK COLDLINE MODULAR KRUPPS NEVO TULS RISORSE PER LA PROGETTAZIONE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "BIM 2.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/n9jkl4n9hr7882vcqwbj9/BIM-2.zip?rlkey=d5husua1ltlqkjotg70j1vkg4&dl=0?raw=1",
+                  "dimensione_kb": 1606043,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/TNK COLDLINE MODULAR KRUPPS NEVO TULS RISORSE PER LA PROGETTAZIONE/BIM 2.zip"
+                },
+                {
+                  "nome": "BIM.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/tctp6ferh3wqj1vzm5s5g/BIM.zip?rlkey=yf0wiorrx8xsajcut43yv3b8x&dl=0?raw=1",
+                  "dimensione_kb": 1924590,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/TNK COLDLINE MODULAR KRUPPS NEVO TULS RISORSE PER LA PROGETTAZIONE/BIM.zip"
+                },
+                {
+                  "nome": "DWG.zip",
+                  "tipo": "Archivio",
+                  "icona": "🗜️",
+                  "link": "https://www.dropbox.com/scl/fi/i0cenfmbh2d161cy47poc/DWG.zip?rlkey=hf4yq3fe5e7i4r6bn7tvnwt53&dl=0?raw=1",
+                  "dimensione_kb": 1787417,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/TNK COLDLINE MODULAR KRUPPS NEVO TULS RISORSE PER LA PROGETTAZIONE/DWG.zip"
+                },
+                {
+                  "nome": "RIEPILOGO_RISORSE_TNK_PER_LA_PROGETTAZIONE_2026-10-01.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/0uehpvdljlmqe5nm1dczi/RIEPILOGO_RISORSE_TNK_PER_LA_PROGETTAZIONE_2026-10-01.md?rlkey=gzxysfmxjovfun7q7v61bu90f&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/TNK COLDLINE MODULAR KRUPPS NEVO TULS RISORSE PER LA PROGETTAZIONE/RIEPILOGO_RISORSE_TNK_PER_LA_PROGETTAZIONE_2026-10-01.md"
+                }
+              ],
+              "_totale_file": 4
             }
           ],
           "file": [
@@ -183238,7 +183278,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MODULAR/listino-nevo SCARICATO IL 14_01_2025.pdf"
             }
           ],
-          "_totale_file": 26
+          "_totale_file": 30
         },
         {
           "nome": "MOLTENI",
@@ -191587,23 +191627,32 @@
         {
           "nome": "TULS Neutro",
           "path": "/HUB DOCUMENTALE/FORNITORI/TULS Neutro",
-          "cartelle": [],
+          "cartelle": [
+            {
+              "nome": "TULS ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/FORNITORI/TULS Neutro/TULS ARCHIVIO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "TULS Listino_Neutro.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/k9xryq1ly4duslw6pmhai/TULS-Listino_Neutro.pdf?rlkey=t3tsq1zrbmtsi7lce2gnfyng6&dl=0?raw=1",
+                  "dimensione_kb": 18731,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/TULS Neutro/TULS ARCHIVIO/TULS Listino_Neutro.pdf"
+                }
+              ],
+              "_totale_file": 1
+            }
+          ],
           "file": [
             {
-              "nome": "TULS Listino_Neutro.pdf",
+              "nome": "100.TULS LISTINO.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/k9xryq1ly4duslw6pmhai/TULS-Listino_Neutro.pdf?rlkey=t3tsq1zrbmtsi7lce2gnfyng6&dl=0?raw=1",
-              "dimensione_kb": 18731,
-              "path": "/HUB DOCUMENTALE/FORNITORI/TULS Neutro/TULS Listino_Neutro.pdf"
-            },
-            {
-              "nome": "listino-tuls.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/5yge0035vr4vux3i5gp9m/listino-tuls.pdf?rlkey=dp2q2t9dxy5uin6ast3veafk8&dl=0?raw=1",
-              "dimensione_kb": 18731,
-              "path": "/HUB DOCUMENTALE/FORNITORI/TULS Neutro/listino-tuls.pdf"
+              "link": "https://www.dropbox.com/scl/fi/5yge0035vr4vux3i5gp9m/100.TULS-LISTINO.pdf?rlkey=dp2q2t9dxy5uin6ast3veafk8&dl=0?raw=1",
+              "dimensione_kb": 18402,
+              "path": "/HUB DOCUMENTALE/FORNITORI/TULS Neutro/100.TULS LISTINO.pdf"
             }
           ],
           "_totale_file": 2
