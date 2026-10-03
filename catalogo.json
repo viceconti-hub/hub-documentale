@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-03T02:28:06Z",
-  "totale_file": 27260,
+  "generato": "2026-10-03T05:45:13Z",
+  "totale_file": 27275,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7210,
+      "totale_file": 7225,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -8229,7 +8229,40 @@
         {
           "nome": "OFFERTE DI VENDITA",
           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA",
-          "cartelle": [],
+          "cartelle": [
+            {
+              "nome": "ANTEPRIME",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ANTEPRIME",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "260430 OFFERTA RINTELLI GIOVANNI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zmj8hprk0snyg0eo7snjg/260430-OFFERTA-RINTELLI-GIOVANNI.pdf?rlkey=d9pjh11jiozxscc1gcikl99dy&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ANTEPRIME/260430 OFFERTA RINTELLI GIOVANNI.pdf"
+                },
+                {
+                  "nome": "260434 OFFERTA SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kivr5i1czhd3773c6ln8l/260434-OFFERTA-SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA.pdf?rlkey=5fw37x3m5sf9icah3g6mf99zt&dl=0?raw=1",
+                  "dimensione_kb": 61,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ANTEPRIME/260434 OFFERTA SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA.pdf"
+                },
+                {
+                  "nome": "Nuovo Documento di testo.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/hihvivak694bkumacwf97/Nuovo-Documento-di-testo.txt?rlkey=5g8adayt42m7f2swtfd0olvfr&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ANTEPRIME/Nuovo Documento di testo.txt"
+                }
+              ],
+              "_totale_file": 3
+            }
+          ],
           "file": [
             {
               "nome": "3AM SRL HOTEL MARTINO Offerta di vendita_260234_20260625_110603 RIF. OFFERTA MACCHINA DA CAFFE' FAEMA E MANCINADOSATORE.pdf",
@@ -10280,7 +10313,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 256
+          "_totale_file": 259
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -12508,6 +12541,30 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "F70-70CFGB.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/38w1lf6iscpu706cxfp5p/F70-70CFGB.pdf?rlkey=8hwp8vt1lmpw43gtdc80azqwe&dl=0?raw=1",
+                          "dimensione_kb": 207,
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_non_usati/F70-70CFGB.pdf"
+                        },
+                        {
+                          "nome": "MP01032113000_Fun700_Cucina_gas_4_fuochi_con_forno_gas_modulo_70.svg",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/jt00ksuqh78ktip6t4kte/MP01032113000_Fun700_Cucina_gas_4_fuochi_con_forno_gas_modulo_70.svg?rlkey=8z684x96n3nz554ldkidh5506&dl=0?raw=1",
+                          "dimensione_kb": 879,
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_non_usati/MP01032113000_Fun700_Cucina_gas_4_fuochi_con_forno_gas_modulo_70.svg"
+                        },
+                        {
+                          "nome": "MP01032113000_Fun_700_Cucina_a_gas_forno_gas_modulo_70_mod.png",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/mpzjy6rfcjb534zkq8rz1/MP01032113000_Fun_700_Cucina_a_gas_forno_gas_modulo_70_mod.png?rlkey=tw8o0cc29uu97xk58qujte9dj&dl=0?raw=1",
+                          "dimensione_kb": 670,
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_non_usati/MP01032113000_Fun_700_Cucina_a_gas_forno_gas_modulo_70_mod.png"
+                        },
+                        {
                           "nome": "TULS LA1B607-850 disegno.svg",
                           "tipo": "File",
                           "icona": "📎",
@@ -12532,7 +12589,63 @@
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_non_usati/TULS LA1B607-850 scheda.pdf"
                         }
                       ],
-                      "_totale_file": 3
+                      "_totale_file": 6
+                    },
+                    {
+                      "nome": "_superate_01-10",
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_superate_01-10",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.md",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/qlkew59pmjxnli7ejw2x0/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.md?rlkey=ge1sht3917p43gh6lll6p9joh&dl=0?raw=1",
+                          "dimensione_kb": 8,
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_superate_01-10/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.md"
+                        },
+                        {
+                          "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/pylcpljrul3b4v53kvniu/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.pdf?rlkey=5hdfwo5tm2elzr0o4qngaqx1g&dl=0?raw=1",
+                          "dimensione_kb": 4162,
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_superate_01-10/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.pdf"
+                        },
+                        {
+                          "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.md",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/lhnh57xi3lprboc26ib5c/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.md?rlkey=9n18mklymod0id2trqctod68e&dl=0?raw=1",
+                          "dimensione_kb": 8,
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_superate_01-10/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.md"
+                        },
+                        {
+                          "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/j97gfuc02jhbbvqbpd5e1/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.pdf?rlkey=z5gnclkdv2d3nlecjnffodf6s&dl=0?raw=1",
+                          "dimensione_kb": 4164,
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_superate_01-10/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.pdf"
+                        },
+                        {
+                          "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.md",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/7rrk0g845pvm1uhjivu3y/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.md?rlkey=rbrk5ov2ljwymw78wyboy4lsu&dl=0?raw=1",
+                          "dimensione_kb": 8,
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_superate_01-10/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.md"
+                        },
+                        {
+                          "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/4aorq9tpepulf0aet80fy/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.pdf?rlkey=ttui63pmwfhjqh4izu1m7l0m9&dl=0?raw=1",
+                          "dimensione_kb": 4162,
+                          "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/_superate_01-10/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.pdf"
+                        }
+                      ],
+                      "_totale_file": 6
                     }
                   ],
                   "file": [
@@ -12577,12 +12690,28 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/DRYRUN_CREAZIONE_ARTICOLI_SOLUZIONE_2.json"
                     },
                     {
+                      "nome": "DRYRUN_CREAZIONE_ARTICOLO_CUCINA_GAS_2026-10-02.json",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/1ge5nlrump3wm4516lwue/DRYRUN_CREAZIONE_ARTICOLO_CUCINA_GAS_2026-10-02.json?rlkey=fg4yckq6h50n3cah41061xlqq&dl=0?raw=1",
+                      "dimensione_kb": 2,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/DRYRUN_CREAZIONE_ARTICOLO_CUCINA_GAS_2026-10-02.json"
+                    },
+                    {
                       "nome": "DRYRUN_OFFERTA_SAP_SOLUZIONE_2.json",
                       "tipo": "File",
                       "icona": "📎",
                       "link": "https://www.dropbox.com/scl/fi/y7wg1afeq49qypycvfma4/DRYRUN_OFFERTA_SAP_SOLUZIONE_2.json?rlkey=uagy0vc3ghfljipk2yraa08i7&dl=0?raw=1",
                       "dimensione_kb": 10,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/DRYRUN_OFFERTA_SAP_SOLUZIONE_2.json"
+                    },
+                    {
+                      "nome": "DRYRUN_SOSTITUZIONE_CUCINA_2026-10-02.json",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/lsf37g0ngz6eo7fao08zj/DRYRUN_SOSTITUZIONE_CUCINA_2026-10-02.json?rlkey=feswvsnl6aqkmn6ncr354v4mn&dl=0?raw=1",
+                      "dimensione_kb": 2,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/DRYRUN_SOSTITUZIONE_CUCINA_2026-10-02.json"
                     },
                     {
                       "nome": "ESEGUITO_ATTO3_E_GPL_2026-10-01.json",
@@ -12593,12 +12722,28 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/ESEGUITO_ATTO3_E_GPL_2026-10-01.json"
                     },
                     {
+                      "nome": "F70-110CFGB.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/2kp51yoi6wi9shoikozpz/F70-110CFGB.pdf?rlkey=79zwoipyi1pwj6xvojw7w7r1s&dl=0?raw=1",
+                      "dimensione_kb": 237,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/F70-110CFGB.pdf"
+                    },
+                    {
                       "nome": "F70-110CFGEB.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/svlzixbfxuu647vj684q2/F70-110CFGEB.pdf?rlkey=rpxvw2pb4906qy7rqns5rlzrj&dl=0?raw=1",
                       "dimensione_kb": 242,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/F70-110CFGEB.pdf"
+                    },
+                    {
+                      "nome": "MP01032133001_Fun700_Cucina_gas_6_fuochi_bacinelle_smaltate_con_forno_gas_modulo_110.svg",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/wufxmor8ylj4hdoo18lxd/MP01032133001_Fun700_Cucina_gas_6_fuochi_bacinelle_smaltate_con_forno_gas_modulo_110.svg?rlkey=agp69078naoz124k24hupi5d6&dl=0?raw=1",
+                      "dimensione_kb": 1016,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/MP01032133001_Fun700_Cucina_gas_6_fuochi_bacinelle_smaltate_con_forno_gas_modulo_110.svg"
                     },
                     {
                       "nome": "MP01032133001_Fun_700_Cucina_a_gas_forno_elettrico_modulo_1100_mod.png",
@@ -12625,52 +12770,36 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO.json"
                     },
                     {
-                      "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.md",
+                      "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02.md",
                       "tipo": "File",
                       "icona": "📎",
-                      "link": "https://www.dropbox.com/scl/fi/qlkew59pmjxnli7ejw2x0/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.md?rlkey=ge1sht3917p43gh6lll6p9joh&dl=0?raw=1",
+                      "link": "https://www.dropbox.com/scl/fi/aor7114a5pizr3p164psh/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02.md?rlkey=29nnyzlc0l91lxbmkqutq59vb&dl=0?raw=1",
                       "dimensione_kb": 8,
-                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.md"
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02.md"
                     },
                     {
-                      "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.pdf",
+                      "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/pylcpljrul3b4v53kvniu/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.pdf?rlkey=5hdfwo5tm2elzr0o4qngaqx1g&dl=0?raw=1",
-                      "dimensione_kb": 4162,
-                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01.pdf"
+                      "link": "https://www.dropbox.com/scl/fi/9ickenuv029ucjzmv9glv/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02.pdf?rlkey=4nqylcjga6bihvg4dmr8r0toz&dl=0?raw=1",
+                      "dimensione_kb": 4157,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02.pdf"
                     },
                     {
-                      "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.md",
+                      "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02_LAYOUT_AMPIO.md",
                       "tipo": "File",
                       "icona": "📎",
-                      "link": "https://www.dropbox.com/scl/fi/dkiqnp800snrt7c4mb3zw/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.md?rlkey=x5z0cc7n3pux7ct1ptdpgumb0&dl=0?raw=1",
+                      "link": "https://www.dropbox.com/scl/fi/34ojebgty3y794izq1o43/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02_LAYOUT_AMPIO.md?rlkey=74qjpg7ze8mycs74wst547iaz&dl=0?raw=1",
                       "dimensione_kb": 8,
-                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.md"
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02_LAYOUT_AMPIO.md"
                     },
                     {
-                      "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.pdf",
+                      "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02_LAYOUT_AMPIO.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/0euy8hw0z1sn0ikc564k5/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.pdf?rlkey=gdq8gesh8db0wfyvslfw5mlcr&dl=0?raw=1",
-                      "dimensione_kb": 4164,
-                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_BOZZA.pdf"
-                    },
-                    {
-                      "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.md",
-                      "tipo": "File",
-                      "icona": "📎",
-                      "link": "https://www.dropbox.com/scl/fi/5bpsbgkef1q6q0oimpqcn/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.md?rlkey=dri1eo2hfi7mekftfk0u41wp7&dl=0?raw=1",
-                      "dimensione_kb": 8,
-                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.md"
-                    },
-                    {
-                      "nome": "PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/slc34u0jtkjpm1x57600d/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.pdf?rlkey=f23kkzcjftf9qd5qnm0vin1l5&dl=0?raw=1",
-                      "dimensione_kb": 4162,
-                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-01_LAYOUT_AMPIO.pdf"
+                      "link": "https://www.dropbox.com/scl/fi/ani76ctaxwetur1uo4ch2/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02_LAYOUT_AMPIO.pdf?rlkey=ztt6yh1kogdbspsnz4dhop5nd&dl=0?raw=1",
+                      "dimensione_kb": 4157,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/PREVENTIVO_AI_CARCONI_SOLUZIONE_2_2026-10-02_LAYOUT_AMPIO.pdf"
                     },
                     {
                       "nome": "TULS LA1A707-850 disegno.svg",
@@ -12745,7 +12874,7 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/TULS TA820-850 scheda.pdf"
                     }
                   ],
-                  "_totale_file": 29
+                  "_totale_file": 40
                 }
               ],
               "file": [
@@ -13110,15 +13239,23 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/RIEPILOGO_AI_CARCONI_PREVENTIVO_E_PROGETTO_2026-09-30.md"
                 },
                 {
+                  "nome": "RIEPILOGO_AI_CARCONI_SOLUZIONE_2_PROGETTO_E_LAYOUT_OFFERTA_2026-10-02.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/opoyh27ag0k4fhau5yx4p/RIEPILOGO_AI_CARCONI_SOLUZIONE_2_PROGETTO_E_LAYOUT_OFFERTA_2026-10-02.md?rlkey=buyvpuxsd1vlvskturj267si1&dl=0?raw=1",
+                  "dimensione_kb": 7,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/RIEPILOGO_AI_CARCONI_SOLUZIONE_2_PROGETTO_E_LAYOUT_OFFERTA_2026-10-02.md"
+                },
+                {
                   "nome": "TRACCIA_AI_CARCONI.md",
                   "tipo": "File",
                   "icona": "📎",
                   "link": "https://www.dropbox.com/scl/fi/sdkc7q09xtctsirn55vi1/TRACCIA_AI_CARCONI.md?rlkey=zxw22o5svdrg5mwzx8giknu4x&dl=0?raw=1",
-                  "dimensione_kb": 38,
+                  "dimensione_kb": 41,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/TRACCIA_AI_CARCONI.md"
                 }
               ],
-              "_totale_file": 75
+              "_totale_file": 87
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -69253,7 +69390,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5581
+          "_totale_file": 5593
         },
         {
           "nome": "ORDINI CLIENTE",
