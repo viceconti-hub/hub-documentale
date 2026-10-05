@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-05T02:24:39Z",
-  "totale_file": 27275,
+  "generato": "2026-10-05T05:42:15Z",
+  "totale_file": 27276,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7225,
+      "totale_file": 7226,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -12650,6 +12650,14 @@
                   ],
                   "file": [
                     {
+                      "nome": "2026-10-03 18.14.54.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/7ce8m0af7k0tzl8nm7euh/2026-10-03-18.14.54.pdf?rlkey=d5eivshu2n462382exi8nykdm&dl=0?raw=1",
+                      "dimensione_kb": 297,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/2026-10-03 18.14.54.pdf"
+                    },
+                    {
                       "nome": "ARISTARCO ORI 50.35 M scheda ED06_2026.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -12874,7 +12882,7 @@
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/SOLUZIONE 2 RISORSE/TULS TA820-850 scheda.pdf"
                     }
                   ],
-                  "_totale_file": 40
+                  "_totale_file": 41
                 }
               ],
               "file": [
@@ -13255,7 +13263,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_09_29 AI CARCONI ATTREZZATURE CUCINA PER CASA RISORSE/TRACCIA_AI_CARCONI.md"
                 }
               ],
-              "_totale_file": 87
+              "_totale_file": 88
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -69390,7 +69398,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5593
+          "_totale_file": 5594
         },
         {
           "nome": "ORDINI CLIENTE",
