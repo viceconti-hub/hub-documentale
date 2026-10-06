@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-05T17:28:17Z",
-  "totale_file": 27276,
+  "generato": "2026-10-06T00:20:44Z",
+  "totale_file": 27277,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -76809,7 +76809,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7384,
+      "totale_file": 7385,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -105981,6 +105981,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAVELLO/PROGETTO BAR/20231205_212559_3022.pdf"
                 },
                 {
+                  "nome": "2026-10-05 12.01.43.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rztaminnppbsmucefjdx9/2026-10-05-12.01.43.pdf?rlkey=o1p0g2i2fwe2gbamlmgyog9y5&dl=0?raw=1",
+                  "dimensione_kb": 861,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAVELLO/PROGETTO BAR/2026-10-05 12.01.43.pdf"
+                },
+                {
                   "nome": "ALTAMURA  AGRIT. ROTUNNO 2023.xls",
                   "tipo": "Excel",
                   "icona": "📊",
@@ -106077,11 +106085,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAVELLO/PROGETTO BAR/preventivo 1.pdf"
                 }
               ],
-              "_totale_file": 22
+              "_totale_file": 23
             }
           ],
           "file": [],
-          "_totale_file": 22
+          "_totale_file": 23
         },
         {
           "nome": "LEASING",
