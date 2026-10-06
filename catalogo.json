@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-06T00:20:44Z",
-  "totale_file": 27277,
+  "generato": "2026-10-06T02:20:19Z",
+  "totale_file": 27282,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -150703,7 +150703,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4500,
+      "totale_file": 4505,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -153645,6 +153645,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/100.ARISTARCO LISTINO GHIACCIO IT-EN_2026_ED01-2026_PRICE LIST_ARISTARCO_ICE.pdf"
             },
             {
+              "nome": "100.ARISTARCO LISTINO LAVAGGIO 2026 IT-EN_2026_ED01-2026_PRICE LIST_ARISTARCO_WASH PAGINA TABELLA DI EQUIVALENZA MODELLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nzx3mb3of0gelm9cl6igp/100.ARISTARCO-LISTINO-LAVAGGIO-2026-IT-EN_2026_ED01-2026_PRICE-LIST_ARISTARCO_WASH-PAGINA-TABELLA-DI-EQUIVALENZA-MODELLI.pdf?rlkey=wxkki1l2tl2pvi2w24us5m7s7&dl=0?raw=1",
+              "dimensione_kb": 24,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/100.ARISTARCO LISTINO LAVAGGIO 2026 IT-EN_2026_ED01-2026_PRICE LIST_ARISTARCO_WASH PAGINA TABELLA DI EQUIVALENZA MODELLI.pdf"
+            },
+            {
               "nome": "100.ARISTARCO LISTINO LAVAGGIO 2026 IT-EN_2026_ED01-2026_PRICE LIST_ARISTARCO_WASH.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -153693,7 +153701,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ARISTARCO/Listino Ricambi_Spares Listprice_04-2024.XLSX"
             }
           ],
-          "_totale_file": 137
+          "_totale_file": 138
         },
         {
           "nome": "ARO",
@@ -157946,6 +157954,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/BCC RENT&LEASE MODULO RICHIESTA FIRMATO 04_11_2025.pdf"
             },
             {
+              "nome": "COLDLINE 2026_02_03 PriceList_IT.xls",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/dpf6ncij8gtvcid0x6k9b/COLDLINE-2026_02_03-PriceList_IT.xls?rlkey=w2liopqioxbbunrqzqrq80ke2&dl=0?raw=1",
+              "dimensione_kb": 1120,
+              "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE 2026_02_03 PriceList_IT.xls"
+            },
+            {
               "nome": "COLDLINE CONDIZION TNK.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -157994,7 +158010,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/Offerta Sigep 25 - 19.12.24.pdf"
             }
           ],
-          "_totale_file": 112
+          "_totale_file": 113
         },
         {
           "nome": "COLDMARK",
@@ -184951,12 +184967,36 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 10_08_2026.XLSX"
             },
             {
+              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 16_01_2026.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/zn0sbbkp4v2u8hfc8svkz/MORINI-ESTRAZIONE-LISTINO-LI0018500-16_01_2026.XLSX?rlkey=j20rx17o0ygbzqs1g6gqa0888&dl=0?raw=1",
+              "dimensione_kb": 1181,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 16_01_2026.XLSX"
+            },
+            {
+              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 19_04_2026 COPIA DEL CATALOGO CENTRALE.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/k154dsymmq1uun3o4dgck/MORINI-ESTRAZIONE-LISTINO-LI0018500-19_04_2026-COPIA-DEL-CATALOGO-CENTRALE.XLSX?rlkey=50g8z95j4lcrl96tfkl4r7os4&dl=0?raw=1",
+              "dimensione_kb": 1188,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 19_04_2026 COPIA DEL CATALOGO CENTRALE.XLSX"
+            },
+            {
               "nome": "MORINI ESTRAZIONE LISTINO LI0018500 20_01_2026.XLSX",
               "tipo": "Excel",
               "icona": "📊",
               "link": "https://www.dropbox.com/scl/fi/cvn1a3k6blicohaema1n2/MORINI-ESTRAZIONE-LISTINO-LI0018500-20_01_2026.XLSX?rlkey=t033mes8o4umrf1tdljrjcm6k&dl=0?raw=1",
               "dimensione_kb": 1181,
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 20_01_2026.XLSX"
+            },
+            {
+              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 28_02_2026.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/0u19ub09bja32olwql6yj/MORINI-ESTRAZIONE-LISTINO-LI0018500-28_02_2026.XLSX?rlkey=mj9a2ff9wo2q00kpxrdz2bgfz&dl=0?raw=1",
+              "dimensione_kb": 1182,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 28_02_2026.XLSX"
             },
             {
               "nome": "MORINI LINK PER AREA RISERVATA CIR0706.PDF",
@@ -184999,7 +185039,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/Nuovo Foglio di lavoro di Microsoft Excel.xlsx"
             }
           ],
-          "_totale_file": 66
+          "_totale_file": 69
         },
         {
           "nome": "NARDI TAVOLI E SEDIE",
