@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-06T02:20:19Z",
-  "totale_file": 27282,
+  "generato": "2026-10-06T05:36:29Z",
+  "totale_file": 27304,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7226,
+      "totale_file": 7248,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -464,6 +464,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Consegna_260708_20260810_143615 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260379..pdf"
             },
             {
+              "nome": "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Consegna_260856_20261005_093845 RIF. Basato su Ordini cliente 260485..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/m0la98ud3zf93phqfa1nk/BAR-RISTORANTE-DA-GIOVANNI-di-SCHETTINI-DOMENICA-Consegna_260856_20261005_093845-RIF.-Basato-su-Ordini-cliente-260485..pdf?rlkey=ypf7grr2slhqf0335yjgvhe1l&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Consegna_260856_20261005_093845 RIF. Basato su Ordini cliente 260485..pdf"
+            },
+            {
               "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260297_20260527_091447 RIF. LAVASTOVIGLIE AF50.35E IN COMODATO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -616,6 +624,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Billy Bar di SCALDAFERRI PIETRO Consegna_260829_20260918_125315 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260462..pdf"
             },
             {
+              "nome": "Brutium Srl Consegna_260859_20261005_130450 RIF. Detergente per forni QUBI, kit da 50 monodosi Basato su Ordini cliente 260488..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wb30vg8or70q2wxn0qpyq/Brutium-Srl-Consegna_260859_20261005_130450-RIF.-Detergente-per-forni-QUBI-kit-da-50-monodosi-Basato-su-Ordini-cliente-260488..pdf?rlkey=1y0idkddbx2880hnmfpr616da&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Brutium Srl Consegna_260859_20261005_130450 RIF. Detergente per forni QUBI, kit da 50 monodosi Basato su Ordini cliente 260488..pdf"
+            },
+            {
               "nome": "CAFFETTERIA DA CECILIA DI DI SANZO CECILIA Consegna_260633_20260730_163156 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260341..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -670,6 +686,14 @@
               "link": "https://www.dropbox.com/scl/fi/co69v5ybequvdzpzydx4u/CANNAZZARO-SRL-Consegna_260384_20260607_164427-RIF.-ASSISTENZA-SU-Forno-modello-Qubi-Eliminazione-service-boiler.pdf?rlkey=2gaf5gueluvzamhza2duh3p2m&dl=0?raw=1",
               "dimensione_kb": 61,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CANNAZZARO SRL Consegna_260384_20260607_164427 RIF. ASSISTENZA SU Forno modello Qubi Eliminazione service boiler.pdf"
+            },
+            {
+              "nome": "CANNAZZARO SRL Consegna_260858_20261005_124900 RIF. Detergente per forni QUBI, kit da 50 monodosi Basato su Ordini cliente 260487..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0cj4e97wg3wvkic4pqodh/CANNAZZARO-SRL-Consegna_260858_20261005_124900-RIF.-Detergente-per-forni-QUBI-kit-da-50-monodosi-Basato-su-Ordini-cliente-260487..pdf?rlkey=j4mamr2w1njtbn0cukmt7hrr1&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CANNAZZARO SRL Consegna_260858_20261005_124900 RIF. Detergente per forni QUBI, kit da 50 monodosi Basato su Ordini cliente 260487..pdf"
             },
             {
               "nome": "CAPUTO ANTONIO Consegna_260801_20260901_184802 RIF. CARTUCCIA MISCELATORE TIPO ALTO Basato su Ordini cliente 260427..pdf",
@@ -1392,6 +1416,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/EFFE DI SNC di FUCILE CARMELO & DI GIORGIO ROBERTO Consegna_260560_20260714_094643 RIF. SCROCCHETTO Basato su Offerte di vendita 260262..pdf"
             },
             {
+              "nome": "ELETTRONICA 2000 S.N.C. Consegna_260857_20261005_104208 RIF. RICAMBI Basato su Ordini cliente 260486..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1mx56e652bzoxla3uajwv/ELETTRONICA-2000-S.N.C.-Consegna_260857_20261005_104208-RIF.-RICAMBI-Basato-su-Ordini-cliente-260486..pdf?rlkey=8yb4u0iw0wx5zc779dv2mubjd&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ELETTRONICA 2000 S.N.C. Consegna_260857_20261005_104208 RIF. RICAMBI Basato su Ordini cliente 260486..pdf"
+            },
+            {
               "nome": "EMMEGIEFFE DI FALCONE MICHELE e C sas Consegna_260418_20260616_081435 RIF. LAMA 300 LAMAFF0012A Basato su Ordini cliente 260168. PAYPAL.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1926,6 +1958,14 @@
               "link": "https://www.dropbox.com/scl/fi/fbis1he6dd5qxigx3zdc4/GRISOLIA-DOMENICO-Consegna_260840_20260923_185726-RIF.-HOTELLERIE-Basato-su-Ordini-cliente-260471..pdf?rlkey=36hvzoq9t43ew92iwf34g2ye2&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRISOLIA DOMENICO Consegna_260840_20260923_185726 RIF. HOTELLERIE Basato su Ordini cliente 260471..pdf"
+            },
+            {
+              "nome": "GRISOLIA DOMENICO Consegna_260854_20261001_190344 RIF. MOTOVENTILATORE 10W CON ANELLO Basato su Ordini cliente 260483..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pv3sauf40e8zm08zohmpi/GRISOLIA-DOMENICO-Consegna_260854_20261001_190344-RIF.-MOTOVENTILATORE-10W-CON-ANELLO-Basato-su-Ordini-cliente-260483..pdf?rlkey=k3oycfefh8kefavguydcvgwj8&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRISOLIA DOMENICO Consegna_260854_20261001_190344 RIF. MOTOVENTILATORE 10W CON ANELLO Basato su Ordini cliente 260483..pdf"
             },
             {
               "nome": "GRUPPO AEMME SRL Consegna_260723_20260813_094429 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf",
@@ -2768,6 +2808,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Consegna_260796_20260830_235245 RIF. ASSISTENZA SU FORNO ELETTRICO RATIONAL ICOMBI PRO MATRICOLA E61SJ23053058143.pdf"
             },
             {
+              "nome": "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Consegna_260855_20261004_093524 RIF. Pastiglia detergente Active Green per iCombi Pro e iCombi Classic pz 150 (CONF..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jqgb05ckaanb9euxvvwvg/LA-PIEDIGROTTA-RISTORANTE-PIZZERIA-di-PASQUALE-AURELIO-Consegna_260855_20261004_093524-RIF.-Pastiglia-detergente-Active-Green-per-iCombi-Pro-e-iCombi-Classic-pz-150-CONF..pdf?rlkey=6bb2zuiyfwe5aqjuk6qetds7s&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Consegna_260855_20261004_093524 RIF. Pastiglia detergente Active Green per iCombi Pro e iCombi Classic pz 150 (CONF..pdf"
+            },
+            {
               "nome": "LA REGINA S.r.l. Servizi e Logistica Consegna_260310_20260530_191109 RIF. CETNRALINA PER ESPOSITORE MURALE MARKET F&B 2500-R MATRICOLA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3558,6 +3606,14 @@
               "link": "https://www.dropbox.com/scl/fi/ynjqw92lvvf5af73b4n1c/NEW-BAR-GRAN-CAFFE-srls-Consegna_260635_20260730_182545-RIF.-ASSISTENZA-SU-PRODUTTORE-DI-GHIACCIO-SIMAG-SDE40WS-HC-MATRIC.pdf?rlkey=ppjl8csnfx5ip45um2yr75pmk&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NEW BAR GRAN CAFFE' srls Consegna_260635_20260730_182545 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SIMAG SDE40WS HC MATRIC.pdf"
+            },
+            {
+              "nome": "NEW BAR GRAN CAFFE' srls Consegna_260853_20261001_121600 RIF. Basato su Ordini cliente 260481..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zhy2ocnd1s2o62r04eriz/NEW-BAR-GRAN-CAFFE-srls-Consegna_260853_20261001_121600-RIF.-Basato-su-Ordini-cliente-260481..pdf?rlkey=dr4bkj1ki5p8ziw63f7dlhx0x&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/NEW BAR GRAN CAFFE' srls Consegna_260853_20261001_121600 RIF. Basato su Ordini cliente 260481..pdf"
             },
             {
               "nome": "NEW SCALZIPENNA S.A.S. Consegna_260682_20260806_130415 RIF. MIXER A IMMERSIONE MX25 INOX CON MESCOLATORE 30cm (MAX IMMER.pdf",
@@ -4872,7 +4928,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 607
+          "_totale_file": 614
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -5088,6 +5144,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Fattura di vendita_2600386_20260810_143629 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260379. Ba.pdf"
             },
             {
+              "nome": "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Fattura di vendita_2600493_20261005_093926 RIF. Basato su Ordini cliente 260485. Basato su Consegne 260856..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ktdg17298wnjvbctl3yk2/BAR-RISTORANTE-DA-GIOVANNI-di-SCHETTINI-DOMENICA-Fattura-di-vendita_2600493_20261005_093926-RIF.-Basato-su-Ordini-cliente-260485.-Basato-su-Consegne-260856..pdf?rlkey=nab5weq9kfx56pxcy6smalv2g&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Fattura di vendita_2600493_20261005_093926 RIF. Basato su Ordini cliente 260485. Basato su Consegne 260856..pdf"
+            },
+            {
               "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600211_20260617_101816 RIF. DETERGENTE Basato su Ordini cliente 260216. Basato su Conseg.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5190,6 +5254,14 @@
               "link": "https://www.dropbox.com/scl/fi/oi4e0k9dlc0zxgk8od1rn/Brutium-Srl-Fattura-di-vendita_2600097_20260811_100252-RIF.-Basato-su-Consegne-260234..pdf?rlkey=pwz62cylu8jyzt4z8rli6iwvn&dl=0?raw=1",
               "dimensione_kb": 71,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/Brutium Srl Fattura di vendita_2600097_20260811_100252 RIF. Basato su Consegne 260234..pdf"
+            },
+            {
+              "nome": "Brutium Srl Fattura di vendita_2600495_20261005_130509 RIF. Detergente per forni QUBI, kit da 50 monodosi Basato su Ordini cliente 260488..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3zk9nb778yo4qfvewne1v/Brutium-Srl-Fattura-di-vendita_2600495_20261005_130509-RIF.-Detergente-per-forni-QUBI-kit-da-50-monodosi-Basato-su-Ordini-cliente-260488..pdf?rlkey=tmnif5dtusufibsb7m2dbm8f8&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/Brutium Srl Fattura di vendita_2600495_20261005_130509 RIF. Detergente per forni QUBI, kit da 50 monodosi Basato su Ordini cliente 260488..pdf"
             },
             {
               "nome": "CAFFETTERIA DA CECILIA DI DI SANZO CECILIA Fattura di vendita_2500850_20260607_200629 RIF. ASSISTENZA SU LAVABAR ARISTARCO SOSTITUZIONE SCHEDA TIMER AS.pdf",
@@ -5328,12 +5400,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/CATA' EVENTI di CANNAZZARO MARISA Fattura di vendita_2600226_20260625_112528 RIF. PALETTINO Basato su Offerte di vendita 260232. Basato su Ord.pdf"
             },
             {
-              "nome": "CAVALIERE SRL Fattura di vendita_2600489_20260929_185257 RIF. ARMADIO FRIGO E CONGELATORE COLDLINE Basato su Offerte di vendita 260336..pdf",
+              "nome": "CAVALIERE SRL Fattura di vendita_2600489_20261003_093944 RIF. ARMADIO FRIGO E CONGELATORE COLDLINE Basato su Offerte di vendita 260336..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/bofmbbzk93rdooyfh4ned/CAVALIERE-SRL-Fattura-di-vendita_2600489_20260929_185257-RIF.-ARMADIO-FRIGO-E-CONGELATORE-COLDLINE-Basato-su-Offerte-di-vendita-260336..pdf?rlkey=1tto6uwrggd6xcwgo2gxoq8kd&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/uthkgg69lacboyp36oq4e/CAVALIERE-SRL-Fattura-di-vendita_2600489_20261003_093944-RIF.-ARMADIO-FRIGO-E-CONGELATORE-COLDLINE-Basato-su-Offerte-di-vendita-260336..pdf?rlkey=r9lepoc35c8l8pf6noz55with&dl=0?raw=1",
               "dimensione_kb": 62,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/CAVALIERE SRL Fattura di vendita_2600489_20260929_185257 RIF. ARMADIO FRIGO E CONGELATORE COLDLINE Basato su Offerte di vendita 260336..pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/CAVALIERE SRL Fattura di vendita_2600489_20261003_093944 RIF. ARMADIO FRIGO E CONGELATORE COLDLINE Basato su Offerte di vendita 260336..pdf"
             },
             {
               "nome": "CENTRAL MARKET SNC DI FORESTIERI G. & ZACCAGNINO R. Fattura di vendita_2600128_20260831_121944 RIF. ASSISTENZA SU CUOCICREMA PETIT CHEF ASSISTENZA SU RATIONAL SPOSTAMENTO VETRINE.pdf",
@@ -5662,6 +5734,14 @@
               "link": "https://www.dropbox.com/scl/fi/k0bl426uxhi7ev9fq7is6/EFFE-DI-SNC-di-FUCILE-CARMELO-DI-GIORGIO-ROBERTO-Fattura-di-vendita_2600290_20260714_100105-RIF.-SCROCCHETTO-Basato-su-Offerte-di-vendita-260262.-Basato-su-C.pdf?rlkey=1o651xprkcg2bk6yjgcrfz8eu&dl=0?raw=1",
               "dimensione_kb": 61,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/EFFE DI SNC di FUCILE CARMELO & DI GIORGIO ROBERTO Fattura di vendita_2600290_20260714_100105 RIF. SCROCCHETTO Basato su Offerte di vendita 260262. Basato su C.pdf"
+            },
+            {
+              "nome": "ELETTRONICA 2000 S.N.C. Fattura di vendita_2600494_20261005_135124 RIF. RICAMBI Basato su Ordini cliente 260486. Basato su Consegne 260857..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mz347qlrqnlpud8ial4xs/ELETTRONICA-2000-S.N.C.-Fattura-di-vendita_2600494_20261005_135124-RIF.-RICAMBI-Basato-su-Ordini-cliente-260486.-Basato-su-Consegne-260857..pdf?rlkey=w4n2edatrdmbx658eapoagi47&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ELETTRONICA 2000 S.N.C. Fattura di vendita_2600494_20261005_135124 RIF. RICAMBI Basato su Ordini cliente 260486. Basato su Consegne 260857..pdf"
             },
             {
               "nome": "EMMEGIEFFE DI FALCONE MICHELE e C sas Fattura di vendita_2600284_20260712_170903 RIF. LAMA 300 LAMAFF0012A Basato su Ordini cliente 260168. PAGAME.pdf",
@@ -6718,6 +6798,14 @@
               "link": "https://www.dropbox.com/scl/fi/6kr6qf0kc3rbazyps291j/LA-PIEDIGROTTA-RISTORANTE-PIZZERIA-di-PASQUALE-AURELIO-Fattura-di-vendita_2600458_20260901_101147-RIF.-ASSISTENZA-SU-FORNO-ELETTRICO-RATIONAL-ICOMBI-PRO-MATRICOLA-E61SJ23053058143.pdf?rlkey=xip0xgnn1o3gbxqglztsh8l82&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Fattura di vendita_2600458_20260901_101147 RIF. ASSISTENZA SU FORNO ELETTRICO RATIONAL ICOMBI PRO MATRICOLA E61SJ23053058143.pdf"
+            },
+            {
+              "nome": "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Fattura di vendita_2600492_20261004_093552 RIF. Pastiglia detergente Active Green per iCombi Pro e iCombi Classic pz 150 (CONF..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gs2mqci0y03p5mojap6mr/LA-PIEDIGROTTA-RISTORANTE-PIZZERIA-di-PASQUALE-AURELIO-Fattura-di-vendita_2600492_20261004_093552-RIF.-Pastiglia-detergente-Active-Green-per-iCombi-Pro-e-iCombi-Classic-pz-150-CONF..pdf?rlkey=3bbcegcm1hogofc3sk3neicrd&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Fattura di vendita_2600492_20261004_093552 RIF. Pastiglia detergente Active Green per iCombi Pro e iCombi Classic pz 150 (CONF..pdf"
             },
             {
               "nome": "LA REGINA S.r.l. Servizi e Logistica Fattura di vendita_2600175_20260607_182703 RIF. CETNRALINA PER ESPOSITORE MURALE MARKET F&B 2500-R MATRICOLA.pdf",
@@ -8224,7 +8312,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 418
+          "_totale_file": 422
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -8244,20 +8332,20 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ANTEPRIME/260430 OFFERTA RINTELLI GIOVANNI.pdf"
                 },
                 {
+                  "nome": "260433 OFFERTA SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/65ktzamdxbcy4f2b0o8cb/260433-OFFERTA-SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA.pdf?rlkey=kk9sdmrsjzbvwy9p7s7dho0i7&dl=0?raw=1",
+                  "dimensione_kb": 59,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ANTEPRIME/260433 OFFERTA SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA.pdf"
+                },
+                {
                   "nome": "260434 OFFERTA SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/kivr5i1czhd3773c6ln8l/260434-OFFERTA-SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA.pdf?rlkey=5fw37x3m5sf9icah3g6mf99zt&dl=0?raw=1",
                   "dimensione_kb": 61,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ANTEPRIME/260434 OFFERTA SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA.pdf"
-                },
-                {
-                  "nome": "Nuovo Documento di testo.txt",
-                  "tipo": "Testo",
-                  "icona": "📃",
-                  "link": "https://www.dropbox.com/scl/fi/hihvivak694bkumacwf97/Nuovo-Documento-di-testo.txt?rlkey=5g8adayt42m7f2swtfd0olvfr&dl=0?raw=1",
-                  "dimensione_kb": 0,
-                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ANTEPRIME/Nuovo Documento di testo.txt"
                 }
               ],
               "_totale_file": 3
@@ -8313,12 +8401,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Offerta di vendita_260251_20260705_190531 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO BREMA IMF 35W-Q MATRICO.pdf"
             },
             {
-              "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260928_215442.pdf",
+              "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20261005_183737.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qglolihvv9g57aomkn3ks/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Offerta-di-vendita_260199_20260928_215442.pdf?rlkey=yq8sgx90uzum8uxq3fo7jcmhs&dl=0?raw=1",
-              "dimensione_kb": 88,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20260928_215442.pdf"
+              "link": "https://www.dropbox.com/scl/fi/1ye6uzhkq2z7i451mjp3u/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Offerta-di-vendita_260199_20261005_183737.pdf?rlkey=rx0jj1s6yrro96qsx1pyzmjk6&dl=0?raw=1",
+              "dimensione_kb": 87,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Offerta di vendita_260199_20261005_183737.pdf"
             },
             {
               "nome": "ALIMENTARI E TABACCHI DA EGIDIA DI CHIARELLI ANTONIO Offerta di vendita_260285_20260723_130636.pdf",
@@ -9215,6 +9303,14 @@
               "link": "https://www.dropbox.com/scl/fi/ulxsx6siq2zxav640m6jr/GRISOLIA-DOMENICO-Offerta-di-vendita_260341_20260805_113721.pdf?rlkey=g02pd840i9qkcdden2noqahyv&dl=0?raw=1",
               "dimensione_kb": 75,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GRISOLIA DOMENICO Offerta di vendita_260341_20260805_113721.pdf"
+            },
+            {
+              "nome": "GRISOLIA DOMENICO Offerta di vendita_260435_20261005_121122.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/74ohtjaaewimhjsibehyo/GRISOLIA-DOMENICO-Offerta-di-vendita_260435_20261005_121122.pdf?rlkey=9hgiuhf6jpo699ffgssej0ku7&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GRISOLIA DOMENICO Offerta di vendita_260435_20261005_121122.pdf"
             },
             {
               "nome": "H2A srl Offerta di vendita_250338_20260623_113421.pdf",
@@ -10185,6 +10281,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260433_20260929_225819 RIF. LINEA COTTURA MODULAR FUN 700 (CUCINA 4 FUOCHI, CUOCIPASTA, FRIGGITRICE.pdf"
             },
             {
+              "nome": "SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260434_20261001_214712 RIF. SOLUZIONE 2 - REPARTO LAVAGGIO E REPARTO PREPARAZIONE E COTTURA - RIF. CHIAMATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4gtdwg1e5za0x563ph5bw/SOCIETA-AGRICOLA-AI-CARCONI-srls-di-GIUSEPPE-GIOIA-Offerta-di-vendita_260434_20261001_214712-RIF.-SOLUZIONE-2-REPARTO-LAVAGGIO-E-REPARTO-PREPARAZIONE-E-COTTURA-RIF.-CHIAMATA.pdf?rlkey=9zcdya8iyxqkvp8xzycsm5mqy&dl=0?raw=1",
+              "dimensione_kb": 86,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Offerta di vendita_260434_20261001_214712 RIF. SOLUZIONE 2 - REPARTO LAVAGGIO E REPARTO PREPARAZIONE E COTTURA - RIF. CHIAMATA.pdf"
+            },
+            {
               "nome": "SUPERMERCATO A POTEGA I FIFINA di PALETTA GIOACCHINO Offerta di vendita_260343_20260806_084042 RIF. AFFETTATRICE DOMINA SLL370 230501.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -10313,7 +10417,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 259
+          "_totale_file": 261
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -69494,6 +69598,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AGRITURISMO L'AIA DEI CAPPELLANI di RICCARDI VINCENZO Ordine cliente_260183_20260612_141225 RIF. APRISCATOLE.pdf"
             },
             {
+              "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Ordine cliente_260489_20261005_184234 RIF. ATTREZZATURE COMPLETAMENTO FORNITURA Basato su Offerte di vendita 260199..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/506kgjnqj2rm59tliotmc/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Ordine-cliente_260489_20261005_184234-RIF.-ATTREZZATURE-COMPLETAMENTO-FORNITURA-Basato-su-Offerte-di-vendita-260199..pdf?rlkey=7isz71mw2jy5t2pdik6dxbwxm&dl=0?raw=1",
+              "dimensione_kb": 89,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Ordine cliente_260489_20261005_184234 RIF. ATTREZZATURE COMPLETAMENTO FORNITURA Basato su Offerte di vendita 260199..pdf"
+            },
+            {
               "nome": "AGUA LOCA DI D'IMPERIO NICOLA Ordine cliente_260164_20260523_093129.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69646,6 +69758,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Ordine cliente_260479_20260930_121259 RIF. DETERGENTE LAVASTOVIGLIE DET6 QTA' 9 + BRILL 5 QTA' 3.pdf"
             },
             {
+              "nome": "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Ordine cliente_260485_20261005_093819.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f9rl0zujiay3zpr2lxb21/BAR-RISTORANTE-DA-GIOVANNI-di-SCHETTINI-DOMENICA-Ordine-cliente_260485_20261005_093819.pdf?rlkey=601ilvfczv4d9nbghkpspe1bq&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Ordine cliente_260485_20261005_093819.pdf"
+            },
+            {
               "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260216_20260617_101749 RIF. DETERGENTE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69726,6 +69846,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Billy Bar di SCALDAFERRI PIETRO Ordine cliente_260462_20260918_125301 RIF. DETERGENTE LAVABICCHIERI.pdf"
             },
             {
+              "nome": "Brutium Srl Ordine cliente_260488_20261005_130434 RIF. Detergente per forni QUBI, kit da 50 monodosi.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/euu2vhzxf9tlk81f7k8g8/Brutium-Srl-Ordine-cliente_260488_20261005_130434-RIF.-Detergente-per-forni-QUBI-kit-da-50-monodosi.pdf?rlkey=26ler2em0jybt8tol4ai0c7bo&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Brutium Srl Ordine cliente_260488_20261005_130434 RIF. Detergente per forni QUBI, kit da 50 monodosi.pdf"
+            },
+            {
               "nome": "CAFFETTERIA DA CECILIA DI DI SANZO CECILIA Ordine cliente_260341_20260730_154903 RIF. DETERGENTE LAVABICCHIERI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -69748,6 +69876,14 @@
               "link": "https://www.dropbox.com/scl/fi/r2xwzrf05el9o1zjadu9k/CANNAZZARO-SRL-Ordine-cliente_250922_20260811_100138-RIF.-Basato-su-Offerte-di-vendita-250958..pdf?rlkey=ofme2vmiq4azdw090jrf5k8ev&dl=0?raw=1",
               "dimensione_kb": 73,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CANNAZZARO SRL Ordine cliente_250922_20260811_100138 RIF. Basato su Offerte di vendita 250958..pdf"
+            },
+            {
+              "nome": "CANNAZZARO SRL Ordine cliente_260487_20261005_124840 RIF. Detergente per forni QUBI, kit da 50 monodosi.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zqyzeze08yrr4scxnyxu4/CANNAZZARO-SRL-Ordine-cliente_260487_20261005_124840-RIF.-Detergente-per-forni-QUBI-kit-da-50-monodosi.pdf?rlkey=y5v21vdjebwvk60v400g6lu4w&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CANNAZZARO SRL Ordine cliente_260487_20261005_124840 RIF. Detergente per forni QUBI, kit da 50 monodosi.pdf"
             },
             {
               "nome": "CANTISANI MIMMA Ordine cliente_260431_20260904_094210 RIF. PIATTO PIANO ø 28 CM COLLEZIONE TREE DIGITAL PRINT SATURNIA (IMB.6 PEZZI).pdf",
@@ -70134,6 +70270,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DRINK & SMOKE DI CONTE GIAN PIERO Ordine cliente_260364_20260806_115128.pdf"
             },
             {
+              "nome": "ELETTRONICA 2000 S.N.C. Ordine cliente_260486_20261005_104144 RIF. RICAMBI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/usmqruwfzc268y17apjge/ELETTRONICA-2000-S.N.C.-Ordine-cliente_260486_20261005_104144-RIF.-RICAMBI.pdf?rlkey=softazv5qpk00zrw87s8d9nfv&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ELETTRONICA 2000 S.N.C. Ordine cliente_260486_20261005_104144 RIF. RICAMBI.pdf"
+            },
+            {
               "nome": "EMMEGIEFFE DI FALCONE MICHELE e C sas Ordine cliente_260168_20260525_133308 RIF. LAMA 300 LAMAFF0012A.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -70462,6 +70606,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GRISOLIA DOMENICO Ordine cliente_260471_20260923_185703 RIF. HOTELLERIE.pdf"
             },
             {
+              "nome": "GRISOLIA DOMENICO Ordine cliente_260483_20261001_190259 RIF. MOTOVENTILATORE 10W CON ANELLO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mu82bp6mlxd0ft807t7if/GRISOLIA-DOMENICO-Ordine-cliente_260483_20261001_190259-RIF.-MOTOVENTILATORE-10W-CON-ANELLO.pdf?rlkey=np32j2esmmcg4zlmzecr7fifp&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/GRISOLIA DOMENICO Ordine cliente_260483_20261001_190259 RIF. MOTOVENTILATORE 10W CON ANELLO.pdf"
+            },
+            {
               "nome": "GRUPPO AEMME SRL Ordine cliente_260391_20260813_093205 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -70492,6 +70644,14 @@
               "link": "https://www.dropbox.com/scl/fi/qp3qq7uc1mcs16ptspy25/H2A-srl-Ordine-cliente_260436_20260907_113356-RIF.-DETERGENTE-LAVABIXXHIERI-E-COFFEE-CLEAN.pdf?rlkey=rp5kdbikffg9ofp7ixxt5ostn&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/H2A srl Ordine cliente_260436_20260907_113356 RIF. DETERGENTE LAVABIXXHIERI E COFFEE CLEAN.pdf"
+            },
+            {
+              "nome": "H2A srl Ordine cliente_260482_20261001_122644.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/daaie495il3wjiom5chex/H2A-srl-Ordine-cliente_260482_20261001_122644.pdf?rlkey=rg8c4lld5a2huwrg0pah9b87f&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/H2A srl Ordine cliente_260482_20261001_122644.pdf"
             },
             {
               "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Ordine cliente_260144_20260513_111800 RIF. DETERGENTE LAVABAR.pdf",
@@ -70982,6 +71142,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Ordine cliente_260322_20260727_201855 RIF. DETERGENTE RATIONAL VERDE QTA' 1.pdf"
             },
             {
+              "nome": "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Ordine cliente_260484_20261004_093502 RIF. Pastiglia detergente Active Green per iCombi Pro e iCombi Classic pz 150 (CONF..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/u0hsthxfa7y3dnwx0g0ze/LA-PIEDIGROTTA-RISTORANTE-PIZZERIA-di-PASQUALE-AURELIO-Ordine-cliente_260484_20261004_093502-RIF.-Pastiglia-detergente-Active-Green-per-iCombi-Pro-e-iCombi-Classic-pz-150-CONF..pdf?rlkey=243bicarvhb5scrl89m5ofrr6&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Ordine cliente_260484_20261004_093502 RIF. Pastiglia detergente Active Green per iCombi Pro e iCombi Classic pz 150 (CONF..pdf"
+            },
+            {
               "nome": "LA REGINA S.r.l. Servizi e Logistica Ordine cliente_260269_20260713_125953 RIF. OFFERTA FORNITURA DETERGENTI LAVASTOVIGLIE Basato su Offerte.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -71430,6 +71598,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NEW BAR GRAN CAFFE' srls Ordine cliente_260234_20260625_113315 RIF. OFFERTA SPECIALE LAVABICCHIERI AF.35E MATRICOLA 94610036 Bas.pdf"
             },
             {
+              "nome": "NEW BAR GRAN CAFFE' srls Ordine cliente_260481_20261001_121259.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/83tzw455cjk1084ctun17/NEW-BAR-GRAN-CAFFE-srls-Ordine-cliente_260481_20261001_121259.pdf?rlkey=1npuv6fdkf2v3feqfi0n3cymd&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/NEW BAR GRAN CAFFE' srls Ordine cliente_260481_20261001_121259.pdf"
+            },
+            {
               "nome": "NICHELE MASSIMO Ordine cliente_260442_20260909_113559 RIF. TEGLIA E GRIGLIE LIFE W30 PAGAMENTO PAYPAL.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -71614,12 +71790,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PROVINCIA DI CAMPANIA BASILICATA DEI FRATI MINORI CAPPUCCINI Ordine cliente_260390_20260812_163032 RIF. SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A,LAMA 20x22,5hcm,Ø1.pdf"
             },
             {
-              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20260915_214500 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL.pdf",
+              "nome": "PUGLIESE MATTIA Ordine cliente_260434_20261005_153753 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/8rz4ql2q20ydw8ejio3it/PUGLIESE-MATTIA-Ordine-cliente_260434_20260915_214500-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416.-ORDINE-AGGIORNATO-IL.pdf?rlkey=xcd3okpvcbay2nd30dbszcpov&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/kwt4tg09f05uehw28zzan/PUGLIESE-MATTIA-Ordine-cliente_260434_20261005_153753-RIF.-ATTREZZATURE-PIZZERIA-Basato-su-Offerte-di-vendita-260416.-ORDINE-AGGIORNATO-IL.pdf?rlkey=46b0n3b76hs1c72kxjoftzgob&dl=0?raw=1",
               "dimensione_kb": 60,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20260915_214500 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/PUGLIESE MATTIA Ordine cliente_260434_20261005_153753 RIF. ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL.pdf"
             },
             {
               "nome": "Panificio AGRELLO di MICELI ANNA MARIA Ordine cliente_260261_20260708_123358 RIF. PIATTO PIZZA NAPOLI 31.pdf",
@@ -72190,7 +72366,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 348
+          "_totale_file": 357
         }
       ],
       "file": []
