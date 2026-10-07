@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-06T09:01:56Z",
-  "totale_file": 27309,
+  "generato": "2026-10-07T00:23:16Z",
+  "totale_file": 27312,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -76985,7 +76985,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7385,
+      "totale_file": 7388,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -97937,8 +97937,8 @@
                       "_totale_file": 2
                     },
                     {
-                      "nome": "FRIGGITRICE BERTO'S MOD.9GL22 22MR MATR.1226300958",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRIGGITRICE BERTO'S MOD.9GL22 22MR MATR.1226300958",
+                      "nome": "FRIGGITRICE BERTO'S MOD.9GL22 22MR MATR.1226300958 SALA NORA PIZZERIA",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRIGGITRICE BERTO'S MOD.9GL22 22MR MATR.1226300958 SALA NORA PIZZERIA",
                       "cartelle": [],
                       "file": [
                         {
@@ -97947,7 +97947,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/07pb7j9u3tfyyqhzw5l26/FRIGGITRICE-BERTOS-DATI-MACCHINA-Consegna_211469_20240514_192012.pdf?rlkey=1fc3ikxy4kq82iy56ym21fsu2&dl=0?raw=1",
                           "dimensione_kb": 69,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRIGGITRICE BERTO'S MOD.9GL22 22MR MATR.1226300958/FRIGGITRICE BERTOS' DATI MACCHINA Consegna_211469_20240514_192012.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRIGGITRICE BERTO'S MOD.9GL22 22MR MATR.1226300958 SALA NORA PIZZERIA/FRIGGITRICE BERTOS' DATI MACCHINA Consegna_211469_20240514_192012.pdf"
                         },
                         {
                           "nome": "WhatsApp Video 2024-05-14 at 19.07.16.mp4",
@@ -97955,7 +97955,7 @@
                           "icona": "📎",
                           "link": "https://www.dropbox.com/scl/fi/6g4hkzfwheej1t71vro9c/WhatsApp-Video-2024-05-14-at-19.07.16.mp4?rlkey=dk6hin1u3n3eraqfq9k4svvi4&dl=0?raw=1",
                           "dimensione_kb": 4024,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRIGGITRICE BERTO'S MOD.9GL22 22MR MATR.1226300958/WhatsApp Video 2024-05-14 at 19.07.16.mp4"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/HAPPY MOMENTS/HAPPY MOMENTS AREA TECNICA/FRIGGITRICE BERTO'S MOD.9GL22 22MR MATR.1226300958 SALA NORA PIZZERIA/WhatsApp Video 2024-05-14 at 19.07.16.mp4"
                         }
                       ],
                       "_totale_file": 2
@@ -102518,7 +102518,40 @@
             {
               "nome": "SUANNO 89",
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/SUANNO 89",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "SUANNO AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/SUANNO 89/SUANNO AREA TECNICA",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "CUOCIPASTA ECP92EB1-9 MATRICOLA 15002548 TRIFASE DATI MACCHINA.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/ahrshgv6wszhyloy6tp5p/CUOCIPASTA-ECP92EB1-9-MATRICOLA-15002548-TRIFASE-DATI-MACCHINA.png?rlkey=g8kkrjg162r5pudc910nlc8kf&dl=0?raw=1",
+                      "dimensione_kb": 166,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/SUANNO 89/SUANNO AREA TECNICA/CUOCIPASTA ECP92EB1-9 MATRICOLA 15002548 TRIFASE DATI MACCHINA.png"
+                    },
+                    {
+                      "nome": "CUOCIPASTA ECP92EB1-9 MATRICOLA 15002548 TRIFASE FOTO RESISTENZA.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/5bz1ssi2uexsyhce1rxyj/CUOCIPASTA-ECP92EB1-9-MATRICOLA-15002548-TRIFASE-FOTO-RESISTENZA.png?rlkey=q8xclisf61l55ly9eibph65za&dl=0?raw=1",
+                      "dimensione_kb": 439,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/SUANNO 89/SUANNO AREA TECNICA/CUOCIPASTA ECP92EB1-9 MATRICOLA 15002548 TRIFASE FOTO RESISTENZA.png"
+                    },
+                    {
+                      "nome": "Gmail - Re_ Viceconti Snc_ richiesta codice resistenza RIF. SUANNO - Ticket Id_ 6618638 (#6618638#).pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/kug23gt43kbtxrdw825u0/Gmail-Re_-Viceconti-Snc_-richiesta-codice-resistenza-RIF.-SUANNO-Ticket-Id_-6618638-6618638.pdf?rlkey=e8w3gri6vf95pwhpt4oo4zpql&dl=0?raw=1",
+                      "dimensione_kb": 80,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/SUANNO 89/SUANNO AREA TECNICA/Gmail - Re_ Viceconti Snc_ richiesta codice resistenza RIF. SUANNO - Ticket Id_ 6618638 (#6618638#).pdf"
+                    }
+                  ],
+                  "_totale_file": 3
+                }
+              ],
               "file": [
                 {
                   "nome": "00017757.pdf",
@@ -102553,7 +102586,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/SUANNO 89/lavello macero.pdf"
                 }
               ],
-              "_totale_file": 4
+              "_totale_file": 7
             },
             {
               "nome": "TAVERNA DEL BUONGUSTAIO",
@@ -106032,7 +106065,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1320
+          "_totale_file": 1323
         },
         {
           "nome": "LAVELLO",
