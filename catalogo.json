@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-07T02:22:26Z",
-  "totale_file": 27312,
+  "generato": "2026-10-07T05:37:35Z",
+  "totale_file": 27319,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7248,
+      "totale_file": 7255,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -518,6 +518,14 @@
               "link": "https://www.dropbox.com/scl/fi/4ykkdza6d1w1a31wwv5nh/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Consegna_260824_20260915_101509-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260455..pdf?rlkey=yxz142qwyzigcqimifgmaykb2&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260824_20260915_101509 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260455..pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260861_20261006_100549 RIF. Basato su Ordini cliente 260490..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w3rf4o340zz8hhix5fly3/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Consegna_260861_20261006_100549-RIF.-Basato-su-Ordini-cliente-260490..pdf?rlkey=9nzg0jr82ts52mw1xjxyvyekm&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260861_20261006_100549 RIF. Basato su Ordini cliente 260490..pdf"
             },
             {
               "nome": "BARLASCINI FLAVIO Consegna_260562_20260715_100937 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf",
@@ -1936,6 +1944,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260823_20260915_095553 RIF. DETERGENTE RATIONAL AUTODOSE Basato su Ordini cliente 260454..pdf"
             },
             {
+              "nome": "GRAN SOLE S.r.l. Consegna_260860_20261006_094505 RIF. COPRICEPPO E LAMA SEGAOSSI CONSEGNA PRESSO PUNTO VENDITA DI MARATEA Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yu9szbcxxvzn9je93gvqv/GRAN-SOLE-S.r.l.-Consegna_260860_20261006_094505-RIF.-COPRICEPPO-E-LAMA-SEGAOSSI-CONSEGNA-PRESSO-PUNTO-VENDITA-DI-MARATEA-Basato-su.pdf?rlkey=18cqgs5znbd09v1bpseods346&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260860_20261006_094505 RIF. COPRICEPPO E LAMA SEGAOSSI CONSEGNA PRESSO PUNTO VENDITA DI MARATEA Basato su.pdf"
+            },
+            {
               "nome": "GRISOLIA DOMENICO Consegna_260555_20260710_180725 RIF. COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 26007.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -2814,6 +2830,14 @@
               "link": "https://www.dropbox.com/scl/fi/jqgb05ckaanb9euxvvwvg/LA-PIEDIGROTTA-RISTORANTE-PIZZERIA-di-PASQUALE-AURELIO-Consegna_260855_20261004_093524-RIF.-Pastiglia-detergente-Active-Green-per-iCombi-Pro-e-iCombi-Classic-pz-150-CONF..pdf?rlkey=6bb2zuiyfwe5aqjuk6qetds7s&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Consegna_260855_20261004_093524 RIF. Pastiglia detergente Active Green per iCombi Pro e iCombi Classic pz 150 (CONF..pdf"
+            },
+            {
+              "nome": "LA QUIETE DEL VECCHIO PINO di OLIVA LUCIANA Consegna_260862_20261006_110303 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260491..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/474fofms1uc0i2hcpo1ye/LA-QUIETE-DEL-VECCHIO-PINO-di-OLIVA-LUCIANA-Consegna_260862_20261006_110303-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260491..pdf?rlkey=pqwzg83kskg0tbbvmlclb030y&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA QUIETE DEL VECCHIO PINO di OLIVA LUCIANA Consegna_260862_20261006_110303 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260491..pdf"
             },
             {
               "nome": "LA REGINA S.r.l. Servizi e Logistica Consegna_260310_20260530_191109 RIF. CETNRALINA PER ESPOSITORE MURALE MARKET F&B 2500-R MATRICOLA.pdf",
@@ -4928,7 +4952,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 614
+          "_totale_file": 617
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -5190,6 +5214,14 @@
               "link": "https://www.dropbox.com/scl/fi/5w9sccbo3ouj1inkrdgaf/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600477_20260915_101530-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260455.-Basato-su-Consegne.pdf?rlkey=cwau84ui54d1ls39ip2p6f3sj&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600477_20260915_101530 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260455. Basato su Consegne.pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600496_20261006_100632 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260490. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/edwecxv2nun3sw473ib5i/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600496_20261006_100632-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260490.-Basato-su-Consegne.pdf?rlkey=2mfz9g0hxhh12t7yjlzifjq3n&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600496_20261006_100632 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260490. Basato su Consegne.pdf"
             },
             {
               "nome": "BHOTEL SRL Fattura di vendita_2600210_20260612_142252 RIF. BICCHIERE COOLER CORTINA Basato su Offerte di vendita 260184.pdf",
@@ -8312,7 +8344,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 422
+          "_totale_file": 423
         },
         {
           "nome": "OFFERTE DI VENDITA",
@@ -9897,6 +9929,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ONY & ROBY PAOLINO SRL Offerta di vendita_260227_20260622_130354.pdf"
             },
             {
+              "nome": "OSTERIA DELLA ROCCA SAS DI CRINOLINI MARCO & C. Offerta di vendita_260436_20261006_114045 RIF. MATRICOLA FORNO A MICROONDE MOD.WP 1000 PF M + RICAMBI PER TOSTIERA SRIMAN 35206.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/z9qet7v7gqrkv243cj5wk/OSTERIA-DELLA-ROCCA-SAS-DI-CRINOLINI-MARCO-C.-Offerta-di-vendita_260436_20261006_114045-RIF.-MATRICOLA-FORNO-A-MICROONDE-MOD.WP-1000-PF-M-RICAMBI-PER-TOSTIERA-SRIMAN-35206.pdf?rlkey=e4jlrurrrkulba91h5jy3hrqj&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/OSTERIA DELLA ROCCA SAS DI CRINOLINI MARCO & C. Offerta di vendita_260436_20261006_114045 RIF. MATRICOLA FORNO A MICROONDE MOD.WP 1000 PF M + RICAMBI PER TOSTIERA SRIMAN 35206.pdf"
+            },
+            {
               "nome": "PANAINO SRL UNIPERSONALE Offerta di vendita_260167_20260515_165151 RIF. TAVOLO REFRIGERATO 2 SPORTELLI 151X80.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -10417,7 +10457,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 261
+          "_totale_file": 262
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -69790,6 +69830,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260455_20260915_101014 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
             },
             {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260490_20261006_100028.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3adyzg2ang3a9nf6or15l/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Ordine-cliente_260490_20261006_100028.pdf?rlkey=47lx73aak1u7m8tuljivxbmqg&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260490_20261006_100028.pdf"
+            },
+            {
               "nome": "BARLASCINI FLAVIO Ordine cliente_260173_20260527_082920 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -71150,6 +71198,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO Ordine cliente_260484_20261004_093502 RIF. Pastiglia detergente Active Green per iCombi Pro e iCombi Classic pz 150 (CONF..pdf"
             },
             {
+              "nome": "LA QUIETE DEL VECCHIO PINO di OLIVA LUCIANA Ordine cliente_260491_20261006_101437 RIF. DETERGENTE RATIONAL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vs7nnd14sspetvbygyprc/LA-QUIETE-DEL-VECCHIO-PINO-di-OLIVA-LUCIANA-Ordine-cliente_260491_20261006_101437-RIF.-DETERGENTE-RATIONAL.pdf?rlkey=glm8kwsi7hqr1nn0ju1dmahyo&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA QUIETE DEL VECCHIO PINO di OLIVA LUCIANA Ordine cliente_260491_20261006_101437 RIF. DETERGENTE RATIONAL.pdf"
+            },
+            {
               "nome": "LA REGINA S.r.l. Servizi e Logistica Ordine cliente_260269_20260713_125953 RIF. OFFERTA FORNITURA DETERGENTI LAVASTOVIGLIE Basato su Offerte.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -72366,7 +72422,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZANI STEFANO Ordine cliente_260288_20260722_094837.pdf"
             }
           ],
-          "_totale_file": 357
+          "_totale_file": 359
         }
       ],
       "file": []
