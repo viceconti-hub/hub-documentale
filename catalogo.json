@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-08T07:52:39Z",
-  "totale_file": 27326,
+  "generato": "2026-10-08T08:57:42Z",
+  "totale_file": 27327,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -238158,7 +238158,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2464,
+      "totale_file": 2465,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -238342,6 +238342,14 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "2026-10-07 10.53.05.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/o0hgkm49nuneujhaysnvp/2026-10-07-10.53.05.pdf?rlkey=sxgabsoytbbw2xi4ytfadjxto&dl=0?raw=1",
+              "dimensione_kb": 1530,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA ASSEGNI/2026-10-07 10.53.05.pdf"
+            },
+            {
               "nome": "COCCOVELLO AB 21_09_2026 e 31_10_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -238374,7 +238382,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN ENTRATA ASSEGNI/Saldo contabile - C001320 HAPPY MOMENTS RESTAURANT & SERVICE S.R.L._20260915_203002.pdf"
             }
           ],
-          "_totale_file": 4
+          "_totale_file": 5
         },
         {
           "nome": "PAGAMENTI IN USCITA ASSEGNI",
@@ -244376,7 +244384,7 @@
                           "nome": "REM BONIFICO ISTANTANEO DEL 27_07_2021.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/x2nojsd7qeo5v9yubh66q/REM-BONIFICO-ISTANTANEO-DEL-27_07_2021.pdf?rlkey=ossrvbc19oncvsmwncthb9l9g&dl=0?raw=1",
                           "dimensione_kb": 96,
                           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/ARCHIVIO DEL 18_01_2022/REM BONIFICO ISTANTANEO DEL 27_07_2021.pdf"
                         },
