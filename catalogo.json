@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-08T00:23:54Z",
-  "totale_file": 27324,
+  "generato": "2026-10-08T02:27:11Z",
+  "totale_file": 27326,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -150976,7 +150976,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4505,
+      "totale_file": 4507,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -185713,7 +185713,7 @@
                   "nome": "Orved listino 2022.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/l3k6lqfqmgumthhz7e9do/Orved-listino-2022.pdf?rlkey=9s58coqnlpqdiskbyrycpxldp&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 7028,
                   "path": "/HUB DOCUMENTALE/FORNITORI/ORVED/ARCHIVIO/Orved listino 2022.pdf"
                 },
@@ -193207,6 +193207,22 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/VARGROUP/VPN SERVER E PASSWORD.docx"
             },
             {
+              "nome": "VarGroup-ServicePortal_Informativa-migrazione.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/il2fic72pv65qnhfkkkir/VarGroup-ServicePortal_Informativa-migrazione.pdf?rlkey=0sr0oq7xule93unzunk3omf6u&dl=0?raw=1",
+              "dimensione_kb": 118,
+              "path": "/HUB DOCUMENTALE/FORNITORI/VARGROUP/VarGroup-ServicePortal_Informativa-migrazione.pdf"
+            },
+            {
+              "nome": "VarOne_Comunicazione fusione in Unizon.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fjlq2ity70s505vps55s4/VarOne_Comunicazione-fusione-in-Unizon.pdf?rlkey=a3ff2h4keg4trn8wwcncwcmep&dl=0?raw=1",
+              "dimensione_kb": 942,
+              "path": "/HUB DOCUMENTALE/FORNITORI/VARGROUP/VarOne_Comunicazione fusione in Unizon.pdf"
+            },
+            {
               "nome": "contrattoVarHub_campifirma5-fcfa8026-14ff-45f5-a250-d029edf62b16.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -193215,7 +193231,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/VARGROUP/contrattoVarHub_campifirma5-fcfa8026-14ff-45f5-a250-d029edf62b16.pdf"
             }
           ],
-          "_totale_file": 22
+          "_totale_file": 24
         },
         {
           "nome": "VEMA",
