@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-09T05:41:43Z",
-  "totale_file": 27357,
+  "generato": "2026-10-09T07:45:53Z",
+  "totale_file": 27360,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -194801,7 +194801,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5162,
+      "totale_file": 5165,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -225980,7 +225980,7 @@
                       "nome": "IFI CONFERMA ORDINE 25004711 RIF.RUSTICHELLI.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/69et7wnw5xw7ymxpd5sxe/IFI-CONFERMA-ORDINE-25004711-RIF.RUSTICHELLI.pdf?rlkey=45h3kovq5wm57mvqknav7e00c&dl=0?raw=1",
                       "dimensione_kb": 200,
                       "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/IFI ORDINI D'ACQUISTO/IFI CONFERMA ORDINE 25004711 RIF.RUSTICHELLI.pdf"
                     },
@@ -238070,6 +238070,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS AGGIORNATA.pdf"
             },
             {
+              "nome": "CB SRL Ordine dacquisto_260252_20261008_170547 RIF. Basato su Ordini cliente 260494..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yz7iqz4tf5cvtf88mqdge/CB-SRL-Ordine-dacquisto_260252_20261008_170547-RIF.-Basato-su-Ordini-cliente-260494..pdf?rlkey=dwpftgt8nvtq6esqwolf00sdf&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB SRL Ordine dacquisto_260252_20261008_170547 RIF. Basato su Ordini cliente 260494..pdf"
+            },
+            {
               "nome": "COLDLINE CONFERMA Offerta 9952 RIF.MAMA MIA RICAMBI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -238302,6 +238310,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260216_20260908_114056 RIF. Basato su Ordini cliente 260431. 260438. 260440. 260441..pdf"
             },
             {
+              "nome": "Nuova Ricambi srl ordine del 08_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9fhp3ofvlx6c29udadk91/Nuova-Ricambi-srl-ordine-del-08_10_2026.pdf?rlkey=wug342uyangz2rw5gghu2fll4&dl=0?raw=1",
+              "dimensione_kb": 119,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Nuova Ricambi srl ordine del 08_10_2026.pdf"
+            },
+            {
               "nome": "PADERNO ORDINE SBT-26016461.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -238324,6 +238340,14 @@
               "link": "https://www.dropbox.com/scl/fi/98nki2w4xnalpyzbp2qba/PIAZZA-CONFERMA-11012179_ORD_CLI_2026-OC-0003998-RIF.EVRA.pdf?rlkey=pjbcd8f0pjelh2ccshqgqi3hp&dl=0?raw=1",
               "dimensione_kb": 584,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PIAZZA CONFERMA 11012179_ORD_CLI_2026-OC-0003998 RIF.EVRA.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260251_20261006_165630.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3lqn8x5bxncbu7n17fsfg/REPA-ITALIA-SRL-Ordine-dacquisto_260251_20261006_165630.pdf?rlkey=oagops3210basw5nogoilvbp5&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260251_20261006_165630.pdf"
             },
             {
               "nome": "SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE CORRETTA.pdf",
@@ -238406,7 +238430,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORIDNE 002095 RIF. RICAMBI GRAN SOLE.pdf"
             }
           ],
-          "_totale_file": 3838
+          "_totale_file": 3841
         }
       ],
       "file": []
