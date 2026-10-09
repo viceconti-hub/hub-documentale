@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-09T00:25:09Z",
-  "totale_file": 27332,
+  "generato": "2026-10-09T02:25:22Z",
+  "totale_file": 27334,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -151024,7 +151024,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4507,
+      "totale_file": 4509,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -157242,22 +157242,30 @@
                   "link": "https://www.dropbox.com/scl/fi/uhfgxcan0dugowvp13t7s/CB_2023_Prezzi-Pubblici_Digitale_LOW.pdf?rlkey=iwanpr162t0j7ikk05ewfi6ru&dl=0?raw=1",
                   "dimensione_kb": 6392,
                   "path": "/HUB DOCUMENTALE/FORNITORI/CB/ARCHIVIO/CB_2023_Prezzi Pubblici_Digitale_LOW.pdf"
+                },
+                {
+                  "nome": "CB_2024_prezzi pubblici_digitale_LOW_V1 (1).pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kdyc5pasm01vtegmezssh/CB_2024_prezzi-pubblici_digitale_LOW_V1-1.pdf?rlkey=jza5oucywrjinv2ja6g0jsar6&dl=0?raw=1",
+                  "dimensione_kb": 6508,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/CB/ARCHIVIO/CB_2024_prezzi pubblici_digitale_LOW_V1 (1).pdf"
                 }
               ],
-              "_totale_file": 6
+              "_totale_file": 7
             }
           ],
           "file": [
             {
-              "nome": "CB_2024_prezzi pubblici_digitale_LOW_V1 (1).pdf",
+              "nome": "100.CB_price list 2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/kdyc5pasm01vtegmezssh/CB_2024_prezzi-pubblici_digitale_LOW_V1-1.pdf?rlkey=jza5oucywrjinv2ja6g0jsar6&dl=0?raw=1",
-              "dimensione_kb": 6508,
-              "path": "/HUB DOCUMENTALE/FORNITORI/CB/CB_2024_prezzi pubblici_digitale_LOW_V1 (1).pdf"
+              "link": "https://www.dropbox.com/scl/fi/aiozhc07r1llhakmng7ux/100.CB_price-list-2026.pdf?rlkey=rjpct7ihcbpn8orrkmd5bktf1&dl=0?raw=1",
+              "dimensione_kb": 8698,
+              "path": "/HUB DOCUMENTALE/FORNITORI/CB/100.CB_price list 2026.pdf"
             }
           ],
-          "_totale_file": 7
+          "_totale_file": 8
         },
         {
           "nome": "CEADO",
@@ -185761,7 +185769,7 @@
                   "nome": "Orved listino 2022.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/l3k6lqfqmgumthhz7e9do/Orved-listino-2022.pdf?rlkey=9s58coqnlpqdiskbyrycpxldp&dl=0?raw=1",
                   "dimensione_kb": 7028,
                   "path": "/HUB DOCUMENTALE/FORNITORI/ORVED/ARCHIVIO/Orved listino 2022.pdf"
                 },
@@ -192833,50 +192841,67 @@
         {
           "nome": "VALKO",
           "path": "/HUB DOCUMENTALE/FORNITORI/VALKO",
-          "cartelle": [],
-          "file": [
+          "cartelle": [
             {
-              "nome": "Depliant VALKO line_con prezzi_digitale.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/i94gykry0btcgvdkcfmt6/Depliant-VALKO-line_con-prezzi_digitale.pdf?rlkey=lwe7wtfyhh46jujnu6rqrs2vh&dl=0?raw=1",
-              "dimensione_kb": 3694,
-              "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/Depliant VALKO line_con prezzi_digitale.pdf"
-            },
-            {
-              "nome": "PREZZI NETTI VALKO LINE 1,5 - 1 FEBBRAIO 2023.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/khmnj5gpsztpgqy844j59/PREZZI-NETTI-VALKO-LINE-1-5-1-FEBBRAIO-2023.pdf?rlkey=opsy1fkw6cwcj9oeex7nl70bv&dl=0?raw=1",
-              "dimensione_kb": 190,
-              "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/PREZZI NETTI VALKO LINE 1,5 - 1 FEBBRAIO 2023.pdf"
-            },
-            {
-              "nome": "Ttre_Tquattro_IT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ufm64ghxx2p2itigadhjd/Ttre_Tquattro_IT.pdf?rlkey=vqkegqllba8685b4jiraibzye&dl=0?raw=1",
-              "dimensione_kb": 155,
-              "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/Ttre_Tquattro_IT.pdf"
-            },
-            {
-              "nome": "VALKO 2020.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/1wwzui4sgdz3f8puoc64x/VALKO-2020.pdf?rlkey=ymed5ujcdov29k7zhudb82osh&dl=0?raw=1",
-              "dimensione_kb": 29256,
-              "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/VALKO 2020.pdf"
-            },
-            {
-              "nome": "VALKO_2023_Prezzi_Pubblici_Digitale_LOW_V3.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/v8e2dxgdtqhkvrifr1bhe/VALKO_2023_Prezzi_Pubblici_Digitale_LOW_V3.pdf?rlkey=qvncy60jgu2xw4i8w5xnplzvp&dl=0?raw=1",
-              "dimensione_kb": 7144,
-              "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/VALKO_2023_Prezzi_Pubblici_Digitale_LOW_V3.pdf"
+              "nome": "ARCHIVIO VALKO",
+              "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/ARCHIVIO VALKO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Depliant VALKO line_con prezzi_digitale.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i94gykry0btcgvdkcfmt6/Depliant-VALKO-line_con-prezzi_digitale.pdf?rlkey=lwe7wtfyhh46jujnu6rqrs2vh&dl=0?raw=1",
+                  "dimensione_kb": 3694,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/ARCHIVIO VALKO/Depliant VALKO line_con prezzi_digitale.pdf"
+                },
+                {
+                  "nome": "PREZZI NETTI VALKO LINE 1,5 - 1 FEBBRAIO 2023.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/khmnj5gpsztpgqy844j59/PREZZI-NETTI-VALKO-LINE-1-5-1-FEBBRAIO-2023.pdf?rlkey=opsy1fkw6cwcj9oeex7nl70bv&dl=0?raw=1",
+                  "dimensione_kb": 190,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/ARCHIVIO VALKO/PREZZI NETTI VALKO LINE 1,5 - 1 FEBBRAIO 2023.pdf"
+                },
+                {
+                  "nome": "Ttre_Tquattro_IT.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ufm64ghxx2p2itigadhjd/Ttre_Tquattro_IT.pdf?rlkey=vqkegqllba8685b4jiraibzye&dl=0?raw=1",
+                  "dimensione_kb": 155,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/ARCHIVIO VALKO/Ttre_Tquattro_IT.pdf"
+                },
+                {
+                  "nome": "VALKO 2020.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1wwzui4sgdz3f8puoc64x/VALKO-2020.pdf?rlkey=ymed5ujcdov29k7zhudb82osh&dl=0?raw=1",
+                  "dimensione_kb": 29256,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/ARCHIVIO VALKO/VALKO 2020.pdf"
+                },
+                {
+                  "nome": "VALKO_2023_Prezzi_Pubblici_Digitale_LOW_V3.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/v8e2dxgdtqhkvrifr1bhe/VALKO_2023_Prezzi_Pubblici_Digitale_LOW_V3.pdf?rlkey=qvncy60jgu2xw4i8w5xnplzvp&dl=0?raw=1",
+                  "dimensione_kb": 7144,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/ARCHIVIO VALKO/VALKO_2023_Prezzi_Pubblici_Digitale_LOW_V3.pdf"
+                }
+              ],
+              "_totale_file": 5
             }
           ],
-          "_totale_file": 5
+          "file": [
+            {
+              "nome": "100.VALKO_price list 2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ig9u1o2jbq1qgi8t9n0fh/100.VALKO_price-list-2026.pdf?rlkey=kr9hyxsboahkp4jdos1l91701&dl=0?raw=1",
+              "dimensione_kb": 3936,
+              "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/100.VALKO_price list 2026.pdf"
+            }
+          ],
+          "_totale_file": 6
         },
         {
           "nome": "VALMAR Italia",
