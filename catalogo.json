@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-08T11:13:17Z",
-  "totale_file": 27327,
+  "generato": "2026-10-09T00:25:09Z",
+  "totale_file": 27332,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -77041,7 +77041,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7389,
+      "totale_file": 7394,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -129343,7 +129343,7 @@
                           "nome": "VICECONTI SNC FT 2300563 DEL 31_08_2023.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/uv1fs0gbreme4xh3weipq/VICECONTI-SNC-FT-2300563-DEL-31_08_2023.pdf?rlkey=5bqt1d6p1rzngqna52ylhcbcc&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 11,
                           "path": "/HUB DOCUMENTALE/CLIENTI/RIVELLO/AGRITURISMO COCCOVELLO/BANDO AGRITURISMO 02_2022/FATTURE MINISTERIALI E MOVIMENTI/VICECONTI SNC FT 2300563 DEL 31_08_2023.pdf"
                         }
@@ -147297,6 +147297,54 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE",
                   "cartelle": [
                     {
+                      "nome": "LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/pnuwdi29w6cf30hgzdjxu/LAVASTOVIGLIE-ATA-AF880-MATRICOLA-0706880039-DATI-MACCHINA.jpg?rlkey=wxki4milc7k7aik2mftqv6rh0&dl=0?raw=1",
+                          "dimensione_kb": 161,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039 DATI MACCHINA.jpg"
+                        },
+                        {
+                          "nome": "LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039 ESPLOSO RICAMBI ELETTRICO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/iutz99dnn74urhqkkmb3l/LAVASTOVIGLIE-ATA-AF880-MATRICOLA-0706880039-ESPLOSO-RICAMBI-ELETTRICO.pdf?rlkey=i7tj2to1v28rcbhw4p4vj4jc6&dl=0?raw=1",
+                          "dimensione_kb": 178,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039 ESPLOSO RICAMBI ELETTRICO.pdf"
+                        },
+                        {
+                          "nome": "LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039 ESPLOSO RICAMBI IDRAULICO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/ewarm6mfmoiyytda86xkl/LAVASTOVIGLIE-ATA-AF880-MATRICOLA-0706880039-ESPLOSO-RICAMBI-IDRAULICO.pdf?rlkey=x65ko0sbwk5sty3dxpj3lgyx8&dl=0?raw=1",
+                          "dimensione_kb": 105,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039 ESPLOSO RICAMBI IDRAULICO.pdf"
+                        },
+                        {
+                          "nome": "LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039 ESPLOSO RICAMBI MECCANICO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/km9wekjlsnxs9l84t9x2t/LAVASTOVIGLIE-ATA-AF880-MATRICOLA-0706880039-ESPLOSO-RICAMBI-MECCANICO.pdf?rlkey=2n406pgbkszxb277z8avadz3f&dl=0?raw=1",
+                          "dimensione_kb": 161,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039 ESPLOSO RICAMBI MECCANICO.pdf"
+                        },
+                        {
+                          "nome": "LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039 ESPLOSO RICAMBI POMPA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/hz6lkuwrc3y8dtolsznbx/LAVASTOVIGLIE-ATA-AF880-MATRICOLA-0706880039-ESPLOSO-RICAMBI-POMPA.pdf?rlkey=z8r5ufntvac1nl1f6er0lxk0a&dl=0?raw=1",
+                          "dimensione_kb": 136,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039/LAVASTOVIGLIE ATA AF880 MATRICOLA 0706880039 ESPLOSO RICAMBI POMPA.pdf"
+                        }
+                      ],
+                      "_totale_file": 5
+                    },
+                    {
                       "nome": "MICROONDE SIRMAN",
                       "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/MICROONDE SIRMAN",
                       "cartelle": [],
@@ -147437,7 +147485,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/AREA TECNICA LANTERNA VERDE/unnamed.jpg"
                     }
                   ],
-                  "_totale_file": 12
+                  "_totale_file": 17
                 },
                 {
                   "nome": "DOCUMENTI PER BANDO 09_2024",
@@ -147626,7 +147674,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/LANTERNA VERDE/WhatsApp Image 2022-09-06 at 12.30.10.jpeg"
                 }
               ],
-              "_totale_file": 33
+              "_totale_file": 38
             },
             {
               "nome": "LE BONTA' TRECCHINESI",
@@ -149122,7 +149170,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/Fattura anticipo cliente_2510012_20250710_103114.pdf"
             }
           ],
-          "_totale_file": 295
+          "_totale_file": 300
         },
         {
           "nome": "TRIESTE",
