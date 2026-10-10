@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-09T09:05:42Z",
-  "totale_file": 27360,
+  "generato": "2026-10-10T00:20:00Z",
+  "totale_file": 27362,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -77225,7 +77225,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7394,
+      "totale_file": 7396,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -124751,10 +124751,34 @@
                         }
                       ],
                       "_totale_file": 1
+                    },
+                    {
+                      "nome": "FRIGGITRICE ELETTRICA MODULAR R90_40FRER_1V17_P MATRICOLA SN_042508708",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ILAMA di D'ARCO PASQUALE/ILAMA AREA TECNICA/FRIGGITRICE ELETTRICA MODULAR R90_40FRER_1V17_P MATRICOLA SN_042508708",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "FRIGGITRICE ELETTRICA MODULAR MATRICOLA SN_04250 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/s3w7clitaw40umib3a2rh/FRIGGITRICE-ELETTRICA-MODULAR-MATRICOLA-SN_04250-DATI-MACCHINA.jpg?rlkey=v1ahi72x2n4wib39x69zgt534&dl=0?raw=1",
+                          "dimensione_kb": 101,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ILAMA di D'ARCO PASQUALE/ILAMA AREA TECNICA/FRIGGITRICE ELETTRICA MODULAR R90_40FRER_1V17_P MATRICOLA SN_042508708/FRIGGITRICE ELETTRICA MODULAR MATRICOLA SN_04250 DATI MACCHINA.jpg"
+                        },
+                        {
+                          "nome": "FRIGGITRICE ELETTRICA MODULAR MATRICOLA SN_04250 FOTO RESISTENZA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/sbgur5ruu4t1r8sjpikzu/FRIGGITRICE-ELETTRICA-MODULAR-MATRICOLA-SN_04250-FOTO-RESISTENZA.jpg?rlkey=ct22nkra09u1avu6k9l2c5vtx&dl=0?raw=1",
+                          "dimensione_kb": 95,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ILAMA di D'ARCO PASQUALE/ILAMA AREA TECNICA/FRIGGITRICE ELETTRICA MODULAR R90_40FRER_1V17_P MATRICOLA SN_042508708/FRIGGITRICE ELETTRICA MODULAR MATRICOLA SN_04250 FOTO RESISTENZA.jpg"
+                        }
+                      ],
+                      "_totale_file": 2
                     }
                   ],
                   "file": [],
-                  "_totale_file": 1
+                  "_totale_file": 3
                 },
                 {
                   "nome": "fatture-pdf",
@@ -124871,7 +124895,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ILAMA di D'ARCO PASQUALE/MODELLO SITUAZIONE CONTABILE ILAMA 21_10_2025.xlsx"
                 }
               ],
-              "_totale_file": 14
+              "_totale_file": 16
             },
             {
               "nome": "IMMOBILIARE LA CASETTA",
@@ -129376,7 +129400,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 713
+          "_totale_file": 715
         },
         {
           "nome": "RIMINI",
@@ -129527,7 +129551,7 @@
                           "nome": "VICECONTI SNC FT 2300563 DEL 31_08_2023.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/uv1fs0gbreme4xh3weipq/VICECONTI-SNC-FT-2300563-DEL-31_08_2023.pdf?rlkey=5bqt1d6p1rzngqna52ylhcbcc&dl=0?raw=1",
                           "dimensione_kb": 11,
                           "path": "/HUB DOCUMENTALE/CLIENTI/RIVELLO/AGRITURISMO COCCOVELLO/BANDO AGRITURISMO 02_2022/FATTURE MINISTERIALI E MOVIMENTI/VICECONTI SNC FT 2300563 DEL 31_08_2023.pdf"
                         }
