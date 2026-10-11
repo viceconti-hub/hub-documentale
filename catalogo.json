@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-11T00:16:34Z",
-  "totale_file": 27362,
+  "generato": "2026-10-11T02:13:38Z",
+  "totale_file": 27363,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -151232,7 +151232,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4509,
+      "totale_file": 4510,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -187543,6 +187543,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/AIR BAFFLE 22.01.334P_L48n. Chr.jpeg"
                 },
                 {
+                  "nome": "CONFRONTO_MATRICOLE_RATIONAL_SAP_2026-10-09.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/mhu5cl11bu8n13cwyvz4a/CONFRONTO_MATRICOLE_RATIONAL_SAP_2026-10-09.md?rlkey=rcnkg6mj00o962hx1zxj634q8&dl=0?raw=1",
+                  "dimensione_kb": 15,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/CONFRONTO_MATRICOLE_RATIONAL_SAP_2026-10-09.md"
+                },
+                {
                   "nome": "Gmail - IMPORTANTE!!! - Aggiornamento Software Obbligatorio.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -187631,7 +187639,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/RATIONAL AREA TECNICA/flyer-softwareupdate-connectedcooking-it-it.pdf"
                 }
               ],
-              "_totale_file": 33
+              "_totale_file": 34
             },
             {
               "nome": "RATIONAL CHIAVI USB",
@@ -188582,7 +188590,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/RATIONAL/cannillo viceconti solo logo.pdf"
             }
           ],
-          "_totale_file": 146
+          "_totale_file": 147
         },
         {
           "nome": "REGINA ATTREZZATURE",
