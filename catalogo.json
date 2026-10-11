@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-11T07:25:00Z",
-  "totale_file": 27364,
+  "generato": "2026-10-11T08:27:25Z",
+  "totale_file": 27366,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -238479,7 +238479,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2465,
+      "totale_file": 2467,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -259746,6 +259746,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/CASELLA GIUSEPPE Dettaglio bonifico istantaneo 9_04_2026.pdf"
             },
             {
+              "nome": "CB Dettaglio bonifico istantaneo DEL 09.10.2026pdf.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bgxo7ntca7b3ptzy3vzoz/CB-Dettaglio-bonifico-istantaneo-DEL-09.10.2026pdf.pdf?rlkey=uzzbvl3wdqhhgs4iqvobzbs8k&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/CB Dettaglio bonifico istantaneo DEL 09.10.2026pdf.pdf"
+            },
+            {
               "nome": "CB Dettaglio bonifico istantaneo DEL 13_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -260402,6 +260410,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/SALYER BLADES SRL Dettaglio bonifico istantaneo DEL 15_05_2026.pdf"
             },
             {
+              "nome": "SATRIANO Dettaglio bonifico istantaneo DEL 9_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/umpz66bva9tj4zefqao3z/SATRIANO-Dettaglio-bonifico-istantaneo-DEL-9_10_2026.pdf?rlkey=cp0sr5g99taj75rdbq0q222hz&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/SATRIANO Dettaglio bonifico istantaneo DEL 9_10_2026.pdf"
+            },
+            {
               "nome": "SCARDINO Dettaglio bonifico istantaneo DEL 4_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -260570,7 +260586,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2373
+          "_totale_file": 2375
         }
       ],
       "file": []
