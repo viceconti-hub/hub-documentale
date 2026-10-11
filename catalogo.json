@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-11T05:26:18Z",
-  "totale_file": 27363,
+  "generato": "2026-10-11T07:25:00Z",
+  "totale_file": 27364,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -194833,7 +194833,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5165,
+      "totale_file": 5166,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -238102,6 +238102,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS AGGIORNATA.pdf"
             },
             {
+              "nome": "CB CONFERMA ORDINE 5B4CC423-EB8D-4008-86A2-E814714695F7 RIF.VISENTINI ANGELO_SCHIDIONE.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/41p5deaob7dfr50kbxve4/CB-CONFERMA-ORDINE-5B4CC423-EB8D-4008-86A2-E814714695F7-RIF.VISENTINI-ANGELO_SCHIDIONE.PDF?rlkey=av1eqlf0x7llalv2845k7rx5t&dl=0?raw=1",
+              "dimensione_kb": 411,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB CONFERMA ORDINE 5B4CC423-EB8D-4008-86A2-E814714695F7 RIF.VISENTINI ANGELO_SCHIDIONE.PDF"
+            },
+            {
               "nome": "CB SRL Ordine dacquisto_260252_20261008_170547 RIF. Basato su Ordini cliente 260494..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -238462,7 +238470,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORIDNE 002095 RIF. RICAMBI GRAN SOLE.pdf"
             }
           ],
-          "_totale_file": 3841
+          "_totale_file": 3842
         }
       ],
       "file": []
