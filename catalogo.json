@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-12T09:13:02Z",
-  "totale_file": 27366,
+  "generato": "2026-10-13T00:29:36Z",
+  "totale_file": 27369,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -77225,7 +77225,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7396,
+      "totale_file": 7399,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -97099,152 +97099,6 @@
               "_totale_file": 10
             },
             {
-              "nome": "GMT",
-              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT",
-              "cartelle": [
-                {
-                  "nome": "AREA TECNICA GMT",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT",
-                  "cartelle": [
-                    {
-                      "nome": "LAVASTOVILGIE KRUPPS",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/LAVASTOVILGIE KRUPPS",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "WhatsApp Image 2022-03-22 at 17.41.10.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/iote8obf0udu0psel2pld/WhatsApp-Image-2022-03-22-at-17.41.10.jpeg?rlkey=siyyr9uwrldsf8z81tvf3w92g&dl=0?raw=1",
-                          "dimensione_kb": 75,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/LAVASTOVILGIE KRUPPS/WhatsApp Image 2022-03-22 at 17.41.10.jpeg"
-                        },
-                        {
-                          "nome": "document.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/1hk3haixks3730glfqhu9/document.pdf?rlkey=jimiwyw2ptlj7ie2vrultuw32&dl=0?raw=1",
-                          "dimensione_kb": 2522,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/LAVASTOVILGIE KRUPPS/document.pdf"
-                        }
-                      ],
-                      "_totale_file": 2
-                    },
-                    {
-                      "nome": "RATIONAL XS TRIFASE GMT",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/RATIONAL XS TRIFASE GMT",
-                      "cartelle": [
-                        {
-                          "nome": "E60SI17062594694",
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/RATIONAL XS TRIFASE GMT/E60SI17062594694",
-                          "cartelle": [
-                            {
-                              "nome": "startexec",
-                              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/RATIONAL XS TRIFASE GMT/E60SI17062594694/startexec",
-                              "cartelle": [],
-                              "file": [
-                                {
-                                  "nome": "A_makereport.xml",
-                                  "tipo": "File",
-                                  "icona": "📎",
-                                  "link": "https://www.dropbox.com/scl/fi/ibrjwqws7o1q1ewqo3pm8/A_makereport.xml?rlkey=y7tqgz72syuy1x2fte3uz3o80&dl=0?raw=1",
-                                  "dimensione_kb": 0,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/RATIONAL XS TRIFASE GMT/E60SI17062594694/startexec/A_makereport.xml"
-                                },
-                                {
-                                  "nome": "E60SI17062594694.xml",
-                                  "tipo": "File",
-                                  "icona": "📎",
-                                  "link": "https://www.dropbox.com/scl/fi/1us72wvzqcrk0f3j47svo/E60SI17062594694.xml?rlkey=3184s0o18vs783ro9rz33im0q&dl=0?raw=1",
-                                  "dimensione_kb": 9,
-                                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/RATIONAL XS TRIFASE GMT/E60SI17062594694/startexec/E60SI17062594694.xml"
-                                }
-                              ],
-                              "_totale_file": 2
-                            }
-                          ],
-                          "file": [],
-                          "_totale_file": 2
-                        }
-                      ],
-                      "file": [
-                        {
-                          "nome": "CODICE SCHEDA GMT.jpg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/u1qu7qfl1vmo2oeow9jvm/CODICE-SCHEDA-GMT.jpg?rlkey=bvas2mzeesk4w7g7g7rkxie9m&dl=0?raw=1",
-                          "dimensione_kb": 170,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/RATIONAL XS TRIFASE GMT/CODICE SCHEDA GMT.jpg"
-                        },
-                        {
-                          "nome": "E60SI17062594694.zip",
-                          "tipo": "Archivio",
-                          "icona": "🗜️",
-                          "link": "https://www.dropbox.com/scl/fi/5qfenziljv7z77ni21sa6/E60SI17062594694.zip?rlkey=e4jg7zz1t7bhrwzyx0smghtiy&dl=0?raw=1",
-                          "dimensione_kb": 3,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/RATIONAL XS TRIFASE GMT/E60SI17062594694.zip"
-                        },
-                        {
-                          "nome": "RATIONAL XS DATI MACCHINA.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/dbvaiyvcqbboindzbzuj8/RATIONAL-XS-DATI-MACCHINA.jpeg?rlkey=inw1wjqei8itrb8969rx8s3ix&dl=0?raw=1",
-                          "dimensione_kb": 356,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/RATIONAL XS TRIFASE GMT/RATIONAL XS DATI MACCHINA.jpeg"
-                        },
-                        {
-                          "nome": "RATIONAL XS GMT ESPLOSO 2594694_it.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/e9dg1uymmmb9qjk5if6wv/RATIONAL-XS-GMT-ESPLOSO-2594694_it.pdf?rlkey=8vu500gvtljcbn31w3g9976hw&dl=0?raw=1",
-                          "dimensione_kb": 1388,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/RATIONAL XS TRIFASE GMT/RATIONAL XS GMT ESPLOSO 2594694_it.pdf"
-                        },
-                        {
-                          "nome": "schematics (2).pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/r3h7p8quoz4nu3pp1a6by/schematics-2.pdf?rlkey=i2gpiy77c60fa3hkelfp6ad3e&dl=0?raw=1",
-                          "dimensione_kb": 136,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/AREA TECNICA GMT/RATIONAL XS TRIFASE GMT/schematics (2).pdf"
-                        }
-                      ],
-                      "_totale_file": 7
-                    }
-                  ],
-                  "file": [],
-                  "_totale_file": 9
-                }
-              ],
-              "file": [
-                {
-                  "nome": "GMT Allegato G viceconti snc (2).pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/v8oc2v8t2gnmvsr1m6eae/GMT-Allegato-G-viceconti-snc-2.pdf?rlkey=thqwl6vebipwga7y8qkh8xts0&dl=0?raw=1",
-                  "dimensione_kb": 67,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/GMT Allegato G viceconti snc (2).pdf"
-                },
-                {
-                  "nome": "GMT LIBERATORIA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/9kgb7tn0l6e35ikw7vyom/GMT-LIBERATORIA.pdf?rlkey=tda080vaccga4oqyicx8i8j1h&dl=0?raw=1",
-                  "dimensione_kb": 562,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/GMT LIBERATORIA.pdf"
-                },
-                {
-                  "nome": "GMT SITUAZIONE CONTABILE AL 24_09_2020.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/8y05iy5euj0ua2w25pqve/GMT-SITUAZIONE-CONTABILE-AL-24_09_2020.pdf?rlkey=xqfjbvgcuwdn0nz7optclbvva&dl=0?raw=1",
-                  "dimensione_kb": 38,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GMT/GMT SITUAZIONE CONTABILE AL 24_09_2020.pdf"
-                }
-              ],
-              "_totale_file": 12
-            },
-            {
               "nome": "GOLDEN FRUTTA",
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GOLDEN FRUTTA",
               "cartelle": [
@@ -106305,7 +106159,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1323
+          "_totale_file": 1311
         },
         {
           "nome": "LAVELLO",
@@ -118743,17 +118597,131 @@
                           "link": "https://www.dropbox.com/scl/fi/dlw4dv2lvlkva014snadr/LAVASTOVIGLIE-KRUPPS-THESIS-H56E-MATRICOLA-201568590-DATI-MACCHINA.jpeg?rlkey=857j69e0f84sdmc8xzqqxpl85&dl=0?raw=1",
                           "dimensione_kb": 75,
                           "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/LAVASTOVIGLIE KRUPPS THESIS H56E MATRICOLA  201568590/LAVASTOVIGLIE KRUPPS THESIS H56E MATRICOLA  201568590 DATI MACCHINA.jpeg"
+                        },
+                        {
+                          "nome": "document.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/1hk3haixks3730glfqhu9/document.pdf?rlkey=jimiwyw2ptlj7ie2vrultuw32&dl=0?raw=1",
+                          "dimensione_kb": 2522,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/LAVASTOVIGLIE KRUPPS THESIS H56E MATRICOLA  201568590/document.pdf"
                         }
                       ],
-                      "_totale_file": 1
+                      "_totale_file": 2
+                    },
+                    {
+                      "nome": "RATIONAL XS TRIFASE GMT",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/RATIONAL XS TRIFASE GMT",
+                      "cartelle": [
+                        {
+                          "nome": "E60SI17062594694",
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/RATIONAL XS TRIFASE GMT/E60SI17062594694",
+                          "cartelle": [
+                            {
+                              "nome": "startexec",
+                              "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/RATIONAL XS TRIFASE GMT/E60SI17062594694/startexec",
+                              "cartelle": [],
+                              "file": [
+                                {
+                                  "nome": "A_makereport.xml",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/ibrjwqws7o1q1ewqo3pm8/A_makereport.xml?rlkey=y7tqgz72syuy1x2fte3uz3o80&dl=0?raw=1",
+                                  "dimensione_kb": 0,
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/RATIONAL XS TRIFASE GMT/E60SI17062594694/startexec/A_makereport.xml"
+                                },
+                                {
+                                  "nome": "E60SI17062594694.xml",
+                                  "tipo": "File",
+                                  "icona": "📎",
+                                  "link": "https://www.dropbox.com/scl/fi/1us72wvzqcrk0f3j47svo/E60SI17062594694.xml?rlkey=3184s0o18vs783ro9rz33im0q&dl=0?raw=1",
+                                  "dimensione_kb": 9,
+                                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/RATIONAL XS TRIFASE GMT/E60SI17062594694/startexec/E60SI17062594694.xml"
+                                }
+                              ],
+                              "_totale_file": 2
+                            }
+                          ],
+                          "file": [],
+                          "_totale_file": 2
+                        }
+                      ],
+                      "file": [
+                        {
+                          "nome": "CODICE SCHEDA GMT.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/u1qu7qfl1vmo2oeow9jvm/CODICE-SCHEDA-GMT.jpg?rlkey=bvas2mzeesk4w7g7g7rkxie9m&dl=0?raw=1",
+                          "dimensione_kb": 170,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/RATIONAL XS TRIFASE GMT/CODICE SCHEDA GMT.jpg"
+                        },
+                        {
+                          "nome": "E60SI17062594694.zip",
+                          "tipo": "Archivio",
+                          "icona": "🗜️",
+                          "link": "https://www.dropbox.com/scl/fi/5qfenziljv7z77ni21sa6/E60SI17062594694.zip?rlkey=e4jg7zz1t7bhrwzyx0smghtiy&dl=0?raw=1",
+                          "dimensione_kb": 3,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/RATIONAL XS TRIFASE GMT/E60SI17062594694.zip"
+                        },
+                        {
+                          "nome": "RATIONAL XS DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/dbvaiyvcqbboindzbzuj8/RATIONAL-XS-DATI-MACCHINA.jpeg?rlkey=inw1wjqei8itrb8969rx8s3ix&dl=0?raw=1",
+                          "dimensione_kb": 356,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/RATIONAL XS TRIFASE GMT/RATIONAL XS DATI MACCHINA.jpeg"
+                        },
+                        {
+                          "nome": "RATIONAL XS GMT ESPLOSO 2594694_it.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/e9dg1uymmmb9qjk5if6wv/RATIONAL-XS-GMT-ESPLOSO-2594694_it.pdf?rlkey=8vu500gvtljcbn31w3g9976hw&dl=0?raw=1",
+                          "dimensione_kb": 1388,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/RATIONAL XS TRIFASE GMT/RATIONAL XS GMT ESPLOSO 2594694_it.pdf"
+                        },
+                        {
+                          "nome": "schematics (2).pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/r3h7p8quoz4nu3pp1a6by/schematics-2.pdf?rlkey=i2gpiy77c60fa3hkelfp6ad3e&dl=0?raw=1",
+                          "dimensione_kb": 136,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SRL AREA TECNICA/RATIONAL XS TRIFASE GMT/schematics (2).pdf"
+                        }
+                      ],
+                      "_totale_file": 7
                     }
                   ],
                   "file": [],
-                  "_totale_file": 1
+                  "_totale_file": 9
                 }
               ],
-              "file": [],
-              "_totale_file": 1
+              "file": [
+                {
+                  "nome": "GMT Allegato G viceconti snc (2).pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/v8oc2v8t2gnmvsr1m6eae/GMT-Allegato-G-viceconti-snc-2.pdf?rlkey=thqwl6vebipwga7y8qkh8xts0&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT Allegato G viceconti snc (2).pdf"
+                },
+                {
+                  "nome": "GMT LIBERATORIA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9kgb7tn0l6e35ikw7vyom/GMT-LIBERATORIA.pdf?rlkey=tda080vaccga4oqyicx8i8j1h&dl=0?raw=1",
+                  "dimensione_kb": 562,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT LIBERATORIA.pdf"
+                },
+                {
+                  "nome": "GMT SITUAZIONE CONTABILE AL 24_09_2020.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8y05iy5euj0ua2w25pqve/GMT-SITUAZIONE-CONTABILE-AL-24_09_2020.pdf?rlkey=xqfjbvgcuwdn0nz7optclbvva&dl=0?raw=1",
+                  "dimensione_kb": 38,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GMT/GMT SITUAZIONE CONTABILE AL 24_09_2020.pdf"
+                }
+              ],
+              "_totale_file": 12
             },
             {
               "nome": "GRAN SOLE",
@@ -118964,6 +118932,38 @@
                       "_totale_file": 1
                     },
                     {
+                      "nome": "IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/lxr8a8vlzx92yqlks6566/IMPACCHETTATRICE-MANUALE-DIPA50-MATRICOLA-00249-DATI-MACCHINA.jpg?rlkey=ass9a24qlqhmeb0po0ryse5oy&dl=0?raw=1",
+                          "dimensione_kb": 171,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249/IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249 DATI MACCHINA.jpg"
+                        },
+                        {
+                          "nome": "IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249 ESPLOSO RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/1x74sdj2117brmmf092mx/IMPACCHETTATRICE-MANUALE-DIPA50-MATRICOLA-00249-ESPLOSO-RICAMBI.pdf?rlkey=cxdwiwdr33i1f5n4er6k454t4&dl=0?raw=1",
+                          "dimensione_kb": 224,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249/IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249 ESPLOSO RICAMBI.pdf"
+                        },
+                        {
+                          "nome": "IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249 FOTO MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/2gqec113cfdw7a6hl8fsm/IMPACCHETTATRICE-MANUALE-DIPA50-MATRICOLA-00249-FOTO-MACCHINA.jpg?rlkey=ykzbl7hdgdr2rxh8kr03ln30y&dl=0?raw=1",
+                          "dimensione_kb": 176,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249/IMPACCHETTATRICE MANUALE DIPA50 MATRICOLA 00249 FOTO MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 3
+                    },
+                    {
                       "nome": "MACCHINA SOTTOVUOTO TECNOVAC LAGONEGRO",
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/MACCHINA SOTTOVUOTO TECNOVAC LAGONEGRO",
                       "cartelle": [],
@@ -118998,7 +118998,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE/GRATTUGIA FIMAR DARI MACCHINA.jpg"
                     }
                   ],
-                  "_totale_file": 23
+                  "_totale_file": 26
                 },
                 {
                   "nome": "AREA TECNICA GRANSOLE MARATEA",
@@ -120461,7 +120461,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/WhatsApp Image 2023-03-27 at 10.51.53.jpeg"
                 }
               ],
-              "_totale_file": 193
+              "_totale_file": 196
             },
             {
               "nome": "H.END",
@@ -121679,7 +121679,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 455
+          "_totale_file": 469
         },
         {
           "nome": "ORIOLO",
@@ -138886,6 +138886,22 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/LUILORE SRLS/LUILORE AREA TECNICA",
                   "cartelle": [
                     {
+                      "nome": "IMPASTATRICE FIMAR IM25SNGV405T MATRICOLA 220409090",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/LUILORE SRLS/LUILORE AREA TECNICA/IMPASTATRICE FIMAR IM25SNGV405T MATRICOLA 220409090",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "IMPASTATRICE FIMAR IM25SNGV405T MATRICOLA 220409090 DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/8f8hwxylq6gep7nwdgyby/IMPASTATRICE-FIMAR-IM25SNGV405T-MATRICOLA-220409090-DATI-MACCHINA.jpeg?rlkey=mjkav7fpcqbbwd3b7m30kvc7e&dl=0?raw=1",
+                          "dimensione_kb": 131,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/LUILORE SRLS/LUILORE AREA TECNICA/IMPASTATRICE FIMAR IM25SNGV405T MATRICOLA 220409090/IMPASTATRICE FIMAR IM25SNGV405T MATRICOLA 220409090 DATI MACCHINA.jpeg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "RATIONAL",
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/LUILORE SRLS/LUILORE AREA TECNICA/RATIONAL",
                       "cartelle": [],
@@ -138919,7 +138935,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 3
+                  "_totale_file": 4
                 },
                 {
                   "nome": "LUILORE DDT",
@@ -139221,7 +139237,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/LUILORE SRLS/LUILORE' IT016417907022024j_00Q9I.pdf"
                 }
               ],
-              "_totale_file": 45
+              "_totale_file": 46
             },
             {
               "nome": "PASSION SUSHI DI MOMADE",
@@ -139813,7 +139829,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 185
+          "_totale_file": 186
         },
         {
           "nome": "SARCONI",
