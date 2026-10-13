@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-13T08:10:57Z",
-  "totale_file": 27420,
+  "generato": "2026-10-13T09:22:41Z",
+  "totale_file": 27421,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -238935,7 +238935,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2467,
+      "totale_file": 2468,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -260610,6 +260610,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/KARL Dettaglio bonifico istantaneo DEL 29_07_2026.pdf"
             },
             {
+              "nome": "KRUPPS Dettaglio bonifico istantaneo DEL 12_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ovhvj40tux18zysa16kj1/KRUPPS-Dettaglio-bonifico-istantaneo-DEL-12_10_2026.pdf?rlkey=zadscagja9qyclie101anqkes&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/KRUPPS Dettaglio bonifico istantaneo DEL 12_10_2026.pdf"
+            },
+            {
               "nome": "KRUPPS Dettaglio bonifico istantaneo DEL 27_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -261042,7 +261050,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2375
+          "_totale_file": 2376
         }
       ],
       "file": []
