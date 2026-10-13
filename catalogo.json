@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-13T00:29:36Z",
-  "totale_file": 27369,
+  "generato": "2026-10-13T02:33:18Z",
+  "totale_file": 27371,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -151248,7 +151248,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4510,
+      "totale_file": 4512,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -180643,6 +180643,22 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "KAREL CATALOGO 2020-2021 COMPLETO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dxdstz01xjjpycdj6kf8n/KAREL-CATALOGO-2020-2021-COMPLETO.pdf?rlkey=ktjm5vaanym8t33dpyv6qfksv&dl=0?raw=1",
+                  "dimensione_kb": 16914,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/ARCHIVIO/KAREL CATALOGO 2020-2021 COMPLETO.pdf"
+                },
+                {
+                  "nome": "KAREL LISTINO 2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lr22z1a0bvbdgr39l5wyn/KAREL-LISTINO-2024.pdf?rlkey=ydavie3j8uqj0755b198i3gft&dl=0?raw=1",
+                  "dimensione_kb": 1570,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/ARCHIVIO/KAREL LISTINO 2024.pdf"
+                },
+                {
                   "nome": "KAREL LISTINO 29_09_2021 + PREZZI NETTI.xlsx",
                   "tipo": "Excel",
                   "icona": "📊",
@@ -180657,6 +180673,14 @@
                   "link": "https://www.dropbox.com/scl/fi/wrgpwug393zs0septaznm/KAREL-LISTINO-AGGIORNATO-MAGGIO-2021.pdf?rlkey=5wh664j82rz9j38744bjqy2gu&dl=0?raw=1",
                   "dimensione_kb": 1567,
                   "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/ARCHIVIO/KAREL LISTINO AGGIORNATO MAGGIO 2021.pdf"
+                },
+                {
+                  "nome": "KAREL LISTINO APRILE 2023.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/04m8v7alo0rrhwhshkb4t/KAREL-LISTINO-APRILE-2023.PDF?rlkey=yvf6a28fgjg1okmswvfhrggpy&dl=0?raw=1",
+                  "dimensione_kb": 1422,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/ARCHIVIO/KAREL LISTINO APRILE 2023.PDF"
                 },
                 {
                   "nome": "KAREL LISTINO GENNAIO 2023.pdf",
@@ -180675,6 +180699,38 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/ARCHIVIO/KAREL LISTINO LUGLIO-2022-001656607847.pdf"
                 },
                 {
+                  "nome": "KAREL LISTINO settembre 2023.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4zjzt71mfvo012e2rnffp/KAREL-LISTINO-settembre-2023.PDF?rlkey=3sl88e24mj1gh20ip07ye0s2d&dl=0?raw=1",
+                  "dimensione_kb": 2503,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/ARCHIVIO/KAREL LISTINO settembre 2023.PDF"
+                },
+                {
+                  "nome": "KAREL_DITO SAMA_LISTINO_02_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/uyk7zdhzibry54bbmt08d/KAREL_DITO-SAMA_LISTINO_02_2022.pdf?rlkey=aldbb1gkz7bhui5vyuz49geq9&dl=0?raw=1",
+                  "dimensione_kb": 4170,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/ARCHIVIO/KAREL_DITO SAMA_LISTINO_02_2022.pdf"
+                },
+                {
+                  "nome": "catalogo-karel-2024.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bh9ueua26vc589x83tknp/catalogo-karel-2024.pdf?rlkey=m0gygzc7461ld30vad7g90yvp&dl=0?raw=1",
+                  "dimensione_kb": 29134,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/ARCHIVIO/catalogo-karel-2024.pdf"
+                },
+                {
+                  "nome": "download-files-file-e311d963-c6f0-4863-b00d-8b59bc0d22e9-1705423187.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/sjw8534mrion4hcsg1h1q/download-files-file-e311d963-c6f0-4863-b00d-8b59bc0d22e9-1705423187.pdf?rlkey=ciqi4yeirnq3zpnsee4uc0lqm&dl=0?raw=1",
+                  "dimensione_kb": 29139,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/ARCHIVIO/download-files-file-e311d963-c6f0-4863-b00d-8b59bc0d22e9-1705423187.pdf"
+                },
+                {
                   "nome": "promo-karel-estate-2022-001656091702.xlsx",
                   "tipo": "Excel",
                   "icona": "📊",
@@ -180683,7 +180739,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/ARCHIVIO/promo-karel-estate-2022-001656091702.xlsx"
                 }
               ],
-              "_totale_file": 5
+              "_totale_file": 12
             },
             {
               "nome": "AREA TECNCICA",
@@ -181392,8 +181448,24 @@
               "_totale_file": 4
             },
             {
-              "nome": "MANUALI ATTREZZATURE",
-              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/MANUALI ATTREZZATURE",
+              "nome": "KAREL FORMAZIONE MATERIALE SEO",
+              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL FORMAZIONE MATERIALE SEO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "KAREL BACINELLE PROFESSIONALI LA GUIDA COMPLETA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/o1jpu9dngm5fytg8kzpu7/KAREL-BACINELLE-PROFESSIONALI-LA-GUIDA-COMPLETA.pdf?rlkey=htab82dgchw7qkcqz9zejd1qa&dl=0?raw=1",
+                  "dimensione_kb": 1076,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL FORMAZIONE MATERIALE SEO/KAREL BACINELLE PROFESSIONALI LA GUIDA COMPLETA.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "KAREL MANUALI ATTREZZATURE E SCHEDE TECNICHE",
+              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL MANUALI ATTREZZATURE E SCHEDE TECNICHE",
               "cartelle": [],
               "file": [
                 {
@@ -181402,7 +181474,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/y16bfvl6pvda3dv3txmdj/ICTV235_it_manuale.pdf?rlkey=sf5zn4zeuswlwopkbu36uv38t&dl=0?raw=1",
                   "dimensione_kb": 860,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/MANUALI ATTREZZATURE/ICTV235_it_manuale.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL MANUALI ATTREZZATURE E SCHEDE TECNICHE/ICTV235_it_manuale.pdf"
                 },
                 {
                   "nome": "ICW35-S_it_manuale.pdf",
@@ -181410,10 +181482,18 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/1ifb69mx6inoay3uyy1og/ICW35-S_it_manuale.pdf?rlkey=9nwwr9rglp7v2p1f455snyeco&dl=0?raw=1",
                   "dimensione_kb": 136,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/MANUALI ATTREZZATURE/ICW35-S_it_manuale.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL MANUALI ATTREZZATURE E SCHEDE TECNICHE/ICW35-S_it_manuale.pdf"
+                },
+                {
+                  "nome": "scheda-tecnica-tavolo-frigo-tp02midsp.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/x1788jtgywcgi14vdzacj/scheda-tecnica-tavolo-frigo-tp02midsp.pdf?rlkey=powhqzhjzzmwwqil3locjloew&dl=0?raw=1",
+                  "dimensione_kb": 132,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL MANUALI ATTREZZATURE E SCHEDE TECNICHE/scheda-tecnica-tavolo-frigo-tp02midsp.pdf"
                 }
               ],
-              "_totale_file": 2
+              "_totale_file": 3
             }
           ],
           "file": [
@@ -181424,73 +181504,9 @@
               "link": "https://www.dropbox.com/scl/fi/hyxdvomxuj0xpmx76d6lh/KAREL-AREA-RISERVATA.url?rlkey=di0opmldj4nkzpnkl2uzodj48&dl=0?raw=1",
               "dimensione_kb": 0,
               "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL AREA RISERVATA.url"
-            },
-            {
-              "nome": "KAREL CATALOGO 2020-2021 COMPLETO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/dxdstz01xjjpycdj6kf8n/KAREL-CATALOGO-2020-2021-COMPLETO.pdf?rlkey=ktjm5vaanym8t33dpyv6qfksv&dl=0?raw=1",
-              "dimensione_kb": 16914,
-              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL CATALOGO 2020-2021 COMPLETO.pdf"
-            },
-            {
-              "nome": "KAREL LISTINO 2024.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/lr22z1a0bvbdgr39l5wyn/KAREL-LISTINO-2024.pdf?rlkey=ydavie3j8uqj0755b198i3gft&dl=0?raw=1",
-              "dimensione_kb": 1570,
-              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL LISTINO 2024.pdf"
-            },
-            {
-              "nome": "KAREL LISTINO APRILE 2023.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/04m8v7alo0rrhwhshkb4t/KAREL-LISTINO-APRILE-2023.PDF?rlkey=yvf6a28fgjg1okmswvfhrggpy&dl=0?raw=1",
-              "dimensione_kb": 1422,
-              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL LISTINO APRILE 2023.PDF"
-            },
-            {
-              "nome": "KAREL LISTINO settembre 2023.PDF",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/4zjzt71mfvo012e2rnffp/KAREL-LISTINO-settembre-2023.PDF?rlkey=3sl88e24mj1gh20ip07ye0s2d&dl=0?raw=1",
-              "dimensione_kb": 2503,
-              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL LISTINO settembre 2023.PDF"
-            },
-            {
-              "nome": "KAREL_DITO SAMA_LISTINO_02_2022.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/uyk7zdhzibry54bbmt08d/KAREL_DITO-SAMA_LISTINO_02_2022.pdf?rlkey=aldbb1gkz7bhui5vyuz49geq9&dl=0?raw=1",
-              "dimensione_kb": 4170,
-              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL_DITO SAMA_LISTINO_02_2022.pdf"
-            },
-            {
-              "nome": "catalogo-karel-2024.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/bh9ueua26vc589x83tknp/catalogo-karel-2024.pdf?rlkey=m0gygzc7461ld30vad7g90yvp&dl=0?raw=1",
-              "dimensione_kb": 29134,
-              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/catalogo-karel-2024.pdf"
-            },
-            {
-              "nome": "download-files-file-e311d963-c6f0-4863-b00d-8b59bc0d22e9-1705423187.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/sjw8534mrion4hcsg1h1q/download-files-file-e311d963-c6f0-4863-b00d-8b59bc0d22e9-1705423187.pdf?rlkey=ciqi4yeirnq3zpnsee4uc0lqm&dl=0?raw=1",
-              "dimensione_kb": 29139,
-              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/download-files-file-e311d963-c6f0-4863-b00d-8b59bc0d22e9-1705423187.pdf"
-            },
-            {
-              "nome": "scheda-tecnica-tavolo-frigo-tp02midsp.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/x1788jtgywcgi14vdzacj/scheda-tecnica-tavolo-frigo-tp02midsp.pdf?rlkey=powhqzhjzzmwwqil3locjloew&dl=0?raw=1",
-              "dimensione_kb": 132,
-              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/scheda-tecnica-tavolo-frigo-tp02midsp.pdf"
             }
           ],
-          "_totale_file": 92
+          "_totale_file": 93
         },
         {
           "nome": "KEMPLEX",
@@ -182106,6 +182122,22 @@
               "_totale_file": 24
             },
             {
+              "nome": "KRUPPS DATI ANAGRAFICI FORNITORI",
+              "path": "/HUB DOCUMENTALE/FORNITORI/KRUPPS/KRUPPS DATI ANAGRAFICI FORNITORI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "KRUPPS EMAIL CON INDIRIZZI CORRETTI E CONDIZIONI VENDITE PER I RICAMBI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vr8xivfpcbhxgpxhdv4h9/KRUPPS-EMAIL-CON-INDIRIZZI-CORRETTI-E-CONDIZIONI-VENDITE-PER-I-RICAMBI.pdf?rlkey=e6q5pipqo60v4s5w5j9ig0ial&dl=0?raw=1",
+                  "dimensione_kb": 329,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/KRUPPS/KRUPPS DATI ANAGRAFICI FORNITORI/KRUPPS EMAIL CON INDIRIZZI CORRETTI E CONDIZIONI VENDITE PER I RICAMBI.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
               "nome": "PRIVACY",
               "path": "/HUB DOCUMENTALE/FORNITORI/KRUPPS/PRIVACY",
               "cartelle": [],
@@ -182148,7 +182180,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/KRUPPS/KRUPPS-ListinoUNIKO_2023.01_Digit_Low_compressed_compressed.pdf"
             }
           ],
-          "_totale_file": 32
+          "_totale_file": 33
         },
         {
           "nome": "L.S.TRASPORTI",
