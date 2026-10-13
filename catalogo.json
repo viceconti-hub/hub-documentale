@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-13T05:59:34Z",
-  "totale_file": 27412,
+  "generato": "2026-10-13T08:10:57Z",
+  "totale_file": 27420,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -195225,7 +195225,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5166,
+      "totale_file": 5174,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -195456,6 +195456,14 @@
               "link": "https://www.dropbox.com/scl/fi/v274090jlevr0thwyi47f/CB-SRL-Entrata-merci-da-fornitore_260073_20260520_214413-RIF.-Basato-su-Ordini-cliente-260142.-Basato-su-Ordini-d-acquisto-SACCO-DI-PIETRA-LAVICA.pdf?rlkey=kfd6mwbxcwqhbdvwr092dat6o&dl=0?raw=1",
               "dimensione_kb": 56,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/CB SRL Entrata merci da fornitore_260073_20260520_214413 RIF. Basato su Ordini cliente 260142. Basato su Ordini d'acquisto SACCO DI PIETRA LAVICA.pdf"
+            },
+            {
+              "nome": "CB SRL Entrata merci da fornitore_260218_20261012_193339 RIF. VISENTINI ANGELO Basato su Ordini cliente 260494. Basato su Ordini d'acquisto.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jakc8l54wibi7b9d2hlol/CB-SRL-Entrata-merci-da-fornitore_260218_20261012_193339-RIF.-VISENTINI-ANGELO-Basato-su-Ordini-cliente-260494.-Basato-su-Ordini-d-acquisto.pdf?rlkey=6lcfsuc39vdih5b6pzfhg58ot&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/CB SRL Entrata merci da fornitore_260218_20261012_193339 RIF. VISENTINI ANGELO Basato su Ordini cliente 260494. Basato su Ordini d'acquisto.pdf"
             },
             {
               "nome": "CIMBALI GROUP SPA Entrata merci da fornitore_260071_20260520_213717 RIF. Basato su Ordini d'acquisto 260029..pdf",
@@ -196434,6 +196442,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260171_20260827_120930 RIF. Basato su Ordini d'acquisto 260212..pdf"
             },
             {
+              "nome": "SATRIANO S.R.L. Entrata merci da fornitore_260192_20261010_100905 RIF. MANICO IL LEGNO, PADELLE RETINA PER PIZZERIA Basato su Offerte di vendita.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nt773z9wknbwtmvnl2bkl/SATRIANO-S.R.L.-Entrata-merci-da-fornitore_260192_20261010_100905-RIF.-MANICO-IL-LEGNO-PADELLE-RETINA-PER-PIZZERIA-Basato-su-Offerte-di-vendita.pdf?rlkey=5klw1xolals7p1b6clx4ox53l&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SATRIANO S.R.L. Entrata merci da fornitore_260192_20261010_100905 RIF. MANICO IL LEGNO, PADELLE RETINA PER PIZZERIA Basato su Offerte di vendita.pdf"
+            },
+            {
               "nome": "SIRMAN DDT N° 2025134519 DEL 28.10.2025.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -196554,7 +196570,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 163
+          "_totale_file": 165
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -205802,6 +205818,14 @@
           "cartelle": [],
           "file": [
             {
+              "nome": "ACCIAIO T&D PACKING LIST DEL 12_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cdtuz0ppt1k6gi7cmt4nu/ACCIAIO-T-D-PACKING-LIST-DEL-12_10_2026.pdf?rlkey=eme4466g6nrv469z8ltrtnvgk&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/ACCIAIO T&D PACKING LIST DEL 12_10_2026.pdf"
+            },
+            {
               "nome": "BARLASCINI Conferma prenotazione ritiro.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -205866,7 +205890,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf"
             }
           ],
-          "_totale_file": 8
+          "_totale_file": 9
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -237857,6 +237881,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010260038 RIF. PLUTONE 7 HAPPY.pdf"
                 },
                 {
+                  "nome": "SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ncle4un7h8eb5d6rqdkgu/SIRMAN-CONFERMA-ORDINE-2010264956-RIF.MACELLERIA-COSENTINO-E-PUGLIESE.pdf?rlkey=915vkrkvt5cb0dbictvqoux3u&dl=0?raw=1",
+                  "dimensione_kb": 116,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE.pdf"
+                },
+                {
                   "nome": "SIRMAN CONFERMA ORDINE DEL 21_10_2025 RIF.3AM+RICAMBIO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -238289,7 +238321,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/unnamed.png"
                 }
               ],
-              "_totale_file": 3772
+              "_totale_file": 3773
             },
             {
               "nome": "MISA CONFERME D'ORDINE",
@@ -238502,12 +238534,28 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB CONFERMA ORDINE 5B4CC423-EB8D-4008-86A2-E814714695F7 RIF.VISENTINI ANGELO_SCHIDIONE.PDF"
             },
             {
-              "nome": "CB SRL Ordine dacquisto_260252_20261008_170547 RIF. Basato su Ordini cliente 260494..pdf",
+              "nome": "CB SRL DIVISIONE VALKO offerta viceconti 4180 DEL 12_10_2026 RIF. GRAN SOLE.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/yz7iqz4tf5cvtf88mqdge/CB-SRL-Ordine-dacquisto_260252_20261008_170547-RIF.-Basato-su-Ordini-cliente-260494..pdf?rlkey=dwpftgt8nvtq6esqwolf00sdf&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/aktg5jtox3qjk2qt60rbl/CB-SRL-DIVISIONE-VALKO-offerta-viceconti-4180-DEL-12_10_2026-RIF.-GRAN-SOLE.pdf?rlkey=g2epdhi8oxqyzf98vvenjdyh1&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB SRL DIVISIONE VALKO offerta viceconti 4180 DEL 12_10_2026 RIF. GRAN SOLE.pdf"
+            },
+            {
+              "nome": "CB SRL Ordine dacquisto_260252_20261008_170547 RIF. VISENTINI ANGELO Basato su Ordini cliente 260494..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7wl5qba8zbvq8xcxeesy8/CB-SRL-Ordine-dacquisto_260252_20261008_170547-RIF.-VISENTINI-ANGELO-Basato-su-Ordini-cliente-260494..pdf?rlkey=87xd08ypybw772f1ly3rysdyw&dl=0?raw=1",
               "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB SRL Ordine dacquisto_260252_20261008_170547 RIF. Basato su Ordini cliente 260494..pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB SRL Ordine dacquisto_260252_20261008_170547 RIF. VISENTINI ANGELO Basato su Ordini cliente 260494..pdf"
+            },
+            {
+              "nome": "CIMBALI GROUP Conferma Ordine 20023839 del 12_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ddoruf3vvej4s3gl3mxwx/CIMBALI-GROUP-Conferma-Ordine-20023839-del-12_10_2026.pdf?rlkey=tv6wgpfu8ro1zblua6nyj4kvf&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CIMBALI GROUP Conferma Ordine 20023839 del 12_10_2026.pdf"
             },
             {
               "nome": "COLDLINE CONFERMA Offerta 9952 RIF.MAMA MIA RICAMBI.pdf",
@@ -238622,6 +238670,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260054_20260611_093208 RIF. DETERGENTE GUARNIZIONI DOCCETTE.pdf"
             },
             {
+              "nome": "Cimbali Group S.p.A. Ordine dacquisto_260269_20261012_102952 RIF. Ordine creato L'ordine 0000172809 E' stato creato con successo.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9anjj3vg701gvdhkytg6a/Cimbali-Group-S.p.A.-Ordine-dacquisto_260269_20261012_102952-RIF.-Ordine-creato-L-ordine-0000172809-E-stato-creato-con-successo.pdf?rlkey=l9cah3yylf4926ngq7pewge8y&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260269_20261012_102952 RIF. Ordine creato L'ordine 0000172809 E' stato creato con successo.pdf"
+            },
+            {
               "nome": "FIMAR s.p.a. Ordine dacquisto_260241_20260923_091101 RIF. RESISTENZE PER TOSTIERE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -238678,12 +238734,28 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FRIGOMECCANICA CONFERMA ORDINE SKM_C300i26091515120-1 RIF.COSENTINO.pdf"
             },
             {
+              "nome": "KRUPPS CONFEMRA ordine_26-06032 RIF. RICAMBI SIRTAKI + MAG.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mc88919it2vf8ss4djokv/KRUPPS-CONFEMRA-ordine_26-06032-RIF.-RICAMBI-SIRTAKI-MAG.pdf?rlkey=ox2a7hgbjn5foqkbfcw4mbezg&dl=0?raw=1",
+              "dimensione_kb": 129,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KRUPPS CONFEMRA ordine_26-06032 RIF. RICAMBI SIRTAKI + MAG.pdf"
+            },
+            {
               "nome": "KRUPPS s.r.l. Ordine dacquisto_260249_20260929_130905.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/0lr7wu1obye4n8cqlbr28/KRUPPS-s.r.l.-Ordine-dacquisto_260249_20260929_130905.pdf?rlkey=5m2mu7elh7qxao98plx74mdem&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KRUPPS s.r.l. Ordine dacquisto_260249_20260929_130905.pdf"
+            },
+            {
+              "nome": "KRUPPS s.r.l. Ordine dacquisto_260271_20261012_114420.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pbvepl41wtzwv949651p2/KRUPPS-s.r.l.-Ordine-dacquisto_260271_20261012_114420.pdf?rlkey=jurti6gftn5bi5i0o8hnjqnyh&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KRUPPS s.r.l. Ordine dacquisto_260271_20261012_114420.pdf"
             },
             {
               "nome": "LOTUS spa Ordine dacquisto_260222_20260909_120649 RIF. Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443..pdf",
@@ -238790,14 +238862,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE CORRETTA.pdf"
             },
             {
-              "nome": "SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ncle4un7h8eb5d6rqdkgu/SIRMAN-CONFERMA-ORDINE-2010264956-RIF.MACELLERIA-COSENTINO-E-PUGLIESE.pdf?rlkey=915vkrkvt5cb0dbictvqoux3u&dl=0?raw=1",
-              "dimensione_kb": 116,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE.pdf"
-            },
-            {
               "nome": "SIRMAN CONFERMA ORDINE RIF.LABORANTI WEB.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -238862,7 +238926,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORIDNE 002095 RIF. RICAMBI GRAN SOLE.pdf"
             }
           ],
-          "_totale_file": 3842
+          "_totale_file": 3847
         }
       ],
       "file": []
