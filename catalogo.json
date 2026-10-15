@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-15T07:47:44Z",
-  "totale_file": 27498,
+  "generato": "2026-10-15T08:51:38Z",
+  "totale_file": 27500,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -239567,7 +239567,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2468,
+      "totale_file": 2470,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -260778,6 +260778,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARTINOX Dettaglio bonifico istantaneo DEL 20_04_2026.pdf"
             },
             {
+              "nome": "ATA Dettaglio bonifico istantaneo DEL 13_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fd0kuy7sb5dt28871uf7q/ATA-Dettaglio-bonifico-istantaneo-DEL-13_10_2026.pdf?rlkey=rc6y4dbrls1ub7sw7sjl9w0b8&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ATA Dettaglio bonifico istantaneo DEL 13_10_2026.pdf"
+            },
+            {
               "nome": "AUTOTRASPORTI GANGALE disposizioni-online DEL 09_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -260880,6 +260888,14 @@
               "link": "https://www.dropbox.com/scl/fi/maw0kjm6dyeilhjq6kjh6/CB-Dettaglio-bonifico-istantaneo-DEL-30_03_2026.pdf?rlkey=g5h5pdldo8zszxmgqpn4vha9y&dl=0?raw=1",
               "dimensione_kb": 109,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/CB Dettaglio bonifico istantaneo DEL 30_03_2026.pdf"
+            },
+            {
+              "nome": "CB SRL VALKO Dettaglio bonifico istantaneo DEL 12_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/om4t8lre79720bxpesexf/CB-SRL-VALKO-Dettaglio-bonifico-istantaneo-DEL-12_10_2026.pdf?rlkey=geo2tn7h4uqy5o0igh2kmqvqj&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/CB SRL VALKO Dettaglio bonifico istantaneo DEL 12_10_2026.pdf"
             },
             {
               "nome": "COLDLINE Dettaglio bonifico DEL 07_07_2026.pdf",
@@ -261682,7 +261698,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2376
+          "_totale_file": 2378
         }
       ],
       "file": []
