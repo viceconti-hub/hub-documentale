@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-15T05:40:13Z",
-  "totale_file": 27486,
+  "generato": "2026-10-15T07:47:44Z",
+  "totale_file": 27498,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -195761,7 +195761,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5174,
+      "totale_file": 5186,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -196314,6 +196314,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR DDT FORNITORE 2026 17449VICECONTI SNC DI ANTONIO E PROSPERO_Rep2 RIF. PANAINO E SANTOS.PDF"
             },
             {
+              "nome": "FIMAR ENTRATA MERCI 29888.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bl4xrwr58nb26zfv2khkd/FIMAR-ENTRATA-MERCI-29888.pdf?rlkey=1h5tgjq0v96mvbkzvlhlv2h3j&dl=0?raw=1",
+              "dimensione_kb": 142,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR ENTRATA MERCI 29888.pdf"
+            },
+            {
+              "nome": "FIMAR ENTRATA MERCI 30324.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8l1lbmtyo8g63k29fo19x/FIMAR-ENTRATA-MERCI-30324.pdf?rlkey=xl0u1uknjcsyjjxd3trt9dwf2&dl=0?raw=1",
+              "dimensione_kb": 140,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR ENTRATA MERCI 30324.pdf"
+            },
+            {
               "nome": "FIMAR s.p.a. Entrata merci da fornitore_260067_20260519_074750 RIF. Basato su Ordini cliente 260131. Basato su Ordini d'acquisto AFFETTATRICE PER GIOIA CHALET.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -196586,6 +196602,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/KRUPPS DDT_002726 RIF. NERA KIT DISPLAY + MAG .pdf"
             },
             {
+              "nome": "KRUPPS ENTRATA MERCI 4999.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zjhui0disrisiqwwt7tah/KRUPPS-ENTRATA-MERCI-4999.pdf?rlkey=m0ol88m1e6d904u2vu6145zwi&dl=0?raw=1",
+              "dimensione_kb": 104,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/KRUPPS ENTRATA MERCI 4999.pdf"
+            },
+            {
               "nome": "KRUPPS s.r.l. Entrata merci da fornitore_260111_20260603_170231 RIF. KIT DISPLAY PER NERA + MAG Basato su Ordini d'acquisto 25021 DATA TRASMISSIONE 21_05_26.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -196786,6 +196810,30 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MORINI s.r.l. Entrata merci da fornitore_260168_20260817_103841 RIF. CAZZANEDDA, PANIFICIO AGRELLO, HAPPY MOMENTS Basato su Ordin.pdf"
             },
             {
+              "nome": "NUOVA RICAMBI ENTRATA MERCI 12441.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yi115aypnkw6yzab324x5/NUOVA-RICAMBI-ENTRATA-MERCI-12441.pdf?rlkey=ufkgofp2382h5sc3kpc4jg72n&dl=0?raw=1",
+              "dimensione_kb": 13,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/NUOVA RICAMBI ENTRATA MERCI 12441.pdf"
+            },
+            {
+              "nome": "NUOVA RICAMBI srl Entrata merci da fornitore_260219_20261013_115138 RIF. JOLLYBEACH DI PROVENZANO FABIO & C. S.A.S. Basato su Ordini cliente 260495..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/342a99vn85me45eg4h0y5/NUOVA-RICAMBI-srl-Entrata-merci-da-fornitore_260219_20261013_115138-RIF.-JOLLYBEACH-DI-PROVENZANO-FABIO-C.-S.A.S.-Basato-su-Ordini-cliente-260495..pdf?rlkey=zegf07wkxsysv7quttep2ldl2&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/NUOVA RICAMBI srl Entrata merci da fornitore_260219_20261013_115138 RIF. JOLLYBEACH DI PROVENZANO FABIO & C. S.A.S. Basato su Ordini cliente 260495..pdf"
+            },
+            {
+              "nome": "NUOVA RICAMBI srl Entrata merci da fornitore_260220_20261013_161511 RIF. DISINCROSTANTE DS-3 PERGEL 1 Kg Basato su Ordini d'acquisto 260181..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/pnmjrv9jfxg1cp48hxydk/NUOVA-RICAMBI-srl-Entrata-merci-da-fornitore_260220_20261013_161511-RIF.-DISINCROSTANTE-DS-3-PERGEL-1-Kg-Basato-su-Ordini-d-acquisto-260181..pdf?rlkey=v05pwx70uq7wcrhu7mtrmpovp&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/NUOVA RICAMBI srl Entrata merci da fornitore_260220_20261013_161511 RIF. DISINCROSTANTE DS-3 PERGEL 1 Kg Basato su Ordini d'acquisto 260181..pdf"
+            },
+            {
               "nome": "PADERNO 3789546_1_2025S000037063.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -196978,6 +197026,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/REPA ITALIA SRL Entrata merci da fornitore_260171_20260827_120930 RIF. Basato su Ordini d'acquisto 260212..pdf"
             },
             {
+              "nome": "SAMBONET ENTRATA MERCI S00 34253.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yiw2vacnc2kb0m279yn1b/SAMBONET-ENTRATA-MERCI-S00-34253.pdf?rlkey=1ol9n9smd9ueefl8hpzemz1i1&dl=0?raw=1",
+              "dimensione_kb": 271,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SAMBONET ENTRATA MERCI S00 34253.pdf"
+            },
+            {
               "nome": "SATRIANO S.R.L. Entrata merci da fornitore_260192_20261010_100905 RIF. MANICO IL LEGNO, PADELLE RETINA PER PIZZERIA Basato su Offerte di vendita.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -197106,7 +197162,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 165
+          "_totale_file": 172
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -197130,6 +197186,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE PDF/IDEA FATTURA_CLIENTE_NR_160A_2026.pdf"
             },
             {
+              "nome": "NUOVA RICAMBI FATTURA 10468.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wac1je3wrc37mdrh30t80/NUOVA-RICAMBI-FATTURA-10468.pdf?rlkey=s0k2vssvli2ry5uuogkdsj2ag&dl=0?raw=1",
+              "dimensione_kb": 158,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE PDF/NUOVA RICAMBI FATTURA 10468.pdf"
+            },
+            {
               "nome": "STAFF FattDiffEmessa600423.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -197138,7 +197202,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE PDF/STAFF FattDiffEmessa600423.PDF"
             }
           ],
-          "_totale_file": 3
+          "_totale_file": 4
         },
         {
           "nome": "FATTURE DA FORNITORE XML",
@@ -239062,12 +239126,28 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA ORDINE 2600143 DEL 02_02_2026 viceconti 143 RIF. HAPPY MOMENTS AGGIORNATA.pdf"
             },
             {
+              "nome": "ATA CONFERMA ORDINE 0002594-I DEL 13_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jtxesq3upgqpqp8a8zdm3/ATA-CONFERMA-ORDINE-0002594-I-DEL-13_10_2026.pdf?rlkey=cri6u8ta6m1fm8h0q7r0kevyi&dl=0?raw=1",
+              "dimensione_kb": 431,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ATA CONFERMA ORDINE 0002594-I DEL 13_10_2026.pdf"
+            },
+            {
               "nome": "CB CONFERMA ORDINE 5B4CC423-EB8D-4008-86A2-E814714695F7 RIF.VISENTINI ANGELO_SCHIDIONE.PDF",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/41p5deaob7dfr50kbxve4/CB-CONFERMA-ORDINE-5B4CC423-EB8D-4008-86A2-E814714695F7-RIF.VISENTINI-ANGELO_SCHIDIONE.PDF?rlkey=av1eqlf0x7llalv2845k7rx5t&dl=0?raw=1",
               "dimensione_kb": 411,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB CONFERMA ORDINE 5B4CC423-EB8D-4008-86A2-E814714695F7 RIF.VISENTINI ANGELO_SCHIDIONE.PDF"
+            },
+            {
+              "nome": "CB SRL DIVISIONE VALKO CONFERMA ORDINE 7313 DEL 14_10_2026 RIF. GRAN SOLE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2kdyc0sf231ou5s3e9kjq/CB-SRL-DIVISIONE-VALKO-CONFERMA-ORDINE-7313-DEL-14_10_2026-RIF.-GRAN-SOLE.pdf?rlkey=i1a8sqddq4osms1oixihb0unm&dl=0?raw=1",
+              "dimensione_kb": 343,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CB SRL DIVISIONE VALKO CONFERMA ORDINE 7313 DEL 14_10_2026 RIF. GRAN SOLE.pdf"
             },
             {
               "nome": "CB SRL DIVISIONE VALKO offerta viceconti 4180 DEL 12_10_2026 RIF. GRAN SOLE.pdf",
@@ -239212,6 +239292,14 @@
               "link": "https://www.dropbox.com/scl/fi/9anjj3vg701gvdhkytg6a/Cimbali-Group-S.p.A.-Ordine-dacquisto_260269_20261012_102952-RIF.-Ordine-creato-L-ordine-0000172809-E-stato-creato-con-successo.pdf?rlkey=l9cah3yylf4926ngq7pewge8y&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/Cimbali Group S.p.A. Ordine dacquisto_260269_20261012_102952 RIF. Ordine creato L'ordine 0000172809 E' stato creato con successo.pdf"
+            },
+            {
+              "nome": "FIMAR CONFERMA ORDINE 8076-W DEL 29_09_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/m60kjql6gg917mgxpj5k5/FIMAR-CONFERMA-ORDINE-8076-W-DEL-29_09_2026.pdf?rlkey=cjxe6p1z3fxaiqfhll311i80e&dl=0?raw=1",
+              "dimensione_kb": 132,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 8076-W DEL 29_09_2026.pdf"
             },
             {
               "nome": "FIMAR s.p.a. Ordine dacquisto_260241_20260923_091101 RIF. RESISTENZE PER TOSTIERE.pdf",
@@ -239390,6 +239478,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260251_20261006_165630.pdf"
             },
             {
+              "nome": "REPA PREV-1010970-123207.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1cen5cc00w7iuh8qaitdj/REPA-PREV-1010970-123207.PDF?rlkey=3virm8k4cmfw9nnurdoc8gwxd&dl=0?raw=1",
+              "dimensione_kb": 574,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA PREV-1010970-123207.PDF"
+            },
+            {
               "nome": "SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE CORRETTA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -239462,7 +239558,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORIDNE 002095 RIF. RICAMBI GRAN SOLE.pdf"
             }
           ],
-          "_totale_file": 3847
+          "_totale_file": 3851
         }
       ],
       "file": []
