@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-15T00:21:19Z",
-  "totale_file": 27424,
+  "generato": "2026-10-15T02:20:33Z",
+  "totale_file": 27426,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -151616,7 +151616,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4512,
+      "totale_file": 4514,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -152704,20 +152704,20 @@
           ],
           "file": [
             {
-              "nome": "100.AIRFAN DATI + IBAN AIRFAN 2024.pdf",
+              "nome": "001.AIRFAN DATI + IBAN AIRFAN 2024.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2b2vxkssm18y26ipi67sj/100.AIRFAN-DATI-IBAN-AIRFAN-2024.pdf?rlkey=vocxp29cy7lnmdmqdc32i13rc&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/2b2vxkssm18y26ipi67sj/001.AIRFAN-DATI-IBAN-AIRFAN-2024.pdf?rlkey=vocxp29cy7lnmdmqdc32i13rc&dl=0?raw=1",
               "dimensione_kb": 127,
-              "path": "/HUB DOCUMENTALE/FORNITORI/AIRFAN/100.AIRFAN DATI + IBAN AIRFAN 2024.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/AIRFAN/001.AIRFAN DATI + IBAN AIRFAN 2024.pdf"
             },
             {
-              "nome": "AIRFAN LISTINO 29 AGGIORNATO AL 19_11_2025.pdf",
+              "nome": "100. AIRFAN LISTINO 29 RICEVUTO IL 2025_11_19.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/bwfci6k4nt0nkjo4rw6ph/AIRFAN-LISTINO-29-AGGIORNATO-AL-19_11_2025.pdf?rlkey=zm78xuolsdpdjm8inyixacuhw&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/feogibu56bn3c1jr6dtqk/100.-AIRFAN-LISTINO-29-RICEVUTO-IL-2025_11_19.pdf?rlkey=skk5w8toyywyvnuous4ax0qlq&dl=0?raw=1",
               "dimensione_kb": 7169,
-              "path": "/HUB DOCUMENTALE/FORNITORI/AIRFAN/AIRFAN LISTINO 29 AGGIORNATO AL 19_11_2025.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/AIRFAN/100. AIRFAN LISTINO 29 RICEVUTO IL 2025_11_19.pdf"
             }
           ],
           "_totale_file": 17
@@ -169525,6 +169525,22 @@
               "_totale_file": 1
             },
             {
+              "nome": "FAC ANAGRAFICA FORNITORE",
+              "path": "/HUB DOCUMENTALE/FORNITORI/FAC/FAC ANAGRAFICA FORNITORE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Fac Comunicazione Listino Gennaio 2027.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xj9ouqxnzh1nareph19eb/Fac-Comunicazione-Listino-Gennaio-2027.pdf?rlkey=oqkrkn4m3l3z7xc44esxqkieq&dl=0?raw=1",
+                  "dimensione_kb": 330,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/FAC/FAC ANAGRAFICA FORNITORE/Fac Comunicazione Listino Gennaio 2027.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
               "nome": "FAC AREA TECNICA",
               "path": "/HUB DOCUMENTALE/FORNITORI/FAC/FAC AREA TECNICA",
               "cartelle": [],
@@ -169599,7 +169615,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/FAC/Venere_BS.pdf"
             }
           ],
-          "_totale_file": 9
+          "_totale_file": 10
         },
         {
           "nome": "FAGOR",
@@ -172157,6 +172173,14 @@
           ],
           "file": [
             {
+              "nome": "100. GIMAR Catalogo-Generale-Gimar-Italia SCARICATO DAL SITO IL 14_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/vmc6sll7kc48nwy3kdh5o/100.-GIMAR-Catalogo-Generale-Gimar-Italia-SCARICATO-DAL-SITO-IL-14_10_2026.pdf?rlkey=i4rhqqldi81gx13t92i0gny8r&dl=0?raw=1",
+              "dimensione_kb": 2977,
+              "path": "/HUB DOCUMENTALE/FORNITORI/GIMAR/100. GIMAR Catalogo-Generale-Gimar-Italia SCARICATO DAL SITO IL 14_10_2026.pdf"
+            },
+            {
               "nome": "GIMAR LISTINO-2022.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -172181,7 +172205,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/GIMAR/Gmail - Prezzi di listino.pdf"
             }
           ],
-          "_totale_file": 8
+          "_totale_file": 9
         },
         {
           "nome": "GIMETAL",
@@ -182490,22 +182514,6 @@
               "_totale_file": 24
             },
             {
-              "nome": "KRUPPS DATI ANAGRAFICI FORNITORI",
-              "path": "/HUB DOCUMENTALE/FORNITORI/KRUPPS/KRUPPS DATI ANAGRAFICI FORNITORI",
-              "cartelle": [],
-              "file": [
-                {
-                  "nome": "KRUPPS EMAIL CON INDIRIZZI CORRETTI E CONDIZIONI VENDITE PER I RICAMBI.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/vr8xivfpcbhxgpxhdv4h9/KRUPPS-EMAIL-CON-INDIRIZZI-CORRETTI-E-CONDIZIONI-VENDITE-PER-I-RICAMBI.pdf?rlkey=e6q5pipqo60v4s5w5j9ig0ial&dl=0?raw=1",
-                  "dimensione_kb": 329,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/KRUPPS/KRUPPS DATI ANAGRAFICI FORNITORI/KRUPPS EMAIL CON INDIRIZZI CORRETTI E CONDIZIONI VENDITE PER I RICAMBI.pdf"
-                }
-              ],
-              "_totale_file": 1
-            },
-            {
               "nome": "PRIVACY",
               "path": "/HUB DOCUMENTALE/FORNITORI/KRUPPS/PRIVACY",
               "cartelle": [],
@@ -182548,7 +182556,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/KRUPPS/KRUPPS-ListinoUNIKO_2023.01_Digit_Low_compressed_compressed.pdf"
             }
           ],
-          "_totale_file": 33
+          "_totale_file": 32
         },
         {
           "nome": "L.S.TRASPORTI",
@@ -184034,6 +184042,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/MECNOSUD/Archivio/Gmail - R_ RICHIESTA LISTINO E CATALOGO AGGIORNATI.pdf"
                 },
                 {
+                  "nome": "MECNOSUD LISTINO FEBBRAIO 2025_LOW.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6azdepxjdvhkz3erzti2d/MECNOSUD-LISTINO-FEBBRAIO-2025_LOW.pdf?rlkey=ve5se0hp91rmnjcumb7gb6vr1&dl=0?raw=1",
+                  "dimensione_kb": 3590,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MECNOSUD/Archivio/MECNOSUD LISTINO FEBBRAIO 2025_LOW.pdf"
+                },
+                {
                   "nome": "MECNOSUD PRICE LIST_09 2018_high res.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -184114,20 +184130,20 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/MECNOSUD/Archivio/Mecnosud_Listino_APRILE2022_REV.1.pdf"
                 }
               ],
-              "_totale_file": 11
+              "_totale_file": 12
             }
           ],
           "file": [
             {
-              "nome": "MECNOSUD LISTINO FEBBRAIO 2025_LOW.pdf",
+              "nome": "100.MECNOSUD LISTINO 2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/6azdepxjdvhkz3erzti2d/MECNOSUD-LISTINO-FEBBRAIO-2025_LOW.pdf?rlkey=ve5se0hp91rmnjcumb7gb6vr1&dl=0?raw=1",
-              "dimensione_kb": 3590,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MECNOSUD/MECNOSUD LISTINO FEBBRAIO 2025_LOW.pdf"
+              "link": "https://www.dropbox.com/scl/fi/0v2jcg13udbl2vmylmjpg/100.MECNOSUD-LISTINO-2026.pdf?rlkey=wxe2q6msnfkf0eewo3y5tl06w&dl=0?raw=1",
+              "dimensione_kb": 12269,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MECNOSUD/100.MECNOSUD LISTINO 2026.pdf"
             }
           ],
-          "_totale_file": 12
+          "_totale_file": 13
         },
         {
           "nome": "MEDIAL",
@@ -185268,12 +185284,12 @@
           "cartelle": [],
           "file": [
             {
-              "nome": "Gmail - Re_ Viceconti Snc_ NUOVI INDIRIZZI.pdf",
+              "nome": "Gmail - Re_ Viceconti Snc_ NUOVI INDIRIZZI POSTA ELETTRONICA E CONTATTI.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gy5yprstrbk2miisq9tgx/Gmail-Re_-Viceconti-Snc_-NUOVI-INDIRIZZI.pdf?rlkey=dw4k0txu2na6xppnhnw1onewh&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/gy5yprstrbk2miisq9tgx/Gmail-Re_-Viceconti-Snc_-NUOVI-INDIRIZZI-POSTA-ELETTRONICA-E-CONTATTI.pdf?rlkey=dw4k0txu2na6xppnhnw1onewh&dl=0?raw=1",
               "dimensione_kb": 176,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORANO/Gmail - Re_ Viceconti Snc_ NUOVI INDIRIZZI.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORANO/Gmail - Re_ Viceconti Snc_ NUOVI INDIRIZZI POSTA ELETTRONICA E CONTATTI.pdf"
             }
           ],
           "_totale_file": 1
