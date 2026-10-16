@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-16T02:41:41Z",
-  "totale_file": 27910,
+  "generato": "2026-10-16T06:00:12Z",
+  "totale_file": 27923,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7379,
+      "totale_file": 7392,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -462,6 +462,14 @@
               "link": "https://www.dropbox.com/scl/fi/z3n3m0o3ei2j3hlm5uf53/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Consegna_260892_20261012_231426-RIF.-ASSISTENZA-SU-LAVABICCHIERI-COMENDA-SOSTITUZIONE-TUBO-INTERNO-DOSATORE.pdf?rlkey=bpno45aafu1b2djw7plk8112h&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Consegna_260892_20261012_231426 RIF. ASSISTENZA SU LAVABICCHIERI COMENDA SOSTITUZIONE TUBO INTERNO DOSATORE.pdf"
+            },
+            {
+              "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Consegna_260905_20261015_102739 RIF. DETERGENTE COFFEE CLEAN Basato su Ordini cliente 260507..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7wmhh87yns14l41v7ztpv/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Consegna_260905_20261015_102739-RIF.-DETERGENTE-COFFEE-CLEAN-Basato-su-Ordini-cliente-260507..pdf?rlkey=c49idgdo7x6jtlmosrujzshy4&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Consegna_260905_20261015_102739 RIF. DETERGENTE COFFEE CLEAN Basato su Ordini cliente 260507..pdf"
             },
             {
               "nome": "BAR MILLE VOGLIE DI D'ANDREA SALVATORE ANDREA Consegna_260431_20260618_173047 RIF. Riempi Bigne' Inox Basato su Offerte di vendita 260111. Basa.pdf",
@@ -1040,6 +1048,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CHECK Srl BAR MATER DEI Consegna_260288_20260523_093746 RIF. DETERGENTE ECOSAN DET 6 QTA'1 Basato su Ordini cliente 26014 DETERGENTE ECOSAN DET 6 QTA'1.pdf"
             },
             {
+              "nome": "CHECK Srl BAR MATER DEI Consegna_260910_20261015_171150 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260509..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8m6kv1t9gc00hylldsztl/CHECK-Srl-BAR-MATER-DEI-Consegna_260910_20261015_171150-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260509..pdf?rlkey=qibr6gcax0ko9dhl46mdvif1x&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CHECK Srl BAR MATER DEI Consegna_260910_20261015_171150 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260509..pdf"
+            },
+            {
               "nome": "CHIACCHIO MANSUETO Consegna_260741_20260824_175733 RIF. ASSISTENZA SU AFFETTATRICE SOSTITUZIONE LAMA, REVISIONE GRUPPO OROLOGIO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1190,6 +1206,14 @@
               "link": "https://www.dropbox.com/scl/fi/ni6aj9qdumnlaozidmz3b/COZZI-GIACOMO-Consegna_260679_20260806_120425-RIF.-FRYTOP-A-GAS-FIMAR-Basato-su-Offerte-di-vendita-260316.-Basa.pdf?rlkey=szab02ykwutbcwln24j29oawd&dl=0?raw=1",
               "dimensione_kb": 54,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/COZZI GIACOMO Consegna_260679_20260806_120425 RIF. FRYTOP A GAS FIMAR Basato su Offerte di vendita 260316. Basa.pdf"
+            },
+            {
+              "nome": "COZZI NICOLA Consegna_260906_20261015_121818 RIF. FRYTOP A GAS FIMAR FRY1LM Basato su Ordini cliente 260435..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jei4qp7hp3l4wqkh46anz/COZZI-NICOLA-Consegna_260906_20261015_121818-RIF.-FRYTOP-A-GAS-FIMAR-FRY1LM-Basato-su-Ordini-cliente-260435..pdf?rlkey=u83rv10io6wrrxvnwvsvuiid5&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/COZZI NICOLA Consegna_260906_20261015_121818 RIF. FRYTOP A GAS FIMAR FRY1LM Basato su Ordini cliente 260435..pdf"
             },
             {
               "nome": "CRESCENTE MARIANNA PRODOTTI TIPICI DEL POLLINO Consegna_260673_20260805_124533 RIF. BATTERIE PER BILANCIA Basato su Ordini cliente 260315..pdf",
@@ -1718,6 +1742,14 @@
               "link": "https://www.dropbox.com/scl/fi/ihz36ev09fq0wfpnv9mhr/FLAVIA-DE-MARCO-Consegna_260742_20260824_181605-RIF.-ASSISTENZA-SU-ABBATTITORE-COLDLINE-MATRICOLA-052409099-MATR.-E61SH12042296414.pdf?rlkey=tdh1r3aw0680xcssetjnpysx7&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FLAVIA DE MARCO Consegna_260742_20260824_181605 RIF. ASSISTENZA SU ABBATTITORE COLDLINE MATRICOLA 052409099 + MATR. E61SH12042296414.pdf"
+            },
+            {
+              "nome": "FLAVIA DE MARCO Consegna_260908_20261015_141233 RIF. DETERGENTE RATIONAL + GRIGLIA COPPIA GUIDE PER CONGELATORE Basato su Ordini.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/07yiimn2yl4h6xeokr43a/FLAVIA-DE-MARCO-Consegna_260908_20261015_141233-RIF.-DETERGENTE-RATIONAL-GRIGLIA-COPPIA-GUIDE-PER-CONGELATORE-Basato-su-Ordini.pdf?rlkey=3k4tfji0cbba9yytgoc0m0z5a&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/FLAVIA DE MARCO Consegna_260908_20261015_141233 RIF. DETERGENTE RATIONAL + GRIGLIA COPPIA GUIDE PER CONGELATORE Basato su Ordini.pdf"
             },
             {
               "nome": "FOODEX SRL Consegna_260399_20260612_105657 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf",
@@ -3560,6 +3592,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MACELLERIA LOSARDO GIOVANNINO Consegna_260364_20260603_092738 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf"
             },
             {
+              "nome": "MACELLERIA di SOLA ANTONIO Consegna_260907_20261015_140045 RIF. ASSISTENZA SU GRIGLIA MBM GPL 88 MATRICOLA 0623876 REVISIONE BRUCIATORI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/cfkc8bodt80o0qw0e3dhc/MACELLERIA-di-SOLA-ANTONIO-Consegna_260907_20261015_140045-RIF.-ASSISTENZA-SU-GRIGLIA-MBM-GPL-88-MATRICOLA-0623876-REVISIONE-BRUCIATORI.pdf?rlkey=4k069vzkrw5qoy0l10848wrnv&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MACELLERIA di SOLA ANTONIO Consegna_260907_20261015_140045 RIF. ASSISTENZA SU GRIGLIA MBM GPL 88 MATRICOLA 0623876 REVISIONE BRUCIATORI.pdf"
+            },
+            {
               "nome": "MADI SNC di DISMA CASELLA & C. Consegna_250420_20260715_174028 RIF. VENTIALTORE E CARTUCCIA FORNO WIESHEU Basato su Ordini clien.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4528,6 +4568,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Consegna_260805_20260902_173627 RIF. DETERSIVI RATIONAL VERDE + BLU (ordine da messaggio vocale 29082026) Basato.pdf"
             },
             {
+              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Consegna_260909_20261015_143544 RIF. ASSISTENZA SU FORNO ELETTRICO RATIONAL ICOMBI PRO MATRICOLA E61SJ23053060996.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mj8ddyvfa5gnfjxsc440g/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Consegna_260909_20261015_143544-RIF.-ASSISTENZA-SU-FORNO-ELETTRICO-RATIONAL-ICOMBI-PRO-MATRICOLA-E61SJ23053060996.pdf?rlkey=g0w53k8d0yzinwuyfjbzcpnql&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Consegna_260909_20261015_143544 RIF. ASSISTENZA SU FORNO ELETTRICO RATIONAL ICOMBI PRO MATRICOLA E61SJ23053060996.pdf"
+            },
+            {
               "nome": "SANTOS SRL Consegna_260496_20260630_140012 RIF. BACK BAR Basato su Offerte di vendita 260139. Basato su Ordi.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5288,7 +5336,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 659
+          "_totale_file": 665
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -5534,6 +5582,14 @@
               "link": "https://www.dropbox.com/scl/fi/awi9sd6ktb89tgdr0ua41/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Fattura-di-vendita_2600530_20261013_000640-RIF.-ASSISTENZA-SU-LAVABICCHIERI-COMENDA-SOSTITUZIONE-TUBO-INTERNO-DOSATORE.pdf?rlkey=j5xhl2sdkpk7k3bhquxvihh72&dl=0?raw=1",
               "dimensione_kb": 63,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Fattura di vendita_2600530_20261013_000640 RIF. ASSISTENZA SU LAVABICCHIERI COMENDA SOSTITUZIONE TUBO INTERNO DOSATORE.pdf"
+            },
+            {
+              "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Fattura di vendita_2600533_20261015_102757 RIF. DETERGENTE COFFEE CLEAN Basato su Ordini cliente 260507. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/o75li6o3da1atkoq0aace/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Fattura-di-vendita_2600533_20261015_102757-RIF.-DETERGENTE-COFFEE-CLEAN-Basato-su-Ordini-cliente-260507.-Basato-su-Consegne.pdf?rlkey=0fn9o2dozksi1dowkzyqk85n8&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Fattura di vendita_2600533_20261015_102757 RIF. DETERGENTE COFFEE CLEAN Basato su Ordini cliente 260507. Basato su Consegne.pdf"
             },
             {
               "nome": "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Fattura di vendita_2600293_20260718_100524 RIF. Basato su Consegne 260530. 260531. 260570..pdf",
@@ -5878,6 +5934,14 @@
               "link": "https://www.dropbox.com/scl/fi/jo74t8atx5tmcpecv42kq/CENTRO-BALNEARE-YELLOW-BOAT-SAS-Fattura-di-vendita_2600221_20260622_180154-RIF.-ASSISTENZA-SU-CUCINA-REVISIONE-FUOCHI-E-CONTROLLO-GENERICO-A.pdf?rlkey=5l2nb6pka0610rb6kva9g9m19&dl=0?raw=1",
               "dimensione_kb": 71,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/CENTRO BALNEARE YELLOW BOAT SAS Fattura di vendita_2600221_20260622_180154 RIF. ASSISTENZA SU CUCINA REVISIONE FUOCHI E CONTROLLO GENERICO A.pdf"
+            },
+            {
+              "nome": "CHECK Srl BAR MATER DEI Fattura di vendita_2600535_20261015_171209 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260509. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jwpr3kd6qdfqjfz7oe872/CHECK-Srl-BAR-MATER-DEI-Fattura-di-vendita_2600535_20261015_171209-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260509.-Basato-su-Consegne.pdf?rlkey=nkrr7j21o8qxfpk7egorvbps1&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/CHECK Srl BAR MATER DEI Fattura di vendita_2600535_20261015_171209 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260509. Basato su Consegne.pdf"
             },
             {
               "nome": "CHOCOLATE & PASTRY SAS Fattura di vendita_2600254_20260702_085705 RIF. ARMADIO CONGELATORE COLDLINE WIND A901B Basato su Offerte di.pdf",
@@ -7720,6 +7784,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/MACELLERIA COSENTINO DOMENICO Fattura di vendita_2600304_20260723_135706 RIF. PIASTRA E COLTELLO TRITACARNE 32 E SEGA INOX Basato su Ordin.pdf"
             },
             {
+              "nome": "MACELLERIA di SOLA ANTONIO Fattura di vendita_2400697_20261015_140603 RIF. ASSISTENZA SU AFFETTATRICE SOSTITUZIONE LAMA, REVISIONE GRUPPO AFFILATOIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jbnmcjq0016dlecuit8lg/MACELLERIA-di-SOLA-ANTONIO-Fattura-di-vendita_2400697_20261015_140603-RIF.-ASSISTENZA-SU-AFFETTATRICE-SOSTITUZIONE-LAMA-REVISIONE-GRUPPO-AFFILATOIO.pdf?rlkey=my2imn866zjfhatjcbug9mxk1&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/MACELLERIA di SOLA ANTONIO Fattura di vendita_2400697_20261015_140603 RIF. ASSISTENZA SU AFFETTATRICE SOSTITUZIONE LAMA, REVISIONE GRUPPO AFFILATOIO.pdf"
+            },
+            {
               "nome": "MACHRì SRL Fattura di vendita_2600182_20260607_183329 RIF. DETERGENTE E GUARNIZIONE RATIONAL Basato su Ordini cliente 2.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -8360,28 +8432,36 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600241_20260626_082205 RIF. ASSISTENZA SU FORNO RATIONAL I COMBI PRO MATRICOLA E61SJ2305.pdf"
             },
             {
-              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600311_20260903_114428 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260276. Basato su Consegne.pdf",
+              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600311_20261015_144222 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260276. Basato su Consegne.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/9yuppl0lx6wx83mrric5j/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600311_20260903_114428-RIF.-DETERGENTE-RATIONAL-2-VERDI-Basato-su-Ordini-cliente-260276.-Basato-su-Consegne.pdf?rlkey=kbv8oqao1j72t5h6a0gz0dx3l&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600311_20260903_114428 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260276. Basato su Consegne.pdf"
+              "link": "https://www.dropbox.com/scl/fi/feficba2b60uv6n0r3m3x/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600311_20261015_144222-RIF.-DETERGENTE-RATIONAL-2-VERDI-Basato-su-Ordini-cliente-260276.-Basato-su-Consegne.pdf?rlkey=ur5qplspghloon21b4un0bq14&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600311_20261015_144222 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260276. Basato su Consegne.pdf"
             },
             {
-              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600312_20260903_114438 RIF. ASSISTENZA SU RATIONAL iCOMBI PRO SOSTITUZIONE COPERCHIO DI ISPEZIONE B2.pdf",
+              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600312_20261015_144543 RIF. ASSISTENZA SU RATIONAL iCOMBI PRO SOSTITUZIONE COPERCHIO DI ISPEZIONE B2.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/fneuebho1on3a1a0232t5/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600312_20260903_114438-RIF.-ASSISTENZA-SU-RATIONAL-iCOMBI-PRO-SOSTITUZIONE-COPERCHIO-DI-ISPEZIONE-B2.pdf?rlkey=h0nmx3i1ebszsagrfixfj8q3u&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600312_20260903_114438 RIF. ASSISTENZA SU RATIONAL iCOMBI PRO SOSTITUZIONE COPERCHIO DI ISPEZIONE B2.pdf"
+              "link": "https://www.dropbox.com/scl/fi/p4dgbg01ipxiticy5ycoa/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600312_20261015_144543-RIF.-ASSISTENZA-SU-RATIONAL-iCOMBI-PRO-SOSTITUZIONE-COPERCHIO-DI-ISPEZIONE-B2.pdf?rlkey=6cbp87m9hrs6033ya3iyru3m0&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600312_20261015_144543 RIF. ASSISTENZA SU RATIONAL iCOMBI PRO SOSTITUZIONE COPERCHIO DI ISPEZIONE B2.pdf"
             },
             {
-              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600465_20260903_114452 RIF. DETERSIVI RATIONAL VERDE + BLU (ordine da messaggio vocale 29082026) Basato.pdf",
+              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600465_20261015_144600 RIF. DETERSIVI RATIONAL VERDE + BLU (ordine da messaggio vocale 29082026) Basato.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/prg4vvtmfg1q6h16bvx7n/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600465_20260903_114452-RIF.-DETERSIVI-RATIONAL-VERDE-BLU-ordine-da-messaggio-vocale-29082026-Basato.pdf?rlkey=tcc54qstwq4zamkgx7kfzuda0&dl=0?raw=1",
-              "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600465_20260903_114452 RIF. DETERSIVI RATIONAL VERDE + BLU (ordine da messaggio vocale 29082026) Basato.pdf"
+              "link": "https://www.dropbox.com/scl/fi/4uif1yptustt9v7boe271/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600465_20261015_144600-RIF.-DETERSIVI-RATIONAL-VERDE-BLU-ordine-da-messaggio-vocale-29082026-Basato.pdf?rlkey=xiy2by46vxo9kki8uj97f39lf&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600465_20261015_144600 RIF. DETERSIVI RATIONAL VERDE + BLU (ordine da messaggio vocale 29082026) Basato.pdf"
+            },
+            {
+              "nome": "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600534_20261015_144840 RIF. ASSISTENZA SU FORNO ELETTRICO RATIONAL ICOMBI PRO MATRICOLA E61SJ23053060996.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qqwsdf1nscamwxzryhqy7/SANGINETO-S.a.s.-di-Sangineto-Concetta-CRAWFORD-PUB-Fattura-di-vendita_2600534_20261015_144840-RIF.-ASSISTENZA-SU-FORNO-ELETTRICO-RATIONAL-ICOMBI-PRO-MATRICOLA-E61SJ23053060996.pdf?rlkey=z4lsr1vfsoq95120msqe0ggo1&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB Fattura di vendita_2600534_20261015_144840 RIF. ASSISTENZA SU FORNO ELETTRICO RATIONAL ICOMBI PRO MATRICOLA E61SJ23053060996.pdf"
             },
             {
               "nome": "SANTOS SRL Fattura di vendita_2600280_20260711_174204 RIF. BACK BAR Basato su Offerte di vendita 260139. Basato su Ordi.pdf",
@@ -8968,7 +9048,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 459
+          "_totale_file": 463
         },
         {
           "nome": "FATTURE DI VENDITA XML",
@@ -13048,7 +13128,7 @@
                   "nome": "7AMF05I5SA005-4020769401.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/nowm31kzw9lqllgd80cxb/7AMF05I5SA005-4020769401.pdf?rlkey=ea04q7ntc7bjagcuvg7mg0ixl&dl=0?raw=1",
                   "dimensione_kb": 675,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_07_03 LIDO SAN FRANCESCO ABBATTITORE/7AMF05I5SA005-4020769401.pdf"
                 },
@@ -70702,6 +70782,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Ordine cliente_260342_20260731_165156 RIF. DETERGENTE LAVABICCHIERI BRILLANTANTE.pdf"
             },
             {
+              "nome": "BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Ordine cliente_260507_20261015_102729 RIF. DETERGENTE COFFEE CLEAN.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/t1l73mrmf3ezikws4jwty/BAR-DEL-PONTE-CIRIMELE-ADRIANO-DI-DE-LUCA-GINA-Ordine-cliente_260507_20261015_102729-RIF.-DETERGENTE-COFFEE-CLEAN.pdf?rlkey=4z4o3iqv0jbma37i3a50o9n58&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR DEL PONTE CIRIMELE ADRIANO DI DE LUCA GINA Ordine cliente_260507_20261015_102729 RIF. DETERGENTE COFFEE CLEAN.pdf"
+            },
+            {
               "nome": "BAR MILLE VOGLIE DI D'ANDREA SALVATORE ANDREA Ordine cliente_260207_20260615_103041 RIF. Riempi Bigne' Inox Basato su Offerte di vendita 260111..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -70990,6 +71078,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHECK Srl BAR MATER DEI Ordine cliente_260140_20260512_170003 RIF. DETERGENTE ECOSAN DET 6 QTA'1.pdf"
             },
             {
+              "nome": "CHECK Srl BAR MATER DEI Ordine cliente_260509_20261015_171137 RIF. DETERGENTE LAVABICCHIERI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/r3mzqjp99d00wk7221jxe/CHECK-Srl-BAR-MATER-DEI-Ordine-cliente_260509_20261015_171137-RIF.-DETERGENTE-LAVABICCHIERI.pdf?rlkey=9cio00umzhl2xbn9y4mzi2ty2&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHECK Srl BAR MATER DEI Ordine cliente_260509_20261015_171137 RIF. DETERGENTE LAVABICCHIERI.pdf"
+            },
+            {
               "nome": "CHOCOLATE & PASTRY SAS Ordine cliente_260201_20260611_094353 RIF. ARMADIO CONGELATORE COLDLINE WIND A901B Basato su Offerte di.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -71009,7 +71105,7 @@
               "nome": "CIDO SRL Ordine cliente_260228_20260622_155455 RIF. ASSISTENZA SU CUCINA ANGELO PO CON FORNO ASSISTENZA SU CUCIN.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/rijw2mbaj57gj1zjzqdaz/CIDO-SRL-Ordine-cliente_260228_20260622_155455-RIF.-ASSISTENZA-SU-CUCINA-ANGELO-PO-CON-FORNO-ASSISTENZA-SU-CUCIN.pdf?rlkey=8760x1b98bsjvdcvll3zpcul0&dl=0?raw=1",
               "dimensione_kb": 60,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CIDO SRL Ordine cliente_260228_20260622_155455 RIF. ASSISTENZA SU CUCINA ANGELO PO CON FORNO ASSISTENZA SU CUCIN.pdf"
             },
@@ -71388,6 +71484,14 @@
               "link": "https://www.dropbox.com/scl/fi/g14olju2drkbwblbn7s0w/FLAVIA-DE-MARCO-Ordine-cliente_260257_20260707_122158-RIF.-ARMADIO-CONGELATORE-COLDLINE-SMART-A701BE.pdf?rlkey=v5v9tfx1lb1bhm3mu8uoplgl0&dl=0?raw=1",
               "dimensione_kb": 59,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/FLAVIA DE MARCO Ordine cliente_260257_20260707_122158 RIF. ARMADIO CONGELATORE COLDLINE SMART A701BE.pdf"
+            },
+            {
+              "nome": "FLAVIA DE MARCO Ordine cliente_260508_20261015_133634 RIF. DETERGENTE RATIONAL + GRIGLIA COPPIA GUIDE PER CONGELATORE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iq4qym4hmt2u7p9wzajht/FLAVIA-DE-MARCO-Ordine-cliente_260508_20261015_133634-RIF.-DETERGENTE-RATIONAL-GRIGLIA-COPPIA-GUIDE-PER-CONGELATORE.pdf?rlkey=eevx2h0gjluu031eery7j9y08&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/FLAVIA DE MARCO Ordine cliente_260508_20261015_133634 RIF. DETERGENTE RATIONAL + GRIGLIA COPPIA GUIDE PER CONGELATORE.pdf"
             },
             {
               "nome": "FOODEX SRL Ordine cliente_260202_20260612_105632 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004.pdf",
@@ -73446,7 +73550,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZM RIPARAZIONI DI ZACCARA MARIO Ordine cliente_260498_20261009_123654 RIF. MACINE CONICHE X MC99CONIK.pdf"
             }
           ],
-          "_totale_file": 371
+          "_totale_file": 374
         }
       ],
       "file": []
