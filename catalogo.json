@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-16T06:00:12Z",
-  "totale_file": 27923,
+  "generato": "2026-10-16T08:07:47Z",
+  "totale_file": 27925,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -199209,7 +199209,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5186,
+      "totale_file": 5188,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -200594,6 +200594,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/UNIVAC GROUP SRL Entrata merci da fornitore_260135_20260703_091715 RIF. AZIENDA AGRIGOLA PECORELLI MATRICOLA 0485040626 Basato su Or.pdf"
             },
             {
+              "nome": "VAN BERKEL ENTRATA MERCI 2026 - D1 001220.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ybecbuf1txmtgwre5rf0q/VAN-BERKEL-ENTRATA-MERCI-2026-D1-001220.pdf?rlkey=ljmmp1ofijesdpj8l8bzy5e5y&dl=0?raw=1",
+              "dimensione_kb": 94,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/VAN BERKEL ENTRATA MERCI 2026 - D1 001220.pdf"
+            },
+            {
               "nome": "VAN BERKEL INTERNATIONAL SRL Entrata merci da fornitore_260169_20260817_104841 RIF. SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA 026305 RIF. PALE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -200610,7 +200618,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 172
+          "_totale_file": 173
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -201949,7 +201957,7 @@
               "nome": "BPER Banca S.p.A_05387-4160022209-76_2025-01-03.xml",
               "tipo": "File",
               "icona": "📎",
-              "link": "https://www.dropbox.com/scl/fi/4mz75qy69t0ajsb0qaob9/BPER-Banca-S.p.A_05387-4160022209-76_2025-01-03.xml?rlkey=p7xkg9iugk98j9hfagk1oy076&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 4,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BPER Banca S.p.A_05387-4160022209-76_2025-01-03.xml"
             },
@@ -242998,6 +243006,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/UNIVAC Conferma d'ordine 2.323_2 del 29_09_2026 RIF.RICAMBI YUMARA.pdf"
             },
             {
+              "nome": "VAN BERKEL CONFERMA ORDINE RC 002095 DEL 29_09_2026 RIF. GRAN SOLE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d47bosi4mq8l2z3h2mqaw/VAN-BERKEL-CONFERMA-ORDINE-RC-002095-DEL-29_09_2026-RIF.-GRAN-SOLE.pdf?rlkey=n8bxq11mie9m3b7s7yfpqu03x&dl=0?raw=1",
+              "dimensione_kb": 100,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORDINE RC 002095 DEL 29_09_2026 RIF. GRAN SOLE.pdf"
+            },
+            {
               "nome": "VAN BERKEL CONFERMA ORIDNE 002095 RIF. RICAMBI GRAN SOLE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -243006,7 +243022,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/VAN BERKEL CONFERMA ORIDNE 002095 RIF. RICAMBI GRAN SOLE.pdf"
             }
           ],
-          "_totale_file": 3851
+          "_totale_file": 3852
         }
       ],
       "file": []
