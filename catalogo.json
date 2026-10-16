@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-16T00:42:20Z",
-  "totale_file": 27909,
+  "generato": "2026-10-16T02:41:41Z",
+  "totale_file": 27910,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -155448,7 +155448,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4514,
+      "totale_file": 4515,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -185728,9 +185728,17 @@
               "link": "https://www.dropbox.com/scl/fi/hyxdvomxuj0xpmx76d6lh/KAREL-AREA-RISERVATA.url?rlkey=di0opmldj4nkzpnkl2uzodj48&dl=0?raw=1",
               "dimensione_kb": 0,
               "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/KAREL AREA RISERVATA.url"
+            },
+            {
+              "nome": "catalogo-karel-2024.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/46cm3c97esh0psg3x84gn/catalogo-karel-2024.pdf?rlkey=c5p8gmpwk60p4d957i65bqa3d&dl=0?raw=1",
+              "dimensione_kb": 29134,
+              "path": "/HUB DOCUMENTALE/FORNITORI/KAREL/catalogo-karel-2024.pdf"
             }
           ],
-          "_totale_file": 93
+          "_totale_file": 94
         },
         {
           "nome": "KEMPLEX",
@@ -190851,7 +190859,7 @@
               "nome": "PAVONI LISTINO PREZZZI NETTI_GROSSISTA_19.09.2024.xlsx",
               "tipo": "Excel",
               "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/8f3xptcsi424azwwd7vvg/PAVONI-LISTINO-PREZZZI-NETTI_GROSSISTA_19.09.2024.xlsx?rlkey=82c8ewhplr6guahp803u4mye5&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 223,
               "path": "/HUB DOCUMENTALE/FORNITORI/PAVONI/PAVONI LISTINO PREZZZI NETTI_GROSSISTA_19.09.2024.xlsx"
             },
