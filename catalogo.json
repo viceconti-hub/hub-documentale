@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-17T07:43:19Z",
-  "totale_file": 27930,
+  "generato": "2026-10-17T08:48:20Z",
+  "totale_file": 27932,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -243078,7 +243078,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2470,
+      "totale_file": 2472,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -243735,6 +243735,22 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/FIMAR SPA COPIA TITOLO BPER 05_11_2026 3253,38.pdf"
             },
             {
+              "nome": "FRIGOMECCANICA RICEVUTA AR 16_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xmx8owu43hre3rtu8zbih/FRIGOMECCANICA-RICEVUTA-AR-16_10_2026.pdf?rlkey=83640vbj85c9xh5xqkv5d929j&dl=0?raw=1",
+              "dimensione_kb": 261,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/FRIGOMECCANICA RICEVUTA AR 16_10_2026.pdf"
+            },
+            {
+              "nome": "FRIGOMECCANICA SRL COPIA TITOLI MPS 31_12_2026 31_01_2027 28_02_2027.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9ewja0wubjmzmh9n6pgz8/FRIGOMECCANICA-SRL-COPIA-TITOLI-MPS-31_12_2026-31_01_2027-28_02_2027.pdf?rlkey=60lfyd90sc7on3w3jx4b2z9sa&dl=0?raw=1",
+              "dimensione_kb": 1374,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/FRIGOMECCANICA SRL COPIA TITOLI MPS 31_12_2026 31_01_2027 28_02_2027.pdf"
+            },
+            {
               "nome": "LOTUS COPIA TITOLO BPER SCADENZA 10_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -243847,7 +243863,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/SIRMAN RICEVUTA AR DEL 29_07_2026.pdf"
             }
           ],
-          "_totale_file": 66
+          "_totale_file": 68
         },
         {
           "nome": "PAGAMENTI IN USCITA BONIFICI",
