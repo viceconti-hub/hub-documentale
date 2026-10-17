@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-17T00:28:34Z",
-  "totale_file": 27927,
+  "generato": "2026-10-17T02:25:01Z",
+  "totale_file": 27922,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -155576,7 +155576,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4515,
+      "totale_file": 4510,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -189350,8 +189350,161 @@
             {
               "nome": "ARCHIVIO",
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "filelist.xml",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/5c3auuzjtqxuqdlqjxko5/filelist.xml?rlkey=qk00a9q60is810toy5nk44ikz&dl=0?raw=1",
+                      "dimensione_kb": 0,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file/filelist.xml"
+                    },
+                    {
+                      "nome": "sheet001.htm",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/hzeivkhc434n9e9vugy7f/sheet001.htm?rlkey=3ak3ju41chssgw7cn4vwk93dk&dl=0?raw=1",
+                      "dimensione_kb": 18817,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file/sheet001.htm"
+                    },
+                    {
+                      "nome": "sheet002.htm",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/7iv5ee5k27bfid6aq4syc/sheet002.htm?rlkey=su1io9644e6zxi7ard0uf13op&dl=0?raw=1",
+                      "dimensione_kb": 19865,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file/sheet002.htm"
+                    },
+                    {
+                      "nome": "tabstrip.htm",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/i1mj41idixbmeih5so16c/tabstrip.htm?rlkey=mbwxpsbn9ympmcfvds97cbcyi&dl=0?raw=1",
+                      "dimensione_kb": 1,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file/tabstrip.htm"
+                    }
+                  ],
+                  "_totale_file": 4
+                },
+                {
+                  "nome": "PF018500_011022_183631_file",
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/PF018500_011022_183631_file",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "filelist.xml",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/cer1ojuykl93245lbbdrw/filelist.xml?rlkey=qx0p4vu1y6x1vqdfr2r4p8rfc&dl=0?raw=1",
+                      "dimensione_kb": 0,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/PF018500_011022_183631_file/filelist.xml"
+                    },
+                    {
+                      "nome": "sheet001.htm",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/iqd7cy21tj8456623vemz/sheet001.htm?rlkey=ibueke08y1oogm7vcdu4igidl&dl=0?raw=1",
+                      "dimensione_kb": 4570,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/PF018500_011022_183631_file/sheet001.htm"
+                    },
+                    {
+                      "nome": "sheet002.htm",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/2o5rtdwyk3fc4zn90za31/sheet002.htm?rlkey=avedebi4nv2wavybtdcdich06&dl=0?raw=1",
+                      "dimensione_kb": 1100,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/PF018500_011022_183631_file/sheet002.htm"
+                    },
+                    {
+                      "nome": "tabstrip.htm",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/4yhomg8giircruid0gxpl/tabstrip.htm?rlkey=1wceo26ddoljq41k939epd8lv&dl=0?raw=1",
+                      "dimensione_kb": 1,
+                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/PF018500_011022_183631_file/tabstrip.htm"
+                    }
+                  ],
+                  "_totale_file": 4
+                }
+              ],
               "file": [
+                {
+                  "nome": "LI018500_011022_183631.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/s3mz9qnwnvucaxdgaafop/LI018500_011022_183631.XLS?rlkey=804iklzuniwj9ewycdsmlt5dp&dl=0?raw=1",
+                  "dimensione_kb": 750,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/LI018500_011022_183631.XLS"
+                },
+                {
+                  "nome": "LI018500_040721_151940.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/k7a8udsxbq60hzcpa5d9j/LI018500_040721_151940.XLS?rlkey=xtblcrgjknlze6ph3qn5ou5h3&dl=0?raw=1",
+                  "dimensione_kb": 27,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/LI018500_040721_151940.XLS"
+                },
+                {
+                  "nome": "LI018500_040721_151940.XLS.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/kdqnahyrm427hu6fb7yu9/LI018500_040721_151940.XLS.xlsx?rlkey=xje86mdoapg21q74evdbf9dum&dl=0?raw=1",
+                  "dimensione_kb": 21,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/LI018500_040721_151940.XLS.xlsx"
+                },
+                {
+                  "nome": "LI018500_050921_224844.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/y3qbtlsyfwaj27fwopbeg/LI018500_050921_224844.XLS?rlkey=jeqk6s9hnzoyx0uzzate8iczf&dl=0?raw=1",
+                  "dimensione_kb": 60,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/LI018500_050921_224844.XLS"
+                },
+                {
+                  "nome": "LI018500_050921_224844.XLS.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/dq1pv71ov1u5wzjuwphes/LI018500_050921_224844.XLS.xlsx?rlkey=nlw7yvkx3i16y7e5yhlcru45q&dl=0?raw=1",
+                  "dimensione_kb": 19,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/LI018500_050921_224844.XLS.xlsx"
+                },
+                {
+                  "nome": "LI018500_080821_161721.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/zioc4u2n2bcdm0iwufyku/LI018500_080821_161721.XLS?rlkey=fk157x1ouf1huu9cdd2zkx0su&dl=0?raw=1",
+                  "dimensione_kb": 33,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/LI018500_080821_161721.XLS"
+                },
+                {
+                  "nome": "LI018500_080821_161721.XLS.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/o32lrkykpg4my09doh5yp/LI018500_080821_161721.XLS.xlsx?rlkey=mijw7vdx593hou95zxepp7ad1&dl=0?raw=1",
+                  "dimensione_kb": 15,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/LI018500_080821_161721.XLS.xlsx"
+                },
+                {
+                  "nome": "LI018500_140122_115844.XLS A - Copia.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/m4uye9e8h1ag9rz8trpx4/LI018500_140122_115844.XLS-A-Copia.xlsx?rlkey=b8rgj9tpffuzcwz74xhbxflt5&dl=0?raw=1",
+                  "dimensione_kb": 1215,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/LI018500_140122_115844.XLS A - Copia.xlsx"
+                },
+                {
+                  "nome": "LI018500_140122_115844.XLS A.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/tjfxai4ycli6ma1whrach/LI018500_140122_115844.XLS-A.xlsx?rlkey=6viua70l1ye5bntnzheckey92&dl=0?raw=1",
+                  "dimensione_kb": 1215,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/LI018500_140122_115844.XLS A.xlsx"
+                },
                 {
                   "nome": "LI018500_140122_115844.XLS.xlsx",
                   "tipo": "Excel",
@@ -189367,6 +189520,62 @@
                   "link": "https://www.dropbox.com/scl/fi/d8olaa79061lz5jx8wutg/MORINI-CATALOGO-GENERALE-2022-SENZA-LOGO-MORINI.pdf?rlkey=hvy6o7qtz9nvjehpvr33q403e&dl=0?raw=1",
                   "dimensione_kb": 114631,
                   "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI CATALOGO GENERALE 2022 SENZA LOGO MORINI.pdf"
+                },
+                {
+                  "nome": "MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/ci18t7jdkw0v4za10uge8/MORINI-LISTINO-EXCEL-09_2022-LI018500_210922_090831.XLS?rlkey=53yfdlacdfq2ppkbpto3pxh9i&dl=0?raw=1",
+                  "dimensione_kb": 10,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831.XLS"
+                },
+                {
+                  "nome": "MORINI LISTINO EXCEL 24_09_2025 LI0018500 copia per caricamento 20_10_2025.XLSX",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/yzqqrkfd65kjl7stzft2l/MORINI-LISTINO-EXCEL-24_09_2025-LI0018500-copia-per-caricamento-20_10_2025.XLSX?rlkey=6oqezymzcq1bkuon6o7785eyy&dl=0?raw=1",
+                  "dimensione_kb": 2158,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO EXCEL 24_09_2025 LI0018500 copia per caricamento 20_10_2025.XLSX"
+                },
+                {
+                  "nome": "MORINI LISTINO EXCEL 24_09_2025 LI0018500.XLSX",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/ye0g6ywh081a3m8strt9j/MORINI-LISTINO-EXCEL-24_09_2025-LI0018500.XLSX?rlkey=u2fc35791zw3cexya4clco20s&dl=0?raw=1",
+                  "dimensione_kb": 2158,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO EXCEL 24_09_2025 LI0018500.XLSX"
+                },
+                {
+                  "nome": "MORINI LISTINO LI018500_220621_154025 23_06_2021.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/zmsa0drhfuy12h6ojvdrf/MORINI-LISTINO-LI018500_220621_154025-23_06_2021.XLS?rlkey=ucygjsqf8hf51xafq9nh41ymu&dl=0?raw=1",
+                  "dimensione_kb": 7022,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO LI018500_220621_154025 23_06_2021.XLS"
+                },
+                {
+                  "nome": "MORINI LISTINO LI018500_220621_154025 23_06_2021.XLS.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/qv6ft7x0bhs07ok1kx921/MORINI-LISTINO-LI018500_220621_154025-23_06_2021.XLS.xlsx?rlkey=22azeopqpn6twr3d79q3l0tvb&dl=0?raw=1",
+                  "dimensione_kb": 2578,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO LI018500_220621_154025 23_06_2021.XLS.xlsx"
+                },
+                {
+                  "nome": "MORINI LISTINO LI018500_220921_121650 DEL 22_09_2021.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/u3zmkpeo9qngi8ymcdyv3/MORINI-LISTINO-LI018500_220921_121650-DEL-22_09_2021.XLS?rlkey=q6okshxceg4ry8mgq3iwib34j&dl=0?raw=1",
+                  "dimensione_kb": 6903,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO LI018500_220921_121650 DEL 22_09_2021.XLS"
+                },
+                {
+                  "nome": "MORINI LISTINO LI018500_220921_121650 DEL 22_09_2021.XLS.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/wtomu210edacc4ov731ro/MORINI-LISTINO-LI018500_220921_121650-DEL-22_09_2021.XLS.xlsx?rlkey=2wnoemlizbtk1meyb3ffnh9fc&dl=0?raw=1",
+                  "dimensione_kb": 1220,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO LI018500_220921_121650 DEL 22_09_2021.XLS.xlsx"
                 },
                 {
                   "nome": "MORINI LISTINO PDF 07_07_2021.pdf",
@@ -189399,9 +189608,49 @@
                   "link": "https://www.dropbox.com/scl/fi/stj7osb84mn9frj6to2uv/MORINI-LISTINO-RICEVUTO-IL-14_01_2022-PDF.pdf?rlkey=am5s5hbnrp2mazf6f2wv5fi9l&dl=0?raw=1",
                   "dimensione_kb": 1199,
                   "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI LISTINO RICEVUTO IL 14_01_2022 PDF.pdf"
+                },
+                {
+                  "nome": "MORINI_LISTINO_CON_LISTINO.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/1zoz8ju6hg7uksyoqtrpk/MORINI_LISTINO_CON_LISTINO.xlsx?rlkey=7gmxu57xqamv132ddw7gu45rc&dl=0?raw=1",
+                  "dimensione_kb": 2224,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/MORINI_LISTINO_CON_LISTINO.xlsx"
+                },
+                {
+                  "nome": "PF018500_011022_183631.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/9amxsrmsdjxyvvc9dec85/PF018500_011022_183631.XLS?rlkey=qiuubphy0myx9slw49nm3ri3j&dl=0?raw=1",
+                  "dimensione_kb": 10,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/PF018500_011022_183631.XLS"
+                },
+                {
+                  "nome": "PF018500_040721_151940.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/cw2oomvi66vjls5hjh1vy/PF018500_040721_151940.XLS?rlkey=f7r9mjczgokrdhsh0cxt4mztz&dl=0?raw=1",
+                  "dimensione_kb": 986,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/PF018500_040721_151940.XLS"
+                },
+                {
+                  "nome": "PF018500_050921_224844.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/16d0ltglb414bozr9kupz/PF018500_050921_224844.XLS?rlkey=nf65b12x6mpnow9zlc7lgk7tz&dl=0?raw=1",
+                  "dimensione_kb": 354,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/PF018500_050921_224844.XLS"
+                },
+                {
+                  "nome": "PF018500_080821_161721.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/xtzbqtodbdvia9d1d84qk/PF018500_080821_161721.XLS?rlkey=o52j7ep37mf2rygati2yuqkfi&dl=0?raw=1",
+                  "dimensione_kb": 3611,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/ARCHIVIO/PF018500_080821_161721.XLS"
                 }
               ],
-              "_totale_file": 6
+              "_totale_file": 35
             },
             {
               "nome": "CATALOGHI",
@@ -189458,248 +189707,6 @@
                 }
               ],
               "_totale_file": 6
-            },
-            {
-              "nome": "LISTINI EXCEL",
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL",
-              "cartelle": [
-                {
-                  "nome": "ARCHIVIO",
-                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO",
-                  "cartelle": [
-                    {
-                      "nome": "MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "filelist.xml",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/5c3auuzjtqxuqdlqjxko5/filelist.xml?rlkey=qk00a9q60is810toy5nk44ikz&dl=0?raw=1",
-                          "dimensione_kb": 0,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file/filelist.xml"
-                        },
-                        {
-                          "nome": "sheet001.htm",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/hzeivkhc434n9e9vugy7f/sheet001.htm?rlkey=3ak3ju41chssgw7cn4vwk93dk&dl=0?raw=1",
-                          "dimensione_kb": 18817,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file/sheet001.htm"
-                        },
-                        {
-                          "nome": "sheet002.htm",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/7iv5ee5k27bfid6aq4syc/sheet002.htm?rlkey=su1io9644e6zxi7ard0uf13op&dl=0?raw=1",
-                          "dimensione_kb": 19865,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file/sheet002.htm"
-                        },
-                        {
-                          "nome": "tabstrip.htm",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/i1mj41idixbmeih5so16c/tabstrip.htm?rlkey=mbwxpsbn9ympmcfvds97cbcyi&dl=0?raw=1",
-                          "dimensione_kb": 1,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file/tabstrip.htm"
-                        }
-                      ],
-                      "_totale_file": 4
-                    },
-                    {
-                      "nome": "PF018500_011022_183631_file",
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/PF018500_011022_183631_file",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "filelist.xml",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/cer1ojuykl93245lbbdrw/filelist.xml?rlkey=qx0p4vu1y6x1vqdfr2r4p8rfc&dl=0?raw=1",
-                          "dimensione_kb": 0,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/PF018500_011022_183631_file/filelist.xml"
-                        },
-                        {
-                          "nome": "sheet001.htm",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/iqd7cy21tj8456623vemz/sheet001.htm?rlkey=ibueke08y1oogm7vcdu4igidl&dl=0?raw=1",
-                          "dimensione_kb": 4570,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/PF018500_011022_183631_file/sheet001.htm"
-                        },
-                        {
-                          "nome": "sheet002.htm",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/2o5rtdwyk3fc4zn90za31/sheet002.htm?rlkey=avedebi4nv2wavybtdcdich06&dl=0?raw=1",
-                          "dimensione_kb": 1100,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/PF018500_011022_183631_file/sheet002.htm"
-                        },
-                        {
-                          "nome": "tabstrip.htm",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/4yhomg8giircruid0gxpl/tabstrip.htm?rlkey=1wceo26ddoljq41k939epd8lv&dl=0?raw=1",
-                          "dimensione_kb": 1,
-                          "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/PF018500_011022_183631_file/tabstrip.htm"
-                        }
-                      ],
-                      "_totale_file": 4
-                    }
-                  ],
-                  "file": [
-                    {
-                      "nome": "LI018500_040721_151940.XLS",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/k7a8udsxbq60hzcpa5d9j/LI018500_040721_151940.XLS?rlkey=xtblcrgjknlze6ph3qn5ou5h3&dl=0?raw=1",
-                      "dimensione_kb": 27,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/LI018500_040721_151940.XLS"
-                    },
-                    {
-                      "nome": "LI018500_040721_151940.XLS.xlsx",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/kdqnahyrm427hu6fb7yu9/LI018500_040721_151940.XLS.xlsx?rlkey=xje86mdoapg21q74evdbf9dum&dl=0?raw=1",
-                      "dimensione_kb": 21,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/LI018500_040721_151940.XLS.xlsx"
-                    },
-                    {
-                      "nome": "LI018500_050921_224844.XLS",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/y3qbtlsyfwaj27fwopbeg/LI018500_050921_224844.XLS?rlkey=jeqk6s9hnzoyx0uzzate8iczf&dl=0?raw=1",
-                      "dimensione_kb": 60,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/LI018500_050921_224844.XLS"
-                    },
-                    {
-                      "nome": "LI018500_050921_224844.XLS.xlsx",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/dq1pv71ov1u5wzjuwphes/LI018500_050921_224844.XLS.xlsx?rlkey=nlw7yvkx3i16y7e5yhlcru45q&dl=0?raw=1",
-                      "dimensione_kb": 19,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/LI018500_050921_224844.XLS.xlsx"
-                    },
-                    {
-                      "nome": "LI018500_080821_161721.XLS",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/zioc4u2n2bcdm0iwufyku/LI018500_080821_161721.XLS?rlkey=fk157x1ouf1huu9cdd2zkx0su&dl=0?raw=1",
-                      "dimensione_kb": 33,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/LI018500_080821_161721.XLS"
-                    },
-                    {
-                      "nome": "LI018500_080821_161721.XLS.xlsx",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/o32lrkykpg4my09doh5yp/LI018500_080821_161721.XLS.xlsx?rlkey=mijw7vdx593hou95zxepp7ad1&dl=0?raw=1",
-                      "dimensione_kb": 15,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/LI018500_080821_161721.XLS.xlsx"
-                    },
-                    {
-                      "nome": "LI018500_140122_115844.XLS A - Copia.xlsx",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/m4uye9e8h1ag9rz8trpx4/LI018500_140122_115844.XLS-A-Copia.xlsx?rlkey=b8rgj9tpffuzcwz74xhbxflt5&dl=0?raw=1",
-                      "dimensione_kb": 1215,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/LI018500_140122_115844.XLS A - Copia.xlsx"
-                    },
-                    {
-                      "nome": "LI018500_140122_115844.XLS A.xlsx",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/tjfxai4ycli6ma1whrach/LI018500_140122_115844.XLS-A.xlsx?rlkey=6viua70l1ye5bntnzheckey92&dl=0?raw=1",
-                      "dimensione_kb": 1215,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/LI018500_140122_115844.XLS A.xlsx"
-                    },
-                    {
-                      "nome": "MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831.XLS",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/ci18t7jdkw0v4za10uge8/MORINI-LISTINO-EXCEL-09_2022-LI018500_210922_090831.XLS?rlkey=53yfdlacdfq2ppkbpto3pxh9i&dl=0?raw=1",
-                      "dimensione_kb": 10,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831.XLS"
-                    },
-                    {
-                      "nome": "MORINI LISTINO LI018500_220621_154025 23_06_2021.XLS",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/zmsa0drhfuy12h6ojvdrf/MORINI-LISTINO-LI018500_220621_154025-23_06_2021.XLS?rlkey=ucygjsqf8hf51xafq9nh41ymu&dl=0?raw=1",
-                      "dimensione_kb": 7022,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/MORINI LISTINO LI018500_220621_154025 23_06_2021.XLS"
-                    },
-                    {
-                      "nome": "MORINI LISTINO LI018500_220621_154025 23_06_2021.XLS.xlsx",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/qv6ft7x0bhs07ok1kx921/MORINI-LISTINO-LI018500_220621_154025-23_06_2021.XLS.xlsx?rlkey=22azeopqpn6twr3d79q3l0tvb&dl=0?raw=1",
-                      "dimensione_kb": 2578,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/MORINI LISTINO LI018500_220621_154025 23_06_2021.XLS.xlsx"
-                    },
-                    {
-                      "nome": "MORINI LISTINO LI018500_220921_121650 DEL 22_09_2021.XLS",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/u3zmkpeo9qngi8ymcdyv3/MORINI-LISTINO-LI018500_220921_121650-DEL-22_09_2021.XLS?rlkey=q6okshxceg4ry8mgq3iwib34j&dl=0?raw=1",
-                      "dimensione_kb": 6903,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/MORINI LISTINO LI018500_220921_121650 DEL 22_09_2021.XLS"
-                    },
-                    {
-                      "nome": "MORINI LISTINO LI018500_220921_121650 DEL 22_09_2021.XLS.xlsx",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/wtomu210edacc4ov731ro/MORINI-LISTINO-LI018500_220921_121650-DEL-22_09_2021.XLS.xlsx?rlkey=2wnoemlizbtk1meyb3ffnh9fc&dl=0?raw=1",
-                      "dimensione_kb": 1220,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/MORINI LISTINO LI018500_220921_121650 DEL 22_09_2021.XLS.xlsx"
-                    },
-                    {
-                      "nome": "PF018500_011022_183631.XLS",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/9amxsrmsdjxyvvc9dec85/PF018500_011022_183631.XLS?rlkey=qiuubphy0myx9slw49nm3ri3j&dl=0?raw=1",
-                      "dimensione_kb": 10,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/PF018500_011022_183631.XLS"
-                    },
-                    {
-                      "nome": "PF018500_040721_151940.XLS",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/cw2oomvi66vjls5hjh1vy/PF018500_040721_151940.XLS?rlkey=f7r9mjczgokrdhsh0cxt4mztz&dl=0?raw=1",
-                      "dimensione_kb": 986,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/PF018500_040721_151940.XLS"
-                    },
-                    {
-                      "nome": "PF018500_050921_224844.XLS",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/16d0ltglb414bozr9kupz/PF018500_050921_224844.XLS?rlkey=nf65b12x6mpnow9zlc7lgk7tz&dl=0?raw=1",
-                      "dimensione_kb": 354,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/PF018500_050921_224844.XLS"
-                    },
-                    {
-                      "nome": "PF018500_080821_161721.XLS",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/xtzbqtodbdvia9d1d84qk/PF018500_080821_161721.XLS?rlkey=o52j7ep37mf2rygati2yuqkfi&dl=0?raw=1",
-                      "dimensione_kb": 3611,
-                      "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/ARCHIVIO/PF018500_080821_161721.XLS"
-                    }
-                  ],
-                  "_totale_file": 25
-                }
-              ],
-              "file": [
-                {
-                  "nome": "LI018500_011022_183631.XLS",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/s3mz9qnwnvucaxdgaafop/LI018500_011022_183631.XLS?rlkey=804iklzuniwj9ewycdsmlt5dp&dl=0?raw=1",
-                  "dimensione_kb": 750,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/LISTINI EXCEL/LI018500_011022_183631.XLS"
-                }
-              ],
-              "_totale_file": 26
             },
             {
               "nome": "MORINI CATALOGO 15_10_2025",
@@ -189888,52 +189895,12 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI CONDIZIONI Gmail - Viceconti Snc_ nuove condizioni gestioni ordini 10_12_2025.pdf"
             },
             {
-              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 05_11_2025.XLSX",
+              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 10_10_2026.XLSX",
               "tipo": "Excel",
               "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/57guqcaz0d4n8hqckk442/MORINI-ESTRAZIONE-LISTINO-LI0018500-05_11_2025.XLSX?rlkey=8qbyzqug3hsukqypk6abez4kb&dl=0?raw=1",
-              "dimensione_kb": 1254,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 05_11_2025.XLSX"
-            },
-            {
-              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 10_08_2026.XLSX",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/90hg0o4gdjw4xv87ztuan/MORINI-ESTRAZIONE-LISTINO-LI0018500-10_08_2026.XLSX?rlkey=okpik2eh5pjcoe0c8dlox40c9&dl=0?raw=1",
-              "dimensione_kb": 1185,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 10_08_2026.XLSX"
-            },
-            {
-              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 16_01_2026.XLSX",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/zn0sbbkp4v2u8hfc8svkz/MORINI-ESTRAZIONE-LISTINO-LI0018500-16_01_2026.XLSX?rlkey=j20rx17o0ygbzqs1g6gqa0888&dl=0?raw=1",
-              "dimensione_kb": 1181,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 16_01_2026.XLSX"
-            },
-            {
-              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 19_04_2026 COPIA DEL CATALOGO CENTRALE.XLSX",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/k154dsymmq1uun3o4dgck/MORINI-ESTRAZIONE-LISTINO-LI0018500-19_04_2026-COPIA-DEL-CATALOGO-CENTRALE.XLSX?rlkey=50g8z95j4lcrl96tfkl4r7os4&dl=0?raw=1",
-              "dimensione_kb": 1188,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 19_04_2026 COPIA DEL CATALOGO CENTRALE.XLSX"
-            },
-            {
-              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 20_01_2026.XLSX",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/cvn1a3k6blicohaema1n2/MORINI-ESTRAZIONE-LISTINO-LI0018500-20_01_2026.XLSX?rlkey=t033mes8o4umrf1tdljrjcm6k&dl=0?raw=1",
-              "dimensione_kb": 1181,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 20_01_2026.XLSX"
-            },
-            {
-              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 28_02_2026.XLSX",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/0u19ub09bja32olwql6yj/MORINI-ESTRAZIONE-LISTINO-LI0018500-28_02_2026.XLSX?rlkey=mj9a2ff9wo2q00kpxrdz2bgfz&dl=0?raw=1",
-              "dimensione_kb": 1182,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 28_02_2026.XLSX"
+              "link": "https://www.dropbox.com/scl/fi/8eo1ibf9c7fwvn86hemh1/MORINI-ESTRAZIONE-LISTINO-LI0018500-10_10_2026.XLSX?rlkey=vs7toigt81i5ppxyezland2vf&dl=0?raw=1",
+              "dimensione_kb": 1174,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 10_10_2026.XLSX"
             },
             {
               "nome": "MORINI LINK PER AREA RISERVATA CIR0706.PDF",
@@ -189942,41 +189909,9 @@
               "link": "https://www.dropbox.com/scl/fi/mss70d1ynd5a4z7vk1odn/MORINI-LINK-PER-AREA-RISERVATA-CIR0706.PDF?rlkey=k6kvzmalxtl3dwg938pz3igfz&dl=0?raw=1",
               "dimensione_kb": 310,
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI LINK PER AREA RISERVATA CIR0706.PDF"
-            },
-            {
-              "nome": "MORINI LISTINO EXCEL 24_09_2025 LI0018500 copia per caricamento 20_10_2025.XLSX",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/yzqqrkfd65kjl7stzft2l/MORINI-LISTINO-EXCEL-24_09_2025-LI0018500-copia-per-caricamento-20_10_2025.XLSX?rlkey=6oqezymzcq1bkuon6o7785eyy&dl=0?raw=1",
-              "dimensione_kb": 2158,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI LISTINO EXCEL 24_09_2025 LI0018500 copia per caricamento 20_10_2025.XLSX"
-            },
-            {
-              "nome": "MORINI LISTINO EXCEL 24_09_2025 LI0018500.XLSX",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/ye0g6ywh081a3m8strt9j/MORINI-LISTINO-EXCEL-24_09_2025-LI0018500.XLSX?rlkey=u2fc35791zw3cexya4clco20s&dl=0?raw=1",
-              "dimensione_kb": 2158,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI LISTINO EXCEL 24_09_2025 LI0018500.XLSX"
-            },
-            {
-              "nome": "MORINI_LISTINO_CON_LISTINO.xlsx",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/1zoz8ju6hg7uksyoqtrpk/MORINI_LISTINO_CON_LISTINO.xlsx?rlkey=7gmxu57xqamv132ddw7gu45rc&dl=0?raw=1",
-              "dimensione_kb": 2224,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI_LISTINO_CON_LISTINO.xlsx"
-            },
-            {
-              "nome": "Nuovo Foglio di lavoro di Microsoft Excel.xlsx",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/upho29c21qnteqtkfmdlw/Nuovo-Foglio-di-lavoro-di-Microsoft-Excel.xlsx?rlkey=qd4nqles9whhrlaf5plf711ww&dl=0?raw=1",
-              "dimensione_kb": 6,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/Nuovo Foglio di lavoro di Microsoft Excel.xlsx"
             }
           ],
-          "_totale_file": 69
+          "_totale_file": 63
         },
         {
           "nome": "NARDI TAVOLI E SEDIE",
@@ -190987,7 +190922,7 @@
               "nome": "PAVONI LISTINO PREZZZI NETTI_GROSSISTA_19.09.2024.xlsx",
               "tipo": "Excel",
               "icona": "📊",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/8f3xptcsi424azwwd7vvg/PAVONI-LISTINO-PREZZZI-NETTI_GROSSISTA_19.09.2024.xlsx?rlkey=82c8ewhplr6guahp803u4mye5&dl=0?raw=1",
               "dimensione_kb": 223,
               "path": "/HUB DOCUMENTALE/FORNITORI/PAVONI/PAVONI LISTINO PREZZZI NETTI_GROSSISTA_19.09.2024.xlsx"
             },
@@ -193258,12 +193193,12 @@
           "_totale_file": 3
         },
         {
-          "nome": "ROSSANESE SEDIE E TAVOLI",
-          "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI",
+          "nome": "ROSSANESE",
+          "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE",
           "cartelle": [
             {
               "nome": "ARCHIVIO",
-              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO",
               "cartelle": [],
               "file": [
                 {
@@ -193272,7 +193207,7 @@
                   "icona": "🖼️",
                   "link": "https://www.dropbox.com/scl/fi/f9ywr5x302hcu8lyh330r/AUMENTO-LISTINO-DAL-16_5_22.JPG?rlkey=shvc7cbzlp6w94jhdpmqvdxjh&dl=0?raw=1",
                   "dimensione_kb": 89,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/AUMENTO LISTINO DAL 16_5_22.JPG"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/AUMENTO LISTINO DAL 16_5_22.JPG"
                 },
                 {
                   "nome": "AUMENTO LISTINO_01_03_24.jpg",
@@ -193280,7 +193215,7 @@
                   "icona": "🖼️",
                   "link": "https://www.dropbox.com/scl/fi/mblgcva2c3t02m477aqd3/AUMENTO-LISTINO_01_03_24.jpg?rlkey=30dx85y6argm3c8ysjbriw0cs&dl=0?raw=1",
                   "dimensione_kb": 122,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/AUMENTO LISTINO_01_03_24.jpg"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/AUMENTO LISTINO_01_03_24.jpg"
                 },
                 {
                   "nome": "Gmail - NUOVO Listino Prezzi N°3 Edizione 18.pdf",
@@ -193288,7 +193223,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/fst2pj9mxnoc9wh3a5is3/Gmail-NUOVO-Listino-Prezzi-N-3-Edizione-18.pdf?rlkey=e7v2rlrzrzyn846mqxr69pcg5&dl=0?raw=1",
                   "dimensione_kb": 123,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/Gmail - NUOVO Listino Prezzi N°3 Edizione 18.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/Gmail - NUOVO Listino Prezzi N°3 Edizione 18.pdf"
                 },
                 {
                   "nome": "LISTINO_3_EDIZIONE_18.pdf",
@@ -193296,7 +193231,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/10smuvv0wy1vwiryb34f7/LISTINO_3_EDIZIONE_18.pdf?rlkey=s6m5lbxdbmzkdin6xui0zq52i&dl=0?raw=1",
                   "dimensione_kb": 2945,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/LISTINO_3_EDIZIONE_18.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/LISTINO_3_EDIZIONE_18.pdf"
                 },
                 {
                   "nome": "ROSSANESE  LISTINO 2019.pdf",
@@ -193304,7 +193239,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/997jtawyg8qtgc8erqlyl/ROSSANESE-LISTINO-2019.pdf?rlkey=x1tqfi96sioxvnv0e2b50uf9f&dl=0?raw=1",
                   "dimensione_kb": 6710,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE  LISTINO 2019.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE  LISTINO 2019.pdf"
                 },
                 {
                   "nome": "ROSSANESE  LISTINO 2020.pdf",
@@ -193312,7 +193247,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/qje8qx3hwiqhzl6685f9h/ROSSANESE-LISTINO-2020.pdf?rlkey=pryiuksp1wndqrrob1lvkgaed&dl=0?raw=1",
                   "dimensione_kb": 726,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE  LISTINO 2020.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE  LISTINO 2020.pdf"
                 },
                 {
                   "nome": "ROSSANESE CATALOGO 2019.pdf",
@@ -193320,7 +193255,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/p9df4s2rxwhapxb7mwnd7/ROSSANESE-CATALOGO-2019.pdf?rlkey=v8s8vftqxozp95gdlr2q8fi8j&dl=0?raw=1",
                   "dimensione_kb": 34756,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE CATALOGO 2019.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE CATALOGO 2019.pdf"
                 },
                 {
                   "nome": "ROSSANESE LISTINO INTERNO_2017.pdf",
@@ -193328,7 +193263,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/pel9usk8alo4qi9x7h3zr/ROSSANESE-LISTINO-INTERNO_2017.pdf?rlkey=gkl5divog2vop3eeq89bxkb9p&dl=0?raw=1",
                   "dimensione_kb": 1358,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE LISTINO INTERNO_2017.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE LISTINO INTERNO_2017.pdf"
                 },
                 {
                   "nome": "ROSSANESE LISTINO settembre 2021a.xlsx",
@@ -193336,7 +193271,7 @@
                   "icona": "📊",
                   "link": "https://www.dropbox.com/scl/fi/int0wrxhwo9z0oq7jdk80/ROSSANESE-LISTINO-settembre-2021a.xlsx?rlkey=nuu63fimxe61rlb4fjqyy6s8t&dl=0?raw=1",
                   "dimensione_kb": 99,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE LISTINO settembre 2021a.xlsx"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE LISTINO settembre 2021a.xlsx"
                 },
                 {
                   "nome": "ROSSANESE LISTINO_2017.pdf",
@@ -193344,7 +193279,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/czw2o4mvbvmbvmgqjgzbg/ROSSANESE-LISTINO_2017.pdf?rlkey=vdve01fdnszjlv427ph63qki8&dl=0?raw=1",
                   "dimensione_kb": 4637,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE LISTINO_2017.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE LISTINO_2017.pdf"
                 },
                 {
                   "nome": "ROSSANESE LISTINO_3_EDIZIONE_18 2022 applicare +5%.pdf",
@@ -193352,7 +193287,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/tww1vekhch8i32addqlwz/ROSSANESE-LISTINO_3_EDIZIONE_18-2022-applicare-5.pdf?rlkey=q7zn0mctqnt226gw04s531umc&dl=0?raw=1",
                   "dimensione_kb": 2945,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE LISTINO_3_EDIZIONE_18 2022 applicare +5%.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE LISTINO_3_EDIZIONE_18 2022 applicare +5%.pdf"
                 },
                 {
                   "nome": "ROSSANESE Listino 2 GEN 2022.pdf",
@@ -193360,7 +193295,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/pn3ubqqu0zadwh92z8bax/ROSSANESE-Listino-2-GEN-2022.pdf?rlkey=4d9g51k8iihwk3dd8m3e760uf&dl=0?raw=1",
                   "dimensione_kb": 9164,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE Listino 2 GEN 2022.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE Listino 2 GEN 2022.pdf"
                 },
                 {
                   "nome": "ROSSANESE NOVITA' 2020.pdf",
@@ -193368,7 +193303,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/1oekrzou29u97udd2w1t8/ROSSANESE-NOVITA-2020.pdf?rlkey=uekkm5fx0tofpnvwvwt21xmiz&dl=0?raw=1",
                   "dimensione_kb": 1482,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE NOVITA' 2020.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE NOVITA' 2020.pdf"
                 },
                 {
                   "nome": "ROSSANESE_CATALOGO_2021_EDIZIONE_18.pdf",
@@ -193376,7 +193311,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/7y3cadtj3q49cv8h9j87m/ROSSANESE_CATALOGO_2021_EDIZIONE_18.pdf?rlkey=fr8h8119cj07mosrmau3cpcri&dl=0?raw=1",
                   "dimensione_kb": 58499,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE_CATALOGO_2021_EDIZIONE_18.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE_CATALOGO_2021_EDIZIONE_18.pdf"
                 },
                 {
                   "nome": "ROSSANESE_Listino_Prezzi_2021.pdf",
@@ -193384,7 +193319,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/w0ee20veq3cc2j9z1u0zv/ROSSANESE_Listino_Prezzi_2021.pdf?rlkey=yaiv6xolu0a66esg5m4sd9mzw&dl=0?raw=1",
                   "dimensione_kb": 9758,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE_Listino_Prezzi_2021.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE_Listino_Prezzi_2021.pdf"
                 },
                 {
                   "nome": "ROSSANESE_Listino_Prezzi_2023.pdf",
@@ -193392,7 +193327,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/9dtxo35f8phtzjl1m0emf/ROSSANESE_Listino_Prezzi_2023.pdf?rlkey=8czvvlfv6dt28orbst3owhrot&dl=0?raw=1",
                   "dimensione_kb": 2383,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE_Listino_Prezzi_2023.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE_Listino_Prezzi_2023.pdf"
                 },
                 {
                   "nome": "ROSSANESE_Listino_Prezzi_2_2021_bassa_ris.pdf",
@@ -193400,7 +193335,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/8b7nw2232jpt63j493n22/ROSSANESE_Listino_Prezzi_2_2021_bassa_ris.pdf?rlkey=j3dnir7rr0c5ahjcakymcc6lz&dl=0?raw=1",
                   "dimensione_kb": 9164,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE_Listino_Prezzi_2_2021_bassa_ris.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE_Listino_Prezzi_2_2021_bassa_ris.pdf"
                 },
                 {
                   "nome": "ROSSANESE_Listino_Prezzi_4_2022_7.pdf",
@@ -193408,7 +193343,7 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/1vdiskrhsq59hkhz5tw6x/ROSSANESE_Listino_Prezzi_4_2022_7.pdf?rlkey=7bxffb7mvt9yseezl1gzjckw3&dl=0?raw=1",
                   "dimensione_kb": 7264,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/ROSSANESE_Listino_Prezzi_4_2022_7.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/ROSSANESE_Listino_Prezzi_4_2022_7.pdf"
                 },
                 {
                   "nome": "catalogo-rossanese-sedieetavoli-2017.pdf",
@@ -193416,10 +193351,26 @@
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/edgw7egel7hrt0by9oa29/catalogo-rossanese-sedieetavoli-2017.pdf?rlkey=jbdy746z5u61ndfw39ohi7gyy&dl=0?raw=1",
                   "dimensione_kb": 26373,
-                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/ARCHIVIO/catalogo-rossanese-sedieetavoli-2017.pdf"
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ARCHIVIO/catalogo-rossanese-sedieetavoli-2017.pdf"
                 }
               ],
               "_totale_file": 19
+            },
+            {
+              "nome": "ROSSANESE DATI ANAGRAFICI",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ROSSANESE DATI ANAGRAFICI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "AREA RISERVATA FUNZIONALITA CREDENZIALI OSCURATE.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/ucdfy497jrd3yw319xm29/AREA-RISERVATA-FUNZIONALITA-CREDENZIALI-OSCURATE.txt?rlkey=wwloyimz4y2ns46c9jn2boewx&dl=0?raw=1",
+                  "dimensione_kb": 1,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/ROSSANESE DATI ANAGRAFICI/AREA RISERVATA FUNZIONALITA CREDENZIALI OSCURATE.txt"
+                }
+              ],
+              "_totale_file": 1
             }
           ],
           "file": [
@@ -193429,7 +193380,7 @@
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/nloolwi7te51kada214h2/100.ROSSANESE-Listino_Anteprima_2026.pdf?rlkey=z6bfz643e1fkn2g4u8v4gn7cf&dl=0?raw=1",
               "dimensione_kb": 567,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/100.ROSSANESE Listino_Anteprima_2026.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/100.ROSSANESE Listino_Anteprima_2026.pdf"
             },
             {
               "nome": "100.ROSSANESE_Listino_ottobre_2024.pdf",
@@ -193437,7 +193388,7 @@
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/syorug8ybhsk86rsc6z85/100.ROSSANESE_Listino_ottobre_2024.pdf?rlkey=a0lcw79w4flwuu2dcay4jumh4&dl=0?raw=1",
               "dimensione_kb": 9354,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/100.ROSSANESE_Listino_ottobre_2024.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/100.ROSSANESE_Listino_ottobre_2024.pdf"
             },
             {
               "nome": "Catalogo-Rossanese-edizione24.pdf",
@@ -193445,10 +193396,10 @@
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/u47m4zqir865s715cpdtj/Catalogo-Rossanese-edizione24.pdf?rlkey=8t63506jqm3re0aiujo07sgdn&dl=0?raw=1",
               "dimensione_kb": 64433,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE SEDIE E TAVOLI/Catalogo-Rossanese-edizione24.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/ROSSANESE/Catalogo-Rossanese-edizione24.pdf"
             }
           ],
-          "_totale_file": 22
+          "_totale_file": 23
         },
         {
           "nome": "ROYALE SRL",
