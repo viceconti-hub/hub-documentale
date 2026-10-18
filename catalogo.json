@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-18T02:19:18Z",
-  "totale_file": 27932,
+  "generato": "2026-10-18T05:34:23Z",
+  "totale_file": 27935,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7392,
+      "totale_file": 7395,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -9258,9 +9258,17 @@
                   "link": "https://www.dropbox.com/scl/fi/a3ds894s04sjnkev8fuxd/260436-OFFERTA-OSTERIA-DELLA-ROCCA-SAS-DI-CRINOLINI-MARCO-C..pdf?rlkey=rdrnul4utwzbkk3jksx4lafz3&dl=0?raw=1",
                   "dimensione_kb": 58,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ANTEPRIME/260436 OFFERTA OSTERIA DELLA ROCCA SAS DI CRINOLINI MARCO & C..pdf"
+                },
+                {
+                  "nome": "260466 OFFERTA MACELLERIA COSENTINO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fiu0gck74s3kiacmw8mpm/260466-OFFERTA-MACELLERIA-COSENTINO.pdf?rlkey=oyn2pm3brbau878gyq5g83piq&dl=0?raw=1",
+                  "dimensione_kb": 60,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ANTEPRIME/260466 OFFERTA MACELLERIA COSENTINO.pdf"
                 }
               ],
-              "_totale_file": 4
+              "_totale_file": 5
             }
           ],
           "file": [
@@ -11401,7 +11409,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 271
+          "_totale_file": 272
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -14416,6 +14424,30 @@
                 }
               ],
               "_totale_file": 1
+            },
+            {
+              "nome": "2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "MACELLERIA COSEINTINO Offerta di vendita_260466_20261017_185856 GUIDOVIA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bada0kg3szxxjcw7wdica/MACELLERIA-COSEINTINO-Offerta-di-vendita_260466_20261017_185856-GUIDOVIA.pdf?rlkey=1va4rfhpr02uvw1dkrqizwnsa&dl=0?raw=1",
+                  "dimensione_kb": 90,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR/MACELLERIA COSEINTINO Offerta di vendita_260466_20261017_185856 GUIDOVIA.pdf"
+                },
+                {
+                  "nome": "VICECONTI SNC rif.MACELLERIA COSENTINO - 16-10-2026-Modello.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8o2v4qu6jvi25heo7e8wu/VICECONTI-SNC-rif.MACELLERIA-COSENTINO-16-10-2026-Modello.pdf?rlkey=i5fne5qkxvlnni1i682dt1coe&dl=0?raw=1",
+                  "dimensione_kb": 368,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR/VICECONTI SNC rif.MACELLERIA COSENTINO - 16-10-2026-Modello.pdf"
+                }
+              ],
+              "_totale_file": 2
             },
             {
               "nome": "Fino al 2025_12_31 ARCHIVIO OFFERTE",
@@ -70550,7 +70582,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5599
+          "_totale_file": 5601
         },
         {
           "nome": "ORDINI CLIENTE",
