@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-20T02:34:17Z",
-  "totale_file": 27934,
+  "generato": "2026-10-20T05:56:41Z",
+  "totale_file": 27942,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7395,
+      "totale_file": 7403,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1262,6 +1262,14 @@
               "link": "https://www.dropbox.com/scl/fi/b9ekxy61yfeppuphqz9v9/DAMA-srl-Consegna_260299_20260527_091724-RIF.-AFFETTATRICE-SIRMAN-MOD.-TIZIANO-370-IN-COMODATO.pdf?rlkey=ej28py5bl3mevcbiqed61cgm8&dl=0?raw=1",
               "dimensione_kb": 51,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DAMA srl Consegna_260299_20260527_091724 RIF. AFFETTATRICE SIRMAN MOD. TIZIANO 370 IN COMODATO.pdf"
+            },
+            {
+              "nome": "DE CRISTOFARO FRANCESCO Consegna_260911_20261017_112412 RIF. Basato su Ordini cliente 260510..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/eran5gms3zix3pp9tqwbb/DE-CRISTOFARO-FRANCESCO-Consegna_260911_20261017_112412-RIF.-Basato-su-Ordini-cliente-260510..pdf?rlkey=oa3x6xl3env1eexy1p3kxhke8&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DE CRISTOFARO FRANCESCO Consegna_260911_20261017_112412 RIF. Basato su Ordini cliente 260510..pdf"
             },
             {
               "nome": "DE FILIPPO ROCCO Consegna_160639_20260924_093523 RIF. ATTREZZATURE Basato su Ordini cliente 160177..pdf",
@@ -5336,7 +5344,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 665
+          "_totale_file": 666
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -6510,6 +6518,14 @@
               "link": "https://www.dropbox.com/scl/fi/ik3ik7pp7tmugkebu4yzq/FLAVIA-DE-MARCO-Fattura-di-vendita_2600425_20260830_222114-RIF.-ASSISTENZA-SU-ABBATTITORE-COLDLINE-MATRICOLA-052409099-MATR.-E61SH12042296414.pdf?rlkey=71ram519dvfd0oxf1sz1zqr95&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FLAVIA DE MARCO Fattura di vendita_2600425_20260830_222114 RIF. ASSISTENZA SU ABBATTITORE COLDLINE MATRICOLA 052409099 + MATR. E61SH12042296414.pdf"
+            },
+            {
+              "nome": "FLAVIA DE MARCO Fattura di vendita_2600536_20261017_103942 RIF. DETERGENTE RATIONAL + GRIGLIA COPPIA GUIDE PER CONGELATORE Basato su Ordini.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/e5lz9g6kd5lajeglgwoey/FLAVIA-DE-MARCO-Fattura-di-vendita_2600536_20261017_103942-RIF.-DETERGENTE-RATIONAL-GRIGLIA-COPPIA-GUIDE-PER-CONGELATORE-Basato-su-Ordini.pdf?rlkey=foe8it12ymt86drnuuykj9rai&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/FLAVIA DE MARCO Fattura di vendita_2600536_20261017_103942 RIF. DETERGENTE RATIONAL + GRIGLIA COPPIA GUIDE PER CONGELATORE Basato su Ordini.pdf"
             },
             {
               "nome": "FOODEX SRL Fattura di vendita_2600208_20260612_105758 RIF. GUARNIZIONE PORTA SCC, CM 61 DAL 042004 Basato su Ordini cli.pdf",
@@ -9048,7 +9064,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 463
+          "_totale_file": 464
         },
         {
           "nome": "FATTURE DI VENDITA XML",
@@ -9375,6 +9391,14 @@
               "link": "https://www.dropbox.com/scl/fi/nfvth1fxkmqxk5rebw5i7/Azienda-Agricola-MAIMONE-FLAVIA-Offerta-di-vendita_260253_20260708_194006.pdf?rlkey=d3cup8sede9l2pn4484ll319k&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Azienda Agricola MAIMONE FLAVIA Offerta di vendita_260253_20260708_194006.pdf"
+            },
+            {
+              "nome": "Azienda Agricola Zootecnica PALAGANO RUTH Offerta di vendita_260465_20261017_190524.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/aw4gmqo4x1jcmubfq25uz/Azienda-Agricola-Zootecnica-PALAGANO-RUTH-Offerta-di-vendita_260465_20261017_190524.pdf?rlkey=30j7ejqwnr8tzkwpv2118amcr&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/Azienda Agricola Zootecnica PALAGANO RUTH Offerta di vendita_260465_20261017_190524.pdf"
             },
             {
               "nome": "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA Offerta di vendita_260272_20260718_163500 RIF. OFFERT SPECIALE TAVOLO E 3 SEDIE.pdf",
@@ -10673,6 +10697,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260427_20260928_160329.pdf"
             },
             {
+              "nome": "MACELLERIA COSENTINO Offerta di vendita_260466_20261017_185856 RIF. GUIDOVIA CELLA E SFASCIO - PROPOSTA GIMAR DEL 16102026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lmfybi4a28r81oxgu3k3w/MACELLERIA-COSENTINO-Offerta-di-vendita_260466_20261017_185856-RIF.-GUIDOVIA-CELLA-E-SFASCIO-PROPOSTA-GIMAR-DEL-16102026.pdf?rlkey=myahjxgi818ljikw3og1op38o&dl=0?raw=1",
+              "dimensione_kb": 85,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MACELLERIA COSENTINO Offerta di vendita_260466_20261017_185856 RIF. GUIDOVIA CELLA E SFASCIO - PROPOSTA GIMAR DEL 16102026.pdf"
+            },
+            {
               "nome": "MADI SNC di DISMA CASELLA & C. Offerta di vendita_260278_20260722_160656 RIF. POSATE CONCA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -10975,6 +11007,14 @@
               "link": "https://www.dropbox.com/scl/fi/w213h33zc93kuxn8p3k8g/PECCATI-DI-GOLA-DA-WALTER-PIZZERIA-ROSTICCERIA-BAR-Offerta-di-vendita_260354_20260820_100353.pdf?rlkey=q5lr3pvys0hlsqkgkmzbwgaw0&dl=0?raw=1",
               "dimensione_kb": 64,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PECCATI DI GOLA DA WALTER PIZZERIA - ROSTICCERIA - BAR Offerta di vendita_260354_20260820_100353.pdf"
+            },
+            {
+              "nome": "PISTOR srl Offerta di vendita_260464_20261016_212929.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/npqjw582rn3qdpxejjte3/PISTOR-srl-Offerta-di-vendita_260464_20261016_212929.pdf?rlkey=zmkhd37naytlxqairfp031mt3&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PISTOR srl Offerta di vendita_260464_20261016_212929.pdf"
             },
             {
               "nome": "PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO & C. S.N.C. Offerta di vendita_260286_20260723_133037 RIF. FRIGGITRICE A GAS BERTOS' S9GL20M MATRICOLA 0803692082.pdf",
@@ -11409,7 +11449,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 272
+          "_totale_file": 275
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -71270,6 +71310,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DA SPECIFICARE Ordine cliente_260157_20260520_104753.pdf"
             },
             {
+              "nome": "DE CRISTOFARO FRANCESCO Ordine cliente_260510_20261017_112357.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rgvmp53v8gqpyk5vo0esg/DE-CRISTOFARO-FRANCESCO-Ordine-cliente_260510_20261017_112357.pdf?rlkey=ivsbhi5osem6z5gujbygix8lz&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DE CRISTOFARO FRANCESCO Ordine cliente_260510_20261017_112357.pdf"
+            },
+            {
               "nome": "DE FILIPPO ROCCO Ordine cliente_260188_20260605_130410 RIF. LAVASTOVIGLIE ARISTARCO CON POMPA DI SCARICO Basato su Offer.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -72590,6 +72638,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO Ordine cliente_260448_20261016_211726 RIF. ATTREZZATURE MACELLERIA Basato su Offerte di vendita 260418.pdf"
             },
             {
+              "nome": "MACELLERIA COSENTINO Ordine cliente_260511_20261017_192350 RIF. GUIDOVIA CELLA E SFASCIO - PROPOSTA GIMAR DEL 16102026 Basato su Offerte di.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b1h1iuqgzqfr3em5xf8uh/MACELLERIA-COSENTINO-Ordine-cliente_260511_20261017_192350-RIF.-GUIDOVIA-CELLA-E-SFASCIO-PROPOSTA-GIMAR-DEL-16102026-Basato-su-Offerte-di.pdf?rlkey=br6cv10xgdaa8rw6x7v9goyaj&dl=0?raw=1",
+              "dimensione_kb": 84,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MACELLERIA COSENTINO Ordine cliente_260511_20261017_192350 RIF. GUIDOVIA CELLA E SFASCIO - PROPOSTA GIMAR DEL 16102026 Basato su Offerte di.pdf"
+            },
+            {
               "nome": "MACELLERIA LOSARDO GIOVANNINO Ordine cliente_260170_20260603_092842 RIF. GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -73582,10 +73638,19 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZM RIPARAZIONI DI ZACCARA MARIO Ordine cliente_260498_20261009_123654 RIF. MACINE CONICHE X MC99CONIK.pdf"
             }
           ],
-          "_totale_file": 374
+          "_totale_file": 376
         }
       ],
-      "file": []
+      "file": [
+        {
+          "nome": "2026-10-19 17.41.06.pdf",
+          "tipo": "PDF",
+          "icona": "📄",
+          "link": "https://www.dropbox.com/scl/fi/skw4sup2njs6rk30db31h/2026-10-19-17.41.06.pdf?rlkey=7yia3371li4u5cz8f9d8k1rqd&dl=0?raw=1",
+          "dimensione_kb": 664,
+          "path": "/HUB DOCUMENTALE/VENDITE/2026-10-19 17.41.06.pdf"
+        }
+      ]
     },
     {
       "nome": "CREDITI E DEBITI",
