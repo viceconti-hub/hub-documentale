@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-20T00:33:23Z",
-  "totale_file": 27935,
+  "generato": "2026-10-20T02:34:17Z",
+  "totale_file": 27934,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -155608,7 +155608,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4510,
+      "totale_file": 4509,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -156205,14 +156205,6 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/100.Acciaio T&D LISTINO_10-2020.pdf"
             },
             {
-              "nome": "Listino Agosto 2020 (1).pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ffg9vsvn8y8amrb92i2m9/Listino-Agosto-2020-1.pdf?rlkey=clygfnijuhcshfilmx2kjw948&dl=0?raw=1",
-              "dimensione_kb": 205653,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Listino Agosto 2020 (1).pdf"
-            },
-            {
               "nome": "Listino Agosto 2020.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -156221,7 +156213,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Listino Agosto 2020.pdf"
             }
           ],
-          "_totale_file": 16
+          "_totale_file": 15
         },
         {
           "nome": "ACQUEDOTTO LUCANO",
@@ -189284,12 +189276,12 @@
           "cartelle": [],
           "file": [
             {
-              "nome": "Gmail - Re_ Viceconti Snc_ NUOVI INDIRIZZI POSTA ELETTRONICA E CONTATTI.pdf",
+              "nome": "MORANO NUOVI INDIRIZZI POSTA ELETTRONICA E CONTATTI.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gy5yprstrbk2miisq9tgx/Gmail-Re_-Viceconti-Snc_-NUOVI-INDIRIZZI-POSTA-ELETTRONICA-E-CONTATTI.pdf?rlkey=dw4k0txu2na6xppnhnw1onewh&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/gy5yprstrbk2miisq9tgx/MORANO-NUOVI-INDIRIZZI-POSTA-ELETTRONICA-E-CONTATTI.pdf?rlkey=dw4k0txu2na6xppnhnw1onewh&dl=0?raw=1",
               "dimensione_kb": 176,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORANO/Gmail - Re_ Viceconti Snc_ NUOVI INDIRIZZI POSTA ELETTRONICA E CONTATTI.pdf"
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORANO/MORANO NUOVI INDIRIZZI POSTA ELETTRONICA E CONTATTI.pdf"
             }
           ],
           "_totale_file": 1
