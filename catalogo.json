@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-21T00:35:20Z",
-  "totale_file": 28008,
+  "generato": "2026-10-21T02:38:47Z",
+  "totale_file": 28009,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -155786,7 +155786,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4509,
+      "totale_file": 4510,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -190105,6 +190105,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 10_10_2026.XLSX"
             },
             {
+              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 17_10_2026.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/c3lzk3mib2gr21ygqblvu/MORINI-ESTRAZIONE-LISTINO-LI0018500-17_10_2026.XLSX?rlkey=toj0vaaqq20gzfd14anpjjjea&dl=0?raw=1",
+              "dimensione_kb": 1177,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 17_10_2026.XLSX"
+            },
+            {
               "nome": "MORINI LINK PER AREA RISERVATA CIR0706.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -190113,7 +190121,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI LINK PER AREA RISERVATA CIR0706.PDF"
             }
           ],
-          "_totale_file": 63
+          "_totale_file": 64
         },
         {
           "nome": "NARDI TAVOLI E SEDIE",
