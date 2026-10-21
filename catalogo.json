@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-21T08:18:24Z",
-  "totale_file": 28036,
+  "generato": "2026-10-21T09:26:33Z",
+  "totale_file": 28039,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -243977,7 +243977,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2472,
+      "totale_file": 2475,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -244498,6 +244498,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/2026-10-06 16.44.25.pdf"
             },
             {
+              "nome": "2026-10-20 15.42.57.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/nsnmdkgjht30qhcgko2pd/2026-10-20-15.42.57.pdf?rlkey=fihpa3hqf30sazr78mhyjokf1&dl=0?raw=1",
+              "dimensione_kb": 275,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/2026-10-20 15.42.57.pdf"
+            },
+            {
               "nome": "ACCIAIO T&D SRL COPIA TITOLI BPER 31_10_2026 30_11_2026 31_12_2026 3819,47.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -244714,6 +244722,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR_IMPORTO_TITOLI_2026.xlsx"
             },
             {
+              "nome": "REPA COPIA TITOLI 23_10_2026 E 31_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hl17vq346c2sfmlsigluk/REPA-COPIA-TITOLI-23_10_2026-E-31_10_2026.pdf?rlkey=28qd6e2l5fn8uqelufco9my06&dl=0?raw=1",
+              "dimensione_kb": 911,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/REPA COPIA TITOLI 23_10_2026 E 31_10_2026.pdf"
+            },
+            {
               "nome": "REPA ITALIA SRL COPIA TITOLO MPS 05_10_2026 1956,20.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -244762,7 +244778,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/SIRMAN RICEVUTA AR DEL 29_07_2026.pdf"
             }
           ],
-          "_totale_file": 68
+          "_totale_file": 70
         },
         {
           "nome": "PAGAMENTI IN USCITA BONIFICI",
@@ -248467,7 +248483,7 @@
                           "nome": "HENDI BONFICO DEL 16_06_2021 SECONDO INVIO.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/tahwmkznov7tjbhhrbngt/HENDI-BONFICO-DEL-16_06_2021-SECONDO-INVIO.pdf?rlkey=vt1108osjwja2ckue2ejhx4pf&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 46,
                           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/ARCHIVIO DEL 18_01_2022/HENDI BONFICO DEL 16_06_2021 SECONDO INVIO.pdf"
                         },
@@ -265892,6 +265908,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/PROPATO Dettaglio bonifico istantaneo DEL 10_08_2026.pdf"
             },
             {
+              "nome": "REPA BONIFICO ISTANTANEO DEL 20_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/894jq172lk7fovc9n9dfu/REPA-BONIFICO-ISTANTANEO-DEL-20_10_2026.pdf?rlkey=vvgv5b7lo39e16sg626kdtvbc&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/REPA BONIFICO ISTANTANEO DEL 20_10_2026.pdf"
+            },
+            {
               "nome": "REPA Dettaglio bonifico DEL 10_03_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -266124,7 +266148,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2378
+          "_totale_file": 2379
         }
       ],
       "file": []
