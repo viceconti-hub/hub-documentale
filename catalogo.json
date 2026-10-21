@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-21T06:06:02Z",
-  "totale_file": 28035,
+  "generato": "2026-10-21T08:18:24Z",
+  "totale_file": 28036,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -199627,7 +199627,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5252,
+      "totale_file": 5253,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -199738,6 +199738,14 @@
               "link": "https://www.dropbox.com/scl/fi/j0earzwyz895b592dgvgn/ACCIAIO-T.-D.-SRL-Entrata-merci-da-fornitore_260189_20260923_225235-RIF.-Basato-su-Ordini-d-acquisto-260118.-260129.-260134..pdf?rlkey=nsf1gxa1160gf855ty5ozl4qw&dl=0?raw=1",
               "dimensione_kb": 69,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ACCIAIO T. & D. SRL Entrata merci da fornitore_260189_20260923_225235 RIF. Basato su Ordini d'acquisto 260118. 260129. 260134..pdf"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Entrata merci da fornitore_260230_20261019_165428 RIF. RINALDI CAPPA 180X90 SENZA MOTORE  PUGLIESE MATTIA  MACELLERIA COSENTINO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5yeyzti5a0ke6yoke9kun/ACCIAIO-T.-D.-SRL-Entrata-merci-da-fornitore_260230_20261019_165428-RIF.-RINALDI-CAPPA-180X90-SENZA-MOTORE-PUGLIESE-MATTIA-MACELLERIA-COSENTINO.pdf?rlkey=3iccsdo1r9z2ko1cwsniiejd5&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ACCIAIO T. & D. SRL Entrata merci da fornitore_260230_20261019_165428 RIF. RINALDI CAPPA 180X90 SENZA MOTORE  PUGLIESE MATTIA  MACELLERIA COSENTINO.pdf"
             },
             {
               "nome": "AIRFAN dI MANENTI & C. s.n.c. Entrata merci da fornitore_260083_20260526_095541 RIF. MACELLERIA DE DIEGO Basato su Ordini cliente 260143. Basato MACELLERIA DE DIEGO FILTRI PER CENTRALINA.pdf",
@@ -201068,7 +201076,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 177
+          "_totale_file": 178
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -243599,7 +243607,7 @@
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/c207cpoonsgtacox1gkgt/VICECONTI-SNC-rif.-MACELLERIA-COSENTINO-16-10-2026.pdf?rlkey=x2f8hm8yy41iu753g5qda39a8&dl=0?raw=1",
-                  "dimensione_kb": 199,
+                  "dimensione_kb": 210,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/GIMAR PREVENTIVI E CONFERME D'ORDINE/VICECONTI SNC rif. MACELLERIA COSENTINO - 16-10-2026.pdf"
                 },
                 {
@@ -243607,7 +243615,7 @@
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/3l2np4sbomikkus8hwfd8/VICECONTI-SNC-rif.MACELLERIA-COSENTINO-16-10-2026-Modello.pdf?rlkey=zcq5lyicirjwdkn6t13rvae2p&dl=0?raw=1",
-                  "dimensione_kb": 368,
+                  "dimensione_kb": 381,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/GIMAR PREVENTIVI E CONFERME D'ORDINE/VICECONTI SNC rif.MACELLERIA COSENTINO - 16-10-2026-Modello.pdf"
                 },
                 {
@@ -243932,7 +243940,7 @@
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/1cen5cc00w7iuh8qaitdj/REPA-PREV-1010970-123207.PDF?rlkey=3virm8k4cmfw9nnurdoc8gwxd&dl=0?raw=1",
-              "dimensione_kb": 574,
+              "dimensione_kb": 635,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA PREV-1010970-123207.PDF"
             },
             {
