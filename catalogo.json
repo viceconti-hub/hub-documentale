@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-22T06:13:53Z",
-  "totale_file": 28040,
+  "generato": "2026-10-22T08:31:09Z",
+  "totale_file": 28043,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -199627,7 +199627,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5253,
+      "totale_file": 5256,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -234274,7 +234274,7 @@
                           "nome": "ORVED FRIULMED CONFERMA ImpegnoCli2024 00081950017926VICECONTI SNC DI20240216 RIF.TERZI_MAREBLU.PDF",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/y3z2zvu988yh6ygj18cjh/ORVED-FRIULMED-CONFERMA-ImpegnoCli2024-00081950017926VICECONTI-SNC-DI20240216-RIF.TERZI_MAREBLU.PDF?rlkey=qqeufa769atk572aofgty9l3j&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 146,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/ORVED FRIULMED ORDINI D'ACQUISTO/ARCHIVIO/ORVED FRIULMED CONFERMA ImpegnoCli2024 00081950017926VICECONTI SNC DI20240216 RIF.TERZI_MAREBLU.PDF"
                         },
@@ -243808,12 +243808,28 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260238_20260921_084700 RIF. MACELLERIA COSENTINO INTEGRAZIONE TAVOLI INOX Basato su Ordini cliente 260448..pdf"
             },
             {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260278_20261021_161617 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/25lut92wk2tldblb1663k/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260278_20261021_161617-RIF.-CAMPOLEROSE-Basato-su-Ordini-cliente-260489..pdf?rlkey=lx7a8m0nti4t5r09pampevv0b&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260278_20261021_161617 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf"
+            },
+            {
               "nome": "ARISTARCO S.P.A. Ordine dacquisto_260280_20261019_105628 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/86bsglg2lhjxbikdsea7u/ARISTARCO-S.P.A.-Ordine-dacquisto_260280_20261019_105628-RIF.-CAMPOLEROSE-Basato-su-Ordini-cliente-260489..pdf?rlkey=f28w1ue35vb9lbqio9c3ll5fr&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARISTARCO S.P.A. Ordine dacquisto_260280_20261019_105628 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf"
+            },
+            {
+              "nome": "ARRIS CATERING EQUIPMENT SRL Ordine dacquisto_260279_20261021_153859 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5arzsah40t5zswrwimtrp/ARRIS-CATERING-EQUIPMENT-SRL-Ordine-dacquisto_260279_20261021_153859-RIF.-CAMPOLEROSE-Basato-su-Ordini-cliente-260489..pdf?rlkey=fskgmef58pienuyy5fxd4w55j&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CATERING EQUIPMENT SRL Ordine dacquisto_260279_20261021_153859 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf"
             },
             {
               "nome": "CB SRL DIVISIONE VALKO CONFERMA ORDINE 7313 DEL 14_10_2026 RIF. GRAN SOLE.pdf",
@@ -243904,6 +243920,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260216_20260908_114056 RIF. Basato su Ordini cliente 260431. 260438. 260440. 260441..pdf"
             },
             {
+              "nome": "MORINI s.r.l. Ordine dacquisto_260285_20261021_122227 RIF. Basato su Ordini cliente 260505. 260517..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/la4ovofltyroubjx2lvqi/MORINI-s.r.l.-Ordine-dacquisto_260285_20261021_122227-RIF.-Basato-su-Ordini-cliente-260505.-260517..pdf?rlkey=16ip9m7ylqjfcanmfl82tkow1&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260285_20261021_122227 RIF. Basato su Ordini cliente 260505. 260517..pdf"
+            },
+            {
               "nome": "PADERNO ORDINE SBT-26016461.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -243968,7 +243992,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3861
+          "_totale_file": 3864
         }
       ],
       "file": []
