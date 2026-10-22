@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-21T09:41:27Z",
-  "totale_file": 28039,
+  "generato": "2026-10-22T00:39:45Z",
+  "totale_file": 28043,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -78499,7 +78499,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7823,
+      "totale_file": 7827,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -103083,6 +103083,30 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/ONY E ROBY AREA TECNICA",
                   "cartelle": [
                     {
+                      "nome": "AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/ONY E ROBY AREA TECNICA/AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107 DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/fizdq75vnpohmuzzzjzb5/AFFETTATRICE-SALUMI-RHENINHAUS-MOD-BETA-SBR-DIAM-350-SN-4107-DATI-MACCHINA.jpeg?rlkey=l8nl9xdxffop0kzdl5xh1nfmu&dl=0?raw=1",
+                          "dimensione_kb": 82,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/ONY E ROBY AREA TECNICA/AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107/AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107 DATI MACCHINA.jpeg"
+                        },
+                        {
+                          "nome": "AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/l8ns3sungwcfweddlnbnn/AFFETTATRICE-SALUMI-RHENINHAUS-MOD-BETA-SBR-DIAM-350-SN-4107.jpeg?rlkey=5przbs1h93ijv34kjd4azxwsj&dl=0?raw=1",
+                          "dimensione_kb": 111,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/ONY E ROBY AREA TECNICA/AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107/AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107.jpeg"
+                        }
+                      ],
+                      "_totale_file": 2
+                    },
+                    {
                       "nome": "INSACCATRICE SIRMAN ONY",
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/ONY E ROBY AREA TECNICA/INSACCATRICE SIRMAN ONY",
                       "cartelle": [],
@@ -103100,14 +103124,6 @@
                     }
                   ],
                   "file": [
-                    {
-                      "nome": "AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107 DATI MACCHINA.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/fizdq75vnpohmuzzzjzb5/AFFETTATRICE-SALUMI-RHENINHAUS-MOD-BETA-SBR-DIAM-350-SN-4107-DATI-MACCHINA.jpeg?rlkey=l8nl9xdxffop0kzdl5xh1nfmu&dl=0?raw=1",
-                      "dimensione_kb": 82,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/ONY E ROBY AREA TECNICA/AFFETTATRICE SALUMI RHENINHAUS MOD BETA SBR DIAM 350 SN 4107 DATI MACCHINA.jpeg"
-                    },
                     {
                       "nome": "FAVOLA 420 Italiano.pdf",
                       "tipo": "PDF",
@@ -103149,7 +103165,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/ONY E ROBY AREA TECNICA/machprog_1.7.0.zip"
                     }
                   ],
-                  "_totale_file": 7
+                  "_totale_file": 8
                 }
               ],
               "file": [
@@ -103178,7 +103194,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ONY E ROBY/_CLIENTE C001690 ONY E ROBY.txt"
                 }
               ],
-              "_totale_file": 10
+              "_totale_file": 11
             },
             {
               "nome": "ORTOFRUTTA DI ALESSANDRO AVERSA",
@@ -108796,7 +108812,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1376
+          "_totale_file": 1377
         },
         {
           "nome": "LAVELLO",
@@ -119769,7 +119785,7 @@
                       "nome": "06.jpg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/lz9d0by55uw9arxgkp1gl/06.jpg?rlkey=al5167l8t14ia5ac5brqcvxgh&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 332,
                       "path": "/HUB DOCUMENTALE/CLIENTI/MORANO CALABRO/Campotenese - Perrone ed Armentano/Soluzione 2/06.jpg"
                     },
@@ -130754,7 +130770,7 @@
                   "nome": "RINALDI FT 210128 DEL 30_04_2021.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/im3mkgui5r4nvvoilg246/RINALDI-FT-210128-DEL-30_04_2021.pdf?rlkey=y3vtxnnjskrynbyk5oo2gicht&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 80,
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/RINALDI SRLS/RINALDI FT 210128 DEL 30_04_2021.pdf"
                 },
@@ -142717,6 +142733,38 @@
                   ],
                   "file": [],
                   "_totale_file": 15
+                },
+                {
+                  "nome": "HOTEL PISACANE SITUAZIONE CONTABILE AL 2026_10_21",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE SITUAZIONE CONTABILE AL 2026_10_21",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "HOTEL PISACANE Fattura di vendita 2600519.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/gbrk61rktvobsi2i09m9q/HOTEL-PISACANE-Fattura-di-vendita-2600519.pdf?rlkey=xc8lsiaurj3ndlfarfqdwa6rn&dl=0?raw=1",
+                      "dimensione_kb": 65,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE SITUAZIONE CONTABILE AL 2026_10_21/HOTEL PISACANE Fattura di vendita 2600519.pdf"
+                    },
+                    {
+                      "nome": "HOTEL PISACANE S. R. L. Fattura di vendita_2600541_20261021_200332 RIF. ECOCLEANER TABS 150PZ Basato su Consegne 260878..pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/qtg0kyo1vifwncutitwa7/HOTEL-PISACANE-S.-R.-L.-Fattura-di-vendita_2600541_20261021_200332-RIF.-ECOCLEANER-TABS-150PZ-Basato-su-Consegne-260878..pdf?rlkey=u6oy85r6h9f1kt3neamccbgj1&dl=0?raw=1",
+                      "dimensione_kb": 60,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE SITUAZIONE CONTABILE AL 2026_10_21/HOTEL PISACANE S. R. L. Fattura di vendita_2600541_20261021_200332 RIF. ECOCLEANER TABS 150PZ Basato su Consegne 260878..pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE - C051176 HOTEL PISACANE S. R. L..pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/18aollz9kja3p5kd5nl30/SITUAZIONE-CONTABILE-C051176-HOTEL-PISACANE-S.-R.-L..pdf?rlkey=84s3b73lpam2xnvaxugyk6qax&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/HOTEL PISACANE SITUAZIONE CONTABILE AL 2026_10_21/SITUAZIONE CONTABILE - C051176 HOTEL PISACANE S. R. L..pdf"
+                    }
+                  ],
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -142873,7 +142921,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/HOTEL PISACANE/_CLIENTE C051176 HOTEL PISACANE.txt"
                 }
               ],
-              "_totale_file": 34
+              "_totale_file": 37
             },
             {
               "nome": "HOTEL POSIDONIA",
@@ -143948,7 +143996,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 192
+          "_totale_file": 195
         },
         {
           "nome": "SARCONI",
@@ -146320,7 +146368,7 @@
                           "tipo": "PDF",
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/nnk0khi4xhith9c2cm70v/PETIT-CHEF-s.02-e-note-s.03.04.05.pdf?rlkey=h854qjgyv3uzw8ccyaoif68am&dl=0?raw=1",
-                          "dimensione_kb": 425,
+                          "dimensione_kb": 432,
                           "path": "/HUB DOCUMENTALE/CLIENTI/SENISE/PASTICCERIA TUZIO/AREA TECNICA PASTICCERIA TUZIO/PETIT CHEF FRIGOMAT/PETIT CHEF s.02 e note s.03.04.05.pdf"
                         },
                         {
