@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-23T02:46:00Z",
-  "totale_file": 28049,
+  "generato": "2026-10-23T06:17:15Z",
+  "totale_file": 28065,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7426,
+      "totale_file": 7442,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -23400,7 +23400,7 @@
                           "nome": "H.END OFFERTA 161393.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/mer75adbhex7lc1thtm45/H.END-OFFERTA-161393.pdf?rlkey=97tvn1x30c84koym7xz7tea11&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 73,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DA ARCHIVIARE/H.END OFFERTA 161393.pdf"
                         },
@@ -25747,7 +25747,7 @@
                           "nome": "Rif.Errea_ pensile arm.100x40x90.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/6j3v07bkghfskxl33u7f0/Rif.Errea_-pensile-arm.100x40x90.pdf?rlkey=kufe21tqm9s30go73wcwo8sh3&dl=0?raw=1",
                           "dimensione_kb": 27,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/ERRE A/Rif.Errea_ pensile arm.100x40x90.pdf"
                         },
@@ -30690,7 +30690,7 @@
                           "nome": "CASSERUOLA 3 ALTI.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/fpk6gj3zu2yx7zo8e0nyg/CASSERUOLA-3-ALTI.jpg?rlkey=q4s3d6l3jbprcf4e6krr9def6&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 32,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/LIDO D'AGNOLA PENTOLA A SETTORI/CASSERUOLA 3 ALTI.jpg"
                         },
@@ -68815,6 +68815,166 @@
                   "_totale_file": 8
                 },
                 {
+                  "nome": "TRIGHILINDO OFFERTA ATTREZZATURE",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRIGHILINDO OFFERTA ATTREZZATURE",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FRIGOMECANICA POLO.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/z5ecxg7fns4s0z8slhcd4/FRIGOMECANICA-POLO.pdf?rlkey=pmcaecur79bcd2h07qyeibvjn&dl=0?raw=1",
+                      "dimensione_kb": 2175,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRIGHILINDO OFFERTA ATTREZZATURE/FRIGOMECANICA POLO.pdf"
+                    },
+                    {
+                      "nome": "POLO-SQUARED-2021.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/jy4avs1yvylr7rtc2r42k/POLO-SQUARED-2021.pdf?rlkey=pl34r0vsumc3ql5oz60kv7dwl&dl=0?raw=1",
+                      "dimensione_kb": 7448,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRIGHILINDO OFFERTA ATTREZZATURE/POLO-SQUARED-2021.pdf"
+                    },
+                    {
+                      "nome": "SCHEDA A70-1BE.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/b5u65s4log76d6n7wrhcq/SCHEDA-A70-1BE.pdf?rlkey=kh0ty1fxzyp52ted77h32ldgr&dl=0?raw=1",
+                      "dimensione_kb": 148,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRIGHILINDO OFFERTA ATTREZZATURE/SCHEDA A70-1BE.pdf"
+                    },
+                    {
+                      "nome": "TKG 390.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/4mvhr9xl2brrqr9rv02vb/TKG-390.pdf?rlkey=drhc3pdxieah9pef7w54n99xy&dl=0?raw=1",
+                      "dimensione_kb": 609,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRIGHILINDO OFFERTA ATTREZZATURE/TKG 390.pdf"
+                    },
+                    {
+                      "nome": "TRIGHILINDO Offerta di vendita_220423_20220616_164534.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/9ft8vmsww3iyxxn4fjxph/TRIGHILINDO-Offerta-di-vendita_220423_20220616_164534.pdf?rlkey=30fprbr2n3o8c9o71dqy4snwz&dl=0?raw=1",
+                      "dimensione_kb": 90,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRIGHILINDO OFFERTA ATTREZZATURE/TRIGHILINDO Offerta di vendita_220423_20220616_164534.pdf"
+                    },
+                    {
+                      "nome": "it_S9820-125-3515-613098.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/pr0y1hr4drvlbim1zo1j4/it_S9820-125-3515-613098.pdf?rlkey=u49lkz18jkf9q5aa853th9vtt&dl=0?raw=1",
+                      "dimensione_kb": 45,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRIGHILINDO OFFERTA ATTREZZATURE/it_S9820-125-3515-613098.pdf"
+                    },
+                    {
+                      "nome": "it_S9820-130-4045-713112.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/azl493ti5qcnvbspprw9z/it_S9820-130-4045-713112.pdf?rlkey=lwrxajhe1ip9j0smep6yjc3qx&dl=0?raw=1",
+                      "dimensione_kb": 28,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRIGHILINDO OFFERTA ATTREZZATURE/it_S9820-130-4045-713112.pdf"
+                    }
+                  ],
+                  "_totale_file": 7
+                },
+                {
+                  "nome": "TRUBA",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRUBA",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "Lavabicchieri elettronica mod. AF 35.25E Aristarco, cesto 35x35 cm, h utile 25 cm, 2 dosatori di serie, vasca stampata.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/t2me5p7pakd6sklw52djh/Lavabicchieri-elettronica-mod.-AF-35.25E-Aristarco-cesto-35x35-cm-h-utile-25-cm-2-dosatori-di-serie-vasca-stampata.pdf?rlkey=70sk06gwo1ws7rrnzacm31pca&dl=0?raw=1",
+                      "dimensione_kb": 114,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRUBA/Lavabicchieri elettronica mod. AF 35.25E Aristarco, cesto 35x35 cm, h utile 25 cm, 2 dosatori di serie, vasca stampata.pdf"
+                    },
+                    {
+                      "nome": "Lavabicchieri elettronica mod. AF 40.30E Aristarco, cesto 40x40 cm, h utile 30 cm, 2 dosatori di serie, vasca stampata.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/977m9vq1tiw6bej3tz7hm/Lavabicchieri-elettronica-mod.-AF-40.30E-Aristarco-cesto-40x40-cm-h-utile-30-cm-2-dosatori-di-serie-vasca-stampata.pdf?rlkey=3e9qobp3s88jvrrrg9anmlg6a&dl=0?raw=1",
+                      "dimensione_kb": 115,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRUBA/Lavabicchieri elettronica mod. AF 40.30E Aristarco, cesto 40x40 cm, h utile 30 cm, 2 dosatori di serie, vasca stampata.pdf"
+                    },
+                    {
+                      "nome": "TRUBA Offerta di vendita_220214_20220411_155311.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/zbovlu4hnqrijmkiy65xu/TRUBA-Offerta-di-vendita_220214_20220411_155311.pdf?rlkey=ho2h4ars74h9jwjvtojgw94hm&dl=0?raw=1",
+                      "dimensione_kb": 81,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRUBA/TRUBA Offerta di vendita_220214_20220411_155311.pdf"
+                    },
+                    {
+                      "nome": "Type-5710-5715-5720-5725-5730-5735_CP-20.6-25.6-30.10_ED07_2020.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/khz0xaq0kudjzivsm9cru/Type-5710-5715-5720-5725-5730-5735_CP-20.6-25.6-30.10_ED07_2020.pdf?rlkey=uneek697dzvwq4u72x0ajtxmd&dl=0?raw=1",
+                      "dimensione_kb": 454,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TRUBA/Type-5710-5715-5720-5725-5730-5735_CP-20.6-25.6-30.10_ED07_2020.pdf"
+                    }
+                  ],
+                  "_totale_file": 4
+                },
+                {
+                  "nome": "TURISTICA LAVABAR",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TURISTICA LAVABAR",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "TURISTICA Offerta di vendita_220569_20220826_120807.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/5q42w2vw1az5038aca73r/TURISTICA-Offerta-di-vendita_220569_20220826_120807.pdf?rlkey=jcjoos99k07ek7qstprv737vi&dl=0?raw=1",
+                      "dimensione_kb": 91,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TURISTICA LAVABAR/TURISTICA Offerta di vendita_220569_20220826_120807.pdf"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
+                  "nome": "TUZIO INDUZIONE",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TUZIO INDUZIONE",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "IT_HENDI INDUZIONE.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/h9lhunqo3muen4c0g9qfq/IT_HENDI-INDUZIONE.pdf?rlkey=ep8fwa6a5070wwkzcyapnxh60&dl=0?raw=1",
+                      "dimensione_kb": 930,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TUZIO INDUZIONE/IT_HENDI INDUZIONE.pdf"
+                    },
+                    {
+                      "nome": "R70-40IND-T.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/93aaki04z7ognff00es7t/R70-40IND-T.pdf?rlkey=ok4mwlhcbi5tgd0mzejrdnb33&dl=0?raw=1",
+                      "dimensione_kb": 46,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TUZIO INDUZIONE/R70-40IND-T.pdf"
+                    },
+                    {
+                      "nome": "R70-80IND-T.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/c6hk8c2gkzenpj1v48zj1/R70-80IND-T.pdf?rlkey=qlnx9sxk9fsnbnf6i6z87wv5u&dl=0?raw=1",
+                      "dimensione_kb": 51,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TUZIO INDUZIONE/R70-80IND-T.pdf"
+                    },
+                    {
+                      "nome": "R70-80INDH-T.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/70zq1zl05qiavy1uqt0l6/R70-80INDH-T.pdf?rlkey=b8bd1usb3bygut52h9e616d8i&dl=0?raw=1",
+                      "dimensione_kb": 51,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/TUZIO INDUZIONE/R70-80INDH-T.pdf"
+                    }
+                  ],
+                  "_totale_file": 4
+                },
+                {
                   "nome": "ULV",
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ULV",
                   "cartelle": [],
@@ -70739,11 +70899,11 @@
                 }
               ],
               "file": [],
-              "_totale_file": 5295
+              "_totale_file": 5311
             }
           ],
           "file": [],
-          "_totale_file": 5599
+          "_totale_file": 5615
         },
         {
           "nome": "ORDINI CLIENTE",
