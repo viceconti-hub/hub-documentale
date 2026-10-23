@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-22T09:55:41Z",
-  "totale_file": 28045,
+  "generato": "2026-10-23T00:40:59Z",
+  "totale_file": 28049,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -78451,7 +78451,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7827,
+      "totale_file": 7831,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -90589,7 +90589,7 @@
                       "nome": "Fattura di vendita_190337_20200625_174514.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/5y28edbespngmkyagao12/Fattura-di-vendita_190337_20200625_174514.pdf?rlkey=zxl9ltt12hxjz10imyinbnzrl&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 68,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LANIFICIO MANGO CAOS SRL/CAOS COPIA FATTURE AL 25_06_2020/Fattura di vendita_190337_20200625_174514.pdf"
                     },
@@ -119737,7 +119737,7 @@
                       "nome": "06.jpg",
                       "tipo": "Immagine",
                       "icona": "🖼️",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/lz9d0by55uw9arxgkp1gl/06.jpg?rlkey=al5167l8t14ia5ac5brqcvxgh&dl=0?raw=1",
                       "dimensione_kb": 332,
                       "path": "/HUB DOCUMENTALE/CLIENTI/MORANO CALABRO/Campotenese - Perrone ed Armentano/Soluzione 2/06.jpg"
                     },
@@ -130722,7 +130722,7 @@
                   "nome": "RINALDI FT 210128 DEL 30_04_2021.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/im3mkgui5r4nvvoilg246/RINALDI-FT-210128-DEL-30_04_2021.pdf?rlkey=y3vtxnnjskrynbyk5oo2gicht&dl=0?raw=1",
                   "dimensione_kb": 80,
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/RINALDI SRLS/RINALDI FT 210128 DEL 30_04_2021.pdf"
                 },
@@ -134825,6 +134825,38 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/2022UPFS_250516082146.pdf"
                 },
                 {
+                  "nome": "AGRITURISMO CAMPOLEROSE DISPOSIZIONE 22_10_2026.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5057t6fdgxhcq17r51y5i/AGRITURISMO-CAMPOLEROSE-DISPOSIZIONE-22_10_2026.PDF?rlkey=xcglinb2ff66blbijwdkh7n5k&dl=0?raw=1",
+                  "dimensione_kb": 348,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/AGRITURISMO CAMPOLEROSE DISPOSIZIONE 22_10_2026.PDF"
+                },
+                {
+                  "nome": "AGRITURISMO CAMPOLEROSE DISPOSIZIONE 22_10_2026.dwg",
+                  "tipo": "CAD",
+                  "icona": "📐",
+                  "link": "https://www.dropbox.com/scl/fi/adov8lyntov30co2pmftl/AGRITURISMO-CAMPOLEROSE-DISPOSIZIONE-22_10_2026.dwg?rlkey=8z7pxxrv4tsykuolv1fg34ol4&dl=0?raw=1",
+                  "dimensione_kb": 4020,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/AGRITURISMO CAMPOLEROSE DISPOSIZIONE 22_10_2026.dwg"
+                },
+                {
+                  "nome": "AGRITURISMO CAMPOLEROSE DISPOSIZIONE CUCINA E LAVAGGIO 22_10_2026.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fccqhtrne9czhi4sjrxjw/AGRITURISMO-CAMPOLEROSE-DISPOSIZIONE-CUCINA-E-LAVAGGIO-22_10_2026.PDF?rlkey=d4eby9uftro177g1vyre643aq&dl=0?raw=1",
+                  "dimensione_kb": 396,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/AGRITURISMO CAMPOLEROSE DISPOSIZIONE CUCINA E LAVAGGIO 22_10_2026.PDF"
+                },
+                {
+                  "nome": "AGRITURISMO CAMPOLEROSE DISPOSIZIONE DISPENSA 22_10_2026.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i6wcvzr7416kn49snkfjc/AGRITURISMO-CAMPOLEROSE-DISPOSIZIONE-DISPENSA-22_10_2026.PDF?rlkey=tr9pu5gfpg440pfxhweh6diiw&dl=0?raw=1",
+                  "dimensione_kb": 64,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/AGRITURISMO CAMPOLEROSE DISPOSIZIONE DISPENSA 22_10_2026.PDF"
+                },
+                {
                   "nome": "AGRITURISMO CAMPOLEROSE FT 220253 DEL 18_05_2022.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -134865,7 +134897,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/_CLIENTE C050749 AGRITURISMO MASSERIA CAMPOLEROSE.txt"
                 }
               ],
-              "_totale_file": 62
+              "_totale_file": 66
             },
             {
               "nome": "BRUNO SPA",
@@ -135593,7 +135625,7 @@
                   "nome": "FRATTA ENZO LIBERATORIA VICECONTI SNC.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/1yytivvgegt41g02asbe0/FRATTA-ENZO-LIBERATORIA-VICECONTI-SNC.pdf?rlkey=bujegjqq2roelsduukabo2umy&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 875,
                   "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/FRATTA ENZO/FRATTA ENZO LIBERATORIA VICECONTI SNC.pdf"
                 },
@@ -136884,7 +136916,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 276
+          "_totale_file": 280
         },
         {
           "nome": "SAN GREGORIO MAGNO",
@@ -150816,7 +150848,7 @@
                   "nome": "ALLUMINOX CONFERMA ORDINE VICECONTI 1413 RIF. CAMPO LE ROSE.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/kbyyld0b393n0a5ef29qm/ALLUMINOX-CONFERMA-ORDINE-VICECONTI-1413-RIF.-CAMPO-LE-ROSE.PDF?rlkey=szrbvvg45vg9e8gue7yxctoup&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 220,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRASPORTATORI/MORANO/ALLUMINOX CONFERMA ORDINE VICECONTI 1413 RIF. CAMPO LE ROSE.PDF"
                 }
