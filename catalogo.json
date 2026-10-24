@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-24T02:43:46Z",
-  "totale_file": 28071,
+  "generato": "2026-10-24T06:12:41Z",
+  "totale_file": 28082,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7442,
+      "totale_file": 7453,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -576,6 +576,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260861_20261006_100549 RIF. Basato su Ordini cliente 260490..pdf"
             },
             {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260921_20261023_102110 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260525..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3b3q9049fmoqb3zuyuztf/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Consegna_260921_20261023_102110-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260525..pdf?rlkey=3oqk2osepqpyiud3uoef424w3&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Consegna_260921_20261023_102110 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260525..pdf"
+            },
+            {
               "nome": "BARLASCINI FLAVIO Consegna_260562_20260715_100937 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1110,6 +1118,14 @@
               "link": "https://www.dropbox.com/scl/fi/944onmglpl3sdnqij1d24/CIDO-SRL-Consegna_260473_20260626_082916-RIF.-ASSISTENZA-SU-ABBATTITORE-SOSTITUZIONE-INTERRUTTORE.pdf?rlkey=5yyiqiyp36uuegpo8agc9gwh2&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CIDO SRL Consegna_260473_20260626_082916 RIF. ASSISTENZA SU ABBATTITORE SOSTITUZIONE INTERRUTTORE.pdf"
+            },
+            {
+              "nome": "CIPRIANO DOMENICO Consegna_260920_20261022_103325 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH Basato su Ordini cliente 260522..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/09436nhqzj5ux5mj5u4qk/CIPRIANO-DOMENICO-Consegna_260920_20261022_103325-RIF.-AFFETTATRICE-ECO250-230V-50Hz-1PH-Basato-su-Ordini-cliente-260522..pdf?rlkey=uw3wg33swmhoeotfbp9opfgo0&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CIPRIANO DOMENICO Consegna_260920_20261022_103325 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH Basato su Ordini cliente 260522..pdf"
             },
             {
               "nome": "CITY IPER SCALEA s.r.l. Consegna_260817_20260910_103952 RIF. FLESSIBILE E PERGEL Basato su Ordini cliente 260446..pdf",
@@ -5128,6 +5144,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TIME OUT FIMAANG SRLS Consegna_260764_20260826_221251 RIF. ASSISTENZA SU LAVASTOVIGLIE COMENDA LC 700 M MATRICOLA 602155 SOSTITUZIONE.pdf"
             },
             {
+              "nome": "TIME OUT FIMAANG SRLS Consegna_260922_20261023_124553 RIF. ASSISTENZA SU MOTOVENTILATORE TMI DFC1212-6 MATRICOLA 016 SMONTAGGIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/j2l2sn6ycjzzkl3pea92d/TIME-OUT-FIMAANG-SRLS-Consegna_260922_20261023_124553-RIF.-ASSISTENZA-SU-MOTOVENTILATORE-TMI-DFC1212-6-MATRICOLA-016-SMONTAGGIO.pdf?rlkey=e2wr90tybkeakvd7qkulja845&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TIME OUT FIMAANG SRLS Consegna_260922_20261023_124553 RIF. ASSISTENZA SU MOTOVENTILATORE TMI DFC1212-6 MATRICOLA 016 SMONTAGGIO.pdf"
+            },
+            {
               "nome": "TOURISM & BUSINESS HOTEL SRLS Consegna_260544_20260705_215206 RIF. ASSISTENZA SU FORNO QUIBI PULIZIA DISPLAY E AVVIO DECALCIFIC.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5408,7 +5432,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 674
+          "_totale_file": 677
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -5734,6 +5758,14 @@
               "link": "https://www.dropbox.com/scl/fi/edwecxv2nun3sw473ib5i/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600496_20261006_100632-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260490.-Basato-su-Consegne.pdf?rlkey=2mfz9g0hxhh12t7yjlzifjq3n&dl=0?raw=1",
               "dimensione_kb": 61,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600496_20261006_100632 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260490. Basato su Consegne.pdf"
+            },
+            {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600542_20261023_113942 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260525. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/m3fdscqjt44m3mbodoau6/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Fattura-di-vendita_2600542_20261023_113942-RIF.-DETERGENTE-LAVASTOVIGLIE-Basato-su-Ordini-cliente-260525.-Basato-su-Consegne.pdf?rlkey=p9jujhhlz6y4j5f68ug00uc8w&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Fattura di vendita_2600542_20261023_113942 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260525. Basato su Consegne.pdf"
             },
             {
               "nome": "BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA Fattura di vendita_2600511_20261012_232227 RIF. ASSISTENZA SU FORNO A MICROONDE SIRMAN WP1000 MATRICOLA DA SPECIFICARE.pdf",
@@ -8888,6 +8920,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TIME OUT FIMAANG SRLS Fattura di vendita_2600454_20260901_112816 RIF. ASSISTENZA SU LAVASTOVIGLIE COMENDA LC 700 M MATRICOLA 602155 SOSTITUZIONE.pdf"
             },
             {
+              "nome": "TIME OUT FIMAANG SRLS Fattura di vendita_2600543_20261023_124738 RIF. ASSISTENZA SU MOTOVENTILATORE TMI DFC1212-6 MATRICOLA 016 SMONTAGGIO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7irqx6xy1gyaobpkk68oc/TIME-OUT-FIMAANG-SRLS-Fattura-di-vendita_2600543_20261023_124738-RIF.-ASSISTENZA-SU-MOTOVENTILATORE-TMI-DFC1212-6-MATRICOLA-016-SMONTAGGIO.pdf?rlkey=boa9f83krv9z9z2544i78ykod&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/TIME OUT FIMAANG SRLS Fattura di vendita_2600543_20261023_124738 RIF. ASSISTENZA SU MOTOVENTILATORE TMI DFC1212-6 MATRICOLA 016 SMONTAGGIO.pdf"
+            },
+            {
               "nome": "TORREFAZIONE FALCONE A. di FALCONE ROSARIO ANTONIO Fattura di vendita_2600195_20260607_184918 RIF. GRIGLIA SCALDATAZZE 341x425 mm Basato su Consegne 260176..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9080,20 +9120,20 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/VELARDI Srl Fattura di vendita_2600101_20260515_172849 RIF. ARREDO INOX PIAZZA EUROPA.pdf"
             },
             {
-              "nome": "VELARDI Srl Fattura di vendita_2600200_20260607_185711 RIF. ASSISTENZA SU SOTTOVUOTO VALKO MODELLO CVE420 SOSTITUZIONE O.pdf",
+              "nome": "VELARDI Srl Fattura di vendita_2600200_20261023_112134 RIF. ASSISTENZA SU SOTTOVUOTO VALKO MODELLO CVE420 SOSTITUZIONE OLIO POMPA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/r96pt6kk9n7dn73iynvm5/VELARDI-Srl-Fattura-di-vendita_2600200_20260607_185711-RIF.-ASSISTENZA-SU-SOTTOVUOTO-VALKO-MODELLO-CVE420-SOSTITUZIONE-O.pdf?rlkey=bn9pmycmogo1rbkgddf87tlna&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/dw9etzj15lzoems1l2kqm/VELARDI-Srl-Fattura-di-vendita_2600200_20261023_112134-RIF.-ASSISTENZA-SU-SOTTOVUOTO-VALKO-MODELLO-CVE420-SOSTITUZIONE-OLIO-POMPA.pdf?rlkey=8tmd3wuo3b94p7n5kf7wrw2g0&dl=0?raw=1",
               "dimensione_kb": 69,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/VELARDI Srl Fattura di vendita_2600200_20260607_185711 RIF. ASSISTENZA SU SOTTOVUOTO VALKO MODELLO CVE420 SOSTITUZIONE O.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/VELARDI Srl Fattura di vendita_2600200_20261023_112134 RIF. ASSISTENZA SU SOTTOVUOTO VALKO MODELLO CVE420 SOSTITUZIONE OLIO POMPA.pdf"
             },
             {
-              "nome": "VELARDI Srl Fattura di vendita_2600461_20260831_155824 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260401. Basato su Consegne 260800..pdf",
+              "nome": "VELARDI Srl Fattura di vendita_2600461_20261023_112146 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260401. Basato su Consegne 260800..pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/an876ukegynf7ci057m77/VELARDI-Srl-Fattura-di-vendita_2600461_20260831_155824-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260401.-Basato-su-Consegne-260800..pdf?rlkey=2y4c2x87dqift6efs72hqu55z&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/wbecredb48zwbhmablwox/VELARDI-Srl-Fattura-di-vendita_2600461_20261023_112146-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260401.-Basato-su-Consegne-260800..pdf?rlkey=iiqjk9zw6p8qpievqbfw4qj3i&dl=0?raw=1",
               "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/VELARDI Srl Fattura di vendita_2600461_20260831_155824 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260401. Basato su Consegne 260800..pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/VELARDI Srl Fattura di vendita_2600461_20261023_112146 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260401. Basato su Consegne 260800..pdf"
             },
             {
               "nome": "VILLA TERRY di CARLOMAGNO BIAGIO Fattura di vendita_2600172_20260607_175107 RIF. ASSISTENZA SU Cucina quattro fuochi e cuocipasta - Sostituzi.pdf",
@@ -9168,7 +9208,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 469
+          "_totale_file": 471
         },
         {
           "nome": "FATTURE DI VENDITA XML",
@@ -11041,6 +11081,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PANAINO SRL UNIPERSONALE Offerta di vendita_260406_20260831_120501 RIF. OFFERTA SPECIALE PIASTRA AD INDUZIONE MODELLO 7000,2 ZONE COTTURA (MIN ø 16 MAX.pdf"
             },
             {
+              "nome": "PANIFICIO CUORE FELICE DI CANNAZZARO CATERINA Offerta di vendita_260470_20261023_121814.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/q2qi6heupdoqobxmg4yob/PANIFICIO-CUORE-FELICE-DI-CANNAZZARO-CATERINA-Offerta-di-vendita_260470_20261023_121814.pdf?rlkey=xl31c77s0e2n7gav7yngme2zj&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/PANIFICIO CUORE FELICE DI CANNAZZARO CATERINA Offerta di vendita_260470_20261023_121814.pdf"
+            },
+            {
               "nome": "PANIFICIO GERMANO di GERMANO ALESSANDRO ANTONIO Offerta di vendita_260469_20261020_131340 RIF. IMPASTATRICE A SPIRALE MECNOSUD SP60HT - LISTINO MECNOSUD FEBBRAIO 2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -11585,7 +11633,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 278
+          "_totale_file": 279
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -23400,7 +23448,7 @@
                           "nome": "H.END OFFERTA 161393.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/mer75adbhex7lc1thtm45/H.END-OFFERTA-161393.pdf?rlkey=97tvn1x30c84koym7xz7tea11&dl=0?raw=1",
                           "dimensione_kb": 73,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/DA ARCHIVIARE/H.END OFFERTA 161393.pdf"
                         },
@@ -30690,7 +30738,7 @@
                           "nome": "CASSERUOLA 3 ALTI.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/fpk6gj3zu2yx7zo8e0nyg/CASSERUOLA-3-ALTI.jpg?rlkey=q4s3d6l3jbprcf4e6krr9def6&dl=0?raw=1",
                           "dimensione_kb": 32,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/LIDO D'AGNOLA PENTOLA A SETTORI/CASSERUOLA 3 ALTI.jpg"
                         },
@@ -71215,6 +71263,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260490_20261006_100028.pdf"
             },
             {
+              "nome": "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260525_20261023_102055 RIF. DETERGENTE LAVASTOVIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hh3dkkzoumpg5eifrxl0m/BAR-RISTORANTE-FREEDOM-ROSSINO-S.R.L.S.-Ordine-cliente_260525_20261023_102055-RIF.-DETERGENTE-LAVASTOVIGLIE.pdf?rlkey=oexv1p3klt4bful7w29huidff&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BAR RISTORANTE FREEDOM ROSSINO S.R.L.S. Ordine cliente_260525_20261023_102055 RIF. DETERGENTE LAVASTOVIGLIE.pdf"
+            },
+            {
               "nome": "BARLASCINI FLAVIO Ordine cliente_260173_20260527_082920 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -71455,6 +71511,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHECK Srl BAR MATER DEI Ordine cliente_260509_20261015_171137 RIF. DETERGENTE LAVABICCHIERI.pdf"
             },
             {
+              "nome": "CHIARELLO ANNAMARIA Ordine cliente_260523_20261022_130620.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d2o4fz9iau1a12lwxkuos/CHIARELLO-ANNAMARIA-Ordine-cliente_260523_20261022_130620.pdf?rlkey=juaj4p8rmoqul1rimqbfpp347&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHIARELLO ANNAMARIA Ordine cliente_260523_20261022_130620.pdf"
+            },
+            {
               "nome": "CHOCOLATE & PASTRY SAS Ordine cliente_260201_20260611_094353 RIF. ARMADIO CONGELATORE COLDLINE WIND A901B Basato su Offerte di.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -71477,6 +71541,14 @@
               "link": "https://www.dropbox.com/scl/fi/rijw2mbaj57gj1zjzqdaz/CIDO-SRL-Ordine-cliente_260228_20260622_155455-RIF.-ASSISTENZA-SU-CUCINA-ANGELO-PO-CON-FORNO-ASSISTENZA-SU-CUCIN.pdf?rlkey=8760x1b98bsjvdcvll3zpcul0&dl=0?raw=1",
               "dimensione_kb": 60,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CIDO SRL Ordine cliente_260228_20260622_155455 RIF. ASSISTENZA SU CUCINA ANGELO PO CON FORNO ASSISTENZA SU CUCIN.pdf"
+            },
+            {
+              "nome": "CIPRIANO DOMENICO Ordine cliente_260522_20261022_103254 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/y8ogx5p4b481indeabt9t/CIPRIANO-DOMENICO-Ordine-cliente_260522_20261022_103254-RIF.-AFFETTATRICE-ECO250-230V-50Hz-1PH-EXCE.pdf?rlkey=ye6t42c8004yhm3tpse42j4vd&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CIPRIANO DOMENICO Ordine cliente_260522_20261022_103254 RIF. AFFETTATRICE ECO250 - 230V 50Hz 1PH EXCE.pdf"
             },
             {
               "nome": "CITY IPER SCALEA s.r.l. Ordine cliente_260446_20260910_103940 RIF. FLESSIBILE E PERGEL.pdf",
@@ -71533,6 +71605,14 @@
               "link": "https://www.dropbox.com/scl/fi/rybpkzjvgqptg7bocyirg/CORRADO-MICHELA-BINARIO-1-Ordine-cliente_260456_20260916_104842-RIF.-OFFERTA-SPECIALE-TAVOLO-CONGELATORE-2-SPORTELLI-FORCAR-USATO.pdf?rlkey=t16704vsm4hk6qd52ys0uqtom&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA BINARIO 1 Ordine cliente_260456_20260916_104842 RIF. OFFERTA SPECIALE TAVOLO CONGELATORE 2 SPORTELLI FORCAR USATO.pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA BINARIO 1 Ordine cliente_260521_20261021_201100 RIF. DETERGENTE RATIONAL E KAP TECNET.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3xyafzsn3loojzlrwii18/CORRADO-MICHELA-BINARIO-1-Ordine-cliente_260521_20261021_201100-RIF.-DETERGENTE-RATIONAL-E-KAP-TECNET.pdf?rlkey=7q1bgv875q7e0nhe7q2wy3e29&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA BINARIO 1 Ordine cliente_260521_20261021_201100 RIF. DETERGENTE RATIONAL E KAP TECNET.pdf"
             },
             {
               "nome": "CORRADO MICHELA Ordine cliente_260166_20260603_103030 RIF. Armadio LevTronic 550 -20°+40°C RH 45÷95% 1 porta.pdf",
@@ -73047,6 +73127,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MAMA MIA LTD Ordine cliente_260459_20260917_163613 RIF. fattura esente IVA Cessioni ad esportatori non residenti art. 8 comma 1.pdf"
             },
             {
+              "nome": "MARIO VIGILE DEL FUOCO Ordine cliente_260524_20261022_130915 RIF. LAMA PER AFFETTATRICE FIMAR AFH250X23050M.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jkt5dulveahhxpufbjkep/MARIO-VIGILE-DEL-FUOCO-Ordine-cliente_260524_20261022_130915-RIF.-LAMA-PER-AFFETTATRICE-FIMAR-AFH250X23050M.pdf?rlkey=welqur16gh7pmnh2pth2mrnf4&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MARIO VIGILE DEL FUOCO Ordine cliente_260524_20261022_130915 RIF. LAMA PER AFFETTATRICE FIMAR AFH250X23050M.pdf"
+            },
+            {
               "nome": "MICELI BIAGIO Ordine cliente_260473_20260925_183319.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -73983,7 +74071,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZM RIPARAZIONI DI ZACCARA MARIO Ordine cliente_260498_20261009_123654 RIF. MACINE CONICHE X MC99CONIK.pdf"
             }
           ],
-          "_totale_file": 384
+          "_totale_file": 389
         }
       ],
       "file": [
