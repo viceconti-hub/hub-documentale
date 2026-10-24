@@ -1,6 +1,6 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-24T00:38:47Z",
+  "generato": "2026-10-24T02:43:46Z",
   "totale_file": 28071,
   "totale_sezioni": 8,
   "sezioni": [
@@ -190493,6 +190493,14 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "MORINI ESTRAZIONE LISTINO LI0018500 10_10_2026.XLSX",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/8eo1ibf9c7fwvn86hemh1/MORINI-ESTRAZIONE-LISTINO-LI0018500-10_10_2026.XLSX?rlkey=vs7toigt81i5ppxyezland2vf&dl=0?raw=1",
+                  "dimensione_kb": 1174,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file/MORINI ESTRAZIONE LISTINO LI0018500 10_10_2026.XLSX"
+                },
+                {
                   "nome": "filelist.xml",
                   "tipo": "File",
                   "icona": "📎",
@@ -190525,7 +190533,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI LISTINO EXCEL 09_2022 LI018500_210922_090831_file/tabstrip.htm"
                 }
               ],
-              "_totale_file": 4
+              "_totale_file": 5
             }
           ],
           "file": [
@@ -190562,19 +190570,11 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI CONDIZIONI Gmail - Viceconti Snc_ nuove condizioni gestioni ordini 10_12_2025.pdf"
             },
             {
-              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 10_10_2026.XLSX",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/8eo1ibf9c7fwvn86hemh1/MORINI-ESTRAZIONE-LISTINO-LI0018500-10_10_2026.XLSX?rlkey=vs7toigt81i5ppxyezland2vf&dl=0?raw=1",
-              "dimensione_kb": 1174,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 10_10_2026.XLSX"
-            },
-            {
               "nome": "MORINI ESTRAZIONE LISTINO LI0018500 17_10_2026.XLSX",
               "tipo": "Excel",
               "icona": "📊",
               "link": "https://www.dropbox.com/scl/fi/c3lzk3mib2gr21ygqblvu/MORINI-ESTRAZIONE-LISTINO-LI0018500-17_10_2026.XLSX?rlkey=toj0vaaqq20gzfd14anpjjjea&dl=0?raw=1",
-              "dimensione_kb": 1177,
+              "dimensione_kb": 1289,
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 17_10_2026.XLSX"
             },
             {
@@ -197557,7 +197557,7 @@
                       "nome": "PROGRAMMA RITIRI.xlsx",
                       "tipo": "Excel",
                       "icona": "📊",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/ued11cgn5pf3n6100hxy9/PROGRAMMA-RITIRI.xlsx?rlkey=alhr2x84cy73lm78thkeh4z07&dl=0?raw=1",
                       "dimensione_kb": 24,
                       "path": "/HUB DOCUMENTALE/FORNITORI/TRASPORTATORI/ARCHIVIO/RITIRI APRILE 2019/PROGRAMMA RITIRI.xlsx"
                     }
