@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-23T09:56:10Z",
-  "totale_file": 28067,
+  "generato": "2026-10-24T00:38:47Z",
+  "totale_file": 28071,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -78611,7 +78611,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7831,
+      "totale_file": 7835,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -90749,7 +90749,7 @@
                       "nome": "Fattura di vendita_190337_20200625_174514.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/5y28edbespngmkyagao12/Fattura-di-vendita_190337_20200625_174514.pdf?rlkey=zxl9ltt12hxjz10imyinbnzrl&dl=0?raw=1",
                       "dimensione_kb": 68,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAGONEGRO/LANIFICIO MANGO CAOS SRL/CAOS COPIA FATTURE AL 25_06_2020/Fattura di vendita_190337_20200625_174514.pdf"
                     },
@@ -118625,6 +118625,38 @@
                     }
                   ],
                   "_totale_file": 3
+                },
+                {
+                  "nome": "VELARDI SRL SITUAZIONE CONTABILE AL 2026_10_23",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI SRL SITUAZIONE CONTABILE AL 2026_10_23",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "SITUAZIONE CONTABILE - C001093 VELARDI Srl.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/lu3luew15ufxckmrb3boz/SITUAZIONE-CONTABILE-C001093-VELARDI-Srl.pdf?rlkey=n752gpoq00n46o0gu5o0zo8pc&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI SRL SITUAZIONE CONTABILE AL 2026_10_23/SITUAZIONE CONTABILE - C001093 VELARDI Srl.pdf"
+                    },
+                    {
+                      "nome": "VELARDI Srl Fattura di vendita_2600200_20261023_112134 RIF. ASSISTENZA SU SOTTOVUOTO VALKO MODELLO CVE420 SOSTITUZIONE OLIO POMPA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/bv2cov0rxpfy83pwc8n3z/VELARDI-Srl-Fattura-di-vendita_2600200_20261023_112134-RIF.-ASSISTENZA-SU-SOTTOVUOTO-VALKO-MODELLO-CVE420-SOSTITUZIONE-OLIO-POMPA.pdf?rlkey=yulj5rncnqlvlci1teshwsgqb&dl=0?raw=1",
+                      "dimensione_kb": 69,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI SRL SITUAZIONE CONTABILE AL 2026_10_23/VELARDI Srl Fattura di vendita_2600200_20261023_112134 RIF. ASSISTENZA SU SOTTOVUOTO VALKO MODELLO CVE420 SOSTITUZIONE OLIO POMPA.pdf"
+                    },
+                    {
+                      "nome": "VELARDI Srl Fattura di vendita_2600461_20261023_112146 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260401. Basato su Consegne 260800..pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/xhuc91qfkpfoyydw4f1rm/VELARDI-Srl-Fattura-di-vendita_2600461_20261023_112146-RIF.-DETERGENTE-RATIONAL-Basato-su-Ordini-cliente-260401.-Basato-su-Consegne-260800..pdf?rlkey=arwyzlmo0s05gcu7o5ruj2q3f&dl=0?raw=1",
+                      "dimensione_kb": 67,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI SRL SITUAZIONE CONTABILE AL 2026_10_23/VELARDI Srl Fattura di vendita_2600461_20261023_112146 RIF. DETERGENTE RATIONAL Basato su Ordini cliente 260401. Basato su Consegne 260800..pdf"
+                    }
+                  ],
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -118731,9 +118763,17 @@
                   "link": "https://www.dropbox.com/scl/fi/n2sxgagqbcdqflt6muqaq/VELARDI-SITUAZIONE-AL-17_05_2022.pdf?rlkey=p4nf04wyuxt2uqt8w1e1d7kec&dl=0?raw=1",
                   "dimensione_kb": 57,
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI SITUAZIONE AL 17_05_2022.pdf"
+                },
+                {
+                  "nome": "_CLIENTE C001093 VELARDI SRL.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/mi991ttoia1qzzounaqpk/_CLIENTE-C001093-VELARDI-SRL.txt?rlkey=mcjs68tvglvu9k4v354gupyfd&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/_CLIENTE C001093 VELARDI SRL.txt"
                 }
               ],
-              "_totale_file": 43
+              "_totale_file": 47
             }
           ],
           "file": [
@@ -118746,7 +118786,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 957
+          "_totale_file": 961
         },
         {
           "nome": "MARCELLINA",
@@ -135785,7 +135825,7 @@
                   "nome": "FRATTA ENZO LIBERATORIA VICECONTI SNC.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/1yytivvgegt41g02asbe0/FRATTA-ENZO-LIBERATORIA-VICECONTI-SNC.pdf?rlkey=bujegjqq2roelsduukabo2umy&dl=0?raw=1",
                   "dimensione_kb": 875,
                   "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/FRATTA ENZO/FRATTA ENZO LIBERATORIA VICECONTI SNC.pdf"
                 },
@@ -151008,7 +151048,7 @@
                   "nome": "ALLUMINOX CONFERMA ORDINE VICECONTI 1413 RIF. CAMPO LE ROSE.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/kbyyld0b393n0a5ef29qm/ALLUMINOX-CONFERMA-ORDINE-VICECONTI-1413-RIF.-CAMPO-LE-ROSE.PDF?rlkey=szrbvvg45vg9e8gue7yxctoup&dl=0?raw=1",
                   "dimensione_kb": 220,
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRASPORTATORI/MORANO/ALLUMINOX CONFERMA ORDINE VICECONTI 1413 RIF. CAMPO LE ROSE.PDF"
                 }
