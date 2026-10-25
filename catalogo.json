@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-25T06:11:10Z",
-  "totale_file": 28089,
+  "generato": "2026-10-25T08:21:07Z",
+  "totale_file": 28090,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -199971,7 +199971,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5262,
+      "totale_file": 5263,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -200706,6 +200706,14 @@
               "link": "https://www.dropbox.com/scl/fi/cb90qcc01ns0dchncadva/FIMEL-DOCUMENTO-DI-TRASPORTO-1842025-DEL-22-12-2025-VICECONTI-SNC-DI-PROSPERO-VICECONTI.pdf?rlkey=ka3qe6rc0pqb9uettb2qye9xn&dl=0?raw=1",
               "dimensione_kb": 312,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMEL DOCUMENTO DI TRASPORTO 1842025 DEL 22-12-2025  VICECONTI SNC DI PROSPERO VICECONTI.pdf"
+            },
+            {
+              "nome": "FRIGOMECCANICA SRL Entrata merci da fornitore_260249_20261023_190315 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448. Basato su Ordini.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/k2fstlvyd7kbruvxbesqt/FRIGOMECCANICA-SRL-Entrata-merci-da-fornitore_260249_20261023_190315-RIF.-MACELLERIA-COSENTINO-Basato-su-Ordini-cliente-260448.-Basato-su-Ordini.pdf?rlkey=v5e0tqggcrh14389bi7b9ezxa&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FRIGOMECCANICA SRL Entrata merci da fornitore_260249_20261023_190315 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448. Basato su Ordini.pdf"
             },
             {
               "nome": "GO PACK DDT nr  002367 del 11-12-2025.pdf",
@@ -201444,7 +201452,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 181
+          "_totale_file": 182
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -224422,7 +224430,7 @@
                               "nome": "Packing list ordine n°22-03734.pdf",
                               "tipo": "PDF",
                               "icona": "📄",
-                              "link": null,
+                              "link": "https://www.dropbox.com/scl/fi/ieoxyaqd4rq6v6rbc6d6k/Packing-list-ordine-n-22-03734.pdf?rlkey=tlnsp1u99k2ourdodt5jgvcpw&dl=0?raw=1",
                               "dimensione_kb": 68,
                               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLDLINE ORDINI D'ACQUISTO/COLDLINE PACKING LIST/PACKING LIST ARCHIVIO/Packing list ordine n°22-03734.pdf"
                             },
@@ -225284,7 +225292,7 @@
                           "nome": "COOLHEAD CONFERMA jobrpt_I-XARCTTC2_CC_66542 RIF. HOTEL GARDEN.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/zhwb2zw0igg79s52vl3so/COOLHEAD-CONFERMA-jobrpt_I-XARCTTC2_CC_66542-RIF.-HOTEL-GARDEN.pdf?rlkey=o9a8lh350mjt5dv41c7iyw2km&dl=0?raw=1",
                           "dimensione_kb": 111,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COOLHEAD ORDINI D'ACQUISTO/ARCHIVIO COOLHEAD ORDINI D'ACQUISTO/COOLHEAD CONFERMA jobrpt_I-XARCTTC2_CC_66542 RIF. HOTEL GARDEN.pdf"
                         },
@@ -225669,7 +225677,7 @@
                           "nome": "DINI ARGEO PROFORMA_27665.PDF",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/h5unu312yerwbxz5cuggx/DINI-ARGEO-PROFORMA_27665.PDF?rlkey=to1ducjw9sl7dtt03x5w800re&dl=0?raw=1",
                           "dimensione_kb": 126,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/DINI ARGEO/ARCHIVIO DINI ARGEO/DINI ARGEO PROFORMA_27665.PDF"
                         },
