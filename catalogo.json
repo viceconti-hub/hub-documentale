@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-25T02:42:12Z",
-  "totale_file": 28086,
+  "generato": "2026-10-25T06:11:10Z",
+  "totale_file": 28089,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7453,
+      "totale_file": 7456,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -3288,6 +3288,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA BAR SMILE Consegna_260888_20261012_231041 RIF. ASSISTENZA SU LAVABAR ARISTARCO AF35 MATRICOLA 42120234 RIARMO TERMOSTATO DI.pdf"
             },
             {
+              "nome": "LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA BAR SMILE Consegna_260923_20261023_185354 RIF. ASSISTENZA SU LAVABICCHIERI ZANUSSI ZGWSICWP MATRICOLA 04720001 TRATTAMENTO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9nwfmslzaxrgzzjivbl7r/LACAVA-VINCENZO-SOCIETA-A-RESPONSABILITA-LIMITATA-BAR-SMILE-Consegna_260923_20261023_185354-RIF.-ASSISTENZA-SU-LAVABICCHIERI-ZANUSSI-ZGWSICWP-MATRICOLA-04720001-TRATTAMENTO.pdf?rlkey=u28z4hdr86ufysjoz80fxebe1&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA BAR SMILE Consegna_260923_20261023_185354 RIF. ASSISTENZA SU LAVABICCHIERI ZANUSSI ZGWSICWP MATRICOLA 04720001 TRATTAMENTO.pdf"
+            },
+            {
               "nome": "LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA Consegna_260308_20260530_101436.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -3638,6 +3646,14 @@
               "link": "https://www.dropbox.com/scl/fi/9dq4h4mv04itvfiatvuqf/MACELLERIA-COSENTINO-Consegna_260912_20261020_092644-RIF.-ATTREZZATURE-MACELLERIA-Basato-su-Offerte-di-vendita-260418-Basato-su-Ordini.pdf?rlkey=jif5wra26l1p39xotgyrhi8sm&dl=0?raw=1",
               "dimensione_kb": 56,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MACELLERIA COSENTINO Consegna_260912_20261020_092644 RIF. ATTREZZATURE MACELLERIA Basato su Offerte di vendita 260418 Basato su Ordini.pdf"
+            },
+            {
+              "nome": "MACELLERIA COSENTINO Consegna_260924_20261024_170818 RIF. TAVOLO A GIORNO 100X70 IN COMODATO Basato su Ordini cliente 260512..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/utg7h99c7kzdjbk5cpxv2/MACELLERIA-COSENTINO-Consegna_260924_20261024_170818-RIF.-TAVOLO-A-GIORNO-100X70-IN-COMODATO-Basato-su-Ordini-cliente-260512..pdf?rlkey=xai73g712982xl84x1anv9kph&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MACELLERIA COSENTINO Consegna_260924_20261024_170818 RIF. TAVOLO A GIORNO 100X70 IN COMODATO Basato su Ordini cliente 260512..pdf"
             },
             {
               "nome": "MACELLERIA COSENTINO DOMENICO Consegna_260591_20260723_134801 RIF. PIASTRA E COLTELLO TRITACARNE 32 E SEGA INOX Basato su Ordin.pdf",
@@ -5432,7 +5448,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 677
+          "_totale_file": 679
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -9641,6 +9657,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CAPUTO VINCENZO Offerta di vendita_260332_20260730_212844 RIF. ASSISTENZA SU FRIGGITRICE AVVIAMENTO.pdf"
             },
             {
+              "nome": "CAPUTO VINCENZO Offerta di vendita_260473_20261024_172937 RIF. OFFERTA SPECIALE TAVOLO ENTRATA E TAVOLO USCITA LAVAGGIO E LAVAMANI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6xamri3stxjabt8vtt04q/CAPUTO-VINCENZO-Offerta-di-vendita_260473_20261024_172937-RIF.-OFFERTA-SPECIALE-TAVOLO-ENTRATA-E-TAVOLO-USCITA-LAVAGGIO-E-LAVAMANI.pdf?rlkey=85slhek660dfj3v61p5gfrvga&dl=0?raw=1",
+              "dimensione_kb": 78,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CAPUTO VINCENZO Offerta di vendita_260473_20261024_172937 RIF. OFFERTA SPECIALE TAVOLO ENTRATA E TAVOLO USCITA LAVAGGIO E LAVAMANI.pdf"
+            },
+            {
               "nome": "CARACOJ PRAJA SRL Offerta di vendita_260174_20260518_183252 RIF. ATTREZZATURE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -11633,7 +11657,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 279
+          "_totale_file": 280
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
