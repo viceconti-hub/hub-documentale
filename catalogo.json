@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-25T09:41:23Z",
-  "totale_file": 28090,
+  "generato": "2026-10-26T01:44:00Z",
+  "totale_file": 28091,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -78723,7 +78723,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7835,
+      "totale_file": 7836,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -134618,6 +134618,22 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE AREA TECNICA",
                   "cartelle": [
                     {
+                      "nome": "AFFETTATRICE ANGELO PO MOD.AFT 30S MATRICOLA 2385-200",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE AREA TECNICA/AFFETTATRICE ANGELO PO MOD.AFT 30S MATRICOLA 2385-200",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "AFFETTATRICE ANGELO PO MOD.AFT 30S MATRICOLA 2385-200 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/zka77k3gducmfc6rfymlf/AFFETTATRICE-ANGELO-PO-MOD.AFT-30S-MATRICOLA-2385-200-DATI-MACCHINA.jpg?rlkey=bj7vro3ekicfsym4i40hi3j47&dl=0?raw=1",
+                          "dimensione_kb": 103,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE AREA TECNICA/AFFETTATRICE ANGELO PO MOD.AFT 30S MATRICOLA 2385-200/AFFETTATRICE ANGELO PO MOD.AFT 30S MATRICOLA 2385-200 DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
                       "nome": "ARMADIO CONGELATORE COLDLINE ANNO 2025",
                       "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/CAMPOLEROSE AREA TECNICA/ARMADIO CONGELATORE COLDLINE ANNO 2025",
                       "cartelle": [],
@@ -134651,7 +134667,7 @@
                     }
                   ],
                   "file": [],
-                  "_totale_file": 2
+                  "_totale_file": 3
                 },
                 {
                   "nome": "CAMPOLEROSE CANTIERE APRILE 2026",
@@ -135209,7 +135225,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ROTONDA/AGRITURISMO MASSERIA CAMPOLEROSE/_CLIENTE C050749 AGRITURISMO MASSERIA CAMPOLEROSE.txt"
                 }
               ],
-              "_totale_file": 66
+              "_totale_file": 67
             },
             {
               "nome": "BRUNO SPA",
@@ -137228,7 +137244,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 280
+          "_totale_file": 281
         },
         {
           "nome": "SAN GREGORIO MAGNO",
