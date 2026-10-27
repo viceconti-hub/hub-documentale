@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-26T18:13:36Z",
-  "totale_file": 28091,
+  "generato": "2026-10-27T01:49:40Z",
+  "totale_file": 28113,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -78723,7 +78723,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7836,
+      "totale_file": 7858,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -108949,6 +108949,38 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ZACCAGNINO RISTORAZIONE",
               "cartelle": [
                 {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_10_26",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ZACCAGNINO RISTORAZIONE/SITUAZIONE CONTABILE AL 2026_10_26",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600096 DEL 2026_05_08.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/xg2b9wp1n4yqp1dsrdhb1/FATTURA-2600096-DEL-2026_05_08.pdf?rlkey=azwwoocglidj6gy35tmoysbrz&dl=0?raw=1",
+                      "dimensione_kb": 66,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ZACCAGNINO RISTORAZIONE/SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600096 DEL 2026_05_08.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600196 DEL 2026_05_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/p8nfok34nqabgmuyvao2h/FATTURA-2600196-DEL-2026_05_31.pdf?rlkey=ztcth5gv192fv7ciutllyawwq&dl=0?raw=1",
+                      "dimensione_kb": 66,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ZACCAGNINO RISTORAZIONE/SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600196 DEL 2026_05_31.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE CO52638.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/6zn7autwt9xcr8rgicak2/SITUAZIONE-CONTABILE-CO52638.pdf?rlkey=7yghxdvao4mbz7fthz2r3p9vj&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ZACCAGNINO RISTORAZIONE/SITUAZIONE CONTABILE AL 2026_10_26/SITUAZIONE CONTABILE CO52638.pdf"
+                    }
+                  ],
+                  "_totale_file": 3
+                },
+                {
                   "nome": "ZACCAGNINO RISTORAZIONE AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ZACCAGNINO RISTORAZIONE/ZACCAGNINO RISTORAZIONE AREA TECNICA",
                   "cartelle": [],
@@ -108999,7 +109031,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/ZACCAGNINO RISTORAZIONE/_CLIENTE CO52638 ZACCAGNINO RISTORAZIONE.txt"
                 }
               ],
-              "_totale_file": 5
+              "_totale_file": 8
             },
             {
               "nome": "ZAPPALA'_RADICI",
@@ -109036,7 +109068,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1377
+          "_totale_file": 1380
         },
         {
           "nome": "LAVELLO",
@@ -113713,6 +113745,38 @@
                     }
                   ],
                   "_totale_file": 2
+                },
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_10_26",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/SITUAZIONE CONTABILE AL 2026_10_26",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600244 DEL 2026_06_26.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/sqhgdexqgbzxck7tki3vf/FATTURA-2600244-DEL-2026_06_26.pdf?rlkey=rifzd6brxl72w7mqr7xvczog9&dl=0?raw=1",
+                      "dimensione_kb": 66,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600244 DEL 2026_06_26.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600378 DEL 2026_08_07.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/9xttwruiillym52ab7ymh/FATTURA-2600378-DEL-2026_08_07.pdf?rlkey=j4y9x1qgnl166k5pcoxfao911&dl=0?raw=1",
+                      "dimensione_kb": 66,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600378 DEL 2026_08_07.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE CO51863.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/y8p8vb1t8il9018ydzrto/SITUAZIONE-CONTABILE-CO51863.pdf?rlkey=8zekg2p8b6y25p3h2604skrmf&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/SITUAZIONE CONTABILE AL 2026_10_26/SITUAZIONE CONTABILE CO51863.pdf"
+                    }
+                  ],
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -114013,7 +114077,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/IL LUCANO SRLS/stampaDisposizione_20240712190649.pdf"
                 }
               ],
-              "_totale_file": 40
+              "_totale_file": 43
             },
             {
               "nome": "IL MORO HYDRA",
@@ -118898,7 +118962,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 961
+          "_totale_file": 964
         },
         {
           "nome": "MARCELLINA",
@@ -127118,7 +127182,32 @@
             {
               "nome": "ESCOPOCO",
               "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ESCOPOCO",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_10_26",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ESCOPOCO/SITUAZIONE CONTABILE AL 2026_10_26",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600513 DEL 2026_09_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ltw3aqnp07tauqz64m1e6/FATTURA-2600513-DEL-2026_09_30.pdf?rlkey=srxfmp9s4dimhdav8lyq34vua&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ESCOPOCO/SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600513 DEL 2026_09_30.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE C050811.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/7zxepsqmhwazwsy790ak9/SITUAZIONE-CONTABILE-C050811.pdf?rlkey=b82h7m5q2fl3dis7zzpb1wvcs&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ESCOPOCO/SITUAZIONE CONTABILE AL 2026_10_26/SITUAZIONE CONTABILE C050811.pdf"
+                    }
+                  ],
+                  "_totale_file": 2
+                }
+              ],
               "file": [
                 {
                   "nome": "Consegna - Bozza documento_250770_20250712_130116.pdf",
@@ -127193,7 +127282,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/ESCOPOCO/_CLIENTE C050811 ESCOPOCO.txt"
                 }
               ],
-              "_totale_file": 9
+              "_totale_file": 11
             },
             {
               "nome": "FOOD EXPERIENCE SRLS",
@@ -128438,6 +128527,38 @@
                   "_totale_file": 2
                 },
                 {
+                  "nome": "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO SITUAZIONE CONTABILE AL 2026_10_26",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO SITUAZIONE CONTABILE AL 2026_10_26",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600458 DEL 2026_08_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/c5rvr9mvk95us9p1txkt5/FATTURA-2600458-DEL-2026_08_30.pdf?rlkey=5389r1grkctqpu53diyq0t8mj&dl=0?raw=1",
+                      "dimensione_kb": 69,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600458 DEL 2026_08_30.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600492 DEL 2026_09_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/0yzlmxa0fwhnz1wrsob7d/FATTURA-2600492-DEL-2026_09_30.pdf?rlkey=1exux3a80j4w180bgxnqj7f8j&dl=0?raw=1",
+                      "dimensione_kb": 61,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600492 DEL 2026_09_30.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE C051638.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ohuog9iubcakklrt1kty1/SITUAZIONE-CONTABILE-C051638.pdf?rlkey=dpi2a2wsa33c3c870owxi25gr&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO SITUAZIONE CONTABILE AL 2026_10_26/SITUAZIONE CONTABILE C051638.pdf"
+                    }
+                  ],
+                  "_totale_file": 3
+                },
+                {
                   "nome": "LA PIEDIGROTTA SITUAZIONE AL 8_09_2023",
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO/LA PIEDIGROTTA SITUAZIONE AL 8_09_2023",
                   "cartelle": [],
@@ -128600,7 +128721,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO/_CLIENTE C051638 LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO.txt"
                 }
               ],
-              "_totale_file": 21
+              "_totale_file": 24
             },
             {
               "nome": "LIDO COSTA BLU",
@@ -132565,6 +132686,38 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA",
               "cartelle": [
                 {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_10_26",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/SITUAZIONE CONTABILE AL 2026_10_26",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600405 DEL 2026_08_21.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ykkahdol1k1ulacvitp3p/FATTURA-2600405-DEL-2026_08_21.pdf?rlkey=uwpnhu50weik3djybc4lyir35&dl=0?raw=1",
+                      "dimensione_kb": 68,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600405 DEL 2026_08_21.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600456 DEL 2026_08_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/2rnhzalh3osgi6lluc5k6/FATTURA-2600456-DEL-2026_08_30.pdf?rlkey=o5kf2yyfzyf12pugjbcp12h9r&dl=0?raw=1",
+                      "dimensione_kb": 70,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600456 DEL 2026_08_30.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE C050609.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/lk8y4ivoznanwf0khl4nu/SITUAZIONE-CONTABILE-C050609.pdf?rlkey=59uh648ojcsk44ac6h1ddtaxy&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/SITUAZIONE CONTABILE AL 2026_10_26/SITUAZIONE CONTABILE C050609.pdf"
+                    }
+                  ],
+                  "_totale_file": 3
+                },
+                {
                   "nome": "TURIST CALABRIA SRL LA MANTINERA AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/TURIST CALABRIA SRL LA MANTINERA AREA TECNICA",
                   "cartelle": [
@@ -132875,7 +133028,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/TURIST CALABRIA SRL LA MANTINERA/_CLIENTE C050609 TURIST CALABRIA SRL LA MANTINERA.txt"
                 }
               ],
-              "_totale_file": 29
+              "_totale_file": 32
             },
             {
               "nome": "VIPAMA SRL",
@@ -133097,7 +133250,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 758
+          "_totale_file": 766
         },
         {
           "nome": "RIMINI",
@@ -144093,6 +144246,78 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS",
               "cartelle": [
                 {
+                  "nome": "VE.RO SRLS SITUAZIONE CONTABILE AL 2026_10_26",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO SRLS SITUAZIONE CONTABILE AL 2026_10_26",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600202 DEL 2026_05_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/im2s6d4jajd4247ifmy90/FATTURA-2600202-DEL-2026_05_31.pdf?rlkey=59mpc8x3a9nhtml3sm0qfc9m9&dl=0?raw=1",
+                      "dimensione_kb": 68,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO SRLS SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600202 DEL 2026_05_31.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600347 DEL 2026_07_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/8oabm4sftlhhokg7c2tnx/FATTURA-2600347-DEL-2026_07_30.pdf?rlkey=1vwscejw7p4dfi7qvgqtd9z16&dl=0?raw=1",
+                      "dimensione_kb": 69,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO SRLS SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600347 DEL 2026_07_30.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600348 DEL 2026_07_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/75tu1a90e5azezq834u91/FATTURA-2600348-DEL-2026_07_30.pdf?rlkey=x5p9973utxuya5qkoyy39a0zw&dl=0?raw=1",
+                      "dimensione_kb": 70,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO SRLS SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600348 DEL 2026_07_30.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600352 DEL 2026_07_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/mqkc4386t688c7ohz43oq/FATTURA-2600352-DEL-2026_07_30.pdf?rlkey=o3boiqtrsru6i2zd9lvpzt2tk&dl=0?raw=1",
+                      "dimensione_kb": 67,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO SRLS SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600352 DEL 2026_07_30.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600457 DEL 2026_08_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/975iz9c36a4dod5jywmxk/FATTURA-2600457-DEL-2026_08_30.pdf?rlkey=ecidudii615gl9u6a5tsx7bll&dl=0?raw=1",
+                      "dimensione_kb": 71,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO SRLS SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600457 DEL 2026_08_30.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600529 DEL 2026_09_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/99rf1m7sy5bc293k9snwk/FATTURA-2600529-DEL-2026_09_30.pdf?rlkey=d5en9w5c49ywx7kfmv8jfbxkf&dl=0?raw=1",
+                      "dimensione_kb": 69,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO SRLS SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600529 DEL 2026_09_30.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600545 DEL 2026_10_26.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/tgoahsh9yr2k8ldts0b1z/FATTURA-2600545-DEL-2026_10_26.pdf?rlkey=3p4h6p6p0ks4fnzlo4nf0ivhf&dl=0?raw=1",
+                      "dimensione_kb": 69,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO SRLS SITUAZIONE CONTABILE AL 2026_10_26/FATTURA 2600545 DEL 2026_10_26.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE CO52768.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/04knxn7n82bmsml1rw7jr/SITUAZIONE-CONTABILE-CO52768.pdf?rlkey=qh8e5yked8pa6hx3ahn6un29s&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO SRLS SITUAZIONE CONTABILE AL 2026_10_26/SITUAZIONE CONTABILE CO52768.pdf"
+                    }
+                  ],
+                  "_totale_file": 8
+                },
+                {
                   "nome": "VE.RO. AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/VE.RO. AREA TECNICA",
                   "cartelle": [],
@@ -144263,7 +144488,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/VE.RO SRLS/struttura-base-macchina-caffe.pdf"
                 }
               ],
-              "_totale_file": 20
+              "_totale_file": 28
             },
             {
               "nome": "ZU FERDINANDO",
@@ -144308,7 +144533,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 195
+          "_totale_file": 203
         },
         {
           "nome": "SARCONI",
