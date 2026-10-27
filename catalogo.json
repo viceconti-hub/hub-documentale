@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-27T01:49:40Z",
-  "totale_file": 28113,
+  "generato": "2026-10-27T03:57:47Z",
+  "totale_file": 28116,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -156604,7 +156604,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4510,
+      "totale_file": 4513,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -190931,6 +190931,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 17_10_2026.XLSX"
             },
             {
+              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 24_10_2026.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/cpz10zasdfnauz2ff5al4/MORINI-ESTRAZIONE-LISTINO-LI0018500-24_10_2026.XLSX?rlkey=axztz8x0428ri206cjq6u5gjj&dl=0?raw=1",
+              "dimensione_kb": 1183,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 24_10_2026.XLSX"
+            },
+            {
               "nome": "MORINI LINK PER AREA RISERVATA CIR0706.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -190939,7 +190947,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI LINK PER AREA RISERVATA CIR0706.PDF"
             }
           ],
-          "_totale_file": 64
+          "_totale_file": 65
         },
         {
           "nome": "NARDI TAVOLI E SEDIE",
@@ -198484,6 +198492,30 @@
                 }
               ],
               "_totale_file": 5
+            },
+            {
+              "nome": "VALKO ISTRUZIONI",
+              "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/VALKO ISTRUZIONI",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "ESEMPIO SCHEDA PDF DA LISTA SALVATA NEL PORTALE VALKO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fe0nvn25q8gk9vn6q7bjh/ESEMPIO-SCHEDA-PDF-DA-LISTA-SALVATA-NEL-PORTALE-VALKO.pdf?rlkey=17996p9l2h5zrefrkbqjs9ci1&dl=0?raw=1",
+                  "dimensione_kb": 1015,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/VALKO ISTRUZIONI/ESEMPIO SCHEDA PDF DA LISTA SALVATA NEL PORTALE VALKO.pdf"
+                },
+                {
+                  "nome": "VALKO ISTRUZIONI PER OFFERTA E SPECIFICHE FORNITORE.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/b1kp7rzzbp1zoyn7m5nbq/VALKO-ISTRUZIONI-PER-OFFERTA-E-SPECIFICHE-FORNITORE.txt?rlkey=1wrwn6aqb5ze3wpauoab8qym1&dl=0?raw=1",
+                  "dimensione_kb": 1,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/VALKO ISTRUZIONI/VALKO ISTRUZIONI PER OFFERTA E SPECIFICHE FORNITORE.txt"
+                }
+              ],
+              "_totale_file": 2
             }
           ],
           "file": [
@@ -198496,7 +198528,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/VALKO/100.VALKO_price list 2026.pdf"
             }
           ],
-          "_totale_file": 6
+          "_totale_file": 8
         },
         {
           "nome": "VALMAR Italia",
