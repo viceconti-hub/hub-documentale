@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-27T11:18:24Z",
-  "totale_file": 28152,
+  "generato": "2026-10-28T01:47:42Z",
+  "totale_file": 28166,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -79004,7 +79004,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7858,
+      "totale_file": 7872,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -106000,6 +106000,30 @@
                         }
                       ],
                       "_totale_file": 2
+                    },
+                    {
+                      "nome": "MOTVENTILATORE CASSONATO TMI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT AREA TECNICA/MOTVENTILATORE CASSONATO TMI",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "MOTOVENTILATORE TMI MOD.DFC 12_12-6 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/4r1ab9u9gxuc4hq3jr0jt/MOTOVENTILATORE-TMI-MOD.DFC-12_12-6-DATI-MACCHINA.jpg?rlkey=uoeend9pcat4es495a3cfvr0q&dl=0?raw=1",
+                          "dimensione_kb": 264,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT AREA TECNICA/MOTVENTILATORE CASSONATO TMI/MOTOVENTILATORE TMI MOD.DFC 12_12-6 DATI MACCHINA.jpg"
+                        },
+                        {
+                          "nome": "VARIATORE PER MOTOVENTILATORE FOTO COLLEGAMENTI.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/0v2438lq02cxajh7yaxyw/VARIATORE-PER-MOTOVENTILATORE-FOTO-COLLEGAMENTI.jpg?rlkey=idt9vb01w3rf47t446g7q4kja&dl=0?raw=1",
+                          "dimensione_kb": 185,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT AREA TECNICA/MOTVENTILATORE CASSONATO TMI/VARIATORE PER MOTOVENTILATORE FOTO COLLEGAMENTI.jpg"
+                        }
+                      ],
+                      "_totale_file": 2
                     }
                   ],
                   "file": [
@@ -106012,7 +106036,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/TIME OUT AREA TECNICA/Entrata merci da fornitore_230520_20240311_123951.pdf"
                     }
                   ],
-                  "_totale_file": 3
+                  "_totale_file": 5
                 }
               ],
               "file": [
@@ -106073,7 +106097,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/TIME OUT FIMAANG SRLS/_CLIENTE CO52139 TIME OUT FIMAANG SRLS.txt"
                 }
               ],
-              "_totale_file": 10
+              "_totale_file": 12
             },
             {
               "nome": "UBI",
@@ -109349,7 +109373,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1380
+          "_totale_file": 1382
         },
         {
           "nome": "LAVELLO",
@@ -116565,8 +116589,8 @@
                       "_totale_file": 1
                     },
                     {
-                      "nome": "LAVABAR ARISTARCO",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/LAVABAR ARISTARCO",
+                      "nome": "LAVABAR ARISTARCO MOD.AF 40.30E LS PRS DP MATR.22020576",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/LAVABAR ARISTARCO MOD.AF 40.30E LS PRS DP MATR.22020576",
                       "cartelle": [],
                       "file": [
                         {
@@ -116575,7 +116599,7 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/ee2b7y2044oyzyzlpol9q/AF4030E_LS_PRS_ARISTARCO.pdf?rlkey=xsf3ap5hksl65iu9q1x577o0y&dl=0?raw=1",
                           "dimensione_kb": 2290,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/LAVABAR ARISTARCO/AF4030E_LS_PRS_ARISTARCO.pdf"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/LAVABAR ARISTARCO MOD.AF 40.30E LS PRS DP MATR.22020576/AF4030E_LS_PRS_ARISTARCO.pdf"
                         },
                         {
                           "nome": "DDV_1682929_2022_1_3398_27052022.PDF",
@@ -116583,10 +116607,34 @@
                           "icona": "📄",
                           "link": "https://www.dropbox.com/scl/fi/qe5fu9qyxzt6g3st8t6g3/DDV_1682929_2022_1_3398_27052022.PDF?rlkey=rrk4iqmxn3n6sgmo9ikqr1ajf&dl=0?raw=1",
                           "dimensione_kb": 42,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/LAVABAR ARISTARCO/DDV_1682929_2022_1_3398_27052022.PDF"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/LAVABAR ARISTARCO MOD.AF 40.30E LS PRS DP MATR.22020576/DDV_1682929_2022_1_3398_27052022.PDF"
+                        },
+                        {
+                          "nome": "LAVABAR ARISTARCO MOD.AF 40.30E LS PRS DP MATR.22020576.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/w5ppwuahgjihvkjqfegp8/LAVABAR-ARISTARCO-MOD.AF-40.30E-LS-PRS-DP-MATR.22020576.jpg?rlkey=s95x1kvyvncfrr1qfz3y60l43&dl=0?raw=1",
+                          "dimensione_kb": 142,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/LAVABAR ARISTARCO MOD.AF 40.30E LS PRS DP MATR.22020576/LAVABAR ARISTARCO MOD.AF 40.30E LS PRS DP MATR.22020576.jpg"
                         }
                       ],
-                      "_totale_file": 2
+                      "_totale_file": 3
+                    },
+                    {
+                      "nome": "LAVASTOVIGLIE COMENDA MOD.GF 70A MATR. GB0100301017",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/LAVASTOVIGLIE COMENDA MOD.GF 70A MATR. GB0100301017",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "LAVASTOVIGLIE COMENDA MOD.GF 70A MATR. GB0100301017.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/c4ts2guhpp1t79lljz8r7/LAVASTOVIGLIE-COMENDA-MOD.GF-70A-MATR.-GB0100301017.jpg?rlkey=8d7m4rbcwrl1fmy7giro7tx8w&dl=0?raw=1",
+                          "dimensione_kb": 164,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/LAVASTOVIGLIE COMENDA MOD.GF 70A MATR. GB0100301017/LAVASTOVIGLIE COMENDA MOD.GF 70A MATR. GB0100301017.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
                     },
                     {
                       "nome": "LAVASTOVIGLIE KRUPPS 840DB",
@@ -116645,17 +116693,33 @@
                       "_totale_file": 3
                     },
                     {
-                      "nome": "TOSTIERA FIMAR",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/TOSTIERA FIMAR",
+                      "nome": "TOSTIERA FIMAR MOD.TOP3D23M MATRICOLA 210216786",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/TOSTIERA FIMAR MOD.TOP3D23M MATRICOLA 210216786",
                       "cartelle": [],
                       "file": [
                         {
-                          "nome": "WhatsApp Image 2021-08-12 at 18.36.46.jpeg",
+                          "nome": "TOSTIERA FIMAR MOD.TOP3D23M MATRICOLA 210216786 DATI MACCHINA.jpg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/294xojcxei9j9sbz1zox1/WhatsApp-Image-2021-08-12-at-18.36.46.jpeg?rlkey=kf2wwqpa3magtgyxev1s6gddx&dl=0?raw=1",
+                          "link": "https://www.dropbox.com/scl/fi/pgvfrwpt16e2odc3js3hc/TOSTIERA-FIMAR-MOD.TOP3D23M-MATRICOLA-210216786-DATI-MACCHINA.jpg?rlkey=0n1kjqlw4yyfc3cnvnc85xpe3&dl=0?raw=1",
+                          "dimensione_kb": 6048,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/TOSTIERA FIMAR MOD.TOP3D23M MATRICOLA 210216786/TOSTIERA FIMAR MOD.TOP3D23M MATRICOLA 210216786 DATI MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "TOSTIERA FIMAR MOD.TOP623050M MATRICOLA 120602323",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/TOSTIERA FIMAR MOD.TOP623050M MATRICOLA 120602323",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "TOSTIERA FIMAR MOD.TOP623050M MATRICOLA 120602323 DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/294xojcxei9j9sbz1zox1/TOSTIERA-FIMAR-MOD.TOP623050M-MATRICOLA-120602323-DATI-MACCHINA.jpeg?rlkey=kf2wwqpa3magtgyxev1s6gddx&dl=0?raw=1",
                           "dimensione_kb": 108,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/TOSTIERA FIMAR/WhatsApp Image 2021-08-12 at 18.36.46.jpeg"
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/TOSTIERA FIMAR MOD.TOP623050M MATRICOLA 120602323/TOSTIERA FIMAR MOD.TOP623050M MATRICOLA 120602323 DATI MACCHINA.jpeg"
                         }
                       ],
                       "_totale_file": 1
@@ -116687,7 +116751,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/AREA TECNICA SOC. COOP MARATEA SERVIZI/MARATEA SERVIZI CHIAMATE DI SERVIZIO DEL 20_01_2026.jpeg"
                     }
                   ],
-                  "_totale_file": 28
+                  "_totale_file": 31
                 },
                 {
                   "nome": "MARATEA SERVIZI CENTRALINA TRIFASE 12_03_2026",
@@ -116932,7 +116996,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/_CLIENTE C001308 MARATEA SERVIZI.txt"
                 }
               ],
-              "_totale_file": 57
+              "_totale_file": 60
             },
             {
               "nome": "MARATIA",
@@ -119243,7 +119307,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 964
+          "_totale_file": 967
         },
         {
           "nome": "MARCELLINA",
@@ -142446,34 +142510,50 @@
                 {
                   "nome": "AREA TECNICA BELLAVISTA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/AREA TECNICA BELLAVISTA",
-                  "cartelle": [],
-                  "file": [
+                  "cartelle": [
                     {
-                      "nome": "Lavastoviglie-Dosatori brillantante e accessori_201802261654_lf.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/88n50numexujq5jkndgyc/Lavastoviglie-Dosatori-brillantante-e-accessori_201802261654_lf.pdf?rlkey=fhc8r73b5idwwarjibcc89zfe&dl=0?raw=1",
-                      "dimensione_kb": 5654,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/AREA TECNICA BELLAVISTA/Lavastoviglie-Dosatori brillantante e accessori_201802261654_lf.pdf"
-                    },
-                    {
-                      "nome": "WhatsApp Image 2022-04-01 at 18.18.37.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/bt54ir8ug4fcukxtvxqw2/WhatsApp-Image-2022-04-01-at-18.18.37.jpeg?rlkey=3hutm58zkvxxyltrv4fzuzv64&dl=0?raw=1",
-                      "dimensione_kb": 155,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/AREA TECNICA BELLAVISTA/WhatsApp Image 2022-04-01 at 18.18.37.jpeg"
-                    },
-                    {
-                      "nome": "WhatsApp Image 2023-04-20 at 09.33.14.jpeg",
-                      "tipo": "Immagine",
-                      "icona": "🖼️",
-                      "link": "https://www.dropbox.com/scl/fi/0cv31wxm18z4u3x04r2rs/WhatsApp-Image-2023-04-20-at-09.33.14.jpeg?rlkey=eme99zst2wtgcyfpn4ti3q3hs&dl=0?raw=1",
-                      "dimensione_kb": 159,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/AREA TECNICA BELLAVISTA/WhatsApp Image 2023-04-20 at 09.33.14.jpeg"
+                      "nome": "LAVASTOVIGLIE A CAPPOTTA MACH MOD. MS 900 MATRICOLA 01041005",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/AREA TECNICA BELLAVISTA/LAVASTOVIGLIE A CAPPOTTA MACH MOD. MS 900 MATRICOLA 01041005",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "LAVASTOVIGLIE A CAPPOTTA MACH MOD. MS 900 MATRICOLA 01041005 ESPLOSO RICAMBI.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/3uxy7fq4u0m4zrh3190yj/LAVASTOVIGLIE-A-CAPPOTTA-MACH-MOD.-MS-900-MATRICOLA-01041005-ESPLOSO-RICAMBI.pdf?rlkey=j9ibadl4cakhsidaghddw3sfe&dl=0?raw=1",
+                          "dimensione_kb": 2076,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/AREA TECNICA BELLAVISTA/LAVASTOVIGLIE A CAPPOTTA MACH MOD. MS 900 MATRICOLA 01041005/LAVASTOVIGLIE A CAPPOTTA MACH MOD. MS 900 MATRICOLA 01041005 ESPLOSO RICAMBI.pdf"
+                        },
+                        {
+                          "nome": "Lavastoviglie-Dosatori brillantante e accessori_201802261654_lf.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/88n50numexujq5jkndgyc/Lavastoviglie-Dosatori-brillantante-e-accessori_201802261654_lf.pdf?rlkey=fhc8r73b5idwwarjibcc89zfe&dl=0?raw=1",
+                          "dimensione_kb": 5654,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/AREA TECNICA BELLAVISTA/LAVASTOVIGLIE A CAPPOTTA MACH MOD. MS 900 MATRICOLA 01041005/Lavastoviglie-Dosatori brillantante e accessori_201802261654_lf.pdf"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2022-04-01 at 18.18.37.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/bt54ir8ug4fcukxtvxqw2/WhatsApp-Image-2022-04-01-at-18.18.37.jpeg?rlkey=3hutm58zkvxxyltrv4fzuzv64&dl=0?raw=1",
+                          "dimensione_kb": 155,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/AREA TECNICA BELLAVISTA/LAVASTOVIGLIE A CAPPOTTA MACH MOD. MS 900 MATRICOLA 01041005/WhatsApp Image 2022-04-01 at 18.18.37.jpeg"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2023-04-20 at 09.33.14.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/0cv31wxm18z4u3x04r2rs/WhatsApp-Image-2023-04-20-at-09.33.14.jpeg?rlkey=eme99zst2wtgcyfpn4ti3q3hs&dl=0?raw=1",
+                          "dimensione_kb": 159,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/AREA TECNICA BELLAVISTA/LAVASTOVIGLIE A CAPPOTTA MACH MOD. MS 900 MATRICOLA 01041005/WhatsApp Image 2023-04-20 at 09.33.14.jpeg"
+                        }
+                      ],
+                      "_totale_file": 4
                     }
                   ],
-                  "_totale_file": 3
+                  "file": [],
+                  "_totale_file": 4
                 }
               ],
               "file": [
@@ -142510,11 +142590,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/_CLIENTE CO51719 BELLAVISTA.txt"
                 }
               ],
-              "_totale_file": 7
+              "_totale_file": 8
             }
           ],
           "file": [],
-          "_totale_file": 7
+          "_totale_file": 8
         },
         {
           "nome": "SANTA MARIA DEL CEDRO",
@@ -150611,36 +150691,116 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL CANTIERE FEBBRAIO 2026/MeM SITUAZIONE LOGISTICA AL 23_03_2026 Ordine cliente_250878_20260323_224041.pdf"
                     },
                     {
+                      "nome": "MeM SITUAZIONE MAGAZZINO ULTIME ATTREZZATURE.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/kn30d6wnlxj4441khenkb/MeM-SITUAZIONE-MAGAZZINO-ULTIME-ATTREZZATURE.pdf?rlkey=dvaixco0bwbi36cl6b0cwjq97&dl=0?raw=1",
+                      "dimensione_kb": 60,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL CANTIERE FEBBRAIO 2026/MeM SITUAZIONE MAGAZZINO ULTIME ATTREZZATURE.pdf"
+                    },
+                    {
                       "nome": "MeM SRL ELENCO ATTREZZATURE 1 DI 1 RIF. FATTURA 2500783.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
                       "link": "https://www.dropbox.com/scl/fi/raslisj7s6o4frvh58opj/MeM-SRL-ELENCO-ATTREZZATURE-1-DI-1-RIF.-FATTURA-2500783.pdf?rlkey=wk06wx1sr071offs91g0h2lwf&dl=0?raw=1",
                       "dimensione_kb": 66,
                       "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL CANTIERE FEBBRAIO 2026/MeM SRL ELENCO ATTREZZATURE 1 DI 1 RIF. FATTURA 2500783.pdf"
+                    },
+                    {
+                      "nome": "PROGETTO_IT2505186_MININI GIOVANNI (M&M SRL)_REV01_160326.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/l1lynrxllpyraipsk9qks/PROGETTO_IT2505186_MININI-GIOVANNI-M-M-SRL-_REV01_160326.pdf?rlkey=bphryyvq62wqwf1zg3vnlym5m&dl=0?raw=1",
+                      "dimensione_kb": 1437,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL CANTIERE FEBBRAIO 2026/PROGETTO_IT2505186_MININI GIOVANNI (M&M SRL)_REV01_160326.pdf"
                     }
                   ],
-                  "_totale_file": 33
+                  "_totale_file": 35
+                },
+                {
+                  "nome": "MeM SRL DOCUMENTI AMMINISTRATIVI",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL DOCUMENTI AMMINISTRATIVI",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "M&M SRL Fattura di vendita_2600549_20261027_163934 RIF. Basato su Consegne 260403. 260500. 260556..pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/216745bcr180tr08k94ju/M-M-SRL-Fattura-di-vendita_2600549_20261027_163934-RIF.-Basato-su-Consegne-260403.-260500.-260556..pdf?rlkey=hwupcfkgfumfnatvqnqx477be&dl=0?raw=1",
+                      "dimensione_kb": 0,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL DOCUMENTI AMMINISTRATIVI/M&M SRL Fattura di vendita_2600549_20261027_163934 RIF. Basato su Consegne 260403. 260500. 260556..pdf"
+                    },
+                    {
+                      "nome": "M&M SRL Ordine cliente_260113_20261027_170546 RIF. ARREDO INOX + BASAMENTO ARISTARCO Basato su Offerte di vendita 260125..pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/eikjq850tamyhbdh8tgyt/M-M-SRL-Ordine-cliente_260113_20261027_170546-RIF.-ARREDO-INOX-BASAMENTO-ARISTARCO-Basato-su-Offerte-di-vendita-260125..pdf?rlkey=r4hj8acr2ifrk6l07o1v0gstv&dl=0?raw=1",
+                      "dimensione_kb": 85,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL DOCUMENTI AMMINISTRATIVI/M&M SRL Ordine cliente_260113_20261027_170546 RIF. ARREDO INOX + BASAMENTO ARISTARCO Basato su Offerte di vendita 260125..pdf"
+                    },
+                    {
+                      "nome": "M&M SRL Ordine cliente_260141_20261027_170620 RIF. CAVALLETTO SUPPORTO PER FORNO.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/c8yf5lpg5xpb4krpcfobs/M-M-SRL-Ordine-cliente_260141_20261027_170620-RIF.-CAVALLETTO-SUPPORTO-PER-FORNO.pdf?rlkey=agbqkvb0a7xrlf43wcound5pt&dl=0?raw=1",
+                      "dimensione_kb": 66,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL DOCUMENTI AMMINISTRATIVI/M&M SRL Ordine cliente_260141_20261027_170620 RIF. CAVALLETTO SUPPORTO PER FORNO.pdf"
+                    },
+                    {
+                      "nome": "M&M SRL Ordine cliente_260255_20260706_160754 RIF. DOCCIA PRELAVAGGIO E MISCELATORI Basato su Offerte di vendit.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/iq0b1a5vjalz9poofiabj/M-M-SRL-Ordine-cliente_260255_20260706_160754-RIF.-DOCCIA-PRELAVAGGIO-E-MISCELATORI-Basato-su-Offerte-di-vendit.pdf?rlkey=bvl7cvt6oayir8pz4qism1gvq&dl=0?raw=1",
+                      "dimensione_kb": 62,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SRL DOCUMENTI AMMINISTRATIVI/M&M SRL Ordine cliente_260255_20260706_160754 RIF. DOCCIA PRELAVAGGIO E MISCELATORI Basato su Offerte di vendit.pdf"
+                    }
+                  ],
+                  "_totale_file": 4
+                },
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_10_27",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/SITUAZIONE CONTABILE AL 2026_10_27",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600551 DEL 2026_10_27.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/aix425jafh43vba9rsfbh/FATTURA-2600551-DEL-2026_10_27.pdf?rlkey=qa1356bpo1chpqplu78lv9ki6&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/SITUAZIONE CONTABILE AL 2026_10_27/FATTURA 2600551 DEL 2026_10_27.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600552 DEL 2026_10_27.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/eo6nvtgftqfiq5kret7wa/FATTURA-2600552-DEL-2026_10_27.pdf?rlkey=jbyxp3nq3ghk5gh0ct0igd7qg&dl=0?raw=1",
+                      "dimensione_kb": 61,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/SITUAZIONE CONTABILE AL 2026_10_27/FATTURA 2600552 DEL 2026_10_27.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE CO52615.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/8v7nbnn759jp3x0xyysy4/SITUAZIONE-CONTABILE-CO52615.pdf?rlkey=df8thykgdkhiejbj2uvg3q71q&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/SITUAZIONE CONTABILE AL 2026_10_27/SITUAZIONE CONTABILE CO52615.pdf"
+                    }
+                  ],
+                  "_totale_file": 3
                 }
               ],
               "file": [
                 {
-                  "nome": "MeM SITUAZIONE MAGAZZINO ULTIME ATTREZZATURE.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/kn30d6wnlxj4441khenkb/MeM-SITUAZIONE-MAGAZZINO-ULTIME-ATTREZZATURE.pdf?rlkey=dvaixco0bwbi36cl6b0cwjq97&dl=0?raw=1",
-                  "dimensione_kb": 60,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/MeM SITUAZIONE MAGAZZINO ULTIME ATTREZZATURE.pdf"
-                },
-                {
-                  "nome": "PROGETTO_IT2505186_MININI GIOVANNI (M&M SRL)_REV01_160326.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/l1lynrxllpyraipsk9qks/PROGETTO_IT2505186_MININI-GIOVANNI-M-M-SRL-_REV01_160326.pdf?rlkey=bphryyvq62wqwf1zg3vnlym5m&dl=0?raw=1",
-                  "dimensione_kb": 1437,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/PROGETTO_IT2505186_MININI GIOVANNI (M&M SRL)_REV01_160326.pdf"
+                  "nome": "_CLIENTE CO52615 MeM SRL.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/xvies8vscl3srqchfj1bo/_CLIENTE-CO52615-MeM-SRL.txt?rlkey=ka466sfns0f4n22akejk0mrdb&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/_CLIENTE CO52615 MeM SRL.txt"
                 }
               ],
-              "_totale_file": 35
+              "_totale_file": 43
             },
             {
               "nome": "NASTA BERARDINO",
@@ -151362,7 +151522,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL - collegamento.lnk"
             }
           ],
-          "_totale_file": 337
+          "_totale_file": 345
         },
         {
           "nome": "TORTORELLA",
