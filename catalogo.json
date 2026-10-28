@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-28T07:36:08Z",
-  "totale_file": 28210,
+  "generato": "2026-10-28T09:56:09Z",
+  "totale_file": 28214,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -201037,7 +201037,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5267,
+      "totale_file": 5271,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -201998,6 +201998,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR DDT n°006546.pdf"
             },
             {
+              "nome": "MODULAR ENTRATA MERCI 006260.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/93tbcgfxwz8fo2k3uum8f/MODULAR-ENTRATA-MERCI-006260.pdf?rlkey=vf73sobrmi59fupk83l0ild2f&dl=0?raw=1",
+              "dimensione_kb": 781,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MODULAR ENTRATA MERCI 006260.pdf"
+            },
+            {
               "nome": "MODULAR PROFESSIONAL srl Entrata merci da fornitore_260099_20260528_214901 RIF. MeM CAVALLETTO SUPPORTO PER FORNO Basato su Ordini cliente 2 CAVALLETTO SUPPORTO  PER FORNO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -202526,7 +202534,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 183
+          "_totale_file": 184
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -241461,6 +241469,14 @@
               ],
               "file": [
                 {
+                  "nome": "ACCIAIO T&D CONFERMA ORDINE 3207 DEL 22_10_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/r3dkere5w9zhkmwk1zn6w/ACCIAIO-T-D-CONFERMA-ORDINE-3207-DEL-22_10_2026.pdf?rlkey=by329wyks1kf1zcktch395o08&dl=0?raw=1",
+                  "dimensione_kb": 733,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDINE 3207 DEL 22_10_2026.pdf"
+                },
+                {
                   "nome": "ACCIAIO T&D CONFERMA ORDVE-002637-2026 RIF.LA SECCA PENSILE 120X60.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -242595,6 +242611,22 @@
                   "link": "https://www.dropbox.com/scl/fi/zq9ahh7xko5exv86zci4k/FRIGOMAT-V1-.25.01_002154_25DA002764_161025-RIF.COLLA.pdf?rlkey=iek860ae1qry9dror80munrdg&dl=0?raw=1",
                   "dimensione_kb": 101,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/FRIGOMAT V1 .25.01_002154_25DA002764_161025 RIF.COLLA.pdf"
+                },
+                {
+                  "nome": "FRIGOMECCANICA CONFERMA ORDINE SKM_C300i26091515120-1 RIF.COSENTINO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/u4985tojbu7xm53dmmxr4/FRIGOMECCANICA-CONFERMA-ORDINE-SKM_C300i26091515120-1-RIF.COSENTINO.pdf?rlkey=ucy2u9y9m10zbhldcxy68k4y0&dl=0?raw=1",
+                  "dimensione_kb": 707,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/FRIGOMECCANICA CONFERMA ORDINE SKM_C300i26091515120-1 RIF.COSENTINO.pdf"
+                },
+                {
+                  "nome": "FRIGOMECCANICA LISTA VALORIZZATA SKM_C301i26101514150 RIF. MACELLERIA COSENTINO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/irsxeou3i8ajgwrsmbly1/FRIGOMECCANICA-LISTA-VALORIZZATA-SKM_C301i26101514150-RIF.-MACELLERIA-COSENTINO.pdf?rlkey=8oc5fw0pmpc2lg8uqggmn12yc&dl=0?raw=1",
+                  "dimensione_kb": 449,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/FRIGOMECCANICA LISTA VALORIZZATA SKM_C301i26101514150 RIF. MACELLERIA COSENTINO.pdf"
                 },
                 {
                   "nome": "FRIULMED ImpegnoCli2026 00292950017926VICECONTI SNC DI20260630 RIF.MeM.PDF",
@@ -244117,6 +244149,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260209_20260811_175042 RIF. Basato su Ordini cliente 260381. 260385. 260386..pdf"
                 },
                 {
+                  "nome": "MORINI s.r.l. Ordine dacquisto_260216_20260908_114056 RIF. Basato su Ordini cliente 260431. 260438. 260440. 260441..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/94zb5pjyz8evorz3fiu2m/MORINI-s.r.l.-Ordine-dacquisto_260216_20260908_114056-RIF.-Basato-su-Ordini-cliente-260431.-260438.-260440.-260441..pdf?rlkey=se3ap286wf5kqrw93tuh8zmub&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260216_20260908_114056 RIF. Basato su Ordini cliente 260431. 260438. 260440. 260441..pdf"
+                },
+                {
                   "nome": "NTA CONFERMA FP-4-2025 RIF.LAMPADE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -244533,6 +244573,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260201_20260730_171540.pdf"
                 },
                 {
+                  "nome": "REPA ITALIA SRL Ordine dacquisto_260251_20261006_165630.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3lqn8x5bxncbu7n17fsfg/REPA-ITALIA-SRL-Ordine-dacquisto_260251_20261006_165630.pdf?rlkey=oagops3210basw5nogoilvbp5&dl=0?raw=1",
+                  "dimensione_kb": 68,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260251_20261006_165630.pdf"
+                },
+                {
                   "nome": "REPA ORDINE_CLIENTE-1010970-170212 RIF.MADI MIXER+MAG.PDF",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -244603,6 +244651,14 @@
                   "link": "https://www.dropbox.com/scl/fi/xur2uk851uuxwon2mjbcq/SIRMAN-CONFERMA-ORDINE-2010260038-RIF.-PLUTONE-7-HAPPY.pdf?rlkey=dik4clorl6q5qe32cx9n0upon&dl=0?raw=1",
                   "dimensione_kb": 81,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010260038 RIF. PLUTONE 7 HAPPY.pdf"
+                },
+                {
+                  "nome": "SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE CORRETTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/clo7c37dw1t8454oikv6y/SIRMAN-CONFERMA-ORDINE-2010264956-RIF.MACELLERIA-COSENTINO-E-PUGLIESE-CORRETTA.pdf?rlkey=t7rd7ecu4ypw9plta5iju5xpr&dl=0?raw=1",
+                  "dimensione_kb": 115,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE CORRETTA.pdf"
                 },
                 {
                   "nome": "SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE.pdf",
@@ -245117,7 +245173,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/unnamed.png"
                 }
               ],
-              "_totale_file": 3826
+              "_totale_file": 3832
             },
             {
               "nome": "GIMAR PREVENTIVI E CONFERME ORDINE",
@@ -245322,28 +245378,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-004196-2026 RIF. CAMPOLEROSE.pdf"
             },
             {
-              "nome": "ACCIAIO T&D CONFERMA ORDINE 3207 DEL 22_10_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/r3dkere5w9zhkmwk1zn6w/ACCIAIO-T-D-CONFERMA-ORDINE-3207-DEL-22_10_2026.pdf?rlkey=by329wyks1kf1zcktch395o08&dl=0?raw=1",
-              "dimensione_kb": 733,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDINE 3207 DEL 22_10_2026.pdf"
-            },
-            {
               "nome": "ACCIAIO T&D CONFERMA ORDVE-003207-2026 RIF. CAMPOLEROSE.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/qew4kx78xz8rwqxqkmct9/ACCIAIO-T-D-CONFERMA-ORDVE-003207-2026-RIF.-CAMPOLEROSE.pdf?rlkey=j5nwxiw0g09hnqf5onfdbyiyy&dl=0?raw=1",
               "dimensione_kb": 744,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-003207-2026 RIF. CAMPOLEROSE.pdf"
-            },
-            {
-              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260278_20261021_161617 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/5k72yxq400eztscxjclgc/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260278_20261021_161617-RIF.-CAMPOLEROSE-Basato-su-Ordini-cliente-260489..pdf?rlkey=30j4he3ysyrjpbadlag53h0zb&dl=0?raw=1",
-              "dimensione_kb": 66,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260278_20261021_161617 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf"
             },
             {
               "nome": "ARISTARCO S.P.A. Ordine dacquisto_260280_20261019_105628 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf",
@@ -245410,36 +245450,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 8804W DEL 22_10_2026.pdf"
             },
             {
-              "nome": "FRIGOMECCANICA CONFERMA ORDINE SKM_C300i26091515120-1 RIF.COSENTINO.pdf",
+              "nome": "KAREL CONFERMA D'ORDINE 202626007351I201026 RIF.LFS GROUP SRL.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/u4985tojbu7xm53dmmxr4/FRIGOMECCANICA-CONFERMA-ORDINE-SKM_C300i26091515120-1-RIF.COSENTINO.pdf?rlkey=ucy2u9y9m10zbhldcxy68k4y0&dl=0?raw=1",
-              "dimensione_kb": 707,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FRIGOMECCANICA CONFERMA ORDINE SKM_C300i26091515120-1 RIF.COSENTINO.pdf"
-            },
-            {
-              "nome": "FRIGOMECCANICA LISTA VALORIZZATA SKM_C301i26101514150 RIF. MACELLERIA COSENTINO.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/irsxeou3i8ajgwrsmbly1/FRIGOMECCANICA-LISTA-VALORIZZATA-SKM_C301i26101514150-RIF.-MACELLERIA-COSENTINO.pdf?rlkey=8oc5fw0pmpc2lg8uqggmn12yc&dl=0?raw=1",
-              "dimensione_kb": 449,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FRIGOMECCANICA LISTA VALORIZZATA SKM_C301i26101514150 RIF. MACELLERIA COSENTINO.pdf"
-            },
-            {
-              "nome": "KAREL CONFERMA ORDINE 7351 DEL 20_10_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/2tp04z8mdj6ci4vxmxdvz/KAREL-CONFERMA-ORDINE-7351-DEL-20_10_2026.pdf?rlkey=ma8zj0vqny3krvn8edswven86&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/16k5qc1d3ovh5g5x10ho8/KAREL-CONFERMA-D-ORDINE-202626007351I201026-RIF.LFS-GROUP-SRL.pdf?rlkey=f2fjzyw1jpzwq3raafwu8ione&dl=0?raw=1",
               "dimensione_kb": 53,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA ORDINE 7351 DEL 20_10_2026.pdf"
-            },
-            {
-              "nome": "MORINI s.r.l. Ordine dacquisto_260216_20260908_114056 RIF. Basato su Ordini cliente 260431. 260438. 260440. 260441..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/94zb5pjyz8evorz3fiu2m/MORINI-s.r.l.-Ordine-dacquisto_260216_20260908_114056-RIF.-Basato-su-Ordini-cliente-260431.-260438.-260440.-260441..pdf?rlkey=se3ap286wf5kqrw93tuh8zmub&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260216_20260908_114056 RIF. Basato su Ordini cliente 260431. 260438. 260440. 260441..pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA D'ORDINE 202626007351I201026 RIF.LFS GROUP SRL.pdf"
             },
             {
               "nome": "MORINI s.r.l. Ordine dacquisto_260285_20261021_122227 RIF. Basato su Ordini cliente 260505. 260517..pdf",
@@ -245466,12 +245482,28 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/PADERNO ORDINE SBT-26021558.pdf"
             },
             {
-              "nome": "REPA ITALIA SRL Ordine dacquisto_260251_20261006_165630.pdf",
+              "nome": "REPA CONFERMA ORDINE 202676 DEL 27_10_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/3lqn8x5bxncbu7n17fsfg/REPA-ITALIA-SRL-Ordine-dacquisto_260251_20261006_165630.pdf?rlkey=oagops3210basw5nogoilvbp5&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/kv9t4k1v2ban1ig8aehin/REPA-CONFERMA-ORDINE-202676-DEL-27_10_2026.pdf?rlkey=gnypdujcgpvsyvqfoa65x0vms&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA CONFERMA ORDINE 202676 DEL 27_10_2026.pdf"
+            },
+            {
+              "nome": "REPA CONFERMA ORDINE 202737 DEL 27_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/otjzt7z6c00ev2fzgwkyc/REPA-CONFERMA-ORDINE-202737-DEL-27_10_2026.pdf?rlkey=g4hym17781i2493q5c95ba0gc&dl=0?raw=1",
               "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260251_20261006_165630.pdf"
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA CONFERMA ORDINE 202737 DEL 27_10_2026.pdf"
+            },
+            {
+              "nome": "REPA ITALIA SRL Ordine dacquisto_260287_20261027_201501 RIF. ISABELLA PEGORARI Basato su Ordini cliente 260527. SPEDIZIONE DIRETTA CON.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/keyljht76mi21vczpmyxg/REPA-ITALIA-SRL-Ordine-dacquisto_260287_20261027_201501-RIF.-ISABELLA-PEGORARI-Basato-su-Ordini-cliente-260527.-SPEDIZIONE-DIRETTA-CON.pdf?rlkey=0hu8w76donf0ac4jchr3qz4ri&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA ITALIA SRL Ordine dacquisto_260287_20261027_201501 RIF. ISABELLA PEGORARI Basato su Ordini cliente 260527. SPEDIZIONE DIRETTA CON.pdf"
             },
             {
               "nome": "REPA PREV-1010970-123207.PDF",
@@ -245482,12 +245514,12 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/REPA PREV-1010970-123207.PDF"
             },
             {
-              "nome": "SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE CORRETTA.pdf",
+              "nome": "SLAYER CONFERMA ORDINE 26RC13449 DEL 27_10_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/clo7c37dw1t8454oikv6y/SIRMAN-CONFERMA-ORDINE-2010264956-RIF.MACELLERIA-COSENTINO-E-PUGLIESE-CORRETTA.pdf?rlkey=t7rd7ecu4ypw9plta5iju5xpr&dl=0?raw=1",
-              "dimensione_kb": 115,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SIRMAN CONFERMA ORDINE 2010264956 RIF.MACELLERIA COSENTINO E PUGLIESE CORRETTA.pdf"
+              "link": "https://www.dropbox.com/scl/fi/wxut22ph2yxfinrc0kuuw/SLAYER-CONFERMA-ORDINE-26RC13449-DEL-27_10_2026.pdf?rlkey=oi4xx4w8suuokb4f6jx02mfld&dl=0?raw=1",
+              "dimensione_kb": 46,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SLAYER CONFERMA ORDINE 26RC13449 DEL 27_10_2026.pdf"
             },
             {
               "nome": "TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf",
@@ -245498,7 +245530,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3870
+          "_totale_file": 3873
         }
       ],
       "file": []
