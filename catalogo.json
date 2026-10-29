@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-28T11:21:40Z",
-  "totale_file": 28214,
+  "generato": "2026-10-29T01:52:01Z",
+  "totale_file": 28217,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -79356,7 +79356,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7872,
+      "totale_file": 7875,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -128609,7 +128609,7 @@
                   "nome": "H2A COPIA TITOLI FATTURA RATIONAL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/sobwxb91m37jrf63rvzz9/H2A-COPIA-TITOLI-FATTURA-RATIONAL.pdf?rlkey=ncju5r8xjp27vioex1amr77oa&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 464,
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/H2A/H2A COPIA TITOLI FATTURA RATIONAL.pdf"
                 },
@@ -144130,7 +144130,7 @@
                       "nome": "ATC.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/ulc6dkudcvfjf1cyq7p3n/ATC.pdf?rlkey=hacsw809uk9fpdq3dfb9vvsip&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 743,
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/LUILORE SRLS/ARCHIVIO/ATC.pdf"
                     },
@@ -150214,6 +150214,38 @@
                     }
                   ],
                   "_totale_file": 2
+                },
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_10_28",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/SITUAZIONE CONTABILE AL 2026_10_28",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "ORDINE 260448 DEL 2026_09_11.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/creu3tycm7ldwwre2rml8/ORDINE-260448-DEL-2026_09_11.pdf?rlkey=o2uia0eu2f76rjvvx5bs5qfgo&dl=0?raw=1",
+                      "dimensione_kb": 91,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/SITUAZIONE CONTABILE AL 2026_10_28/ORDINE 260448 DEL 2026_09_11.pdf"
+                    },
+                    {
+                      "nome": "ORDINE 260511 DEL 2026_10_17.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/w3pm27o0kg9gnr4ra23uj/ORDINE-260511-DEL-2026_10_17.pdf?rlkey=zxt9zld0cwtrkma08vdslkddo&dl=0?raw=1",
+                      "dimensione_kb": 84,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/SITUAZIONE CONTABILE AL 2026_10_28/ORDINE 260511 DEL 2026_10_17.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE C051437.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/dtuwvdenilq2lodlsfdlj/SITUAZIONE-CONTABILE-C051437.pdf?rlkey=6615omjuq58u86snauk21burh&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/SITUAZIONE CONTABILE AL 2026_10_28/SITUAZIONE CONTABILE C051437.pdf"
+                    }
+                  ],
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -150250,7 +150282,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/_CLIENTE C051437 MACELLERIA COSENTINO.txt"
                 }
               ],
-              "_totale_file": 19
+              "_totale_file": 22
             },
             {
               "nome": "MACELLERIA OLIVA",
@@ -151874,7 +151906,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL - collegamento.lnk"
             }
           ],
-          "_totale_file": 345
+          "_totale_file": 348
         },
         {
           "nome": "TORTORELLA",
