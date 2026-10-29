@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-29T01:52:01Z",
-  "totale_file": 28217,
+  "generato": "2026-10-29T04:00:33Z",
+  "totale_file": 28218,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -157429,7 +157429,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4513,
+      "totale_file": 4514,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -160957,88 +160957,225 @@
         {
           "nome": "ATA",
           "path": "/HUB DOCUMENTALE/FORNITORI/ATA",
-          "cartelle": [],
+          "cartelle": [
+            {
+              "nome": "ARCHIVIO",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "(GPL) TECHNICAL DATA_it_fr_en_de_es_ru_rev.1.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0il4j0igyefimrc4d6i32/GPL-TECHNICAL-DATA_it_fr_en_de_es_ru_rev.1.pdf?rlkey=gwawzmuoxdozrdp59b55zz22u&dl=0?raw=1",
+                  "dimensione_kb": 1368,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/(GPL) TECHNICAL DATA_it_fr_en_de_es_ru_rev.1.pdf"
+                },
+                {
+                  "nome": "(GPL) USER_it_fr_en_de_es_ru_rev.1.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/irkfqsn0nmbi5ptqm1r8i/GPL-USER_it_fr_en_de_es_ru_rev.1.pdf?rlkey=jcxy0073cltseo00f1pgyo9hw&dl=0?raw=1",
+                  "dimensione_kb": 1068,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/(GPL) USER_it_fr_en_de_es_ru_rev.1.pdf"
+                },
+                {
+                  "nome": "ATA - Listino Linea 1100 2019.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/t9aal2memhf7apbqvklul/ATA-Listino-Linea-1100-2019.pdf?rlkey=vkewz0lbt2u1ji3ui33n87a8z&dl=0?raw=1",
+                  "dimensione_kb": 948,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA - Listino Linea 1100 2019.pdf"
+                },
+                {
+                  "nome": "ATA - Listino Linea 600 2019.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jp7b4zt85tcr9vfcagsl9/ATA-Listino-Linea-600-2019.pdf?rlkey=ha1wzgkm9h9mfvmq3i0pydcnm&dl=0?raw=1",
+                  "dimensione_kb": 784,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA - Listino Linea 600 2019.pdf"
+                },
+                {
+                  "nome": "ATA - Listino Linea 700 2019.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/puedako3ukod6poh6qk10/ATA-Listino-Linea-700-2019.pdf?rlkey=oupmqliycjmw6kurl7lwbsi61&dl=0?raw=1",
+                  "dimensione_kb": 2871,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA - Listino Linea 700 2019.pdf"
+                },
+                {
+                  "nome": "ATA - Listino Linea 900 2019.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/x23jpew9ye4vjptpucpp6/ATA-Listino-Linea-900-2019.pdf?rlkey=6whl712k57m9pjmz0197fzydu&dl=0?raw=1",
+                  "dimensione_kb": 2311,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA - Listino Linea 900 2019.pdf"
+                },
+                {
+                  "nome": "ATA 02_2021_LISTINO LAVAGGIO RICAMBI_PRICE LIST DISHWASHER SPARE PARTS.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/6pdldgxukuhgoayokoz0j/ATA-02_2021_LISTINO-LAVAGGIO-RICAMBI_PRICE-LIST-DISHWASHER-SPARE-PARTS.XLS?rlkey=etnkkjdecjut820h9zl9ed4e1&dl=0?raw=1",
+                  "dimensione_kb": 520,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA 02_2021_LISTINO LAVAGGIO RICAMBI_PRICE LIST DISHWASHER SPARE PARTS.XLS"
+                },
+                {
+                  "nome": "ATA KITCHEN PRICELIST 2022_1.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ocl98dndsbt5f8y3ilnw5/ATA-KITCHEN-PRICELIST-2022_1.pdf?rlkey=f2oun1z4vf4kbf1ke4ssakbr0&dl=0?raw=1",
+                  "dimensione_kb": 7079,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA KITCHEN PRICELIST 2022_1.pdf"
+                },
+                {
+                  "nome": "ATA KITCHEN PRICELIST 2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4mly9evttk7i7ct2xxy8q/ATA-KITCHEN-PRICELIST-2025.pdf?rlkey=lfy5nefyj9d13e4elmy8pduu4&dl=0?raw=1",
+                  "dimensione_kb": 7222,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA KITCHEN PRICELIST 2025.pdf"
+                },
+                {
+                  "nome": "ATA LISTINO COTTURA 2017.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/88f424mrkddrf76utsggn/ATA-LISTINO-COTTURA-2017.pdf?rlkey=pblvgwgc96ullw5zo73ekcei6&dl=0?raw=1",
+                  "dimensione_kb": 9495,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA LISTINO COTTURA 2017.pdf"
+                },
+                {
+                  "nome": "ATA LISTINO LAVAGGIO 2017.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/y2j1kfb0mzrh7jjq4el6o/ATA-LISTINO-LAVAGGIO-2017.pdf?rlkey=7fblak0i7c1qt01363dt4f35y&dl=0?raw=1",
+                  "dimensione_kb": 3915,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA LISTINO LAVAGGIO 2017.pdf"
+                },
+                {
+                  "nome": "ATA LISTINO PREZZI COTTURA 2019_def.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/tir6qauqwt9nag2cn8fqh/ATA-LISTINO-PREZZI-COTTURA-2019_def.pdf?rlkey=3yj86km45qauihzciapu1ix08&dl=0?raw=1",
+                  "dimensione_kb": 7127,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA LISTINO PREZZI COTTURA 2019_def.pdf"
+                },
+                {
+                  "nome": "ATA LISTINO PREZZI COTTURA 2021_COOKING EQUIPMENT PRICE LIST.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lo76uxso5vlcd0gya89ep/ATA-LISTINO-PREZZI-COTTURA-2021_COOKING-EQUIPMENT-PRICE-LIST.pdf?rlkey=hoo9u37qwqzowlexiskdrg8ng&dl=0?raw=1",
+                  "dimensione_kb": 4088,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA LISTINO PREZZI COTTURA 2021_COOKING EQUIPMENT PRICE LIST.pdf"
+                },
+                {
+                  "nome": "ATA LISTINO RICAMBI 2017.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/cqvhv5558mm0c8y92289u/ATA-LISTINO-RICAMBI-2017.xlsx?rlkey=cx0ujm9wvo6zpaa88ol6vqamv&dl=0?raw=1",
+                  "dimensione_kb": 104,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA LISTINO RICAMBI 2017.xlsx"
+                },
+                {
+                  "nome": "ATA_900_K4_2017.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ixr3nmyflogwfkkv4fb7o/ATA_900_K4_2017.pdf?rlkey=01d5dc01sjgxfh9l8662u60yc&dl=0?raw=1",
+                  "dimensione_kb": 1722,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/ATA_900_K4_2017.pdf"
+                },
+                {
+                  "nome": "Bruciatore Solution.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6rycskmhf3wbsaalvajuo/Bruciatore-Solution.pdf?rlkey=zni534m3zun4o077rakixdihp&dl=0?raw=1",
+                  "dimensione_kb": 1779,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/Bruciatore Solution.pdf"
+                },
+                {
+                  "nome": "Differenze Linea 900.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/cb3e9l6n5khyvg8a8m08x/Differenze-Linea-900.pdf?rlkey=47bsbchzsk1w2rqek5riyve2p&dl=0?raw=1",
+                  "dimensione_kb": 46,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/Differenze Linea 900.pdf"
+                },
+                {
+                  "nome": "K4ECUP15TT.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/l7afsmdjegjpvto62uxab/K4ECUP15TT.pdf?rlkey=qmpo508956bsrj82ugt6ogizl&dl=0?raw=1",
+                  "dimensione_kb": 376,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/K4ECUP15TT.pdf"
+                },
+                {
+                  "nome": "K4_cucine performance.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/b5u7f0vvd6cyhyga31uhe/K4_cucine-performance.pdf?rlkey=lgw1jd7nkcmfzc2xonfjpc9de&dl=0?raw=1",
+                  "dimensione_kb": 1106,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/K4_cucine performance.pdf"
+                },
+                {
+                  "nome": "K4_cucine solution.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3eavay1g4a8kess3xiitk/K4_cucine-solution.pdf?rlkey=1x08631kqweextwgbpuva14fa&dl=0?raw=1",
+                  "dimensione_kb": 1197,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/K4_cucine solution.pdf"
+                },
+                {
+                  "nome": "LINEA 900 K4.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vua1b8sbgvsgk2lsx8amk/LINEA-900-K4.pdf?rlkey=l8jptf4psc0f47hfdlusgeve4&dl=0?raw=1",
+                  "dimensione_kb": 1157,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/LINEA 900 K4.pdf"
+                },
+                {
+                  "nome": "NUOVA LINEA 900.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kshn80sab2zi73486x6oq/NUOVA-LINEA-900.pdf?rlkey=rn0oe0vr5hdkmpio309vmy92o&dl=0?raw=1",
+                  "dimensione_kb": 789,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/NUOVA LINEA 900.pdf"
+                },
+                {
+                  "nome": "Particolare Bruciatore Performance 2.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8ivyrt03nlec2wgypi22o/Particolare-Bruciatore-Performance-2.pdf?rlkey=2jbn2ztnwr7kg41r8q23hv7o8&dl=0?raw=1",
+                  "dimensione_kb": 1584,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/Particolare Bruciatore Performance 2.pdf"
+                },
+                {
+                  "nome": "RICAMBI COTTURA_SPARE PARTS COOKING EQUIPMENT 2021.XLS",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/wz3dqm4gsnrtygiqc718i/RICAMBI-COTTURA_SPARE-PARTS-COOKING-EQUIPMENT-2021.XLS?rlkey=62j5h5dy6m6hn8ygkbgnm2n56&dl=0?raw=1",
+                  "dimensione_kb": 432,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/RICAMBI COTTURA_SPARE PARTS COOKING EQUIPMENT 2021.XLS"
+                },
+                {
+                  "nome": "cucine_2025_cooking equipment.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xq5gcc0jrkd9zhjw4gxle/cucine_2025_cooking-equipment.pdf?rlkey=qppndyqg795um996vvkcdtmvp&dl=0?raw=1",
+                  "dimensione_kb": 7169,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/cucine_2025_cooking equipment.pdf"
+                },
+                {
+                  "nome": "k4GcpP05.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4ksz9s9jum7hmlm3373by/k4GcpP05.pdf?rlkey=afiarffuhpw6wzicvjkcyumlx&dl=0?raw=1",
+                  "dimensione_kb": 545,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ARCHIVIO/k4GcpP05.pdf"
+                }
+              ],
+              "_totale_file": 26
+            }
+          ],
           "file": [
-            {
-              "nome": "(GPL) TECHNICAL DATA_it_fr_en_de_es_ru_rev.1.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/0il4j0igyefimrc4d6i32/GPL-TECHNICAL-DATA_it_fr_en_de_es_ru_rev.1.pdf?rlkey=gwawzmuoxdozrdp59b55zz22u&dl=0?raw=1",
-              "dimensione_kb": 1368,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/(GPL) TECHNICAL DATA_it_fr_en_de_es_ru_rev.1.pdf"
-            },
-            {
-              "nome": "(GPL) USER_it_fr_en_de_es_ru_rev.1.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/irkfqsn0nmbi5ptqm1r8i/GPL-USER_it_fr_en_de_es_ru_rev.1.pdf?rlkey=jcxy0073cltseo00f1pgyo9hw&dl=0?raw=1",
-              "dimensione_kb": 1068,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/(GPL) USER_it_fr_en_de_es_ru_rev.1.pdf"
-            },
-            {
-              "nome": "ATA - Listino Linea 1100 2019.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/t9aal2memhf7apbqvklul/ATA-Listino-Linea-1100-2019.pdf?rlkey=vkewz0lbt2u1ji3ui33n87a8z&dl=0?raw=1",
-              "dimensione_kb": 948,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA - Listino Linea 1100 2019.pdf"
-            },
-            {
-              "nome": "ATA - Listino Linea 600 2019.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/jp7b4zt85tcr9vfcagsl9/ATA-Listino-Linea-600-2019.pdf?rlkey=ha1wzgkm9h9mfvmq3i0pydcnm&dl=0?raw=1",
-              "dimensione_kb": 784,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA - Listino Linea 600 2019.pdf"
-            },
-            {
-              "nome": "ATA - Listino Linea 700 2019.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/puedako3ukod6poh6qk10/ATA-Listino-Linea-700-2019.pdf?rlkey=oupmqliycjmw6kurl7lwbsi61&dl=0?raw=1",
-              "dimensione_kb": 2871,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA - Listino Linea 700 2019.pdf"
-            },
-            {
-              "nome": "ATA - Listino Linea 900 2019.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/x23jpew9ye4vjptpucpp6/ATA-Listino-Linea-900-2019.pdf?rlkey=6whl712k57m9pjmz0197fzydu&dl=0?raw=1",
-              "dimensione_kb": 2311,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA - Listino Linea 900 2019.pdf"
-            },
-            {
-              "nome": "ATA 02_2021_LISTINO LAVAGGIO RICAMBI_PRICE LIST DISHWASHER SPARE PARTS.XLS",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/6pdldgxukuhgoayokoz0j/ATA-02_2021_LISTINO-LAVAGGIO-RICAMBI_PRICE-LIST-DISHWASHER-SPARE-PARTS.XLS?rlkey=etnkkjdecjut820h9zl9ed4e1&dl=0?raw=1",
-              "dimensione_kb": 520,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA 02_2021_LISTINO LAVAGGIO RICAMBI_PRICE LIST DISHWASHER SPARE PARTS.XLS"
-            },
-            {
-              "nome": "ATA KITCHEN PRICELIST 2022_1.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ocl98dndsbt5f8y3ilnw5/ATA-KITCHEN-PRICELIST-2022_1.pdf?rlkey=f2oun1z4vf4kbf1ke4ssakbr0&dl=0?raw=1",
-              "dimensione_kb": 7079,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA KITCHEN PRICELIST 2022_1.pdf"
-            },
-            {
-              "nome": "ATA KITCHEN PRICELIST 2025.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/4mly9evttk7i7ct2xxy8q/ATA-KITCHEN-PRICELIST-2025.pdf?rlkey=lfy5nefyj9d13e4elmy8pduu4&dl=0?raw=1",
-              "dimensione_kb": 7222,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA KITCHEN PRICELIST 2025.pdf"
-            },
-            {
-              "nome": "ATA LISTINO COTTURA 2017.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/88f424mrkddrf76utsggn/ATA-LISTINO-COTTURA-2017.pdf?rlkey=pblvgwgc96ullw5zo73ekcei6&dl=0?raw=1",
-              "dimensione_kb": 9495,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA LISTINO COTTURA 2017.pdf"
-            },
             {
               "nome": "ATA LISTINO COTTURA 2026.pdf",
               "tipo": "PDF",
@@ -161048,135 +161185,15 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA LISTINO COTTURA 2026.pdf"
             },
             {
-              "nome": "ATA LISTINO LAVAGGIO 2017.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/y2j1kfb0mzrh7jjq4el6o/ATA-LISTINO-LAVAGGIO-2017.pdf?rlkey=7fblak0i7c1qt01363dt4f35y&dl=0?raw=1",
-              "dimensione_kb": 3915,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA LISTINO LAVAGGIO 2017.pdf"
-            },
-            {
-              "nome": "ATA LISTINO PREZZI COTTURA 2019_def.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/tir6qauqwt9nag2cn8fqh/ATA-LISTINO-PREZZI-COTTURA-2019_def.pdf?rlkey=3yj86km45qauihzciapu1ix08&dl=0?raw=1",
-              "dimensione_kb": 7127,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA LISTINO PREZZI COTTURA 2019_def.pdf"
-            },
-            {
-              "nome": "ATA LISTINO PREZZI COTTURA 2021_COOKING EQUIPMENT PRICE LIST.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/lo76uxso5vlcd0gya89ep/ATA-LISTINO-PREZZI-COTTURA-2021_COOKING-EQUIPMENT-PRICE-LIST.pdf?rlkey=hoo9u37qwqzowlexiskdrg8ng&dl=0?raw=1",
-              "dimensione_kb": 4088,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA LISTINO PREZZI COTTURA 2021_COOKING EQUIPMENT PRICE LIST.pdf"
-            },
-            {
-              "nome": "ATA LISTINO RICAMBI 2017.xlsx",
+              "nome": "ATA Listino prezzi ricambi lavaggio 2026_Dishwashers spare parts pricelist 2026.XLS",
               "tipo": "Excel",
               "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/cqvhv5558mm0c8y92289u/ATA-LISTINO-RICAMBI-2017.xlsx?rlkey=cx0ujm9wvo6zpaa88ol6vqamv&dl=0?raw=1",
-              "dimensione_kb": 104,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA LISTINO RICAMBI 2017.xlsx"
-            },
-            {
-              "nome": "ATA_900_K4_2017.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ixr3nmyflogwfkkv4fb7o/ATA_900_K4_2017.pdf?rlkey=01d5dc01sjgxfh9l8662u60yc&dl=0?raw=1",
-              "dimensione_kb": 1722,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA_900_K4_2017.pdf"
-            },
-            {
-              "nome": "Bruciatore Solution.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/6rycskmhf3wbsaalvajuo/Bruciatore-Solution.pdf?rlkey=zni534m3zun4o077rakixdihp&dl=0?raw=1",
-              "dimensione_kb": 1779,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/Bruciatore Solution.pdf"
-            },
-            {
-              "nome": "Differenze Linea 900.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/cb3e9l6n5khyvg8a8m08x/Differenze-Linea-900.pdf?rlkey=47bsbchzsk1w2rqek5riyve2p&dl=0?raw=1",
-              "dimensione_kb": 46,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/Differenze Linea 900.pdf"
-            },
-            {
-              "nome": "K4ECUP15TT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/l7afsmdjegjpvto62uxab/K4ECUP15TT.pdf?rlkey=qmpo508956bsrj82ugt6ogizl&dl=0?raw=1",
-              "dimensione_kb": 376,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/K4ECUP15TT.pdf"
-            },
-            {
-              "nome": "K4_cucine performance.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/b5u7f0vvd6cyhyga31uhe/K4_cucine-performance.pdf?rlkey=lgw1jd7nkcmfzc2xonfjpc9de&dl=0?raw=1",
-              "dimensione_kb": 1106,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/K4_cucine performance.pdf"
-            },
-            {
-              "nome": "K4_cucine solution.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/3eavay1g4a8kess3xiitk/K4_cucine-solution.pdf?rlkey=1x08631kqweextwgbpuva14fa&dl=0?raw=1",
-              "dimensione_kb": 1197,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/K4_cucine solution.pdf"
-            },
-            {
-              "nome": "LINEA 900 K4.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/vua1b8sbgvsgk2lsx8amk/LINEA-900-K4.pdf?rlkey=l8jptf4psc0f47hfdlusgeve4&dl=0?raw=1",
-              "dimensione_kb": 1157,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/LINEA 900 K4.pdf"
-            },
-            {
-              "nome": "NUOVA LINEA 900.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/kshn80sab2zi73486x6oq/NUOVA-LINEA-900.pdf?rlkey=rn0oe0vr5hdkmpio309vmy92o&dl=0?raw=1",
-              "dimensione_kb": 789,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/NUOVA LINEA 900.pdf"
-            },
-            {
-              "nome": "Particolare Bruciatore Performance 2.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/8ivyrt03nlec2wgypi22o/Particolare-Bruciatore-Performance-2.pdf?rlkey=2jbn2ztnwr7kg41r8q23hv7o8&dl=0?raw=1",
-              "dimensione_kb": 1584,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/Particolare Bruciatore Performance 2.pdf"
-            },
-            {
-              "nome": "RICAMBI COTTURA_SPARE PARTS COOKING EQUIPMENT 2021.XLS",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/wz3dqm4gsnrtygiqc718i/RICAMBI-COTTURA_SPARE-PARTS-COOKING-EQUIPMENT-2021.XLS?rlkey=62j5h5dy6m6hn8ygkbgnm2n56&dl=0?raw=1",
-              "dimensione_kb": 432,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/RICAMBI COTTURA_SPARE PARTS COOKING EQUIPMENT 2021.XLS"
-            },
-            {
-              "nome": "cucine_2025_cooking equipment.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xq5gcc0jrkd9zhjw4gxle/cucine_2025_cooking-equipment.pdf?rlkey=qppndyqg795um996vvkcdtmvp&dl=0?raw=1",
-              "dimensione_kb": 7169,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/cucine_2025_cooking equipment.pdf"
-            },
-            {
-              "nome": "k4GcpP05.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/4ksz9s9jum7hmlm3373by/k4GcpP05.pdf?rlkey=afiarffuhpw6wzicvjkcyumlx&dl=0?raw=1",
-              "dimensione_kb": 545,
-              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/k4GcpP05.pdf"
+              "link": "https://www.dropbox.com/scl/fi/caejkvpiwqhyuf7h7vqp6/ATA-Listino-prezzi-ricambi-lavaggio-2026_Dishwashers-spare-parts-pricelist-2026.XLS?rlkey=8m33p5gteorjib6nkw620ih11&dl=0?raw=1",
+              "dimensione_kb": 406,
+              "path": "/HUB DOCUMENTALE/FORNITORI/ATA/ATA Listino prezzi ricambi lavaggio 2026_Dishwashers spare parts pricelist 2026.XLS"
             }
           ],
-          "_totale_file": 27
+          "_totale_file": 28
         },
         {
           "nome": "ATO SINCOLD",
