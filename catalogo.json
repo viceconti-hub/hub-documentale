@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-29T04:00:33Z",
-  "totale_file": 28218,
+  "generato": "2026-10-30T01:43:48Z",
+  "totale_file": 28222,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -79356,7 +79356,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7875,
+      "totale_file": 7879,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -117176,6 +117176,46 @@
                     }
                   ],
                   "_totale_file": 8
+                },
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_10_29",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/SITUAZIONE CONTABILE AL 2026_10_29",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600546 DEL 2026_10_26.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/bcn9qofz47j3fb9t0yv5f/FATTURA-2600546-DEL-2026_10_26.pdf?rlkey=1qrcort1n4n2rnezeg6jp0kff&dl=0?raw=1",
+                      "dimensione_kb": 69,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/SITUAZIONE CONTABILE AL 2026_10_29/FATTURA 2600546 DEL 2026_10_26.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600556 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/x28xfqwkd28yy4400n4rx/FATTURA-2600556-DEL-2026_10_29.pdf?rlkey=e445c649f1z0sbroikztw3u79&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/SITUAZIONE CONTABILE AL 2026_10_29/FATTURA 2600556 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600557 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/eirbcpom597qfd9mty2uh/FATTURA-2600557-DEL-2026_10_29.pdf?rlkey=i5m0r8qy8gl6buntd9zr4f4s5&dl=0?raw=1",
+                      "dimensione_kb": 61,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/SITUAZIONE CONTABILE AL 2026_10_29/FATTURA 2600557 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE C001308.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/qyqmhndc426dzhzyl8sx4/SITUAZIONE-CONTABILE-C001308.pdf?rlkey=q1wze24x3lgzgkd1qex65bgqg&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/SITUAZIONE CONTABILE AL 2026_10_29/SITUAZIONE CONTABILE C001308.pdf"
+                    }
+                  ],
+                  "_totale_file": 4
                 }
               ],
               "file": [
@@ -117348,7 +117388,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MARATEA SERVIZI/_CLIENTE C001308 MARATEA SERVIZI.txt"
                 }
               ],
-              "_totale_file": 60
+              "_totale_file": 64
             },
             {
               "nome": "MARATIA",
@@ -119659,7 +119699,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 967
+          "_totale_file": 971
         },
         {
           "nome": "MARCELLINA",
@@ -123182,7 +123222,7 @@
                           "nome": "WhatsApp Image 2023-05-05 at 20.16.50 (7).jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/cngyfd2swcxfp9pih39rv/WhatsApp-Image-2023-05-05-at-20.16.50-7.jpeg?rlkey=oxu6uj8hj1lxm92f2d7asdrt5&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 104,
                           "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE MARATEA/GRATTUGIA SIRMAN/WhatsApp Image 2023-05-05 at 20.16.50 (7).jpeg"
                         },
@@ -128609,7 +128649,7 @@
                   "nome": "H2A COPIA TITOLI FATTURA RATIONAL.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/sobwxb91m37jrf63rvzz9/H2A-COPIA-TITOLI-FATTURA-RATIONAL.pdf?rlkey=ncju5r8xjp27vioex1amr77oa&dl=0?raw=1",
                   "dimensione_kb": 464,
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/H2A/H2A COPIA TITOLI FATTURA RATIONAL.pdf"
                 },
@@ -144130,7 +144170,7 @@
                       "nome": "ATC.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/ulc6dkudcvfjf1cyq7p3n/ATC.pdf?rlkey=hacsw809uk9fpdq3dfb9vvsip&dl=0?raw=1",
                       "dimensione_kb": 743,
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAPRI/LUILORE SRLS/ARCHIVIO/ATC.pdf"
                     },
@@ -150205,12 +150245,12 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/MACELLERIA COSENTINO SITUAZIONE CONTABILE AL 2026_10_16/MACELLERIA COSENTINO Ordine cliente_260448_20261016_211726 RIF. ATTREZZATURE MACELLERIA Basato su Offerte di vendita 260418.pdf"
                     },
                     {
-                      "nome": "SITUAZIONE CONTABILE - C051437 MACELLERIA COSENTINO.pdf",
+                      "nome": "SITUAZIONE CONTABILE - C051437 MACELLERIA COSENTINO SENZA GUIDOVIA.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/evcfjs7e59x1hnw5nkn5s/SITUAZIONE-CONTABILE-C051437-MACELLERIA-COSENTINO.pdf?rlkey=17382utwdulaud7wz8n0769k9&dl=0?raw=1",
+                      "link": "https://www.dropbox.com/scl/fi/evcfjs7e59x1hnw5nkn5s/SITUAZIONE-CONTABILE-C051437-MACELLERIA-COSENTINO-SENZA-GUIDOVIA.pdf?rlkey=17382utwdulaud7wz8n0769k9&dl=0?raw=1",
                       "dimensione_kb": 57,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/MACELLERIA COSENTINO SITUAZIONE CONTABILE AL 2026_10_16/SITUAZIONE CONTABILE - C051437 MACELLERIA COSENTINO.pdf"
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MACELLERIA COSENTINO/MACELLERIA COSENTINO SITUAZIONE CONTABILE AL 2026_10_16/SITUAZIONE CONTABILE - C051437 MACELLERIA COSENTINO SENZA GUIDOVIA.pdf"
                     }
                   ],
                   "_totale_file": 2
