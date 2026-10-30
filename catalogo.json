@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-30T07:28:56Z",
-  "totale_file": 28245,
+  "generato": "2026-10-30T09:44:44Z",
+  "totale_file": 28250,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -201310,7 +201310,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5271,
+      "totale_file": 5276,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -201685,6 +201685,22 @@
               "link": "https://www.dropbox.com/scl/fi/t1vtwtwfmqzvgg3dzwlx6/COLD-LINE-srl-Entrata-merci-da-fornitore_260186_20260923_220341-RIF.-RUSTICHELLI-ARMADIO-LEVTRONIC-900-ARMADIO-FRIGO-SMART-E-ARMADIO-CONGELATORE.pdf?rlkey=jzk3gm12urij1x9hddsmk6gob&dl=0?raw=1",
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260186_20260923_220341 RIF. RUSTICHELLI ARMADIO LEVTRONIC 900 ARMADIO FRIGO SMART E ARMADIO CONGELATORE.pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260255_20261029_090036 RIF. MeM Top 4P GN 2263×700×40 P Basato su Ordini d'acquisto 260217..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1zj1n20nohqtypfcw3s64/COLD-LINE-srl-Entrata-merci-da-fornitore_260255_20261029_090036-RIF.-MeM-Top-4P-GN-2263-700-40-P-Basato-su-Ordini-d-acquisto-260217..pdf?rlkey=9xotmmt7ymfjxz373bhhn3x2e&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260255_20261029_090036 RIF. MeM Top 4P GN 2263×700×40 P Basato su Ordini d'acquisto 260217..pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260256_20261029_090108 RIF. GRIGLIA PLASTIFICATA GN 21 Basato su Ordini d'acquisto 260218..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3j2i2cqr7ch7gise8k1sm/COLD-LINE-srl-Entrata-merci-da-fornitore_260256_20261029_090108-RIF.-GRIGLIA-PLASTIFICATA-GN-21-Basato-su-Ordini-d-acquisto-260218..pdf?rlkey=04pgyz0b5ch7dp1c6h5y1fkb9&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260256_20261029_090108 RIF. GRIGLIA PLASTIFICATA GN 21 Basato su Ordini d'acquisto 260218..pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -202367,6 +202383,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MORETTI FIMEL DDT DICEMBRE 2025 RIF.FA' TU.JPEG"
             },
             {
+              "nome": "MORINI ENTRATA MERCI 0023175.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/grnjaafu7i7qsd8xrpcgv/MORINI-ENTRATA-MERCI-0023175.pdf?rlkey=0e05i7gwzhv0r4a8buaes8et9&dl=0?raw=1",
+              "dimensione_kb": 88,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MORINI ENTRATA MERCI 0023175.pdf"
+            },
+            {
               "nome": "MORINI s.r.l. Entrata merci da fornitore_260075_20260520_222002 RIF. GRISOLIA CASTELLUCCIO CLIENTE WEB Basato su Ordini cliente 2.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -202695,6 +202719,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SIRMAN DDT N° 2025141250 DEL 19.12.2025.pdf"
             },
             {
+              "nome": "SIRMAN ENTRATA MERCI 2026131978.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/a00u0wa2qj22vy4kf9w29/SIRMAN-ENTRATA-MERCI-2026131978.pdf?rlkey=9qmd9drpnyhv29y770p7w0d34&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/SIRMAN ENTRATA MERCI 2026131978.pdf"
+            },
+            {
               "nome": "SIRMAN spa Entrata merci da fornitore_260068_20260520_171929 RIF. Basato su Ordini cliente 260082.De Michele Alejandro s.a.s..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -202807,7 +202839,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 184
+          "_totale_file": 188
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -245715,6 +245747,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE_IMPORTO_TITOLI_28_05_2026.xlsx - collegamento.lnk"
             },
             {
+              "nome": "COMENDA CONFERMA ORDINE 19977 DEL 28_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5olaidkfbru76w1jlszia/COMENDA-CONFERMA-ORDINE-19977-DEL-28_10_2026.pdf?rlkey=2j2nvcer7dl98vtwwjfw0utze&dl=0?raw=1",
+              "dimensione_kb": 76,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COMENDA CONFERMA ORDINE 19977 DEL 28_10_2026.pdf"
+            },
+            {
               "nome": "FIMAR CONFERMA ORDINE 8804W DEL 22_10_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -245803,7 +245843,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3873
+          "_totale_file": 3874
         }
       ],
       "file": []
