@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-30T09:44:44Z",
-  "totale_file": 28250,
+  "generato": "2026-10-30T10:52:15Z",
+  "totale_file": 28252,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -245852,7 +245852,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2478,
+      "totale_file": 2480,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -246668,9 +246668,17 @@
               "link": "https://www.dropbox.com/scl/fi/7r1rjepe3btt05ty9me9q/SIRMAN-RICEVUTA-AR-DEL-29_07_2026.pdf?rlkey=e3n7nfeyso4fcoq1fpkio5k26&dl=0?raw=1",
               "dimensione_kb": 685,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/SIRMAN RICEVUTA AR DEL 29_07_2026.pdf"
+            },
+            {
+              "nome": "TRASPORTI AMETRANO SRL COPIA TITOLO MPS 30_10_2026 671,00.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/iif18c89vr6ng8hie6spw/TRASPORTI-AMETRANO-SRL-COPIA-TITOLO-MPS-30_10_2026-671-00.pdf?rlkey=xc9x9ts3a3vpshp9hi8a3rt6f&dl=0?raw=1",
+              "dimensione_kb": 810,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/TRASPORTI AMETRANO SRL COPIA TITOLO MPS 30_10_2026 671,00.pdf"
             }
           ],
-          "_totale_file": 70
+          "_totale_file": 71
         },
         {
           "nome": "PAGAMENTI IN USCITA BONIFICI",
@@ -267600,6 +267608,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/KAREL Dettaglio bonifico istantaneo DEL 28_07_2026.pdf"
             },
             {
+              "nome": "KAREL Dettaglio bonifico istantaneo DEL 30_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/w51ekp1ubl8jovos3iqhb/KAREL-Dettaglio-bonifico-istantaneo-DEL-30_10_2026.pdf?rlkey=fhjghrk9fx0o2t6iap1scd5ba&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/KAREL Dettaglio bonifico istantaneo DEL 30_10_2026.pdf"
+            },
+            {
               "nome": "KARL Dettaglio bonifico istantaneo DEL 29_07_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -268056,7 +268072,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2381
+          "_totale_file": 2382
         }
       ],
       "file": []
