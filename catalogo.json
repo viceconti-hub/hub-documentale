@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-31T03:45:04Z",
-  "totale_file": 28259,
+  "generato": "2026-10-31T07:14:19Z",
+  "totale_file": 28275,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7554,
+      "totale_file": 7570,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -15588,6 +15588,174 @@
               "_totale_file": 20
             },
             {
+              "nome": "2026_10_30 PANAINO ARROTONDATRICE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO ARROTONDATRICE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "OFFERTA_260501_PANAINO_ARROTONDATRICE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bbo8gete23trdv8t0a7p9/OFFERTA_260501_PANAINO_ARROTONDATRICE.pdf?rlkey=c600hc763xj2y04d7jb04vq7f&dl=0?raw=1",
+                  "dimensione_kb": 437,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO ARROTONDATRICE/OFFERTA_260501_PANAINO_ARROTONDATRICE.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/gvhkex47ocy7cjvid4tpa/PREVENTIVO.json?rlkey=tl28k0e5820dt1mnhnxfdwky1&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO ARROTONDATRICE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_PANAINO_ARROTONDATRICE_2026-10-30_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/b7trqrh1wf7s5tilis3km/PREVENTIVO_PANAINO_ARROTONDATRICE_2026-10-30_LAYOUT_AMPIO.md?rlkey=cgv7nu7n2n9mklt7440hul0as&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO ARROTONDATRICE/PREVENTIVO_PANAINO_ARROTONDATRICE_2026-10-30_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_PANAINO_ARROTONDATRICE_2026-10-30_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/spd3zjgs5gcaucgk70bl5/PREVENTIVO_PANAINO_ARROTONDATRICE_2026-10-30_LAYOUT_AMPIO.pdf?rlkey=m51kfj8sr0ci0l8v908bxj2vv&dl=0?raw=1",
+                  "dimensione_kb": 117,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO ARROTONDATRICE/PREVENTIVO_PANAINO_ARROTONDATRICE_2026-10-30_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 4
+            },
+            {
+              "nome": "2026_10_30 PANAINO FORMATRICE RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO FORMATRICE RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "spezzatrici-formatrici-ar-800-big.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/gexv4y8uxds4z60xbudf3/spezzatrici-formatrici-ar-800-big.jpg?rlkey=05ltkdsiep5i6exadlzqll4m0&dl=0?raw=1",
+                  "dimensione_kb": 54,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO FORMATRICE RISORSE/spezzatrici-formatrici-ar-800-big.jpg"
+                },
+                {
+                  "nome": "spezzatrici-formatrici-ar-800-det-big.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/qr8vpzs174ccuq50ot0vu/spezzatrici-formatrici-ar-800-det-big.jpg?rlkey=aoub3e1if14f8ukeud2zs2u3h&dl=0?raw=1",
+                  "dimensione_kb": 84,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO FORMATRICE RISORSE/spezzatrici-formatrici-ar-800-det-big.jpg"
+                },
+                {
+                  "nome": "spezzatrici-formatrici-ar.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gufjwb26g7yyy6kd0lcym/spezzatrici-formatrici-ar.pdf?rlkey=iaxhwj4mt1q09tfejuz5le9cy&dl=0?raw=1",
+                  "dimensione_kb": 28470,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO FORMATRICE RISORSE/spezzatrici-formatrici-ar.pdf"
+                }
+              ],
+              "_totale_file": 3
+            },
+            {
+              "nome": "2026_10_30 PANAINO RUA IMPASTATRICE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO RUA IMPASTATRICE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "OFFERTA_260500_PANAINO_RUA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dhnx5aqxchxc09c0c1jce/OFFERTA_260500_PANAINO_RUA.pdf?rlkey=fjh3ztnqmcb8cgpgh0oi0r492&dl=0?raw=1",
+                  "dimensione_kb": 899,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO RUA IMPASTATRICE/OFFERTA_260500_PANAINO_RUA.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/4akwrtzx8z3tt210j6xuj/PREVENTIVO.json?rlkey=twtezdm2tfbqfrs4tm8u2tjgl&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO RUA IMPASTATRICE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_PANAINO_RUA_2026-10-30.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lmuxmdcei1z0g2e0ojtpm/PREVENTIVO_PANAINO_RUA_2026-10-30.pdf?rlkey=dhy15whc3ma835bmsxnnda8kw&dl=0?raw=1",
+                  "dimensione_kb": 161,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO RUA IMPASTATRICE/PREVENTIVO_PANAINO_RUA_2026-10-30.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO_PANAINO_RUA_2026-10-30_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/jx1r5dzs5e67r54t3kim6/PREVENTIVO_PANAINO_RUA_2026-10-30_LAYOUT_AMPIO.md?rlkey=jqe50dvfs8zuarlzsev18xhl9&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO RUA IMPASTATRICE/PREVENTIVO_PANAINO_RUA_2026-10-30_LAYOUT_AMPIO.md"
+                }
+              ],
+              "_totale_file": 4
+            },
+            {
+              "nome": "2026_10_30 PANAINO RUA IMPASTATRICE RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO RUA IMPASTATRICE RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Nuovo Documento di testo.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/pzd1isq6l2q4cmtbporws/Nuovo-Documento-di-testo.txt?rlkey=24kfef40zz246mvzxtgxsk683&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO RUA IMPASTATRICE RISORSE/Nuovo Documento di testo.txt"
+                },
+                {
+                  "nome": "impastatrici-a-spirale-automatica-sp01.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/5p45uugqqj0e27a2oghoq/impastatrici-a-spirale-automatica-sp01.pdf?rlkey=roxnojm012qpyc45qwqk3qf0p&dl=0?raw=1",
+                  "dimensione_kb": 655,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO RUA IMPASTATRICE RISORSE/impastatrici-a-spirale-automatica-sp01.pdf"
+                },
+                {
+                  "nome": "impastatrici-a-spirale-automatica-sp401-601-801-big.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/upe17vbjdud8jh4vm0ygu/impastatrici-a-spirale-automatica-sp401-601-801-big.jpg?rlkey=mroitid2iqqvx8ascowtkccrq&dl=0?raw=1",
+                  "dimensione_kb": 82,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PANAINO RUA IMPASTATRICE RISORSE/impastatrici-a-spirale-automatica-sp401-601-801-big.jpg"
+                }
+              ],
+              "_totale_file": 3
+            },
+            {
+              "nome": "2026_10_30 PERRETTA SERVICE FORNO BERTO'S USATO",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PERRETTA SERVICE FORNO BERTO'S USATO",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "VICECONTI OFFERTE SPECIALI FINO AL 31 AGOSTO 2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gmsm1bjx39snjlkh59qat/VICECONTI-OFFERTE-SPECIALI-FINO-AL-31-AGOSTO-2026.pdf?rlkey=wrisw53t06elmv6rrxq1ahtea&dl=0?raw=1",
+                  "dimensione_kb": 275,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PERRETTA SERVICE FORNO BERTO'S USATO/VICECONTI OFFERTE SPECIALI FINO AL 31 AGOSTO 2026.pdf"
+                },
+                {
+                  "nome": "VICECONTI OFFERTE SPECIALI FORNO QUIBI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nehgxe6in0tsq9226y2gw/VICECONTI-OFFERTE-SPECIALI-FORNO-QUIBI.pdf?rlkey=60nqan9v2ht7c4cylmj0lkk54&dl=0?raw=1",
+                  "dimensione_kb": 137,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_30 PERRETTA SERVICE FORNO BERTO'S USATO/VICECONTI OFFERTE SPECIALI FORNO QUIBI.pdf"
+                }
+              ],
+              "_totale_file": 2
+            },
+            {
               "nome": "2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR",
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR",
               "cartelle": [],
@@ -29414,7 +29582,7 @@
                           "nome": "AS-5035_E_ED02_19.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/l4kdqye056bu4jory8tqk/AS-5035_E_ED02_19.pdf?rlkey=03h4w1mus5nj0ovity9t0klh6&dl=0?raw=1",
                           "dimensione_kb": 279,
                           "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/ARCHIVIO OFFERTE CLIENTI AL 2021/I NORMANNI/AS-5035_E_ED02_19.pdf"
                         },
@@ -71744,7 +71912,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5635
+          "_totale_file": 5651
         },
         {
           "nome": "ORDINI CLIENTE",
