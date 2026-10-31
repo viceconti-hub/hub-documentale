@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-30T11:07:51Z",
-  "totale_file": 28252,
+  "generato": "2026-10-31T01:42:33Z",
+  "totale_file": 28260,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -79540,7 +79540,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7879,
+      "totale_file": 7887,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -116788,6 +116788,54 @@
               "_totale_file": 1
             },
             {
+              "nome": "MACELLERIA PECORARO CRISTIANO",
+              "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MACELLERIA PECORARO CRISTIANO",
+              "cartelle": [
+                {
+                  "nome": "MACELLERIA PECORARIO CRISTIANO AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MACELLERIA PECORARO CRISTIANO/MACELLERIA PECORARIO CRISTIANO AREA TECNICA",
+                  "cartelle": [
+                    {
+                      "nome": "INSACCATRICE SIRMAN MOD.IS 16 IDR VERT MATRICOLA 00101661",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MACELLERIA PECORARO CRISTIANO/MACELLERIA PECORARIO CRISTIANO AREA TECNICA/INSACCATRICE SIRMAN MOD.IS 16 IDR VERT MATRICOLA 00101661",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "INSACCATRICE SIRMAN MATRICOLA 00101661 DATI MACCHINA .jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/j8pww9atu635jy1hjojic/INSACCATRICE-SIRMAN-MATRICOLA-00101661-DATI-MACCHINA.jpg?rlkey=jtzi0fw1scjicydk25u3ox43s&dl=0?raw=1",
+                          "dimensione_kb": 129,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MACELLERIA PECORARO CRISTIANO/MACELLERIA PECORARIO CRISTIANO AREA TECNICA/INSACCATRICE SIRMAN MOD.IS 16 IDR VERT MATRICOLA 00101661/INSACCATRICE SIRMAN MATRICOLA 00101661 DATI MACCHINA .jpg"
+                        },
+                        {
+                          "nome": "INSACCATRICE SIRMAN MATRICOLA 00101661 FOTO MACCHINA 2.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/lr8jmhrvu6r00iffnr9zv/INSACCATRICE-SIRMAN-MATRICOLA-00101661-FOTO-MACCHINA-2.jpg?rlkey=oxc4wfgp8gx7d2twq19gnjyaw&dl=0?raw=1",
+                          "dimensione_kb": 175,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MACELLERIA PECORARO CRISTIANO/MACELLERIA PECORARIO CRISTIANO AREA TECNICA/INSACCATRICE SIRMAN MOD.IS 16 IDR VERT MATRICOLA 00101661/INSACCATRICE SIRMAN MATRICOLA 00101661 FOTO MACCHINA 2.jpg"
+                        },
+                        {
+                          "nome": "INSACCATRICE SIRMAN MATRICOLA 00101661 FOTO MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/z5d72nxwhgf7rpf6gkleg/INSACCATRICE-SIRMAN-MATRICOLA-00101661-FOTO-MACCHINA.jpg?rlkey=wbb2tgnaeietucisodttygute&dl=0?raw=1",
+                          "dimensione_kb": 145,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MACELLERIA PECORARO CRISTIANO/MACELLERIA PECORARIO CRISTIANO AREA TECNICA/INSACCATRICE SIRMAN MOD.IS 16 IDR VERT MATRICOLA 00101661/INSACCATRICE SIRMAN MATRICOLA 00101661 FOTO MACCHINA.jpg"
+                        }
+                      ],
+                      "_totale_file": 3
+                    }
+                  ],
+                  "file": [],
+                  "_totale_file": 3
+                }
+              ],
+              "file": [],
+              "_totale_file": 3
+            },
+            {
               "nome": "MANA'",
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/MANA'",
               "cartelle": [
@@ -119444,6 +119492,14 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/AFFETTATRICE BERKEL FIUMICELLO/EMAIL.jpg"
                         },
                         {
+                          "nome": "Gmail - R_ Viceconti Snc_ richiesta di esploso RIF. VELARDI FIUMICELLO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/zjxo7alxzzx54sjn2kn1k/Gmail-R_-Viceconti-Snc_-richiesta-di-esploso-RIF.-VELARDI-FIUMICELLO.pdf?rlkey=rhwr5dmkgl5e1uzp4lvixa22i&dl=0?raw=1",
+                          "dimensione_kb": 190,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/AFFETTATRICE BERKEL FIUMICELLO/Gmail - R_ Viceconti Snc_ richiesta di esploso RIF. VELARDI FIUMICELLO.pdf"
+                        },
+                        {
                           "nome": "VELARDI AFFETTATRICE BERKEL DATI MACCHINA.png",
                           "tipo": "Immagine",
                           "icona": "🖼️",
@@ -119500,7 +119556,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/AFFETTATRICE BERKEL FIUMICELLO/image.png"
                         }
                       ],
-                      "_totale_file": 9
+                      "_totale_file": 10
                     },
                     {
                       "nome": "AFFETTATRICE ITALIANA MACCHI 370",
@@ -119689,7 +119745,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/Piatto VULCANO TV 350-370 BS Vers.1.pdf"
                     }
                   ],
-                  "_totale_file": 27
+                  "_totale_file": 28
                 },
                 {
                   "nome": "VELARDI PIAZZA EUROPA FORNITURA ARREDO INOX MAGGIO 2026",
@@ -119870,7 +119926,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/_CLIENTE C001093 VELARDI SRL.txt"
                 }
               ],
-              "_totale_file": 47
+              "_totale_file": 48
             }
           ],
           "file": [
@@ -119883,7 +119939,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 971
+          "_totale_file": 975
         },
         {
           "nome": "MARCELLINA",
@@ -123406,7 +123462,7 @@
                           "nome": "WhatsApp Image 2023-05-05 at 20.16.50 (7).jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/cngyfd2swcxfp9pih39rv/WhatsApp-Image-2023-05-05-at-20.16.50-7.jpeg?rlkey=oxu6uj8hj1lxm92f2d7asdrt5&dl=0?raw=1",
                           "dimensione_kb": 104,
                           "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/AREA TECNICA GRANSOLE MARATEA/GRATTUGIA SIRMAN/WhatsApp Image 2023-05-05 at 20.16.50 (7).jpeg"
                         },
@@ -156258,6 +156314,208 @@
               "_totale_file": 2
             },
             {
+              "nome": "CAPUTO VINCENZO",
+              "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO",
+              "cartelle": [
+                {
+                  "nome": "CAPUTO VINCENZO AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA",
+                  "cartelle": [
+                    {
+                      "nome": "ATTREZZATURE TRUBA",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/ATTREZZATURE TRUBA",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "SIT ATTREZZATURE TRUBA DATI MACCHINA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/gux16q4vmh9fc3icmmu7t/SIT-ATTREZZATURE-TRUBA-DATI-MACCHINA.pdf?rlkey=6k228km8j4tlue9ey86kiyrt5&dl=0?raw=1",
+                          "dimensione_kb": 63,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/ATTREZZATURE TRUBA/SIT ATTREZZATURE TRUBA DATI MACCHINA.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "FORNO TECNOEKA KF1001GIXAL",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/FORNO TECNOEKA KF1001GIXAL",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "FORNO TECNOEKA MICRO CODICE LF USATO DA SIT Screenshot 2025-09-12 155421.png",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/nd8uo6vdz1ivs2j88nwku/FORNO-TECNOEKA-MICRO-CODICE-LF-USATO-DA-SIT-Screenshot-2025-09-12-155421.png?rlkey=xnlc9vg6o5k50llt108hue9x5&dl=0?raw=1",
+                          "dimensione_kb": 153,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/FORNO TECNOEKA KF1001GIXAL/FORNO TECNOEKA MICRO CODICE LF USATO DA SIT Screenshot 2025-09-12 155421.png"
+                        },
+                        {
+                          "nome": "FORNO TECNOEKA MICRO PORTA CODICE LF Screenshot 2025-09-12 155245.png",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/re974wm4l5yhi42qe35dd/FORNO-TECNOEKA-MICRO-PORTA-CODICE-LF-Screenshot-2025-09-12-155245.png?rlkey=erqxi5r9g2tgd2t7yb37rrxmo&dl=0?raw=1",
+                          "dimensione_kb": 150,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/FORNO TECNOEKA KF1001GIXAL/FORNO TECNOEKA MICRO PORTA CODICE LF Screenshot 2025-09-12 155245.png"
+                        },
+                        {
+                          "nome": "SIT BOLLA DI ASSISTENZA FORNO TECNOEKA Consegna_240610_20250912_154439.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/5h4yvryj9vje6sem426uv/SIT-BOLLA-DI-ASSISTENZA-FORNO-TECNOEKA-Consegna_240610_20250912_154439.pdf?rlkey=4ljeak6nzm9gmtxtfrid28asj&dl=0?raw=1",
+                          "dimensione_kb": 62,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/FORNO TECNOEKA KF1001GIXAL/SIT BOLLA DI ASSISTENZA FORNO TECNOEKA Consegna_240610_20250912_154439.pdf"
+                        },
+                        {
+                          "nome": "SIT DDT GUARNIZIONE FORNO Consegna_240530_20250912_154722.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/py4nphqf11qdh17vi632u/SIT-DDT-GUARNIZIONE-FORNO-Consegna_240530_20250912_154722.pdf?rlkey=1bdwp3n58zwppo9hdh47m5jyn&dl=0?raw=1",
+                          "dimensione_kb": 59,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/FORNO TECNOEKA KF1001GIXAL/SIT DDT GUARNIZIONE FORNO Consegna_240530_20250912_154722.pdf"
+                        },
+                        {
+                          "nome": "TECNOEKA KF1001 ESPLOSO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/bkazw763i322f4ba7wu6t/TECNOEKA-KF1001-ESPLOSO.pdf?rlkey=pmnmwkd8zi6ugnjic7h7hrnjo&dl=0?raw=1",
+                          "dimensione_kb": 201,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/FORNO TECNOEKA KF1001GIXAL/TECNOEKA KF1001 ESPLOSO.pdf"
+                        }
+                      ],
+                      "_totale_file": 5
+                    },
+                    {
+                      "nome": "LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200 DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/5razzrt0gnz3ppe9jytyi/LAVASTOVIGLIE-A-CAPPOTTA-ATA-MOD.-AT1200-DATI-MACCHINA.jpg?rlkey=83o8v3r3aq75nwzkyu3z79kk8&dl=0?raw=1",
+                          "dimensione_kb": 144,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200 DATI MACCHINA.jpg"
+                        },
+                        {
+                          "nome": "LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO ELETTRICO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/yd85nki914jp1swpo1dns/LAVASTOVIGLIE-A-CAPPOTTA-ATA-MOD.AT-1200-ESPLOSO-ELETTRICO.pdf?rlkey=o061dfmjkggagk2bmg6c7pbfx&dl=0?raw=1",
+                          "dimensione_kb": 161,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO ELETTRICO.pdf"
+                        },
+                        {
+                          "nome": "LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO MECCANICO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/8hop40aw9o8wm3jobgk1d/LAVASTOVIGLIE-A-CAPPOTTA-ATA-MOD.AT-1200-ESPLOSO-MECCANICO.pdf?rlkey=3e1c5wq3befbayr9qk1md88zu&dl=0?raw=1",
+                          "dimensione_kb": 163,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO MECCANICO.pdf"
+                        },
+                        {
+                          "nome": "LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO POMPA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/t5z44vbmus9bb0szk5q6b/LAVASTOVIGLIE-A-CAPPOTTA-ATA-MOD.AT-1200-ESPLOSO-POMPA.pdf?rlkey=orw0fx0znsji1ar61uftqucz4&dl=0?raw=1",
+                          "dimensione_kb": 152,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO POMPA.pdf"
+                        }
+                      ],
+                      "_totale_file": 4
+                    }
+                  ],
+                  "file": [
+                    {
+                      "nome": "5416.079.01.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/7g5iipzejjt1e57y5mrcp/5416.079.01.pdf?rlkey=h4hv08ghu9b09to9nq72w6do1&dl=0?raw=1",
+                      "dimensione_kb": 629,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/5416.079.01.pdf"
+                    },
+                    {
+                      "nome": "DE FILPO Consegna_171475_20250912_154106.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/0b0exzja43h95aait5nyg/DE-FILPO-Consegna_171475_20250912_154106.pdf?rlkey=mhj4lwvw6f40ymmsm617u63wl&dl=0?raw=1",
+                      "dimensione_kb": 55,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/DE FILPO Consegna_171475_20250912_154106.pdf"
+                    },
+                    {
+                      "nome": "stampaRicambi.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/1oix49lqno41je2rqc0ns/stampaRicambi.pdf?rlkey=up671icefvfwlhx2euo757htg&dl=0?raw=1",
+                      "dimensione_kb": 1625,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/stampaRicambi.pdf"
+                    }
+                  ],
+                  "_totale_file": 13
+                }
+              ],
+              "file": [
+                {
+                  "nome": "1669_1_PDD2023-06_ITA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/if1jb0h0c5co5o9lecpje/1669_1_PDD2023-06_ITA.pdf?rlkey=lvonsjizvg4kgvbuimjq2pi15&dl=0?raw=1",
+                  "dimensione_kb": 1922,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/1669_1_PDD2023-06_ITA.pdf"
+                },
+                {
+                  "nome": "1689086700299.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/15d9brljzv6pxle5ng3da/1689086700299.pdf?rlkey=agrw5e3lwavle4ghhyqq439bb&dl=0?raw=1",
+                  "dimensione_kb": 349,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/1689086700299.pdf"
+                },
+                {
+                  "nome": "2023-08-07_195932.bmp",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/3jnu8tjfnixcb97ybuyde/2023-08-07_195932.bmp?rlkey=x8p2om6ch45uaffd9r3otamqv&dl=0?raw=1",
+                  "dimensione_kb": 207,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/2023-08-07_195932.bmp"
+                },
+                {
+                  "nome": "5415.919.00.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/w5pzqocgaixwetl3hw1s5/5415.919.00.pdf?rlkey=zcpxkjsqo2qqut2xllyhu7jaw&dl=0?raw=1",
+                  "dimensione_kb": 61,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/5415.919.00.pdf"
+                },
+                {
+                  "nome": "5416.065.00.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bgl6si1hehinod9mp0s22/5416.065.00.pdf?rlkey=cxh9t0xhh5j9647nfnr1tvvu0&dl=0?raw=1",
+                  "dimensione_kb": 436,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/5416.065.00.pdf"
+                },
+                {
+                  "nome": "CAPUTO VINCENZO Offerta di vendita_220272_20220509_124044.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yk1z7q4iweh56fb4sjvkj/CAPUTO-VINCENZO-Offerta-di-vendita_220272_20220509_124044.pdf?rlkey=035hfarij0dkl8sjl2cyqpggg&dl=0?raw=1",
+                  "dimensione_kb": 87,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO Offerta di vendita_220272_20220509_124044.pdf"
+                },
+                {
+                  "nome": "temp5410.601.00.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ly2qrf8lgvwxc9rb0ffqr/temp5410.601.00.pdf?rlkey=k20oph3wae15tma1zbfq7vxrj&dl=0?raw=1",
+                  "dimensione_kb": 766,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/temp5410.601.00.pdf"
+                }
+              ],
+              "_totale_file": 20
+            },
+            {
               "nome": "F.LLI MASTROLORENZO FALEGNAMERIA",
               "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/F.LLI MASTROLORENZO FALEGNAMERIA",
               "cartelle": [],
@@ -157263,172 +157521,10 @@
                 }
               ],
               "_totale_file": 56
-            },
-            {
-              "nome": "SIT DI CAPUTO VINCENZO",
-              "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO",
-              "cartelle": [
-                {
-                  "nome": "AREA TECNICA SIT DI CAPUTO VINCENZO",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO",
-                  "cartelle": [
-                    {
-                      "nome": "ATTREZZATURE TRUBA",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/ATTREZZATURE TRUBA",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "SIT ATTREZZATURE TRUBA DATI MACCHINA.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/gux16q4vmh9fc3icmmu7t/SIT-ATTREZZATURE-TRUBA-DATI-MACCHINA.pdf?rlkey=6k228km8j4tlue9ey86kiyrt5&dl=0?raw=1",
-                          "dimensione_kb": 63,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/ATTREZZATURE TRUBA/SIT ATTREZZATURE TRUBA DATI MACCHINA.pdf"
-                        }
-                      ],
-                      "_totale_file": 1
-                    },
-                    {
-                      "nome": "FORNO TECNOEKA KF1001GIXAL",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/FORNO TECNOEKA KF1001GIXAL",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "FORNO TECNOEKA MICRO CODICE LF USATO DA SIT Screenshot 2025-09-12 155421.png",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/nd8uo6vdz1ivs2j88nwku/FORNO-TECNOEKA-MICRO-CODICE-LF-USATO-DA-SIT-Screenshot-2025-09-12-155421.png?rlkey=xnlc9vg6o5k50llt108hue9x5&dl=0?raw=1",
-                          "dimensione_kb": 153,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/FORNO TECNOEKA KF1001GIXAL/FORNO TECNOEKA MICRO CODICE LF USATO DA SIT Screenshot 2025-09-12 155421.png"
-                        },
-                        {
-                          "nome": "FORNO TECNOEKA MICRO PORTA CODICE LF Screenshot 2025-09-12 155245.png",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/re974wm4l5yhi42qe35dd/FORNO-TECNOEKA-MICRO-PORTA-CODICE-LF-Screenshot-2025-09-12-155245.png?rlkey=erqxi5r9g2tgd2t7yb37rrxmo&dl=0?raw=1",
-                          "dimensione_kb": 150,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/FORNO TECNOEKA KF1001GIXAL/FORNO TECNOEKA MICRO PORTA CODICE LF Screenshot 2025-09-12 155245.png"
-                        },
-                        {
-                          "nome": "SIT BOLLA DI ASSISTENZA FORNO TECNOEKA Consegna_240610_20250912_154439.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/5h4yvryj9vje6sem426uv/SIT-BOLLA-DI-ASSISTENZA-FORNO-TECNOEKA-Consegna_240610_20250912_154439.pdf?rlkey=4ljeak6nzm9gmtxtfrid28asj&dl=0?raw=1",
-                          "dimensione_kb": 62,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/FORNO TECNOEKA KF1001GIXAL/SIT BOLLA DI ASSISTENZA FORNO TECNOEKA Consegna_240610_20250912_154439.pdf"
-                        },
-                        {
-                          "nome": "SIT DDT GUARNIZIONE FORNO Consegna_240530_20250912_154722.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/py4nphqf11qdh17vi632u/SIT-DDT-GUARNIZIONE-FORNO-Consegna_240530_20250912_154722.pdf?rlkey=1bdwp3n58zwppo9hdh47m5jyn&dl=0?raw=1",
-                          "dimensione_kb": 59,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/FORNO TECNOEKA KF1001GIXAL/SIT DDT GUARNIZIONE FORNO Consegna_240530_20250912_154722.pdf"
-                        },
-                        {
-                          "nome": "TECNOEKA KF1001 ESPLOSO.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/bkazw763i322f4ba7wu6t/TECNOEKA-KF1001-ESPLOSO.pdf?rlkey=pmnmwkd8zi6ugnjic7h7hrnjo&dl=0?raw=1",
-                          "dimensione_kb": 201,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/FORNO TECNOEKA KF1001GIXAL/TECNOEKA KF1001 ESPLOSO.pdf"
-                        }
-                      ],
-                      "_totale_file": 5
-                    }
-                  ],
-                  "file": [
-                    {
-                      "nome": "5416.079.01.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/7g5iipzejjt1e57y5mrcp/5416.079.01.pdf?rlkey=h4hv08ghu9b09to9nq72w6do1&dl=0?raw=1",
-                      "dimensione_kb": 629,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/5416.079.01.pdf"
-                    },
-                    {
-                      "nome": "DE FILPO Consegna_171475_20250912_154106.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/0b0exzja43h95aait5nyg/DE-FILPO-Consegna_171475_20250912_154106.pdf?rlkey=mhj4lwvw6f40ymmsm617u63wl&dl=0?raw=1",
-                      "dimensione_kb": 55,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/DE FILPO Consegna_171475_20250912_154106.pdf"
-                    },
-                    {
-                      "nome": "stampaRicambi.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/1oix49lqno41je2rqc0ns/stampaRicambi.pdf?rlkey=up671icefvfwlhx2euo757htg&dl=0?raw=1",
-                      "dimensione_kb": 1625,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/AREA TECNICA SIT DI CAPUTO VINCENZO/stampaRicambi.pdf"
-                    }
-                  ],
-                  "_totale_file": 9
-                }
-              ],
-              "file": [
-                {
-                  "nome": "1669_1_PDD2023-06_ITA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/if1jb0h0c5co5o9lecpje/1669_1_PDD2023-06_ITA.pdf?rlkey=lvonsjizvg4kgvbuimjq2pi15&dl=0?raw=1",
-                  "dimensione_kb": 1922,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/1669_1_PDD2023-06_ITA.pdf"
-                },
-                {
-                  "nome": "1689086700299.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/15d9brljzv6pxle5ng3da/1689086700299.pdf?rlkey=agrw5e3lwavle4ghhyqq439bb&dl=0?raw=1",
-                  "dimensione_kb": 349,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/1689086700299.pdf"
-                },
-                {
-                  "nome": "2023-08-07_195932.bmp",
-                  "tipo": "File",
-                  "icona": "📎",
-                  "link": "https://www.dropbox.com/scl/fi/3jnu8tjfnixcb97ybuyde/2023-08-07_195932.bmp?rlkey=x8p2om6ch45uaffd9r3otamqv&dl=0?raw=1",
-                  "dimensione_kb": 207,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/2023-08-07_195932.bmp"
-                },
-                {
-                  "nome": "5415.919.00.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/w5pzqocgaixwetl3hw1s5/5415.919.00.pdf?rlkey=zcpxkjsqo2qqut2xllyhu7jaw&dl=0?raw=1",
-                  "dimensione_kb": 61,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/5415.919.00.pdf"
-                },
-                {
-                  "nome": "5416.065.00.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/bgl6si1hehinod9mp0s22/5416.065.00.pdf?rlkey=cxh9t0xhh5j9647nfnr1tvvu0&dl=0?raw=1",
-                  "dimensione_kb": 436,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/5416.065.00.pdf"
-                },
-                {
-                  "nome": "CAPUTO VINCENZO Offerta di vendita_220272_20220509_124044.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/yk1z7q4iweh56fb4sjvkj/CAPUTO-VINCENZO-Offerta-di-vendita_220272_20220509_124044.pdf?rlkey=035hfarij0dkl8sjl2cyqpggg&dl=0?raw=1",
-                  "dimensione_kb": 87,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/CAPUTO VINCENZO Offerta di vendita_220272_20220509_124044.pdf"
-                },
-                {
-                  "nome": "temp5410.601.00.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/ly2qrf8lgvwxc9rb0ffqr/temp5410.601.00.pdf?rlkey=k20oph3wae15tma1zbfq7vxrj&dl=0?raw=1",
-                  "dimensione_kb": 766,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/SIT DI CAPUTO VINCENZO/temp5410.601.00.pdf"
-                }
-              ],
-              "_totale_file": 16
             }
           ],
           "file": [],
-          "_totale_file": 128
+          "_totale_file": 132
         },
         {
           "nome": "VIGGIANO",
