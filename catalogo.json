@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-31T01:42:33Z",
-  "totale_file": 28260,
+  "generato": "2026-10-31T03:45:04Z",
+  "totale_file": 28259,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -157749,7 +157749,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4514,
+      "totale_file": 4513,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -164502,7 +164502,7 @@
                   "nome": "manuale-modi-levtronic-5-lingue.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/470uqc665wofupbtx7xqz/manuale-modi-levtronic-5-lingue.pdf?rlkey=hezcdirsp9ugp13r0sf1b8hwm&dl=0?raw=1",
                   "dimensione_kb": 7151,
                   "path": "/HUB DOCUMENTALE/FORNITORI/COLDLINE/COLDLINE AREA TECNICA/manuale-modi-levtronic-5-lingue.pdf"
                 },
@@ -193493,7 +193493,7 @@
                   "nome": "PRIOLINOX Listino 2013.01 IT-EN.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/xuodhovp67rvck961x27b/PRIOLINOX-Listino-2013.01-IT-EN.pdf?rlkey=47onm8vsmjefzthax9k9f72e3&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 6854,
                   "path": "/HUB DOCUMENTALE/FORNITORI/PRIOLINOX/ARCHIVIO/PRIOLINOX Listino 2013.01 IT-EN.pdf"
                 }
@@ -201391,16 +201391,7 @@
           "_totale_file": 1
         }
       ],
-      "file": [
-        {
-          "nome": "FORNITORI INDICE GENERALE DROPBOX 09_2021.xlsx",
-          "tipo": "Excel",
-          "icona": "📊",
-          "link": "https://www.dropbox.com/scl/fi/hy5k24s9ok3dzp526pdvm/FORNITORI-INDICE-GENERALE-DROPBOX-09_2021.xlsx?rlkey=ny1h1jsxfgtuqrl9d0trqqtvm&dl=0?raw=1",
-          "dimensione_kb": 429,
-          "path": "/HUB DOCUMENTALE/FORNITORI/FORNITORI INDICE GENERALE DROPBOX 09_2021.xlsx"
-        }
-      ]
+      "file": []
     },
     {
       "nome": "ACQUISTI",
