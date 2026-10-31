@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-10-31T09:25:56Z",
-  "totale_file": 28300,
+  "generato": "2026-10-31T10:32:14Z",
+  "totale_file": 28304,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -246307,7 +246307,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2480,
+      "totale_file": 2484,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -267591,6 +267591,22 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/AUTOTRASPORTI GANGALE disposizioni-online DEL 09_09_2026.pdf"
             },
             {
+              "nome": "BCC Dettaglio bonifico (1) DEL 30_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0uykxsvaq9kriscocwphe/BCC-Dettaglio-bonifico-1-DEL-30_10_2026.pdf?rlkey=d3q7187kiheayei8xhii9lfe2&dl=0?raw=1",
+              "dimensione_kb": 102,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/BCC Dettaglio bonifico (1) DEL 30_10_2026.pdf"
+            },
+            {
+              "nome": "BCC Dettaglio bonifico (2) DEL 30_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zh52fsujcd0qnqynlg5kj/BCC-Dettaglio-bonifico-2-DEL-30_10_2026.pdf?rlkey=16wnvmpduk9cshszycipjjq1m&dl=0?raw=1",
+              "dimensione_kb": 102,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/BCC Dettaglio bonifico (2) DEL 30_10_2026.pdf"
+            },
+            {
               "nome": "BRT Dettaglio bonifico istantaneo DEL 04_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -267629,6 +267645,22 @@
               "link": "https://www.dropbox.com/scl/fi/iowcamplm9dxrutv3hmid/BRT-Dettaglio-bonifico-istantaneo-DEL-21_09_2026.pdf?rlkey=v0k231yaemej0xnw9fjjbhb2x&dl=0?raw=1",
               "dimensione_kb": 108,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/BRT Dettaglio bonifico istantaneo DEL 21_09_2026.pdf"
+            },
+            {
+              "nome": "BRT Dettaglio bonifico istantaneo DEL 30_10_2026 BIS.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/l06v47j0huhd3qpy6o1jk/BRT-Dettaglio-bonifico-istantaneo-DEL-30_10_2026-BIS.pdf?rlkey=jjfe8u9g5scx3jjs2mdxamjwm&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/BRT Dettaglio bonifico istantaneo DEL 30_10_2026 BIS.pdf"
+            },
+            {
+              "nome": "BRT Dettaglio bonifico istantaneo DEL 30_10_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/46i7kjfio0j3azy58a5az/BRT-Dettaglio-bonifico-istantaneo-DEL-30_10_2026.pdf?rlkey=i8efs2gab9j3k139h6bjhdbyo&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/BRT Dettaglio bonifico istantaneo DEL 30_10_2026.pdf"
             },
             {
               "nome": "CASELLA GIUSEPPE Dettaglio bonifico istantaneo 9_04_2026.pdf",
@@ -268527,7 +268559,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2382
+          "_totale_file": 2386
         }
       ],
       "file": []
