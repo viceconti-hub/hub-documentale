@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-01T07:14:22Z",
-  "totale_file": 28336,
+  "generato": "2026-11-01T09:45:48Z",
+  "totale_file": 28337,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -201829,7 +201829,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5301,
+      "totale_file": 5302,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -202974,6 +202974,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/MORINI s.r.l. Entrata merci da fornitore_260168_20260817_103841 RIF. CAZZANEDDA, PANIFICIO AGRELLO, HAPPY MOMENTS Basato su Ordin.pdf"
             },
             {
+              "nome": "NTA SRL Entrata merci da fornitore_260260_20261029_173028 RIF. LAMPADA E FILTRO AI CARBONI ATTIVI Basato su Ordini d'acquisto 260182..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c1ezcn4tirwtkgoc0t1cl/NTA-SRL-Entrata-merci-da-fornitore_260260_20261029_173028-RIF.-LAMPADA-E-FILTRO-AI-CARBONI-ATTIVI-Basato-su-Ordini-d-acquisto-260182..pdf?rlkey=ivoh8b2m9kg4pjj9q2h29wbra&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/NTA SRL Entrata merci da fornitore_260260_20261029_173028 RIF. LAMPADA E FILTRO AI CARBONI ATTIVI Basato su Ordini d'acquisto 260182..pdf"
+            },
+            {
               "nome": "NUOVA RICAMBI ENTRATA MERCI 12441.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -203358,7 +203366,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 188
+          "_totale_file": 189
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
