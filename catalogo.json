@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-02T03:49:13Z",
-  "totale_file": 28337,
+  "generato": "2026-11-02T07:25:12Z",
+  "totale_file": 28350,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7602,
+      "totale_file": 7615,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -3992,6 +3992,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MICELI BIAGIO Consegna_260843_20260925_183330 RIF. Basato su Ordini cliente 260473..pdf"
             },
             {
+              "nome": "MICELI BIAGIO Consegna_260962_20261031_184220 RIF. LAMA PER AFF. 220-40-3 ø INT 180 H 15,5 MAT. C45 Basato su Ordini cliente.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jx9jmezmt9dapszp6rbiu/MICELI-BIAGIO-Consegna_260962_20261031_184220-RIF.-LAMA-PER-AFF.-220-40-3-INT-180-H-15-5-MAT.-C45-Basato-su-Ordini-cliente.pdf?rlkey=f5firc1n3fl13wbaeawmm2qch&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MICELI BIAGIO Consegna_260962_20261031_184220 RIF. LAMA PER AFF. 220-40-3 ø INT 180 H 15,5 MAT. C45 Basato su Ordini cliente.pdf"
+            },
+            {
               "nome": "MICELI LUIGI Consegna_260868_20261008_165207 RIF. LAMA PER AFF. 220-25,4-4-180-15,5 in visione.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -4640,6 +4648,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio D'IMPERIO snc Consegna_260904_20261014_162504 RIF. GRIGLIA IN TEFLON ANTIADERENTE PER PIASTRE AD INDUZIONE (ANCHE IN FORNO) FINO A.pdf"
             },
             {
+              "nome": "Panificio D'IMPERIO snc Consegna_260960_20261031_132009 RIF. OFFERTA SPECIALE Servizio Raclette 230V 900W Basato su Ordini cliente 260537..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/l8ushbiutia90m1q0zhrp/Panificio-D-IMPERIO-snc-Consegna_260960_20261031_132009-RIF.-OFFERTA-SPECIALE-Servizio-Raclette-230V-900W-Basato-su-Ordini-cliente-260537..pdf?rlkey=oy6tajhb2egilc3zbwgd3unv5&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Panificio D'IMPERIO snc Consegna_260960_20261031_132009 RIF. OFFERTA SPECIALE Servizio Raclette 230V 900W Basato su Ordini cliente 260537..pdf"
+            },
+            {
               "nome": "Panificio FERRARO di SCHETTINI ANGELO A. Consegna_260361_20260602_224452 RIF. ASSISTENZA SU TERMOIMPELLICOLATRICE SOSTITUZIONE RESISTENZA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5280,6 +5296,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Consegna_260883_20261012_230617 RIF. ASSISTENZA REVISIONE BRUCIATORI PILOTA CUCINA MODULAR E RIPARAZIONE PILOTA.pdf"
             },
             {
+              "nome": "SUANNO '89 S.r.l. Consegna_260961_20261031_183500 RIF. RESISTENZA 2520W 220V Basato su Ordini cliente 260502..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/m47fpw3vc97wkjcaptfw7/SUANNO-89-S.r.l.-Consegna_260961_20261031_183500-RIF.-RESISTENZA-2520W-220V-Basato-su-Ordini-cliente-260502..pdf?rlkey=wysnvupe9hkmuk3n8rw95sv4p&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SUANNO '89 S.r.l. Consegna_260961_20261031_183500 RIF. RESISTENZA 2520W 220V Basato su Ordini cliente 260502..pdf"
+            },
+            {
               "nome": "SUPERMERCATO A POTEGA I FIFINA di PALETTA GIOACCHINO Consegna_260383_20260607_163026 RIF. ASSISTENZA SU AFFETTATICE OMAS Sostituzione lama Sostituzion.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5728,7 +5752,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 714
+          "_totale_file": 717
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -9496,6 +9520,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SOCIETA' AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA Fattura di vendita_2600528_20261012_234604 RIF. ASSISTENZA REVISIONE BRUCIATORI PILOTA CUCINA MODULAR E RIPARAZIONE PILOTA.pdf"
             },
             {
+              "nome": "SUANNO '89 S.r.l. Fattura di vendita_2600567_20261031_183516 RIF. RESISTENZA 2520W 220V Basato su Ordini cliente 260502. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/crc9znnbz0zv1i0sx2jtz/SUANNO-89-S.r.l.-Fattura-di-vendita_2600567_20261031_183516-RIF.-RESISTENZA-2520W-220V-Basato-su-Ordini-cliente-260502.-Basato-su-Consegne.pdf?rlkey=bwraoq9e14xp28x9vxj7makel&dl=0?raw=1",
+              "dimensione_kb": 61,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/SUANNO '89 S.r.l. Fattura di vendita_2600567_20261031_183516 RIF. RESISTENZA 2520W 220V Basato su Ordini cliente 260502. Basato su Consegne.pdf"
+            },
+            {
               "nome": "SUPERMERCATO CRAI di FORTE MARIA Fattura di vendita_2600390_20260826_163906 RIF. DETERGENTE RATIONAL 2 VERDI Basato su Ordini cliente 260380. Basato su Consegne.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9896,7 +9928,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 520
+          "_totale_file": 521
         },
         {
           "nome": "FATTURE DI VENDITA XML",
@@ -10455,6 +10487,14 @@
               "link": "https://www.dropbox.com/scl/fi/vdjk5p3yo43f7qn5xrvdu/CORRADO-MICHELA-BINARIO-1-Offerta-di-vendita_260245_20260703_162255-RIF.-Coppia-guide-tipo-L-605-mm-per-griglie-EN60x40.pdf?rlkey=g59lsvkj2541ly4idl64vwf3k&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CORRADO MICHELA BINARIO 1 Offerta di vendita_260245_20260703_162255 RIF. Coppia guide tipo L 605 mm per griglie EN60x40.pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA BINARIO 1 Offerta di vendita_260506_20261101_172713 RIF. FORNO PIZZA SIRMAN VESUVIO 70X70 2 ORE 1727.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f5fhfbqr0qqq5qv9c65at/CORRADO-MICHELA-BINARIO-1-Offerta-di-vendita_260506_20261101_172713-RIF.-FORNO-PIZZA-SIRMAN-VESUVIO-70X70-2-ORE-1727.pdf?rlkey=xzwlcih2l4v5pwhj7gcte4khn&dl=0?raw=1",
+              "dimensione_kb": 77,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CORRADO MICHELA BINARIO 1 Offerta di vendita_260506_20261101_172713 RIF. FORNO PIZZA SIRMAN VESUVIO 70X70 2 ORE 1727.pdf"
             },
             {
               "nome": "COZZI GIACOMO Offerta di vendita_260316_20260727_121735 RIF. FRYTOP A GAS FIMAR.pdf",
@@ -12417,7 +12457,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 290
+          "_totale_file": 291
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -15978,6 +16018,54 @@
                 }
               ],
               "_totale_file": 4
+            },
+            {
+              "nome": "2026_11_01 CORRADO MICHELA BINARIO 1 FORNO PIZZA SIRMAN VESUVIO 1 CAMERA RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_01 CORRADO MICHELA BINARIO 1 FORNO PIZZA SIRMAN VESUVIO 1 CAMERA RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "OFFERTA_260505_CORRADO_MICHELA_BINARIO_1.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m1x1pmujvl3zu37znii3n/OFFERTA_260505_CORRADO_MICHELA_BINARIO_1.pdf?rlkey=cfujn3kf6oyny2yinrt96ihzs&dl=0?raw=1",
+                  "dimensione_kb": 584,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_01 CORRADO MICHELA BINARIO 1 FORNO PIZZA SIRMAN VESUVIO 1 CAMERA RISORSE/OFFERTA_260505_CORRADO_MICHELA_BINARIO_1.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/kuqx0s6e8wa1n5sb7yvcc/PREVENTIVO.json?rlkey=xg71eh1bvf7bawljdghndy7ax&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_01 CORRADO MICHELA BINARIO 1 FORNO PIZZA SIRMAN VESUVIO 1 CAMERA RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_CORRADO_MICHELA_VESUVIO_70X70_2026-11-01_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/834eun49cikf11d248bb9/PREVENTIVO_CORRADO_MICHELA_VESUVIO_70X70_2026-11-01_LAYOUT_AMPIO.md?rlkey=mf4h5kkwt2v41iiejdyoqdwke&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_01 CORRADO MICHELA BINARIO 1 FORNO PIZZA SIRMAN VESUVIO 1 CAMERA RISORSE/PREVENTIVO_CORRADO_MICHELA_VESUVIO_70X70_2026-11-01_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_CORRADO_MICHELA_VESUVIO_70X70_2026-11-01_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mukd19o7hets96belnj9p/PREVENTIVO_CORRADO_MICHELA_VESUVIO_70X70_2026-11-01_LAYOUT_AMPIO.pdf?rlkey=oe8ho85odqmberc11m00e7qq0&dl=0?raw=1",
+                  "dimensione_kb": 110,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_01 CORRADO MICHELA BINARIO 1 FORNO PIZZA SIRMAN VESUVIO 1 CAMERA RISORSE/PREVENTIVO_CORRADO_MICHELA_VESUVIO_70X70_2026-11-01_LAYOUT_AMPIO.pdf"
+                },
+                {
+                  "nome": "vesuvio.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4z97l2zce8nbakihavjs2/vesuvio.pdf?rlkey=nvr7dd9elkd3j9e32tivzrd76&dl=0?raw=1",
+                  "dimensione_kb": 419,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_01 CORRADO MICHELA BINARIO 1 FORNO PIZZA SIRMAN VESUVIO 1 CAMERA RISORSE/vesuvio.pdf"
+                }
+              ],
+              "_totale_file": 5
             },
             {
               "nome": "2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR",
@@ -72136,7 +72224,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5655
+          "_totale_file": 5660
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -74384,6 +74472,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MICELI BIAGIO Ordine cliente_260473_20260925_183319.pdf"
             },
             {
+              "nome": "MICELI BIAGIO Ordine cliente_260538_20261031_184209 RIF. LAMA PER AFF. 220-40-3 ø INT 180 H 15,5 MAT. C45.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gvkbx1j2glr1minpdsmoq/MICELI-BIAGIO-Ordine-cliente_260538_20261031_184209-RIF.-LAMA-PER-AFF.-220-40-3-INT-180-H-15-5-MAT.-C45.pdf?rlkey=wsm4bmpseb415v3kjki3ukc5u&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MICELI BIAGIO Ordine cliente_260538_20261031_184209 RIF. LAMA PER AFF. 220-40-3 ø INT 180 H 15,5 MAT. C45.pdf"
+            },
+            {
+              "nome": "MICELI BIAGIO Ordine cliente_260539_20261031_184351 RIF. MANIGLIA PORTA CON INSERTO 5210-25.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/jurjsdxcwp98rx9gi9a63/MICELI-BIAGIO-Ordine-cliente_260539_20261031_184351-RIF.-MANIGLIA-PORTA-CON-INSERTO-5210-25.pdf?rlkey=vdryuxyqj4xf4ljee6hp63dxg&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/MICELI BIAGIO Ordine cliente_260539_20261031_184351 RIF. MANIGLIA PORTA CON INSERTO 5210-25.pdf"
+            },
+            {
               "nome": "MS NAPOLEONE SRL Ordine cliente_260294_20260721_112805 RIF. ASCIUGA LUCIDA POSATE MOD.STAR EVO MANUALE Basato su Offerte.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -74766,6 +74870,14 @@
               "link": "https://www.dropbox.com/scl/fi/ng30jfpaafs9qbde2gvj2/Panificio-D-IMPERIO-snc-Ordine-cliente_260506_20261014_162443-RIF.-GRIGLIA-IN-TEFLON-ANTIADERENTE-PER-PIASTRE-AD-INDUZIONE-ANCHE-IN-FORNO-FINO-A.pdf?rlkey=xyw7caps4to432hbg9hbud6rd&dl=0?raw=1",
               "dimensione_kb": 54,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio D'IMPERIO snc Ordine cliente_260506_20261014_162443 RIF. GRIGLIA IN TEFLON ANTIADERENTE PER PIASTRE AD INDUZIONE (ANCHE IN FORNO) FINO A.pdf"
+            },
+            {
+              "nome": "Panificio D'IMPERIO snc Ordine cliente_260537_20261031_131958 RIF. OFFERTA SPECIALE Servizio Raclette 230V 900W.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xs20tbrg4x0gxunu9tig0/Panificio-D-IMPERIO-snc-Ordine-cliente_260537_20261031_131958-RIF.-OFFERTA-SPECIALE-Servizio-Raclette-230V-900W.pdf?rlkey=ixjypvm3ug3jiqdh5ytme88a7&dl=0?raw=1",
+              "dimensione_kb": 70,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Panificio D'IMPERIO snc Ordine cliente_260537_20261031_131958 RIF. OFFERTA SPECIALE Servizio Raclette 230V 900W.pdf"
             },
             {
               "nome": "Panificio FERRARO di SCHETTINI ANGELO A. Ordine cliente_260468_20260921_101059 RIF. OLIERA.pdf",
@@ -75344,7 +75456,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZM RIPARAZIONI DI ZACCARA MARIO Ordine cliente_260498_20261009_123654 RIF. MACINE CONICHE X MC99CONIK.pdf"
             }
           ],
-          "_totale_file": 400
+          "_totale_file": 403
         }
       ],
       "file": [
