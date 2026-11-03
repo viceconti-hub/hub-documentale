@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-03T03:48:13Z",
-  "totale_file": 28350,
+  "generato": "2026-11-03T07:19:59Z",
+  "totale_file": 28361,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7615,
+      "totale_file": 7626,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -16066,6 +16066,119 @@
                 }
               ],
               "_totale_file": 5
+            },
+            {
+              "nome": "2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE",
+              "cartelle": [
+                {
+                  "nome": "OFFERTA 260507 FRY1LM",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/OFFERTA 260507 FRY1LM",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "OFFERTA_260507_FRANCESCO_DI_MORMANNO.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/huqhhy84g92hx2tw88ku7/OFFERTA_260507_FRANCESCO_DI_MORMANNO.pdf?rlkey=9dtkzghi7djug11fvv9grqbum&dl=0?raw=1",
+                      "dimensione_kb": 818,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/OFFERTA 260507 FRY1LM/OFFERTA_260507_FRANCESCO_DI_MORMANNO.pdf"
+                    },
+                    {
+                      "nome": "PREVENTIVO.json",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/cg4pjgeubvptmvoo72aa2/PREVENTIVO.json?rlkey=flomf9p0iqyaykssqicuchhyb&dl=0?raw=1",
+                      "dimensione_kb": 3,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/OFFERTA 260507 FRY1LM/PREVENTIVO.json"
+                    },
+                    {
+                      "nome": "PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_1_ZONA_2026-11-02_LAYOUT_AMPIO.md",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/2hvq3kbb2uqku6p5wja2w/PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_1_ZONA_2026-11-02_LAYOUT_AMPIO.md?rlkey=5wemllx8wuyrsfrwjb05kxt9x&dl=0?raw=1",
+                      "dimensione_kb": 3,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/OFFERTA 260507 FRY1LM/PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_1_ZONA_2026-11-02_LAYOUT_AMPIO.md"
+                    },
+                    {
+                      "nome": "PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_1_ZONA_2026-11-02_LAYOUT_AMPIO.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/f4wolprrgdevwciwhf02e/PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_1_ZONA_2026-11-02_LAYOUT_AMPIO.pdf?rlkey=g3ht4wmkq9yub4529gevmkfo3&dl=0?raw=1",
+                      "dimensione_kb": 478,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/OFFERTA 260507 FRY1LM/PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_1_ZONA_2026-11-02_LAYOUT_AMPIO.pdf"
+                    }
+                  ],
+                  "_totale_file": 4
+                },
+                {
+                  "nome": "OFFERTA 260508 FRY2LM",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/OFFERTA 260508 FRY2LM",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "OFFERTA_260508_FRANCESCO_DI_MORMANNO.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/g0c66ztt03ypc3fzu1x1c/OFFERTA_260508_FRANCESCO_DI_MORMANNO.pdf?rlkey=yag2f2qxbwp4wpjbbq8dg8rmk&dl=0?raw=1",
+                      "dimensione_kb": 599,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/OFFERTA 260508 FRY2LM/OFFERTA_260508_FRANCESCO_DI_MORMANNO.pdf"
+                    },
+                    {
+                      "nome": "PREVENTIVO.json",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/qeqpdvkq1buvsmn536pg4/PREVENTIVO.json?rlkey=ezgqq1tc5vmxh4aowxc08phj2&dl=0?raw=1",
+                      "dimensione_kb": 3,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/OFFERTA 260508 FRY2LM/PREVENTIVO.json"
+                    },
+                    {
+                      "nome": "PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_2_ZONE_2026-11-02_LAYOUT_AMPIO.md",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/e7mw4efy50bc8qr9wrx3r/PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_2_ZONE_2026-11-02_LAYOUT_AMPIO.md?rlkey=4se0bnb72maiypztae5d26o8k&dl=0?raw=1",
+                      "dimensione_kb": 3,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/OFFERTA 260508 FRY2LM/PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_2_ZONE_2026-11-02_LAYOUT_AMPIO.md"
+                    },
+                    {
+                      "nome": "PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_2_ZONE_2026-11-02_LAYOUT_AMPIO.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/d1q10dk3njggmq2heqbz4/PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_2_ZONE_2026-11-02_LAYOUT_AMPIO.pdf?rlkey=jzfvmu498wnx0tk5jl58sneoy&dl=0?raw=1",
+                      "dimensione_kb": 357,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/OFFERTA 260508 FRY2LM/PREVENTIVO_FRANCESCO_DI_MORMANNO_FRY_TOP_GAS_2_ZONE_2026-11-02_LAYOUT_AMPIO.pdf"
+                    }
+                  ],
+                  "_totale_file": 4
+                }
+              ],
+              "file": [
+                {
+                  "nome": "FRY1LM_Frytop_Fimar.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/jeusk2ejxte8qrtrazlrs/FRY1LM_Frytop_Fimar.jpg?rlkey=jwk09trd4f42xfyiihf599i65&dl=0?raw=1",
+                  "dimensione_kb": 337,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/FRY1LM_Frytop_Fimar.jpg"
+                },
+                {
+                  "nome": "FRY2LM_Frytop_Fimar.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/pxg0khzfvyp1espl70kbh/FRY2LM_Frytop_Fimar.jpg?rlkey=1qhg097md0p3czg2vi2xpa6tf&dl=0?raw=1",
+                  "dimensione_kb": 239,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/FRY2LM_Frytop_Fimar.jpg"
+                },
+                {
+                  "nome": "MOD093V06-fry-top-FRY-Fimar_06.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7qay7gyzuyvzde4oidqft/MOD093V06-fry-top-FRY-Fimar_06.pdf?rlkey=kk3bo7hoo31pg01xot58xaxf1&dl=0?raw=1",
+                  "dimensione_kb": 69470,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_02 FRANCESCO DI MORMANNO FRYTOP A GAS FIMAR 1 E 2 ZONE DI COTTURA RISORSE/MOD093V06-fry-top-FRY-Fimar_06.pdf"
+                }
+              ],
+              "_totale_file": 11
             },
             {
               "nome": "2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR",
@@ -72224,7 +72337,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5660
+          "_totale_file": 5671
         },
         {
           "nome": "ORDINI CLIENTE",
