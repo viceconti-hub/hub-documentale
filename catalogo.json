@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-03T11:02:34Z",
-  "totale_file": 28361,
+  "generato": "2026-11-04T01:49:30Z",
+  "totale_file": 28365,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -80197,7 +80197,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7887,
+      "totale_file": 7891,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -82507,7 +82507,7 @@
                   "nome": "PASTICCERIA DONADIO OFFERTA DEL 08_01_2022.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/1i9n7plv6wowdrc6s8eww/PASTICCERIA-DONADIO-OFFERTA-DEL-08_01_2022.pdf?rlkey=0byed1ll12zz1gguj82qogx1d&dl=0?raw=1",
                   "dimensione_kb": 68,
                   "path": "/HUB DOCUMENTALE/CLIENTI/CHIAROMONTE/PASTICCERIA DONADIO/PASTICCERIA DONADIO OFFERTA DEL 08_01_2022.pdf"
                 },
@@ -110699,12 +110699,28 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAVELLO/PROGETTO BAR/2026-10-05 12.01.43.pdf"
                 },
                 {
+                  "nome": "2026-11-03 16.48.41.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/eylhx6ont07c1fi8qbd3b/2026-11-03-16.48.41.pdf?rlkey=8d70xnly4ih1z3ue139kdtf59&dl=0?raw=1",
+                  "dimensione_kb": 1384,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAVELLO/PROGETTO BAR/2026-11-03 16.48.41.pdf"
+                },
+                {
                   "nome": "20261007_207005_3001_263859.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/9s0vp4569yrh8t9hf9l8z/20261007_207005_3001_263859.pdf?rlkey=imk6bbbc2294mruo37lvcy4ta&dl=0?raw=1",
                   "dimensione_kb": 7,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAVELLO/PROGETTO BAR/20261007_207005_3001_263859.pdf"
+                },
+                {
+                  "nome": "20261103115245801.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zb1bbj06r9h2nwjqymiyi/20261103115245801.pdf?rlkey=eljvz3013gj8lh7bssdzrnatl&dl=0?raw=1",
+                  "dimensione_kb": 701,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAVELLO/PROGETTO BAR/20261103115245801.pdf"
                 },
                 {
                   "nome": "ALTAMURA  AGRIT. ROTUNNO 2023.xls",
@@ -110811,11 +110827,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAVELLO/PROGETTO BAR/preventivo 1.pdf"
                 }
               ],
-              "_totale_file": 25
+              "_totale_file": 27
             }
           ],
           "file": [],
-          "_totale_file": 25
+          "_totale_file": 27
         },
         {
           "nome": "LEASING",
@@ -120149,6 +120165,14 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/AFFETTATRICE BERKEL FIUMICELLO/EMAIL.jpg"
                         },
                         {
+                          "nome": "FOTO RICAMBI.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/6s4466p2yl7n7z2s2g1v6/FOTO-RICAMBI.jpg?rlkey=zmu42ep08qknvyebv9d95krlq&dl=0?raw=1",
+                          "dimensione_kb": 133,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/AFFETTATRICE BERKEL FIUMICELLO/FOTO RICAMBI.jpg"
+                        },
+                        {
                           "nome": "Gmail - R_ Viceconti Snc_ richiesta di esploso RIF. VELARDI FIUMICELLO.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
@@ -120213,7 +120237,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/AFFETTATRICE BERKEL FIUMICELLO/image.png"
                         }
                       ],
-                      "_totale_file": 10
+                      "_totale_file": 11
                     },
                     {
                       "nome": "AFFETTATRICE ITALIANA MACCHI 370",
@@ -120402,7 +120426,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA/Piatto VULCANO TV 350-370 BS Vers.1.pdf"
                     }
                   ],
-                  "_totale_file": 28
+                  "_totale_file": 29
                 },
                 {
                   "nome": "VELARDI PIAZZA EUROPA FORNITURA ARREDO INOX MAGGIO 2026",
@@ -120583,7 +120607,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/_CLIENTE C001093 VELARDI SRL.txt"
                 }
               ],
-              "_totale_file": 48
+              "_totale_file": 49
             }
           ],
           "file": [
@@ -120596,7 +120620,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 975
+          "_totale_file": 976
         },
         {
           "nome": "MARCELLINA",
@@ -126975,6 +126999,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/Orsomarso CS - PUGLIESE MATTIA Bozza Soluzione 00.pdf"
                 },
                 {
+                  "nome": "PUGLIESE MATTIA AGGIORNAMENTO PAGAMENTI AL 29_10_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/s669ffmryu1k83ifp5930/PUGLIESE-MATTIA-AGGIORNAMENTO-PAGAMENTI-AL-29_10_2026.pdf?rlkey=xodac748ac8h68l0zh0mcsnud&dl=0?raw=1",
+                  "dimensione_kb": 227,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA AGGIORNAMENTO PAGAMENTI AL 29_10_2026.pdf"
+                },
+                {
                   "nome": "PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 14_09_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -126991,11 +127023,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/_CLIENTE CO52988 PUGLIESE MATTIA.txt"
                 }
               ],
-              "_totale_file": 30
+              "_totale_file": 31
             }
           ],
           "file": [],
-          "_totale_file": 30
+          "_totale_file": 31
         },
         {
           "nome": "PIEDIMONTE MATESE",
