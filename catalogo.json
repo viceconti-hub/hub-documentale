@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-05T09:06:30Z",
-  "totale_file": 28418,
+  "generato": "2026-11-05T10:12:22Z",
+  "totale_file": 28420,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -247325,7 +247325,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2484,
+      "totale_file": 2486,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -268993,6 +268993,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/FIMAR Dettaglio bonifico istantaneo DEL 20_04_2026.pdf"
             },
             {
+              "nome": "FIMEL Dettaglio bonifico istantaneo DEL 29_06_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b1v8zvwu858cmhnnhuqao/FIMEL-Dettaglio-bonifico-istantaneo-DEL-29_06_2026.pdf?rlkey=mcnfo97xrn237jw0ufj2pqkql&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/FIMEL Dettaglio bonifico istantaneo DEL 29_06_2026.pdf"
+            },
+            {
               "nome": "FOODEX SRL Dettaglio bonifico DEL 19_08_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -269457,6 +269465,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/STAFF ICE SYSTEM SRL Dettaglio bonifico istantaneo DEL 28_01_2026.pdf"
             },
             {
+              "nome": "TAMAI Dettaglio bonifico istantaneo DEL 29.06.2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/n3mhk5pfffbfczwj9mx08/TAMAI-Dettaglio-bonifico-istantaneo-DEL-29.06.2026.pdf?rlkey=fj45lw5fa9djvnvfefvfwj9lq&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/TAMAI Dettaglio bonifico istantaneo DEL 29.06.2026.pdf"
+            },
+            {
               "nome": "TAMAI RICEVUTA BONIFICO DEL 18_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -269577,7 +269593,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2386
+          "_totale_file": 2388
         }
       ],
       "file": []
