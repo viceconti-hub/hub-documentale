@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-05T06:57:40Z",
-  "totale_file": 28416,
+  "generato": "2026-11-05T09:06:30Z",
+  "totale_file": 28418,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -202559,7 +202559,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5302,
+      "totale_file": 5304,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -247148,6 +247148,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-003207-2026 RIF. CAMPOLEROSE.pdf"
             },
             {
+              "nome": "ARISTARCO CONFERMA ORV_2588798_2026_1_11146_21102026 RIF.CAMPOLEROSE_NERA.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/00jxjxpm6yn54hdv03bvp/ARISTARCO-CONFERMA-ORV_2588798_2026_1_11146_21102026-RIF.CAMPOLEROSE_NERA.PDF?rlkey=n1syhqgboozihq4af6lpynnci&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARISTARCO CONFERMA ORV_2588798_2026_1_11146_21102026 RIF.CAMPOLEROSE_NERA.PDF"
+            },
+            {
               "nome": "ARISTARCO S.P.A. Ordine dacquisto_260280_20261019_105628 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -247228,6 +247236,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA D'ORDINE 202626007351I201026 RIF.LFS GROUP SRL.pdf"
             },
             {
+              "nome": "LILLY CODROIPO Ordine dacquisto_260254_20261104_123004 RIF. PANIFICIO D'IMPERIO Basato su Offerte di vendita 260437..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/psvtd74s5bzk4zwso8slc/LILLY-CODROIPO-Ordine-dacquisto_260254_20261104_123004-RIF.-PANIFICIO-D-IMPERIO-Basato-su-Offerte-di-vendita-260437..pdf?rlkey=7l339yq4jo6dcx06c9ogivtto&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/LILLY CODROIPO Ordine dacquisto_260254_20261104_123004 RIF. PANIFICIO D'IMPERIO Basato su Offerte di vendita 260437..pdf"
+            },
+            {
               "nome": "MORINI s.r.l. Ordine dacquisto_260285_20261021_122227 RIF. Basato su Ordini cliente 260505. 260517..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -247300,7 +247316,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3874
+          "_totale_file": 3876
         }
       ],
       "file": []
