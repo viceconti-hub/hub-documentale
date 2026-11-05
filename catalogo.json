@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-05T01:31:54Z",
-  "totale_file": 28377,
+  "generato": "2026-11-05T03:31:49Z",
+  "totale_file": 28381,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -158550,7 +158550,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4513,
+      "totale_file": 4517,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -173091,6 +173091,14 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/ARCHIVIO/CUPPONE_CATALOGO_2-2021.pdf"
                 },
                 {
+                  "nome": "CUPPONE_CATALOGO_2025_compressed.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pxd1oy0nhfrh4u0yrx709/CUPPONE_CATALOGO_2025_compressed.pdf?rlkey=245pcllnpe56k8ulvx0gbucds&dl=0?raw=1",
+                  "dimensione_kb": 3947,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/ARCHIVIO/CUPPONE_CATALOGO_2025_compressed.pdf"
+                },
+                {
                   "nome": "CUPPONE_LISTINO_01-2019.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -173105,6 +173113,14 @@
                   "link": "https://www.dropbox.com/scl/fi/b56fs47dht59y0ogdz887/CUPPONE_LISTINO_2024_compressed-1.pdf?rlkey=p2xpsm2gzfbgbfjvp04mky7ul&dl=0?raw=1",
                   "dimensione_kb": 15920,
                   "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/ARCHIVIO/CUPPONE_LISTINO_2024_compressed (1).pdf"
+                },
+                {
+                  "nome": "CUPPONE_LISTINO_2025_compressed.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mng2jobecdr0tnnadlz1h/CUPPONE_LISTINO_2025_compressed.pdf?rlkey=wss66d5pkfyx19wec66a4jsgq&dl=0?raw=1",
+                  "dimensione_kb": 12541,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/ARCHIVIO/CUPPONE_LISTINO_2025_compressed.pdf"
                 },
                 {
                   "nome": "CUPPONE_LISTINO_N01_2020.pdf",
@@ -173163,7 +173179,7 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/ARCHIVIO/MAIL LISTINO 2024.PDF"
                 }
               ],
-              "_totale_file": 11
+              "_totale_file": 13
             },
             {
               "nome": "CUPPONE ESPLOSI SILEA DA REPA",
@@ -173288,20 +173304,36 @@
           ],
           "file": [
             {
-              "nome": "CUPPONE_CATALOGO_2025_compressed.pdf",
+              "nome": "100.CUPPONE_Listino26_web.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/pxd1oy0nhfrh4u0yrx709/CUPPONE_CATALOGO_2025_compressed.pdf?rlkey=245pcllnpe56k8ulvx0gbucds&dl=0?raw=1",
-              "dimensione_kb": 3947,
-              "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/CUPPONE_CATALOGO_2025_compressed.pdf"
+              "link": "https://www.dropbox.com/scl/fi/iieiedcvbwbv4pr2zjy4y/100.CUPPONE_Listino26_web.pdf?rlkey=1osfbqb58qlhb7udulpwcns9k&dl=0?raw=1",
+              "dimensione_kb": 6877,
+              "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/100.CUPPONE_Listino26_web.pdf"
             },
             {
-              "nome": "CUPPONE_LISTINO_2025_compressed.pdf",
+              "nome": "Cuppone_Cat_ALPHA_HR_compressed.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/mng2jobecdr0tnnadlz1h/CUPPONE_LISTINO_2025_compressed.pdf?rlkey=wss66d5pkfyx19wec66a4jsgq&dl=0?raw=1",
-              "dimensione_kb": 12541,
-              "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/CUPPONE_LISTINO_2025_compressed.pdf"
+              "link": "https://www.dropbox.com/scl/fi/sj21cjc15gvrirqlhlz87/Cuppone_Cat_ALPHA_HR_compressed.pdf?rlkey=okr0w8a6nnbzyy3kh5mtovv5p&dl=0?raw=1",
+              "dimensione_kb": 3788,
+              "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/Cuppone_Cat_ALPHA_HR_compressed.pdf"
+            },
+            {
+              "nome": "Cuppone_Cat_DELTA_HR_compressed.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/38xt462k6b4tiaf6topbq/Cuppone_Cat_DELTA_HR_compressed.pdf?rlkey=vynfac00eptazvqrqfn88xuq7&dl=0?raw=1",
+              "dimensione_kb": 4071,
+              "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/Cuppone_Cat_DELTA_HR_compressed.pdf"
+            },
+            {
+              "nome": "IPER AMMORTAMENTO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0bta0o219fpbur3ablwmz/IPER-AMMORTAMENTO.pdf?rlkey=1lhgv2wii9wrh9io7jo06nhx8&dl=0?raw=1",
+              "dimensione_kb": 178,
+              "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/IPER AMMORTAMENTO.pdf"
             },
             {
               "nome": "Relazione transizione 4.0 CR-GT-LN-ML.PDF",
@@ -173320,7 +173352,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/CUPPONE/wetransfer_video-cottura-mantegna_2022-11-22_1340.zip"
             }
           ],
-          "_totale_file": 25
+          "_totale_file": 29
         },
         {
           "nome": "CUSTOM ITALIANA MACCHI",
@@ -192886,20 +192918,12 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI CONDIZIONI Gmail - Viceconti Snc_ nuove condizioni gestioni ordini 10_12_2025.pdf"
             },
             {
-              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 17_10_2026.XLSX",
+              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 31_10_2026.XLSX",
               "tipo": "Excel",
               "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/c3lzk3mib2gr21ygqblvu/MORINI-ESTRAZIONE-LISTINO-LI0018500-17_10_2026.XLSX?rlkey=toj0vaaqq20gzfd14anpjjjea&dl=0?raw=1",
-              "dimensione_kb": 1289,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 17_10_2026.XLSX"
-            },
-            {
-              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 24_10_2026.XLSX",
-              "tipo": "Excel",
-              "icona": "📊",
-              "link": "https://www.dropbox.com/scl/fi/cpz10zasdfnauz2ff5al4/MORINI-ESTRAZIONE-LISTINO-LI0018500-24_10_2026.XLSX?rlkey=axztz8x0428ri206cjq6u5gjj&dl=0?raw=1",
-              "dimensione_kb": 1183,
-              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 24_10_2026.XLSX"
+              "link": "https://www.dropbox.com/scl/fi/7pyn352ay46s3t6plnuby/MORINI-ESTRAZIONE-LISTINO-LI0018500-31_10_2026.XLSX?rlkey=iklk53pig00i0dbhwdnw1a7k1&dl=0?raw=1",
+              "dimensione_kb": 1184,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 31_10_2026.XLSX"
             },
             {
               "nome": "MORINI LINK PER AREA RISERVATA CIR0706.PDF",
@@ -192910,7 +192934,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI LINK PER AREA RISERVATA CIR0706.PDF"
             }
           ],
-          "_totale_file": 65
+          "_totale_file": 64
         },
         {
           "nome": "NARDI TAVOLI E SEDIE",
@@ -193034,7 +193058,7 @@
               "nome": "1157_AccessoriPerLaVendita_IT.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/z5e7g2us197t7sst57eoy/1157_AccessoriPerLaVendita_IT.pdf?rlkey=200xwfiu7ikrs8yw8ti6acby7&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 15421,
               "path": "/HUB DOCUMENTALE/FORNITORI/NEW SISTEM/1157_AccessoriPerLaVendita_IT.pdf"
             }
@@ -193050,7 +193074,7 @@
               "nome": "AKD-736106482285.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/00fpxfvm2chn2363esd81/AKD-736106482285.pdf?rlkey=ekoyxugx3pvf9koj6upnxq6ea&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/FORNITORI/NITRO/AKD-736106482285.pdf"
             }
@@ -199580,6 +199604,14 @@
           ],
           "file": [
             {
+              "nome": "Gmail - Listini 2026 _ Price Lists 2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5zitmercf03hhkb0pi1k6/Gmail-Listini-2026-_-Price-Lists-2026.pdf?rlkey=7ntu0d6pvlsjblbovaik1wl49&dl=0?raw=1",
+              "dimensione_kb": 242,
+              "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/Gmail - Listini 2026 _ Price Lists 2026.pdf"
+            },
+            {
               "nome": "Gmail - Re_ Viceconti Snc_ richiesta credenziali per area riservata.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -199652,7 +199684,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/TECNOINOX/product_2025-12-24_175932.csv"
             }
           ],
-          "_totale_file": 33
+          "_totale_file": 34
         },
         {
           "nome": "TESTO",
