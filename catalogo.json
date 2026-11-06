@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-06T03:37:57Z",
-  "totale_file": 28435,
+  "generato": "2026-11-06T07:06:25Z",
+  "totale_file": 28481,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7673,
+      "totale_file": 7719,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -302,6 +302,14 @@
               "link": "https://www.dropbox.com/scl/fi/1tkkbpcdjuprwz94az0de/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Consegna_260928_20261025_124813-RIF.-ASSISTENZA-SU-AFFETTATRICE-AP-AFT-30S-MATRICOLA-2385200-SOSTITUZIONE-LAMA.pdf?rlkey=dzfcvxz3xd211w35hby8udpyu&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Consegna_260928_20261025_124813 RIF. ASSISTENZA SU AFFETTATRICE AP AFT 30S MATRICOLA 2385200 SOSTITUZIONE LAMA.pdf"
+            },
+            {
+              "nome": "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Consegna_260966_20261105_095134 RIF. ATTREZZATURE COMPLETAMENTO FORNITURA Basato su Offerte di vendita 260199..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g7ugbz9ds94cz0cg6im2a/AGRITURISMO-MASSERIA-CAMPOLEROSE-di-TEDESCO-ANTONIO-Consegna_260966_20261105_095134-RIF.-ATTREZZATURE-COMPLETAMENTO-FORNITURA-Basato-su-Offerte-di-vendita-260199..pdf?rlkey=12iiskixcpf0ms2whderk4yms&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO Consegna_260966_20261105_095134 RIF. ATTREZZATURE COMPLETAMENTO FORNITURA Basato su Offerte di vendita 260199..pdf"
             },
             {
               "nome": "AGUA LOCA DI D'IMPERIO NICOLA Consegna_250882_20260723_200424 RIF. BICCHIERI Basato su Ordini cliente 250589..pdf",
@@ -2086,6 +2094,14 @@
               "link": "https://www.dropbox.com/scl/fi/rzrav3e0lnz1uwiwdgrzj/GIOIA-AURELIO-Consegna_260816_20260907_195639-RIF.-TERMOSTATO-DI-LAVORO-PER-FRIGGITRICE-FIMAR-FR-8-Basato-su-Offerte-di-vendita.pdf?rlkey=zzlezb93fr3vzzyt727abez1n&dl=0?raw=1",
               "dimensione_kb": 52,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GIOIA AURELIO Consegna_260816_20260907_195639 RIF. TERMOSTATO DI LAVORO PER FRIGGITRICE FIMAR FR 8 Basato su Offerte di vendita.pdf"
+            },
+            {
+              "nome": "GIOIA AURELIO Consegna_260965_20261105_093656 RIF. PALINO DIAMETRO 20 NON FORATO Basato su Offerte di vendita 260420. Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wsaghvop7na6z2gbe571i/GIOIA-AURELIO-Consegna_260965_20261105_093656-RIF.-PALINO-DIAMETRO-20-NON-FORATO-Basato-su-Offerte-di-vendita-260420.-Basato-su.pdf?rlkey=c3b7nqolerv6b2tnz6malfsa5&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GIOIA AURELIO Consegna_260965_20261105_093656 RIF. PALINO DIAMETRO 20 NON FORATO Basato su Offerte di vendita 260420. Basato su.pdf"
             },
             {
               "nome": "GMT srl unipersonale Consegna_260538_20260705_211615 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE INTERRUTTO.pdf",
@@ -5408,6 +5424,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260942_20261028_123403 RIF. DETERGENTE E PLEXIGLASS.pdf"
             },
             {
+              "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260967_20261105_130048 RIF. TAGLIERE 40X30 E DETERGENTE Basato su Ordini cliente 260317..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8mj9269jgck11wo176c5v/TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO-Consegna_260967_20261105_130048-RIF.-TAGLIERE-40X30-E-DETERGENTE-Basato-su-Ordini-cliente-260317..pdf?rlkey=xg37bnwn9eaynih79jw30t6o4&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260967_20261105_130048 RIF. TAGLIERE 40X30 E DETERGENTE Basato su Ordini cliente 260317..pdf"
+            },
+            {
               "nome": "TAVERNA ROVITA di GAMBARDELLA MARIASTELLA & C. SNC Consegna_260585_20260722_120515 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260292..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5768,7 +5792,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 719
+          "_totale_file": 722
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -5846,6 +5870,14 @@
               "link": "https://www.dropbox.com/scl/fi/19pukbsxtmybizutvdy8o/4.0-SRLS-YUMARA-Fattura-di-vendita_2600510_20261012_232015-RIF.-ASSISTENZA-SU-FRYTOP-SOSTITUZIONE-UGELLO-PILOTA-DIAMETRO-19-VASCA-MATRICOLA-DA.pdf?rlkey=jkjphncy8izsj0zfd40rd4pld&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/4.0 SRLS YUMARA Fattura di vendita_2600510_20261012_232015 RIF. ASSISTENZA SU FRYTOP SOSTITUZIONE UGELLO PILOTA DIAMETRO 19 VASCA MATRICOLA DA.pdf"
+            },
+            {
+              "nome": "ACAL Fattura di vendita - Bozza documento_2600570_20261105_185542.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/b6nmv412gkb1z7udj9v8j/ACAL-Fattura-di-vendita-Bozza-documento_2600570_20261105_185542.pdf?rlkey=z8jej6l3x34g5kvon9njevnpu&dl=0?raw=1",
+              "dimensione_kb": 74,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ACAL Fattura di vendita - Bozza documento_2600570_20261105_185542.pdf"
             },
             {
               "nome": "ACOOP SRL Fattura di vendita_2600118_20260602_210450 RIF. ASSISTENZA SU MISCELATORE SOSTITUZIONE CARTUCCIA Basato su Consegne 260332..pdf",
@@ -8840,6 +8872,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PALLARA PAOLO Fattura di vendita_2600505_20261008_190735 RIF. CARTUCCIA MISCELATORE TIPO BASSO Cartuccia in ceramica H1 30,5mm H2 (KLARCO.pdf"
             },
             {
+              "nome": "PANAINO SRL UNIPERSONALE Fattura di vendita_200073_20261105_124440 RIF. Basato su Ordini cliente 200015. Basato su Consegne 200130..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/lmfiyes6mxho43rscy96p/PANAINO-SRL-UNIPERSONALE-Fattura-di-vendita_200073_20261105_124440-RIF.-Basato-su-Ordini-cliente-200015.-Basato-su-Consegne-200130..pdf?rlkey=29li71m6jnyko7rb47ewu8qlr&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/PANAINO SRL UNIPERSONALE Fattura di vendita_200073_20261105_124440 RIF. Basato su Ordini cliente 200015. Basato su Consegne 200130..pdf"
+            },
+            {
               "nome": "PANAINO SRL UNIPERSONALE Fattura di vendita_2600217_20260622_115209 RIF. TAVOLO REFRIGERATO FORCAR Basato su Consegne 260180. 260380..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -9944,7 +9984,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 521
+          "_totale_file": 523
         },
         {
           "nome": "FATTURE DI VENDITA XML",
@@ -10527,6 +10567,14 @@
               "link": "https://www.dropbox.com/scl/fi/m7ms0vxxqq028h5lxykhu/CORRADO-MICHELA-BINARIO-1-Offerta-di-vendita_260515_20261104_134128-RIF.-FORNO-ELETTRICO-MONOCAMERA-SOVRAP.LE-MOD.TIZIANO-TZ4351M-CAMERA-72x72x14hCM.pdf?rlkey=4u5c2wegw4gqgqd1l0xzaitua&dl=0?raw=1",
               "dimensione_kb": 81,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CORRADO MICHELA BINARIO 1 Offerta di vendita_260515_20261104_134128 RIF. FORNO ELETTRICO MONOCAMERA SOVRAP.LE MOD.TIZIANO TZ4351M,CAMERA 72x72x14hCM.pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA BINARIO 1 Offerta di vendita_260516_20261104_160741 RIF. FORNO ELETTRICO 2 CAMERE MOD.TIZIANO TZ4352M,CAMERA 72x72x14hCM, 0-450°C.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/uo2mgk7hfg1jxce443h8z/CORRADO-MICHELA-BINARIO-1-Offerta-di-vendita_260516_20261104_160741-RIF.-FORNO-ELETTRICO-2-CAMERE-MOD.TIZIANO-TZ4352M-CAMERA-72x72x14hCM-0-450-C.pdf?rlkey=rr9urz9hi9knd7cedvlj73uwe&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CORRADO MICHELA BINARIO 1 Offerta di vendita_260516_20261104_160741 RIF. FORNO ELETTRICO 2 CAMERE MOD.TIZIANO TZ4352M,CAMERA 72x72x14hCM, 0-450°C.pdf"
             },
             {
               "nome": "COZZI GIACOMO Offerta di vendita_260316_20260727_121735 RIF. FRYTOP A GAS FIMAR.pdf",
@@ -11761,12 +11809,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MIGLIORATI MAURO Offerta di vendita_260502_20261031_112834 RIF. ARMADIO CONGELATORE SMART A701BE.pdf"
             },
             {
-              "nome": "MIGLIORATI MAURO Offerta di vendita_260503_20261031_111934 RIF. ARMADIO CONGELATORE SMART A1402BE.pdf",
+              "nome": "MIGLIORATI MAURO Offerta di vendita_260503_20261105_155916 RIF. ARMADIO CONGELATORE SMART A1402BE.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/m398qnpdw0jb570saqcvi/MIGLIORATI-MAURO-Offerta-di-vendita_260503_20261031_111934-RIF.-ARMADIO-CONGELATORE-SMART-A1402BE.pdf?rlkey=bjqwrwfbknf5fmr3wxp6xpujg&dl=0?raw=1",
-              "dimensione_kb": 77,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MIGLIORATI MAURO Offerta di vendita_260503_20261031_111934 RIF. ARMADIO CONGELATORE SMART A1402BE.pdf"
+              "link": "https://www.dropbox.com/scl/fi/mx1wz153aqk6zbx847iw1/MIGLIORATI-MAURO-Offerta-di-vendita_260503_20261105_155916-RIF.-ARMADIO-CONGELATORE-SMART-A1402BE.pdf?rlkey=f91ao8vfpowq51znxu7cbne0n&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/MIGLIORATI MAURO Offerta di vendita_260503_20261105_155916 RIF. ARMADIO CONGELATORE SMART A1402BE.pdf"
             },
             {
               "nome": "MIGLIORATI MAURO Offerta di vendita_260504_20261031_112908 RIF. ARMADIO CONGELATORE SMART A701BE QTA' 2.pdf",
@@ -12513,7 +12561,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 296
+          "_totale_file": 297
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -16112,6 +16160,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_31 MIGLIORATI MAURO ARMADI COLDLINE RISORSE",
               "cartelle": [
                 {
+                  "nome": "ARCHIVIO",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_31 MIGLIORATI MAURO ARMADI COLDLINE RISORSE/ARCHIVIO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "MIGLIORATI MAURO Offerta di vendita_260503_20261031_111934 RIF. ARMADIO CONGELATORE SMART A1402BE.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/aoj423up3j1wovdm397bl/MIGLIORATI-MAURO-Offerta-di-vendita_260503_20261031_111934-RIF.-ARMADIO-CONGELATORE-SMART-A1402BE.pdf?rlkey=9hfncgay18jbi1f1mpgozb0n5&dl=0?raw=1",
+                      "dimensione_kb": 77,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_31 MIGLIORATI MAURO ARMADI COLDLINE RISORSE/ARCHIVIO/MIGLIORATI MAURO Offerta di vendita_260503_20261031_111934 RIF. ARMADIO CONGELATORE SMART A1402BE.pdf"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
                   "nome": "DOCUMENTAZIONE PER BANDO",
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_31 MIGLIORATI MAURO ARMADI COLDLINE RISORSE/DOCUMENTAZIONE PER BANDO",
                   "cartelle": [],
@@ -16162,15 +16226,15 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_31 MIGLIORATI MAURO ARMADI COLDLINE RISORSE/A70-1BE.pdf"
                 },
                 {
-                  "nome": "MIGLIORATI MAURO Offerta di vendita_260503_20261031_111934 RIF. ARMADIO CONGELATORE SMART A1402BE.pdf",
+                  "nome": "MIGLIORATI MAURO Offerta di vendita_260503_20261105_155916 RIF. ARMADIO CONGELATORE SMART A1402BE.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/aoj423up3j1wovdm397bl/MIGLIORATI-MAURO-Offerta-di-vendita_260503_20261031_111934-RIF.-ARMADIO-CONGELATORE-SMART-A1402BE.pdf?rlkey=9hfncgay18jbi1f1mpgozb0n5&dl=0?raw=1",
-                  "dimensione_kb": 77,
-                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_31 MIGLIORATI MAURO ARMADI COLDLINE RISORSE/MIGLIORATI MAURO Offerta di vendita_260503_20261031_111934 RIF. ARMADIO CONGELATORE SMART A1402BE.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/o3x00q2ex24xzb1qg9bp1/MIGLIORATI-MAURO-Offerta-di-vendita_260503_20261105_155916-RIF.-ARMADIO-CONGELATORE-SMART-A1402BE.pdf?rlkey=7q92a70d0jpngthtknpjtwlvg&dl=0?raw=1",
+                  "dimensione_kb": 81,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_10_31 MIGLIORATI MAURO ARMADI COLDLINE RISORSE/MIGLIORATI MAURO Offerta di vendita_260503_20261105_155916 RIF. ARMADIO CONGELATORE SMART A1402BE.pdf"
                 }
               ],
-              "_totale_file": 6
+              "_totale_file": 7
             },
             {
               "nome": "2026_11_01 CORRADO MICHELA BINARIO 1 FORNO PIZZA SIRMAN VESUVIO 1 CAMERA RISORSE",
@@ -16336,7 +16400,64 @@
             {
               "nome": "2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE",
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "DOCUMENTI PER RICHIESTA DI FINANZIAMENTO 11_2026",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/DOCUMENTI PER RICHIESTA DI FINANZIAMENTO 11_2026",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "CARTA D'IDENTITA' AMMINISTRATORE.jpeg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/xkztubcuz7e91t5awhy0n/CARTA-D-IDENTITA-AMMINISTRATORE.jpeg?rlkey=0zagbggpvhb5xbu7qgyov888v&dl=0?raw=1",
+                      "dimensione_kb": 187,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/DOCUMENTI PER RICHIESTA DI FINANZIAMENTO 11_2026/CARTA D'IDENTITA' AMMINISTRATORE.jpeg"
+                    },
+                    {
+                      "nome": "DOLCE VITA SRLS VISURA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/a7hbabkf9a0o7zw39ei9p/DOLCE-VITA-SRLS-VISURA.pdf?rlkey=8jtsy0xsxbulmrelix2cmq5r1&dl=0?raw=1",
+                      "dimensione_kb": 73,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/DOCUMENTI PER RICHIESTA DI FINANZIAMENTO 11_2026/DOLCE VITA SRLS VISURA.pdf"
+                    },
+                    {
+                      "nome": "Documenti per Verifica Finanziamento COMPASS.docx",
+                      "tipo": "Word",
+                      "icona": "📝",
+                      "link": "https://www.dropbox.com/scl/fi/30x05cyo3zp3om193zxu1/Documenti-per-Verifica-Finanziamento-COMPASS.docx?rlkey=onvkmq9p5j151486x7f47drkc&dl=0?raw=1",
+                      "dimensione_kb": 15,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/DOCUMENTI PER RICHIESTA DI FINANZIAMENTO 11_2026/Documenti per Verifica Finanziamento COMPASS.docx"
+                    },
+                    {
+                      "nome": "Documenti per Verifica Finanziamento COMPASS.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/y3apjrrv9ncce38cde7nj/Documenti-per-Verifica-Finanziamento-COMPASS.pdf?rlkey=bam5r3t120zljquwwih7l0kua&dl=0?raw=1",
+                      "dimensione_kb": 32,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/DOCUMENTI PER RICHIESTA DI FINANZIAMENTO 11_2026/Documenti per Verifica Finanziamento COMPASS.pdf"
+                    },
+                    {
+                      "nome": "TESSERA SANITARIA AMMINISTRATORE FRONTE.jpeg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/bbak97osnzaszf8mrca74/TESSERA-SANITARIA-AMMINISTRATORE-FRONTE.jpeg?rlkey=832ukgns4pxtoagxg7bpo4mi6&dl=0?raw=1",
+                      "dimensione_kb": 165,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/DOCUMENTI PER RICHIESTA DI FINANZIAMENTO 11_2026/TESSERA SANITARIA AMMINISTRATORE FRONTE.jpeg"
+                    },
+                    {
+                      "nome": "TESSERA SANITARIA AMMINISTRATORE RETRO.jpeg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/2spqhunh5o4zjoy7zqz9v/TESSERA-SANITARIA-AMMINISTRATORE-RETRO.jpeg?rlkey=mdv09051ampb0zwln7dlvlnln&dl=0?raw=1",
+                      "dimensione_kb": 129,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/DOCUMENTI PER RICHIESTA DI FINANZIAMENTO 11_2026/TESSERA SANITARIA AMMINISTRATORE RETRO.jpeg"
+                    }
+                  ],
+                  "_totale_file": 6
+                }
+              ],
               "file": [
                 {
                   "nome": "Affettatrice a gravità F 300 CL Fac corsa lunga, lama in acciaio inox ø 300 mm, spessore taglio 0÷16, taglio utile 300x220mm.pdf",
@@ -16347,22 +16468,6 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/Affettatrice a gravità F 300 CL Fac corsa lunga, lama in acciaio inox ø 300 mm, spessore taglio 0÷16, taglio utile 300x220mm.pdf"
                 },
                 {
-                  "nome": "Documenti per Verifica Finanziamento COMPASS.docx",
-                  "tipo": "Word",
-                  "icona": "📝",
-                  "link": "https://www.dropbox.com/scl/fi/30x05cyo3zp3om193zxu1/Documenti-per-Verifica-Finanziamento-COMPASS.docx?rlkey=onvkmq9p5j151486x7f47drkc&dl=0?raw=1",
-                  "dimensione_kb": 15,
-                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/Documenti per Verifica Finanziamento COMPASS.docx"
-                },
-                {
-                  "nome": "Documenti per Verifica Finanziamento COMPASS.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/y3apjrrv9ncce38cde7nj/Documenti-per-Verifica-Finanziamento-COMPASS.pdf?rlkey=bam5r3t120zljquwwih7l0kua&dl=0?raw=1",
-                  "dimensione_kb": 32,
-                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/Documenti per Verifica Finanziamento COMPASS.pdf"
-                },
-                {
                   "nome": "R70-120PCG-P.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -16371,7 +16476,7 @@
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_03 LA DOLCE VITA SRLS COMPLESSO DI MACCHINE RISORSE/R70-120PCG-P.pdf"
                 }
               ],
-              "_totale_file": 4
+              "_totale_file": 8
             },
             {
               "nome": "2026_11_03 Macelleria PECORARO CRISTIANO INSACCATRICE VERTICALE SIRMAN 16 RISORSE",
@@ -16604,6 +16709,310 @@
                 }
               ],
               "_totale_file": 8
+            },
+            {
+              "nome": "2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "EASY014V03-microonde-microwawe-MC-MF-Easyline_03.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/izmiyvqx9l55u6j668ta4/EASY014V03-microonde-microwawe-MC-MF-Easyline_03.pdf?rlkey=u8grg7ekcmimfrwizmdu27col&dl=0?raw=1",
+                  "dimensione_kb": 2806,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE/EASY014V03-microonde-microwawe-MC-MF-Easyline_03.pdf"
+                },
+                {
+                  "nome": "FORNO MICROONDE MC2452.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vh034ub1vjiqhunk22wwk/FORNO-MICROONDE-MC2452.pdf?rlkey=dohkfchealrxhb3pbw1j0vwfd&dl=0?raw=1",
+                  "dimensione_kb": 122,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE/FORNO MICROONDE MC2452.pdf"
+                },
+                {
+                  "nome": "FORNO MICROONDE MF914.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/waxfrgegf5juysrdmezln/FORNO-MICROONDE-MF914.pdf?rlkey=zfvbta6yzh7xsc9no3uoertzs&dl=0?raw=1",
+                  "dimensione_kb": 104,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE/FORNO MICROONDE MF914.pdf"
+                },
+                {
+                  "nome": "MF914_microonde_microwave_oven_easyline-500x500.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/nip6gadpdbg3h7zspce3e/MF914_microonde_microwave_oven_easyline-500x500.jpg?rlkey=nfb571orpy6n55mt9p6eryce3&dl=0?raw=1",
+                  "dimensione_kb": 38,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE/MF914_microonde_microwave_oven_easyline-500x500.jpg"
+                },
+                {
+                  "nome": "MICROONDE MF914.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vyb87tmwnu3izwerovw19/MICROONDE-MF914.pdf?rlkey=rf15n65c7io089ml84o2oxbp6&dl=0?raw=1",
+                  "dimensione_kb": 227,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE/MICROONDE MF914.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260519_BOTTEGA63.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gzgwqb2pc1nd3k7nqhewc/OFFERTA_260519_BOTTEGA63.pdf?rlkey=krmyq3zklher2poqvipu73m1f&dl=0?raw=1",
+                  "dimensione_kb": 230,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE/OFFERTA_260519_BOTTEGA63.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/j6qmsfv4ico04uyei4of8/PREVENTIVO.json?rlkey=y1l0fi8qdkuk4bj0ng3zy3ltf&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_BOTTEGA_63_MF914_2026-11-05_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/wa93n2mkujrmue6hxb6ja/PREVENTIVO_BOTTEGA_63_MF914_2026-11-05_LAYOUT_AMPIO.md?rlkey=vwwvtzhkqp8z2fbdwu7bwmhpn&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE/PREVENTIVO_BOTTEGA_63_MF914_2026-11-05_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_BOTTEGA_63_MF914_2026-11-05_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1pxauouyjsaiuebr6egn9/PREVENTIVO_BOTTEGA_63_MF914_2026-11-05_LAYOUT_AMPIO.pdf?rlkey=mk6g2ab0u77xofk2nkh0419jz&dl=0?raw=1",
+                  "dimensione_kb": 106,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE C GRILL MOD.MF914 RISORSE/PREVENTIVO_BOTTEGA_63_MF914_2026-11-05_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 9
+            },
+            {
+              "nome": "2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE CON CONVENZIONE E GRILL,MOD.MC2452 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE CON CONVENZIONE E GRILL,MOD.MC2452 RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "EASY014V03-microonde-microwawe-MC-MF-Easyline_03.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/py041z4sio06lddqmv2ix/EASY014V03-microonde-microwawe-MC-MF-Easyline_03.pdf?rlkey=7vy47l5s1a114j6m1awf2gpdg&dl=0?raw=1",
+                  "dimensione_kb": 2806,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE CON CONVENZIONE E GRILL,MOD.MC2452 RISORSE/EASY014V03-microonde-microwawe-MC-MF-Easyline_03.pdf"
+                },
+                {
+                  "nome": "FORNO MICROONDE MC2452.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/93osrphyyg92z9rk1nwrn/FORNO-MICROONDE-MC2452.pdf?rlkey=ctxpguvjqad0dc71k0uxn6v18&dl=0?raw=1",
+                  "dimensione_kb": 104,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE CON CONVENZIONE E GRILL,MOD.MC2452 RISORSE/FORNO MICROONDE MC2452.pdf"
+                },
+                {
+                  "nome": "MF914_microonde_microwave_oven_easyline-500x500.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/xgh5926k1o3skok659sqk/MF914_microonde_microwave_oven_easyline-500x500.jpg?rlkey=2rdj9kv29tp994boqzsdoackt&dl=0?raw=1",
+                  "dimensione_kb": 38,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE CON CONVENZIONE E GRILL,MOD.MC2452 RISORSE/MF914_microonde_microwave_oven_easyline-500x500.jpg"
+                },
+                {
+                  "nome": "MICROONDE MC2452.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dgoef40m9vadvf4ij9byf/MICROONDE-MC2452.pdf?rlkey=9par4cmbe1wcylun4c25qa6vs&dl=0?raw=1",
+                  "dimensione_kb": 2851,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE CON CONVENZIONE E GRILL,MOD.MC2452 RISORSE/MICROONDE MC2452.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260520_BOTTEGA63.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/45a4whrgao87ao0988adl/OFFERTA_260520_BOTTEGA63.pdf?rlkey=ukfpo1hkorvdk2tyncbov80a6&dl=0?raw=1",
+                  "dimensione_kb": 154,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE CON CONVENZIONE E GRILL,MOD.MC2452 RISORSE/OFFERTA_260520_BOTTEGA63.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/mce76eptpg7ahxjggmw89/PREVENTIVO.json?rlkey=33gk6wjiflij7pj3miasu1vp6&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE CON CONVENZIONE E GRILL,MOD.MC2452 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_BOTTEGA_63_MC2452_2026-11-05_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/2cx4jezda1svpt9jr5e3v/PREVENTIVO_BOTTEGA_63_MC2452_2026-11-05_LAYOUT_AMPIO.md?rlkey=9lih6l7hmr5d9wzfciaa6ce83&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE CON CONVENZIONE E GRILL,MOD.MC2452 RISORSE/PREVENTIVO_BOTTEGA_63_MC2452_2026-11-05_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_BOTTEGA_63_MC2452_2026-11-05_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fq6vrr167t7web4g73rqk/PREVENTIVO_BOTTEGA_63_MC2452_2026-11-05_LAYOUT_AMPIO.pdf?rlkey=hcahswls8u635ban3upfqe9kv&dl=0?raw=1",
+                  "dimensione_kb": 64,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 BOTTEGA 63 SRLS FORNO A MICROONDE CON CONVENZIONE E GRILL,MOD.MC2452 RISORSE/PREVENTIVO_BOTTEGA_63_MC2452_2026-11-05_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 8
+            },
+            {
+              "nome": "2026_11_05 DIPA di PACCHIANO LUCA & C. sas MACCHINA SOTTOVUOTO A CAMPANA SIRMAN W8 TOP 40 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 DIPA di PACCHIANO LUCA & C. sas MACCHINA SOTTOVUOTO A CAMPANA SIRMAN W8 TOP 40 RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "OFFERTA_260523_DIPA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7islgihqkc2xdxp1zubdz/OFFERTA_260523_DIPA.pdf?rlkey=lmrj4ajasklaaunw9ij4uy3bg&dl=0?raw=1",
+                  "dimensione_kb": 6504,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 DIPA di PACCHIANO LUCA & C. sas MACCHINA SOTTOVUOTO A CAMPANA SIRMAN W8 TOP 40 RISORSE/OFFERTA_260523_DIPA.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/hqp2cuyeie0l7j4loayio/PREVENTIVO.json?rlkey=cr8xdoljbkzb0rhkab7tjrqwy&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 DIPA di PACCHIANO LUCA & C. sas MACCHINA SOTTOVUOTO A CAMPANA SIRMAN W8 TOP 40 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_DIPA_W8_TOP_40_GAS_2026-11-05_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/971ikckjqap725kb8jss3/PREVENTIVO_DIPA_W8_TOP_40_GAS_2026-11-05_LAYOUT_AMPIO.md?rlkey=qdjji1d75a8r4fvdczzp8qsql&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 DIPA di PACCHIANO LUCA & C. sas MACCHINA SOTTOVUOTO A CAMPANA SIRMAN W8 TOP 40 RISORSE/PREVENTIVO_DIPA_W8_TOP_40_GAS_2026-11-05_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_DIPA_W8_TOP_40_GAS_2026-11-05_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1s1tcbguup6sn7mpi6cec/PREVENTIVO_DIPA_W8_TOP_40_GAS_2026-11-05_LAYOUT_AMPIO.pdf?rlkey=9u9z8su26qwdb0o142g0wibtb&dl=0?raw=1",
+                  "dimensione_kb": 727,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 DIPA di PACCHIANO LUCA & C. sas MACCHINA SOTTOVUOTO A CAMPANA SIRMAN W8 TOP 40 RISORSE/PREVENTIVO_DIPA_W8_TOP_40_GAS_2026-11-05_LAYOUT_AMPIO.pdf"
+                },
+                {
+                  "nome": "w8-top_easy-touch.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ubtu1heuhm7q1xfqqi3mt/w8-top_easy-touch.pdf?rlkey=001oooobyzfzr2kl10136mclu&dl=0?raw=1",
+                  "dimensione_kb": 5247,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 DIPA di PACCHIANO LUCA & C. sas MACCHINA SOTTOVUOTO A CAMPANA SIRMAN W8 TOP 40 RISORSE/w8-top_easy-touch.pdf"
+                }
+              ],
+              "_totale_file": 5
+            },
+            {
+              "nome": "2026_11_05 PANAINO SRL UNIPERSONALE IMPASTATRICE MECNOSUD MOD.M501PLUS RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PANAINO SRL UNIPERSONALE IMPASTATRICE MECNOSUD MOD.M501PLUS RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "OFFERTA_260521_PANAINO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/iq6gw880ig61l70r5bfrj/OFFERTA_260521_PANAINO.pdf?rlkey=0weso0luuy0i79dazc8c5dk8l&dl=0?raw=1",
+                  "dimensione_kb": 688,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PANAINO SRL UNIPERSONALE IMPASTATRICE MECNOSUD MOD.M501PLUS RISORSE/OFFERTA_260521_PANAINO.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/rc9ot2xytr340edlwtngm/PREVENTIVO.json?rlkey=og7oedg4qfxah41rwpg3r1h9r&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PANAINO SRL UNIPERSONALE IMPASTATRICE MECNOSUD MOD.M501PLUS RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_PANAINO_M501PLUS_2026-11-05_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/dyohrkkfph3e6ng8ro7wn/PREVENTIVO_PANAINO_M501PLUS_2026-11-05_LAYOUT_AMPIO.md?rlkey=fr9oeudf4kiykeum5h576904z&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PANAINO SRL UNIPERSONALE IMPASTATRICE MECNOSUD MOD.M501PLUS RISORSE/PREVENTIVO_PANAINO_M501PLUS_2026-11-05_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_PANAINO_M501PLUS_2026-11-05_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hom4d9a7xshzx5w64az6f/PREVENTIVO_PANAINO_M501PLUS_2026-11-05_LAYOUT_AMPIO.pdf?rlkey=ir55v5f3vh6c4eapncg6iz49g&dl=0?raw=1",
+                  "dimensione_kb": 287,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PANAINO SRL UNIPERSONALE IMPASTATRICE MECNOSUD MOD.M501PLUS RISORSE/PREVENTIVO_PANAINO_M501PLUS_2026-11-05_LAYOUT_AMPIO.pdf"
+                },
+                {
+                  "nome": "massima-m01-m01-plus.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/v9r2c8kj4nz81ep0fvr8s/massima-m01-m01-plus.pdf?rlkey=hvs7bfs0pvyzhp8eladb1npf6&dl=0?raw=1",
+                  "dimensione_kb": 28762,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PANAINO SRL UNIPERSONALE IMPASTATRICE MECNOSUD MOD.M501PLUS RISORSE/massima-m01-m01-plus.pdf"
+                }
+              ],
+              "_totale_file": 5
+            },
+            {
+              "nome": "2026_11_05 PERRETTA SERVICE DI IMMACOLATO EGIDIO BATTERIA EVAPORANTE COLDLINE RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PERRETTA SERVICE DI IMMACOLATO EGIDIO BATTERIA EVAPORANTE COLDLINE RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "COLDLINE OFFERTA 12231 DEL 05_11_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ahqex0axv7f8tm0y6ouei/COLDLINE-OFFERTA-12231-DEL-05_11_2026.pdf?rlkey=gjynsj26x8u29s6ks0ibi1nct&dl=0?raw=1",
+                  "dimensione_kb": 115,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PERRETTA SERVICE DI IMMACOLATO EGIDIO BATTERIA EVAPORANTE COLDLINE RISORSE/COLDLINE OFFERTA 12231 DEL 05_11_2026.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260522_PERRETTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/adqfj7zxjm3q2ihnbyi1s/OFFERTA_260522_PERRETTA.pdf?rlkey=6mq2jal8roko33whiv2q84a41&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PERRETTA SERVICE DI IMMACOLATO EGIDIO BATTERIA EVAPORANTE COLDLINE RISORSE/OFFERTA_260522_PERRETTA.pdf"
+                },
+                {
+                  "nome": "PERRETTA SERVICE DI IMMACOLATO EGIDIO Offerta di vendita_260522.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/baqnb7uorfsso8z64dqxy/PERRETTA-SERVICE-DI-IMMACOLATO-EGIDIO-Offerta-di-vendita_260522.pdf?rlkey=wi0ole8gxu51o5g9jhqk466m0&dl=0?raw=1",
+                  "dimensione_kb": 76,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PERRETTA SERVICE DI IMMACOLATO EGIDIO BATTERIA EVAPORANTE COLDLINE RISORSE/PERRETTA SERVICE DI IMMACOLATO EGIDIO Offerta di vendita_260522.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/iiuwm9n4bdz1wafgr0yw3/PREVENTIVO.json?rlkey=pljibnmgppgraqu6jpn2dwjhd&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PERRETTA SERVICE DI IMMACOLATO EGIDIO BATTERIA EVAPORANTE COLDLINE RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_PERRETTA_F211480152_2026-11-05_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/uurwa96fuyowgw4ua4d3m/PREVENTIVO_PERRETTA_F211480152_2026-11-05_LAYOUT_AMPIO.md?rlkey=sj94ikw4snrbyegi0ec52z9r6&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PERRETTA SERVICE DI IMMACOLATO EGIDIO BATTERIA EVAPORANTE COLDLINE RISORSE/PREVENTIVO_PERRETTA_F211480152_2026-11-05_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_PERRETTA_F211480152_2026-11-05_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/y64xb5d6ynd1vmooql5tx/PREVENTIVO_PERRETTA_F211480152_2026-11-05_LAYOUT_AMPIO.pdf?rlkey=7ri2jz1xrsgni0qii7sahv19c&dl=0?raw=1",
+                  "dimensione_kb": 57,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PERRETTA SERVICE DI IMMACOLATO EGIDIO BATTERIA EVAPORANTE COLDLINE RISORSE/PREVENTIVO_PERRETTA_F211480152_2026-11-05_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 6
             },
             {
               "nome": "2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR",
@@ -18529,7 +18938,7 @@
                       "nome": "FIMAR_Catalogue&Price_OTT_23 TV2500.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/j1mk4tbqf7kik0n7qckex/FIMAR_Catalogue-Price_OTT_23-TV2500.pdf?rlkey=tjyllz38zapt6j31orlyptuey&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 471,
                       "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/Fino al 2025_12_31 ARCHIVIO OFFERTE/AI CARCONI TAGLIAVERDURE/FIMAR_Catalogue&Price_OTT_23 TV2500.pdf"
                     },
@@ -72762,7 +73171,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5709
+          "_totale_file": 5747
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -72832,6 +73241,14 @@
               "link": "https://www.dropbox.com/scl/fi/zztcal3ngyncrjbudfdhj/ACAL-SRL-Ordine-cliente_260418_20260827_124646-RIF.-DETERGENTE.pdf?rlkey=gmffc01cay05ti5nlxfeaiqwf&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ACAL SRL Ordine cliente_260418_20260827_124646 RIF. DETERGENTE.pdf"
+            },
+            {
+              "nome": "ACAL SRL Ordine cliente_260543_20261105_132408 RIF. TUBETTO LUBRIFICANTE 25G.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0hmldfusoe8hf4b8fscs3/ACAL-SRL-Ordine-cliente_260543_20261105_132408-RIF.-TUBETTO-LUBRIFICANTE-25G.pdf?rlkey=81ftyw1crm0wq3nrnuegtzhhh&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ACAL SRL Ordine cliente_260543_20261105_132408 RIF. TUBETTO LUBRIFICANTE 25G.pdf"
             },
             {
               "nome": "AGRITURISMO COCCOVELLO di DA SILVA SOUZA MARIA ALICE Ordine cliente_260354_20260805_093859 RIF. MACINADOSATORE MD5000, OUTPUT GS 3,CAP.TRAMOGGIA KG1100, Ø M.pdf",
@@ -74882,6 +75299,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/M&M SRL Ordine cliente_260529_20261027_193500 RIF. GRIGLIA A RIGHE E QUADRETTI GN 11, RIVESTIMENTO IN TRILAX LF5171981.pdf"
             },
             {
+              "nome": "M&M SRL Ordine cliente_260542_20261105_094755 RIF. KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/gmhjt47itdyuj5cpqewxu/M-M-SRL-Ordine-cliente_260542_20261105_094755-RIF.-KAP-TECNET-MOVE-GREASY-KG-5-PER-FORNI-E-GRILL.pdf?rlkey=mykkm89cfvlpyq49jd114fxgg&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/M&M SRL Ordine cliente_260542_20261105_094755 RIF. KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL.pdf"
+            },
+            {
               "nome": "MACELLERIA COSENTINO DOMENICO Ordine cliente_260287_20260720_115333 RIF. PIASTRA E COLTELLO TRITACARNE 32.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -76010,7 +76435,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZM RIPARAZIONI DI ZACCARA MARIO Ordine cliente_260498_20261009_123654 RIF. MACINE CONICHE X MC99CONIK.pdf"
             }
           ],
-          "_totale_file": 405
+          "_totale_file": 407
         }
       ],
       "file": [
