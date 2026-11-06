@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-05T10:26:51Z",
-  "totale_file": 28420,
+  "generato": "2026-11-06T01:37:02Z",
+  "totale_file": 28435,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -80638,7 +80638,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7891,
+      "totale_file": 7906,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -94145,7 +94145,7 @@
                       "nome": "MODELLO SITUAZIONE CONTABILE.xlsx",
                       "tipo": "Excel",
                       "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/c8ulclpwi3g1eg4skdzgg/MODELLO-SITUAZIONE-CONTABILE.xlsx?rlkey=qrsn7utj3w1n3mi53i47v6bxk&dl=0?raw=1",
+                      "link": null,
                       "dimensione_kb": 11,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAINO/CATA' EVENTI/CATA' EVENTI SITUAZIONE CONTABILE AL 26_07_2024/MODELLO SITUAZIONE CONTABILE.xlsx"
                     },
@@ -104571,7 +104571,7 @@
                   "nome": "LA REGINA Fattura di vendita_2300843_20240319_200533.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/blx0nezgn65kzvvglof36/LA-REGINA-Fattura-di-vendita_2300843_20240319_200533.pdf?rlkey=e729pmkqzz61ow0qpmo6nh5hd&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 72,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA REGINA/LA REGINA Fattura di vendita_2300843_20240319_200533.pdf"
                 },
@@ -122648,8 +122648,306 @@
                 {
                   "nome": "ACAL ARCHIVIO",
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO",
-                  "cartelle": [],
+                  "cartelle": [
+                    {
+                      "nome": "ACAL ORDINI E SITUAZIONE DEL 29_09_2023",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023",
+                      "cartelle": [
+                        {
+                          "nome": "ARCHIVIO",
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "ACAL Offerta di vendita_230700_20231113_172203 COMPLETA.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/n9u1tu05vduhs7xc6d3ym/ACAL-Offerta-di-vendita_230700_20231113_172203-COMPLETA.pdf?rlkey=trxsk90k9ch9d7k50pm5qt6jx&dl=0?raw=1",
+                              "dimensione_kb": 94,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/ACAL Offerta di vendita_230700_20231113_172203 COMPLETA.pdf"
+                            },
+                            {
+                              "nome": "ACAL Offerta di vendita_230828_20231110_155732 CELLA+LAVABAR.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/a0x3u7x2jo5ifjejd1lhq/ACAL-Offerta-di-vendita_230828_20231110_155732-CELLA-LAVABAR.pdf?rlkey=pmuuas558p9sjy3sq4kq3r46w&dl=0?raw=1",
+                              "dimensione_kb": 92,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/ACAL Offerta di vendita_230828_20231110_155732 CELLA+LAVABAR.pdf"
+                            },
+                            {
+                              "nome": "Offerta di vendita_230700_20231006_114816 COMPLETA CREDITO D'IMPOSTA.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/uyvyse7vt9c4tuj6q9hj6/Offerta-di-vendita_230700_20231006_114816-COMPLETA-CREDITO-D-IMPOSTA.pdf?rlkey=n0rusk7rtqto2xobvhra8agzz&dl=0?raw=1",
+                              "dimensione_kb": 88,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/Offerta di vendita_230700_20231006_114816 COMPLETA CREDITO D'IMPOSTA.pdf"
+                            },
+                            {
+                              "nome": "Offerta di vendita_230700_20231006_193401 ATTREZZATURE.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/vl7cvf6bdmc9ybc6mzw2y/Offerta-di-vendita_230700_20231006_193401-ATTREZZATURE.pdf?rlkey=wo6ncmhkapkwtzjwyohh8hgut&dl=0?raw=1",
+                              "dimensione_kb": 93,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/Offerta di vendita_230700_20231006_193401 ATTREZZATURE.pdf"
+                            },
+                            {
+                              "nome": "Offerta di vendita_230700_20231018_175708 COMPLETA.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/hqj4axx9e3cav9nlfyriv/Offerta-di-vendita_230700_20231018_175708-COMPLETA.pdf?rlkey=9bgq3n1bdnbxfevx9yeszdmku&dl=0?raw=1",
+                              "dimensione_kb": 93,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/Offerta di vendita_230700_20231018_175708 COMPLETA.pdf"
+                            },
+                            {
+                              "nome": "Offerta di vendita_230737_20231006_191500 VITO R.pdf",
+                              "tipo": "PDF",
+                              "icona": "📄",
+                              "link": "https://www.dropbox.com/scl/fi/uts6olvqt6u0tu1j6d3za/Offerta-di-vendita_230737_20231006_191500-VITO-R.pdf?rlkey=1d159l8yue1xn8irjup0ai0hw&dl=0?raw=1",
+                              "dimensione_kb": 79,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/Offerta di vendita_230737_20231006_191500 VITO R.pdf"
+                            }
+                          ],
+                          "_totale_file": 6
+                        }
+                      ],
+                      "file": [
+                        {
+                          "nome": "ACAL Consegna_230956_20231219_134805 VETRINA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/bupi2e8l8ch0u2wich089/ACAL-Consegna_230956_20231219_134805-VETRINA.pdf?rlkey=y75bcby44ebdcmku4d0qidpae&dl=0?raw=1",
+                          "dimensione_kb": 60,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Consegna_230956_20231219_134805 VETRINA.pdf"
+                        },
+                        {
+                          "nome": "ACAL Consegna_231212_20231219_135334 FRIGGITRICE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/lgfmkoq9t1xj95wgqjvyk/ACAL-Consegna_231212_20231219_135334-FRIGGITRICE.pdf?rlkey=nfxackesvgoe15s76lxorbzss&dl=0?raw=1",
+                          "dimensione_kb": 60,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Consegna_231212_20231219_135334 FRIGGITRICE.pdf"
+                        },
+                        {
+                          "nome": "ACAL Consegna_231463_20231118_114917 CUCINA 4 F + VITO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/tsrznvzpntzlu0r114qrj/ACAL-Consegna_231463_20231118_114917-CUCINA-4-F-VITO.pdf?rlkey=yzanvrmblmhevjs37h2jcojcj&dl=0?raw=1",
+                          "dimensione_kb": 61,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Consegna_231463_20231118_114917 CUCINA 4 F + VITO.pdf"
+                        },
+                        {
+                          "nome": "ACAL Consegna_231463_20231219_135231 CUCINA_VITO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/0rs336pgjeginje0oqbm1/ACAL-Consegna_231463_20231219_135231-CUCINA_VITO.pdf?rlkey=aqvao42gsflf3mvm9dkklgwzi&dl=0?raw=1",
+                          "dimensione_kb": 61,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Consegna_231463_20231219_135231 CUCINA_VITO.pdf"
+                        },
+                        {
+                          "nome": "ACAL Consegna_231654_20231219_135037 CELLA_LAVABAR_CUCINA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/mvzbyqidpz91ttvd76kqm/ACAL-Consegna_231654_20231219_135037-CELLA_LAVABAR_CUCINA.pdf?rlkey=c9xbhydh54egkuohtipdspypj&dl=0?raw=1",
+                          "dimensione_kb": 62,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Consegna_231654_20231219_135037 CELLA_LAVABAR_CUCINA.pdf"
+                        },
+                        {
+                          "nome": "ACAL Fattura di vendita_2300476_20231219_134612 VETRINA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/amresnl5vwz9l7emjgrop/ACAL-Fattura-di-vendita_2300476_20231219_134612-VETRINA.pdf?rlkey=e4efhmvzm1eh4nv6fkibh4zpi&dl=0?raw=1",
+                          "dimensione_kb": 75,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Fattura di vendita_2300476_20231219_134612 VETRINA.pdf"
+                        },
+                        {
+                          "nome": "ACAL Fattura di vendita_2300673_20231118_114627 FRIGGITRCE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/xc3q0khopphwyh1vc965k/ACAL-Fattura-di-vendita_2300673_20231118_114627-FRIGGITRCE.pdf?rlkey=wgwm2z1577a7d7eyqqhl805hs&dl=0?raw=1",
+                          "dimensione_kb": 66,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Fattura di vendita_2300673_20231118_114627 FRIGGITRCE.pdf"
+                        },
+                        {
+                          "nome": "ACAL NUOVA SITUAZIONE CONTABILE 25_01_2025.xlsx",
+                          "tipo": "Excel",
+                          "icona": "📊",
+                          "link": "https://www.dropbox.com/scl/fi/exh4fupaalpeyl68lipk1/ACAL-NUOVA-SITUAZIONE-CONTABILE-25_01_2025.xlsx?rlkey=27y5jx3htudbgbk1a4u8vmf1j&dl=0?raw=1",
+                          "dimensione_kb": 14,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL NUOVA SITUAZIONE CONTABILE 25_01_2025.xlsx"
+                        },
+                        {
+                          "nome": "ACAL Offerta di vendita_230700_20231113_172203 COMPLETA 18_11_2023.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/wd05qc9q4285fi3w0ky4o/ACAL-Offerta-di-vendita_230700_20231113_172203-COMPLETA-18_11_2023.pdf?rlkey=xrbajzuzrfuf3wzu5i7glzfle&dl=0?raw=1",
+                          "dimensione_kb": 92,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Offerta di vendita_230700_20231113_172203 COMPLETA 18_11_2023.pdf"
+                        },
+                        {
+                          "nome": "ACAL Offerta di vendita_R_230678_CUCINA 6 FUOCHI GRIGLIE GHISA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/vyikjwhkcms4jby3w2ujh/ACAL-Offerta-di-vendita_R_230678_CUCINA-6-FUOCHI-GRIGLIE-GHISA.pdf?rlkey=d9kqg0koyubjfcxb7nyi9sfw5&dl=0?raw=1",
+                          "dimensione_kb": 84,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Offerta di vendita_R_230678_CUCINA 6 FUOCHI GRIGLIE GHISA.pdf"
+                        },
+                        {
+                          "nome": "ACAL Offerta di vendita_R_230737_20231016_160357 VITO X 1.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/q6m1zciltr94y4mc30rgc/ACAL-Offerta-di-vendita_R_230737_20231016_160357-VITO-X-1.pdf?rlkey=tlr1lwuqocnlktzkiokxn3gow&dl=0?raw=1",
+                          "dimensione_kb": 84,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Offerta di vendita_R_230737_20231016_160357 VITO X 1.pdf"
+                        },
+                        {
+                          "nome": "ACAL Offerta di vendita_R_230829_20231110_155850 CELLA+LAVABAR.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/a22dmeh4z3o1v0ohlpkhp/ACAL-Offerta-di-vendita_R_230829_20231110_155850-CELLA-LAVABAR.pdf?rlkey=iqhbdh2so6k8ld3kspbossqu2&dl=0?raw=1",
+                          "dimensione_kb": 84,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Offerta di vendita_R_230829_20231110_155850 CELLA+LAVABAR.pdf"
+                        },
+                        {
+                          "nome": "ACAL Ordine cliente _230835_20231219_135845 CUCINA 4F.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/jdtkftkyyqr08kjfp6tvm/ACAL-Ordine-cliente-_230835_20231219_135845-CUCINA-4F.pdf?rlkey=1dkqqmn9dye4ids824bndrk1l&dl=0?raw=1",
+                          "dimensione_kb": 65,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Ordine cliente _230835_20231219_135845 CUCINA 4F.pdf"
+                        },
+                        {
+                          "nome": "ACAL Ordine cliente_230602_20231219_134840 VETRINA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/n9evzdtac69kg0vtyszrd/ACAL-Ordine-cliente_230602_20231219_134840-VETRINA.pdf?rlkey=3k25ty4m6thpe52x68lzng5lq&dl=0?raw=1",
+                          "dimensione_kb": 66,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Ordine cliente_230602_20231219_134840 VETRINA.pdf"
+                        },
+                        {
+                          "nome": "ACAL Ordine cliente_230976_20231118_113930 CELLA LAVABAR CUCINA 2F.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/chcwl1gegaz605gcxq3nc/ACAL-Ordine-cliente_230976_20231118_113930-CELLA-LAVABAR-CUCINA-2F.pdf?rlkey=o3illp2g6i3i45qzuk0dx4g34&dl=0?raw=1",
+                          "dimensione_kb": 72,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Ordine cliente_230976_20231118_113930 CELLA LAVABAR CUCINA 2F.pdf"
+                        },
+                        {
+                          "nome": "ACAL Ordine cliente_230977_20231118_115745 CUCINA 2F R.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/sfk97i72v0zsbj8xcy5bi/ACAL-Ordine-cliente_230977_20231118_115745-CUCINA-2F-R.pdf?rlkey=7g3yn4z7m1j6dondl9vx3ea49&dl=0?raw=1",
+                          "dimensione_kb": 83,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Ordine cliente_230977_20231118_115745 CUCINA 2F R.pdf"
+                        },
+                        {
+                          "nome": "ACAL Ordine cliente_R_230593_20230929_205117 FRIGGITRICE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/jnr3uvzgk6hh0aceaf08j/ACAL-Ordine-cliente_R_230593_20230929_205117-FRIGGITRICE.pdf?rlkey=7wd7n3ntlic595x1g8h59g48z&dl=0?raw=1",
+                          "dimensione_kb": 90,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Ordine cliente_R_230593_20230929_205117 FRIGGITRICE.pdf"
+                        },
+                        {
+                          "nome": "ACAL SALDO DEL 01 SETTEMBRE 2026.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/ao67wb8cwt9g7ohvm3me9/ACAL-SALDO-DEL-01-SETTEMBRE-2026.jpeg?rlkey=7rcywkw0wsgg3antjlwg7p8s6&dl=0?raw=1",
+                          "dimensione_kb": 204,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL SALDO DEL 01 SETTEMBRE 2026.jpeg"
+                        },
+                        {
+                          "nome": "ACAL SRL Fattura di vendita_2300743_20231130_094032.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/qjih9sv6gaf9k147ihn9c/ACAL-SRL-Fattura-di-vendita_2300743_20231130_094032.pdf?rlkey=5dyr7ikhskamkvvz53rj8kfyb&dl=0?raw=1",
+                          "dimensione_kb": 67,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL SRL Fattura di vendita_2300743_20231130_094032.pdf"
+                        },
+                        {
+                          "nome": "ACAL SRL Fattura di vendita_2300787_20231218_200212.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/7en6oc451nzwub9b31d4i/ACAL-SRL-Fattura-di-vendita_2300787_20231218_200212.pdf?rlkey=ifujxu8gl4l4g6sy94bvi4oyd&dl=0?raw=1",
+                          "dimensione_kb": 72,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL SRL Fattura di vendita_2300787_20231218_200212.pdf"
+                        },
+                        {
+                          "nome": "H.END SITUAZIONE AL 4_07_2023.docx - collegamento.lnk",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/k5ng2xswgm9q2klyuhd1j/H.END-SITUAZIONE-AL-4_07_2023.docx-collegamento.lnk?rlkey=idh4o4t2b3t0yqjd3nhduf2wl&dl=0?raw=1",
+                          "dimensione_kb": 2,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/H.END SITUAZIONE AL 4_07_2023.docx - collegamento.lnk"
+                        },
+                        {
+                          "nome": "Ordine cliente_230602_20231006_192609 VETRINA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/xcndoq1yfcyk3ajgqqsi7/Ordine-cliente_230602_20231006_192609-VETRINA.pdf?rlkey=npjp1na0z9sxozbntmfa31qdd&dl=0?raw=1",
+                          "dimensione_kb": 66,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/Ordine cliente_230602_20231006_192609 VETRINA.pdf"
+                        },
+                        {
+                          "nome": "Ordine cliente_230767_20231006_200225 FRIGGITRICE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/fnrsdp53x20mv1acf050e/Ordine-cliente_230767_20231006_200225-FRIGGITRICE.pdf?rlkey=ndaydntmgrrb6jeitgqh4x4if&dl=0?raw=1",
+                          "dimensione_kb": 63,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/Ordine cliente_230767_20231006_200225 FRIGGITRICE.pdf"
+                        },
+                        {
+                          "nome": "Ordine cliente_230835_20231006_192443 CUCINA.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/nwoe71dluudols2cnmpfh/Ordine-cliente_230835_20231006_192443-CUCINA.pdf?rlkey=46237j61rjjau3ht93uhkw9b8&dl=0?raw=1",
+                          "dimensione_kb": 65,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/Ordine cliente_230835_20231006_192443 CUCINA.pdf"
+                        }
+                      ],
+                      "_totale_file": 30
+                    },
+                    {
+                      "nome": "ACAL PREVENTIVO BANDO MARZO 2026",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL PREVENTIVO BANDO MARZO 2026",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "ACAL Offerta di vendita_260026_20260311_132408.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/yykvwkl5mv9m3b93uvxyv/ACAL-Offerta-di-vendita_260026_20260311_132408.pdf?rlkey=l8pefu0svgtump43qpmcy3weh&dl=0?raw=1",
+                          "dimensione_kb": 93,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL PREVENTIVO BANDO MARZO 2026/ACAL Offerta di vendita_260026_20260311_132408.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    }
+                  ],
                   "file": [
+                    {
+                      "nome": "20231018_Bonifico_Viceconti_Snc__610000_.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/r9zhhszjwabeq700pipts/20231018_Bonifico_Viceconti_Snc__610000_.pdf?rlkey=yi18xmdowsbce99wnavxv5je6&dl=0?raw=1",
+                      "dimensione_kb": 7,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/20231018_Bonifico_Viceconti_Snc__610000_.pdf"
+                    },
+                    {
+                      "nome": "20240115_Bonifico_Viceconti_Snc__1215486_.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/vp8nbwa1g4pux6qzurr06/20240115_Bonifico_Viceconti_Snc__1215486_.pdf?rlkey=mdl4orq2w460zqgbaup9dlcx4&dl=0?raw=1",
+                      "dimensione_kb": 7,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/20240115_Bonifico_Viceconti_Snc__1215486_.pdf"
+                    },
+                    {
+                      "nome": "ACAL 20231122_Bonifico_Viceconti_Snc__1017358_.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/fc8imjp7347u85hghvqps/ACAL-20231122_Bonifico_Viceconti_Snc__1017358_.pdf?rlkey=o2d8xwp3605j93quheylptirk&dl=0?raw=1",
+                      "dimensione_kb": 7,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL 20231122_Bonifico_Viceconti_Snc__1017358_.pdf"
+                    },
                     {
                       "nome": "ACAL BONIFICO SALDO FT IMPASTATRICE Riepilogo operazione.pdf",
                       "tipo": "PDF",
@@ -122683,6 +122981,22 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL Consegna_221360_20221107_103949.pdf"
                     },
                     {
+                      "nome": "ACAL Consegna_250673_20250626_120238.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/w90c2s9kgnw434chdzb4k/ACAL-Consegna_250673_20250626_120238.pdf?rlkey=focasegy8pl2wpg7ghjcxdaql&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL Consegna_250673_20250626_120238.pdf"
+                    },
+                    {
+                      "nome": "ACAL Dettaglio bonifico istantaneo DEL 26_06_2025.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/6qzviia8h2s6t3sfqnak1/ACAL-Dettaglio-bonifico-istantaneo-DEL-26_06_2025.pdf?rlkey=wl9nlpdek4hazhfe5f8atn2cs&dl=0?raw=1",
+                      "dimensione_kb": 94,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL Dettaglio bonifico istantaneo DEL 26_06_2025.pdf"
+                    },
+                    {
                       "nome": "ACAL FATTURA IMPASTATRICE DOMINO DEL 02_11_2021.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -122699,6 +123013,14 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL FATTURA IMPASTATRICE DOMINO DEL 25_11_2021 corretta.pdf"
                     },
                     {
+                      "nome": "ACAL FATTURA IT016417907022025U_06pel.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/3npodxm2a8s0n6u2t1ule/ACAL-FATTURA-IT016417907022025U_06pel.pdf?rlkey=twalvuqc955fv6ftwz4mgvtvy&dl=0?raw=1",
+                      "dimensione_kb": 4,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL FATTURA IT016417907022025U_06pel.pdf"
+                    },
+                    {
                       "nome": "ACAL Fattura di vendita_220038_20220228_194742.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -122713,6 +123035,54 @@
                       "link": "https://www.dropbox.com/scl/fi/grqxle789jmkbmc4zxuop/ACAL-Fattura-di-vendita_220714_20221107_104041.pdf?rlkey=2pgeq3am69zfcl68q6d7n72fc&dl=0?raw=1",
                       "dimensione_kb": 76,
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL Fattura di vendita_220714_20221107_104041.pdf"
+                    },
+                    {
+                      "nome": "ACAL Fattura di vendita_2300831_20240109_130804.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/nn59wfvl9z2fmtikzrqjk/ACAL-Fattura-di-vendita_2300831_20240109_130804.pdf?rlkey=8ffkojbvk5gmm45rvq9ck4f2h&dl=0?raw=1",
+                      "dimensione_kb": 185,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL Fattura di vendita_2300831_20240109_130804.pdf"
+                    },
+                    {
+                      "nome": "ACAL LIBERATORIA DEL 07_03_2024.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/tzf9swnrtmx8sb9y4czly/ACAL-LIBERATORIA-DEL-07_03_2024.pdf?rlkey=ith3y4yw2gs6qdo309xxvl97d&dl=0?raw=1",
+                      "dimensione_kb": 378,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL LIBERATORIA DEL 07_03_2024.pdf"
+                    },
+                    {
+                      "nome": "ACAL LIBERATORIA DEL 11_06_2024-signed.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/s65xjntpk8isun4jk5re2/ACAL-LIBERATORIA-DEL-11_06_2024-signed.pdf?rlkey=g28a92lbca9q4ko5kloq5a2t0&dl=0?raw=1",
+                      "dimensione_kb": 1399,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL LIBERATORIA DEL 11_06_2024-signed.pdf"
+                    },
+                    {
+                      "nome": "ACAL LIBERATORIA DEL 11_06_2024.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/oss84co79yg9fs8c4vwpv/ACAL-LIBERATORIA-DEL-11_06_2024.pdf?rlkey=07m3r4ylnrbqm1lu3t889qhbn&dl=0?raw=1",
+                      "dimensione_kb": 1310,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL LIBERATORIA DEL 11_06_2024.pdf"
+                    },
+                    {
+                      "nome": "ACAL LIBERATORIA VICECONTI SNC DEL 26_06_2025.docx",
+                      "tipo": "Word",
+                      "icona": "📝",
+                      "link": "https://www.dropbox.com/scl/fi/j8r8a2dqcxw01mevilu1k/ACAL-LIBERATORIA-VICECONTI-SNC-DEL-26_06_2025.docx?rlkey=pvyufjr5dog4b83txreauf8kw&dl=0?raw=1",
+                      "dimensione_kb": 82,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL LIBERATORIA VICECONTI SNC DEL 26_06_2025.docx"
+                    },
+                    {
+                      "nome": "ACAL LIBERATORIA VICEONTI SNC.docx",
+                      "tipo": "Word",
+                      "icona": "📝",
+                      "link": "https://www.dropbox.com/scl/fi/0up339ptys8b3pg7ulvwc/ACAL-LIBERATORIA-VICEONTI-SNC.docx?rlkey=nsjlggkns79v5swzlpgzb2hn1&dl=0?raw=1",
+                      "dimensione_kb": 44,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL LIBERATORIA VICEONTI SNC.docx"
                     },
                     {
                       "nome": "ACAL NOTA DI CREDITO Nota di Credito Vendita_210033_20211125_182849.pdf",
@@ -122763,6 +123133,22 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL SRL FT 190402 DEL 21_8_2019.pdf"
                     },
                     {
+                      "nome": "ACAL SRL Offerta di vendita_260026_20260313_124137.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/37mg6hwwah3ysp8rb7aiz/ACAL-SRL-Offerta-di-vendita_260026_20260313_124137.pdf?rlkey=kasebqkrf9rskanx0u8stxm78&dl=0?raw=1",
+                      "dimensione_kb": 93,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ACAL SRL Offerta di vendita_260026_20260313_124137.pdf"
+                    },
+                    {
+                      "nome": "Acciaio T&D LISTINO_10-2020 TAVOLI AD ANGOLO.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/3esj317oovduod4bmwpqo/Acciaio-T-D-LISTINO_10-2020-TAVOLI-AD-ANGOLO.pdf?rlkey=vlvcgehlz2u15ab8dof15ggtk&dl=0?raw=1",
+                      "dimensione_kb": 303,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/Acciaio T&D LISTINO_10-2020 TAVOLI AD ANGOLO.pdf"
+                    },
+                    {
                       "nome": "CONVOCAZIONE_VICECONTI.docx",
                       "tipo": "Word",
                       "icona": "📝",
@@ -122779,6 +123165,14 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/DOMINO LISTINO PREZZI 2021 DA 25 OTTOBRE 2021.pdf listino tuff.pdf"
                     },
                     {
+                      "nome": "Fattura di vendita - Bozza documento_2500387_20250626_120647.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/9g1t77spea7k3nwz8kpr0/Fattura-di-vendita-Bozza-documento_2500387_20250626_120647.pdf?rlkey=rr34v4t428untcdd2by66kh3x&dl=0?raw=1",
+                      "dimensione_kb": 67,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/Fattura di vendita - Bozza documento_2500387_20250626_120647.pdf"
+                    },
+                    {
                       "nome": "Fattura di vendita_190663_acal.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -122793,6 +123187,14 @@
                       "link": "https://www.dropbox.com/scl/fi/bc2m9p0oayd2ph62aagp8/Offerta-di-vendita_210739_20211029_121321.pdf?rlkey=jmz0o8muqua68y0225xho6fia&dl=0?raw=1",
                       "dimensione_kb": 80,
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/Offerta di vendita_210739_20211029_121321.pdf"
+                    },
+                    {
+                      "nome": "Offerta di vendita_240160_ACAL_SEDIE.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/2n9o1ny4gjdwyzhyh9one/Offerta-di-vendita_240160_ACAL_SEDIE.pdf?rlkey=vtaqn1tpx02u5glypv3a7tb9m&dl=0?raw=1",
+                      "dimensione_kb": 91,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/Offerta di vendita_240160_ACAL_SEDIE.pdf"
                     },
                     {
                       "nome": "SITUAZIONE CONTABILE AL 14_01_2020.pdf",
@@ -122817,9 +123219,25 @@
                       "link": "https://www.dropbox.com/scl/fi/6vw5sosxlt161wfixz9xb/WhatsApp-Image-2021-10-27-at-09.16.06.jpeg?rlkey=1qu4a8sf3xqctnclehh3qs43i&dl=0?raw=1",
                       "dimensione_kb": 78,
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/WhatsApp Image 2021-10-27 at 09.16.06.jpeg"
+                    },
+                    {
+                      "nome": "liberatoria acal giugno 2024.docx",
+                      "tipo": "Word",
+                      "icona": "📝",
+                      "link": "https://www.dropbox.com/scl/fi/xuwba5b4rind9dlgk2pkj/liberatoria-acal-giugno-2024.docx?rlkey=x67lr8p9ygjm52bdmqn38chrv&dl=0?raw=1",
+                      "dimensione_kb": 433,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/liberatoria acal giugno 2024.docx"
+                    },
+                    {
+                      "nome": "ricevuta_operazione_2976623243.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/i4l4g5uu583n39j0vr59o/ricevuta_operazione_2976623243.pdf?rlkey=t8cgy0votkqhm8nt43k6nl5a6&dl=0?raw=1",
+                      "dimensione_kb": 7,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ARCHIVIO/ricevuta_operazione_2976623243.pdf"
                     }
                   ],
-                  "_totale_file": 21
+                  "_totale_file": 70
                 },
                 {
                   "nome": "ACAL DOCUMENTAZIONE 4.0",
@@ -123052,271 +123470,6 @@
                   ],
                   "file": [],
                   "_totale_file": 25
-                },
-                {
-                  "nome": "ACAL ORDINI E SITUAZIONE DEL 29_09_2023",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023",
-                  "cartelle": [
-                    {
-                      "nome": "ARCHIVIO",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "ACAL Offerta di vendita_230700_20231113_172203 COMPLETA.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/n9u1tu05vduhs7xc6d3ym/ACAL-Offerta-di-vendita_230700_20231113_172203-COMPLETA.pdf?rlkey=trxsk90k9ch9d7k50pm5qt6jx&dl=0?raw=1",
-                          "dimensione_kb": 94,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/ACAL Offerta di vendita_230700_20231113_172203 COMPLETA.pdf"
-                        },
-                        {
-                          "nome": "ACAL Offerta di vendita_230828_20231110_155732 CELLA+LAVABAR.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/a0x3u7x2jo5ifjejd1lhq/ACAL-Offerta-di-vendita_230828_20231110_155732-CELLA-LAVABAR.pdf?rlkey=pmuuas558p9sjy3sq4kq3r46w&dl=0?raw=1",
-                          "dimensione_kb": 92,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/ACAL Offerta di vendita_230828_20231110_155732 CELLA+LAVABAR.pdf"
-                        },
-                        {
-                          "nome": "Offerta di vendita_230700_20231006_114816 COMPLETA CREDITO D'IMPOSTA.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/uyvyse7vt9c4tuj6q9hj6/Offerta-di-vendita_230700_20231006_114816-COMPLETA-CREDITO-D-IMPOSTA.pdf?rlkey=n0rusk7rtqto2xobvhra8agzz&dl=0?raw=1",
-                          "dimensione_kb": 88,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/Offerta di vendita_230700_20231006_114816 COMPLETA CREDITO D'IMPOSTA.pdf"
-                        },
-                        {
-                          "nome": "Offerta di vendita_230700_20231006_193401 ATTREZZATURE.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/vl7cvf6bdmc9ybc6mzw2y/Offerta-di-vendita_230700_20231006_193401-ATTREZZATURE.pdf?rlkey=wo6ncmhkapkwtzjwyohh8hgut&dl=0?raw=1",
-                          "dimensione_kb": 93,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/Offerta di vendita_230700_20231006_193401 ATTREZZATURE.pdf"
-                        },
-                        {
-                          "nome": "Offerta di vendita_230700_20231018_175708 COMPLETA.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/hqj4axx9e3cav9nlfyriv/Offerta-di-vendita_230700_20231018_175708-COMPLETA.pdf?rlkey=9bgq3n1bdnbxfevx9yeszdmku&dl=0?raw=1",
-                          "dimensione_kb": 93,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/Offerta di vendita_230700_20231018_175708 COMPLETA.pdf"
-                        },
-                        {
-                          "nome": "Offerta di vendita_230737_20231006_191500 VITO R.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/uts6olvqt6u0tu1j6d3za/Offerta-di-vendita_230737_20231006_191500-VITO-R.pdf?rlkey=1d159l8yue1xn8irjup0ai0hw&dl=0?raw=1",
-                          "dimensione_kb": 79,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ARCHIVIO/Offerta di vendita_230737_20231006_191500 VITO R.pdf"
-                        }
-                      ],
-                      "_totale_file": 6
-                    }
-                  ],
-                  "file": [
-                    {
-                      "nome": "ACAL Consegna_230956_20231219_134805 VETRINA.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/bupi2e8l8ch0u2wich089/ACAL-Consegna_230956_20231219_134805-VETRINA.pdf?rlkey=y75bcby44ebdcmku4d0qidpae&dl=0?raw=1",
-                      "dimensione_kb": 60,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Consegna_230956_20231219_134805 VETRINA.pdf"
-                    },
-                    {
-                      "nome": "ACAL Consegna_231212_20231219_135334 FRIGGITRICE.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/lgfmkoq9t1xj95wgqjvyk/ACAL-Consegna_231212_20231219_135334-FRIGGITRICE.pdf?rlkey=nfxackesvgoe15s76lxorbzss&dl=0?raw=1",
-                      "dimensione_kb": 60,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Consegna_231212_20231219_135334 FRIGGITRICE.pdf"
-                    },
-                    {
-                      "nome": "ACAL Consegna_231463_20231118_114917 CUCINA 4 F + VITO.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/tsrznvzpntzlu0r114qrj/ACAL-Consegna_231463_20231118_114917-CUCINA-4-F-VITO.pdf?rlkey=yzanvrmblmhevjs37h2jcojcj&dl=0?raw=1",
-                      "dimensione_kb": 61,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Consegna_231463_20231118_114917 CUCINA 4 F + VITO.pdf"
-                    },
-                    {
-                      "nome": "ACAL Consegna_231463_20231219_135231 CUCINA_VITO.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/0rs336pgjeginje0oqbm1/ACAL-Consegna_231463_20231219_135231-CUCINA_VITO.pdf?rlkey=aqvao42gsflf3mvm9dkklgwzi&dl=0?raw=1",
-                      "dimensione_kb": 61,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Consegna_231463_20231219_135231 CUCINA_VITO.pdf"
-                    },
-                    {
-                      "nome": "ACAL Consegna_231654_20231219_135037 CELLA_LAVABAR_CUCINA.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/mvzbyqidpz91ttvd76kqm/ACAL-Consegna_231654_20231219_135037-CELLA_LAVABAR_CUCINA.pdf?rlkey=c9xbhydh54egkuohtipdspypj&dl=0?raw=1",
-                      "dimensione_kb": 62,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Consegna_231654_20231219_135037 CELLA_LAVABAR_CUCINA.pdf"
-                    },
-                    {
-                      "nome": "ACAL Fattura di vendita_2300476_20231219_134612 VETRINA.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/amresnl5vwz9l7emjgrop/ACAL-Fattura-di-vendita_2300476_20231219_134612-VETRINA.pdf?rlkey=e4efhmvzm1eh4nv6fkibh4zpi&dl=0?raw=1",
-                      "dimensione_kb": 75,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Fattura di vendita_2300476_20231219_134612 VETRINA.pdf"
-                    },
-                    {
-                      "nome": "ACAL Fattura di vendita_2300673_20231118_114627 FRIGGITRCE.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/xc3q0khopphwyh1vc965k/ACAL-Fattura-di-vendita_2300673_20231118_114627-FRIGGITRCE.pdf?rlkey=wgwm2z1577a7d7eyqqhl805hs&dl=0?raw=1",
-                      "dimensione_kb": 66,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Fattura di vendita_2300673_20231118_114627 FRIGGITRCE.pdf"
-                    },
-                    {
-                      "nome": "ACAL NUOVA SITUAZIONE CONTABILE 25_01_2025.xlsx",
-                      "tipo": "Excel",
-                      "icona": "📊",
-                      "link": "https://www.dropbox.com/scl/fi/exh4fupaalpeyl68lipk1/ACAL-NUOVA-SITUAZIONE-CONTABILE-25_01_2025.xlsx?rlkey=27y5jx3htudbgbk1a4u8vmf1j&dl=0?raw=1",
-                      "dimensione_kb": 14,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL NUOVA SITUAZIONE CONTABILE 25_01_2025.xlsx"
-                    },
-                    {
-                      "nome": "ACAL Offerta di vendita_230700_20231113_172203 COMPLETA 18_11_2023.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/wd05qc9q4285fi3w0ky4o/ACAL-Offerta-di-vendita_230700_20231113_172203-COMPLETA-18_11_2023.pdf?rlkey=xrbajzuzrfuf3wzu5i7glzfle&dl=0?raw=1",
-                      "dimensione_kb": 92,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Offerta di vendita_230700_20231113_172203 COMPLETA 18_11_2023.pdf"
-                    },
-                    {
-                      "nome": "ACAL Offerta di vendita_R_230678_CUCINA 6 FUOCHI GRIGLIE GHISA.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/vyikjwhkcms4jby3w2ujh/ACAL-Offerta-di-vendita_R_230678_CUCINA-6-FUOCHI-GRIGLIE-GHISA.pdf?rlkey=d9kqg0koyubjfcxb7nyi9sfw5&dl=0?raw=1",
-                      "dimensione_kb": 84,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Offerta di vendita_R_230678_CUCINA 6 FUOCHI GRIGLIE GHISA.pdf"
-                    },
-                    {
-                      "nome": "ACAL Offerta di vendita_R_230737_20231016_160357 VITO X 1.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/q6m1zciltr94y4mc30rgc/ACAL-Offerta-di-vendita_R_230737_20231016_160357-VITO-X-1.pdf?rlkey=tlr1lwuqocnlktzkiokxn3gow&dl=0?raw=1",
-                      "dimensione_kb": 84,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Offerta di vendita_R_230737_20231016_160357 VITO X 1.pdf"
-                    },
-                    {
-                      "nome": "ACAL Offerta di vendita_R_230829_20231110_155850 CELLA+LAVABAR.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/a22dmeh4z3o1v0ohlpkhp/ACAL-Offerta-di-vendita_R_230829_20231110_155850-CELLA-LAVABAR.pdf?rlkey=iqhbdh2so6k8ld3kspbossqu2&dl=0?raw=1",
-                      "dimensione_kb": 84,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Offerta di vendita_R_230829_20231110_155850 CELLA+LAVABAR.pdf"
-                    },
-                    {
-                      "nome": "ACAL Ordine cliente _230835_20231219_135845 CUCINA 4F.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/jdtkftkyyqr08kjfp6tvm/ACAL-Ordine-cliente-_230835_20231219_135845-CUCINA-4F.pdf?rlkey=1dkqqmn9dye4ids824bndrk1l&dl=0?raw=1",
-                      "dimensione_kb": 65,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Ordine cliente _230835_20231219_135845 CUCINA 4F.pdf"
-                    },
-                    {
-                      "nome": "ACAL Ordine cliente_230602_20231219_134840 VETRINA.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/n9evzdtac69kg0vtyszrd/ACAL-Ordine-cliente_230602_20231219_134840-VETRINA.pdf?rlkey=3k25ty4m6thpe52x68lzng5lq&dl=0?raw=1",
-                      "dimensione_kb": 66,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Ordine cliente_230602_20231219_134840 VETRINA.pdf"
-                    },
-                    {
-                      "nome": "ACAL Ordine cliente_230976_20231118_113930 CELLA LAVABAR CUCINA 2F.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/chcwl1gegaz605gcxq3nc/ACAL-Ordine-cliente_230976_20231118_113930-CELLA-LAVABAR-CUCINA-2F.pdf?rlkey=o3illp2g6i3i45qzuk0dx4g34&dl=0?raw=1",
-                      "dimensione_kb": 72,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Ordine cliente_230976_20231118_113930 CELLA LAVABAR CUCINA 2F.pdf"
-                    },
-                    {
-                      "nome": "ACAL Ordine cliente_230977_20231118_115745 CUCINA 2F R.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/sfk97i72v0zsbj8xcy5bi/ACAL-Ordine-cliente_230977_20231118_115745-CUCINA-2F-R.pdf?rlkey=7g3yn4z7m1j6dondl9vx3ea49&dl=0?raw=1",
-                      "dimensione_kb": 83,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Ordine cliente_230977_20231118_115745 CUCINA 2F R.pdf"
-                    },
-                    {
-                      "nome": "ACAL Ordine cliente_R_230593_20230929_205117 FRIGGITRICE.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/jnr3uvzgk6hh0aceaf08j/ACAL-Ordine-cliente_R_230593_20230929_205117-FRIGGITRICE.pdf?rlkey=7wd7n3ntlic595x1g8h59g48z&dl=0?raw=1",
-                      "dimensione_kb": 90,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL Ordine cliente_R_230593_20230929_205117 FRIGGITRICE.pdf"
-                    },
-                    {
-                      "nome": "ACAL SRL Fattura di vendita_2300743_20231130_094032.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/qjih9sv6gaf9k147ihn9c/ACAL-SRL-Fattura-di-vendita_2300743_20231130_094032.pdf?rlkey=5dyr7ikhskamkvvz53rj8kfyb&dl=0?raw=1",
-                      "dimensione_kb": 67,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL SRL Fattura di vendita_2300743_20231130_094032.pdf"
-                    },
-                    {
-                      "nome": "ACAL SRL Fattura di vendita_2300787_20231218_200212.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/7en6oc451nzwub9b31d4i/ACAL-SRL-Fattura-di-vendita_2300787_20231218_200212.pdf?rlkey=ifujxu8gl4l4g6sy94bvi4oyd&dl=0?raw=1",
-                      "dimensione_kb": 72,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/ACAL SRL Fattura di vendita_2300787_20231218_200212.pdf"
-                    },
-                    {
-                      "nome": "H.END SITUAZIONE AL 4_07_2023.docx - collegamento.lnk",
-                      "tipo": "File",
-                      "icona": "📎",
-                      "link": "https://www.dropbox.com/scl/fi/k5ng2xswgm9q2klyuhd1j/H.END-SITUAZIONE-AL-4_07_2023.docx-collegamento.lnk?rlkey=idh4o4t2b3t0yqjd3nhduf2wl&dl=0?raw=1",
-                      "dimensione_kb": 2,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/H.END SITUAZIONE AL 4_07_2023.docx - collegamento.lnk"
-                    },
-                    {
-                      "nome": "Ordine cliente_230602_20231006_192609 VETRINA.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/xcndoq1yfcyk3ajgqqsi7/Ordine-cliente_230602_20231006_192609-VETRINA.pdf?rlkey=npjp1na0z9sxozbntmfa31qdd&dl=0?raw=1",
-                      "dimensione_kb": 66,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/Ordine cliente_230602_20231006_192609 VETRINA.pdf"
-                    },
-                    {
-                      "nome": "Ordine cliente_230767_20231006_200225 FRIGGITRICE.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/fnrsdp53x20mv1acf050e/Ordine-cliente_230767_20231006_200225-FRIGGITRICE.pdf?rlkey=ndaydntmgrrb6jeitgqh4x4if&dl=0?raw=1",
-                      "dimensione_kb": 63,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/Ordine cliente_230767_20231006_200225 FRIGGITRICE.pdf"
-                    },
-                    {
-                      "nome": "Ordine cliente_230835_20231006_192443 CUCINA.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/nwoe71dluudols2cnmpfh/Ordine-cliente_230835_20231006_192443-CUCINA.pdf?rlkey=46237j61rjjau3ht93uhkw9b8&dl=0?raw=1",
-                      "dimensione_kb": 65,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL ORDINI E SITUAZIONE DEL 29_09_2023/Ordine cliente_230835_20231006_192443 CUCINA.pdf"
-                    }
-                  ],
-                  "_totale_file": 29
-                },
-                {
-                  "nome": "ACAL PREVENTIVO BANDO MARZO 2026",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL PREVENTIVO BANDO MARZO 2026",
-                  "cartelle": [],
-                  "file": [
-                    {
-                      "nome": "ACAL Offerta di vendita_260026_20260311_132408.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/yykvwkl5mv9m3b93uvxyv/ACAL-Offerta-di-vendita_260026_20260311_132408.pdf?rlkey=l8pefu0svgtump43qpmcy3weh&dl=0?raw=1",
-                      "dimensione_kb": 93,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL PREVENTIVO BANDO MARZO 2026/ACAL Offerta di vendita_260026_20260311_132408.pdf"
-                    }
-                  ],
-                  "_totale_file": 1
                 },
                 {
                   "nome": "ACAL SRL AREA TECNICA",
@@ -123818,132 +123971,12 @@
               ],
               "file": [
                 {
-                  "nome": "20231018_Bonifico_Viceconti_Snc__610000_.pdf",
+                  "nome": "Fattura di vendita - Bozza documento_2600570_20261105_185542.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/r9zhhszjwabeq700pipts/20231018_Bonifico_Viceconti_Snc__610000_.pdf?rlkey=yi18xmdowsbce99wnavxv5je6&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/20231018_Bonifico_Viceconti_Snc__610000_.pdf"
-                },
-                {
-                  "nome": "20240115_Bonifico_Viceconti_Snc__1215486_.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/vp8nbwa1g4pux6qzurr06/20240115_Bonifico_Viceconti_Snc__1215486_.pdf?rlkey=mdl4orq2w460zqgbaup9dlcx4&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/20240115_Bonifico_Viceconti_Snc__1215486_.pdf"
-                },
-                {
-                  "nome": "ACAL 20231122_Bonifico_Viceconti_Snc__1017358_.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/fc8imjp7347u85hghvqps/ACAL-20231122_Bonifico_Viceconti_Snc__1017358_.pdf?rlkey=o2d8xwp3605j93quheylptirk&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL 20231122_Bonifico_Viceconti_Snc__1017358_.pdf"
-                },
-                {
-                  "nome": "ACAL Consegna_250673_20250626_120238.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/w90c2s9kgnw434chdzb4k/ACAL-Consegna_250673_20250626_120238.pdf?rlkey=focasegy8pl2wpg7ghjcxdaql&dl=0?raw=1",
-                  "dimensione_kb": 57,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL Consegna_250673_20250626_120238.pdf"
-                },
-                {
-                  "nome": "ACAL Dettaglio bonifico istantaneo DEL 26_06_2025.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/6qzviia8h2s6t3sfqnak1/ACAL-Dettaglio-bonifico-istantaneo-DEL-26_06_2025.pdf?rlkey=wl9nlpdek4hazhfe5f8atn2cs&dl=0?raw=1",
-                  "dimensione_kb": 94,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL Dettaglio bonifico istantaneo DEL 26_06_2025.pdf"
-                },
-                {
-                  "nome": "ACAL FATTURA IT016417907022025U_06pel.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/3npodxm2a8s0n6u2t1ule/ACAL-FATTURA-IT016417907022025U_06pel.pdf?rlkey=twalvuqc955fv6ftwz4mgvtvy&dl=0?raw=1",
-                  "dimensione_kb": 4,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL FATTURA IT016417907022025U_06pel.pdf"
-                },
-                {
-                  "nome": "ACAL Fattura di vendita_2300831_20240109_130804.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/nn59wfvl9z2fmtikzrqjk/ACAL-Fattura-di-vendita_2300831_20240109_130804.pdf?rlkey=8ffkojbvk5gmm45rvq9ck4f2h&dl=0?raw=1",
-                  "dimensione_kb": 185,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL Fattura di vendita_2300831_20240109_130804.pdf"
-                },
-                {
-                  "nome": "ACAL LIBERATORIA DEL 07_03_2024.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/tzf9swnrtmx8sb9y4czly/ACAL-LIBERATORIA-DEL-07_03_2024.pdf?rlkey=ith3y4yw2gs6qdo309xxvl97d&dl=0?raw=1",
-                  "dimensione_kb": 378,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL LIBERATORIA DEL 07_03_2024.pdf"
-                },
-                {
-                  "nome": "ACAL LIBERATORIA DEL 11_06_2024-signed.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/s65xjntpk8isun4jk5re2/ACAL-LIBERATORIA-DEL-11_06_2024-signed.pdf?rlkey=g28a92lbca9q4ko5kloq5a2t0&dl=0?raw=1",
-                  "dimensione_kb": 1399,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL LIBERATORIA DEL 11_06_2024-signed.pdf"
-                },
-                {
-                  "nome": "ACAL LIBERATORIA DEL 11_06_2024.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/oss84co79yg9fs8c4vwpv/ACAL-LIBERATORIA-DEL-11_06_2024.pdf?rlkey=07m3r4ylnrbqm1lu3t889qhbn&dl=0?raw=1",
-                  "dimensione_kb": 1310,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL LIBERATORIA DEL 11_06_2024.pdf"
-                },
-                {
-                  "nome": "ACAL LIBERATORIA VICECONTI SNC DEL 26_06_2025.docx",
-                  "tipo": "Word",
-                  "icona": "📝",
-                  "link": "https://www.dropbox.com/scl/fi/j8r8a2dqcxw01mevilu1k/ACAL-LIBERATORIA-VICECONTI-SNC-DEL-26_06_2025.docx?rlkey=pvyufjr5dog4b83txreauf8kw&dl=0?raw=1",
-                  "dimensione_kb": 82,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL LIBERATORIA VICECONTI SNC DEL 26_06_2025.docx"
-                },
-                {
-                  "nome": "ACAL LIBERATORIA VICEONTI SNC.docx",
-                  "tipo": "Word",
-                  "icona": "📝",
-                  "link": "https://www.dropbox.com/scl/fi/0up339ptys8b3pg7ulvwc/ACAL-LIBERATORIA-VICEONTI-SNC.docx?rlkey=nsjlggkns79v5swzlpgzb2hn1&dl=0?raw=1",
-                  "dimensione_kb": 44,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL LIBERATORIA VICEONTI SNC.docx"
-                },
-                {
-                  "nome": "ACAL SRL Offerta di vendita_260026_20260313_124137.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/37mg6hwwah3ysp8rb7aiz/ACAL-SRL-Offerta-di-vendita_260026_20260313_124137.pdf?rlkey=kasebqkrf9rskanx0u8stxm78&dl=0?raw=1",
-                  "dimensione_kb": 93,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL Offerta di vendita_260026_20260313_124137.pdf"
-                },
-                {
-                  "nome": "Acciaio T&D LISTINO_10-2020 TAVOLI AD ANGOLO.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/3esj317oovduod4bmwpqo/Acciaio-T-D-LISTINO_10-2020-TAVOLI-AD-ANGOLO.pdf?rlkey=vlvcgehlz2u15ab8dof15ggtk&dl=0?raw=1",
-                  "dimensione_kb": 303,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/Acciaio T&D LISTINO_10-2020 TAVOLI AD ANGOLO.pdf"
-                },
-                {
-                  "nome": "Fattura di vendita - Bozza documento_2500387_20250626_120647.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/9g1t77spea7k3nwz8kpr0/Fattura-di-vendita-Bozza-documento_2500387_20250626_120647.pdf?rlkey=rr34v4t428untcdd2by66kh3x&dl=0?raw=1",
-                  "dimensione_kb": 67,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/Fattura di vendita - Bozza documento_2500387_20250626_120647.pdf"
-                },
-                {
-                  "nome": "Offerta di vendita_240160_ACAL_SEDIE.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/2n9o1ny4gjdwyzhyh9one/Offerta-di-vendita_240160_ACAL_SEDIE.pdf?rlkey=vtaqn1tpx02u5glypv3a7tb9m&dl=0?raw=1",
-                  "dimensione_kb": 91,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/Offerta di vendita_240160_ACAL_SEDIE.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/dnwr1lhi2ihgh2nwfi73q/Fattura-di-vendita-Bozza-documento_2600570_20261105_185542.pdf?rlkey=lsbf584k3w94zwqjx9vkfx0sf&dl=0?raw=1",
+                  "dimensione_kb": 126,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/Fattura di vendita - Bozza documento_2600570_20261105_185542.pdf"
                 },
                 {
                   "nome": "_CLIENTE C001628 ACAL SRL.txt",
@@ -123952,25 +123985,9 @@
                   "link": "https://www.dropbox.com/scl/fi/62ca6uzsak98l4avexejk/_CLIENTE-C001628-ACAL-SRL.txt?rlkey=9s7z5we1mdcyjdb14uypt31y2&dl=0?raw=1",
                   "dimensione_kb": 0,
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/_CLIENTE C001628 ACAL SRL.txt"
-                },
-                {
-                  "nome": "liberatoria acal giugno 2024.docx",
-                  "tipo": "Word",
-                  "icona": "📝",
-                  "link": "https://www.dropbox.com/scl/fi/xuwba5b4rind9dlgk2pkj/liberatoria-acal-giugno-2024.docx?rlkey=x67lr8p9ygjm52bdmqn38chrv&dl=0?raw=1",
-                  "dimensione_kb": 433,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/liberatoria acal giugno 2024.docx"
-                },
-                {
-                  "nome": "ricevuta_operazione_2976623243.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/i4l4g5uu583n39j0vr59o/ricevuta_operazione_2976623243.pdf?rlkey=t8cgy0votkqhm8nt43k6nl5a6&dl=0?raw=1",
-                  "dimensione_kb": 7,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ricevuta_operazione_2976623243.pdf"
                 }
               ],
-              "_totale_file": 142
+              "_totale_file": 144
             },
             {
               "nome": "AGRIBOSCO DI CARRAZZONE",
@@ -125580,6 +125597,62 @@
                     }
                   ],
                   "_totale_file": 3
+                },
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_11_05",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_05",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600561 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/x0bnh062if5xvdox00vop/FATTURA-2600561-DEL-2026_10_29.pdf?rlkey=i460o27nxcm0monkpnnlxjgvo&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_05/FATTURA 2600561 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600562 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/8st8zijmp1zagpcotfqfk/FATTURA-2600562-DEL-2026_10_29.pdf?rlkey=iik6sibaclg0ez62hje1glp2z&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_05/FATTURA 2600562 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600563 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ih6uculmkew8qzcvecuws/FATTURA-2600563-DEL-2026_10_29.pdf?rlkey=qo1j1u8c9der923vbkh4w2jgu&dl=0?raw=1",
+                      "dimensione_kb": 65,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_05/FATTURA 2600563 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600564 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/7fmvmdp9kgd108mtgjqgc/FATTURA-2600564-DEL-2026_10_29.pdf?rlkey=j1kex2i9piorgn2adussa7530&dl=0?raw=1",
+                      "dimensione_kb": 62,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_05/FATTURA 2600564 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600565 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/0ilckeizztfht3sqdvtmq/FATTURA-2600565-DEL-2026_10_29.pdf?rlkey=h8clgl3dv6o9h2h0kmyimhkoj&dl=0?raw=1",
+                      "dimensione_kb": 64,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_05/FATTURA 2600565 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE C000489.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/9nc8hrbe04tmh0uf86hzp/SITUAZIONE-CONTABILE-C000489.pdf?rlkey=shuigjg509aynp257o5xdxfhn&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_05/SITUAZIONE CONTABILE C000489.pdf"
+                    }
+                  ],
+                  "_totale_file": 6
                 }
               ],
               "file": [
@@ -125904,7 +125977,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/_CLIENTE C000489 GRAN SOLE.txt"
                 }
               ],
-              "_totale_file": 197
+              "_totale_file": 203
             },
             {
               "nome": "H.END",
@@ -126425,7 +126498,64 @@
             {
               "nome": "PANIFICIO D'IMPERIO",
               "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/PANIFICIO D'IMPERIO",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_11_05",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/PANIFICIO D'IMPERIO/SITUAZIONE CONTABILE AL 2026_11_05",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "DDT 260875 DEL 2026_10_09.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/jrxuowe1p37we61c01j11/DDT-260875-DEL-2026_10_09.pdf?rlkey=rof981uexdkkky4fkrc6ow0ne&dl=0?raw=1",
+                      "dimensione_kb": 54,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/PANIFICIO D'IMPERIO/SITUAZIONE CONTABILE AL 2026_11_05/DDT 260875 DEL 2026_10_09.pdf"
+                    },
+                    {
+                      "nome": "DDT 260904 DEL 2026_10_14.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/5lbxpa9uxforlo5x30wua/DDT-260904-DEL-2026_10_14.pdf?rlkey=66f8xrn3zh0xwll4jb5p518yv&dl=0?raw=1",
+                      "dimensione_kb": 53,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/PANIFICIO D'IMPERIO/SITUAZIONE CONTABILE AL 2026_11_05/DDT 260904 DEL 2026_10_14.pdf"
+                    },
+                    {
+                      "nome": "DDT 260960 DEL 2026_10_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/xmh7kwft6ygbup15rzklw/DDT-260960-DEL-2026_10_31.pdf?rlkey=otcuvb5wsexw3kqsmar67945s&dl=0?raw=1",
+                      "dimensione_kb": 51,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/PANIFICIO D'IMPERIO/SITUAZIONE CONTABILE AL 2026_11_05/DDT 260960 DEL 2026_10_31.pdf"
+                    },
+                    {
+                      "nome": "ORDINE 260499 DEL 2026_10_09.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/6ug816ruots5t6xzl10xi/ORDINE-260499-DEL-2026_10_09.pdf?rlkey=ro3f1vs848g1zey23zyc0vtqz&dl=0?raw=1",
+                      "dimensione_kb": 73,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/PANIFICIO D'IMPERIO/SITUAZIONE CONTABILE AL 2026_11_05/ORDINE 260499 DEL 2026_10_09.pdf"
+                    },
+                    {
+                      "nome": "ORDINE 260540 DEL 2026_11_03.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/1ij484mh1tg0a3aqst1jp/ORDINE-260540-DEL-2026_11_03.pdf?rlkey=y9xyy1axv18t620v6apq6u2b4&dl=0?raw=1",
+                      "dimensione_kb": 76,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/PANIFICIO D'IMPERIO/SITUAZIONE CONTABILE AL 2026_11_05/ORDINE 260540 DEL 2026_11_03.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE C000835.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/irharlwa4x7x7uihe0wkx/SITUAZIONE-CONTABILE-C000835.pdf?rlkey=8ye4s5pbkujeezdrj0owzap7i&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/PANIFICIO D'IMPERIO/SITUAZIONE CONTABILE AL 2026_11_05/SITUAZIONE CONTABILE C000835.pdf"
+                    }
+                  ],
+                  "_totale_file": 6
+                }
+              ],
               "file": [
                 {
                   "nome": "Fattura di vendita_2400359_20240710_160343.pdf",
@@ -126468,7 +126598,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/PANIFICIO D'IMPERIO/_CLIENTE C000835 PANIFICIO D'IMPERIO.txt"
                 }
               ],
-              "_totale_file": 5
+              "_totale_file": 11
             },
             {
               "nome": "PANIFICIO MAGIE DI GRANO",
@@ -127142,6 +127272,14 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/Viceconti Snc di Viceconti Gluseppe & Figli.pdf"
                 },
                 {
+                  "nome": "_CLIENTE C000405 SIRTAKI.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/7yzhmxdim9mhlk7iv2ddd/_CLIENTE-C000405-SIRTAKI.txt?rlkey=sz9mryfvekdgjgeiz3k0h1lri&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/_CLIENTE C000405 SIRTAKI.txt"
+                },
+                {
                   "nome": "stampaDisposizione_20210826122421.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -127150,11 +127288,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/stampaDisposizione_20210826122421.pdf"
                 }
               ],
-              "_totale_file": 67
+              "_totale_file": 68
             }
           ],
           "file": [],
-          "_totale_file": 477
+          "_totale_file": 492
         },
         {
           "nome": "ORIOLO",
@@ -130735,7 +130873,7 @@
                   "nome": "LA PIEDIGROTTA BONIFICO DEL 18_04_2023.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/z491khvqssrdtsctrnfjl/LA-PIEDIGROTTA-BONIFICO-DEL-18_04_2023.pdf?rlkey=equ8kxlmyuhdfben4x30atbgt&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 52,
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO/LA PIEDIGROTTA BONIFICO DEL 18_04_2023.pdf"
                 },
