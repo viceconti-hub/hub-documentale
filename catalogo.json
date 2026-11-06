@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-06T07:06:25Z",
-  "totale_file": 28481,
+  "generato": "2026-11-06T09:15:37Z",
+  "totale_file": 28484,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -203122,7 +203122,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5304,
+      "totale_file": 5307,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -203401,6 +203401,14 @@
               "link": "https://www.dropbox.com/scl/fi/3kvzuasp23hc8k9crue26/CIMBALI-GROUP-ENTRATA-MERCI-20016604.pdf?rlkey=5ys6ywg72tp3aa8soqnexzo1t&dl=0?raw=1",
               "dimensione_kb": 119,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/CIMBALI GROUP ENTRATA MERCI 20016604.pdf"
+            },
+            {
+              "nome": "CIMBALI GROUP ENTRATA MERCI 20017586.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/eczv09cts4svn2nhnulme/CIMBALI-GROUP-ENTRATA-MERCI-20017586.pdf?rlkey=4vfbdi98rh5gr7limtkaj9s1e&dl=0?raw=1",
+              "dimensione_kb": 122,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/CIMBALI GROUP ENTRATA MERCI 20017586.pdf"
             },
             {
               "nome": "CIMBALI GROUP SPA Entrata merci da fornitore_260071_20260520_213717 RIF. Basato su Ordini d'acquisto 260029..pdf",
@@ -203745,6 +203753,14 @@
               "link": "https://www.dropbox.com/scl/fi/8l1lbmtyo8g63k29fo19x/FIMAR-ENTRATA-MERCI-30324.pdf?rlkey=xl0u1uknjcsyjjxd3trt9dwf2&dl=0?raw=1",
               "dimensione_kb": 140,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR ENTRATA MERCI 30324.pdf"
+            },
+            {
+              "nome": "FIMAR ENTRATA MERCI 33625.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bgm9hq17lfdhi8pdrx1i3/FIMAR-ENTRATA-MERCI-33625.pdf?rlkey=lap3b2twz5z1h13bvrl62yqej&dl=0?raw=1",
+              "dimensione_kb": 142,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/FIMAR ENTRATA MERCI 33625.pdf"
             },
             {
               "nome": "FIMAR s.p.a. Entrata merci da fornitore_260067_20260519_074750 RIF. Basato su Ordini cliente 260131. Basato su Ordini d'acquisto AFFETTATRICE PER GIOIA CHALET.pdf",
@@ -204659,7 +204675,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 189
+          "_totale_file": 191
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -204670,7 +204686,7 @@
               "nome": "HOSHIZAKI Fattura-HEIT-SI009079 RIF. CALA DEL CITRO.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/jhccia9l96yp1crluttju/HOSHIZAKI-Fattura-HEIT-SI009079-RIF.-CALA-DEL-CITRO.pdf?rlkey=ah0vhowzgls9dx2j4zaegz5ii&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 258,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE PDF/HOSHIZAKI Fattura-HEIT-SI009079 RIF. CALA DEL CITRO.pdf"
             },
@@ -247077,7 +247093,7 @@
                   "nome": "SIRMAN spa Ordine dacquisto_260228_20260917_121832 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/tnt2d0mrx8i6h2q53svuj/SIRMAN-spa-Ordine-dacquisto_260228_20260917_121832-RIF.-MACELLERIA-COSENTINO-Basato-su-Ordini-cliente-260448..pdf?rlkey=gvzu56w0gzdb4gbgh7ar9k2fp&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 61,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260228_20260917_121832 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf"
                 },
@@ -247735,6 +247751,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CATERING EQUIPMENT SRL Ordine dacquisto_260279_20261021_153859 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf"
             },
             {
+              "nome": "ARRIS CONFERMA VICECONTI 2601648 RIF. CAMPOLEROSE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/fp2jh7nfqdhcdow1lj3c9/ARRIS-CONFERMA-VICECONTI-2601648-RIF.-CAMPOLEROSE.pdf?rlkey=srcxitcp6kjc23nbu3fjte5qy&dl=0?raw=1",
+              "dimensione_kb": 291,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARRIS CONFERMA VICECONTI 2601648 RIF. CAMPOLEROSE.pdf"
+            },
+            {
               "nome": "CIMBALI GROUP Conferma Ordine 20023839 del 12_10_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -247879,7 +247903,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3876
+          "_totale_file": 3877
         }
       ],
       "file": []
