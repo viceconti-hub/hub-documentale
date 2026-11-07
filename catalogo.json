@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-06T10:35:31Z",
-  "totale_file": 28484,
+  "generato": "2026-11-07T01:32:34Z",
+  "totale_file": 28494,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -81063,7 +81063,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7906,
+      "totale_file": 7916,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -94570,7 +94570,7 @@
                       "nome": "MODELLO SITUAZIONE CONTABILE.xlsx",
                       "tipo": "Excel",
                       "icona": "📊",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/c8ulclpwi3g1eg4skdzgg/MODELLO-SITUAZIONE-CONTABILE.xlsx?rlkey=qrsn7utj3w1n3mi53i47v6bxk&dl=0?raw=1",
                       "dimensione_kb": 11,
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAINO/CATA' EVENTI/CATA' EVENTI SITUAZIONE CONTABILE AL 26_07_2024/MODELLO SITUAZIONE CONTABILE.xlsx"
                     },
@@ -104996,7 +104996,7 @@
                   "nome": "LA REGINA Fattura di vendita_2300843_20240319_200533.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/blx0nezgn65kzvvglof36/LA-REGINA-Fattura-di-vendita_2300843_20240319_200533.pdf?rlkey=e729pmkqzz61ow0qpmo6nh5hd&dl=0?raw=1",
                   "dimensione_kb": 72,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA REGINA/LA REGINA Fattura di vendita_2300843_20240319_200533.pdf"
                 },
@@ -121006,6 +121006,54 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL",
               "cartelle": [
                 {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_11_06",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/SITUAZIONE CONTABILE AL 2026_11_06",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600200 DEL 2026_05_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/knp6pfhg7lfr84w6prqlf/FATTURA-2600200-DEL-2026_05_31.pdf?rlkey=4q2c7wkpidn3p0lt7sruqnhok&dl=0?raw=1",
+                      "dimensione_kb": 69,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/SITUAZIONE CONTABILE AL 2026_11_06/FATTURA 2600200 DEL 2026_05_31.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600461 DEL 2026_08_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/m6g4ftdoonhnllpzw21pt/FATTURA-2600461-DEL-2026_08_31.pdf?rlkey=zjokk3jflm5kseyiqknqvsd3k&dl=0?raw=1",
+                      "dimensione_kb": 67,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/SITUAZIONE CONTABILE AL 2026_11_06/FATTURA 2600461 DEL 2026_08_31.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600571 DEL 2026_10_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/40c0w1mqmf0m54qwrfc2g/FATTURA-2600571-DEL-2026_10_31.pdf?rlkey=sos3ts0glxn6za1gcmauqd5ym&dl=0?raw=1",
+                      "dimensione_kb": 64,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/SITUAZIONE CONTABILE AL 2026_11_06/FATTURA 2600571 DEL 2026_10_31.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600572 DEL 2026_10_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/gu8amrgnl02sh301hejok/FATTURA-2600572-DEL-2026_10_31.pdf?rlkey=7ec6x0so71xq6qvvdpsedtdjk&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/SITUAZIONE CONTABILE AL 2026_11_06/FATTURA 2600572 DEL 2026_10_31.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE C001093.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/s2ggxtnxvs5cht3ko84y0/SITUAZIONE-CONTABILE-C001093.pdf?rlkey=x0ss9fcm2hcgsk0np0w3pnobm&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/SITUAZIONE CONTABILE AL 2026_11_06/SITUAZIONE CONTABILE C001093.pdf"
+                    }
+                  ],
+                  "_totale_file": 5
+                },
+                {
                   "nome": "VELARDI AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/VELARDI AREA TECNICA",
                   "cartelle": [
@@ -121473,7 +121521,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/VELARDI SRL/_CLIENTE C001093 VELARDI SRL.txt"
                 }
               ],
-              "_totale_file": 49
+              "_totale_file": 54
             }
           ],
           "file": [
@@ -121486,7 +121534,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 976
+          "_totale_file": 981
         },
         {
           "nome": "MARCELLINA",
@@ -127517,6 +127565,46 @@
                     }
                   ],
                   "_totale_file": 4
+                },
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_11_06",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SITUAZIONE CONTABILE AL 2026_11_06",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600527 DEL 2026_09_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/dd6a61ry8wlnot7w7dea1/FATTURA-2600527-DEL-2026_09_30.pdf?rlkey=b1g99b1tbhia1esmmgzmfk2pc&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SITUAZIONE CONTABILE AL 2026_11_06/FATTURA 2600527 DEL 2026_09_30.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600568 DEL 2026_10_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/nxmxsf1vlubl2y67ijb8i/FATTURA-2600568-DEL-2026_10_31.pdf?rlkey=t290hhryktvx97bm4ubkf9rbn&dl=0?raw=1",
+                      "dimensione_kb": 65,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SITUAZIONE CONTABILE AL 2026_11_06/FATTURA 2600568 DEL 2026_10_31.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600569 DEL 2026_10_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ibobqtzk80jkw7mh16o82/FATTURA-2600569-DEL-2026_10_31.pdf?rlkey=t0594tcag9zuzzkji8ajdgw1c&dl=0?raw=1",
+                      "dimensione_kb": 61,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SITUAZIONE CONTABILE AL 2026_11_06/FATTURA 2600569 DEL 2026_10_31.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE C000405.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/eobcvthxuaoeb9lb01rjd/SITUAZIONE-CONTABILE-C000405.pdf?rlkey=iz2612nmlqa76y161ser69ksw&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/SITUAZIONE CONTABILE AL 2026_11_06/SITUAZIONE CONTABILE C000405.pdf"
+                    }
+                  ],
+                  "_totale_file": 4
                 }
               ],
               "file": [
@@ -127713,11 +127801,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/SIRTAKI/stampaDisposizione_20210826122421.pdf"
                 }
               ],
-              "_totale_file": 68
+              "_totale_file": 72
             }
           ],
           "file": [],
-          "_totale_file": 492
+          "_totale_file": 496
         },
         {
           "nome": "ORIOLO",
@@ -131298,7 +131386,7 @@
                   "nome": "LA PIEDIGROTTA BONIFICO DEL 18_04_2023.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/z491khvqssrdtsctrnfjl/LA-PIEDIGROTTA-BONIFICO-DEL-18_04_2023.pdf?rlkey=equ8kxlmyuhdfben4x30atbgt&dl=0?raw=1",
                   "dimensione_kb": 52,
                   "path": "/HUB DOCUMENTALE/CLIENTI/PRAIA/LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO/LA PIEDIGROTTA BONIFICO DEL 18_04_2023.pdf"
                 },
@@ -148627,7 +148715,7 @@
                   "nome": "Fattura di vendita_210476_20210828_104942.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/wsjtjpnsb2iond8mcwq07/Fattura-di-vendita_210476_20210828_104942.pdf?rlkey=0z3dt80xhq89urmud0719x11v&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 71,
                   "path": "/HUB DOCUMENTALE/CLIENTI/SCALEA/SOLE LUNA/Fattura di vendita_210476_20210828_104942.pdf"
                 },
@@ -156012,376 +156100,6 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA",
               "cartelle": [
                 {
-                  "nome": "AREA TECNICA MADI SNC DI DISMA",
-                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA",
-                  "cartelle": [
-                    {
-                      "nome": "FORNO RATIONAL MAD",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO RATIONAL MAD",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "80.51.27620TM20it-IT.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/28zs7u61r0e7urx829q2z/80.51.27620TM20it-IT.pdf?rlkey=gkjfq597cp31tw54d1rfsorlp&dl=0?raw=1",
-                          "dimensione_kb": 11959,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO RATIONAL MAD/80.51.27620TM20it-IT.pdf"
-                        },
-                        {
-                          "nome": "RATIONAL MADI CODICI DETERGENTI.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/6ygkfqkn8aodokck3dygi/RATIONAL-MADI-CODICI-DETERGENTI.jpeg?rlkey=crlvs29drys6fuiq0scf78o1r&dl=0?raw=1",
-                          "dimensione_kb": 215,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO RATIONAL MAD/RATIONAL MADI CODICI DETERGENTI.jpeg"
-                        }
-                      ],
-                      "_totale_file": 2
-                    },
-                    {
-                      "nome": "FORNO WIESHEU",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU",
-                      "cartelle": [
-                        {
-                          "nome": "FOTO 20_10_2023",
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/FOTO 20_10_2023",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "SENSORE 1 PT500.jpeg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/2if3aaplkdhqjaojl4dks/SENSORE-1-PT500.jpeg?rlkey=lc36xzek5r8z0pyjuh7id1mi9&dl=0?raw=1",
-                              "dimensione_kb": 550,
-                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/FOTO 20_10_2023/SENSORE 1 PT500.jpeg"
-                            },
-                            {
-                              "nome": "SONDA 2 .jpg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/58km1uqhslgkzqb2z665c/SONDA-2.jpg?rlkey=zox3xk2v9v4aikz7qj9x1isv1&dl=0?raw=1",
-                              "dimensione_kb": 67,
-                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/FOTO 20_10_2023/SONDA 2 .jpg"
-                            },
-                            {
-                              "nome": "WhatsApp Image 2023-10-20 at 13.47.12.jpeg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/colazuilnf33kg41tixvr/WhatsApp-Image-2023-10-20-at-13.47.12.jpeg?rlkey=to4c4c8oapavn7qljx6mflvv3&dl=0?raw=1",
-                              "dimensione_kb": 143,
-                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Image 2023-10-20 at 13.47.12.jpeg"
-                            },
-                            {
-                              "nome": "WhatsApp Image 2023-10-20 at 13.47.23.jpeg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/w35ktd7kbmrh884wn3ydy/WhatsApp-Image-2023-10-20-at-13.47.23.jpeg?rlkey=fumo4mgreb8bkyohcnu4uaf9u&dl=0?raw=1",
-                              "dimensione_kb": 147,
-                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Image 2023-10-20 at 13.47.23.jpeg"
-                            },
-                            {
-                              "nome": "WhatsApp Image 2023-10-20 at 13.47.35.jpeg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/45c1v4fjlwsqjlzt43eqn/WhatsApp-Image-2023-10-20-at-13.47.35.jpeg?rlkey=8q7hlk3n6mh3n7hyzs5uz4tos&dl=0?raw=1",
-                              "dimensione_kb": 131,
-                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Image 2023-10-20 at 13.47.35.jpeg"
-                            },
-                            {
-                              "nome": "WhatsApp Image 2023-10-20 at 13.47.52.jpeg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/uaxaf47gdn7y1gqoonizx/WhatsApp-Image-2023-10-20-at-13.47.52.jpeg?rlkey=2fk6u4b0g0bxtq9uuu37w90kn&dl=0?raw=1",
-                              "dimensione_kb": 71,
-                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Image 2023-10-20 at 13.47.52.jpeg"
-                            },
-                            {
-                              "nome": "WhatsApp Image 2023-10-20 at 13.48.03.jpeg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/vx4nej1mmzz3hfqyv62m7/WhatsApp-Image-2023-10-20-at-13.48.03.jpeg?rlkey=hbz73l3lwz8c9qylj707a5j2q&dl=0?raw=1",
-                              "dimensione_kb": 66,
-                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Image 2023-10-20 at 13.48.03.jpeg"
-                            },
-                            {
-                              "nome": "WhatsApp Video 2023-10-20 at 13.49.12.mp4",
-                              "tipo": "File",
-                              "icona": "📎",
-                              "link": "https://www.dropbox.com/scl/fi/rirshja352nsuzqw0mu2y/WhatsApp-Video-2023-10-20-at-13.49.12.mp4?rlkey=xosyh149q0kycma5lskju53qi&dl=0?raw=1",
-                              "dimensione_kb": 4045,
-                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Video 2023-10-20 at 13.49.12.mp4"
-                            }
-                          ],
-                          "_totale_file": 8
-                        }
-                      ],
-                      "file": [
-                        {
-                          "nome": "9401-191-003-IT_Steuerung.Exclusive_IS600E_SW18-01.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/lvxoo0p9hgcm2ngon8fpw/9401-191-003-IT_Steuerung.Exclusive_IS600E_SW18-01.pdf?rlkey=cgfr1ly8ulr4idjqlp8hecdhd&dl=0?raw=1",
-                          "dimensione_kb": 2931,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/9401-191-003-IT_Steuerung.Exclusive_IS600E_SW18-01.pdf"
-                        },
-                        {
-                          "nome": "EBO128alt_Eng.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/593fb9q8kiyp462lec5hu/EBO128alt_Eng.pdf?rlkey=arry3vzi6md2mzu2ozpb6nasv&dl=0?raw=1",
-                          "dimensione_kb": 3439,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/EBO128alt_Eng.pdf"
-                        },
-                        {
-                          "nome": "MADI DI DISMA WIESHEU PASS SERVICE.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/zjrcwkni8q42i7eymwd7o/MADI-DI-DISMA-WIESHEU-PASS-SERVICE.pdf?rlkey=7fpcxzt1vshox06m2ke9xhmo9&dl=0?raw=1",
-                          "dimensione_kb": 184,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/MADI DI DISMA WIESHEU PASS SERVICE.pdf"
-                        },
-                        {
-                          "nome": "MADI SNC BOLLA DI ASSISTENZA 241093 DEL 29_07_2024.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/au36w6a4oxtd8ky5hmi7x/MADI-SNC-BOLLA-DI-ASSISTENZA-241093-DEL-29_07_2024.pdf?rlkey=f5lekxcr0wdjt3n9iq5u8ycs6&dl=0?raw=1",
-                          "dimensione_kb": 71,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/MADI SNC BOLLA DI ASSISTENZA 241093 DEL 29_07_2024.pdf"
-                        },
-                        {
-                          "nome": "WIESHEU DATI MACCHINA BIS.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/097de1kbmqb01ewdzvdol/WIESHEU-DATI-MACCHINA-BIS.jpeg?rlkey=hfkam2e11h4w1yk2ze15s4daf&dl=0?raw=1",
-                          "dimensione_kb": 105,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/WIESHEU DATI MACCHINA BIS.jpeg"
-                        },
-                        {
-                          "nome": "WIESHEU DATI MACCHINA.jpg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/4ji1uv7oc7m39i5ac3t0l/WIESHEU-DATI-MACCHINA.jpg?rlkey=aoxbjl848tlfqnmrz3ajz6feh&dl=0?raw=1",
-                          "dimensione_kb": 153,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/WIESHEU DATI MACCHINA.jpg"
-                        },
-                        {
-                          "nome": "WIESHEU DDT 101842156 .pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/8b8t8fyddpalx1ko84tc7/WIESHEU-DDT-101842156.pdf?rlkey=gffu3y0rue99jqy49sci487kj&dl=0?raw=1",
-                          "dimensione_kb": 373,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/FORNO WIESHEU/WIESHEU DDT 101842156 .pdf"
-                        }
-                      ],
-                      "_totale_file": 15
-                    },
-                    {
-                      "nome": "MICROONDE FIMAR",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MICROONDE FIMAR",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "2025-08-05_095916.jpg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/vxg0mq67gah1m7iewav9f/2025-08-05_095916.jpg?rlkey=1bc7a430fy5po2pj3ede3i8dv&dl=0?raw=1",
-                          "dimensione_kb": 114,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MICROONDE FIMAR/2025-08-05_095916.jpg"
-                        },
-                        {
-                          "nome": "WhatsApp Image 2025-08-05 at 09.57.06 (1).jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/f3q8ozhovz4sfe3qh3h1w/WhatsApp-Image-2025-08-05-at-09.57.06-1.jpeg?rlkey=ogxg4f6fduflebbh1mvmw73dz&dl=0?raw=1",
-                          "dimensione_kb": 234,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MICROONDE FIMAR/WhatsApp Image 2025-08-05 at 09.57.06 (1).jpeg"
-                        },
-                        {
-                          "nome": "WhatsApp Image 2025-08-05 at 09.57.06.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/1449bxskdp51oe2xxj31v/WhatsApp-Image-2025-08-05-at-09.57.06.jpeg?rlkey=lrbsfuf7woffxq0jioa283h0j&dl=0?raw=1",
-                          "dimensione_kb": 166,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MICROONDE FIMAR/WhatsApp Image 2025-08-05 at 09.57.06.jpeg"
-                        }
-                      ],
-                      "_totale_file": 3
-                    },
-                    {
-                      "nome": "MIXER AD IMMERSIONE ROBOT COUPE MADI SNC",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MIXER AD IMMERSIONE ROBOT COUPE MADI SNC",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "WhatsApp Image 2024-12-28 at 17.38.11.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/zjw21apfq8g7fucb3wan3/WhatsApp-Image-2024-12-28-at-17.38.11.jpeg?rlkey=akxedferwdakzuj639ockmole&dl=0?raw=1",
-                          "dimensione_kb": 121,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MIXER AD IMMERSIONE ROBOT COUPE MADI SNC/WhatsApp Image 2024-12-28 at 17.38.11.jpeg"
-                        }
-                      ],
-                      "_totale_file": 1
-                    },
-                    {
-                      "nome": "MOTORI ASPIRAZIONE",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MOTORI ASPIRAZIONE",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "Consegna_211700_20250220_093157.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/0ldy9yzshx1xln1vr5b49/Consegna_211700_20250220_093157.pdf?rlkey=y78gkz05ndr8m22oyb772eqld&dl=0?raw=1",
-                          "dimensione_kb": 56,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MOTORI ASPIRAZIONE/Consegna_211700_20250220_093157.pdf"
-                        },
-                        {
-                          "nome": "MADI VIDEO MOTORE ESPULSIONE.mp4",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/a109i85l4gtioyg6bx926/MADI-VIDEO-MOTORE-ESPULSIONE.mp4?rlkey=2sg5gf7fnfi5i4yo8jn2rh89c&dl=0?raw=1",
-                          "dimensione_kb": 6720,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MOTORI ASPIRAZIONE/MADI VIDEO MOTORE ESPULSIONE.mp4"
-                        },
-                        {
-                          "nome": "WhatsApp Image 2025-02-19 at 13.53.07.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/qqojjanf5wbjx8cxmy9s7/WhatsApp-Image-2025-02-19-at-13.53.07.jpeg?rlkey=3c5rw3zxcnwcee0t65x7wqk92&dl=0?raw=1",
-                          "dimensione_kb": 182,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MOTORI ASPIRAZIONE/WhatsApp Image 2025-02-19 at 13.53.07.jpeg"
-                        },
-                        {
-                          "nome": "WhatsApp Image 2025-02-19 at 13.53.08.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/abb8zjmqxq707dafgoaoq/WhatsApp-Image-2025-02-19-at-13.53.08.jpeg?rlkey=nmpg5g833c4fezvh6jjvqzi6s&dl=0?raw=1",
-                          "dimensione_kb": 205,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MOTORI ASPIRAZIONE/WhatsApp Image 2025-02-19 at 13.53.08.jpeg"
-                        },
-                        {
-                          "nome": "WhatsApp Video 2025-02-19 at 13.53.08.mp4",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/fjxaqxr38zfomno01pcmh/WhatsApp-Video-2025-02-19-at-13.53.08.mp4?rlkey=04bdz6thr48m833y58t88xvrf&dl=0?raw=1",
-                          "dimensione_kb": 3071,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/MOTORI ASPIRAZIONE/WhatsApp Video 2025-02-19 at 13.53.08.mp4"
-                        }
-                      ],
-                      "_totale_file": 5
-                    },
-                    {
-                      "nome": "PRODUTTORE",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/PRODUTTORE",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "CB184HC PAGINA ESPLOSO PRESSOSTATO.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/1f6yg797rn9ta0mp8r97x/CB184HC-PAGINA-ESPLOSO-PRESSOSTATO.pdf?rlkey=igmuulzchyanfduer3r1713bg&dl=0?raw=1",
-                          "dimensione_kb": 230,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/PRODUTTORE/CB184HC PAGINA ESPLOSO PRESSOSTATO.pdf"
-                        },
-                        {
-                          "nome": "PRODUTTORE DI GHIACCIO DATI MACCHINA MADI.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/emqqoyoyopp69vb0g68o5/PRODUTTORE-DI-GHIACCIO-DATI-MACCHINA-MADI.jpeg?rlkey=xco0qrbyz67uzqslfqdvtjowv&dl=0?raw=1",
-                          "dimensione_kb": 187,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/PRODUTTORE/PRODUTTORE DI GHIACCIO DATI MACCHINA MADI.jpeg"
-                        }
-                      ],
-                      "_totale_file": 2
-                    },
-                    {
-                      "nome": "VETRINA VINI FORCAR MADI",
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/VETRINA VINI FORCAR MADI",
-                      "cartelle": [],
-                      "file": [
-                        {
-                          "nome": "G-VI180D-VI120D.pdf",
-                          "tipo": "PDF",
-                          "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/z199chjg0etcpj7749kzy/G-VI180D-VI120D.pdf?rlkey=6i0ioda1yrl4g7yspq4ner2x1&dl=0?raw=1",
-                          "dimensione_kb": 406,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/VETRINA VINI FORCAR MADI/G-VI180D-VI120D.pdf"
-                        },
-                        {
-                          "nome": "IMG_9225.MOV",
-                          "tipo": "File",
-                          "icona": "📎",
-                          "link": "https://www.dropbox.com/scl/fi/2fcnaojtvfbdonu3qqlg1/IMG_9225.MOV?rlkey=e8ag2tk0dfa3vivklmfn3wnsa&dl=0?raw=1",
-                          "dimensione_kb": 5835,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/VETRINA VINI FORCAR MADI/IMG_9225.MOV"
-                        },
-                        {
-                          "nome": "IMG_9237.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/q6lh1xoawk26ninmpdkxh/IMG_9237.jpeg?rlkey=ls1ds4semonh4yk0jeayrts0k&dl=0?raw=1",
-                          "dimensione_kb": 1529,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/VETRINA VINI FORCAR MADI/IMG_9237.jpeg"
-                        },
-                        {
-                          "nome": "IMG_9238.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/wfy6vd74zcw0bnn9wkf2h/IMG_9238.jpeg?rlkey=j8wwo1n5k99jhnil9w1q75e4f&dl=0?raw=1",
-                          "dimensione_kb": 2217,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/VETRINA VINI FORCAR MADI/IMG_9238.jpeg"
-                        },
-                        {
-                          "nome": "IMG_9239.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/b8tybozj1qlfdrdistpit/IMG_9239.jpeg?rlkey=oovhynoixwtx3mn0hovprgbau&dl=0?raw=1",
-                          "dimensione_kb": 2168,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/VETRINA VINI FORCAR MADI/IMG_9239.jpeg"
-                        },
-                        {
-                          "nome": "e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3 (1).jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/j023be0erbhiudg8xj6pa/e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3-1.jpeg?rlkey=81ce6q14ugweyy6tiir5uf6ru&dl=0?raw=1",
-                          "dimensione_kb": 157,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/VETRINA VINI FORCAR MADI/e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3 (1).jpeg"
-                        },
-                        {
-                          "nome": "e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3.jpeg",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/jcn8orxs08birzgjqgibr/e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3.jpeg?rlkey=yaao9ji1qbbys77u7sjfpgu10&dl=0?raw=1",
-                          "dimensione_kb": 157,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/VETRINA VINI FORCAR MADI/e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3.jpeg"
-                        },
-                        {
-                          "nome": "unnamed.png",
-                          "tipo": "Immagine",
-                          "icona": "🖼️",
-                          "link": "https://www.dropbox.com/scl/fi/bgngo5n8ciyz4iladrjcg/unnamed.png?rlkey=yvw86pslwhphytxyktb0x51ov&dl=0?raw=1",
-                          "dimensione_kb": 13,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/VETRINA VINI FORCAR MADI/unnamed.png"
-                        }
-                      ],
-                      "_totale_file": 8
-                    }
-                  ],
-                  "file": [
-                    {
-                      "nome": "2022 02721VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/6zofok8qt1sfxe1bscqpw/2022-02721VICECONTI-SNC-DI-ANTONIO-E-PROSPERO_Rep2.PDF?rlkey=tzg6yd2id72i6sm6lua9ej3qx&dl=0?raw=1",
-                      "dimensione_kb": 145,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/AREA TECNICA MADI SNC DI DISMA/2022 02721VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF"
-                    }
-                  ],
-                  "_totale_file": 37
-                },
-                {
                   "nome": "BOZZE NOTE DI CREDITO E RESIDUO",
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/BOZZE NOTE DI CREDITO E RESIDUO",
                   "cartelle": [
@@ -156598,6 +156316,392 @@
                     }
                   ],
                   "_totale_file": 11
+                },
+                {
+                  "nome": "MADI SNC DI DISMA AREA TECNICA",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA",
+                  "cartelle": [
+                    {
+                      "nome": "ABBATTITORE COLDLINE MOD.W5U MATRICOLA 112120008",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/ABBATTITORE COLDLINE MOD.W5U MATRICOLA 112120008",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "ABBATTITORE COLDLINE MOD.W5U MATRICOLA 112120008 DATI MACCHINA.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/hne6q8t0dwzf3qcz7e9tx/ABBATTITORE-COLDLINE-MOD.W5U-MATRICOLA-112120008-DATI-MACCHINA.jpeg?rlkey=hjzbprtaby26xpajlsh4vpk9x&dl=0?raw=1",
+                          "dimensione_kb": 89,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/ABBATTITORE COLDLINE MOD.W5U MATRICOLA 112120008/ABBATTITORE COLDLINE MOD.W5U MATRICOLA 112120008 DATI MACCHINA.jpeg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "FORNO RATIONAL MAD",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO RATIONAL MAD",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "80.51.27620TM20it-IT.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/28zs7u61r0e7urx829q2z/80.51.27620TM20it-IT.pdf?rlkey=gkjfq597cp31tw54d1rfsorlp&dl=0?raw=1",
+                          "dimensione_kb": 11959,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO RATIONAL MAD/80.51.27620TM20it-IT.pdf"
+                        },
+                        {
+                          "nome": "RATIONAL MADI CODICI DETERGENTI.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/6ygkfqkn8aodokck3dygi/RATIONAL-MADI-CODICI-DETERGENTI.jpeg?rlkey=crlvs29drys6fuiq0scf78o1r&dl=0?raw=1",
+                          "dimensione_kb": 215,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO RATIONAL MAD/RATIONAL MADI CODICI DETERGENTI.jpeg"
+                        }
+                      ],
+                      "_totale_file": 2
+                    },
+                    {
+                      "nome": "FORNO WIESHEU",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU",
+                      "cartelle": [
+                        {
+                          "nome": "FOTO 20_10_2023",
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/FOTO 20_10_2023",
+                          "cartelle": [],
+                          "file": [
+                            {
+                              "nome": "SENSORE 1 PT500.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/2if3aaplkdhqjaojl4dks/SENSORE-1-PT500.jpeg?rlkey=lc36xzek5r8z0pyjuh7id1mi9&dl=0?raw=1",
+                              "dimensione_kb": 550,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/FOTO 20_10_2023/SENSORE 1 PT500.jpeg"
+                            },
+                            {
+                              "nome": "SONDA 2 .jpg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/58km1uqhslgkzqb2z665c/SONDA-2.jpg?rlkey=zox3xk2v9v4aikz7qj9x1isv1&dl=0?raw=1",
+                              "dimensione_kb": 67,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/FOTO 20_10_2023/SONDA 2 .jpg"
+                            },
+                            {
+                              "nome": "WhatsApp Image 2023-10-20 at 13.47.12.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/colazuilnf33kg41tixvr/WhatsApp-Image-2023-10-20-at-13.47.12.jpeg?rlkey=to4c4c8oapavn7qljx6mflvv3&dl=0?raw=1",
+                              "dimensione_kb": 143,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Image 2023-10-20 at 13.47.12.jpeg"
+                            },
+                            {
+                              "nome": "WhatsApp Image 2023-10-20 at 13.47.23.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/w35ktd7kbmrh884wn3ydy/WhatsApp-Image-2023-10-20-at-13.47.23.jpeg?rlkey=fumo4mgreb8bkyohcnu4uaf9u&dl=0?raw=1",
+                              "dimensione_kb": 147,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Image 2023-10-20 at 13.47.23.jpeg"
+                            },
+                            {
+                              "nome": "WhatsApp Image 2023-10-20 at 13.47.35.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/45c1v4fjlwsqjlzt43eqn/WhatsApp-Image-2023-10-20-at-13.47.35.jpeg?rlkey=8q7hlk3n6mh3n7hyzs5uz4tos&dl=0?raw=1",
+                              "dimensione_kb": 131,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Image 2023-10-20 at 13.47.35.jpeg"
+                            },
+                            {
+                              "nome": "WhatsApp Image 2023-10-20 at 13.47.52.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/uaxaf47gdn7y1gqoonizx/WhatsApp-Image-2023-10-20-at-13.47.52.jpeg?rlkey=2fk6u4b0g0bxtq9uuu37w90kn&dl=0?raw=1",
+                              "dimensione_kb": 71,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Image 2023-10-20 at 13.47.52.jpeg"
+                            },
+                            {
+                              "nome": "WhatsApp Image 2023-10-20 at 13.48.03.jpeg",
+                              "tipo": "Immagine",
+                              "icona": "🖼️",
+                              "link": "https://www.dropbox.com/scl/fi/vx4nej1mmzz3hfqyv62m7/WhatsApp-Image-2023-10-20-at-13.48.03.jpeg?rlkey=hbz73l3lwz8c9qylj707a5j2q&dl=0?raw=1",
+                              "dimensione_kb": 66,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Image 2023-10-20 at 13.48.03.jpeg"
+                            },
+                            {
+                              "nome": "WhatsApp Video 2023-10-20 at 13.49.12.mp4",
+                              "tipo": "File",
+                              "icona": "📎",
+                              "link": "https://www.dropbox.com/scl/fi/rirshja352nsuzqw0mu2y/WhatsApp-Video-2023-10-20-at-13.49.12.mp4?rlkey=xosyh149q0kycma5lskju53qi&dl=0?raw=1",
+                              "dimensione_kb": 4045,
+                              "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/FOTO 20_10_2023/WhatsApp Video 2023-10-20 at 13.49.12.mp4"
+                            }
+                          ],
+                          "_totale_file": 8
+                        }
+                      ],
+                      "file": [
+                        {
+                          "nome": "9401-191-003-IT_Steuerung.Exclusive_IS600E_SW18-01.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/lvxoo0p9hgcm2ngon8fpw/9401-191-003-IT_Steuerung.Exclusive_IS600E_SW18-01.pdf?rlkey=cgfr1ly8ulr4idjqlp8hecdhd&dl=0?raw=1",
+                          "dimensione_kb": 2931,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/9401-191-003-IT_Steuerung.Exclusive_IS600E_SW18-01.pdf"
+                        },
+                        {
+                          "nome": "EBO128alt_Eng.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/593fb9q8kiyp462lec5hu/EBO128alt_Eng.pdf?rlkey=arry3vzi6md2mzu2ozpb6nasv&dl=0?raw=1",
+                          "dimensione_kb": 3439,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/EBO128alt_Eng.pdf"
+                        },
+                        {
+                          "nome": "MADI DI DISMA WIESHEU PASS SERVICE.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/zjrcwkni8q42i7eymwd7o/MADI-DI-DISMA-WIESHEU-PASS-SERVICE.pdf?rlkey=7fpcxzt1vshox06m2ke9xhmo9&dl=0?raw=1",
+                          "dimensione_kb": 184,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/MADI DI DISMA WIESHEU PASS SERVICE.pdf"
+                        },
+                        {
+                          "nome": "MADI SNC BOLLA DI ASSISTENZA 241093 DEL 29_07_2024.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/au36w6a4oxtd8ky5hmi7x/MADI-SNC-BOLLA-DI-ASSISTENZA-241093-DEL-29_07_2024.pdf?rlkey=f5lekxcr0wdjt3n9iq5u8ycs6&dl=0?raw=1",
+                          "dimensione_kb": 71,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/MADI SNC BOLLA DI ASSISTENZA 241093 DEL 29_07_2024.pdf"
+                        },
+                        {
+                          "nome": "WIESHEU DATI MACCHINA BIS.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/097de1kbmqb01ewdzvdol/WIESHEU-DATI-MACCHINA-BIS.jpeg?rlkey=hfkam2e11h4w1yk2ze15s4daf&dl=0?raw=1",
+                          "dimensione_kb": 105,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/WIESHEU DATI MACCHINA BIS.jpeg"
+                        },
+                        {
+                          "nome": "WIESHEU DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/4ji1uv7oc7m39i5ac3t0l/WIESHEU-DATI-MACCHINA.jpg?rlkey=aoxbjl848tlfqnmrz3ajz6feh&dl=0?raw=1",
+                          "dimensione_kb": 153,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/WIESHEU DATI MACCHINA.jpg"
+                        },
+                        {
+                          "nome": "WIESHEU DDT 101842156 .pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/8b8t8fyddpalx1ko84tc7/WIESHEU-DDT-101842156.pdf?rlkey=gffu3y0rue99jqy49sci487kj&dl=0?raw=1",
+                          "dimensione_kb": 373,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/FORNO WIESHEU/WIESHEU DDT 101842156 .pdf"
+                        }
+                      ],
+                      "_totale_file": 15
+                    },
+                    {
+                      "nome": "MICROONDE FIMAR",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MICROONDE FIMAR",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "2025-08-05_095916.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/vxg0mq67gah1m7iewav9f/2025-08-05_095916.jpg?rlkey=1bc7a430fy5po2pj3ede3i8dv&dl=0?raw=1",
+                          "dimensione_kb": 114,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MICROONDE FIMAR/2025-08-05_095916.jpg"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2025-08-05 at 09.57.06 (1).jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/f3q8ozhovz4sfe3qh3h1w/WhatsApp-Image-2025-08-05-at-09.57.06-1.jpeg?rlkey=ogxg4f6fduflebbh1mvmw73dz&dl=0?raw=1",
+                          "dimensione_kb": 234,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MICROONDE FIMAR/WhatsApp Image 2025-08-05 at 09.57.06 (1).jpeg"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2025-08-05 at 09.57.06.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/1449bxskdp51oe2xxj31v/WhatsApp-Image-2025-08-05-at-09.57.06.jpeg?rlkey=lrbsfuf7woffxq0jioa283h0j&dl=0?raw=1",
+                          "dimensione_kb": 166,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MICROONDE FIMAR/WhatsApp Image 2025-08-05 at 09.57.06.jpeg"
+                        }
+                      ],
+                      "_totale_file": 3
+                    },
+                    {
+                      "nome": "MIXER AD IMMERSIONE ROBOT COUPE MADI SNC",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MIXER AD IMMERSIONE ROBOT COUPE MADI SNC",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "WhatsApp Image 2024-12-28 at 17.38.11.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/zjw21apfq8g7fucb3wan3/WhatsApp-Image-2024-12-28-at-17.38.11.jpeg?rlkey=akxedferwdakzuj639ockmole&dl=0?raw=1",
+                          "dimensione_kb": 121,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MIXER AD IMMERSIONE ROBOT COUPE MADI SNC/WhatsApp Image 2024-12-28 at 17.38.11.jpeg"
+                        }
+                      ],
+                      "_totale_file": 1
+                    },
+                    {
+                      "nome": "MOTORI ASPIRAZIONE",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MOTORI ASPIRAZIONE",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "Consegna_211700_20250220_093157.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/0ldy9yzshx1xln1vr5b49/Consegna_211700_20250220_093157.pdf?rlkey=y78gkz05ndr8m22oyb772eqld&dl=0?raw=1",
+                          "dimensione_kb": 56,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MOTORI ASPIRAZIONE/Consegna_211700_20250220_093157.pdf"
+                        },
+                        {
+                          "nome": "MADI VIDEO MOTORE ESPULSIONE.mp4",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/a109i85l4gtioyg6bx926/MADI-VIDEO-MOTORE-ESPULSIONE.mp4?rlkey=2sg5gf7fnfi5i4yo8jn2rh89c&dl=0?raw=1",
+                          "dimensione_kb": 6720,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MOTORI ASPIRAZIONE/MADI VIDEO MOTORE ESPULSIONE.mp4"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2025-02-19 at 13.53.07.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/qqojjanf5wbjx8cxmy9s7/WhatsApp-Image-2025-02-19-at-13.53.07.jpeg?rlkey=3c5rw3zxcnwcee0t65x7wqk92&dl=0?raw=1",
+                          "dimensione_kb": 182,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MOTORI ASPIRAZIONE/WhatsApp Image 2025-02-19 at 13.53.07.jpeg"
+                        },
+                        {
+                          "nome": "WhatsApp Image 2025-02-19 at 13.53.08.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/abb8zjmqxq707dafgoaoq/WhatsApp-Image-2025-02-19-at-13.53.08.jpeg?rlkey=nmpg5g833c4fezvh6jjvqzi6s&dl=0?raw=1",
+                          "dimensione_kb": 205,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MOTORI ASPIRAZIONE/WhatsApp Image 2025-02-19 at 13.53.08.jpeg"
+                        },
+                        {
+                          "nome": "WhatsApp Video 2025-02-19 at 13.53.08.mp4",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/fjxaqxr38zfomno01pcmh/WhatsApp-Video-2025-02-19-at-13.53.08.mp4?rlkey=04bdz6thr48m833y58t88xvrf&dl=0?raw=1",
+                          "dimensione_kb": 3071,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/MOTORI ASPIRAZIONE/WhatsApp Video 2025-02-19 at 13.53.08.mp4"
+                        }
+                      ],
+                      "_totale_file": 5
+                    },
+                    {
+                      "nome": "PRODUTTORE",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/PRODUTTORE",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "CB184HC PAGINA ESPLOSO PRESSOSTATO.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/1f6yg797rn9ta0mp8r97x/CB184HC-PAGINA-ESPLOSO-PRESSOSTATO.pdf?rlkey=igmuulzchyanfduer3r1713bg&dl=0?raw=1",
+                          "dimensione_kb": 230,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/PRODUTTORE/CB184HC PAGINA ESPLOSO PRESSOSTATO.pdf"
+                        },
+                        {
+                          "nome": "PRODUTTORE DI GHIACCIO DATI MACCHINA MADI.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/emqqoyoyopp69vb0g68o5/PRODUTTORE-DI-GHIACCIO-DATI-MACCHINA-MADI.jpeg?rlkey=xco0qrbyz67uzqslfqdvtjowv&dl=0?raw=1",
+                          "dimensione_kb": 187,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/PRODUTTORE/PRODUTTORE DI GHIACCIO DATI MACCHINA MADI.jpeg"
+                        }
+                      ],
+                      "_totale_file": 2
+                    },
+                    {
+                      "nome": "VETRINA VINI FORCAR MADI",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/VETRINA VINI FORCAR MADI",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "G-VI180D-VI120D.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/z199chjg0etcpj7749kzy/G-VI180D-VI120D.pdf?rlkey=6i0ioda1yrl4g7yspq4ner2x1&dl=0?raw=1",
+                          "dimensione_kb": 406,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/VETRINA VINI FORCAR MADI/G-VI180D-VI120D.pdf"
+                        },
+                        {
+                          "nome": "IMG_9225.MOV",
+                          "tipo": "File",
+                          "icona": "📎",
+                          "link": "https://www.dropbox.com/scl/fi/2fcnaojtvfbdonu3qqlg1/IMG_9225.MOV?rlkey=e8ag2tk0dfa3vivklmfn3wnsa&dl=0?raw=1",
+                          "dimensione_kb": 5835,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/VETRINA VINI FORCAR MADI/IMG_9225.MOV"
+                        },
+                        {
+                          "nome": "IMG_9237.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/q6lh1xoawk26ninmpdkxh/IMG_9237.jpeg?rlkey=ls1ds4semonh4yk0jeayrts0k&dl=0?raw=1",
+                          "dimensione_kb": 1529,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/VETRINA VINI FORCAR MADI/IMG_9237.jpeg"
+                        },
+                        {
+                          "nome": "IMG_9238.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/wfy6vd74zcw0bnn9wkf2h/IMG_9238.jpeg?rlkey=j8wwo1n5k99jhnil9w1q75e4f&dl=0?raw=1",
+                          "dimensione_kb": 2217,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/VETRINA VINI FORCAR MADI/IMG_9238.jpeg"
+                        },
+                        {
+                          "nome": "IMG_9239.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/b8tybozj1qlfdrdistpit/IMG_9239.jpeg?rlkey=oovhynoixwtx3mn0hovprgbau&dl=0?raw=1",
+                          "dimensione_kb": 2168,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/VETRINA VINI FORCAR MADI/IMG_9239.jpeg"
+                        },
+                        {
+                          "nome": "e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3 (1).jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/j023be0erbhiudg8xj6pa/e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3-1.jpeg?rlkey=81ce6q14ugweyy6tiir5uf6ru&dl=0?raw=1",
+                          "dimensione_kb": 157,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/VETRINA VINI FORCAR MADI/e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3 (1).jpeg"
+                        },
+                        {
+                          "nome": "e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3.jpeg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/jcn8orxs08birzgjqgibr/e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3.jpeg?rlkey=yaao9ji1qbbys77u7sjfpgu10&dl=0?raw=1",
+                          "dimensione_kb": 157,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/VETRINA VINI FORCAR MADI/e0abd9cf-e87b-4cd6-97bf-4ada56c86ad3.jpeg"
+                        },
+                        {
+                          "nome": "unnamed.png",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/bgngo5n8ciyz4iladrjcg/unnamed.png?rlkey=yvw86pslwhphytxyktb0x51ov&dl=0?raw=1",
+                          "dimensione_kb": 13,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/VETRINA VINI FORCAR MADI/unnamed.png"
+                        }
+                      ],
+                      "_totale_file": 8
+                    }
+                  ],
+                  "file": [
+                    {
+                      "nome": "2022 02721VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/6zofok8qt1sfxe1bscqpw/2022-02721VICECONTI-SNC-DI-ANTONIO-E-PROSPERO_Rep2.PDF?rlkey=tzg6yd2id72i6sm6lua9ej3qx&dl=0?raw=1",
+                      "dimensione_kb": 145,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/MADI SNC DI DISMA AREA TECNICA/2022 02721VICECONTI SNC DI ANTONIO E PROSPERO_Rep2.PDF"
+                    }
+                  ],
+                  "_totale_file": 38
                 }
               ],
               "file": [
@@ -156826,7 +156930,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/MADI DI DISMA/_CLIENTE CO52077 MADI DI DISMA.txt"
                 }
               ],
-              "_totale_file": 87
+              "_totale_file": 88
             },
             {
               "nome": "MAGONETTI SNC DI ANDREA GIORGETTI E CHIARA MAGONARA",
@@ -157403,7 +157507,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TRECCHINA/Fattura anticipo cliente_2510012_20250710_103114.pdf"
             }
           ],
-          "_totale_file": 318
+          "_totale_file": 319
         },
         {
           "nome": "TRIESTE",
