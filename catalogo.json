@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-07T06:59:14Z",
-  "totale_file": 28494,
+  "generato": "2026-11-07T09:05:19Z",
+  "totale_file": 28504,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -203226,7 +203226,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5307,
+      "totale_file": 5317,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -204790,7 +204790,7 @@
               "nome": "HOSHIZAKI Fattura-HEIT-SI009079 RIF. CALA DEL CITRO.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/jhccia9l96yp1crluttju/HOSHIZAKI-Fattura-HEIT-SI009079-RIF.-CALA-DEL-CITRO.pdf?rlkey=ah0vhowzgls9dx2j4zaegz5ii&dl=0?raw=1",
               "dimensione_kb": 258,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE PDF/HOSHIZAKI Fattura-HEIT-SI009079 RIF. CALA DEL CITRO.pdf"
             },
@@ -205201,6 +205201,14 @@
               "link": "https://www.dropbox.com/scl/fi/6vkrd5jwb9rx1uk0btsmm/ALD-Automotive-Italia-S.r.l_INR1519114_2025-12-01.xml?rlkey=ky5xui6iqkk4pbvy9vo78ckwm&dl=0?raw=1",
               "dimensione_kb": 7,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ALD Automotive Italia S.r.l_INR1519114_2025-12-01.xml"
+            },
+            {
+              "nome": "ALD Automotive Italia S.r.l_INR1524396_2026-11-01.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/qdiih5kvx4jjhwo8qpyk6/ALD-Automotive-Italia-S.r.l_INR1524396_2026-11-01.xml?rlkey=y9z2vz014qfc6bg9n9rz6jwo7&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ALD Automotive Italia S.r.l_INR1524396_2026-11-01.xml"
             },
             {
               "nome": "ARISTARCO S.P.A_1961_2025-05-16.xml",
@@ -206585,6 +206593,14 @@
               "link": "https://www.dropbox.com/scl/fi/rnlqrs7wp363jxn2qu9jr/BRT-S.p.A_599011-996-_2025-09-30.xml?rlkey=3q1236mzqs7vefr2vm0nfup8r&dl=0?raw=1",
               "dimensione_kb": 191,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BRT S.p.A_599011 (996)_2025-09-30.xml"
+            },
+            {
+              "nome": "BRT S.p.A_623281 (996)_2026-10-31.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/qsc0ej6ajqdw7290wk2m4/BRT-S.p.A_623281-996-_2026-10-31.xml?rlkey=y0ndoepzi6415yvv6o76bigda&dl=0?raw=1",
+              "dimensione_kb": 120,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BRT S.p.A_623281 (996)_2026-10-31.xml"
             },
             {
               "nome": "BRT S.p.A_668353 (996)_2025-10-31.xml",
@@ -208603,6 +208619,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/FIMAR s.p.a_15606_2025-10-13.xml"
             },
             {
+              "nome": "FIMAR s.p.a_16935_2026-10-31.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/v774q04fq3pb67qprmxve/FIMAR-s.p.a_16935_2026-10-31.xml?rlkey=f0pxh0j15hz6ul6g2hur6x4l5&dl=0?raw=1",
+              "dimensione_kb": 127,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/FIMAR s.p.a_16935_2026-10-31.xml"
+            },
+            {
               "nome": "FIMAR s.p.a_17232_2025-11-12.xml",
               "tipo": "File",
               "icona": "📎",
@@ -208835,6 +208859,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/FRIGOMAT SRL_V2000237_2025-11-28.xml"
             },
             {
+              "nome": "FRIGOMECCANICA S.R.L_224500_2026-10-31.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/ro56yz12k19y4taj255tf/FRIGOMECCANICA-S.R.L_224500_2026-10-31.xml?rlkey=k3ncp4ifhncm6vag004jvc0r6&dl=0?raw=1",
+              "dimensione_kb": 19,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/FRIGOMECCANICA S.R.L_224500_2026-10-31.xml"
+            },
+            {
               "nome": "Fama Industrie Srl_2025-FCLI-0003509_2025-07-23.xml",
               "tipo": "File",
               "icona": "📎",
@@ -209057,6 +209089,14 @@
               "link": "https://www.dropbox.com/scl/fi/5316wzioj9ygylpmjo2gc/GLOBAL-COM-BASILICATA-SRL_720926_2026-09-01.xml?rlkey=9gdsbikkjdztisl2uow8590zm&dl=0?raw=1",
               "dimensione_kb": 4,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/GLOBAL COM BASILICATA SRL_720926_2026-09-01.xml"
+            },
+            {
+              "nome": "GLOBAL COM BASILICATA SRL_757526_2026-11-01.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/jsqt3vb9fvqfqpkh04l0y/GLOBAL-COM-BASILICATA-SRL_757526_2026-11-01.xml?rlkey=obyw2jjsbbf7jf9e5klyt8bxn&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/GLOBAL COM BASILICATA SRL_757526_2026-11-01.xml"
             },
             {
               "nome": "GOPACK S.R.L. a socio unico_00068626_2026-03-31.xml",
@@ -211963,6 +212003,30 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/REPA ITALIA SRL_20260122659_2026-09-30.xml"
             },
             {
+              "nome": "REPA ITALIA SRL_20260125103_2026-10-30.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/lfrfgv3zlr6kvbus7snms/REPA-ITALIA-SRL_20260125103_2026-10-30.xml?rlkey=9yuq1a6bwjj2xo1ujqc2hp2a7&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/REPA ITALIA SRL_20260125103_2026-10-30.xml"
+            },
+            {
+              "nome": "REPA ITALIA SRL_20260125104_2026-10-30.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/153abtyfw5tniephsuupw/REPA-ITALIA-SRL_20260125104_2026-10-30.xml?rlkey=ntxgj8wmit5otow5doj99bmq3&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/REPA ITALIA SRL_20260125104_2026-10-30.xml"
+            },
+            {
+              "nome": "REPA ITALIA SRL_20260125555_2026-10-31.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/2ujjjngm4tufuue0ovw9r/REPA-ITALIA-SRL_20260125555_2026-10-31.xml?rlkey=ehefy1yqx7pbos63co6d954md&dl=0?raw=1",
+              "dimensione_kb": 26,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/REPA ITALIA SRL_20260125555_2026-10-31.xml"
+            },
+            {
               "nome": "REPA ITALIA SRL_2026013283_2026-02-28.xml",
               "tipo": "File",
               "icona": "📎",
@@ -212257,6 +212321,14 @@
               "link": "https://www.dropbox.com/scl/fi/hp9fbec7iqv5nr51ehie4/SCARDINO-ANNUNZIATA_111_2025-01-31.xml?rlkey=0z6m6avgzo52tgbchkdlgxk15&dl=0?raw=1",
               "dimensione_kb": 100,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/SCARDINO ANNUNZIATA_111_2025-01-31.xml"
+            },
+            {
+              "nome": "SCARDINO ANNUNZIATA_1240_2026-10-31.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/r1s58ip0673ibn4438gfv/SCARDINO-ANNUNZIATA_1240_2026-10-31.xml?rlkey=j4jgp1qw6as82nqo9st96b0iw&dl=0?raw=1",
+              "dimensione_kb": 102,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/SCARDINO ANNUNZIATA_1240_2026-10-31.xml"
             },
             {
               "nome": "SCARDINO ANNUNZIATA_1322_2025-10-31.xml",
@@ -212841,6 +212913,14 @@
               "link": "https://www.dropbox.com/scl/fi/2j29vfq9modaoq1kcm8qa/SLAYER-BLADES-SRL_26FA008960_2026-10-23.xml?rlkey=5atpod8ghmlyz1ok5dwp7veg2&dl=0?raw=1",
               "dimensione_kb": 7,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/SLAYER BLADES SRL_26FA008960_2026-10-23.xml"
+            },
+            {
+              "nome": "SLAYER BLADES SRL_26FA009151_2026-10-28.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/7r6p9h4bv4vv9g6aoi0cb/SLAYER-BLADES-SRL_26FA009151_2026-10-28.xml?rlkey=m7w0rrpb26hkjpq9pbht27j7c&dl=0?raw=1",
+              "dimensione_kb": 12,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/SLAYER BLADES SRL_26FA009151_2026-10-28.xml"
             },
             {
               "nome": "SO.GE.AL. DI FRANCESCO PARENTE & C. SAS_3912_2025-10-30.xml",
@@ -214635,7 +214715,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/iMatteo di Bruno Matteo_79_2025-03-25.xml"
             }
           ],
-          "_totale_file": 1226
+          "_totale_file": 1236
         },
         {
           "nome": "LOGISTICA",
@@ -239029,7 +239109,7 @@
                           "nome": "RATIONAL CONFERMA Offerta_0021917933 RIF.DETERGENTE.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/4ssvvlo3zpi9zf7ty1d2l/RATIONAL-CONFERMA-Offerta_0021917933-RIF.DETERGENTE.pdf?rlkey=ey63xix19ypnl8qatsny97v7e&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 112,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/RATIONAL ORDINI D'ACQUISTO/RATIONAL ARCHIVIO/RATIONAL CONFERMA Offerta_0021917933 RIF.DETERGENTE.pdf"
                         },
@@ -239133,7 +239213,7 @@
                           "nome": "RATIONAL Conferma d'ordine_0005224893 RIF. TEGLIE E DETERSIVI.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/v4g7gb1xfter070zveh2z/RATIONAL-Conferma-d-ordine_0005224893-RIF.-TEGLIE-E-DETERSIVI.pdf?rlkey=r06kjsl8wzz44jf6jghn8zfan&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 170,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/RATIONAL ORDINI D'ACQUISTO/RATIONAL ARCHIVIO/RATIONAL Conferma d'ordine_0005224893 RIF. TEGLIE E DETERSIVI.pdf"
                         },
@@ -247197,7 +247277,7 @@
                   "nome": "SIRMAN spa Ordine dacquisto_260228_20260917_121832 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/tnt2d0mrx8i6h2q53svuj/SIRMAN-spa-Ordine-dacquisto_260228_20260917_121832-RIF.-MACELLERIA-COSENTINO-Basato-su-Ordini-cliente-260448..pdf?rlkey=gvzu56w0gzdb4gbgh7ar9k2fp&dl=0?raw=1",
                   "dimensione_kb": 61,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/SIRMAN spa Ordine dacquisto_260228_20260917_121832 RIF. MACELLERIA COSENTINO Basato su Ordini cliente 260448..pdf"
                 },
