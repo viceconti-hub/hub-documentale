@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-08T06:52:51Z",
-  "totale_file": 28510,
+  "generato": "2026-11-08T08:56:41Z",
+  "totale_file": 28511,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -203282,7 +203282,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5317,
+      "totale_file": 5318,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -239165,7 +239165,7 @@
                           "nome": "RATIONAL CONFERMA Offerta_0021917933 RIF.DETERGENTE.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/4ssvvlo3zpi9zf7ty1d2l/RATIONAL-CONFERMA-Offerta_0021917933-RIF.DETERGENTE.pdf?rlkey=ey63xix19ypnl8qatsny97v7e&dl=0?raw=1",
                           "dimensione_kb": 112,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/RATIONAL ORDINI D'ACQUISTO/RATIONAL ARCHIVIO/RATIONAL CONFERMA Offerta_0021917933 RIF.DETERGENTE.pdf"
                         },
@@ -239269,7 +239269,7 @@
                           "nome": "RATIONAL Conferma d'ordine_0005224893 RIF. TEGLIE E DETERSIVI.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": null,
+                          "link": "https://www.dropbox.com/scl/fi/v4g7gb1xfter070zveh2z/RATIONAL-Conferma-d-ordine_0005224893-RIF.-TEGLIE-E-DETERSIVI.pdf?rlkey=r06kjsl8wzz44jf6jghn8zfan&dl=0?raw=1",
                           "dimensione_kb": 170,
                           "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/RATIONAL ORDINI D'ACQUISTO/RATIONAL ARCHIVIO/RATIONAL Conferma d'ordine_0005224893 RIF. TEGLIE E DETERSIVI.pdf"
                         },
@@ -245058,6 +245058,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W04699VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3 RIF. SANTOS BACKBAR INTEGRAZIONE.PDF"
                 },
                 {
+                  "nome": "FIMAR CONFERMA ORDINE 2026W06510VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/o9hxkbh7ilsx2nzbc4cy1/FIMAR-CONFERMA-ORDINE-2026W06510VICECONTI-SNC-DI-ANTONIO-E-PROSPERO001017266_Rep3.PDF?rlkey=zsj4gxev92fb7gfij1k989ibz&dl=0?raw=1",
+                  "dimensione_kb": 132,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 2026W06510VICECONTI SNC DI ANTONIO E PROSPERO001017266_Rep3.PDF"
+                },
+                {
                   "nome": "FIMAR CONFERMA ORDINE 8076-W DEL 29_09_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -247754,7 +247762,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/unnamed.png"
                 }
               ],
-              "_totale_file": 3832
+              "_totale_file": 3833
             },
             {
               "nome": "GIMAR PREVENTIVI E CONFERME ORDINE",
@@ -248143,7 +248151,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3877
+          "_totale_file": 3878
         }
       ],
       "file": []
