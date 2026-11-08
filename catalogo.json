@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-08T03:29:24Z",
-  "totale_file": 28504,
+  "generato": "2026-11-08T06:52:51Z",
+  "totale_file": 28510,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7719,
+      "totale_file": 7725,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -17010,6 +17010,62 @@
                   "link": "https://www.dropbox.com/scl/fi/y64xb5d6ynd1vmooql5tx/PREVENTIVO_PERRETTA_F211480152_2026-11-05_LAYOUT_AMPIO.pdf?rlkey=7ri2jz1xrsgni0qii7sahv19c&dl=0?raw=1",
                   "dimensione_kb": 57,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PERRETTA SERVICE DI IMMACOLATO EGIDIO BATTERIA EVAPORANTE COLDLINE RISORSE/PREVENTIVO_PERRETTA_F211480152_2026-11-05_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 6
+            },
+            {
+              "nome": "2026_11_07 DA SPECIFICARE ARMADI COLDLINE RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_07 DA SPECIFICARE ARMADI COLDLINE RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "CARRELLO_2026-11-07.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/ma4byp1fdomj2iwfqph3x/CARRELLO_2026-11-07.jpg?rlkey=m6bsw4h36ip127cbkqpxxhyd2&dl=0?raw=1",
+                  "dimensione_kb": 60,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_07 DA SPECIFICARE ARMADI COLDLINE RISORSE/CARRELLO_2026-11-07.jpg"
+                },
+                {
+                  "nome": "CARRELLO_2026-11-07.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/nqlhj0bomcq365crptfkv/CARRELLO_2026-11-07.txt?rlkey=cot4pg9fq464nj629mxjbzjuo&dl=0?raw=1",
+                  "dimensione_kb": 1,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_07 DA SPECIFICARE ARMADI COLDLINE RISORSE/CARRELLO_2026-11-07.txt"
+                },
+                {
+                  "nome": "OFFERTA_260533_DA_SPECIFICARE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/t9ip3as9r8pz1iozcg9cc/OFFERTA_260533_DA_SPECIFICARE.pdf?rlkey=o4mpj13ojo5om6qcs7c9v6943&dl=0?raw=1",
+                  "dimensione_kb": 5465,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_07 DA SPECIFICARE ARMADI COLDLINE RISORSE/OFFERTA_260533_DA_SPECIFICARE.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/jj8dp67884c6pxaiep6ve/PREVENTIVO.json?rlkey=3zrx87sc560dz7thotcmaz2gq&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_07 DA SPECIFICARE ARMADI COLDLINE RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_DA_A12070200101_A12070600103_2026-11-07_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/iad2ukayi3hzdga9nqw6c/PREVENTIVO_DA_A12070200101_A12070600103_2026-11-07_LAYOUT_AMPIO.md?rlkey=3k0kqn5rh1c9l3iaynksdyq27&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_07 DA SPECIFICARE ARMADI COLDLINE RISORSE/PREVENTIVO_DA_A12070200101_A12070600103_2026-11-07_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_DA_A12070200101_A12070600103_2026-11-07_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1ko1nmr43g8h1tvoqottz/PREVENTIVO_DA_A12070200101_A12070600103_2026-11-07_LAYOUT_AMPIO.pdf?rlkey=5mjl6z665714nzx0uv7y13t64&dl=0?raw=1",
+                  "dimensione_kb": 2952,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_07 DA SPECIFICARE ARMADI COLDLINE RISORSE/PREVENTIVO_DA_A12070200101_A12070600103_2026-11-07_LAYOUT_AMPIO.pdf"
                 }
               ],
               "_totale_file": 6
@@ -73171,7 +73227,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5747
+          "_totale_file": 5753
         },
         {
           "nome": "ORDINI CLIENTE",
