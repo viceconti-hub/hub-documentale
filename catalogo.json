@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-09T10:34:47Z",
-  "totale_file": 28511,
+  "generato": "2026-11-10T01:35:39Z",
+  "totale_file": 28516,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -81119,7 +81119,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7916,
+      "totale_file": 7921,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -153289,6 +153289,54 @@
                     }
                   ],
                   "_totale_file": 3
+                },
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_11_09",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/SITUAZIONE CONTABILE AL 2026_11_09",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600551 DEL 2026_10_27.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/mjdpj67mtxamd5wouaabo/FATTURA-2600551-DEL-2026_10_27.pdf?rlkey=37nk4tngc14lc7h4srhum1ep6&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/SITUAZIONE CONTABILE AL 2026_11_09/FATTURA 2600551 DEL 2026_10_27.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600552 DEL 2026_10_27.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/gi9f1i5r2yz4z1e9s7rdk/FATTURA-2600552-DEL-2026_10_27.pdf?rlkey=87e9utmcdngpra7roomcjq2q7&dl=0?raw=1",
+                      "dimensione_kb": 61,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/SITUAZIONE CONTABILE AL 2026_11_09/FATTURA 2600552 DEL 2026_10_27.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600577 DEL 2026_10_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/fwokl5uun7knhi8dq9rp9/FATTURA-2600577-DEL-2026_10_31.pdf?rlkey=d3a8zrwjklvdlmjolu425fqfx&dl=0?raw=1",
+                      "dimensione_kb": 67,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/SITUAZIONE CONTABILE AL 2026_11_09/FATTURA 2600577 DEL 2026_10_31.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600578 DEL 2026_10_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/73l8krdp6k0l340r1zuuw/FATTURA-2600578-DEL-2026_10_31.pdf?rlkey=f9vu9hrck3joiyat3smpfue9a&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/SITUAZIONE CONTABILE AL 2026_11_09/FATTURA 2600578 DEL 2026_10_31.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE CO52615.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/wb8qis0q4uge4csno2e9t/SITUAZIONE-CONTABILE-CO52615.pdf?rlkey=7ml9oqzj15om68p1ey3qn7oq8&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/SITUAZIONE CONTABILE AL 2026_11_09/SITUAZIONE CONTABILE CO52615.pdf"
+                    }
+                  ],
+                  "_totale_file": 5
                 }
               ],
               "file": [
@@ -153301,7 +153349,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL/_CLIENTE CO52615 MeM SRL.txt"
                 }
               ],
-              "_totale_file": 43
+              "_totale_file": 48
             },
             {
               "nome": "NASTA BERARDINO",
@@ -154023,7 +154071,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/TORTORA/MeM SRL - collegamento.lnk"
             }
           ],
-          "_totale_file": 348
+          "_totale_file": 353
         },
         {
           "nome": "TORTORELLA",
