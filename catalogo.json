@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-10T03:36:53Z",
-  "totale_file": 28516,
+  "generato": "2026-11-10T07:07:01Z",
+  "totale_file": 28523,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7725,
+      "totale_file": 7732,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -17069,6 +17069,70 @@
                 }
               ],
               "_totale_file": 6
+            },
+            {
+              "nome": "2026_11_09 COPPOLA MICHELE GIUSEPPE ATTREZZATURE RISTORANTE RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_09 COPPOLA MICHELE GIUSEPPE ATTREZZATURE RISTORANTE RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "100.COLDLINE LISTINO listino-coldline-2025---it PAGINA 287.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7e21ljq63ul8tnhmtefbf/100.COLDLINE-LISTINO-listino-coldline-2025-it-PAGINA-287.pdf?rlkey=7x9hidd9yo9n4jepta8amde11&dl=0?raw=1",
+                  "dimensione_kb": 39,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_09 COPPOLA MICHELE GIUSEPPE ATTREZZATURE RISTORANTE RISORSE/100.COLDLINE LISTINO listino-coldline-2025---it PAGINA 287.pdf"
+                },
+                {
+                  "nome": "100.NEVO_QUIBI LISTINO 2025 PAGINA 159.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4n6728xlkblizfzam4j1a/100.NEVO_QUIBI-LISTINO-2025-PAGINA-159.pdf?rlkey=bgrchhfb7xuz0msxrn3e57qks&dl=0?raw=1",
+                  "dimensione_kb": 156,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_09 COPPOLA MICHELE GIUSEPPE ATTREZZATURE RISTORANTE RISORSE/100.NEVO_QUIBI LISTINO 2025 PAGINA 159.pdf"
+                },
+                {
+                  "nome": "LA1SLD714-850.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rwhdfsdeb6le250apmsy4/LA1SLD714-850.pdf?rlkey=y2vwor8angmmg0vjsa5jbbqr7&dl=0?raw=1",
+                  "dimensione_kb": 45,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_09 COPPOLA MICHELE GIUSEPPE ATTREZZATURE RISTORANTE RISORSE/LA1SLD714-850.pdf"
+                },
+                {
+                  "nome": "OFFERTA_IT2601030_SCALEA (COPPOLA MICHELE)_REV01_091126.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6oso9rxoopmmb9mnv1zoy/OFFERTA_IT2601030_SCALEA-COPPOLA-MICHELE-_REV01_091126.pdf?rlkey=1fxar8krnj2eckv386us83wjd&dl=0?raw=1",
+                  "dimensione_kb": 434,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_09 COPPOLA MICHELE GIUSEPPE ATTREZZATURE RISTORANTE RISORSE/OFFERTA_IT2601030_SCALEA (COPPOLA MICHELE)_REV01_091126.pdf"
+                },
+                {
+                  "nome": "Offerta di vendita_260534_20261109_135433.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ofbw6ued0q3t8gi7uh86i/Offerta-di-vendita_260534_20261109_135433.pdf?rlkey=4dltacr982sgu9noecvxsiqkh&dl=0?raw=1",
+                  "dimensione_kb": 97,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_09 COPPOLA MICHELE GIUSEPPE ATTREZZATURE RISTORANTE RISORSE/Offerta di vendita_260534_20261109_135433.pdf"
+                },
+                {
+                  "nome": "R70-80PCG-P.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lp5pvzy4h5fsuhxfiemba/R70-80PCG-P.pdf?rlkey=r9zxj5o18x7hvkz2qaj1yqgad&dl=0?raw=1",
+                  "dimensione_kb": 165,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_09 COPPOLA MICHELE GIUSEPPE ATTREZZATURE RISTORANTE RISORSE/R70-80PCG-P.pdf"
+                },
+                {
+                  "nome": "TRA710-850.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9q9nq2dvfjs44m6wa6gis/TRA710-850.pdf?rlkey=4y5cwiq5izigrijiwv58s0s5g&dl=0?raw=1",
+                  "dimensione_kb": 65,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_09 COPPOLA MICHELE GIUSEPPE ATTREZZATURE RISTORANTE RISORSE/TRA710-850.pdf"
+                }
+              ],
+              "_totale_file": 7
             },
             {
               "nome": "2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR",
@@ -73227,7 +73291,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5753
+          "_totale_file": 5760
         },
         {
           "nome": "ORDINI CLIENTE",
