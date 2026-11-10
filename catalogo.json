@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-10T09:18:24Z",
-  "totale_file": 28525,
+  "generato": "2026-11-10T10:23:05Z",
+  "totale_file": 28527,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -248288,7 +248288,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2486,
+      "totale_file": 2488,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -248842,6 +248842,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ACCIAIO T&D SRL COPIA TITOLI BPER 31_10_2026 30_11_2026 31_12_2026 3819,47.pdf"
             },
             {
+              "nome": "ARISTARCO COPIA TITOLI INTESA 31_01_2027 28_02_2027.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bnrga1k2t7c8akqx6ueu5/ARISTARCO-COPIA-TITOLI-INTESA-31_01_2027-28_02_2027.pdf?rlkey=z60r3os55oghm886n2sy3b1x4&dl=0?raw=1",
+              "dimensione_kb": 689,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARISTARCO COPIA TITOLI INTESA 31_01_2027 28_02_2027.pdf"
+            },
+            {
               "nome": "ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -249114,7 +249122,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/TRASPORTI AMETRANO SRL COPIA TITOLO MPS 30_10_2026 671,00.pdf"
             }
           ],
-          "_totale_file": 71
+          "_totale_file": 72
         },
         {
           "nome": "PAGAMENTI IN USCITA BONIFICI",
@@ -269724,6 +269732,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/COLDLINE Dettaglio bonifico DEL 07_07_2026.pdf"
             },
             {
+              "nome": "COLDLINE Dettaglio bonifico istantaneo DEL 09_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/x158kk53z5tl2e7ojkmad/COLDLINE-Dettaglio-bonifico-istantaneo-DEL-09_11_2026.pdf?rlkey=8xjt29lbrme5pxoq17qp290ej&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/COLDLINE Dettaglio bonifico istantaneo DEL 09_11_2026.pdf"
+            },
+            {
               "nome": "COLDLINE Dettaglio bonifico istantaneo DEL 10_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -270556,7 +270572,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2388
+          "_totale_file": 2389
         }
       ],
       "file": []
