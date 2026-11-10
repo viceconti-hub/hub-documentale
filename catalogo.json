@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-10T07:07:01Z",
-  "totale_file": 28523,
+  "generato": "2026-11-10T09:18:24Z",
+  "totale_file": 28525,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -203394,7 +203394,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5318,
+      "totale_file": 5320,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -246266,6 +246266,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/LA MITO srl KLIMAITALIA Ordine dacquisto_260176_20260723_154604 RIF. RICAMBI PER RICCIARDONE E BOTTEGA 63.pdf"
                 },
                 {
+                  "nome": "LILLY CODROIPO Ordine dacquisto_260254_20261104_123004 RIF. PANIFICIO D'IMPERIO Basato su Offerte di vendita 260437..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/psvtd74s5bzk4zwso8slc/LILLY-CODROIPO-Ordine-dacquisto_260254_20261104_123004-RIF.-PANIFICIO-D-IMPERIO-Basato-su-Offerte-di-vendita-260437..pdf?rlkey=7l339yq4jo6dcx06c9ogivtto&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/LILLY CODROIPO Ordine dacquisto_260254_20261104_123004 RIF. PANIFICIO D'IMPERIO Basato su Offerte di vendita 260437..pdf"
+                },
+                {
                   "nome": "LOTUS CONFERMA ORIDNE 00000000390460_00000000067519900 RIF. LIDO VALENTINA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -247874,7 +247882,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/unnamed.png"
                 }
               ],
-              "_totale_file": 3833
+              "_totale_file": 3834
             },
             {
               "nome": "GIMAR PREVENTIVI E CONFERME ORDINE",
@@ -248127,6 +248135,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CIMBALI GROUP Conferma Ordine 20023839 del 12_10_2026.pdf"
             },
             {
+              "nome": "COLDLINE CONFERMA ORDINE 26-19543 DEL 09_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qqzahsuauvfmxhpr9gfeg/COLDLINE-CONFERMA-ORDINE-26-19543-DEL-09_11_2026.pdf?rlkey=zn57tcff0e05ccvce6ohgmbpe&dl=0?raw=1",
+              "dimensione_kb": 87,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE CONFERMA ORDINE 26-19543 DEL 09_11_2026.pdf"
+            },
+            {
+              "nome": "COLDLINE CONFERMA Offerta nr. 12231 RIF.PERRETTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/a1qwfa1zpti9iwmmlk18x/COLDLINE-CONFERMA-Offerta-nr.-12231-RIF.PERRETTA.pdf?rlkey=aavxahp1lm0x58ca80cnfzl96&dl=0?raw=1",
+              "dimensione_kb": 125,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE CONFERMA Offerta nr. 12231 RIF.PERRETTA.pdf"
+            },
+            {
               "nome": "COLDLINE Conferma ordine n°26-13874 RIF.GRIGLIE MAG.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -248181,14 +248205,6 @@
               "link": "https://www.dropbox.com/scl/fi/16k5qc1d3ovh5g5x10ho8/KAREL-CONFERMA-D-ORDINE-202626007351I201026-RIF.LFS-GROUP-SRL.pdf?rlkey=f2fjzyw1jpzwq3raafwu8ione&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA D'ORDINE 202626007351I201026 RIF.LFS GROUP SRL.pdf"
-            },
-            {
-              "nome": "LILLY CODROIPO Ordine dacquisto_260254_20261104_123004 RIF. PANIFICIO D'IMPERIO Basato su Offerte di vendita 260437..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/psvtd74s5bzk4zwso8slc/LILLY-CODROIPO-Ordine-dacquisto_260254_20261104_123004-RIF.-PANIFICIO-D-IMPERIO-Basato-su-Offerte-di-vendita-260437..pdf?rlkey=7l339yq4jo6dcx06c9ogivtto&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/LILLY CODROIPO Ordine dacquisto_260254_20261104_123004 RIF. PANIFICIO D'IMPERIO Basato su Offerte di vendita 260437..pdf"
             },
             {
               "nome": "MORINI s.r.l. Ordine dacquisto_260285_20261021_122227 RIF. Basato su Ordini cliente 260505. 260517..pdf",
@@ -248263,7 +248279,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3878
+          "_totale_file": 3880
         }
       ],
       "file": []
