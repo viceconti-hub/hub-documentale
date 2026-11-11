@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-10T10:37:25Z",
-  "totale_file": 28527,
+  "generato": "2026-11-11T01:34:57Z",
+  "totale_file": 28528,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -81183,7 +81183,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7921,
+      "totale_file": 7922,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -124065,6 +124065,30 @@
                   "_totale_file": 25
                 },
                 {
+                  "nome": "ACAL SITUAZIONE CONTABILE AL 10_11_2026",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SITUAZIONE CONTABILE AL 10_11_2026",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "ACAL RICEVUTA DI PAGAMENTO SALDO AL 31_10_2026.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/6hp8ecal8mo199qz18dzf/ACAL-RICEVUTA-DI-PAGAMENTO-SALDO-AL-31_10_2026.pdf?rlkey=1fxkcdzoaaft7un9aeo8o0h4n&dl=0?raw=1",
+                      "dimensione_kb": 928,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SITUAZIONE CONTABILE AL 10_11_2026/ACAL RICEVUTA DI PAGAMENTO SALDO AL 31_10_2026.pdf"
+                    },
+                    {
+                      "nome": "Fattura di vendita - Bozza documento_2600570_20261105_185542.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/dnwr1lhi2ihgh2nwfi73q/Fattura-di-vendita-Bozza-documento_2600570_20261105_185542.pdf?rlkey=lsbf584k3w94zwqjx9vkfx0sf&dl=0?raw=1",
+                      "dimensione_kb": 126,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SITUAZIONE CONTABILE AL 10_11_2026/Fattura di vendita - Bozza documento_2600570_20261105_185542.pdf"
+                    }
+                  ],
+                  "_totale_file": 2
+                },
+                {
                   "nome": "ACAL SRL AREA TECNICA",
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/ACAL SRL AREA TECNICA",
                   "cartelle": [
@@ -124564,14 +124588,6 @@
               ],
               "file": [
                 {
-                  "nome": "Fattura di vendita - Bozza documento_2600570_20261105_185542.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/dnwr1lhi2ihgh2nwfi73q/Fattura-di-vendita-Bozza-documento_2600570_20261105_185542.pdf?rlkey=lsbf584k3w94zwqjx9vkfx0sf&dl=0?raw=1",
-                  "dimensione_kb": 126,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/Fattura di vendita - Bozza documento_2600570_20261105_185542.pdf"
-                },
-                {
                   "nome": "_CLIENTE C001628 ACAL SRL.txt",
                   "tipo": "Testo",
                   "icona": "📃",
@@ -124580,7 +124596,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/ACAL SRL/_CLIENTE C001628 ACAL SRL.txt"
                 }
               ],
-              "_totale_file": 144
+              "_totale_file": 145
             },
             {
               "nome": "AGRIBOSCO DI CARRAZZONE",
@@ -127925,7 +127941,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 496
+          "_totale_file": 497
         },
         {
           "nome": "ORIOLO",
