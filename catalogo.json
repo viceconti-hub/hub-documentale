@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-12T07:13:51Z",
-  "totale_file": 28586,
+  "generato": "2026-11-12T09:25:04Z",
+  "totale_file": 28591,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -203890,7 +203890,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5320,
+      "totale_file": 5325,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -215451,6 +215451,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/COLDLINE Packing list ordine n°26-11538.pdf"
             },
             {
+              "nome": "STAGNI STEFANIA Conferma prenotazione ritiro.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d1jr50tibq2e97a2bbu8z/STAGNI-STEFANIA-Conferma-prenotazione-ritiro.pdf?rlkey=x6ise3a6koraek81gaq6okidh&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/STAGNI STEFANIA Conferma prenotazione ritiro.pdf"
+            },
+            {
               "nome": "UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -215459,7 +215467,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf"
             }
           ],
-          "_totale_file": 9
+          "_totale_file": 10
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -248591,6 +248599,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-003207-2026 RIF. CAMPOLEROSE.pdf"
             },
             {
+              "nome": "ARISTARCO CONFERMA ORDINE ORV_2588798_2026_1_11146_21102026 RIF.CAMPOLEROSE_CARCONI_BELLAVISTA_NERA.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/8uczgux2exktm0dwnkq90/ARISTARCO-CONFERMA-ORDINE-ORV_2588798_2026_1_11146_21102026-RIF.CAMPOLEROSE_CARCONI_BELLAVISTA_NERA.PDF?rlkey=ydnse27zlxgdu4taxjw9q4h5k&dl=0?raw=1",
+              "dimensione_kb": 82,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARISTARCO CONFERMA ORDINE ORV_2588798_2026_1_11146_21102026 RIF.CAMPOLEROSE_CARCONI_BELLAVISTA_NERA.PDF"
+            },
+            {
               "nome": "ARISTARCO CONFERMA ORV_2588798_2026_1_11146_21102026 RIF.CAMPOLEROSE_NERA.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -248605,6 +248621,22 @@
               "link": "https://www.dropbox.com/scl/fi/86bsglg2lhjxbikdsea7u/ARISTARCO-S.P.A.-Ordine-dacquisto_260280_20261019_105628-RIF.-CAMPOLEROSE-Basato-su-Ordini-cliente-260489..pdf?rlkey=f28w1ue35vb9lbqio9c3ll5fr&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARISTARCO S.P.A. Ordine dacquisto_260280_20261019_105628 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf"
+            },
+            {
+              "nome": "ARISTARCO S.P.A. Ordine dacquisto_260297_20261110_090132 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rxiev2mt3g0o8c17v3d7b/ARISTARCO-S.P.A.-Ordine-dacquisto_260297_20261110_090132-RIF.-AI-CARCONI-Basato-su-Ordini-cliente-260541..pdf?rlkey=ee1k81wrfbjpcsrirk18aucgb&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARISTARCO S.P.A. Ordine dacquisto_260297_20261110_090132 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf"
+            },
+            {
+              "nome": "ARISTARCO S.P.A. Ordine dacquisto_260299_20261110_090917 RIF. BELLAVISTA Basato su Ordini cliente 260550..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/acu3laeb2b56sqwwhrh2y/ARISTARCO-S.P.A.-Ordine-dacquisto_260299_20261110_090917-RIF.-BELLAVISTA-Basato-su-Ordini-cliente-260550..pdf?rlkey=91vxsa7c7ozgwm661szl5nulp&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARISTARCO S.P.A. Ordine dacquisto_260299_20261110_090917 RIF. BELLAVISTA Basato su Ordini cliente 260550..pdf"
             },
             {
               "nome": "ARRIS CATERING EQUIPMENT SRL Ordine dacquisto_260279_20261021_153859 RIF. CAMPOLEROSE Basato su Ordini cliente 260489..pdf",
@@ -248703,6 +248735,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA D'ORDINE 202626007351I201026 RIF.LFS GROUP SRL.pdf"
             },
             {
+              "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260298_20261110_091610 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/xbl22j50x2ihy552ndnni/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260298_20261110_091610-RIF.-AI-CARCONI-Basato-su-Ordini-cliente-260541..pdf?rlkey=yembdsps3byjepvlam6cbni16&dl=0?raw=1",
+              "dimensione_kb": 71,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260298_20261110_091610 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf"
+            },
+            {
               "nome": "MORINI s.r.l. Ordine dacquisto_260285_20261021_122227 RIF. Basato su Ordini cliente 260505. 260517..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -248775,7 +248815,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3880
+          "_totale_file": 3884
         }
       ],
       "file": []
