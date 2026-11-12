@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-12T09:25:04Z",
-  "totale_file": 28591,
+  "generato": "2026-11-12T10:30:37Z",
+  "totale_file": 28593,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -248824,7 +248824,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2488,
+      "totale_file": 2490,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -249077,12 +249077,28 @@
               "cartelle": [],
               "file": [
                 {
+                  "nome": "ACCIAIO T&D RACCOMANDATA DEL 06_10_2026 .pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/p3tl7gf57f1yydwmsinlk/ACCIAIO-T-D-RACCOMANDATA-DEL-06_10_2026.pdf?rlkey=fhge6idj9vwg404flr3n120ym&dl=0?raw=1",
+                  "dimensione_kb": 539,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/ACCIAIO T&D RACCOMANDATA DEL 06_10_2026 .pdf"
+                },
+                {
                   "nome": "AMETRANO COPIA TITOLO INTESA 15_06_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/j5n883m3ynh2kprqmb6z0/AMETRANO-COPIA-TITOLO-INTESA-15_06_2026.pdf?rlkey=hbrb6lqds5blfpgvned4y65wi&dl=0?raw=1",
                   "dimensione_kb": 819,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/AMETRANO COPIA TITOLO INTESA 15_06_2026.pdf"
+                },
+                {
+                  "nome": "ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z630vmk4unutmxgssgtsk/ARISTARCO-COPIA-TITOLI-MPS-SPEDIZIONE-DEL-21_05_2026-SCADENZE-07_08_09_2026.pdf?rlkey=5old0t8l7gj0qgeq7dagyxczu&dl=0?raw=1",
+                  "dimensione_kb": 976,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf"
                 },
                 {
                   "nome": "ARISTARCO RICEVUTA AR DEL 29_05_2026.pdf",
@@ -249099,6 +249115,14 @@
                   "link": "https://www.dropbox.com/scl/fi/iiglwavx0v8upy6tcxr3g/ARISTARCO-TITOLI-BPER-APRILE_LUGLIO_2026.pdf?rlkey=9xqz24wuy6w94fsjj19pcal1s&dl=0?raw=1",
                   "dimensione_kb": 3274,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/ARISTARCO TITOLI BPER APRILE_LUGLIO_2026.pdf"
+                },
+                {
+                  "nome": "CIMBALI GROUP SPA COPIA TITOLI INTESA 31_08-30_09-31_10_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/r4csu0xi827dvz3y46vzc/CIMBALI-GROUP-SPA-COPIA-TITOLI-INTESA-31_08-30_09-31_10_2026.pdf?rlkey=qwyyj7da94iwb264m1pi9ka8s&dl=0?raw=1",
+                  "dimensione_kb": 1180,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/CIMBALI GROUP SPA COPIA TITOLI INTESA 31_08-30_09-31_10_2026.pdf"
                 },
                 {
                   "nome": "COLDLINE COPIA TITOLI BPER AR 09_04_2026.jpeg",
@@ -249125,6 +249149,22 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/COLDLINE COPIA TITOLI MPS AR 04_03_2026.pdf"
                 },
                 {
+                  "nome": "COLDLINE COPIA TITOLI MPS AR 29_05_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/sf5pjxq9lvzkovdj9nho4/COLDLINE-COPIA-TITOLI-MPS-AR-29_05_2026.pdf?rlkey=7l7yeq0accb35kiakkiihel0d&dl=0?raw=1",
+                  "dimensione_kb": 926,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/COLDLINE COPIA TITOLI MPS AR 29_05_2026.pdf"
+                },
+                {
+                  "nome": "COLDLINE COPIA TITOLO BPER SCADENZA 30_09_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/45wq0wtxm8w37fwdrmdii/COLDLINE-COPIA-TITOLO-BPER-SCADENZA-30_09_2026.pdf?rlkey=jqntt0brmapfhl92gcion4rx4&dl=0?raw=1",
+                  "dimensione_kb": 627,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/COLDLINE COPIA TITOLO BPER SCADENZA 30_09_2026.pdf"
+                },
+                {
                   "nome": "COLDLINE IMPORTO TITOLI 04_03_2026.xlsx",
                   "tipo": "Excel",
                   "icona": "📊",
@@ -249139,6 +249179,14 @@
                   "link": "https://www.dropbox.com/scl/fi/j57gr3b3ja786eejkszz9/DE-LUCA-COPIA-TITOLO-INTESA-SCADENZA-30_06_2026-FC.jpeg?rlkey=v5u4ene3j6gykgfapyci5ffkw&dl=0?raw=1",
                   "dimensione_kb": 106,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/DE LUCA COPIA TITOLO INTESA SCADENZA 30_06_2026 FC.jpeg"
+                },
+                {
+                  "nome": "DE LUCA RACCOMANDATA DEL 06_10_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ahij66owqb1tz77ot7sqa/DE-LUCA-RACCOMANDATA-DEL-06_10_2026.pdf?rlkey=nzmc930u6g597gso0lq37agcm&dl=0?raw=1",
+                  "dimensione_kb": 320,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/DE LUCA RACCOMANDATA DEL 06_10_2026.pdf"
                 },
                 {
                   "nome": "FAC COPIA TITOLO INTESA SCADENZA 31_12_2025.pdf",
@@ -249173,12 +249221,36 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/FIMAR COPIA TITOLO SCADENZE DEL 31 LUGLIO 2026.pdf"
                 },
                 {
+                  "nome": "FIMAR RACCOMANDATA DEL 06_10_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/tk83bg7k7rkl81w6exn4s/FIMAR-RACCOMANDATA-DEL-06_10_2026.pdf?rlkey=w1f2y3fhnfbncpg0docbxu5bq&dl=0?raw=1",
+                  "dimensione_kb": 545,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/FIMAR RACCOMANDATA DEL 06_10_2026.pdf"
+                },
+                {
+                  "nome": "FIMAR SPA COPIA TITOLO BPER 05_11_2026 3253,38.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/unm631iadkbumw5mhjmrz/FIMAR-SPA-COPIA-TITOLO-BPER-05_11_2026-3253-38.pdf?rlkey=bcmm2lgath6uulhodf4c0lw0n&dl=0?raw=1",
+                  "dimensione_kb": 563,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/FIMAR SPA COPIA TITOLO BPER 05_11_2026 3253,38.pdf"
+                },
+                {
                   "nome": "FRIGOMAT COPIA TITOLI AR DEL 14_11_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/rcjziha57xq63gechna9h/FRIGOMAT-COPIA-TITOLI-AR-DEL-14_11_2025.pdf?rlkey=tpib434vh8l127n1xypf6vp5c&dl=0?raw=1",
                   "dimensione_kb": 963,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/FRIGOMAT COPIA TITOLI AR DEL 14_11_2025.pdf"
+                },
+                {
+                  "nome": "FRIGOMECCANICA RICEVUTA AR 16_10_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xmx8owu43hre3rtu8zbih/FRIGOMECCANICA-RICEVUTA-AR-16_10_2026.pdf?rlkey=83640vbj85c9xh5xqkv5d929j&dl=0?raw=1",
+                  "dimensione_kb": 261,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/FRIGOMECCANICA RICEVUTA AR 16_10_2026.pdf"
                 },
                 {
                   "nome": "IDEAM INOX COPIA TITOLO BPER SCADENZA 29_05_2026.pdf",
@@ -249277,12 +249349,36 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/MECNOSUD COPIA TITOLI BRT 25_09_2025.jpeg"
                 },
                 {
+                  "nome": "MODULAR COPIA TITOLI BPER 30_03_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jowigzbr1y908wveq6urw/MODULAR-COPIA-TITOLI-BPER-30_03_2026.pdf?rlkey=dseizt3q5tnx0h7hdsjqtut5l&dl=0?raw=1",
+                  "dimensione_kb": 1169,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/MODULAR COPIA TITOLI BPER 30_03_2026.pdf"
+                },
+                {
                   "nome": "MODULAR COPIA TITOLI BRT 26_11_2025.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/73vizrb9xuvpyapd0oalq/MODULAR-COPIA-TITOLI-BRT-26_11_2025.pdf?rlkey=ansg88dl2v98u23hu1p0bc9ur&dl=0?raw=1",
                   "dimensione_kb": 833,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/MODULAR COPIA TITOLI BRT 26_11_2025.pdf"
+                },
+                {
+                  "nome": "MODULAR COPIA TITOLI INTESA 31_08-30_09_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ki83ka7fdcvbo88x3fv3p/MODULAR-COPIA-TITOLI-INTESA-31_08-30_09_2026.pdf?rlkey=18j51euvkhjnv12yoy2e78iz1&dl=0?raw=1",
+                  "dimensione_kb": 640,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/MODULAR COPIA TITOLI INTESA 31_08-30_09_2026.pdf"
+                },
+                {
+                  "nome": "MODULAR COPIA TITOLO BPER SCADENZA 30_09_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/80wkiihikxie5khf8peik/MODULAR-COPIA-TITOLO-BPER-SCADENZA-30_09_2026.pdf?rlkey=umwa0yvlb3g0mzgs6c6ydttmm&dl=0?raw=1",
+                  "dimensione_kb": 766,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/MODULAR COPIA TITOLO BPER SCADENZA 30_09_2026.pdf"
                 },
                 {
                   "nome": "MODULAR COPIA TITOLO INTESA BRT 20_05_2026 SCADENZA 31_07_2026 .pdf",
@@ -249317,58 +249413,66 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/MORANO COPIA TITOLO BPER SCADENZA 25_08_2026.pdf"
                 },
                 {
+                  "nome": "REPA COPIA TITOLI 23_10_2026 E 31_10_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hl17vq346c2sfmlsigluk/REPA-COPIA-TITOLI-23_10_2026-E-31_10_2026.pdf?rlkey=28qd6e2l5fn8uqelufco9my06&dl=0?raw=1",
+                  "dimensione_kb": 911,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/REPA COPIA TITOLI 23_10_2026 E 31_10_2026.pdf"
+                },
+                {
+                  "nome": "REPA ITALIA SRL COPIA TITOLO MPS 05_10_2026 1956,20.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/i6hs1qaw0ikv384t39qoa/REPA-ITALIA-SRL-COPIA-TITOLO-MPS-05_10_2026-1956-20.pdf?rlkey=oib54xs9akautzbcpydructom&dl=0?raw=1",
+                  "dimensione_kb": 306,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/REPA ITALIA SRL COPIA TITOLO MPS 05_10_2026 1956,20.pdf"
+                },
+                {
+                  "nome": "REPA ITALIA SRL RICEVUTA RACCOMANDATA 21_09_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hj28g3c5h2pu3lqp645x0/REPA-ITALIA-SRL-RICEVUTA-RACCOMANDATA-21_09_2026.pdf?rlkey=jiw92d68a4tqqu3kt8rfi1m2x&dl=0?raw=1",
+                  "dimensione_kb": 317,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/REPA ITALIA SRL RICEVUTA RACCOMANDATA 21_09_2026.pdf"
+                },
+                {
+                  "nome": "REPA RICEVUTA RACCOMANDATA DEL 20_10_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nsnmdkgjht30qhcgko2pd/REPA-RICEVUTA-RACCOMANDATA-DEL-20_10_2026.pdf?rlkey=fihpa3hqf30sazr78mhyjokf1&dl=0?raw=1",
+                  "dimensione_kb": 275,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/REPA RICEVUTA RACCOMANDATA DEL 20_10_2026.pdf"
+                },
+                {
                   "nome": "SIRMAN COPIA TITOLO MPS SPEDIZIONE 21_05_2026 SCADENZA 31_07_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/k8ufemirb1d6g3hfhtngu/SIRMAN-COPIA-TITOLO-MPS-SPEDIZIONE-21_05_2026-SCADENZA-31_07_2026.pdf?rlkey=edb541osydx9dq8zdxgodu5ww&dl=0?raw=1",
                   "dimensione_kb": 722,
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/SIRMAN COPIA TITOLO MPS SPEDIZIONE 21_05_2026 SCADENZA 31_07_2026.pdf"
+                },
+                {
+                  "nome": "SIRMAN RACCOMANDATA DEL 6_10_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yqlq9f7tza4ga72gp3aqr/SIRMAN-RACCOMANDATA-DEL-6_10_2026.pdf?rlkey=mr7rr7a2p8yitqn06wqyp0djr&dl=0?raw=1",
+                  "dimensione_kb": 345,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/SIRMAN RACCOMANDATA DEL 6_10_2026.pdf"
+                },
+                {
+                  "nome": "TRASPORTI AMETRANO SRL COPIA TITOLO MPS 30_10_2026 671,00.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/iif18c89vr6ng8hie6spw/TRASPORTI-AMETRANO-SRL-COPIA-TITOLO-MPS-30_10_2026-671-00.pdf?rlkey=xc9x9ts3a3vpshp9hi8a3rt6f&dl=0?raw=1",
+                  "dimensione_kb": 810,
+                  "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARCHIVIO TITOLI IN USCITA/TRASPORTI AMETRANO SRL COPIA TITOLO MPS 30_10_2026 671,00.pdf"
                 }
               ],
-              "_totale_file": 31
+              "_totale_file": 49
             }
           ],
           "file": [
-            {
-              "nome": "2026-10-06 16.38.07.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/p3tl7gf57f1yydwmsinlk/2026-10-06-16.38.07.pdf?rlkey=fhge6idj9vwg404flr3n120ym&dl=0?raw=1",
-              "dimensione_kb": 539,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/2026-10-06 16.38.07.pdf"
-            },
-            {
-              "nome": "2026-10-06 16.38.24.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/tk83bg7k7rkl81w6exn4s/2026-10-06-16.38.24.pdf?rlkey=w1f2y3fhnfbncpg0docbxu5bq&dl=0?raw=1",
-              "dimensione_kb": 545,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/2026-10-06 16.38.24.pdf"
-            },
-            {
-              "nome": "2026-10-06 16.42.55.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/yqlq9f7tza4ga72gp3aqr/2026-10-06-16.42.55.pdf?rlkey=mr7rr7a2p8yitqn06wqyp0djr&dl=0?raw=1",
-              "dimensione_kb": 345,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/2026-10-06 16.42.55.pdf"
-            },
-            {
-              "nome": "2026-10-06 16.44.25.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ahij66owqb1tz77ot7sqa/2026-10-06-16.44.25.pdf?rlkey=nzmc930u6g597gso0lq37agcm&dl=0?raw=1",
-              "dimensione_kb": 320,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/2026-10-06 16.44.25.pdf"
-            },
-            {
-              "nome": "2026-10-20 15.42.57.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/nsnmdkgjht30qhcgko2pd/2026-10-20-15.42.57.pdf?rlkey=fihpa3hqf30sazr78mhyjokf1&dl=0?raw=1",
-              "dimensione_kb": 275,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/2026-10-20 15.42.57.pdf"
-            },
             {
               "nome": "ACCIAIO T&D SRL COPIA TITOLI BPER 31_10_2026 30_11_2026 31_12_2026 3819,47.pdf",
               "tipo": "PDF",
@@ -249386,20 +249490,20 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARISTARCO COPIA TITOLI INTESA 31_01_2027 28_02_2027.pdf"
             },
             {
-              "nome": "ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/z630vmk4unutmxgssgtsk/ARISTARCO-COPIA-TITOLI-MPS-SPEDIZIONE-DEL-21_05_2026-SCADENZE-07_08_09_2026.pdf?rlkey=5old0t8l7gj0qgeq7dagyxczu&dl=0?raw=1",
-              "dimensione_kb": 976,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARISTARCO COPIA TITOLI MPS SPEDIZIONE DEL 21_05_2026 SCADENZE 07_08_09_2026.pdf"
-            },
-            {
               "nome": "ARISTARCO COPIA TITOLO BPER SCADENZA 10_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/itcublwi8t94tsiyc4kue/ARISTARCO-COPIA-TITOLO-BPER-SCADENZA-10_09_2026.pdf?rlkey=oggurpet0y8bnd6u5uad9meed&dl=0?raw=1",
               "dimensione_kb": 790,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARISTARCO COPIA TITOLO BPER SCADENZA 10_09_2026.pdf"
+            },
+            {
+              "nome": "ARISTARCO RICEVUTA RACCOMANDATA DEL 10_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/oh09lpfjjr2ga3pc8w87l/ARISTARCO-RICEVUTA-RACCOMANDATA-DEL-10_11_2026.pdf?rlkey=2yl3xc1573qa9kjbdawfcu2t7&dl=0?raw=1",
+              "dimensione_kb": 579,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARISTARCO RICEVUTA RACCOMANDATA DEL 10_11_2026.pdf"
             },
             {
               "nome": "BCC LEASE COPIA TITOLO MPS SCADENZA 21_09_2026.pdf",
@@ -249418,14 +249522,6 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/BCC LEASE RICEVUTA RACOOMANDATA SCADENZA 21_09_2026.pdf"
             },
             {
-              "nome": "CIMBALI GROUP SPA COPIA TITOLI INTESA 31_08-30_09-31_10_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/r4csu0xi827dvz3y46vzc/CIMBALI-GROUP-SPA-COPIA-TITOLI-INTESA-31_08-30_09-31_10_2026.pdf?rlkey=qwyyj7da94iwb264m1pi9ka8s&dl=0?raw=1",
-              "dimensione_kb": 1180,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/CIMBALI GROUP SPA COPIA TITOLI INTESA 31_08-30_09-31_10_2026.pdf"
-            },
-            {
               "nome": "COLD LINE RICEVUTA RACCOMANDATA 11_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -249434,28 +249530,12 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/COLD LINE RICEVUTA RACCOMANDATA 11_09_2026.pdf"
             },
             {
-              "nome": "COLDLINE COPIA TITOLI MPS AR 29_05_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/sf5pjxq9lvzkovdj9nho4/COLDLINE-COPIA-TITOLI-MPS-AR-29_05_2026.pdf?rlkey=7l7yeq0accb35kiakkiihel0d&dl=0?raw=1",
-              "dimensione_kb": 926,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/COLDLINE COPIA TITOLI MPS AR 29_05_2026.pdf"
-            },
-            {
               "nome": "COLDLINE COPIA TITOLI MPS NOV_DIC_GEN BRT 10_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/55vlx58bc9ogwsu9deyfr/COLDLINE-COPIA-TITOLI-MPS-NOV_DIC_GEN-BRT-10_09_2026.pdf?rlkey=p7zenhhvui4qh8raqc1qujmsg&dl=0?raw=1",
               "dimensione_kb": 1046,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/COLDLINE COPIA TITOLI MPS NOV_DIC_GEN BRT 10_09_2026.pdf"
-            },
-            {
-              "nome": "COLDLINE COPIA TITOLO BPER SCADENZA 30_09_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/45wq0wtxm8w37fwdrmdii/COLDLINE-COPIA-TITOLO-BPER-SCADENZA-30_09_2026.pdf?rlkey=jqntt0brmapfhl92gcion4rx4&dl=0?raw=1",
-              "dimensione_kb": 627,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/COLDLINE COPIA TITOLO BPER SCADENZA 30_09_2026.pdf"
             },
             {
               "nome": "COLDLINE RICEVUTA AR TITOLO BPER SCADENZA 30_09_2026.pdf",
@@ -249506,22 +249586,6 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/FIMAR RACCOMADATA TITOLI MPS AGOSTO_SETTEMBRE 2026.pdf"
             },
             {
-              "nome": "FIMAR SPA COPIA TITOLO BPER 05_11_2026 3253,38.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/unm631iadkbumw5mhjmrz/FIMAR-SPA-COPIA-TITOLO-BPER-05_11_2026-3253-38.pdf?rlkey=bcmm2lgath6uulhodf4c0lw0n&dl=0?raw=1",
-              "dimensione_kb": 563,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/FIMAR SPA COPIA TITOLO BPER 05_11_2026 3253,38.pdf"
-            },
-            {
-              "nome": "FRIGOMECCANICA RICEVUTA AR 16_10_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xmx8owu43hre3rtu8zbih/FRIGOMECCANICA-RICEVUTA-AR-16_10_2026.pdf?rlkey=83640vbj85c9xh5xqkv5d929j&dl=0?raw=1",
-              "dimensione_kb": 261,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/FRIGOMECCANICA RICEVUTA AR 16_10_2026.pdf"
-            },
-            {
               "nome": "FRIGOMECCANICA SRL COPIA TITOLI MPS 31_12_2026 31_01_2027 28_02_2027.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -249536,30 +249600,6 @@
               "link": "https://www.dropbox.com/scl/fi/boi11k4gbcm6cemb31ccl/LOTUS-COPIA-TITOLO-BPER-SCADENZA-10_09_2026.pdf?rlkey=q19wmkt5wqq8u7qk3g0p3zdq0&dl=0?raw=1",
               "dimensione_kb": 720,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/LOTUS COPIA TITOLO BPER SCADENZA 10_09_2026.pdf"
-            },
-            {
-              "nome": "MODULAR COPIA TITOLI BPER 30_03_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/jowigzbr1y908wveq6urw/MODULAR-COPIA-TITOLI-BPER-30_03_2026.pdf?rlkey=dseizt3q5tnx0h7hdsjqtut5l&dl=0?raw=1",
-              "dimensione_kb": 1169,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR COPIA TITOLI BPER 30_03_2026.pdf"
-            },
-            {
-              "nome": "MODULAR COPIA TITOLI INTESA 31_08-30_09_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ki83ka7fdcvbo88x3fv3p/MODULAR-COPIA-TITOLI-INTESA-31_08-30_09_2026.pdf?rlkey=18j51euvkhjnv12yoy2e78iz1&dl=0?raw=1",
-              "dimensione_kb": 640,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR COPIA TITOLI INTESA 31_08-30_09_2026.pdf"
-            },
-            {
-              "nome": "MODULAR COPIA TITOLO BPER SCADENZA 30_09_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/80wkiihikxie5khf8peik/MODULAR-COPIA-TITOLO-BPER-SCADENZA-30_09_2026.pdf?rlkey=umwa0yvlb3g0mzgs6c6ydttmm&dl=0?raw=1",
-              "dimensione_kb": 766,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR COPIA TITOLO BPER SCADENZA 30_09_2026.pdf"
             },
             {
               "nome": "MODULAR COPIA TITOLO MPS 10_11_2026 ORIGINALE.pdf",
@@ -249594,30 +249634,6 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR_IMPORTO_TITOLI_2026.xlsx"
             },
             {
-              "nome": "REPA COPIA TITOLI 23_10_2026 E 31_10_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hl17vq346c2sfmlsigluk/REPA-COPIA-TITOLI-23_10_2026-E-31_10_2026.pdf?rlkey=28qd6e2l5fn8uqelufco9my06&dl=0?raw=1",
-              "dimensione_kb": 911,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/REPA COPIA TITOLI 23_10_2026 E 31_10_2026.pdf"
-            },
-            {
-              "nome": "REPA ITALIA SRL COPIA TITOLO MPS 05_10_2026 1956,20.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/i6hs1qaw0ikv384t39qoa/REPA-ITALIA-SRL-COPIA-TITOLO-MPS-05_10_2026-1956-20.pdf?rlkey=oib54xs9akautzbcpydructom&dl=0?raw=1",
-              "dimensione_kb": 306,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/REPA ITALIA SRL COPIA TITOLO MPS 05_10_2026 1956,20.pdf"
-            },
-            {
-              "nome": "REPA ITALIA SRL RICEVUTA RACCOMANDATA 21_09_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hj28g3c5h2pu3lqp645x0/REPA-ITALIA-SRL-RICEVUTA-RACCOMANDATA-21_09_2026.pdf?rlkey=jiw92d68a4tqqu3kt8rfi1m2x&dl=0?raw=1",
-              "dimensione_kb": 317,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/REPA ITALIA SRL RICEVUTA RACCOMANDATA 21_09_2026.pdf"
-            },
-            {
               "nome": "SIRMAN COPIA TITOLI BPER 31_12_2026 31_01_2027 28_02_2027 31_03_2027 3330,82.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -249648,17 +249664,9 @@
               "link": "https://www.dropbox.com/scl/fi/7r1rjepe3btt05ty9me9q/SIRMAN-RICEVUTA-AR-DEL-29_07_2026.pdf?rlkey=e3n7nfeyso4fcoq1fpkio5k26&dl=0?raw=1",
               "dimensione_kb": 685,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/SIRMAN RICEVUTA AR DEL 29_07_2026.pdf"
-            },
-            {
-              "nome": "TRASPORTI AMETRANO SRL COPIA TITOLO MPS 30_10_2026 671,00.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/iif18c89vr6ng8hie6spw/TRASPORTI-AMETRANO-SRL-COPIA-TITOLO-MPS-30_10_2026-671-00.pdf?rlkey=xc9x9ts3a3vpshp9hi8a3rt6f&dl=0?raw=1",
-              "dimensione_kb": 810,
-              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/TRASPORTI AMETRANO SRL COPIA TITOLO MPS 30_10_2026 671,00.pdf"
             }
           ],
-          "_totale_file": 72
+          "_totale_file": 73
         },
         {
           "nome": "PAGAMENTI IN USCITA BONIFICI",
@@ -270804,6 +270812,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/PADERNO Dettaglio bonifico istantaneo DEL 10_02_2026.pdf"
             },
             {
+              "nome": "PADERNO Dettaglio bonifico istantaneo DEL 10_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ktn02k7ct34pmbvueh6kd/PADERNO-Dettaglio-bonifico-istantaneo-DEL-10_11_2026.pdf?rlkey=8451ft0tld2hbz1hkbhgueg54&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/PADERNO Dettaglio bonifico istantaneo DEL 10_11_2026.pdf"
+            },
+            {
               "nome": "PERRETTA Dettaglio bonifico istantaneo DEL 22_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -271108,7 +271124,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2389
+          "_totale_file": 2390
         }
       ],
       "file": []
