@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-14T03:28:20Z",
-  "totale_file": 28597,
+  "generato": "2026-11-14T06:59:05Z",
+  "totale_file": 28694,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7790,
+      "totale_file": 7887,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -1160,6 +1160,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CHECK Srl BAR MATER DEI Consegna_260910_20261015_171150 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260509..pdf"
             },
             {
+              "nome": "CHECK Srl BAR MATER DEI Consegna_260995_20261112_204825 RIF. FRIGGITRICE ELETTRICA DA BANCO 1VASCA 8L MOD.FR8N,CAP.OLIO MINMAX.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mi83l2b5yqpukqf29iswd/CHECK-Srl-BAR-MATER-DEI-Consegna_260995_20261112_204825-RIF.-FRIGGITRICE-ELETTRICA-DA-BANCO-1VASCA-8L-MOD.FR8N-CAP.OLIO-MINMAX.pdf?rlkey=tdax6hss9k46rn7i286vu0yjg&dl=0?raw=1",
+              "dimensione_kb": 57,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/CHECK Srl BAR MATER DEI Consegna_260995_20261112_204825 RIF. FRIGGITRICE ELETTRICA DA BANCO 1VASCA 8L MOD.FR8N,CAP.OLIO MINMAX.pdf"
+            },
+            {
               "nome": "CHIACCHIO MANSUETO Consegna_260741_20260824_175733 RIF. ASSISTENZA SU AFFETTATRICE SOSTITUZIONE LAMA, REVISIONE GRUPPO OROLOGIO.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -1542,6 +1550,14 @@
               "link": "https://www.dropbox.com/scl/fi/d4sc9ak13dhuvlbnysi10/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Consegna_260902_20261014_123231-RIF.-DESAN-KG.-12-DETERGENTE-PER-LAVASTOVIGLIE-ACQUE-DURE-Basato-su-Ordini-cliente.pdf?rlkey=rigli91ysria1yum387z089b3&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260902_20261014_123231 RIF. DESAN KG. 12, DETERGENTE PER LAVASTOVIGLIE ACQUE DURE Basato su Ordini cliente.pdf"
+            },
+            {
+              "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260993_20261112_091804 RIF. DETERGENTE RATIONAL ROSSO Basato su Ordini cliente 260554..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rjm9xxtqc88x1kuv7jvvz/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Consegna_260993_20261112_091804-RIF.-DETERGENTE-RATIONAL-ROSSO-Basato-su-Ordini-cliente-260554..pdf?rlkey=7zsk6ny09i1wp4cfzo9z6vx7v&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/DELIZIE DEL FORNO di CANTISANI CARMELINA Consegna_260993_20261112_091804 RIF. DETERGENTE RATIONAL ROSSO Basato su Ordini cliente 260554..pdf"
             },
             {
               "nome": "DILETTA LABORANTI Consegna_260841_20260924_161108 RIF. CANTINETTA 150 LITRI - 2 ZONE CHIAMARE PRIMA DELLA CONSEGNA PAGAMENTO PAYPAL.pdf",
@@ -2302,6 +2318,14 @@
               "link": "https://www.dropbox.com/scl/fi/ejse1s12qbxlvzm53qp2r/GRAN-SOLE-S.r.l.-Consegna_260954_20261029_195355-RIF.-ASSISTENZA-SU-TRITACARNE-MATRICOLA-DA-SPECIFICARE-SOSTITUZIONE-PERNO-PORTA.pdf?rlkey=8zhj1u92iaqdhw0cgjs4ivekn&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260954_20261029_195355 RIF. ASSISTENZA SU TRITACARNE MATRICOLA DA SPECIFICARE SOSTITUZIONE PERNO PORTA.pdf"
+            },
+            {
+              "nome": "GRAN SOLE S.r.l. Consegna_260997_20261113_160645 RIF. COLTELLO INOX MOD. 32 INOX PRESSO PUNTO VENDITA DI LAGONEGRO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zb74zaem7r348x1r08udn/GRAN-SOLE-S.r.l.-Consegna_260997_20261113_160645-RIF.-COLTELLO-INOX-MOD.-32-INOX-PRESSO-PUNTO-VENDITA-DI-LAGONEGRO.pdf?rlkey=8ua941gx75fcpwrtph6ju4apn&dl=0?raw=1",
+              "dimensione_kb": 52,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/GRAN SOLE S.r.l. Consegna_260997_20261113_160645 RIF. COLTELLO INOX MOD. 32 INOX PRESSO PUNTO VENDITA DI LAGONEGRO.pdf"
             },
             {
               "nome": "GRISOLIA DOMENICO Consegna_260555_20260710_180725 RIF. COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 26007.pdf",
@@ -5312,6 +5336,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SIRTAKI S.R.L.S Consegna_260970_20261105_180436 RIF. ASSISTENZA SU LAVASTOVIGLIE KRUPPS EL60E MATRICOLA 202357052 SOSTITUZIONE.pdf"
             },
             {
+              "nome": "SMOKIN’BROTHERS Consegna_260994_20261112_124951 RIF. Coppia guide tipo C 605 mm per griglie GN 21 PAGAMENTO PAYPAL Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/55pa0fwo58fr3getjf5lk/SMOKIN-BROTHERS-Consegna_260994_20261112_124951-RIF.-Coppia-guide-tipo-C-605-mm-per-griglie-GN-21-PAGAMENTO-PAYPAL-Basato-su.pdf?rlkey=6ytth59a4l3ccydi1u3613uat&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/SMOKIN’BROTHERS Consegna_260994_20261112_124951 RIF. Coppia guide tipo C 605 mm per griglie GN 21 PAGAMENTO PAYPAL Basato su.pdf"
+            },
+            {
               "nome": "SOC. COOP. MARATEA SERVIZI A.R.L. Consegna_260316_20260531_092814 RIF. ASSISTENZA SU BOLLITORE SOSTITUZIONE UGELLO PILOTA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -5622,6 +5654,14 @@
               "link": "https://www.dropbox.com/scl/fi/8mj9269jgck11wo176c5v/TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO-Consegna_260967_20261105_130048-RIF.-TAGLIERE-40X30-E-DETERGENTE-Basato-su-Ordini-cliente-260317..pdf?rlkey=xg37bnwn9eaynih79jw30t6o4&dl=0?raw=1",
               "dimensione_kb": 54,
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260967_20261105_130048 RIF. TAGLIERE 40X30 E DETERGENTE Basato su Ordini cliente 260317..pdf"
+            },
+            {
+              "nome": "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260996_20261113_160137 RIF. TAGLIERE 40X30 Basato su Ordini cliente 260317..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/im6acqdkhgqc1n9ufdb7o/TAVERNA-DEL-BUONGUSTAIO-DI-LIMONGI-EGIDIO-Consegna_260996_20261113_160137-RIF.-TAGLIERE-40X30-Basato-su-Ordini-cliente-260317..pdf?rlkey=hvu7b1xb14lhdvrhlwzpibk5d&dl=0?raw=1",
+              "dimensione_kb": 54,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO Consegna_260996_20261113_160137 RIF. TAGLIERE 40X30 Basato su Ordini cliente 260317..pdf"
             },
             {
               "nome": "TAVERNA ROVITA di GAMBARDELLA MARIASTELLA & C. SNC Consegna_260585_20260722_120515 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260292..pdf",
@@ -5992,7 +6032,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 747
+          "_totale_file": 752
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -7792,6 +7832,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/HAPPY CAFE' SNC di Rossino D. e Saruba S. Fattura di vendita_2600517_20261012_232929 RIF. Basato su Consegne 260812. 260838..pdf"
             },
             {
+              "nome": "HAPPY CAFE' SNC di Rossino D. e Saruba S. Fattura di vendita_2600583_20261112_205008 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260496. Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/adxzmdlu7ly5fl75vtp3p/HAPPY-CAFE-SNC-di-Rossino-D.-e-Saruba-S.-Fattura-di-vendita_2600583_20261112_205008-RIF.-DETERGENTE-LAVABICCHIERI-Basato-su-Ordini-cliente-260496.-Basato-su-Consegne.pdf?rlkey=jgekq696asr3xppjrick3b6oe&dl=0?raw=1",
+              "dimensione_kb": 62,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/HAPPY CAFE' SNC di Rossino D. e Saruba S. Fattura di vendita_2600583_20261112_205008 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260496. Basato su Consegne.pdf"
+            },
+            {
               "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Fattura di vendita_2500795_20260607_210701 RIF. BICCHIERE ACQUA PLANEO QTA' 48 Basato su Ordini cliente 2508.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -7888,6 +7936,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Fattura di vendita_2600518_20261012_233000 RIF. PALETTINO PIZZA LISCIO INOX Ø 17 CM, L MANICO CM 150 Basato su Ordini cliente.pdf"
             },
             {
+              "nome": "HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Fattura di vendita_2600584_20261112_205207 RIF. Basato su Consegne 260916. 260959..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/swea9qz087qx1sjb9scyh/HAPPY-MOMENTS-RESTAURANT-SERVICE-S.R.L.-Fattura-di-vendita_2600584_20261112_205207-RIF.-Basato-su-Consegne-260916.-260959..pdf?rlkey=5y0meppl7og61jn5hy2y6t7j1&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/HAPPY MOMENTS RESTAURANT & SERVICE S.R.L. Fattura di vendita_2600584_20261112_205207 RIF. Basato su Consegne 260916. 260959..pdf"
+            },
+            {
               "nome": "HOTEL BRUTIUM di CHIAPPETTA OLIVIO Fattura di vendita_2600387_20260810_143941 RIF. DETERGENTE LAVASTOVIGLIE Basato su Ordini cliente 260378. Ba.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -7955,7 +8011,7 @@
               "nome": "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Fattura di vendita_2600148_20260811_161547 RIF. ASSISTENZA SU LAVABAR COLGED MODELLOM STEEL TECH 13-008 MATR.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": null,
+              "link": "https://www.dropbox.com/scl/fi/f6t9n0hfuy9gp27hz1rl4/I-PASTICCI-DI-WALTER-DI-CHIAPPETTA-WALTER-E-LISA-A.-SNC-Fattura-di-vendita_2600148_20260811_161547-RIF.-ASSISTENZA-SU-LAVABAR-COLGED-MODELLOM-STEEL-TECH-13-008-MATR.pdf?rlkey=67oujyohss3m7oxyv6y54ndn6&dl=0?raw=1",
               "dimensione_kb": 72,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC Fattura di vendita_2600148_20260811_161547 RIF. ASSISTENZA SU LAVABAR COLGED MODELLOM STEEL TECH 13-008 MATR.pdf"
             },
@@ -10304,7 +10360,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 538
+          "_totale_file": 540
         },
         {
           "nome": "FATTURE DI VENDITA XML",
@@ -11335,6 +11391,14 @@
               "link": "https://www.dropbox.com/scl/fi/0jwsouzig4wbf2ul5i2ts/DA-SPECIFICARE-Offerta-di-vendita_260467_20261019_122918.pdf?rlkey=i1c0k94oewacby2xls6tzf5ey&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260467_20261019_122918.pdf"
+            },
+            {
+              "nome": "DA SPECIFICARE Offerta di vendita_260545_20261113_172626.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sr6rvrik0auovh9mrqpp8/DA-SPECIFICARE-Offerta-di-vendita_260545_20261113_172626.pdf?rlkey=ncyi3uxrceffdlbfz923pxsjd&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260545_20261113_172626.pdf"
             },
             {
               "nome": "DA SPECIFICARE WEB Offerta di vendita_260428_20260917_130204 RIF. COPERCHIO GRIGLIATO PER IMPASTATRICE FIMAR IM38SBN0V405T MATRICOLA 240711943.pdf",
@@ -12929,7 +12993,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 302
+          "_totale_file": 303
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -17527,17 +17591,838 @@
               "_totale_file": 2
             },
             {
-              "nome": "2026_11_11 MACELLERIA DE DEIGO ARREDO",
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_11 MACELLERIA DE DEIGO ARREDO",
+              "nome": "2026_11_12 AVVOCATO CAPUTO IMPASTATRICE MECNOSUD M7 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 AVVOCATO CAPUTO IMPASTATRICE MECNOSUD M7 RISORSE",
               "cartelle": [],
               "file": [
+                {
+                  "nome": "OFFERTA_260542_AVVOCATO_CAPUTO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/4jrhng5rz3kcvpmxd506t/OFFERTA_260542_AVVOCATO_CAPUTO.pdf?rlkey=5pv63efthjwgfskn2ukh4t7zv&dl=0?raw=1",
+                  "dimensione_kb": 430,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 AVVOCATO CAPUTO IMPASTATRICE MECNOSUD M7 RISORSE/OFFERTA_260542_AVVOCATO_CAPUTO.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/ahgt9aiic4qm3sz8wv34f/PREVENTIVO.json?rlkey=e8greg1kvp3hyuolxnezbb373&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 AVVOCATO CAPUTO IMPASTATRICE MECNOSUD M7 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_IMPASTATRICE_MECNOSUD_M7_2026-11-12_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/4aaqi5pxzliia09ygelku/PREVENTIVO_OFFERTA_IMPASTATRICE_MECNOSUD_M7_2026-11-12_LAYOUT_AMPIO.md?rlkey=1vabdo8hoe9e11oupca55dmmg&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 AVVOCATO CAPUTO IMPASTATRICE MECNOSUD M7 RISORSE/PREVENTIVO_OFFERTA_IMPASTATRICE_MECNOSUD_M7_2026-11-12_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_IMPASTATRICE_MECNOSUD_M7_2026-11-12_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/o9ai73rxva3ht83vqey66/PREVENTIVO_OFFERTA_IMPASTATRICE_MECNOSUD_M7_2026-11-12_LAYOUT_AMPIO.pdf?rlkey=2s9y48nl73gpqfzpt71uxmh8k&dl=0?raw=1",
+                  "dimensione_kb": 152,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 AVVOCATO CAPUTO IMPASTATRICE MECNOSUD M7 RISORSE/PREVENTIVO_OFFERTA_IMPASTATRICE_MECNOSUD_M7_2026-11-12_LAYOUT_AMPIO.pdf"
+                },
+                {
+                  "nome": "massima-m7-big.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/tlfymf3kfldb0k35213dk/massima-m7-big.jpg?rlkey=g0z5n7af0iazpbqasoc1rpctb&dl=0?raw=1",
+                  "dimensione_kb": 76,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 AVVOCATO CAPUTO IMPASTATRICE MECNOSUD M7 RISORSE/massima-m7-big.jpg"
+                },
+                {
+                  "nome": "massima-m7.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pxzptws0nh3r6hn9cpg3z/massima-m7.pdf?rlkey=6px10csfpmk8xhi2amkii17co&dl=0?raw=1",
+                  "dimensione_kb": 13940,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 AVVOCATO CAPUTO IMPASTATRICE MECNOSUD M7 RISORSE/massima-m7.pdf"
+                }
+              ],
+              "_totale_file": 6
+            },
+            {
+              "nome": "2026_11_12 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA VETRINA MIX IFI VETRI ALTI CON MENSOLA CALDA RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA VETRINA MIX IFI VETRI ALTI CON MENSOLA CALDA RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "IFI_ITA_2.3_Mix_New_listino prezzi _01.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fjvxwp2a76to6yaj3psgd/IFI_ITA_2.3_Mix_New_listino-prezzi-_01.pdf?rlkey=rttl1wqocutglv6onq417jl4n&dl=0?raw=1",
+                  "dimensione_kb": 10676,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA VETRINA MIX IFI VETRI ALTI CON MENSOLA CALDA RISORSE/IFI_ITA_2.3_Mix_New_listino prezzi _01.pdf"
+                },
+                {
+                  "nome": "MIX_Freddo Ventilato_data sheet_07.2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xd2cusf0v777h26lufj4c/MIX_Freddo-Ventilato_data-sheet_07.2025.pdf?rlkey=vnbrhnx2zfp2xxpw94xgspwcs&dl=0?raw=1",
+                  "dimensione_kb": 2771,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA VETRINA MIX IFI VETRI ALTI CON MENSOLA CALDA RISORSE/MIX_Freddo Ventilato_data sheet_07.2025.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260544_BELLAVISTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/m4j814d8vzhnl0h5xpasm/OFFERTA_260544_BELLAVISTA.pdf?rlkey=fo9aj220ipsbhyjxvo8dpn10r&dl=0?raw=1",
+                  "dimensione_kb": 3139,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA VETRINA MIX IFI VETRI ALTI CON MENSOLA CALDA RISORSE/OFFERTA_260544_BELLAVISTA.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/afzorvuca9ocxi7gy4dia/PREVENTIVO.json?rlkey=04vnyhowsbjltjn43u3vhvabw&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA VETRINA MIX IFI VETRI ALTI CON MENSOLA CALDA RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_VETRINA_MIX_IFI_VETRI_ALTI_CON_MENSOLA_CALDA_2026-11-12_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/wn9vcx7803rkg7usz3o42/PREVENTIVO_OFFERTA_VETRINA_MIX_IFI_VETRI_ALTI_CON_MENSOLA_CALDA_2026-11-12_LAYOUT_AMPIO.md?rlkey=ezw6bwdwvc9yitearsbn6fs14&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA VETRINA MIX IFI VETRI ALTI CON MENSOLA CALDA RISORSE/PREVENTIVO_OFFERTA_VETRINA_MIX_IFI_VETRI_ALTI_CON_MENSOLA_CALDA_2026-11-12_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_VETRINA_MIX_IFI_VETRI_ALTI_CON_MENSOLA_CALDA_2026-11-12_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qvqt6mfn76xqzdmtu16g1/PREVENTIVO_OFFERTA_VETRINA_MIX_IFI_VETRI_ALTI_CON_MENSOLA_CALDA_2026-11-12_LAYOUT_AMPIO.pdf?rlkey=2b1t2wv5jpg590hqsk6tts63j&dl=0?raw=1",
+                  "dimensione_kb": 235,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA VETRINA MIX IFI VETRI ALTI CON MENSOLA CALDA RISORSE/PREVENTIVO_OFFERTA_VETRINA_MIX_IFI_VETRI_ALTI_CON_MENSOLA_CALDA_2026-11-12_LAYOUT_AMPIO.pdf"
+                },
+                {
+                  "nome": "ifi-mix-cold-snack.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/yh9dl4h08ngmt53k9b4lr/ifi-mix-cold-snack.jpg?rlkey=2ujg00u0kazoqgxzecnjptrz9&dl=0?raw=1",
+                  "dimensione_kb": 606,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA VETRINA MIX IFI VETRI ALTI CON MENSOLA CALDA RISORSE/ifi-mix-cold-snack.jpg"
+                },
+                {
+                  "nome": "mix-cold-snack-ifi.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/fxmpp51ilbw6odfprn35z/mix-cold-snack-ifi.jpg?rlkey=0tevqjjydckofydgksqk7odwt&dl=0?raw=1",
+                  "dimensione_kb": 142,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA VETRINA MIX IFI VETRI ALTI CON MENSOLA CALDA RISORSE/mix-cold-snack-ifi.jpg"
+                }
+              ],
+              "_totale_file": 8
+            },
+            {
+              "nome": "2026_11_12 CAFFE' DREAM SRL GRANITORE UGOLINI ICON 11 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANITORE UGOLINI ICON 11 RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "100.UGOLINI LISTINO ATTREZZATURE Listino_prezzi_UGOLINI_2026_ITA ICON 11.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xfulb1gn1ajk11178nrfl/100.UGOLINI-LISTINO-ATTREZZATURE-Listino_prezzi_UGOLINI_2026_ITA-ICON-11.pdf?rlkey=932zvdbxg0ldy4xvgi7sr4550&dl=0?raw=1",
+                  "dimensione_kb": 293,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANITORE UGOLINI ICON 11 RISORSE/100.UGOLINI LISTINO ATTREZZATURE Listino_prezzi_UGOLINI_2026_ITA ICON 11.pdf"
+                },
+                {
+                  "nome": "Datasheet-ICON_11_ITA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3cjh4u1knx4mtlxrc95q1/Datasheet-ICON_11_ITA.pdf?rlkey=eyzrgkyecn8cre1f81836hch4&dl=0?raw=1",
+                  "dimensione_kb": 1256,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANITORE UGOLINI ICON 11 RISORSE/Datasheet-ICON_11_ITA.pdf"
+                },
+                {
+                  "nome": "ICON_11-1V.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/00mbyn3xmdo0n91yx8n7r/ICON_11-1V.jpg?rlkey=d9gqflac59zb0d4j8v788t6wn&dl=0?raw=1",
+                  "dimensione_kb": 147,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANITORE UGOLINI ICON 11 RISORSE/ICON_11-1V.jpg"
+                },
+                {
+                  "nome": "OFFERTA_260538_CAFFE_DREAM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9trar9epps9kkvdu0c1r2/OFFERTA_260538_CAFFE_DREAM.pdf?rlkey=3qu5attqoso4h77e9xmwftin9&dl=0?raw=1",
+                  "dimensione_kb": 1263,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANITORE UGOLINI ICON 11 RISORSE/OFFERTA_260538_CAFFE_DREAM.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/qs74ynh9cijlyzq2ocwuv/PREVENTIVO.json?rlkey=u4vpt2vdba2gaaf881escast9&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANITORE UGOLINI ICON 11 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_GRANITORE_UGOLINI_ICON_11_2026-11-12_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/wrlbm4g7223vbhzsv0wn3/PREVENTIVO_OFFERTA_GRANITORE_UGOLINI_ICON_11_2026-11-12_LAYOUT_AMPIO.md?rlkey=6bs61c0v4ge2sceqkyjxo2xyo&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANITORE UGOLINI ICON 11 RISORSE/PREVENTIVO_OFFERTA_GRANITORE_UGOLINI_ICON_11_2026-11-12_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_GRANITORE_UGOLINI_ICON_11_2026-11-12_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wof3io607i9xt4l79zc48/PREVENTIVO_OFFERTA_GRANITORE_UGOLINI_ICON_11_2026-11-12_LAYOUT_AMPIO.pdf?rlkey=zcjlwtf7xm5t2l3qzapu5r47f&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANITORE UGOLINI ICON 11 RISORSE/PREVENTIVO_OFFERTA_GRANITORE_UGOLINI_ICON_11_2026-11-12_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 7
+            },
+            {
+              "nome": "2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE",
+              "cartelle": [
+                {
+                  "nome": "Foto_Download",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "1B_Variante_ICON_6.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/ym7ehm2qb4t8ke07uar3c/1B_Variante_ICON_6.jpg?rlkey=tj1u83hrixv22mv2uaevyk3bx&dl=0?raw=1",
+                      "dimensione_kb": 184,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/1B_Variante_ICON_6.jpg"
+                    },
+                    {
+                      "nome": "1W_Variante_ICON_6.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/e9j5bwo87pfz4hljoxjkz/1W_Variante_ICON_6.jpg?rlkey=z1dp8ymnoaok5dpemmvvibxzd&dl=0?raw=1",
+                      "dimensione_kb": 189,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/1W_Variante_ICON_6.jpg"
+                    },
+                    {
+                      "nome": "2B_Variante_ICON_6.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/nq3uz39jsyhkq5zrdogv5/2B_Variante_ICON_6.jpg?rlkey=omdw4d5nm5zb724dvucmr2rva&dl=0?raw=1",
+                      "dimensione_kb": 229,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/2B_Variante_ICON_6.jpg"
+                    },
+                    {
+                      "nome": "2W_Variante_ICON_6.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/c70g04avrtmuwyom41jzy/2W_Variante_ICON_6.jpg?rlkey=jqxa594xtgmpl8w2h3pb0blj5&dl=0?raw=1",
+                      "dimensione_kb": 226,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/2W_Variante_ICON_6.jpg"
+                    },
+                    {
+                      "nome": "3B_Variante_ICON_6.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/gzlry6rkh4ysahg4hqmih/3B_Variante_ICON_6.jpg?rlkey=7erlkwsqe3a9bevut7axuxz61&dl=0?raw=1",
+                      "dimensione_kb": 277,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/3B_Variante_ICON_6.jpg"
+                    },
+                    {
+                      "nome": "3W_Variante_ICON_6.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/m9kvcnopb9mmdr70v7edk/3W_Variante_ICON_6.jpg?rlkey=xqda41rnbn6c89kg8ivfuddyb&dl=0?raw=1",
+                      "dimensione_kb": 266,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/3W_Variante_ICON_6.jpg"
+                    },
+                    {
+                      "nome": "ICON_11-1V.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/fod45j7y7qaarskcjp5io/ICON_11-1V.jpg?rlkey=hp0ymj6cet8svooydf80tce1y&dl=0?raw=1",
+                      "dimensione_kb": 147,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/ICON_11-1V.jpg"
+                    },
+                    {
+                      "nome": "ICON_11-2V.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/ennzpipr1dk1wte6ce29l/ICON_11-2V.jpg?rlkey=vmq214xs4d5br85vo7407ib6g&dl=0?raw=1",
+                      "dimensione_kb": 204,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/ICON_11-2V.jpg"
+                    },
+                    {
+                      "nome": "ICON_11-3V.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/72yfjj24e3mqincvnahob/ICON_11-3V.jpg?rlkey=b1ffk9q8jbi6cud6wh58b54sg&dl=0?raw=1",
+                      "dimensione_kb": 257,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/ICON_11-3V.jpg"
+                    },
+                    {
+                      "nome": "ICON_11_black-1V.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/o2as1bdsplbg46b1runto/ICON_11_black-1V.jpg?rlkey=7hapsu8dvfn98imsfvuira84r&dl=0?raw=1",
+                      "dimensione_kb": 149,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/ICON_11_black-1V.jpg"
+                    },
+                    {
+                      "nome": "ICON_11_black-2V.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/4l4glgwov73qcotoj1rof/ICON_11_black-2V.jpg?rlkey=yqxawocd5s9cnpxs7o8lg5qiv&dl=0?raw=1",
+                      "dimensione_kb": 214,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/ICON_11_black-2V.jpg"
+                    },
+                    {
+                      "nome": "ICON_11_black-3V.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/kqecj3s0poigitdr5fw8l/ICON_11_black-3V.jpg?rlkey=31ux6j8y4upc5b3caeiliiho2&dl=0?raw=1",
+                      "dimensione_kb": 274,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/ICON_11_black-3V.jpg"
+                    },
+                    {
+                      "nome": "Product_retro_ICON_6.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/g8lsl26uafg1gj0qvhjx9/Product_retro_ICON_6.jpg?rlkey=crhqhjypnhay2flyfq2hv83ho&dl=0?raw=1",
+                      "dimensione_kb": 222,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Foto_Download/Product_retro_ICON_6.jpg"
+                    }
+                  ],
+                  "_totale_file": 13
+                }
+              ],
+              "file": [
+                {
+                  "nome": "100.UGOLINI LISTINO ATTREZZATURE Listino_prezzi_UGOLINI_2026_ITA ICON 6.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/iizq6gbto185yebauw6mp/100.UGOLINI-LISTINO-ATTREZZATURE-Listino_prezzi_UGOLINI_2026_ITA-ICON-6.pdf?rlkey=bn9fyuyb7k4w8mcqmp42rn8rh&dl=0?raw=1",
+                  "dimensione_kb": 240,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/100.UGOLINI LISTINO ATTREZZATURE Listino_prezzi_UGOLINI_2026_ITA ICON 6.pdf"
+                },
+                {
+                  "nome": "1W_Variante_ICON_6.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/q20iiuxjr1fjb8jzy54u1/1W_Variante_ICON_6.jpg?rlkey=v3itxp7vwnr9lrx41g4nl80kr&dl=0?raw=1",
+                  "dimensione_kb": 189,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/1W_Variante_ICON_6.jpg"
+                },
+                {
+                  "nome": "Datasheet-ICON_6_ITA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zwjtf1t1aoo4gurm05dmz/Datasheet-ICON_6_ITA.pdf?rlkey=frvmv7b12dr81pig3fmn689it&dl=0?raw=1",
+                  "dimensione_kb": 1110,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/Datasheet-ICON_6_ITA.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260537_CAFFE_DREAM.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9dtk559dr1qad1fgku032/OFFERTA_260537_CAFFE_DREAM.pdf?rlkey=xk79pemy78gtvgjznglznoaiy&dl=0?raw=1",
+                  "dimensione_kb": 1550,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/OFFERTA_260537_CAFFE_DREAM.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/tptvktttodu6fgje7bxuc/PREVENTIVO.json?rlkey=91ggzbmz4ihqqnjghwna0mbjn&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_GRANTIORE_UGOLINI_ICON_6_2026-11-12_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/4k1yn12p03svvmaqi6l0j/PREVENTIVO_OFFERTA_GRANTIORE_UGOLINI_ICON_6_2026-11-12_LAYOUT_AMPIO.md?rlkey=l42vbdgzkpiybbidrotkx210f&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/PREVENTIVO_OFFERTA_GRANTIORE_UGOLINI_ICON_6_2026-11-12_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_GRANTIORE_UGOLINI_ICON_6_2026-11-12_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/swlpidhx9mgj2uihy5d4u/PREVENTIVO_OFFERTA_GRANTIORE_UGOLINI_ICON_6_2026-11-12_LAYOUT_AMPIO.pdf?rlkey=th1fi27v29kfjxyu53za3cr15&dl=0?raw=1",
+                  "dimensione_kb": 294,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 CAFFE' DREAM SRL GRANTIORE UGOLINI ICON 6 RISORSE/PREVENTIVO_OFFERTA_GRANTIORE_UGOLINI_ICON_6_2026-11-12_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 20
+            },
+            {
+              "nome": "2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE",
+              "cartelle": [
+                {
+                  "nome": "FOTO",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/FOTO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FM.AFF.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/oqf0c04ivx11xhrc95flm/FM.AFF.png?rlkey=uqcrcr6ccsea4w99v9r4bf7em&dl=0?raw=1",
+                      "dimensione_kb": 27,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/FOTO/FM.AFF.png"
+                    },
+                    {
+                      "nome": "FM.AVRY0B250MI401.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/nfpokw88cwnvrwd50zmvm/FM.AVRY0B250MI401.png?rlkey=8ze8scf0pndcmg930cfdqth39&dl=0?raw=1",
+                      "dimensione_kb": 104,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/FOTO/FM.AVRY0B250MI401.png"
+                    },
+                    {
+                      "nome": "FM.BVR0JB2001011.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/epjsg4p9jixb6osxzdwpj/FM.BVR0JB2001011.png?rlkey=zqmvnwdvrrm2298wsn410gkd2&dl=0?raw=1",
+                      "dimensione_kb": 76,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/FOTO/FM.BVR0JB2001011.png"
+                    },
+                    {
+                      "nome": "FM.CMUMFB1100001S1.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/19sh2j378t49lih4y7qo2/FM.CMUMFB1100001S1.png?rlkey=d3tqdcrzq4y6c44zpdun56bd6&dl=0?raw=1",
+                      "dimensione_kb": 81,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/FOTO/FM.CMUMFB1100001S1.png"
+                    },
+                    {
+                      "nome": "FM.FIANCOSS-DX.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/eaj5qxjqw5bl9hf8g5d3j/FM.FIANCOSS-DX.png?rlkey=8sh15innkkn4p3ty5u62gajjb&dl=0?raw=1",
+                      "dimensione_kb": 19,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/FOTO/FM.FIANCOSS-DX.png"
+                    },
+                    {
+                      "nome": "FM.FIANCOSS-SX.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/l10e3qowdo1y0bjjb16s8/FM.FIANCOSS-SX.png?rlkey=onkeo7ym8c6pv64q8x162ot93&dl=0?raw=1",
+                      "dimensione_kb": 19,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/FOTO/FM.FIANCOSS-SX.png"
+                    }
+                  ],
+                  "_totale_file": 6
+                }
+              ],
+              "file": [
+                {
+                  "nome": "FRIGOMECCANICA Pianta DE DIEGO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ez5k4qgcdy6yh04daitnz/FRIGOMECCANICA-Pianta-DE-DIEGO.pdf?rlkey=5knnq5rty3i0g9zseiytbpy5v&dl=0?raw=1",
+                  "dimensione_kb": 232,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/FRIGOMECCANICA Pianta DE DIEGO.pdf"
+                },
+                {
+                  "nome": "FRIGOMECCANICA Preventivo DE DIEGO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/q8dwzc4q254h7ljv0kxtn/FRIGOMECCANICA-Preventivo-DE-DIEGO.pdf?rlkey=jpenplgfs4ykypsf0l2itldpu&dl=0?raw=1",
+                  "dimensione_kb": 123,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/FRIGOMECCANICA Preventivo DE DIEGO.pdf"
+                },
+                {
+                  "nome": "GASTRONOMIA OFFERTA DEL 12_11_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/u7odb008memk1uv0ab6hb/GASTRONOMIA-OFFERTA-DEL-12_11_2026.pdf?rlkey=ldzr7jlc72zdtolhxwlgitck7&dl=0?raw=1",
+                  "dimensione_kb": 58,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/GASTRONOMIA OFFERTA DEL 12_11_2026.pdf"
+                },
+                {
+                  "nome": "Mirage-Squared-2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/vdg206b4x4st9bw9hnkle/Mirage-Squared-2022.pdf?rlkey=69ymwkmxanfr9ujuk7xvfqkav&dl=0?raw=1",
+                  "dimensione_kb": 4749,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/Mirage-Squared-2022.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260536_DE_DIEGO CON ALLEGATI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d8vjwpfxfrtk8s6ux131m/OFFERTA_260536_DE_DIEGO-CON-ALLEGATI.pdf?rlkey=8loedq9k006deoidslmoixpbl&dl=0?raw=1",
+                  "dimensione_kb": 15106,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/OFFERTA_260536_DE_DIEGO CON ALLEGATI.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260536_DE_DIEGO SENZA ALLEGATI.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wno9rfb7h88ldii5h9jsg/OFFERTA_260536_DE_DIEGO-SENZA-ALLEGATI.pdf?rlkey=oq01vyyn531jurgcns4zslqf3&dl=0?raw=1",
+                  "dimensione_kb": 485,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/OFFERTA_260536_DE_DIEGO SENZA ALLEGATI.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/974suuiscewyklx2geqw6/PREVENTIVO.json?rlkey=pnds58fh1f4e6ern73kh5fzgk&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_ARREDO_PUNTO_VENDITA_MACELLERIA_2026-11-12_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/sg7ah01ez54a8ogwcqib2/PREVENTIVO_OFFERTA_ARREDO_PUNTO_VENDITA_MACELLERIA_2026-11-12_LAYOUT_AMPIO.md?rlkey=jrpcd6o18ctdv4b2a8p8vml5o&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/PREVENTIVO_OFFERTA_ARREDO_PUNTO_VENDITA_MACELLERIA_2026-11-12_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_ARREDO_PUNTO_VENDITA_MACELLERIA_2026-11-12_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ythkwzc8wo6kgvyynigw1/PREVENTIVO_OFFERTA_ARREDO_PUNTO_VENDITA_MACELLERIA_2026-11-12_LAYOUT_AMPIO.pdf?rlkey=gov17ezrkuufgjzp6c3mv9av2&dl=0?raw=1",
+                  "dimensione_kb": 485,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/PREVENTIVO_OFFERTA_ARREDO_PUNTO_VENDITA_MACELLERIA_2026-11-12_LAYOUT_AMPIO.pdf"
+                },
+                {
+                  "nome": "SVEN-2021.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/84ee8jvhtrxhmd13qd7z7/SVEN-2021.pdf?rlkey=ayjj6vuu0m01ligr18650vha4&dl=0?raw=1",
+                  "dimensione_kb": 1944,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/SVEN-2021.pdf"
+                },
                 {
                   "nome": "VICECONTI snc - Tortora CS  Braceria DE DIEGO Bozza Progetto del 12 11 2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/gjj9laglmsxiwdxxxvhdy/VICECONTI-snc-Tortora-CS-Braceria-DE-DIEGO-Bozza-Progetto-del-12-11-2026.pdf?rlkey=xehq433zyhvoox95omrzzuubo&dl=0?raw=1",
                   "dimensione_kb": 507,
-                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_11 MACELLERIA DE DEIGO ARREDO/VICECONTI snc - Tortora CS  Braceria DE DIEGO Bozza Progetto del 12 11 2026.pdf"
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/VICECONTI snc - Tortora CS  Braceria DE DIEGO Bozza Progetto del 12 11 2026.pdf"
+                },
+                {
+                  "nome": "just.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1omzj22hddq6vli189j7j/just.pdf?rlkey=x7053soqxqtnoonvv3oh0wgz2&dl=0?raw=1",
+                  "dimensione_kb": 8104,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA ARREDO PUNTO VENDITA MACELLERIA RISORSE/just.pdf"
+                }
+              ],
+              "_totale_file": 18
+            },
+            {
+              "nome": "2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION 200 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION 200 RISORSE",
+              "cartelle": [
+                {
+                  "nome": "FOTO",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION 200 RISORSE/FOTO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "KLI.VISION200.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/w2odrlwuinerczl8zrriw/KLI.VISION200.png?rlkey=yps31y9p689fx0ytsv4ezcsxv&dl=0?raw=1",
+                      "dimensione_kb": 412,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION 200 RISORSE/FOTO/KLI.VISION200.png"
+                    }
+                  ],
+                  "_totale_file": 1
+                }
+              ],
+              "file": [
+                {
+                  "nome": "OFFERTA_260540_GOLDENFRUTTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jw3nlafaqyfpbhyar907h/OFFERTA_260540_GOLDENFRUTTA.pdf?rlkey=tw2hizbz8uswuyv4jhhfwql39&dl=0?raw=1",
+                  "dimensione_kb": 1793,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION 200 RISORSE/OFFERTA_260540_GOLDENFRUTTA.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/ser3zz9jfrbfotu6444di/PREVENTIVO.json?rlkey=klzjeivoq8x9pch5fkdhjo9w5&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION 200 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_200_2026-11-12_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/q03ba51oj13ksp5xsx4rp/PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_200_2026-11-12_LAYOUT_AMPIO.md?rlkey=9twcwydzzum17c19htyv5rbbe&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION 200 RISORSE/PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_200_2026-11-12_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_200_2026-11-12_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/srzq118ymearhj3y05oqq/PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_200_2026-11-12_LAYOUT_AMPIO.pdf?rlkey=n1ur55fp8qyd1zl2nbz8ky3j6&dl=0?raw=1",
+                  "dimensione_kb": 694,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION 200 RISORSE/PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_200_2026-11-12_LAYOUT_AMPIO.pdf"
+                },
+                {
+                  "nome": "VISION 150_200_250.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xt8b9x3bgrw4kazxuahgz/VISION-150_200_250.pdf?rlkey=ncxrlp9mrfdrgiqkie4flvllh&dl=0?raw=1",
+                  "dimensione_kb": 721,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION 200 RISORSE/VISION 150_200_250.pdf"
+                }
+              ],
+              "_totale_file": 6
+            },
+            {
+              "nome": "2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION RISORSE",
+              "cartelle": [
+                {
+                  "nome": "FOTO",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION RISORSE/FOTO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "KLI.VISION150.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/2osw9zhsjemqvsfqvywzt/KLI.VISION150.png?rlkey=pgy20r349lbqh81jxbipgd09f&dl=0?raw=1",
+                      "dimensione_kb": 308,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION RISORSE/FOTO/KLI.VISION150.png"
+                    }
+                  ],
+                  "_totale_file": 1
+                }
+              ],
+              "file": [
+                {
+                  "nome": "OFFERTA_260539_GOLDENFRUTTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/puq6brl50eaw7ioy44lva/OFFERTA_260539_GOLDENFRUTTA.pdf?rlkey=keqq3tu8gumcnedgp7sc8vxo3&dl=0?raw=1",
+                  "dimensione_kb": 1538,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION RISORSE/OFFERTA_260539_GOLDENFRUTTA.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/5itvr7il2g0q6i5w9n6ed/PREVENTIVO.json?rlkey=1yhkzmni80qrf0mk7jr1fbkyy&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_2026-11-12_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/ii1ubuhn86fnjpxmthbwd/PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_2026-11-12_LAYOUT_AMPIO.md?rlkey=zkzxaq36xd0wz0w1m8m6ugpx3&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION RISORSE/PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_2026-11-12_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_2026-11-12_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wva8g9imgcwsbkp7oc395/PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_2026-11-12_LAYOUT_AMPIO.pdf?rlkey=cw7e0vzcjullkslx3gfnrtreb&dl=0?raw=1",
+                  "dimensione_kb": 544,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION RISORSE/PREVENTIVO_OFFERTA_ARMADIO_MURALE_KLIMAITALIA_VISION_2026-11-12_LAYOUT_AMPIO.pdf"
+                },
+                {
+                  "nome": "VISION 150_200_250.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/athjwpqjecl122mxk7kyx/VISION-150_200_250.pdf?rlkey=53csrp9d1skyn6ajbtbvayj43&dl=0?raw=1",
+                  "dimensione_kb": 721,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL ARMADIO MURALE KLIMAITALIA VISION RISORSE/VISION 150_200_250.pdf"
+                }
+              ],
+              "_totale_file": 6
+            },
+            {
+              "nome": "2026_11_12 GOLDENFRUTTA SRL MURALE FRIGOMECCANICA FJORD RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL MURALE FRIGOMECCANICA FJORD RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "FJORD-2021.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ojclgmbvhvdbwqiuiskxx/FJORD-2021.pdf?rlkey=rbvzcr3dsuwowhcc41qy38yo2&dl=0?raw=1",
+                  "dimensione_kb": 5194,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 GOLDENFRUTTA SRL MURALE FRIGOMECCANICA FJORD RISORSE/FJORD-2021.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO PLUS 20-315 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO PLUS 20-315 RISORSE",
+              "cartelle": [
+                {
+                  "nome": "DAL SITO VALKO",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO PLUS 20-315 RISORSE/DAL SITO VALKO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "1410V365-625x625.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/h299f2ngcn86e4f8bvpq7/1410V365-625x625.jpg?rlkey=oc0e4r0zy0mjrv14xqangf3n5&dl=0?raw=1",
+                      "dimensione_kb": 29,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO PLUS 20-315 RISORSE/DAL SITO VALKO/1410V365-625x625.jpg"
+                    },
+                    {
+                      "nome": "1410V366_VALKO-plus-20-315-2.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/hefjhz6fpo1ktpvlfpjg1/1410V366_VALKO-plus-20-315-2.pdf?rlkey=npwfq7k8xx09ouemrj7uu3mbw&dl=0?raw=1",
+                      "dimensione_kb": 2544,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO PLUS 20-315 RISORSE/DAL SITO VALKO/1410V366_VALKO-plus-20-315-2.pdf"
+                    }
+                  ],
+                  "_totale_file": 2
+                }
+              ],
+              "file": [
+                {
+                  "nome": "Brochure_VALKO-plus-4.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/mty42tbm3xsoojvfi7xld/Brochure_VALKO-plus-4.pdf?rlkey=ynrru6yguc3fjbshrmmqrruch&dl=0?raw=1",
+                  "dimensione_kb": 4013,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO PLUS 20-315 RISORSE/Brochure_VALKO-plus-4.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260543_SALAMONE_DONATO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/z3w5bntfo04209fnyv97u/OFFERTA_260543_SALAMONE_DONATO.pdf?rlkey=zb4f5aval5npqfl0s962ul3zl&dl=0?raw=1",
+                  "dimensione_kb": 6592,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO PLUS 20-315 RISORSE/OFFERTA_260543_SALAMONE_DONATO.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/fp7vec6ovh35wu9hajro8/PREVENTIVO.json?rlkey=av65pcxkv7r9l4r3axk6jul8b&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO PLUS 20-315 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_PLUS_20_315_2026-11-12_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/dvb3oo0gwy8hgk47ky3f8/PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_PLUS_20_315_2026-11-12_LAYOUT_AMPIO.md?rlkey=de67sti9askbio4zcw9vb0epm&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO PLUS 20-315 RISORSE/PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_PLUS_20_315_2026-11-12_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_PLUS_20_315_2026-11-12_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/pceoo2dkbfqdu7cqbmq1d/PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_PLUS_20_315_2026-11-12_LAYOUT_AMPIO.pdf?rlkey=cnsome1880iqc4rhdxvo20zul&dl=0?raw=1",
+                  "dimensione_kb": 92,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO PLUS 20-315 RISORSE/PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_PLUS_20_315_2026-11-12_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 7
+            },
+            {
+              "nome": "2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "1410V369-357x357.jpg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/xpb2qga5atm9yonkgtqyz/1410V369-357x357.jpg?rlkey=iztr1f0e30wknc43fpmv2s2rm&dl=0?raw=1",
+                  "dimensione_kb": 12,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO RISORSE/1410V369-357x357.jpg"
+                },
+                {
+                  "nome": "1410V369_VALKO-plus-25-415-2.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ckjwqazdr7liiltav9lna/1410V369_VALKO-plus-25-415-2.pdf?rlkey=ihh49d3zmpnoddaa8hh5dj2w0&dl=0?raw=1",
+                  "dimensione_kb": 2873,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO RISORSE/1410V369_VALKO-plus-25-415-2.pdf"
+                },
+                {
+                  "nome": "Brochure_VALKO-plus-4.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/68rt4svu54stkf8xgq4yk/Brochure_VALKO-plus-4.pdf?rlkey=48j9l3axt5j3e69dyafnxpepv&dl=0?raw=1",
+                  "dimensione_kb": 4013,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO RISORSE/Brochure_VALKO-plus-4.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260541_SALAMONE_DONATO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/enn3tjvqj3tzvomu270s5/OFFERTA_260541_SALAMONE_DONATO.pdf?rlkey=tympbuz8c0n1i7vaf98m0nulr&dl=0?raw=1",
+                  "dimensione_kb": 6917,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO RISORSE/OFFERTA_260541_SALAMONE_DONATO.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/x9q2do5b4gt5ih9ag9wmh/PREVENTIVO.json?rlkey=o5jaolgt5ru3ij8g7fz89smrt&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_2026-11-12_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/nrgmpcw85rkueqnt1n3pu/PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_2026-11-12_LAYOUT_AMPIO.md?rlkey=wxs7qg1bx3dgfar8sm1t3dd88&dl=0?raw=1",
+                  "dimensione_kb": 2,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO RISORSE/PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_2026-11-12_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_2026-11-12_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/zx8xh9qmr5evavmkao22c/PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_2026-11-12_LAYOUT_AMPIO.pdf?rlkey=efu7q84a7pydbrbh5ldv8wkc6&dl=0?raw=1",
+                  "dimensione_kb": 90,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO RISORSE/PREVENTIVO_OFFERTA_MACCHINA_SOTTOVUOTO_A_CAMPANA_VALKO_2026-11-12_LAYOUT_AMPIO.pdf"
+                },
+                {
+                  "nome": "quote_9a77d605e3fbfac7b12610bfd5c00591.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/7av72ddb679iiqkm9stg9/quote_9a77d605e3fbfac7b12610bfd5c00591.pdf?rlkey=cw2h42hayy6d31fzlh09idulc&dl=0?raw=1",
+                  "dimensione_kb": 176,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_12 SALAMONE DONATO MACCHINA SOTTOVUOTO A CAMPANA VALKO RISORSE/quote_9a77d605e3fbfac7b12610bfd5c00591.pdf"
+                }
+              ],
+              "_totale_file": 8
+            },
+            {
+              "nome": "2026_11_13 IMPASTATRICE GRILLETTA FAMAG",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_13 IMPASTATRICE GRILLETTA FAMAG",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Brochure Impastatrici FA.M.A.G.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/psb7q5ijvebgh7lo7z7l3/Brochure-Impastatrici-FA.M.A.G.pdf?rlkey=x13o2rbm3jiyle6rnlb4bwo4v&dl=0?raw=1",
+                  "dimensione_kb": 2336,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_13 IMPASTATRICE GRILLETTA FAMAG/Brochure Impastatrici FA.M.A.G.pdf"
                 }
               ],
               "_totale_file": 1
@@ -73699,7 +74584,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5763
+          "_totale_file": 5850
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -74043,12 +74928,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BARLASCINI FLAVIO Ordine cliente_260173_20260527_082920 RIF. LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140.pdf"
             },
             {
-              "nome": "BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA Ordine cliente_260550_20261111_111205 RIF. ARI.3415-010036 PEG 50.42 DD - ATTIVITA' 7836 CHIAMATA 260256 Basato su Offerte.pdf",
+              "nome": "BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA Ordine cliente_260550_20261112_092906 RIF. ARI.3415-010036 PEG 50.42 DD - ATTIVITA' 7836 CHIAMATA 260256 Basato su Offerte.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/q0e0nmekm33wvssnimawe/BELLAVISTA-BAR-RISTORANTE-PIZZERIA-di-PAPA-MICHELA-Ordine-cliente_260550_20261111_111205-RIF.-ARI.3415-010036-PEG-50.42-DD-ATTIVITA-7836-CHIAMATA-260256-Basato-su-Offerte.pdf?rlkey=w2ah7wpauj7hitueqahadsagv&dl=0?raw=1",
-              "dimensione_kb": 68,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA Ordine cliente_260550_20261111_111205 RIF. ARI.3415-010036 PEG 50.42 DD - ATTIVITA' 7836 CHIAMATA 260256 Basato su Offerte.pdf"
+              "link": "https://www.dropbox.com/scl/fi/ywsjizfymmn5yhogmsto1/BELLAVISTA-BAR-RISTORANTE-PIZZERIA-di-PAPA-MICHELA-Ordine-cliente_260550_20261112_092906-RIF.-ARI.3415-010036-PEG-50.42-DD-ATTIVITA-7836-CHIAMATA-260256-Basato-su-Offerte.pdf?rlkey=0ywmg616j7jco08nto27matli&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA Ordine cliente_260550_20261112_092906 RIF. ARI.3415-010036 PEG 50.42 DD - ATTIVITA' 7836 CHIAMATA 260256 Basato su Offerte.pdf"
             },
             {
               "nome": "BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA Ordine cliente_260551_20261111_110712 RIF. MENSOLE IN ACCIAO INOX.pdf",
@@ -74299,6 +75184,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHECK Srl BAR MATER DEI Ordine cliente_260509_20261015_171137 RIF. DETERGENTE LAVABICCHIERI.pdf"
             },
             {
+              "nome": "CHECK Srl BAR MATER DEI Ordine cliente_260556_20261112_204813 RIF. FRIGGITRICE ELETTRICA DA BANCO 1VASCA 8L MOD.FR8N,CAP.OLIO MINMAX.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ofk1weqnhx7bzq7vokfz0/CHECK-Srl-BAR-MATER-DEI-Ordine-cliente_260556_20261112_204813-RIF.-FRIGGITRICE-ELETTRICA-DA-BANCO-1VASCA-8L-MOD.FR8N-CAP.OLIO-MINMAX.pdf?rlkey=d5k6r3p691gj0pgvoi261dczt&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CHECK Srl BAR MATER DEI Ordine cliente_260556_20261112_204813 RIF. FRIGGITRICE ELETTRICA DA BANCO 1VASCA 8L MOD.FR8N,CAP.OLIO MINMAX.pdf"
+            },
+            {
               "nome": "CHIARELLO ANNAMARIA Ordine cliente_260523_20261022_130620 RIF. LAMA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -74545,6 +75438,14 @@
               "link": "https://www.dropbox.com/scl/fi/d4jeivhfcv6fht9yolmi4/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Ordine-cliente_260402_20260820_103707-RIF.-TAGLIERE-IN-POLIETILENE-50x30x2h-CM.pdf?rlkey=o6tdc71s3e0wl85aacsq3uzvj&dl=0?raw=1",
               "dimensione_kb": 64,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DELIZIE DEL FORNO di CANTISANI CARMELINA Ordine cliente_260402_20260820_103707 RIF. TAGLIERE IN POLIETILENE 50x30x2h CM.pdf"
+            },
+            {
+              "nome": "DELIZIE DEL FORNO di CANTISANI CARMELINA Ordine cliente_260554_20261112_091750 RIF. DETERGENTE RATIONAL ROSSO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0k3i9xg3wuhpmb2m4xnza/DELIZIE-DEL-FORNO-di-CANTISANI-CARMELINA-Ordine-cliente_260554_20261112_091750-RIF.-DETERGENTE-RATIONAL-ROSSO.pdf?rlkey=3jkfzayza535va1hkm8w0qtei&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/DELIZIE DEL FORNO di CANTISANI CARMELINA Ordine cliente_260554_20261112_091750 RIF. DETERGENTE RATIONAL ROSSO.pdf"
             },
             {
               "nome": "DIMAC SRL Ordine cliente_260135_20260512_100211.pdf",
@@ -77035,7 +77936,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZM RIPARAZIONI DI ZACCARA MARIO Ordine cliente_260498_20261009_123654 RIF. MACINE CONICHE X MC99CONIK.pdf"
             }
           ],
-          "_totale_file": 416
+          "_totale_file": 418
         }
       ],
       "file": [
