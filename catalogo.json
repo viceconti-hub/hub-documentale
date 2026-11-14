@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-12T10:45:23Z",
-  "totale_file": 28593,
+  "generato": "2026-11-14T01:31:03Z",
+  "totale_file": 28597,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -81663,7 +81663,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7922,
+      "totale_file": 7926,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -145583,6 +145583,46 @@
                   ],
                   "file": [],
                   "_totale_file": 4
+                },
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_11_12",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/SITUAZIONE CONTABILE AL 2026_11_12",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600511 DEL 2026_09_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/f3sxqqbbi4jqojlpxxj5u/FATTURA-2600511-DEL-2026_09_30.pdf?rlkey=dpa4j8yqrkesqtdne6baizxyh&dl=0?raw=1",
+                      "dimensione_kb": 64,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/SITUAZIONE CONTABILE AL 2026_11_12/FATTURA 2600511 DEL 2026_09_30.pdf"
+                    },
+                    {
+                      "nome": "ORDINE 260550 DEL 2026_11_09.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/j4hmq6guqc2pju5m4mtna/ORDINE-260550-DEL-2026_11_09.pdf?rlkey=3a62rvz5mem0z3aqv3bbzuudz&dl=0?raw=1",
+                      "dimensione_kb": 69,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/SITUAZIONE CONTABILE AL 2026_11_12/ORDINE 260550 DEL 2026_11_09.pdf"
+                    },
+                    {
+                      "nome": "ORDINE 260551 DEL 2026_11_10.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/w0ugak4yy39esrpg91h8p/ORDINE-260551-DEL-2026_11_10.pdf?rlkey=kqao20z1at7d4v2qf63gvmhhp&dl=0?raw=1",
+                      "dimensione_kb": 69,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/SITUAZIONE CONTABILE AL 2026_11_12/ORDINE 260551 DEL 2026_11_10.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE CO51719.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/24uvdpjbyuuf62y6jyxa9/SITUAZIONE-CONTABILE-CO51719.pdf?rlkey=6ie5yzjcff5e5wpn4q2363399&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/SITUAZIONE CONTABILE AL 2026_11_12/SITUAZIONE CONTABILE CO51719.pdf"
+                    }
+                  ],
+                  "_totale_file": 4
                 }
               ],
               "file": [
@@ -145619,11 +145659,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SANTA DOMENICA TALAO/BELLAVISTA/_CLIENTE CO51719 BELLAVISTA.txt"
                 }
               ],
-              "_totale_file": 8
+              "_totale_file": 12
             }
           ],
           "file": [],
-          "_totale_file": 8
+          "_totale_file": 12
         },
         {
           "nome": "SANTA MARIA DEL CEDRO",
@@ -158860,28 +158900,28 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200 DATI MACCHINA.jpg"
                         },
                         {
-                          "nome": "LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO ELETTRICO.pdf",
+                          "nome": "esploso elett. AT1200 _ ATA Srl.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/yd85nki914jp1swpo1dns/LAVASTOVIGLIE-A-CAPPOTTA-ATA-MOD.AT-1200-ESPLOSO-ELETTRICO.pdf?rlkey=o061dfmjkggagk2bmg6c7pbfx&dl=0?raw=1",
-                          "dimensione_kb": 161,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO ELETTRICO.pdf"
+                          "link": "https://www.dropbox.com/scl/fi/pmg2sg4m8g59n8f61sdn0/esploso-elett.-AT1200-_-ATA-Srl.pdf?rlkey=52b1o0pczvkb1vmt5nh7x3s4s&dl=0?raw=1",
+                          "dimensione_kb": 162,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/esploso elett. AT1200 _ ATA Srl.pdf"
                         },
                         {
-                          "nome": "LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO MECCANICO.pdf",
+                          "nome": "esploso idro. AT1200 _ ATA Srl.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/8hop40aw9o8wm3jobgk1d/LAVASTOVIGLIE-A-CAPPOTTA-ATA-MOD.AT-1200-ESPLOSO-MECCANICO.pdf?rlkey=3e1c5wq3befbayr9qk1md88zu&dl=0?raw=1",
-                          "dimensione_kb": 163,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO MECCANICO.pdf"
+                          "link": "https://www.dropbox.com/scl/fi/zwtdnc6s57wuqrzdbbirc/esploso-idro.-AT1200-_-ATA-Srl.pdf?rlkey=equ51vjy04ibd42uihs13fkn1&dl=0?raw=1",
+                          "dimensione_kb": 179,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/esploso idro. AT1200 _ ATA Srl.pdf"
                         },
                         {
-                          "nome": "LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO POMPA.pdf",
+                          "nome": "esploso mecc. AT1200 _ ATA Srl.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/t5z44vbmus9bb0szk5q6b/LAVASTOVIGLIE-A-CAPPOTTA-ATA-MOD.AT-1200-ESPLOSO-POMPA.pdf?rlkey=orw0fx0znsji1ar61uftqucz4&dl=0?raw=1",
-                          "dimensione_kb": 152,
-                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/LAVASTOVIGLIE A CAPPOTTA ATA MOD.AT 1200 ESPLOSO POMPA.pdf"
+                          "link": "https://www.dropbox.com/scl/fi/wn7e1b67tirrvt3vnjm2y/esploso-mecc.-AT1200-_-ATA-Srl.pdf?rlkey=s32e766matyyzzlfn3kt9hpcm&dl=0?raw=1",
+                          "dimensione_kb": 164,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/VIGGIANELLO/CAPUTO VINCENZO/CAPUTO VINCENZO AREA TECNICA/LAVASTOVIGLIE A CAPPOTTA ATA MOD. AT1200/esploso mecc. AT1200 _ ATA Srl.pdf"
                         }
                       ],
                       "_totale_file": 4
