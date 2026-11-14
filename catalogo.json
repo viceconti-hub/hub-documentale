@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-14T06:59:05Z",
-  "totale_file": 28694,
+  "generato": "2026-11-14T09:04:30Z",
+  "totale_file": 28696,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -204831,7 +204831,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5325,
+      "totale_file": 5327,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -205230,6 +205230,14 @@
               "link": "https://www.dropbox.com/scl/fi/3j2i2cqr7ch7gise8k1sm/COLD-LINE-srl-Entrata-merci-da-fornitore_260256_20261029_090108-RIF.-GRIGLIA-PLASTIFICATA-GN-21-Basato-su-Ordini-d-acquisto-260218..pdf?rlkey=04pgyz0b5ch7dp1c6h5y1fkb9&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260256_20261029_090108 RIF. GRIGLIA PLASTIFICATA GN 21 Basato su Ordini d'acquisto 260218..pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260266_20261113_165753 RIF. PERRETTA SERVICE Basato su Ordini cliente 260544. Offerta Coldline 2612231..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6n4fgvokobfyzgwwgdlmv/COLD-LINE-srl-Entrata-merci-da-fornitore_260266_20261113_165753-RIF.-PERRETTA-SERVICE-Basato-su-Ordini-cliente-260544.-Offerta-Coldline-2612231..pdf?rlkey=ul0kg9ko01qvdzihaugfaz4a0&dl=0?raw=1",
+              "dimensione_kb": 55,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260266_20261113_165753 RIF. PERRETTA SERVICE Basato su Ordini cliente 260544. Offerta Coldline 2612231..pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -206384,7 +206392,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 191
+          "_totale_file": 192
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -216392,6 +216400,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/COLDLINE Packing list ordine n°26-11538.pdf"
             },
             {
+              "nome": "Ritiro SMOKIN&#8217;BR.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/o8upiwibexx22xhebz2r9/Ritiro-SMOKIN-8217-BR.pdf?rlkey=km9pixf4r6b1nto767jo2v0c3&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/Ritiro SMOKIN&#8217;BR.pdf"
+            },
+            {
               "nome": "STAGNI STEFANIA Conferma prenotazione ritiro.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -216408,7 +216424,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf"
             }
           ],
-          "_totale_file": 10
+          "_totale_file": 11
         },
         {
           "nome": "ORDINI D'ACQUISTO",
