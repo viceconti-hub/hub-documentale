@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-16T09:18:39Z",
-  "totale_file": 28696,
+  "generato": "2026-11-16T10:28:09Z",
+  "totale_file": 28670,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -249781,7 +249781,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2490,
+      "totale_file": 2464,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -263426,230 +263426,6 @@
                       "_totale_file": 15
                     },
                     {
-                      "nome": "IFI PAGAMENTI",
-                      "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI",
-                      "cartelle": [
-                        {
-                          "nome": "ARCHIVIO IFI PAGAMENTI",
-                          "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI",
-                          "cartelle": [],
-                          "file": [
-                            {
-                              "nome": "Gmail - I_ Viceconti Snc_ richiesta dettaglio importi ordini in corso.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/kkm8sxsr6axki2fn6vn2u/Gmail-I_-Viceconti-Snc_-richiesta-dettaglio-importi-ordini-in-corso.pdf?rlkey=9x0i6rohl5feo8f38st7h3jco&dl=0?raw=1",
-                              "dimensione_kb": 192,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/Gmail - I_ Viceconti Snc_ richiesta dettaglio importi ordini in corso.pdf"
-                            },
-                            {
-                              "nome": "Gmail - VICECONTI - aggiornamento Vs. posizione debitoria.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/jcoc4o9nwom7bfmwsc675/Gmail-VICECONTI-aggiornamento-Vs.-posizione-debitoria.pdf?rlkey=jpozs619s0b60wciouh90ip98&dl=0?raw=1",
-                              "dimensione_kb": 98,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/Gmail - VICECONTI - aggiornamento Vs. posizione debitoria.pdf"
-                            },
-                            {
-                              "nome": "Gmail - VICECONTI SNC - scadenza del 28_02_25.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/07jc816jjvfeydhwgwikf/Gmail-VICECONTI-SNC-scadenza-del-28_02_25.pdf?rlkey=vuyt70dechqcb5ye9s2dy8m2c&dl=0?raw=1",
-                              "dimensione_kb": 217,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/Gmail - VICECONTI SNC - scadenza del 28_02_25.pdf"
-                            },
-                            {
-                              "nome": "IFI BONIFICO DEL 10_03_2025.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/b1krjfusbwy2mioqb72ff/IFI-BONIFICO-DEL-10_03_2025.pdf?rlkey=5zxy8933ksqhwzjsophf84u2r&dl=0?raw=1",
-                              "dimensione_kb": 47,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI BONIFICO DEL 10_03_2025.pdf"
-                            },
-                            {
-                              "nome": "IFI BONIFICO DEL 11_01_2023.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/9is72ls2z1xp4voy1gkzs/IFI-BONIFICO-DEL-11_01_2023.pdf?rlkey=gmnmltqn2be7jpaay5ote9677&dl=0?raw=1",
-                              "dimensione_kb": 100,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI BONIFICO DEL 11_01_2023.pdf"
-                            },
-                            {
-                              "nome": "IFI BONIFICO DEL 18_03_2024.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/cyzi7kg0h8ug6y65gdgam/IFI-BONIFICO-DEL-18_03_2024.pdf?rlkey=o62nwlq8bpfulqn79p70lwnlc&dl=0?raw=1",
-                              "dimensione_kb": 96,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI BONIFICO DEL 18_03_2024.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI BRT 09_05_2024.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/21fjdqx9jhgfnnaiawpnn/IFI-COPIA-TITOLI-BRT-09_05_2024.pdf?rlkey=sjbfzomu7onl0oy4vv1oomlb9&dl=0?raw=1",
-                              "dimensione_kb": 518,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI BRT 09_05_2024.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI BRT 10_02_2025.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/on2gg1d1zpjch21f51jwo/IFI-COPIA-TITOLI-BRT-10_02_2025.pdf?rlkey=11qmwirqd4wsrdf2o3qh1lipp&dl=0?raw=1",
-                              "dimensione_kb": 962,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI BRT 10_02_2025.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI BRT 11_12_2023.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/nv8oiraxmtgekv5nh9gkc/IFI-COPIA-TITOLI-BRT-11_12_2023.pdf?rlkey=hg3vgvxnmjlzj1xn0198h59th&dl=0?raw=1",
-                              "dimensione_kb": 480,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI BRT 11_12_2023.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI BRT 14_06_2024.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/st5d3o9fny3hxph0dw9ig/IFI-COPIA-TITOLI-BRT-14_06_2024.pdf?rlkey=x0566t2bannu4f93sn7cmakjv&dl=0?raw=1",
-                              "dimensione_kb": 748,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI BRT 14_06_2024.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI BRT 26_02_2024.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/1bu895k4q8fhji0k1gyvf/IFI-COPIA-TITOLI-BRT-26_02_2024.pdf?rlkey=ovqvntv7y74ka76uxbqfj4af6&dl=0?raw=1",
-                              "dimensione_kb": 515,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI BRT 26_02_2024.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI GENNAIO_2022.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/4r9i5xplij724r4ipwado/IFI-COPIA-TITOLI-GENNAIO_2022.pdf?rlkey=d025poicix1yg6ixv8kuzpst6&dl=0?raw=1",
-                              "dimensione_kb": 481,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI GENNAIO_2022.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI GIUGNO_2022 GLS 06_06_2022.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/au9n7mdj4yu8buj8kc3hc/IFI-COPIA-TITOLI-GIUGNO_2022-GLS-06_06_2022.pdf?rlkey=w75x4az7w0rnsmqu9105uthd5&dl=0?raw=1",
-                              "dimensione_kb": 486,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI GIUGNO_2022 GLS 06_06_2022.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI GLS 03_08_2023.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/mts0fvjbdblovp8mycrcv/IFI-COPIA-TITOLI-GLS-03_08_2023.pdf?rlkey=osoo28d0gipr0y9yfanmdrvvf&dl=0?raw=1",
-                              "dimensione_kb": 510,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI GLS 03_08_2023.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI GLS 21_04_2023.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/itlcw3s9fe7r59co4761q/IFI-COPIA-TITOLI-GLS-21_04_2023.pdf?rlkey=hnlkca9o1k25s3k80xuyli5hf&dl=0?raw=1",
-                              "dimensione_kb": 487,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI GLS 21_04_2023.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI LUGLIO_2022 GLS_12_07_2022.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/ugi67up60n3ujnlzorclc/IFI-COPIA-TITOLI-LUGLIO_2022-GLS_12_07_2022.pdf?rlkey=u3xmiei3ebon1104n5za3e3g8&dl=0?raw=1",
-                              "dimensione_kb": 382,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI LUGLIO_2022 GLS_12_07_2022.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI MAGGIO 2022 GLS 17_05_2022.jpeg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/3m297j4cimqmape1jxh7j/IFI-COPIA-TITOLI-MAGGIO-2022-GLS-17_05_2022.jpeg?rlkey=wp261eq89jq56z1wgstq6pbcc&dl=0?raw=1",
-                              "dimensione_kb": 837,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI MAGGIO 2022 GLS 17_05_2022.jpeg"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLI RIF.BELLEVUE BRT 24_01_2024.jpeg",
-                              "tipo": "Immagine",
-                              "icona": "🖼️",
-                              "link": "https://www.dropbox.com/scl/fi/lk16etu7m9o1r6tu32pzd/IFI-COPIA-TITOLI-RIF.BELLEVUE-BRT-24_01_2024.jpeg?rlkey=c2vkin4re1qho5jcv6yhwjrxt&dl=0?raw=1",
-                              "dimensione_kb": 99,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLI RIF.BELLEVUE BRT 24_01_2024.jpeg"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLO 14_03_2024 BRT 06_03_2024.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/7zbltn4on1uodn88jo5x6/IFI-COPIA-TITOLO-14_03_2024-BRT-06_03_2024.pdf?rlkey=3tu6401lkswkqv9k8km9guce3&dl=0?raw=1",
-                              "dimensione_kb": 173,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLO 14_03_2024 BRT 06_03_2024.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLO 15_05_2024 BRT 29_04_2024.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/yow9uphem6n8qzwxfks7j/IFI-COPIA-TITOLO-15_05_2024-BRT-29_04_2024.pdf?rlkey=3elq1br2h76zwhz1jrdipny6o&dl=0?raw=1",
-                              "dimensione_kb": 173,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLO 15_05_2024 BRT 29_04_2024.pdf"
-                            },
-                            {
-                              "nome": "IFI COPIA TITOLO BRT 21_05_2025.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/8qfuz98x9aaziwamtdjgb/IFI-COPIA-TITOLO-BRT-21_05_2025.pdf?rlkey=ibox8l9qesw9nyfanjhxfd7d7&dl=0?raw=1",
-                              "dimensione_kb": 673,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI COPIA TITOLO BRT 21_05_2025.pdf"
-                            },
-                            {
-                              "nome": "IFI Dettaglio bonifico istantaneo DEL 13_03_2025.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/wssod9dlbp24zco0aswi9/IFI-Dettaglio-bonifico-istantaneo-DEL-13_03_2025.pdf?rlkey=uh8ufimwv47zbnxpy0l7e6mvp&dl=0?raw=1",
-                              "dimensione_kb": 94,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI Dettaglio bonifico istantaneo DEL 13_03_2025.pdf"
-                            },
-                            {
-                              "nome": "IFI Dettaglio bonifico istantaneo DEL 15_05_2025.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/dazdctbpohmjhlpebhpu7/IFI-Dettaglio-bonifico-istantaneo-DEL-15_05_2025.pdf?rlkey=jqwxmx210vyoqcit73uj8bbkv&dl=0?raw=1",
-                              "dimensione_kb": 94,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI Dettaglio bonifico istantaneo DEL 15_05_2025.pdf"
-                            },
-                            {
-                              "nome": "IFI Dettaglio bonifico istantaneo DEL 16_05_2025.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/zi7sgnugz6f98xz7txkoy/IFI-Dettaglio-bonifico-istantaneo-DEL-16_05_2025.pdf?rlkey=xx04xlxis0jfgg424d5nimq9j&dl=0?raw=1",
-                              "dimensione_kb": 94,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI Dettaglio bonifico istantaneo DEL 16_05_2025.pdf"
-                            },
-                            {
-                              "nome": "IFI Dettaglio bonifico istantaneo RIF.ACAL_RICAMBI.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/tya9i55bnrc42lx9ez4q3/IFI-Dettaglio-bonifico-istantaneo-RIF.ACAL_RICAMBI.pdf?rlkey=3f4ep4mwzqcqgkymgakqd4vy3&dl=0?raw=1",
-                              "dimensione_kb": 94,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI Dettaglio bonifico istantaneo RIF.ACAL_RICAMBI.pdf"
-                            },
-                            {
-                              "nome": "IFI Gmail - VICECONTI SNC DEL 18_04_2023.pdf",
-                              "tipo": "PDF",
-                              "icona": "📄",
-                              "link": "https://www.dropbox.com/scl/fi/zv13qrmq3my8xctmaz6fw/IFI-Gmail-VICECONTI-SNC-DEL-18_04_2023.pdf?rlkey=n6waif2qvd11wi562watgiyfn&dl=0?raw=1",
-                              "dimensione_kb": 103,
-                              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IFI PAGAMENTI/ARCHIVIO IFI PAGAMENTI/IFI Gmail - VICECONTI SNC DEL 18_04_2023.pdf"
-                            }
-                          ],
-                          "_totale_file": 26
-                        }
-                      ],
-                      "file": [],
-                      "_totale_file": 26
-                    },
-                    {
                       "nome": "IGF PAGAMENTI",
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IGF PAGAMENTI",
                       "cartelle": [],
@@ -263706,7 +263482,7 @@
                           "nome": "IMPERIA MONFERRINA BONIFICO MPS DEL 11_04_2022.pdf",
                           "tipo": "PDF",
                           "icona": "📄",
-                          "link": "https://www.dropbox.com/scl/fi/rg0hxkv49sgsx5yle3ggi/IMPERIA-MONFERRINA-BONIFICO-MPS-DEL-11_04_2022.pdf?rlkey=7ow9ql6xxo70cmtvwt76a9w2x&dl=0?raw=1",
+                          "link": null,
                           "dimensione_kb": 100,
                           "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/IMPERIA MONFERRINA PAGAMENTI/IMPERIA MONFERRINA BONIFICO MPS DEL 11_04_2022.pdf"
                         }
@@ -270935,7 +270711,7 @@
                       "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/ARCHIVIO DEL 15_05_2026/ZMATIK Dettaglio bonifico istantaneo DEL 22_09_2025.pdf"
                     }
                   ],
-                  "_totale_file": 2248
+                  "_totale_file": 2222
                 }
               ],
               "file": [
@@ -270948,7 +270724,7 @@
                   "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARCHIVIO BONIFICI IN USCITA/MODULAR Dettaglio bonifico istantaneo DEL 08_09_2026.pdf"
                 }
               ],
-              "_totale_file": 2249
+              "_totale_file": 2223
             }
           ],
           "file": [
@@ -272081,7 +271857,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2390
+          "_totale_file": 2364
         }
       ],
       "file": []
