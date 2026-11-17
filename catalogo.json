@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-16T10:42:39Z",
-  "totale_file": 28670,
+  "generato": "2026-11-17T01:33:05Z",
+  "totale_file": 28672,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -82564,7 +82564,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7926,
+      "totale_file": 7928,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -99345,8 +99345,81 @@
             {
               "nome": "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO",
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO",
-              "cartelle": [],
+              "cartelle": [
+                {
+                  "nome": "ARCHIVIO",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/ARCHIVIO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "Offerta di vendita EXCEL PB (Copia in conflitto di PROSPERO VICECONTI 2025-02-11).xlsx",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/2cqq66kadydg574x2dtni/Offerta-di-vendita-EXCEL-PB-Copia-in-conflitto-di-PROSPERO-VICECONTI-2025-02-11.xlsx?rlkey=ztpliiphd55tejag4muhhji5e&dl=0?raw=1",
+                      "dimensione_kb": 12,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/ARCHIVIO/Offerta di vendita EXCEL PB (Copia in conflitto di PROSPERO VICECONTI 2025-02-11).xlsx"
+                    },
+                    {
+                      "nome": "Offerta di vendita EXCEL PB.xlsx",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/a3c2v95fb5pt9gnxod6vs/Offerta-di-vendita-EXCEL-PB.xlsx?rlkey=isiih4p47quhrxvuvmtomchk3&dl=0?raw=1",
+                      "dimensione_kb": 12,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/ARCHIVIO/Offerta di vendita EXCEL PB.xlsx"
+                    },
+                    {
+                      "nome": "Offerta di vendita FM.xlsx",
+                      "tipo": "Excel",
+                      "icona": "📊",
+                      "link": "https://www.dropbox.com/scl/fi/5bdiwrr7f4m0xkf0uteu9/Offerta-di-vendita-FM.xlsx?rlkey=6zpd4cw2ul3zgxtlx2nadi9wb&dl=0?raw=1",
+                      "dimensione_kb": 12,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/ARCHIVIO/Offerta di vendita FM.xlsx"
+                    },
+                    {
+                      "nome": "Offerta di vendita_250115_20250211_162511 pb.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/lxwv2r4lszynoq9yamwls/Offerta-di-vendita_250115_20250211_162511-pb.pdf?rlkey=jrfhkhjvzbxhd8lj8ezczlxvp&dl=0?raw=1",
+                      "dimensione_kb": 87,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/ARCHIVIO/Offerta di vendita_250115_20250211_162511 pb.pdf"
+                    },
+                    {
+                      "nome": "Offerta di vendita_250116_20250211_163446 fm.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ytn1wwa9l8jb1e86rjtct/Offerta-di-vendita_250116_20250211_163446-fm.pdf?rlkey=1yzk2taxt2sjk3hvbxx2z5qme&dl=0?raw=1",
+                      "dimensione_kb": 92,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/ARCHIVIO/Offerta di vendita_250116_20250211_163446 fm.pdf"
+                    }
+                  ],
+                  "_totale_file": 5
+                }
+              ],
               "file": [
+                {
+                  "nome": "0.2_BANCHI BAR_listino_05.2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/kvl4u7zmjg1ntgxyundht/0.2_BANCHI-BAR_listino_05.2022.pdf?rlkey=oy0o6a7qx9i55oixk0atc1syr&dl=0?raw=1",
+                  "dimensione_kb": 3224,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/0.2_BANCHI BAR_listino_05.2022.pdf"
+                },
+                {
+                  "nome": "0.3_RETRO BASI_listino prezzi_05.2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/yr21e6k0pbk6ev6n08xja/0.3_RETRO-BASI_listino-prezzi_05.2022.pdf?rlkey=zj7vz58hw6t7kcpdm4yfzpngk&dl=0?raw=1",
+                  "dimensione_kb": 3435,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/0.3_RETRO BASI_listino prezzi_05.2022.pdf"
+                },
+                {
+                  "nome": "01_BANCHI BAR_listino_05.2022 4-5.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/fa3w8dar5tvtg9agsx4gx/01_BANCHI-BAR_listino_05.2022-4-5.pdf?rlkey=15z6vhxj2bk5mqxglpc2txjrb&dl=0?raw=1",
+                  "dimensione_kb": 185,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/01_BANCHI BAR_listino_05.2022 4-5.pdf"
+                },
                 {
                   "nome": "AZIENDA AGRICOLA LA CAPPELLINA FATTURA DI ANTICIPO 261005.pdf",
                   "tipo": "PDF",
@@ -99354,9 +99427,57 @@
                   "link": "https://www.dropbox.com/scl/fi/0bqg5jytmbl3nn4q2w91v/AZIENDA-AGRICOLA-LA-CAPPELLINA-FATTURA-DI-ANTICIPO-261005.pdf?rlkey=q7buv594b4fc2rw5wgv3tn5qt&dl=0?raw=1",
                   "dimensione_kb": 4,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/AZIENDA AGRICOLA LA CAPPELLINA FATTURA DI ANTICIPO 261005.pdf"
+                },
+                {
+                  "nome": "BANCHI BAR H1131 AB _ventilato.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/8rvdqr6hj6eu0ipah3dhl/BANCHI-BAR-H1131-AB-_ventilato.pdf?rlkey=ed0vsn38lstd3r6zokmh2th3u&dl=0?raw=1",
+                  "dimensione_kb": 853,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/BANCHI BAR H1131 AB _ventilato.pdf"
+                },
+                {
+                  "nome": "FORASTIERO ROSA - LA CAPPELLINA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/utdf5tslofrsf21wl2oma/FORASTIERO-ROSA-LA-CAPPELLINA.pdf?rlkey=k9bexn513camzwe06a6zhph4z&dl=0?raw=1",
+                  "dimensione_kb": 322,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/FORASTIERO ROSA - LA CAPPELLINA.pdf"
+                },
+                {
+                  "nome": "IFI Banchi Bar e Retro Basi.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/urmor735trjud0jpvz192/IFI-Banchi-Bar-e-Retro-Basi.pdf?rlkey=yws41k8nui0hfvgqkoj3rrpnj&dl=0?raw=1",
+                  "dimensione_kb": 5217,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/IFI Banchi Bar e Retro Basi.pdf"
+                },
+                {
+                  "nome": "Lauria - LA CAPPELLINA CUCINA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jru1h0xq8aefz0wvtihv3/Lauria-LA-CAPPELLINA-CUCINA.pdf?rlkey=sg6yhjb36ks0mukdebt92v1de&dl=0?raw=1",
+                  "dimensione_kb": 353,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/Lauria - LA CAPPELLINA CUCINA.pdf"
+                },
+                {
+                  "nome": "Offerta di vendita_250102_20250207_201059 NS BANDO INVIATA TRAMITE PEC.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wfhud4muzc3s3laggvsa7/Offerta-di-vendita_250102_20250207_201059-NS-BANDO-INVIATA-TRAMITE-PEC.pdf?rlkey=zu70dgkckgks1mv7w0l1n875r&dl=0?raw=1",
+                  "dimensione_kb": 91,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/Offerta di vendita_250102_20250207_201059 NS BANDO INVIATA TRAMITE PEC.pdf"
+                },
+                {
+                  "nome": "schema TECNICO_AF-4030E.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/nszonpnsrbyqrteketdci/schema-TECNICO_AF-4030E.pdf?rlkey=r5dz3scpvj38a5gkxxzmtfcow&dl=0?raw=1",
+                  "dimensione_kb": 184,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO/schema TECNICO_AF-4030E.pdf"
                 }
               ],
-              "_totale_file": 1
+              "_totale_file": 15
             },
             {
               "nome": "AZIENDA AGRICOLA LA FRAGOLINA",
@@ -103325,70 +103446,6 @@
               "_totale_file": 10
             },
             {
-              "nome": "FORASTIERO ROSA LA CAPPELLINA",
-              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/FORASTIERO ROSA LA CAPPELLINA",
-              "cartelle": [],
-              "file": [
-                {
-                  "nome": "0.2_BANCHI BAR_listino_05.2022.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/kvl4u7zmjg1ntgxyundht/0.2_BANCHI-BAR_listino_05.2022.pdf?rlkey=oy0o6a7qx9i55oixk0atc1syr&dl=0?raw=1",
-                  "dimensione_kb": 3224,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/FORASTIERO ROSA LA CAPPELLINA/0.2_BANCHI BAR_listino_05.2022.pdf"
-                },
-                {
-                  "nome": "0.3_RETRO BASI_listino prezzi_05.2022.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/yr21e6k0pbk6ev6n08xja/0.3_RETRO-BASI_listino-prezzi_05.2022.pdf?rlkey=zj7vz58hw6t7kcpdm4yfzpngk&dl=0?raw=1",
-                  "dimensione_kb": 3435,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/FORASTIERO ROSA LA CAPPELLINA/0.3_RETRO BASI_listino prezzi_05.2022.pdf"
-                },
-                {
-                  "nome": "01_BANCHI BAR_listino_05.2022 4-5.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/fa3w8dar5tvtg9agsx4gx/01_BANCHI-BAR_listino_05.2022-4-5.pdf?rlkey=15z6vhxj2bk5mqxglpc2txjrb&dl=0?raw=1",
-                  "dimensione_kb": 185,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/FORASTIERO ROSA LA CAPPELLINA/01_BANCHI BAR_listino_05.2022 4-5.pdf"
-                },
-                {
-                  "nome": "BANCHI BAR H1131 AB _ventilato.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/8rvdqr6hj6eu0ipah3dhl/BANCHI-BAR-H1131-AB-_ventilato.pdf?rlkey=ed0vsn38lstd3r6zokmh2th3u&dl=0?raw=1",
-                  "dimensione_kb": 853,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/FORASTIERO ROSA LA CAPPELLINA/BANCHI BAR H1131 AB _ventilato.pdf"
-                },
-                {
-                  "nome": "FORASTIERO ROSA - LA CAPPELLINA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/utdf5tslofrsf21wl2oma/FORASTIERO-ROSA-LA-CAPPELLINA.pdf?rlkey=k9bexn513camzwe06a6zhph4z&dl=0?raw=1",
-                  "dimensione_kb": 322,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/FORASTIERO ROSA LA CAPPELLINA/FORASTIERO ROSA - LA CAPPELLINA.pdf"
-                },
-                {
-                  "nome": "IFI Banchi Bar e Retro Basi.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/urmor735trjud0jpvz192/IFI-Banchi-Bar-e-Retro-Basi.pdf?rlkey=yws41k8nui0hfvgqkoj3rrpnj&dl=0?raw=1",
-                  "dimensione_kb": 5217,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/FORASTIERO ROSA LA CAPPELLINA/IFI Banchi Bar e Retro Basi.pdf"
-                },
-                {
-                  "nome": "schema TECNICO_AF-4030E.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/nszonpnsrbyqrteketdci/schema-TECNICO_AF-4030E.pdf?rlkey=r5dz3scpvj38a5gkxxzmtfcow&dl=0?raw=1",
-                  "dimensione_kb": 184,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/FORASTIERO ROSA LA CAPPELLINA/schema TECNICO_AF-4030E.pdf"
-                }
-              ],
-              "_totale_file": 7
-            },
-            {
               "nome": "GALLO LUIGI",
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/GALLO LUIGI",
               "cartelle": [],
@@ -105595,12 +105652,28 @@
                       "cartelle": [],
                       "file": [
                         {
+                          "nome": "2026_11_16 FOTO PANNELLO POSTERIORE DA SOSTITUIRE.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/laxkjgl5qtsdeogomkehv/2026_11_16-FOTO-PANNELLO-POSTERIORE-DA-SOSTITUIRE.jpg?rlkey=ulznqo52ncmw4qiq6ysk0b63u&dl=0?raw=1",
+                          "dimensione_kb": 122,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/JOEL/JOEL AREA TECNICA/VETRINA SUSHI FORCAR MODELLO RTS62B/2026_11_16 FOTO PANNELLO POSTERIORE DA SOSTITUIRE.jpg"
+                        },
+                        {
                           "nome": "VETRINA SUSHI FORCAR JOEL DATI MACCHINA.jpeg",
                           "tipo": "Immagine",
                           "icona": "🖼️",
                           "link": "https://www.dropbox.com/scl/fi/6y34158k8uzvq10kehqaj/VETRINA-SUSHI-FORCAR-JOEL-DATI-MACCHINA.jpeg?rlkey=dimqyxrk9uwlte7ukurgboas4&dl=0?raw=1",
                           "dimensione_kb": 213,
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/JOEL/JOEL AREA TECNICA/VETRINA SUSHI FORCAR MODELLO RTS62B/VETRINA SUSHI FORCAR JOEL DATI MACCHINA.jpeg"
+                        },
+                        {
+                          "nome": "VETRINA SUSHI FORCAR MODELLO RTS62B DATI MACCHINA.jpg",
+                          "tipo": "Immagine",
+                          "icona": "🖼️",
+                          "link": "https://www.dropbox.com/scl/fi/tk8ioj9q1zd1d8a3otxkb/VETRINA-SUSHI-FORCAR-MODELLO-RTS62B-DATI-MACCHINA.jpg?rlkey=ilmo9xg38jwqnvmkj9xa0dcbp&dl=0?raw=1",
+                          "dimensione_kb": 148,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/JOEL/JOEL AREA TECNICA/VETRINA SUSHI FORCAR MODELLO RTS62B/VETRINA SUSHI FORCAR MODELLO RTS62B DATI MACCHINA.jpg"
                         },
                         {
                           "nome": "WhatsApp Image 2025-09-16 at 10.28.45 (1).jpeg",
@@ -105627,7 +105700,7 @@
                           "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/JOEL/JOEL AREA TECNICA/VETRINA SUSHI FORCAR MODELLO RTS62B/WhatsApp Image 2025-09-16 at 10.28.45.jpeg"
                         }
                       ],
-                      "_totale_file": 4
+                      "_totale_file": 6
                     }
                   ],
                   "file": [
@@ -105640,7 +105713,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/JOEL/JOEL AREA TECNICA/W10H.pdf"
                     }
                   ],
-                  "_totale_file": 8
+                  "_totale_file": 10
                 }
               ],
               "file": [
@@ -105685,7 +105758,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/JOEL/_CLIENTE CO52001 JOEL.txt"
                 }
               ],
-              "_totale_file": 14
+              "_totale_file": 16
             },
             {
               "nome": "LA BUFALA DI CHIARELLI GIACOMO",
@@ -105726,70 +105799,6 @@
                 }
               ],
               "_totale_file": 4
-            },
-            {
-              "nome": "LA CAPPELLINA",
-              "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA CAPPELLINA",
-              "cartelle": [],
-              "file": [
-                {
-                  "nome": "Lauria - LA CAPPELLINA CUCINA.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/jru1h0xq8aefz0wvtihv3/Lauria-LA-CAPPELLINA-CUCINA.pdf?rlkey=sg6yhjb36ks0mukdebt92v1de&dl=0?raw=1",
-                  "dimensione_kb": 353,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA CAPPELLINA/Lauria - LA CAPPELLINA CUCINA.pdf"
-                },
-                {
-                  "nome": "Offerta di vendita EXCEL PB (Copia in conflitto di PROSPERO VICECONTI 2025-02-11).xlsx",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/2cqq66kadydg574x2dtni/Offerta-di-vendita-EXCEL-PB-Copia-in-conflitto-di-PROSPERO-VICECONTI-2025-02-11.xlsx?rlkey=ztpliiphd55tejag4muhhji5e&dl=0?raw=1",
-                  "dimensione_kb": 12,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA CAPPELLINA/Offerta di vendita EXCEL PB (Copia in conflitto di PROSPERO VICECONTI 2025-02-11).xlsx"
-                },
-                {
-                  "nome": "Offerta di vendita EXCEL PB.xlsx",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/a3c2v95fb5pt9gnxod6vs/Offerta-di-vendita-EXCEL-PB.xlsx?rlkey=isiih4p47quhrxvuvmtomchk3&dl=0?raw=1",
-                  "dimensione_kb": 12,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA CAPPELLINA/Offerta di vendita EXCEL PB.xlsx"
-                },
-                {
-                  "nome": "Offerta di vendita FM.xlsx",
-                  "tipo": "Excel",
-                  "icona": "📊",
-                  "link": "https://www.dropbox.com/scl/fi/5bdiwrr7f4m0xkf0uteu9/Offerta-di-vendita-FM.xlsx?rlkey=6zpd4cw2ul3zgxtlx2nadi9wb&dl=0?raw=1",
-                  "dimensione_kb": 12,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA CAPPELLINA/Offerta di vendita FM.xlsx"
-                },
-                {
-                  "nome": "Offerta di vendita_250102_20250207_201059 NS BANDO INVIATA TRAMITE PEC.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/wfhud4muzc3s3laggvsa7/Offerta-di-vendita_250102_20250207_201059-NS-BANDO-INVIATA-TRAMITE-PEC.pdf?rlkey=zu70dgkckgks1mv7w0l1n875r&dl=0?raw=1",
-                  "dimensione_kb": 91,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA CAPPELLINA/Offerta di vendita_250102_20250207_201059 NS BANDO INVIATA TRAMITE PEC.pdf"
-                },
-                {
-                  "nome": "Offerta di vendita_250115_20250211_162511 pb.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/lxwv2r4lszynoq9yamwls/Offerta-di-vendita_250115_20250211_162511-pb.pdf?rlkey=jrfhkhjvzbxhd8lj8ezczlxvp&dl=0?raw=1",
-                  "dimensione_kb": 87,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA CAPPELLINA/Offerta di vendita_250115_20250211_162511 pb.pdf"
-                },
-                {
-                  "nome": "Offerta di vendita_250116_20250211_163446 fm.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/ytn1wwa9l8jb1e86rjtct/Offerta-di-vendita_250116_20250211_163446-fm.pdf?rlkey=1yzk2taxt2sjk3hvbxx2z5qme&dl=0?raw=1",
-                  "dimensione_kb": 92,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/LA CAPPELLINA/Offerta di vendita_250116_20250211_163446 fm.pdf"
-                }
-              ],
-              "_totale_file": 7
             },
             {
               "nome": "LA REGINA",
@@ -112933,7 +112942,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PRODOTTI per CLIENTE.pdf"
             }
           ],
-          "_totale_file": 1382
+          "_totale_file": 1384
         },
         {
           "nome": "LAVELLO",
