@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-17T07:03:09Z",
-  "totale_file": 28696,
+  "generato": "2026-11-17T09:16:03Z",
+  "totale_file": 28698,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -205048,7 +205048,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5327,
+      "totale_file": 5329,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -249837,6 +249837,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CIMBALI GROUP Conferma Ordine 20023839 del 12_10_2026.pdf"
             },
             {
+              "nome": "COLD LINE srl Ordine dacquisto_260296_20261116_095512 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qwnfq2ks6s4jsuaclj4y5/COLD-LINE-srl-Ordine-dacquisto_260296_20261116_095512-RIF.-AI-CARCONI-Basato-su-Ordini-cliente-260541..pdf?rlkey=xri04uw79gyccs3oo17ali0pg&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260296_20261116_095512 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf"
+            },
+            {
               "nome": "COLDLINE CONFERMA ORDINE 26-19543 DEL 09_11_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -249907,6 +249915,14 @@
               "link": "https://www.dropbox.com/scl/fi/16k5qc1d3ovh5g5x10ho8/KAREL-CONFERMA-D-ORDINE-202626007351I201026-RIF.LFS-GROUP-SRL.pdf?rlkey=f2fjzyw1jpzwq3raafwu8ione&dl=0?raw=1",
               "dimensione_kb": 53,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA D'ORDINE 202626007351I201026 RIF.LFS GROUP SRL.pdf"
+            },
+            {
+              "nome": "MODULAR CONFERMA OFFERTA 26_03174 MODIFICATA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d02vwbtvdzutix95splbg/MODULAR-CONFERMA-OFFERTA-26_03174-MODIFICATA.pdf?rlkey=1ng5zwmk48rr1xj48n5hoz53c&dl=0?raw=1",
+              "dimensione_kb": 154,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA OFFERTA 26_03174 MODIFICATA.pdf"
             },
             {
               "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260298_20261110_091610 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf",
@@ -249989,7 +250005,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3884
+          "_totale_file": 3886
         }
       ],
       "file": []
