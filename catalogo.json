@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-19T03:33:09Z",
-  "totale_file": 28754,
+  "generato": "2026-11-19T07:08:40Z",
+  "totale_file": 28832,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 7911,
+      "totale_file": 7989,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -4296,6 +4296,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/MS NAPOLEONE SRL Consegna_260701_20260810_073003 RIF. CONTENITORI GASTRONORM Basato su Ordini cliente 260372..pdf"
             },
             {
+              "nome": "Macelleria PECORARO CRISTIANO Consegna_261004_20261117_152226 RIF. ASSISTENZA SU INSACCATRICE SIRMAN IS 16 IDR VERT MATRICOLA 00101661 REVISIONE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/zxrirbsj5e36dpmk1mh70/Macelleria-PECORARO-CRISTIANO-Consegna_261004_20261117_152226-RIF.-ASSISTENZA-SU-INSACCATRICE-SIRMAN-IS-16-IDR-VERT-MATRICOLA-00101661-REVISIONE.pdf?rlkey=msmzpmtb9vfxhdpiz4a6wf47b&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/Macelleria PECORARO CRISTIANO Consegna_261004_20261117_152226 RIF. ASSISTENZA SU INSACCATRICE SIRMAN IS 16 IDR VERT MATRICOLA 00101661 REVISIONE.pdf"
+            },
+            {
               "nome": "NATALE SALVATORE Consegna_260577_20260720_111909 RIF. DISINCROSTANTE PERGEL 1 KG Basato su Ordini cliente 260285..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -6080,7 +6088,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 758
+          "_totale_file": 759
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -6971,7 +6979,7 @@
               "nome": "CORRADO MICHELA Fattura di vendita_2600026_20260703_192448 RIF. ASSISTENZA SU LAVASTOVIGLIE E FORNO CUPPONE SOSTITUZIONE TAP.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/z0bjpfz0oe4v7l7byljc1/CORRADO-MICHELA-Fattura-di-vendita_2600026_20260703_192448-RIF.-ASSISTENZA-SU-LAVASTOVIGLIE-E-FORNO-CUPPONE-SOSTITUZIONE-TAP.pdf?rlkey=rcguas0dr4tv1rvxznv9yhhgg&dl=0?raw=1",
+              "link": null,
               "dimensione_kb": 70,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/CORRADO MICHELA Fattura di vendita_2600026_20260703_192448 RIF. ASSISTENZA SU LAVASTOVIGLIE E FORNO CUPPONE SOSTITUZIONE TAP.pdf"
             },
@@ -7742,6 +7750,14 @@
               "link": "https://www.dropbox.com/scl/fi/ut49tvojqt4a65ntyunic/GRAN-SOLE-S.r.l.-Fattura-di-vendita_2600565_20261029_200733-RIF.-ASSISTENZA-SU-TRITACARNE-MATRICOLA-DA-SPECIFICARE-SOSTITUZIONE-PERNO-PORTA.pdf?rlkey=nw9fpri364fdzddisrt2011uk&dl=0?raw=1",
               "dimensione_kb": 64,
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GRAN SOLE S.r.l. Fattura di vendita_2600565_20261029_200733 RIF. ASSISTENZA SU TRITACARNE MATRICOLA DA SPECIFICARE SOSTITUZIONE PERNO PORTA.pdf"
+            },
+            {
+              "nome": "GRAN SOLE S.r.l. Fattura di vendita_2600588_20261117_090303 RIF. COLTELLO INOX MOD. 32 INOX PRESSO PUNTO VENDITA DI LAGONEGRO Basato su Consegne.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/n9afoa9l82hwthpypkcdj/GRAN-SOLE-S.r.l.-Fattura-di-vendita_2600588_20261117_090303-RIF.-COLTELLO-INOX-MOD.-32-INOX-PRESSO-PUNTO-VENDITA-DI-LAGONEGRO-Basato-su-Consegne.pdf?rlkey=u1qe2oq69xhohol3nflkt5gur&dl=0?raw=1",
+              "dimensione_kb": 60,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/GRAN SOLE S.r.l. Fattura di vendita_2600588_20261117_090303 RIF. COLTELLO INOX MOD. 32 INOX PRESSO PUNTO VENDITA DI LAGONEGRO Basato su Consegne.pdf"
             },
             {
               "nome": "GRANOCIELO SRL Fattura di vendita_2600140_20260603_211224 RIF. Palettino pizza inox ø 26 cm forato manico 1.20 mt Basato su.pdf",
@@ -9128,6 +9144,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/MS NAPOLEONE SRL Fattura di vendita_2600326_20260728_100217 RIF. ASCIUGA LUCIDA POSATE MOD.STAR EVO MANUALE Basato su Offerte.pdf"
             },
             {
+              "nome": "Macelleria PECORARO CRISTIANO Fattura di vendita_2600589_20261117_152239 RIF. ASSISTENZA SU INSACCATRICE SIRMAN IS 16 IDR VERT MATRICOLA 00101661 REVISIONE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/kmmc3fo29nudjhydnijpy/Macelleria-PECORARO-CRISTIANO-Fattura-di-vendita_2600589_20261117_152239-RIF.-ASSISTENZA-SU-INSACCATRICE-SIRMAN-IS-16-IDR-VERT-MATRICOLA-00101661-REVISIONE.pdf?rlkey=g5bkzqoaolcbb020chmnkquh0&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/Macelleria PECORARO CRISTIANO Fattura di vendita_2600589_20261117_152239 RIF. ASSISTENZA SU INSACCATRICE SIRMAN IS 16 IDR VERT MATRICOLA 00101661 REVISIONE.pdf"
+            },
+            {
               "nome": "NERA SRL Fattura di vendita_2600185_20260607_183817 RIF. ASSISTENZA SU MOTORE CASSONATO SOSTITUZIONE ASSISTENZA SU MA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -10432,7 +10456,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 543
+          "_totale_file": 545
         },
         {
           "nome": "FATTURE DI VENDITA XML",
@@ -10841,6 +10865,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/BASILICATA GRANTOUR S.A.S. DI ANTONIO AGRELLO & C. Offerta di vendita_260252_20260706_125349.pdf"
             },
             {
+              "nome": "BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA Offerta di vendita_260544_20261118_090915 RIF. I.EY_134879P, I.206121789 - ATTIVITA' 7863 CHIAMATA 260276.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tj1za3v8z41bt4vg0noo5/BELLAVISTA-BAR-RISTORANTE-PIZZERIA-di-PAPA-MICHELA-Offerta-di-vendita_260544_20261118_090915-RIF.-I.EY_134879P-I.206121789-ATTIVITA-7863-CHIAMATA-260276.pdf?rlkey=6vgeldy2flajbu5k0l1nffj1z&dl=0?raw=1",
+              "dimensione_kb": 81,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA Offerta di vendita_260544_20261118_090915 RIF. I.EY_134879P, I.206121789 - ATTIVITA' 7863 CHIAMATA 260276.pdf"
+            },
+            {
               "nome": "BENEDETTO NICOLETTA Offerta di vendita_260413_20260928_160533.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -11017,6 +11049,30 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/COPPOLA MICHELE GIUSEPPE Offerta di vendita_260534_20261109_135433 RIF. OFFERTA TNK IT2601030 REV01 DEL 09112026 - ATTIVITA' 7854 CHIAMATA 260268.pdf"
             },
             {
+              "nome": "COPPOLA MICHELE GIUSEPPE Offerta di vendita_260553_20261116_215800 RIF. OFFERTA TNK IT2601030.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/g9h5yp5spd3eeww1zregz/COPPOLA-MICHELE-GIUSEPPE-Offerta-di-vendita_260553_20261116_215800-RIF.-OFFERTA-TNK-IT2601030.pdf?rlkey=w2wd21qrr790xklc6lekuhm6s&dl=0?raw=1",
+              "dimensione_kb": 105,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/COPPOLA MICHELE GIUSEPPE Offerta di vendita_260553_20261116_215800 RIF. OFFERTA TNK IT2601030.pdf"
+            },
+            {
+              "nome": "COPPOLA MICHELE GIUSEPPE Offerta di vendita_260556_20261116_220131.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/4ozmneg8sgcwpobk17gjg/COPPOLA-MICHELE-GIUSEPPE-Offerta-di-vendita_260556_20261116_220131.pdf?rlkey=zk81d73q8ebtazkl152y6ssmp&dl=0?raw=1",
+              "dimensione_kb": 102,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/COPPOLA MICHELE GIUSEPPE Offerta di vendita_260556_20261116_220131.pdf"
+            },
+            {
+              "nome": "COPPOLA MICHELE GIUSEPPE Offerta di vendita_260557_20261117_102104.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/3xhhturom88t0tj5pr298/COPPOLA-MICHELE-GIUSEPPE-Offerta-di-vendita_260557_20261117_102104.pdf?rlkey=zfhmmo07lqh4056crguauca28&dl=0?raw=1",
+              "dimensione_kb": 102,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/COPPOLA MICHELE GIUSEPPE Offerta di vendita_260557_20261117_102104.pdf"
+            },
+            {
               "nome": "CORRADO MICHELA BINARIO 1 Offerta di vendita_260062_20260802_191134 RIF. FORNO CUPPONE TERZA CAMERA CON PIETRE SABBIATE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -11073,12 +11129,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CORRADO MICHELA BINARIO 1 Offerta di vendita_260516_20261104_160741 RIF. FORNO ELETTRICO 2 CAMERE MOD.TIZIANO TZ4352M,CAMERA 72x72x14hCM, 0-450°C.pdf"
             },
             {
-              "nome": "CORRADO MICHELA BINARIO 1 Offerta di vendita_260518_20261116_202448 RIF. CUP.TZ4352M-C5P-CP TIZIANO 2 CAMERE RES.POTENZIATE - ATTIVITA' 7837 CHIAMATA.pdf",
+              "nome": "CORRADO MICHELA BINARIO 1 Offerta di vendita_260518_20261117_092040 RIF. CUP.TZ4352M-C5P-CP TIZIANO 2 CAMERE RES.POTENZIATE - ATTIVITA' 7837 CHIAMATA.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ck95simfvz7b9sw2x3ej0/CORRADO-MICHELA-BINARIO-1-Offerta-di-vendita_260518_20261116_202448-RIF.-CUP.TZ4352M-C5P-CP-TIZIANO-2-CAMERE-RES.POTENZIATE-ATTIVITA-7837-CHIAMATA.pdf?rlkey=98rg9vzzjn8dxyr44onatkjzh&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/he1tqp5u24gie3rfdamqy/CORRADO-MICHELA-BINARIO-1-Offerta-di-vendita_260518_20261117_092040-RIF.-CUP.TZ4352M-C5P-CP-TIZIANO-2-CAMERE-RES.POTENZIATE-ATTIVITA-7837-CHIAMATA.pdf?rlkey=g9yjnly666vzvv5dx2z9riy95&dl=0?raw=1",
               "dimensione_kb": 81,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CORRADO MICHELA BINARIO 1 Offerta di vendita_260518_20261116_202448 RIF. CUP.TZ4352M-C5P-CP TIZIANO 2 CAMERE RES.POTENZIATE - ATTIVITA' 7837 CHIAMATA.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/CORRADO MICHELA BINARIO 1 Offerta di vendita_260518_20261117_092040 RIF. CUP.TZ4352M-C5P-CP TIZIANO 2 CAMERE RES.POTENZIATE - ATTIVITA' 7837 CHIAMATA.pdf"
             },
             {
               "nome": "CORRADO MICHELA BINARIO 1 Offerta di vendita_260554_20261116_202733 RIF. PERMUTA TAVOLO ARMADIATO.pdf",
@@ -11655,6 +11711,14 @@
               "link": "https://www.dropbox.com/scl/fi/ctc2hchxop2zcauldyzwi/EVRA-S.R.L.-Offerta-di-vendita_260429_20260921_093727-RIF.-MACINA-SPEZIE.pdf?rlkey=6pvpbdikmkn3lm94vck8mqsl9&dl=0?raw=1",
               "dimensione_kb": 78,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/EVRA S.R.L. Offerta di vendita_260429_20260921_093727 RIF. MACINA SPEZIE.pdf"
+            },
+            {
+              "nome": "FARINA IVAN Offerta di vendita_260561_20261117_234208.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5ni7drp22hzcrm5ebe71q/FARINA-IVAN-Offerta-di-vendita_260561_20261117_234208.pdf?rlkey=wv3i1zuty5upxqx66aibhl67z&dl=0?raw=1",
+              "dimensione_kb": 103,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/FARINA IVAN Offerta di vendita_260561_20261117_234208.pdf"
             },
             {
               "nome": "FORASTIERO FRANCESCO Offerta di vendita_260188_20260526_183020.pdf",
@@ -13129,7 +13193,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 310
+          "_totale_file": 315
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -18610,6 +18674,657 @@
                 }
               ],
               "_totale_file": 2
+            },
+            {
+              "nome": "2026_11_17 CIAM",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 CIAM",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Tortuga.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/84cahhg58dnsgpt1q3r83/Tortuga.pdf?rlkey=5ztxmxfr5mnpwq7qwoufa530q&dl=0?raw=1",
+                  "dimensione_kb": 396,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 CIAM/Tortuga.pdf"
+                }
+              ],
+              "_totale_file": 1
+            },
+            {
+              "nome": "2026_11_17 FARINA IVAN ATTREZZATURE RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE",
+              "cartelle": [
+                {
+                  "nome": "DAL LISTINO T&D",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL LISTINO T&D",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "ARS200-50L160 p166.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/4xummi2mxqoxd5q577otf/ARS200-50L160-p166.png?rlkey=udfgpw0p5zglhsn6wmpoig3f8&dl=0?raw=1",
+                      "dimensione_kb": 98,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL LISTINO T&D/ARS200-50L160 p166.png"
+                    },
+                    {
+                      "nome": "CPM90L240 p261.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/1molehf5ud9cngzeikohb/CPM90L240-p261.png?rlkey=t4v163ug76rx6v2q58n7poyy7&dl=0?raw=1",
+                      "dimensione_kb": 87,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL LISTINO T&D/CPM90L240 p261.png"
+                    },
+                    {
+                      "nome": "LAB60-70 p210.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/fsqh1y9fqap6sbgcgxtb8/LAB60-70-p210.png?rlkey=jfwbpdkrbnvhfaw2sz3hlak10&dl=0?raw=1",
+                      "dimensione_kb": 61,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL LISTINO T&D/LAB60-70 p210.png"
+                    },
+                    {
+                      "nome": "LABSX120-70 p210.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/xiwmb5urwds74q16yxdsy/LABSX120-70-p210.png?rlkey=m90hk69knndpoaic9vu2zs6of&dl=0?raw=1",
+                      "dimensione_kb": 74,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL LISTINO T&D/LABSX120-70 p210.png"
+                    },
+                    {
+                      "nome": "MPD180-30 p135.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/8zfmszcn9ya6duqagvsvn/MPD180-30-p135.png?rlkey=aod8k2k0ikquglc84yfddjs70&dl=0?raw=1",
+                      "dimensione_kb": 87,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL LISTINO T&D/MPD180-30 p135.png"
+                    },
+                    {
+                      "nome": "TS160-70 p47.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/20l32u9cjj2gxs5wuhata/TS160-70-p47.png?rlkey=anzhs7c37jnhbmvgv22u6dgne&dl=0?raw=1",
+                      "dimensione_kb": 193,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL LISTINO T&D/TS160-70 p47.png"
+                    },
+                    {
+                      "nome": "TS250-80 p48.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/l596vdcdafdcs62n9fba3/TS250-80-p48.png?rlkey=jd5glabnjl5qlhlogmyj649ub&dl=0?raw=1",
+                      "dimensione_kb": 83,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL LISTINO T&D/TS250-80 p48.png"
+                    }
+                  ],
+                  "_totale_file": 7
+                },
+                {
+                  "nome": "DAL SITO FIMAR",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO FIMAR",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "TOP6DN_toaster_fimar.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/i1exql6w2nzjhh6gzv05h/TOP6DN_toaster_fimar.jpg?rlkey=rjx4ud7dsszku4sv87h32lwjd&dl=0?raw=1",
+                      "dimensione_kb": 290,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO FIMAR/TOP6DN_toaster_fimar.jpg"
+                    }
+                  ],
+                  "_totale_file": 1
+                },
+                {
+                  "nome": "DAL SITO FORCAR",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO FORCAR",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "G-BC3PS-pdf.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/s4lb98waj6kk3y20j584a/G-BC3PS-pdf.jpg?rlkey=yragxnkkxej3jcmb58gw02tey&dl=0?raw=1",
+                      "dimensione_kb": 41,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO FORCAR/G-BC3PS-pdf.jpg"
+                    },
+                    {
+                      "nome": "G-BC3PS_bootle_cooler_forcar_refrigeration-1.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/guew8ikwurtouw2o053o3/G-BC3PS_bootle_cooler_forcar_refrigeration-1.jpg?rlkey=p2ckotztreupyfny0zjr1imlq&dl=0?raw=1",
+                      "dimensione_kb": 174,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO FORCAR/G-BC3PS_bootle_cooler_forcar_refrigeration-1.jpg"
+                    }
+                  ],
+                  "_totale_file": 2
+                },
+                {
+                  "nome": "DAL SITO MODULAR",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO MODULAR",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "MP01292113000 FOTO product-image-zoom.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/6bjlcwb8vjrt6vxnuwgcu/MP01292113000-FOTO-product-image-zoom.png?rlkey=asrlaat7igdju450tlqts8wfz&dl=0?raw=1",
+                      "dimensione_kb": 489,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO MODULAR/MP01292113000 FOTO product-image-zoom.png"
+                    },
+                    {
+                      "nome": "MP01292113000 SCHEDA TECNICA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/x1xturljhcs9a5tk4p2zz/MP01292113000-SCHEDA-TECNICA.pdf?rlkey=9kzl0nmsx9at0pf3vji2z352v&dl=0?raw=1",
+                      "dimensione_kb": 106,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO MODULAR/MP01292113000 SCHEDA TECNICA.pdf"
+                    },
+                    {
+                      "nome": "MP01292113000_Fun700_Friggitrice_gas_13_13L_vano_con_porte_modulo_70.svg",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/nlduqjl0pkwkybepbxkcc/MP01292113000_Fun700_Friggitrice_gas_13_13L_vano_con_porte_modulo_70.svg?rlkey=b45r7dqamiy9hn6lxxjrkz2uw&dl=0?raw=1",
+                      "dimensione_kb": 304,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO MODULAR/MP01292113000_Fun700_Friggitrice_gas_13_13L_vano_con_porte_modulo_70.svg"
+                    }
+                  ],
+                  "_totale_file": 3
+                },
+                {
+                  "nome": "DAL SITO NEVO",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO NEVO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "NP01041021003 FOTO product-image-zoom.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/wmy5zevliifod1i1g9wj6/NP01041021003-FOTO-product-image-zoom.png?rlkey=lozdhv1w9h9isjvags8a6xdtm&dl=0?raw=1",
+                      "dimensione_kb": 492,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO NEVO/NP01041021003 FOTO product-image-zoom.png"
+                    },
+                    {
+                      "nome": "NP01041021003 SCHEDA TECNICA.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/bn8b1qvgvm9drdl55g41r/NP01041021003-SCHEDA-TECNICA.pdf?rlkey=h5yukhfowcvxufuwbjsotwj90&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO NEVO/NP01041021003 SCHEDA TECNICA.pdf"
+                    },
+                    {
+                      "nome": "NP01041021003_Function_4_teglie_en-gn_11_porta_bandiera.svg",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/ukhhs8ontd9fffapfgbr1/NP01041021003_Function_4_teglie_en-gn_11_porta_bandiera.svg?rlkey=ud0h07h6siuwun2b8fgzi9bgn&dl=0?raw=1",
+                      "dimensione_kb": 115,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/DAL SITO NEVO/NP01041021003_Function_4_teglie_en-gn_11_porta_bandiera.svg"
+                    }
+                  ],
+                  "_totale_file": 3
+                },
+                {
+                  "nome": "PROGETTO",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PROGETTO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FARINA_MODELLO_3D.html",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/eoe2lnh37m9jwb6gd9szh/FARINA_MODELLO_3D.html?rlkey=oat6fe1j18oyakjr39196xah4&dl=0?raw=1",
+                      "dimensione_kb": 16,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PROGETTO/FARINA_MODELLO_3D.html"
+                    },
+                    {
+                      "nome": "FARINA_PIANTA_ARREDATA_3D.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/sag4gggzvm1f7fjnw14oh/FARINA_PIANTA_ARREDATA_3D.png?rlkey=k4jjpzgonsmovjnbpamj23t4i&dl=0?raw=1",
+                      "dimensione_kb": 100,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PROGETTO/FARINA_PIANTA_ARREDATA_3D.png"
+                    },
+                    {
+                      "nome": "FARINA_RENDER_3D.html",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/ge4vvyxhqjuloicq6x5ej/FARINA_RENDER_3D.html?rlkey=j98y2iwbih9w5y0ihneqmnas7&dl=0?raw=1",
+                      "dimensione_kb": 28,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PROGETTO/FARINA_RENDER_3D.html"
+                    },
+                    {
+                      "nome": "FARINA_RENDER_ALTO.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/hyun0hqmd3jgsicmgz49f/FARINA_RENDER_ALTO.png?rlkey=lwk6loc6toe29mkpiwnpvgc3t&dl=0?raw=1",
+                      "dimensione_kb": 453,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PROGETTO/FARINA_RENDER_ALTO.png"
+                    },
+                    {
+                      "nome": "FARINA_RENDER_CUCINA.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/7i7g03ng3v5kfwizj960k/FARINA_RENDER_CUCINA.png?rlkey=jkik8jw95xtw6x2x0ffpqwn6f&dl=0?raw=1",
+                      "dimensione_kb": 773,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PROGETTO/FARINA_RENDER_CUCINA.png"
+                    },
+                    {
+                      "nome": "FARINA_RENDER_SALA.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/pt5ujioa7l8c5d5iusvlm/FARINA_RENDER_SALA.png?rlkey=qjl3444uex6puls0u52sw34un&dl=0?raw=1",
+                      "dimensione_kb": 1040,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PROGETTO/FARINA_RENDER_SALA.png"
+                    },
+                    {
+                      "nome": "FARINA_VISTA_CUCINA_3D.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/iymyz46wqea0kpjrum1k3/FARINA_VISTA_CUCINA_3D.png?rlkey=hqfemqbz0fliksk1whb7kb5ur&dl=0?raw=1",
+                      "dimensione_kb": 168,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PROGETTO/FARINA_VISTA_CUCINA_3D.png"
+                    },
+                    {
+                      "nome": "TAV01_FARINA_PIANTE_E_PROSPETTI_REV00.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ueiitvxmpzf5tmf4xyhxu/TAV01_FARINA_PIANTE_E_PROSPETTI_REV00.pdf?rlkey=fq1ivpc32v9qhkp712dp6yqk6&dl=0?raw=1",
+                      "dimensione_kb": 72,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PROGETTO/TAV01_FARINA_PIANTE_E_PROSPETTI_REV00.pdf"
+                    }
+                  ],
+                  "_totale_file": 8
+                }
+              ],
+              "file": [
+                {
+                  "nome": "GEU411.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6t2knajhyxxq2t15mr8yv/GEU411.pdf?rlkey=5xz0x43l471j2covkgntnx3wa&dl=0?raw=1",
+                  "dimensione_kb": 63,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/GEU411.pdf"
+                },
+                {
+                  "nome": "IFI_ITA_2.3_Mix_New_listino prezzi _01.07.2025.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/6p0poquyxy9fpxodl4xxn/IFI_ITA_2.3_Mix_New_listino-prezzi-_01.07.2025.pdf?rlkey=p92ik9inwpgqos0rr5x94mil3&dl=0?raw=1",
+                  "dimensione_kb": 10676,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/IFI_ITA_2.3_Mix_New_listino prezzi _01.07.2025.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260559_FARINA_IVAN.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/rb3k7bkb8fok18y0zwqq5/OFFERTA_260559_FARINA_IVAN.pdf?rlkey=9z7lbjrjvhxsb6caea1jkc470&dl=0?raw=1",
+                  "dimensione_kb": 7322,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/OFFERTA_260559_FARINA_IVAN.pdf"
+                },
+                {
+                  "nome": "OFFERTA_260560_FARINA_IVAN_SOLUZIONE_CLIENTE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gke7lw16td9gbby99azp5/OFFERTA_260560_FARINA_IVAN_SOLUZIONE_CLIENTE.pdf?rlkey=t9wsyfzey0osc7fa7i08he11m&dl=0?raw=1",
+                  "dimensione_kb": 61,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/OFFERTA_260560_FARINA_IVAN_SOLUZIONE_CLIENTE.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/cn4g75ukvwcdobwskro5z/PREVENTIVO.json?rlkey=xqz7fmogiheqorwpl6wmu1o11&dl=0?raw=1",
+                  "dimensione_kb": 13,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_260560.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/9agqtqxqsu8k1iiqgap85/PREVENTIVO_260560.json?rlkey=q7rdpetcaayt8xnjb1mx9e5cb&dl=0?raw=1",
+                  "dimensione_kb": 12,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PREVENTIVO_260560.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_ATTREZZATURE_2026-11-17_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/5xbdm9m15mtu4mwuc4sj6/PREVENTIVO_OFFERTA_ATTREZZATURE_2026-11-17_LAYOUT_AMPIO.md?rlkey=rs86fx4kw7clkbphvzc6pfit3&dl=0?raw=1",
+                  "dimensione_kb": 5,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PREVENTIVO_OFFERTA_ATTREZZATURE_2026-11-17_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_ATTREZZATURE_2026-11-17_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wzsl7y1uoblu0nf93pwlb/PREVENTIVO_OFFERTA_ATTREZZATURE_2026-11-17_LAYOUT_AMPIO.pdf?rlkey=im3rzb5dpz70hfsf0xc4jtjuu&dl=0?raw=1",
+                  "dimensione_kb": 6532,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/PREVENTIVO_OFFERTA_ATTREZZATURE_2026-11-17_LAYOUT_AMPIO.pdf"
+                },
+                {
+                  "nome": "Praia a Mare - Farina Bozza di Progetto 00 Definitivo.dwg",
+                  "tipo": "CAD",
+                  "icona": "📐",
+                  "link": "https://www.dropbox.com/scl/fi/quz79c9vvrxd5p8xmzj0n/Praia-a-Mare-Farina-Bozza-di-Progetto-00-Definitivo.dwg?rlkey=2o6da4yj8z0t2lirtq3dmbkc3&dl=0?raw=1",
+                  "dimensione_kb": 2364,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/Praia a Mare - Farina Bozza di Progetto 00 Definitivo.dwg"
+                },
+                {
+                  "nome": "Praia a Mare - Farina Bozza di Progetto 00.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/oxte1y84i06juhex8l28j/Praia-a-Mare-Farina-Bozza-di-Progetto-00.pdf?rlkey=3sspzl9d8129fsldlphlstwoi&dl=0?raw=1",
+                  "dimensione_kb": 705,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/Praia a Mare - Farina Bozza di Progetto 00.pdf"
+                },
+                {
+                  "nome": "Praia a Mare - Farina Bozza di Progetto del CLIENTE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/9zpo6b5b3p21iul6t33l4/Praia-a-Mare-Farina-Bozza-di-Progetto-del-CLIENTE.pdf?rlkey=2swnvhv0x5uij3w263js6qnqb&dl=0?raw=1",
+                  "dimensione_kb": 65,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/Praia a Mare - Farina Bozza di Progetto del CLIENTE.pdf"
+                },
+                {
+                  "nome": "RIEPILOGO_DECISIONI_FARINA_2026-11-17.docx",
+                  "tipo": "Word",
+                  "icona": "📝",
+                  "link": "https://www.dropbox.com/scl/fi/2d3ixch4fwqyf50zwq6xb/RIEPILOGO_DECISIONI_FARINA_2026-11-17.docx?rlkey=illt8xg86obe6pkrt0khlcr78&dl=0?raw=1",
+                  "dimensione_kb": 38,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/RIEPILOGO_DECISIONI_FARINA_2026-11-17.docx"
+                },
+                {
+                  "nome": "WhatsApp Image 2026-11-17 at 16.42.46.jpeg",
+                  "tipo": "Immagine",
+                  "icona": "🖼️",
+                  "link": "https://www.dropbox.com/scl/fi/0hyz9t7ejv02393cki6zh/WhatsApp-Image-2026-11-17-at-16.42.46.jpeg?rlkey=skdychwl8igxvyz9qgk1755te&dl=0?raw=1",
+                  "dimensione_kb": 286,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_17 FARINA IVAN ATTREZZATURE RISORSE/WhatsApp Image 2026-11-17 at 16.42.46.jpeg"
+                }
+              ],
+              "_totale_file": 37
+            },
+            {
+              "nome": "2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE",
+              "cartelle": [
+                {
+                  "nome": "DAL SITO VALKO",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "1410V377.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/keqxrkzun6uhg3d1agd98/1410V377.jpg?rlkey=8i5wcqcoy3xbp9szzu3wcojl8&dl=0?raw=1",
+                      "dimensione_kb": 58,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO/1410V377.jpg"
+                    },
+                    {
+                      "nome": "1410V377.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/merimm0quqenyw3futqlb/1410V377.png?rlkey=skq02ci4kp443v9ayrgw9iaqm&dl=0?raw=1",
+                      "dimensione_kb": 301,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO/1410V377.png"
+                    },
+                    {
+                      "nome": "1410V377_Favola-T-560-2.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/jwutkz3ozayga1f9etgol/1410V377_Favola-T-560-2.pdf?rlkey=d2gcqwhbzsr0ez2h3m2pf8h4h&dl=0?raw=1",
+                      "dimensione_kb": 1706,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO/1410V377_Favola-T-560-2.pdf"
+                    },
+                    {
+                      "nome": "1410V379.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/6cqu93y41hmampnjppbg4/1410V379.jpg?rlkey=drtmrx8iu8j9lx1drz7ejy9sz&dl=0?raw=1",
+                      "dimensione_kb": 70,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO/1410V379.jpg"
+                    },
+                    {
+                      "nome": "1410V379.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/hmxfenvxyb3zgd86wkqf4/1410V379.png?rlkey=k1c1yshkvakzsgop41p4svw4k&dl=0?raw=1",
+                      "dimensione_kb": 356,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO/1410V379.png"
+                    },
+                    {
+                      "nome": "1410V379_Favola-T-71060-2.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/84ckomq8ev60yfm153sfr/1410V379_Favola-T-71060-2.pdf?rlkey=cll3kg5c0hupi7aiikdwu3khr&dl=0?raw=1",
+                      "dimensione_kb": 1721,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO/1410V379_Favola-T-71060-2.pdf"
+                    },
+                    {
+                      "nome": "1410V381.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/iuwdp8hi8jc3abynm0fxw/1410V381.jpg?rlkey=5j1f1q2dmqgwy5nflus9mv7v9&dl=0?raw=1",
+                      "dimensione_kb": 72,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO/1410V381.jpg"
+                    },
+                    {
+                      "nome": "1410V381.png",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/94v8f53m5vlx08ypja5um/1410V381.png?rlkey=5hegob1ac606wzm86j9b9108x&dl=0?raw=1",
+                      "dimensione_kb": 364,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO/1410V381.png"
+                    },
+                    {
+                      "nome": "1410V381_Favola-T-84100-2.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ij40k33cmgiikrd630hj0/1410V381_Favola-T-84100-2.pdf?rlkey=5z0hsmsyusl43na1lyxcw6bs3&dl=0?raw=1",
+                      "dimensione_kb": 2283,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO/1410V381_Favola-T-84100-2.pdf"
+                    },
+                    {
+                      "nome": "Brochure_FAVOLA-T-2.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/bs2x2n9vb5wevzu1mkzlm/Brochure_FAVOLA-T-2.pdf?rlkey=lve20m3prr7v8b836c1657v0b&dl=0?raw=1",
+                      "dimensione_kb": 2429,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/DAL SITO VALKO/Brochure_FAVOLA-T-2.pdf"
+                    }
+                  ],
+                  "_totale_file": 10
+                }
+              ],
+              "file": [
+                {
+                  "nome": "OFFERTA_260563_PECORARO_CRISTIANO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xc74ugxm6y22ic0i9gbx1/OFFERTA_260563_PECORARO_CRISTIANO.pdf?rlkey=j5qg7qxufefkjeoduqyicurbe&dl=0?raw=1",
+                  "dimensione_kb": 4205,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/OFFERTA_260563_PECORARO_CRISTIANO.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/7xhd99qdp0gwxv2lgmtxz/PREVENTIVO.json?rlkey=7qiaiis09kzn55gdmhl7bjo9f&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_FAVOLA_T_560_2026-11-18_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/tjh32gaiupw9s3zwqajhn/PREVENTIVO_OFFERTA_FAVOLA_T_560_2026-11-18_LAYOUT_AMPIO.md?rlkey=jffgwd0vuqgmm0of1zble9se9&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/PREVENTIVO_OFFERTA_FAVOLA_T_560_2026-11-18_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_FAVOLA_T_560_2026-11-18_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/wnkqwdajb1i6e6geu3c77/PREVENTIVO_OFFERTA_FAVOLA_T_560_2026-11-18_LAYOUT_AMPIO.pdf?rlkey=2vwebrz7dcwtj8mir7cxwnd3h&dl=0?raw=1",
+                  "dimensione_kb": 131,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 560 RISORSE/PREVENTIVO_OFFERTA_FAVOLA_T_560_2026-11-18_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 14
+            },
+            {
+              "nome": "2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 71060 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 71060 RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "OFFERTA_260564_PECORARO_CRISTIANO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hz7hfu7pxtd3hrtytaide/OFFERTA_260564_PECORARO_CRISTIANO.pdf?rlkey=f98cyxicpyxsghnehq7gxfqe7&dl=0?raw=1",
+                  "dimensione_kb": 4249,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 71060 RISORSE/OFFERTA_260564_PECORARO_CRISTIANO.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/wyu78lwtoz5j0r78b46yi/PREVENTIVO.json?rlkey=d5nrhqzqhvczekcpryiaie01s&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 71060 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_FAVOLA_T_71060_2026-11-18_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/p6x6job2iu7043h6b3ihr/PREVENTIVO_OFFERTA_FAVOLA_T_71060_2026-11-18_LAYOUT_AMPIO.md?rlkey=q9qr5dh4psp8myb49oneqgo11&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 71060 RISORSE/PREVENTIVO_OFFERTA_FAVOLA_T_71060_2026-11-18_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_FAVOLA_T_71060_2026-11-18_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/usb5mx4a89xftvznams4i/PREVENTIVO_OFFERTA_FAVOLA_T_71060_2026-11-18_LAYOUT_AMPIO.pdf?rlkey=tdmg8wudyhy9kkdsvm1omqk6g&dl=0?raw=1",
+                  "dimensione_kb": 146,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 71060 RISORSE/PREVENTIVO_OFFERTA_FAVOLA_T_71060_2026-11-18_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 4
+            },
+            {
+              "nome": "2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 84100 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 84100 RISORSE",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "OFFERTA_260565_PECORARO_CRISTIANO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/78kwgxq2zfjdzlhy7gl26/OFFERTA_260565_PECORARO_CRISTIANO.pdf?rlkey=sg91nfq0xd4z3l7k43f6m86l5&dl=0?raw=1",
+                  "dimensione_kb": 4816,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 84100 RISORSE/OFFERTA_260565_PECORARO_CRISTIANO.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/lq6ln3q8d0q9n5lh5y3tl/PREVENTIVO.json?rlkey=0yexil9adklqz9l4qwh3oiyo4&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 84100 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_FAVOLA_T_84100_2026-11-18_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/w7obxj4hy773iqul5p4nh/PREVENTIVO_OFFERTA_FAVOLA_T_84100_2026-11-18_LAYOUT_AMPIO.md?rlkey=axlsg14jnll9uxw395k5y50uo&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 84100 RISORSE/PREVENTIVO_OFFERTA_FAVOLA_T_84100_2026-11-18_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_FAVOLA_T_84100_2026-11-18_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/myk4o5qiyp1joj02pe42z/PREVENTIVO_OFFERTA_FAVOLA_T_84100_2026-11-18_LAYOUT_AMPIO.pdf?rlkey=0azwv30dol7ums2bgwbhzv3em&dl=0?raw=1",
+                  "dimensione_kb": 148,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO Favola T. 84100 RISORSE/PREVENTIVO_OFFERTA_FAVOLA_T_84100_2026-11-18_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 4
+            },
+            {
+              "nome": "2026_11_18 Macelleria PECORARO CRISTIANO SEGAOSSA SIRMAN SO 1550 F3 RISORSE",
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO SEGAOSSA SIRMAN SO 1550 F3 RISORSE",
+              "cartelle": [
+                {
+                  "nome": "DAL PORTALE SIRMAN",
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO SEGAOSSA SIRMAN SO 1550 F3 RISORSE/DAL PORTALE SIRMAN",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "SEGAOSSA_SO 1550 F3_CE.gif",
+                      "tipo": "File",
+                      "icona": "📎",
+                      "link": "https://www.dropbox.com/scl/fi/8t6iu44aaxtf51vcg4fex/SEGAOSSA_SO-1550-F3_CE.gif?rlkey=1edu6f553d70ye2lvtz3i4xxc&dl=0?raw=1",
+                      "dimensione_kb": 106,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO SEGAOSSA SIRMAN SO 1550 F3 RISORSE/DAL PORTALE SIRMAN/SEGAOSSA_SO 1550 F3_CE.gif"
+                    },
+                    {
+                      "nome": "SEGAOSSA_SO 1550 F3_CE.jpg",
+                      "tipo": "Immagine",
+                      "icona": "🖼️",
+                      "link": "https://www.dropbox.com/scl/fi/8kkrvk2y6ffxsy4masvvz/SEGAOSSA_SO-1550-F3_CE.jpg?rlkey=iiiss2joglqufwuseqf1jp2ta&dl=0?raw=1",
+                      "dimensione_kb": 46,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO SEGAOSSA SIRMAN SO 1550 F3 RISORSE/DAL PORTALE SIRMAN/SEGAOSSA_SO 1550 F3_CE.jpg"
+                    },
+                    {
+                      "nome": "so-f3.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/f2roggo2yafqj7ujgl0ji/so-f3.pdf?rlkey=xdi96nabtv4h5ojxebfkwgc3b&dl=0?raw=1",
+                      "dimensione_kb": 185,
+                      "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO SEGAOSSA SIRMAN SO 1550 F3 RISORSE/DAL PORTALE SIRMAN/so-f3.pdf"
+                    }
+                  ],
+                  "_totale_file": 3
+                }
+              ],
+              "file": [
+                {
+                  "nome": "OFFERTA_260566_PECORARO_CRISTIANO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/b184dfzw538vzpmmfwnyt/OFFERTA_260566_PECORARO_CRISTIANO.pdf?rlkey=9da671hqrjpmrdg4vgy312eh8&dl=0?raw=1",
+                  "dimensione_kb": 353,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO SEGAOSSA SIRMAN SO 1550 F3 RISORSE/OFFERTA_260566_PECORARO_CRISTIANO.pdf"
+                },
+                {
+                  "nome": "PREVENTIVO.json",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/33xr38mfn136n97dt2cq8/PREVENTIVO.json?rlkey=clp4stw5ergum4fhbn9um6uv2&dl=0?raw=1",
+                  "dimensione_kb": 4,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO SEGAOSSA SIRMAN SO 1550 F3 RISORSE/PREVENTIVO.json"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_SEGAOSSA_SIRMAN_SO_1550_F3_2026-11-18_LAYOUT_AMPIO.md",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/hnf79xxudlsgbgfatfrv5/PREVENTIVO_OFFERTA_SEGAOSSA_SIRMAN_SO_1550_F3_2026-11-18_LAYOUT_AMPIO.md?rlkey=hosnicrmqfws9n5vznbvi7k1a&dl=0?raw=1",
+                  "dimensione_kb": 3,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO SEGAOSSA SIRMAN SO 1550 F3 RISORSE/PREVENTIVO_OFFERTA_SEGAOSSA_SIRMAN_SO_1550_F3_2026-11-18_LAYOUT_AMPIO.md"
+                },
+                {
+                  "nome": "PREVENTIVO_OFFERTA_SEGAOSSA_SIRMAN_SO_1550_F3_2026-11-18_LAYOUT_AMPIO.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/ht4ei0d46d290ylcq0rnu/PREVENTIVO_OFFERTA_SEGAOSSA_SIRMAN_SO_1550_F3_2026-11-18_LAYOUT_AMPIO.pdf?rlkey=sih0x7lzm381oipgochv4nf6o&dl=0?raw=1",
+                  "dimensione_kb": 116,
+                  "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_18 Macelleria PECORARO CRISTIANO SEGAOSSA SIRMAN SO 1550 F3 RISORSE/PREVENTIVO_OFFERTA_SEGAOSSA_SIRMAN_SO_1550_F3_2026-11-18_LAYOUT_AMPIO.pdf"
+                }
+              ],
+              "_totale_file": 7
             },
             {
               "nome": "2026_17_10 MACELLERIA COSENTINO GUIDOVIA GIMAR",
@@ -74768,7 +75483,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 5854
+          "_totale_file": 5921
         },
         {
           "nome": "ORDINI CLIENTE",
@@ -75502,6 +76217,22 @@
               "link": "https://www.dropbox.com/scl/fi/8z3zen4bv454kjv46ui3r/CORRADO-MICHELA-BINARIO-1-Ordine-cliente_260532_20261029_133514-RIF.-SISTEMA-FILTRANTE-BRITA-PER-FORNO-RATIONAL-Basato-su-Offerte-di-vendita-260241..pdf?rlkey=22bcialmlzzkw7w43b7nz3oyr&dl=0?raw=1",
               "dimensione_kb": 76,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA BINARIO 1 Ordine cliente_260532_20261029_133514 RIF. SISTEMA FILTRANTE BRITA PER FORNO RATIONAL Basato su Offerte di vendita 260241..pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA BINARIO 1 Ordine cliente_260560_20261117_115729 RIF. FORNO CUPPONE CUP.TZ4352M-C5P-CP TIZIANO 2 CAMERE RES.POTENZIATE - ATTIVITA'.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/6l2irxyx9i0auzmf842c8/CORRADO-MICHELA-BINARIO-1-Ordine-cliente_260560_20261117_115729-RIF.-FORNO-CUPPONE-CUP.TZ4352M-C5P-CP-TIZIANO-2-CAMERE-RES.POTENZIATE-ATTIVITA.pdf?rlkey=jtuou4opx0xowk5kgv0oqpxaa&dl=0?raw=1",
+              "dimensione_kb": 68,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA BINARIO 1 Ordine cliente_260560_20261117_115729 RIF. FORNO CUPPONE CUP.TZ4352M-C5P-CP TIZIANO 2 CAMERE RES.POTENZIATE - ATTIVITA'.pdf"
+            },
+            {
+              "nome": "CORRADO MICHELA BINARIO 1 Ordine cliente_260562_20261117_195047 RIF. PERMUTA TAVOLO ARMADIATO Basato su Offerte di vendita 260554..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/hi645lk622g62d7smy1un/CORRADO-MICHELA-BINARIO-1-Ordine-cliente_260562_20261117_195047-RIF.-PERMUTA-TAVOLO-ARMADIATO-Basato-su-Offerte-di-vendita-260554..pdf?rlkey=j6dt6gt0l8fl2ossdxca9s8bm&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/CORRADO MICHELA BINARIO 1 Ordine cliente_260562_20261117_195047 RIF. PERMUTA TAVOLO ARMADIATO Basato su Offerte di vendita 260554..pdf"
             },
             {
               "nome": "CORRADO MICHELA Ordine cliente_260166_20260603_103030 RIF. Armadio LevTronic 550 -20°+40°C RH 45÷95% 1 porta.pdf",
@@ -76630,6 +77361,14 @@
               "link": "https://www.dropbox.com/scl/fi/3v9sd3b84hxh57hsetvb3/LA-MARINELLA-di-CLAUDIO-CASTALDI-Ordine-cliente_260327_20260728_104156-RIF.-PIATTI-e-TAPPI-PER-SPUMANTE-Basato-su-Offerte-di-vendita-260.pdf?rlkey=okynhe08waw42d3da743yf1mp&dl=0?raw=1",
               "dimensione_kb": 50,
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA MARINELLA di CLAUDIO CASTALDI Ordine cliente_260327_20260728_104156 RIF. PIATTI e TAPPI PER SPUMANTE Basato su Offerte di vendita 260.pdf"
+            },
+            {
+              "nome": "LA PASTAFROLLA srl Ordine cliente_260561_20261118_004647.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/d15ixqdkveypdp2rczayj/LA-PASTAFROLLA-srl-Ordine-cliente_260561_20261118_004647.pdf?rlkey=f3axu0j6ro8ddqr16d7r599l4&dl=0?raw=1",
+              "dimensione_kb": 64,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA PASTAFROLLA srl Ordine cliente_260561_20261118_004647.pdf"
             },
             {
               "nome": "LA PERLA DEL TIRRENO SRLS Ordine cliente_260432_20260904_113926 RIF. Pastiglia detergente RATIONAL priva di fosforo SelfCookingCenter con Efficient.pdf",
@@ -78144,7 +78883,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZM RIPARAZIONI DI ZACCARA MARIO Ordine cliente_260498_20261009_123654 RIF. MACINE CONICHE X MC99CONIK.pdf"
             }
           ],
-          "_totale_file": 421
+          "_totale_file": 424
         }
       ],
       "file": [
