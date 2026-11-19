@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-19T07:08:40Z",
-  "totale_file": 28832,
+  "generato": "2026-11-19T09:15:51Z",
+  "totale_file": 28839,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -206099,7 +206099,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5329,
+      "totale_file": 5336,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -250816,12 +250816,36 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-004196-2026 RIF. CAMPOLEROSE.pdf"
             },
             {
+              "nome": "ACCIAIO T&D CONFERMA OFFVE-004613-2026 RIF.BELLAVISTA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dmfrgkrg8832ok4ez2l7y/ACCIAIO-T-D-CONFERMA-OFFVE-004613-2026-RIF.BELLAVISTA.pdf?rlkey=l7ah3b0tbxrxi984lh9tr01hx&dl=0?raw=1",
+              "dimensione_kb": 676,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-004613-2026 RIF.BELLAVISTA.pdf"
+            },
+            {
               "nome": "ACCIAIO T&D CONFERMA ORDVE-003207-2026 RIF. CAMPOLEROSE.pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/qew4kx78xz8rwqxqkmct9/ACCIAIO-T-D-CONFERMA-ORDVE-003207-2026-RIF.-CAMPOLEROSE.pdf?rlkey=j5nwxiw0g09hnqf5onfdbyiyy&dl=0?raw=1",
               "dimensione_kb": 744,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-003207-2026 RIF. CAMPOLEROSE.pdf"
+            },
+            {
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-003496-2026 RIF.AI CARCONI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9qqc9stnsv26lf1q40bck/ACCIAIO-T-D-CONFERMA-ORDVE-003496-2026-RIF.AI-CARCONI.pdf?rlkey=rbdmq6iivfd7rj5pgitpqom95&dl=0?raw=1",
+              "dimensione_kb": 741,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-003496-2026 RIF.AI CARCONI.pdf"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260301_20261117_091338 RIF. BELLAVISTA Basato su Ordini cliente 260551..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9fy65ykl0hmflvs8zy1ma/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260301_20261117_091338-RIF.-BELLAVISTA-Basato-su-Ordini-cliente-260551..pdf?rlkey=osgql0vid34oye3t787sdr3xr&dl=0?raw=1",
+              "dimensione_kb": 67,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260301_20261117_091338 RIF. BELLAVISTA Basato su Ordini cliente 260551..pdf"
             },
             {
               "nome": "ARISTARCO CONFERMA ORDINE ORV_2588798_2026_1_11146_21102026 RIF.CAMPOLEROSE_CARCONI_BELLAVISTA_NERA.PDF",
@@ -250928,6 +250952,22 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13997 RIF.MeM TOP.pdf"
             },
             {
+              "nome": "COLDLINE Conferma ordine n°26-19959 RIF. AI CARCONI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qhpw53azyd0nqjy3l6toi/COLDLINE-Conferma-ordine-n-26-19959-RIF.-AI-CARCONI.pdf?rlkey=s1tpyuyy4uryoquk2rryhchwq&dl=0?raw=1",
+              "dimensione_kb": 96,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-19959 RIF. AI CARCONI.pdf"
+            },
+            {
+              "nome": "COLDLINE Conferma ordine n°26-20067 RIF. LA PASTAFROLLA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/9mzeq33dxqgy68e9qdpm7/COLDLINE-Conferma-ordine-n-26-20067-RIF.-LA-PASTAFROLLA.pdf?rlkey=iu52rckqyty15bb1h57lzbngg&dl=0?raw=1",
+              "dimensione_kb": 88,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-20067 RIF. LA PASTAFROLLA.pdf"
+            },
+            {
               "nome": "COLDLINE ORDINI E TITOLI - collegamento.lnk",
               "tipo": "File",
               "icona": "📎",
@@ -250968,6 +251008,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/KAREL CONFERMA D'ORDINE 202626007351I201026 RIF.LFS GROUP SRL.pdf"
             },
             {
+              "nome": "MODULAR CONFERMA 26_09246_rev RIF.LA PASTAFROLLA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bpwxqsicfdqx6nfa5c5mr/MODULAR-CONFERMA-26_09246_rev-RIF.LA-PASTAFROLLA.pdf?rlkey=s0zh3ktgb9ry2vmy1vl9uld4u&dl=0?raw=1",
+              "dimensione_kb": 140,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA 26_09246_rev RIF.LA PASTAFROLLA.pdf"
+            },
+            {
               "nome": "MODULAR CONFERMA OFFERTA 26_03174 MODIFICATA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -250990,6 +251038,14 @@
               "link": "https://www.dropbox.com/scl/fi/la4ovofltyroubjx2lvqi/MORINI-s.r.l.-Ordine-dacquisto_260285_20261021_122227-RIF.-Basato-su-Ordini-cliente-260505.-260517..pdf?rlkey=16ip9m7ylqjfcanmfl82tkow1&dl=0?raw=1",
               "dimensione_kb": 68,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MORINI s.r.l. Ordine dacquisto_260285_20261021_122227 RIF. Basato su Ordini cliente 260505. 260517..pdf"
+            },
+            {
+              "nome": "NUOVA RICAMBI srl Ordine dacquisto_260300_20261117_085730.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/5zj01b3dxiam2wkgw0ejg/NUOVA-RICAMBI-srl-Ordine-dacquisto_260300_20261117_085730.pdf?rlkey=3drtuhdqjri0vo8ftircod7k5&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/NUOVA RICAMBI srl Ordine dacquisto_260300_20261117_085730.pdf"
             },
             {
               "nome": "PADERNO ORDINE SBT-26016461.pdf",
@@ -251056,7 +251112,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3886
+          "_totale_file": 3893
         }
       ],
       "file": []
