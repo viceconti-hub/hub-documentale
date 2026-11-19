@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-18T18:33:16Z",
-  "totale_file": 28724,
+  "generato": "2026-11-19T01:33:45Z",
+  "totale_file": 28739,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -82772,7 +82772,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7928,
+      "totale_file": 7943,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -114203,6 +114203,38 @@
                   ],
                   "file": [],
                   "_totale_file": 17
+                },
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_11_17",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/SITUAZIONE CONTABILE AL 2026_11_17",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600510 DEL 2026_09_30.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/0fq9848herf6pkgmb2dax/FATTURA-2600510-DEL-2026_09_30.pdf?rlkey=5cz43jarbibsn6srlnjdttvqg&dl=0?raw=1",
+                      "dimensione_kb": 67,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/SITUAZIONE CONTABILE AL 2026_11_17/FATTURA 2600510 DEL 2026_09_30.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600574 DEL 2026_10_31.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/efealfsvx57xynoe66mmu/FATTURA-2600574-DEL-2026_10_31.pdf?rlkey=41336yym7s5qstzf0lu6b3e91&dl=0?raw=1",
+                      "dimensione_kb": 66,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/SITUAZIONE CONTABILE AL 2026_11_17/FATTURA 2600574 DEL 2026_10_31.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE CO52368.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ovtfzegxgshvaiecp16gm/SITUAZIONE-CONTABILE-CO52368.pdf?rlkey=vklzsz9ein9fsnfy535okq0iy&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/SITUAZIONE CONTABILE AL 2026_11_17/SITUAZIONE CONTABILE CO52368.pdf"
+                    }
+                  ],
+                  "_totale_file": 3
                 }
               ],
               "file": [
@@ -114349,9 +114381,17 @@
                   "link": "https://www.dropbox.com/scl/fi/dv9r1onwfuv9mrh20by5c/YUMARA-SITUAZIONE-AL-25_06_2020.pdf?rlkey=dpubnzk00g7h5qxi6f6h4wj4v&dl=0?raw=1",
                   "dimensione_kb": 111,
                   "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/YUMARA SITUAZIONE AL 25_06_2020.pdf"
+                },
+                {
+                  "nome": "_CLIENTE CO52368 4.0 YUMARA.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/blnbbph9rlrile2516v2d/_CLIENTE-CO52368-4.0-YUMARA.txt?rlkey=n2zyi6uzrkirizp5md27wcfzp&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/4.0 YUMARA/_CLIENTE CO52368 4.0 YUMARA.txt"
                 }
               ],
-              "_totale_file": 35
+              "_totale_file": 39
             },
             {
               "nome": "AGRITURISMO LA TENUTA DEL BARONE",
@@ -123252,7 +123292,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/MARATEA/GRAN SOLE - collegamento.lnk"
             }
           ],
-          "_totale_file": 981
+          "_totale_file": 985
         },
         {
           "nome": "MARCELLINA",
@@ -123824,6 +123864,46 @@
           ],
           "file": [],
           "_totale_file": 1
+        },
+        {
+          "nome": "MILANO",
+          "path": "/HUB DOCUMENTALE/CLIENTI/MILANO",
+          "cartelle": [
+            {
+              "nome": "LA PASTAFROLLA SRL",
+              "path": "/HUB DOCUMENTALE/CLIENTI/MILANO/LA PASTAFROLLA SRL",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "NC16110900010 - Manuale d'uso e installazione Function_multilingua.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xnqrhof0qdc0djx3yvu13/NC16110900010-Manuale-d-uso-e-installazione-Function_multilingua.pdf?rlkey=qreghwph6cxa22mzdux3xla96&dl=0?raw=1",
+                  "dimensione_kb": 14417,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MILANO/LA PASTAFROLLA SRL/NC16110900010 - Manuale d'uso e installazione Function_multilingua.pdf"
+                },
+                {
+                  "nome": "NC23102060020.PDF",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/n5pclrb72ahggsrzk5p29/NC23102060020.PDF?rlkey=ho0kzbqxss1d0eqngmglysk97&dl=0?raw=1",
+                  "dimensione_kb": 73,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MILANO/LA PASTAFROLLA SRL/NC23102060020.PDF"
+                },
+                {
+                  "nome": "Nuovo Foglio di lavoro di Microsoft Excel.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/y0ywda7k7no6z2ij9jq3b/Nuovo-Foglio-di-lavoro-di-Microsoft-Excel.xlsx?rlkey=pob8yr2zm1e65de2jj6pbhqwb&dl=0?raw=1",
+                  "dimensione_kb": 10,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/MILANO/LA PASTAFROLLA SRL/Nuovo Foglio di lavoro di Microsoft Excel.xlsx"
+                }
+              ],
+              "_totale_file": 3
+            }
+          ],
+          "file": [],
+          "_totale_file": 3
         },
         {
           "nome": "MOLITERNO",
@@ -127860,6 +127940,70 @@
                     }
                   ],
                   "_totale_file": 6
+                },
+                {
+                  "nome": "SITUAZIONE CONTABILE AL 2026_11_17",
+                  "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_17",
+                  "cartelle": [],
+                  "file": [
+                    {
+                      "nome": "FATTURA 2600561 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/2wwrr5twpix8r3hjammot/FATTURA-2600561-DEL-2026_10_29.pdf?rlkey=14bdyplgo622t202viz1oncy6&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_17/FATTURA 2600561 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600562 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/7tadmh5rf2qotlkiuei2w/FATTURA-2600562-DEL-2026_10_29.pdf?rlkey=l0gs7c9y1r88a5yefbrgt1jep&dl=0?raw=1",
+                      "dimensione_kb": 63,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_17/FATTURA 2600562 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600563 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/3humuz5tzpjc304zquu93/FATTURA-2600563-DEL-2026_10_29.pdf?rlkey=nl9kf1s0zm2yyjcquo1eiualr&dl=0?raw=1",
+                      "dimensione_kb": 65,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_17/FATTURA 2600563 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600564 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/hh4j5dib6l5s4f326pfsq/FATTURA-2600564-DEL-2026_10_29.pdf?rlkey=bse0zjd8xjckdlmhlgh4gb9qv&dl=0?raw=1",
+                      "dimensione_kb": 62,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_17/FATTURA 2600564 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600565 DEL 2026_10_29.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/ac0ajkplszyu8pmrmkv52/FATTURA-2600565-DEL-2026_10_29.pdf?rlkey=2e88t6fe1f75nffzc8bvfzg5x&dl=0?raw=1",
+                      "dimensione_kb": 64,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_17/FATTURA 2600565 DEL 2026_10_29.pdf"
+                    },
+                    {
+                      "nome": "FATTURA 2600588 DEL 2026_11_17.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/r9s0l5us2qhuj1pjjvjiv/FATTURA-2600588-DEL-2026_11_17.pdf?rlkey=pvqrqprr61t3zrzzk2skgw1am&dl=0?raw=1",
+                      "dimensione_kb": 60,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_17/FATTURA 2600588 DEL 2026_11_17.pdf"
+                    },
+                    {
+                      "nome": "SITUAZIONE CONTABILE C000489.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/a526l1lgf8tghxl3c06qu/SITUAZIONE-CONTABILE-C000489.pdf?rlkey=mdqa5eb01m8zzfoulw1ibad0v&dl=0?raw=1",
+                      "dimensione_kb": 57,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_17/SITUAZIONE CONTABILE C000489.pdf"
+                    }
+                  ],
+                  "_totale_file": 7
                 }
               ],
               "file": [
@@ -128184,7 +128328,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/_CLIENTE C000489 GRAN SOLE.txt"
                 }
               ],
-              "_totale_file": 203
+              "_totale_file": 210
             },
             {
               "nome": "H.END",
@@ -129539,7 +129683,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 497
+          "_totale_file": 504
         },
         {
           "nome": "ORIOLO",
@@ -129636,6 +129780,22 @@
                   "cartelle": [],
                   "file": [
                     {
+                      "nome": "2026-10-14 16.01.04.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/lyellowze2tfy9rn4837b/2026-10-14-16.01.04.pdf?rlkey=5kb390045xi1isopsqxhbczmp&dl=0?raw=1",
+                      "dimensione_kb": 688,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ARCHIVIO/2026-10-14 16.01.04.pdf"
+                    },
+                    {
+                      "nome": "PUGLIESE MATTIA AGGIORNAMENTO PAGAMENTI AL 29_10_2026.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/s669ffmryu1k83ifp5930/PUGLIESE-MATTIA-AGGIORNAMENTO-PAGAMENTI-AL-29_10_2026.pdf?rlkey=xodac748ac8h68l0zh0mcsnud&dl=0?raw=1",
+                      "dimensione_kb": 227,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ARCHIVIO/PUGLIESE MATTIA AGGIORNAMENTO PAGAMENTI AL 29_10_2026.pdf"
+                    },
+                    {
                       "nome": "PUGLIESE MATTIA ORDINE 260434 SCANSIONE FIRMATO.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -129650,9 +129810,17 @@
                       "link": "https://www.dropbox.com/scl/fi/npx31n87n6zqfble82pz8/PUGLIESE-MATTIA-ORDINE-CON-RICEVUTA-DI-PAGAMENTO-AGGIORNATO-AL-11_09_2026.pdf?rlkey=rlpu8g2cjl0td7lzpapp8w268&dl=0?raw=1",
                       "dimensione_kb": 657,
                       "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ARCHIVIO/PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 11_09_2026.pdf"
+                    },
+                    {
+                      "nome": "PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 14_09_2026.pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/0l631i5ooou3g64whqqag/PUGLIESE-MATTIA-ORDINE-CON-RICEVUTA-DI-PAGAMENTO-AGGIORNATO-AL-14_09_2026.pdf?rlkey=1sr5cr4d4rpqwn7ie7qq16ln1&dl=0?raw=1",
+                      "dimensione_kb": 646,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ARCHIVIO/PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 14_09_2026.pdf"
                     }
                   ],
-                  "_totale_file": 2
+                  "_totale_file": 5
                 },
                 {
                   "nome": "PUGLIESE MATTIA RISORSE ORDINE 260434",
@@ -129801,14 +129969,6 @@
               ],
               "file": [
                 {
-                  "nome": "2026-10-14 16.01.04.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/lyellowze2tfy9rn4837b/2026-10-14-16.01.04.pdf?rlkey=5kb390045xi1isopsqxhbczmp&dl=0?raw=1",
-                  "dimensione_kb": 688,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/2026-10-14 16.01.04.pdf"
-                },
-                {
                   "nome": "Orsomarso CS - PUGLIESE MATTIA Bozza Soluzione 00 NO SCALA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -129825,20 +129985,12 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/Orsomarso CS - PUGLIESE MATTIA Bozza Soluzione 00.pdf"
                 },
                 {
-                  "nome": "PUGLIESE MATTIA AGGIORNAMENTO PAGAMENTI AL 29_10_2026.pdf",
+                  "nome": "PUGLIESE MATTIA RICEVUTA PAGAMENTO DEL 10_11_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/s669ffmryu1k83ifp5930/PUGLIESE-MATTIA-AGGIORNAMENTO-PAGAMENTI-AL-29_10_2026.pdf?rlkey=xodac748ac8h68l0zh0mcsnud&dl=0?raw=1",
-                  "dimensione_kb": 227,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA AGGIORNAMENTO PAGAMENTI AL 29_10_2026.pdf"
-                },
-                {
-                  "nome": "PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 14_09_2026.pdf",
-                  "tipo": "PDF",
-                  "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/0l631i5ooou3g64whqqag/PUGLIESE-MATTIA-ORDINE-CON-RICEVUTA-DI-PAGAMENTO-AGGIORNATO-AL-14_09_2026.pdf?rlkey=1sr5cr4d4rpqwn7ie7qq16ln1&dl=0?raw=1",
-                  "dimensione_kb": 646,
-                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA ORDINE CON RICEVUTA DI PAGAMENTO AGGIORNATO AL 14_09_2026.pdf"
+                  "link": "https://www.dropbox.com/scl/fi/dgdbxjn30g5kj4i2419c8/PUGLIESE-MATTIA-RICEVUTA-PAGAMENTO-DEL-10_11_2026.pdf?rlkey=50cqc2nplzbpjl5d56u57a2uh&dl=0?raw=1",
+                  "dimensione_kb": 1068,
+                  "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/PUGLIESE MATTIA RICEVUTA PAGAMENTO DEL 10_11_2026.pdf"
                 },
                 {
                   "nome": "_CLIENTE CO52988 PUGLIESE MATTIA.txt",
@@ -129849,11 +130001,11 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/ORSOMARSO/PUGLIESE MATTIA/_CLIENTE CO52988 PUGLIESE MATTIA.txt"
                 }
               ],
-              "_totale_file": 31
+              "_totale_file": 32
             }
           ],
           "file": [],
-          "_totale_file": 31
+          "_totale_file": 32
         },
         {
           "nome": "PIEDIMONTE MATESE",
