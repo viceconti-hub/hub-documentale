@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-19T01:33:45Z",
-  "totale_file": 28739,
+  "generato": "2026-11-19T03:33:09Z",
+  "totale_file": 28754,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -161520,7 +161520,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4517,
+      "totale_file": 4532,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -162035,6 +162035,54 @@
               "_totale_file": 4
             },
             {
+              "nome": "English",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/English",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Acciaio_10-2020.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/1cbz9u76riyfj4pff98py/Acciaio_10-2020.pdf?rlkey=9cjv6gnnrxfwbf76iv74mhzn2&dl=0?raw=1",
+                  "dimensione_kb": 18005,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/English/Acciaio_10-2020.pdf"
+                },
+                {
+                  "nome": "Catalogue Table of Contents.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/j2w1zkxomtok0g8y80x8k/Catalogue-Table-of-Contents.xlsx?rlkey=qwep0alg10jpbludvfiptqr6o&dl=0?raw=1",
+                  "dimensione_kb": 14,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/English/Catalogue Table of Contents.xlsx"
+                },
+                {
+                  "nome": "Presentation.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/84m8yre0uvriw7oq0xljr/Presentation.pdf?rlkey=3bzx5d4qt616w0kxvnk7z58dn&dl=0?raw=1",
+                  "dimensione_kb": 5620,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/English/Presentation.pdf"
+                },
+                {
+                  "nome": "Presentation.pptx",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/87nnlrk9ss185jjxwatpd/Presentation.pptx?rlkey=dfypq1ys4b4ocddzt2euks5re&dl=0?raw=1",
+                  "dimensione_kb": 29978,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/English/Presentation.pptx"
+                },
+                {
+                  "nome": "Read-me.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/82xinyr9lnp4s7r9zt5nm/Read-me.txt?rlkey=g3f2bjp84qqbvxi4y3fqy0x8v&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/English/Read-me.txt"
+                }
+              ],
+              "_totale_file": 5
+            },
+            {
               "nome": "FOTO RINFORZO TAVOLO PER RATIONAL",
               "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/FOTO RINFORZO TAVOLO PER RATIONAL",
               "cartelle": [],
@@ -162057,6 +162105,86 @@
                 }
               ],
               "_totale_file": 2
+            },
+            {
+              "nome": "Français",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Français",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Acciaio_10-2020.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dmvssyc2hfmb8jihrd0h7/Acciaio_10-2020.pdf?rlkey=ucfbn3kqob8yal84cxbvfnqg3&dl=0?raw=1",
+                  "dimensione_kb": 18005,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Français/Acciaio_10-2020.pdf"
+                },
+                {
+                  "nome": "Lisez-moi.txt",
+                  "tipo": "Testo",
+                  "icona": "📃",
+                  "link": "https://www.dropbox.com/scl/fi/6r7y7gtqyq273xrmm71a1/Lisez-moi.txt?rlkey=dsxewqllnw66c3fstez4h62w7&dl=0?raw=1",
+                  "dimensione_kb": 0,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Français/Lisez-moi.txt"
+                },
+                {
+                  "nome": "Présentation.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/lq6lreu9vl26r2ycwfgio/Pr-sentation.pdf?rlkey=8hd2r31bkuz50jqeho6jf6nlz&dl=0?raw=1",
+                  "dimensione_kb": 5621,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Français/Présentation.pdf"
+                },
+                {
+                  "nome": "Présentation.pptx",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/rnghwlpcged3u8qjv87wl/Pr-sentation.pptx?rlkey=kjh92jozwy48c952zzobwykvt&dl=0?raw=1",
+                  "dimensione_kb": 29979,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Français/Présentation.pptx"
+                },
+                {
+                  "nome": "Sommaire du catalogue.xlsx",
+                  "tipo": "Excel",
+                  "icona": "📊",
+                  "link": "https://www.dropbox.com/scl/fi/ypkebwx6sa0wcuk9pu8ga/Sommaire-du-catalogue.xlsx?rlkey=3cktkfura512uckco4afcakii&dl=0?raw=1",
+                  "dimensione_kb": 14,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Français/Sommaire du catalogue.xlsx"
+                }
+              ],
+              "_totale_file": 5
+            },
+            {
+              "nome": "Italiano",
+              "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Italiano",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "Acciaio_10-2020.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/0depcrbogzidcrm4gpemx/Acciaio_10-2020.pdf?rlkey=b9861i662jjbeoxw1dpw8mrxc&dl=0?raw=1",
+                  "dimensione_kb": 18005,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Italiano/Acciaio_10-2020.pdf"
+                },
+                {
+                  "nome": "Presentazione.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/hli1hz23b2f5pu8h2mden/Presentazione.pdf?rlkey=7m16i10s85iro05uc9jkw8ab6&dl=0?raw=1",
+                  "dimensione_kb": 3915,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Italiano/Presentazione.pdf"
+                },
+                {
+                  "nome": "Presentazione.pptx",
+                  "tipo": "File",
+                  "icona": "📎",
+                  "link": "https://www.dropbox.com/scl/fi/p54dfyj3zx5cmzzazqw79/Presentazione.pptx?rlkey=yqsxupus5n8imhkklb8pcngc5&dl=0?raw=1",
+                  "dimensione_kb": 25524,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Italiano/Presentazione.pptx"
+                }
+              ],
+              "_totale_file": 3
             },
             {
               "nome": "SCHEDE TECNICHE",
@@ -162125,7 +162253,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/ACCIAIO T&D/Listino Agosto 2020.pdf"
             }
           ],
-          "_totale_file": 15
+          "_totale_file": 28
         },
         {
           "nome": "ACQUEDOTTO LUCANO",
@@ -195896,6 +196024,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 07_11_2026.XLSX"
             },
             {
+              "nome": "MORINI ESTRAZIONE LISTINO LI0018500 14_11_2026.XLSX",
+              "tipo": "Excel",
+              "icona": "📊",
+              "link": "https://www.dropbox.com/scl/fi/nf0tce28tk7bh74fz67b3/MORINI-ESTRAZIONE-LISTINO-LI0018500-14_11_2026.XLSX?rlkey=dgrs945uxg3qrbei9it2sknu7&dl=0?raw=1",
+              "dimensione_kb": 1185,
+              "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI ESTRAZIONE LISTINO LI0018500 14_11_2026.XLSX"
+            },
+            {
               "nome": "MORINI LINK PER AREA RISERVATA CIR0706.PDF",
               "tipo": "PDF",
               "icona": "📄",
@@ -195904,7 +196040,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/MORINI/MORINI LINK PER AREA RISERVATA CIR0706.PDF"
             }
           ],
-          "_totale_file": 64
+          "_totale_file": 65
         },
         {
           "nome": "NARDI TAVOLI E SEDIE",
@@ -196106,6 +196242,30 @@
             }
           ],
           "_totale_file": 6
+        },
+        {
+          "nome": "NORDCONTENITORI",
+          "path": "/HUB DOCUMENTALE/FORNITORI/NORDCONTENITORI",
+          "cartelle": [
+            {
+              "nome": "NORDCONTENITORI CATALOGO_2026",
+              "path": "/HUB DOCUMENTALE/FORNITORI/NORDCONTENITORI/NORDCONTENITORI CATALOGO_2026",
+              "cartelle": [],
+              "file": [
+                {
+                  "nome": "CATALOGO_2022.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/jkofw79t97zt32twt3mz0/CATALOGO_2022.pdf?rlkey=u8hrcpxcq8ggax4oxcjolmwxn&dl=0?raw=1",
+                  "dimensione_kb": 7622,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/NORDCONTENITORI/NORDCONTENITORI CATALOGO_2026/CATALOGO_2022.pdf"
+                }
+              ],
+              "_totale_file": 1
+            }
+          ],
+          "file": [],
+          "_totale_file": 1
         },
         {
           "nome": "NORMANN",
