@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-19T09:15:51Z",
-  "totale_file": 28839,
+  "generato": "2026-11-19T10:19:48Z",
+  "totale_file": 28844,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -251121,7 +251121,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2490,
+      "totale_file": 2495,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -251875,6 +251875,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/FIMAR COPIA TITOLI MPS AGOSTO_SETTEMBRE 2026.pdf"
             },
             {
+              "nome": "FIMAR COPIA TITOLO 05_12_2025.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2ksxk8g8asqr6wznc5opj/FIMAR-COPIA-TITOLO-05_12_2025.pdf?rlkey=cuw1lqqox1ly2uk8yhweucy7c&dl=0?raw=1",
+              "dimensione_kb": 339,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/FIMAR COPIA TITOLO 05_12_2025.pdf"
+            },
+            {
               "nome": "FIMAR RACCOMADATA TITOLI MPS AGOSTO_SETTEMBRE 2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -251963,7 +251971,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/SIRMAN RICEVUTA AR DEL 29_07_2026.pdf"
             }
           ],
-          "_totale_file": 73
+          "_totale_file": 74
         },
         {
           "nome": "PAGAMENTI IN USCITA BONIFICI",
@@ -272381,6 +272389,22 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARISTARCO Dettaglio bonifico istantaneo DEL 20_05_2026.pdf"
             },
             {
+              "nome": "ARRIS Dettaglio bonifico del 13_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/1jms5y8huchsdyhx6u2pd/ARRIS-Dettaglio-bonifico-del-13_11_2026.pdf?rlkey=kchoxdym2d8g3n35ntansf7gg&dl=0?raw=1",
+              "dimensione_kb": 48,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARRIS Dettaglio bonifico del 13_11_2026.pdf"
+            },
+            {
+              "nome": "ARRIS Dettaglio bonifico istantaneo DEL 17_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7zo2stjq1ib6e2yqebwxn/ARRIS-Dettaglio-bonifico-istantaneo-DEL-17_11_2026.pdf?rlkey=551949bfl7j85fyf7fb6an5gj&dl=0?raw=1",
+              "dimensione_kb": 109,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ARRIS Dettaglio bonifico istantaneo DEL 17_11_2026.pdf"
+            },
+            {
               "nome": "ARRIS Dettaglio bonifico istantaneo DEL 20_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -273245,6 +273269,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/SATRIANO Dettaglio bonifico istantaneo DEL 9_10_2026.pdf"
             },
             {
+              "nome": "SCARDINO DISPOSIZIONE BONIFICO DEL 17_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/2to6o9rlbg0wfb6sub181/SCARDINO-DISPOSIZIONE-BONIFICO-DEL-17_11_2026.pdf?rlkey=4yyylu6tkphqt7o48z5ipndje&dl=0?raw=1",
+              "dimensione_kb": 47,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/SCARDINO DISPOSIZIONE BONIFICO DEL 17_11_2026.pdf"
+            },
+            {
               "nome": "SCARDINO Dettaglio bonifico istantaneo DEL 4_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -273405,6 +273437,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/WUERTH Dettaglio bonifico DEL 22_10_2025.pdf"
             },
             {
+              "nome": "WURTH SRL Dettaglio bonifico del 13_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/rja20kahwgihrdi3wulq1/WURTH-SRL-Dettaglio-bonifico-del-13_11_2026.pdf?rlkey=0ngzypmpty0tj27pw4ihnz4ib&dl=0?raw=1",
+              "dimensione_kb": 47,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/WURTH SRL Dettaglio bonifico del 13_11_2026.pdf"
+            },
+            {
               "nome": "Z3 ENGINERING Dettaglio bonifico istantaneo DEL 23_04_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -273421,7 +273461,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2390
+          "_totale_file": 2394
         }
       ],
       "file": []
