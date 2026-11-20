@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-20T01:35:57Z",
-  "totale_file": 28852,
+  "generato": "2026-11-20T03:35:10Z",
+  "totale_file": 28823,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -162341,7 +162341,7 @@
       "nome": "FORNITORI",
       "descrizione": "Listini, cataloghi e schede tecniche fornitori",
       "icona": "🏭",
-      "totale_file": 4532,
+      "totale_file": 4503,
       "cartelle": [
         {
           "nome": "3W SISTEMI SRLS - Z3 ENGINEERING SRL",
@@ -166921,270 +166921,6 @@
           "_totale_file": 2
         },
         {
-          "nome": "BCC",
-          "path": "/HUB DOCUMENTALE/FORNITORI/BCC",
-          "cartelle": [],
-          "file": [
-            {
-              "nome": "AGRITURISMO COCCOVELLO FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/8hbt5jmmgszz3tmbl8hjz/AGRITURISMO-COCCOVELLO-FT.pdf?rlkey=adsv6zsmbx1d3txv6hordk20y&dl=0?raw=1",
-              "dimensione_kb": 268,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/AGRITURISMO COCCOVELLO FT.pdf"
-            },
-            {
-              "nome": "ALIMENTARI DEL CORSO FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/4bbm2j894883x9xygjvjm/ALIMENTARI-DEL-CORSO-FT.pdf?rlkey=4zn8mp86giigox9csdefrjw64&dl=0?raw=1",
-              "dimensione_kb": 255,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/ALIMENTARI DEL CORSO FT.pdf"
-            },
-            {
-              "nome": "ARISTARCO FT 2126.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/3menlvq1b8r06umauojgb/ARISTARCO-FT-2126.pdf?rlkey=3m27cop8eclensy959cnbifrx&dl=0?raw=1",
-              "dimensione_kb": 278,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/ARISTARCO FT 2126.pdf"
-            },
-            {
-              "nome": "ARISTARCO FT 22967.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/q94h11xx6uuwwplu1e62y/ARISTARCO-FT-22967.pdf?rlkey=y4aj7hztyquhc8b3e035rf4r2&dl=0?raw=1",
-              "dimensione_kb": 46,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/ARISTARCO FT 22967.pdf"
-            },
-            {
-              "nome": "BAR SMILE FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/lauumxz11x6vkoz05w15e/BAR-SMILE-FT.pdf?rlkey=vvm6uw9q9ynb7425zvn2g4v7h&dl=0?raw=1",
-              "dimensione_kb": 246,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/BAR SMILE FT.pdf"
-            },
-            {
-              "nome": "BCC CLIENTE ASSEGNI 2021.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hft4mf392q5g2nz1hjwy6/BCC-CLIENTE-ASSEGNI-2021.pdf?rlkey=9m750ol0rva4iph551cik9134&dl=0?raw=1",
-              "dimensione_kb": 31,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/BCC CLIENTE ASSEGNI 2021.pdf"
-            },
-            {
-              "nome": "BCC FORNITORI ASSEGNI 2021.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/7v9sinz7rud6r66juys6b/BCC-FORNITORI-ASSEGNI-2021.pdf?rlkey=dyt5xb3aert23pjrny1btpcmk&dl=0?raw=1",
-              "dimensione_kb": 29,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/BCC FORNITORI ASSEGNI 2021.pdf"
-            },
-            {
-              "nome": "CALA DEL CITRO FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/prbda5ek9dmtwnzvx4dj1/CALA-DEL-CITRO-FT.pdf?rlkey=4a1jpy4spch91sag4dp6u66vc&dl=0?raw=1",
-              "dimensione_kb": 597,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/CALA DEL CITRO FT.pdf"
-            },
-            {
-              "nome": "FA TU FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/547a1me0tpojotbwoiga0/FA-TU-FT.pdf?rlkey=yhwtcrotrn0z9mdmrmvrdog9f&dl=0?raw=1",
-              "dimensione_kb": 238,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/FA TU FT.pdf"
-            },
-            {
-              "nome": "FAC FT 1390.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/a8hn1gfgizcb1hj1iyk1l/FAC-FT-1390.pdf?rlkey=yffv6f9ghljdu6dk2ewpeg6gn&dl=0?raw=1",
-              "dimensione_kb": 225,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/FAC FT 1390.pdf"
-            },
-            {
-              "nome": "FIORE MARIA DOMENICA FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/28yagg2v87lc8oxvonanf/FIORE-MARIA-DOMENICA-FT.pdf?rlkey=65qhuy7j8jxj4kgutnnuendx2&dl=0?raw=1",
-              "dimensione_kb": 523,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/FIORE MARIA DOMENICA FT.pdf"
-            },
-            {
-              "nome": "FRIGOMECCANICA FT 1798.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/29zq3lt0iz33dqt4wyexz/FRIGOMECCANICA-FT-1798.pdf?rlkey=tzrtysw6pnj4zsuqkmzipbqo6&dl=0?raw=1",
-              "dimensione_kb": 292,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/FRIGOMECCANICA FT 1798.pdf"
-            },
-            {
-              "nome": "FT_ACQUISTI.zip",
-              "tipo": "Archivio",
-              "icona": "🗜️",
-              "link": "https://www.dropbox.com/scl/fi/tsr66by40v08sl5gaykly/FT_ACQUISTI.zip?rlkey=7afdk7mo5fd4l3edn2x9gx4e3&dl=0?raw=1",
-              "dimensione_kb": 882,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/FT_ACQUISTI.zip"
-            },
-            {
-              "nome": "FT_VENDITA.zip",
-              "tipo": "Archivio",
-              "icona": "🗜️",
-              "link": "https://www.dropbox.com/scl/fi/3qcm4wc3zc8wp194k0jh2/FT_VENDITA.zip?rlkey=x610gnhytpxhf2h822noogm1h&dl=0?raw=1",
-              "dimensione_kb": 1620,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/FT_VENDITA.zip"
-            },
-            {
-              "nome": "GIOIA SRL FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/v8bn0kuovne0qpnu0h05z/GIOIA-SRL-FT.pdf?rlkey=ia5x2dw8t20abtyyfs7a0pcmr&dl=0?raw=1",
-              "dimensione_kb": 665,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/GIOIA SRL FT.pdf"
-            },
-            {
-              "nome": "GRAN SOLE FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/75m6atl9w71fmklie1tdf/GRAN-SOLE-FT.pdf?rlkey=ths9vzrsojntgipq7f48qdiu6&dl=0?raw=1",
-              "dimensione_kb": 314,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/GRAN SOLE FT.pdf"
-            },
-            {
-              "nome": "H.END FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/5egla9w86uez0rawvfqs5/H.END-FT.pdf?rlkey=8cxoa2l60kaln8c547xpztaji&dl=0?raw=1",
-              "dimensione_kb": 206,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/H.END FT.pdf"
-            },
-            {
-              "nome": "H2A FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/4g7zfhdsyd8d614qtvvv9/H2A-FT.pdf?rlkey=gj8ul5hjh2v340xj00q3fjo8a&dl=0?raw=1",
-              "dimensione_kb": 99,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/H2A FT.pdf"
-            },
-            {
-              "nome": "HOTEL RISTORANTE LA TANA FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/wzsd069abg0h4e9sj9x6u/HOTEL-RISTORANTE-LA-TANA-FT.pdf?rlkey=he5gqexveakiq2j06pp3v7cby&dl=0?raw=1",
-              "dimensione_kb": 243,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/HOTEL RISTORANTE LA TANA FT.pdf"
-            },
-            {
-              "nome": "IL LATTONIERE FT 676.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/asuph5159emf3yjz2sric/IL-LATTONIERE-FT-676.pdf?rlkey=6fuqvbjopsyt4mk8c9eatul6o&dl=0?raw=1",
-              "dimensione_kb": 663,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/IL LATTONIERE FT 676.pdf"
-            },
-            {
-              "nome": "IL MORO FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/zti98imbh85jw096jhyxh/IL-MORO-FT.pdf?rlkey=tsgavlr6qh95xtz71js67q4j0&dl=0?raw=1",
-              "dimensione_kb": 655,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/IL MORO FT.pdf"
-            },
-            {
-              "nome": "ILSA FT 2002101429.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/yuw60r487dwe1pw1k8fkk/ILSA-FT-2002101429.pdf?rlkey=xj6jjnwhrygdhe1r1pl0fim69&dl=0?raw=1",
-              "dimensione_kb": 272,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/ILSA FT 2002101429.pdf"
-            },
-            {
-              "nome": "LA PIEDIGROTTA FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/sq3inysyqbbjfkedbq8he/LA-PIEDIGROTTA-FT.pdf?rlkey=nk4a9wzuxq38ltpm8khhbr827&dl=0?raw=1",
-              "dimensione_kb": 380,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/LA PIEDIGROTTA FT.pdf"
-            },
-            {
-              "nome": "Nuovo WinRAR ZIP archive.zip",
-              "tipo": "Archivio",
-              "icona": "🗜️",
-              "link": "https://www.dropbox.com/scl/fi/68pv4pd2nc1ecncy3fcmt/Nuovo-WinRAR-ZIP-archive.zip?rlkey=akh189lk6evbyl2zo1u9uygh7&dl=0?raw=1",
-              "dimensione_kb": 0,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/Nuovo WinRAR ZIP archive.zip"
-            },
-            {
-              "nome": "PASTICCERI GELATERIA TUZIO FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/tl6eypnafo2vqyoy90yp2/PASTICCERI-GELATERIA-TUZIO-FT.pdf?rlkey=oe3lwrws0jiurrhg8fueve9ks&dl=0?raw=1",
-              "dimensione_kb": 629,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/PASTICCERI GELATERIA TUZIO FT.pdf"
-            },
-            {
-              "nome": "PASTICCERIA CILIBERTI FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/wy33xd923d2886ggqsu54/PASTICCERIA-CILIBERTI-FT.pdf?rlkey=hb127hkv375occ5rqj1bthoq7&dl=0?raw=1",
-              "dimensione_kb": 259,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/PASTICCERIA CILIBERTI FT.pdf"
-            },
-            {
-              "nome": "PEPE FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/3yn2adb1s4hejug2rwyjd/PEPE-FT.pdf?rlkey=sgz232qnm7vwzb083y3z6bewy&dl=0?raw=1",
-              "dimensione_kb": 258,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/PEPE FT.pdf"
-            },
-            {
-              "nome": "PERRONE LEGNO FT 383.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/tbbny3t5jnl9r2smdx3q5/PERRONE-LEGNO-FT-383.pdf?rlkey=hjr3ad3lla8wzli4yfg3mmba6&dl=0?raw=1",
-              "dimensione_kb": 186,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/PERRONE LEGNO FT 383.pdf"
-            },
-            {
-              "nome": "PERRONE LEGNO FT 384.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/hzmi2tpwq65aq3ezm4m28/PERRONE-LEGNO-FT-384.pdf?rlkey=846ka3wcvepmjppdq6nm4ys23&dl=0?raw=1",
-              "dimensione_kb": 186,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/PERRONE LEGNO FT 384.pdf"
-            },
-            {
-              "nome": "PREZIOSO SRL FT.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/sqb5bqdvxyt7nf44aaux1/PREZIOSO-SRL-FT.pdf?rlkey=4cf987q3x1kzc83l0ryvkiuxr&dl=0?raw=1",
-              "dimensione_kb": 277,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/PREZIOSO SRL FT.pdf"
-            },
-            {
-              "nome": "PRIOLINOX FT 1095.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/aee5jcplglgnijthetda4/PRIOLINOX-FT-1095.pdf?rlkey=lrr4jqcqnr7km6lynbghlpd4y&dl=0?raw=1",
-              "dimensione_kb": 551,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/PRIOLINOX FT 1095.pdf"
-            },
-            {
-              "nome": "TECNODOM FT 3550.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/0vykgvrxw02lvi7kd5xrl/TECNODOM-FT-3550.pdf?rlkey=bjsx1a8m0wtir3livfpk9ymyw&dl=0?raw=1",
-              "dimensione_kb": 396,
-              "path": "/HUB DOCUMENTALE/FORNITORI/BCC/TECNODOM FT 3550.pdf"
-            }
-          ],
-          "_totale_file": 32
-        },
-        {
           "nome": "BCC Rent&Lease S.p.A",
           "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A",
           "cartelle": [],
@@ -167262,6 +166998,14 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A/Estrattoconto.pdf"
             },
             {
+              "nome": "Lettera di avviso scadenza_330634_255_19112026.PDF",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/66ab4pgp07mhdwodop1m8/Lettera-di-avviso-scadenza_330634_255_19112026.PDF?rlkey=brjs2ybztu9v07vijtn3xgp2k&dl=0?raw=1",
+              "dimensione_kb": 82,
+              "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A/Lettera di avviso scadenza_330634_255_19112026.PDF"
+            },
+            {
               "nome": "MODULAR 300807_16537_ANTIRIC-signed.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -167310,7 +167054,7 @@
               "path": "/HUB DOCUMENTALE/FORNITORI/BCC Rent&Lease S.p.A/PianoFinanziario.pdf"
             }
           ],
-          "_totale_file": 15
+          "_totale_file": 16
         },
         {
           "nome": "BECKERS",
@@ -182377,36 +182121,52 @@
                   "path": "/HUB DOCUMENTALE/FORNITORI/FRIULCO/Archivio/FRIULCO Listino pubblico 2019.pdf"
                 },
                 {
+                  "nome": "FRIULCO Listino pubblico 2021.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/gu1hve5bt9ern2egb0eg7/FRIULCO-Listino-pubblico-2021.pdf?rlkey=bspc8iv7wrm8w3p289u5n6xzw&dl=0?raw=1",
+                  "dimensione_kb": 213,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/FRIULCO/Archivio/FRIULCO Listino pubblico 2021.pdf"
+                },
+                {
                   "nome": "FRIULCO Listino rivenditore 2019.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/vhplhcwl5vijyenbx44p3/FRIULCO-Listino-rivenditore-2019.pdf?rlkey=7zpjynsxnfjwipw87mkcd1dl9&dl=0?raw=1",
                   "dimensione_kb": 213,
                   "path": "/HUB DOCUMENTALE/FORNITORI/FRIULCO/Archivio/FRIULCO Listino rivenditore 2019.pdf"
+                },
+                {
+                  "nome": "FRIULCO Listino rivenditore 2021.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bqd4bn6r29mdi927wluvj/FRIULCO-Listino-rivenditore-2021.pdf?rlkey=fi1i1t2fw7qko5xp6w9s7uuol&dl=0?raw=1",
+                  "dimensione_kb": 218,
+                  "path": "/HUB DOCUMENTALE/FORNITORI/FRIULCO/Archivio/FRIULCO Listino rivenditore 2021.pdf"
                 }
               ],
-              "_totale_file": 2
+              "_totale_file": 4
             }
           ],
           "file": [
             {
-              "nome": "FRIULCO Listino pubblico 2021.pdf",
+              "nome": "100.FRIULCO Listino pubblico 2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/gu1hve5bt9ern2egb0eg7/FRIULCO-Listino-pubblico-2021.pdf?rlkey=bspc8iv7wrm8w3p289u5n6xzw&dl=0?raw=1",
-              "dimensione_kb": 213,
-              "path": "/HUB DOCUMENTALE/FORNITORI/FRIULCO/FRIULCO Listino pubblico 2021.pdf"
+              "link": "https://www.dropbox.com/scl/fi/4eb1lyqhx7mf6jtfnf8hw/100.FRIULCO-Listino-pubblico-2026.pdf?rlkey=a088cdf7ccveka15vhr1mc1m9&dl=0?raw=1",
+              "dimensione_kb": 247,
+              "path": "/HUB DOCUMENTALE/FORNITORI/FRIULCO/100.FRIULCO Listino pubblico 2026.pdf"
             },
             {
-              "nome": "FRIULCO Listino rivenditore 2021.pdf",
+              "nome": "100.FRIULCO Listino rivenditore 2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/bqd4bn6r29mdi927wluvj/FRIULCO-Listino-rivenditore-2021.pdf?rlkey=fi1i1t2fw7qko5xp6w9s7uuol&dl=0?raw=1",
-              "dimensione_kb": 218,
-              "path": "/HUB DOCUMENTALE/FORNITORI/FRIULCO/FRIULCO Listino rivenditore 2021.pdf"
+              "link": "https://www.dropbox.com/scl/fi/hph8ypov9h7dpjiohjcpw/100.FRIULCO-Listino-rivenditore-2026.pdf?rlkey=sur0ebgl07wlrv87b8le7c03s&dl=0?raw=1",
+              "dimensione_kb": 253,
+              "path": "/HUB DOCUMENTALE/FORNITORI/FRIULCO/100.FRIULCO Listino rivenditore 2026.pdf"
             }
           ],
-          "_totale_file": 4
+          "_totale_file": 6
         },
         {
           "nome": "FRIULINOX",
