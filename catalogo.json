@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-20T07:14:55Z",
-  "totale_file": 28850,
+  "generato": "2026-11-20T09:24:19Z",
+  "totale_file": 28852,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -206198,7 +206198,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5336,
+      "totale_file": 5338,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -250919,7 +250919,7 @@
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/dmfrgkrg8832ok4ez2l7y/ACCIAIO-T-D-CONFERMA-OFFVE-004613-2026-RIF.BELLAVISTA.pdf?rlkey=l7ah3b0tbxrxi984lh9tr01hx&dl=0?raw=1",
-              "dimensione_kb": 676,
+              "dimensione_kb": 687,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-004613-2026 RIF.BELLAVISTA.pdf"
             },
             {
@@ -251099,6 +251099,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR CONFERMA ORDINE 8804W DEL 22_10_2026.pdf"
             },
             {
+              "nome": "FIMAR RICEVUTA RACCOMANDATA DEL 18_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/629j274gw4f25fn5mj6l3/FIMAR-RICEVUTA-RACCOMANDATA-DEL-18_11_2026.pdf?rlkey=y51nctboykk7epc1rpf9rgrim&dl=0?raw=1",
+              "dimensione_kb": 431,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR RICEVUTA RACCOMANDATA DEL 18_11_2026.pdf"
+            },
+            {
               "nome": "KAREL CONFERMA D'ORDINE 202626007351I201026 RIF.LFS GROUP SRL.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -251113,6 +251121,14 @@
               "link": "https://www.dropbox.com/scl/fi/bpwxqsicfdqx6nfa5c5mr/MODULAR-CONFERMA-26_09246_rev-RIF.LA-PASTAFROLLA.pdf?rlkey=s0zh3ktgb9ry2vmy1vl9uld4u&dl=0?raw=1",
               "dimensione_kb": 140,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA 26_09246_rev RIF.LA PASTAFROLLA.pdf"
+            },
+            {
+              "nome": "MODULAR CONFERMA 26_09255 RIF. AI CARCONI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/f991u9pxczoacrwoqjlfh/MODULAR-CONFERMA-26_09255-RIF.-AI-CARCONI.pdf?rlkey=h6cftw2l3xnxqddp5zmpyhm45&dl=0?raw=1",
+              "dimensione_kb": 144,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA 26_09255 RIF. AI CARCONI.pdf"
             },
             {
               "nome": "MODULAR CONFERMA OFFERTA 26_03174 MODIFICATA.pdf",
@@ -251211,7 +251227,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3893
+          "_totale_file": 3895
         }
       ],
       "file": []
