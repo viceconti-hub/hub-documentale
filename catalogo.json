@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-21T03:27:00Z",
-  "totale_file": 28852,
+  "generato": "2026-11-21T06:54:36Z",
+  "totale_file": 28857,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 8016,
+      "totale_file": 8021,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -3528,6 +3528,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA TANA GROUP SRL Consegna_260948_20261029_123154 RIF. MACCHINA SOTTOVUOTO E MIXER AD IMMERSIONE Basato su Offerte di vendita 260490..pdf"
             },
             {
+              "nome": "LA.MA. SRLCR Consegna_261008_20261119_175645 RIF. ASSISTENZA SU FRIGGITRICE FIMAR RIPARAZIONE TESTA RESISTENZA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/69amlrqtrwbwhivyw7k4n/LA.MA.-SRLCR-Consegna_261008_20261119_175645-RIF.-ASSISTENZA-SU-FRIGGITRICE-FIMAR-RIPARAZIONE-TESTA-RESISTENZA.pdf?rlkey=3crnjohj3i59xjdhq3r9q6l8o&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/LA.MA. SRLCR Consegna_261008_20261119_175645 RIF. ASSISTENZA SU FRIGGITRICE FIMAR RIPARAZIONE TESTA RESISTENZA.pdf"
+            },
+            {
               "nome": "LACAVA VINCENZO SOCIETA' A RESPONSABILITA' LIMITATA BAR SMILE Consegna_260445_20260623_091055 RIF. DETERGENTE LAVABICCHIERI Basato su Ordini cliente 260225..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -6072,6 +6080,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/YOU MARINA S.R.L. Consegna_260918_20261021_165237 RIF. VENTILATORE E COMANDO ELETTRONICO Basato su Offerte di vendita 260255. Basato.pdf"
             },
             {
+              "nome": "ZACCAGNINO RISTORAZIONE SRL A S.U Consegna_261009_20261120_111544 RIF. DETERGENTE COFFEE CLEAN 900 gr Basato su Ordini cliente 260565..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/0lbp9fhhx5kdcfqknv84r/ZACCAGNINO-RISTORAZIONE-SRL-A-S.U-Consegna_261009_20261120_111544-RIF.-DETERGENTE-COFFEE-CLEAN-900-gr-Basato-su-Ordini-cliente-260565..pdf?rlkey=tn45tm12i2twov3s1j8wvbov7&dl=0?raw=1",
+              "dimensione_kb": 51,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZACCAGNINO RISTORAZIONE SRL A S.U Consegna_261009_20261120_111544 RIF. DETERGENTE COFFEE CLEAN 900 gr Basato su Ordini cliente 260565..pdf"
+            },
+            {
               "nome": "ZANI STEFANO Consegna_260551_20260708_110711 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 26026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -6112,7 +6128,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 762
+          "_totale_file": 764
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -10472,6 +10488,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600196_20260901_113124 RIF. FILTRI E MOLLE PER MACCHINA DA CAFFE' Basato su Consegne 260219..pdf"
             },
             {
+              "nome": "ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600591_20261120_111557 RIF. DETERGENTE COFFEE CLEAN 900 gr Basato su Ordini cliente 260565. Basato su.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/dr0jqylzs2bnwr7p5aj0v/ZACCAGNINO-RISTORAZIONE-SRL-A-S.U-Fattura-di-vendita_2600591_20261120_111557-RIF.-DETERGENTE-COFFEE-CLEAN-900-gr-Basato-su-Ordini-cliente-260565.-Basato-su.pdf?rlkey=p8qe5518u1er3yhdq0i16bq89&dl=0?raw=1",
+              "dimensione_kb": 59,
+              "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZACCAGNINO RISTORAZIONE SRL A S.U Fattura di vendita_2600591_20261120_111557 RIF. DETERGENTE COFFEE CLEAN 900 gr Basato su Ordini cliente 260565. Basato su.pdf"
+            },
+            {
               "nome": "ZANI STEFANO Fattura di vendita_2600463_20260831_203815 RIF. GUIDE E GRIGLIA PER ARMADIO COLDLINE Basato su Ordini cliente 260288. Basato su.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -10488,7 +10512,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/FATTURE DI VENDITA PDF/ZANI STEFANO Fattura di vendita_2600471_20260909_193433 RIF. COPPIA GUIDE ARMADIO COLDLINE Basato su Ordini cliente 260260. Basato su.pdf"
             }
           ],
-          "_totale_file": 546
+          "_totale_file": 547
         },
         {
           "nome": "FATTURE DI VENDITA XML",
@@ -17687,7 +17711,7 @@
                   "nome": "OFFERTA_260522_PERRETTA.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": null,
+                  "link": "https://www.dropbox.com/scl/fi/adqfj7zxjm3q2ihnbyi1s/OFFERTA_260522_PERRETTA.pdf?rlkey=6mq2jal8roko33whiv2q84a41&dl=0?raw=1",
                   "dimensione_kb": 57,
                   "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA WORKSPACE/2026_11_05 PERRETTA SERVICE DI IMMACOLATO EGIDIO BATTERIA EVAPORANTE COLDLINE RISORSE/OFFERTA_260522_PERRETTA.pdf"
                 },
@@ -79116,6 +79140,22 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/YOU MARINA S.R.L. Ordine cliente_260520_20261021_165143 RIF. Basato su Offerte di vendita 260255..pdf"
             },
             {
+              "nome": "ZACCAGNINO RISTORAZIONE SRL A S.U Ordine cliente_260565_20261120_111530 RIF. DETERGENTE COFFEE CLEAN 900 gr.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/he07okkgqqz5axdp89hww/ZACCAGNINO-RISTORAZIONE-SRL-A-S.U-Ordine-cliente_260565_20261120_111530-RIF.-DETERGENTE-COFFEE-CLEAN-900-gr.pdf?rlkey=dtjflm4du6vo73nnm67udbdf5&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZACCAGNINO RISTORAZIONE SRL A S.U Ordine cliente_260565_20261120_111530 RIF. DETERGENTE COFFEE CLEAN 900 gr.pdf"
+            },
+            {
+              "nome": "ZACCAGNINO RISTORAZIONE SRL A S.U Ordine cliente_260566_20261120_112808 RIF. DETERGENTE COFFEE CLEAN 900 gr.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/sl4dh1yg3obwzrt210ggo/ZACCAGNINO-RISTORAZIONE-SRL-A-S.U-Ordine-cliente_260566_20261120_112808-RIF.-DETERGENTE-COFFEE-CLEAN-900-gr.pdf?rlkey=e2bdw2boy6xqqr6a470j96x2n&dl=0?raw=1",
+              "dimensione_kb": 63,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZACCAGNINO RISTORAZIONE SRL A S.U Ordine cliente_260566_20261120_112808 RIF. DETERGENTE COFFEE CLEAN 900 gr.pdf"
+            },
+            {
               "nome": "ZANI STEFANO Ordine cliente_260260_20260708_110543 RIF. COPPIA GUIDE ARMADIO COLDLINE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -79140,7 +79180,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZM RIPARAZIONI DI ZACCARA MARIO Ordine cliente_260498_20261009_123654 RIF. MACINE CONICHE X MC99CONIK.pdf"
             }
           ],
-          "_totale_file": 426
+          "_totale_file": 428
         }
       ],
       "file": [
