@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-21T06:54:36Z",
-  "totale_file": 28857,
+  "generato": "2026-11-21T08:59:15Z",
+  "totale_file": 28859,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -206238,7 +206238,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5338,
+      "totale_file": 5340,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -250979,12 +250979,28 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-003496-2026 RIF.AI CARCONI.pdf"
             },
             {
+              "nome": "ACCIAIO T&D CONFERMA ORDVE-003571-2026 RIF. LA PASTAFROLLA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/y0xdf5sftekm6al76ealq/ACCIAIO-T-D-CONFERMA-ORDVE-003571-2026-RIF.-LA-PASTAFROLLA.pdf?rlkey=ac1tejfgcw4k3kee2wbzax1by&dl=0?raw=1",
+              "dimensione_kb": 742,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA ORDVE-003571-2026 RIF. LA PASTAFROLLA.pdf"
+            },
+            {
               "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260301_20261117_091338 RIF. BELLAVISTA Basato su Ordini cliente 260551..pdf",
               "tipo": "PDF",
               "icona": "📄",
               "link": "https://www.dropbox.com/scl/fi/9fy65ykl0hmflvs8zy1ma/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260301_20261117_091338-RIF.-BELLAVISTA-Basato-su-Ordini-cliente-260551..pdf?rlkey=osgql0vid34oye3t787sdr3xr&dl=0?raw=1",
               "dimensione_kb": 67,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260301_20261117_091338 RIF. BELLAVISTA Basato su Ordini cliente 260551..pdf"
+            },
+            {
+              "nome": "ACCIAIO T. & D. SRL Ordine dacquisto_260304_20261120_115401 RIF. LA PASTAFROLLA srl Basato su Ordini cliente 260561..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ljf7re35jfn40g1pgn84p/ACCIAIO-T.-D.-SRL-Ordine-dacquisto_260304_20261120_115401-RIF.-LA-PASTAFROLLA-srl-Basato-su-Ordini-cliente-260561..pdf?rlkey=3lyhul81dkxt5uag328z9rj2v&dl=0?raw=1",
+              "dimensione_kb": 66,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T. & D. SRL Ordine dacquisto_260304_20261120_115401 RIF. LA PASTAFROLLA srl Basato su Ordini cliente 260561..pdf"
             },
             {
               "nome": "ARISTARCO CONFERMA ORDINE ORV_2588798_2026_1_11146_21102026 RIF.CAMPOLEROSE_CARCONI_BELLAVISTA_NERA.PDF",
@@ -251267,7 +251283,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3895
+          "_totale_file": 3897
         }
       ],
       "file": []
