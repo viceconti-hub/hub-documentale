@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-21T10:14:53Z",
-  "totale_file": 28859,
+  "generato": "2026-11-22T01:28:23Z",
+  "totale_file": 28860,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -83808,7 +83808,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7951,
+      "totale_file": 7952,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -88860,6 +88860,14 @@
                   "cartelle": [],
                   "file": [
                     {
+                      "nome": "LABABICCHIERI ARISTARCO MOD.AF 40.30E LS PRS DD TF MATRICOLA 50620118 ESPLOSO RICAMBI.PDF",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/593xayxiyuqfagxn0hxiz/LABABICCHIERI-ARISTARCO-MOD.AF-40.30E-LS-PRS-DD-TF-MATRICOLA-50620118-ESPLOSO-RICAMBI.PDF?rlkey=dqu1ploe0dhpm42aoulk8gh13&dl=0?raw=1",
+                      "dimensione_kb": 2704,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/RATTU PENUGU GmbH PIETRO CATANESE/RATTU PENUGU GmbH PIETRO CATANESE AREA TECNICA/LABABICCHIERI ARISTARCO MOD.AF 40.30E LS PRS DD TF MATRICOLA 50620118 ESPLOSO RICAMBI.PDF"
+                    },
+                    {
                       "nome": "RATTUR PENUGU DDT ARISTARCO DDV_2192263_2025_1_1466_28022025 DATI MACCHINA.PDF",
                       "tipo": "PDF",
                       "icona": "📄",
@@ -88868,7 +88876,7 @@
                       "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/RATTU PENUGU GmbH PIETRO CATANESE/RATTU PENUGU GmbH PIETRO CATANESE AREA TECNICA/RATTUR PENUGU DDT ARISTARCO DDV_2192263_2025_1_1466_28022025 DATI MACCHINA.PDF"
                     }
                   ],
-                  "_totale_file": 1
+                  "_totale_file": 2
                 }
               ],
               "file": [
@@ -88881,7 +88889,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/RATTU PENUGU GmbH PIETRO CATANESE/_CLIENTE CO52607 RATTU PENUGU GmbH PIETRO CATANESE.txt"
                 }
               ],
-              "_totale_file": 2
+              "_totale_file": 3
             },
             {
               "nome": "ROBERTO GERMANIA",
@@ -89559,7 +89567,7 @@
               "path": "/HUB DOCUMENTALE/CLIENTI/CLIENTI WEB/VILLAGE SRLS Dettaglio bonifico DEL 02_07_2026.pdf"
             }
           ],
-          "_totale_file": 312
+          "_totale_file": 313
         },
         {
           "nome": "COSENZA",
@@ -129043,7 +129051,7 @@
                       "nome": "FATTURA 2600588 DEL 2026_11_17.pdf",
                       "tipo": "PDF",
                       "icona": "📄",
-                      "link": null,
+                      "link": "https://www.dropbox.com/scl/fi/r9s0l5us2qhuj1pjjvjiv/FATTURA-2600588-DEL-2026_11_17.pdf?rlkey=pvqrqprr61t3zrzzk2skgw1am&dl=0?raw=1",
                       "dimensione_kb": 60,
                       "path": "/HUB DOCUMENTALE/CLIENTI/NEMOLI/GRAN SOLE/SITUAZIONE CONTABILE AL 2026_11_17/FATTURA 2600588 DEL 2026_11_17.pdf"
                     },
