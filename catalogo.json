@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-24T07:10:35Z",
-  "totale_file": 28866,
+  "generato": "2026-11-24T09:21:59Z",
+  "totale_file": 28881,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -206302,7 +206302,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5340,
+      "totale_file": 5355,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -208423,6 +208423,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARRIS CATERING EQUIPMENT SRL_26112621_2026-07-29.xml"
             },
             {
+              "nome": "ARRIS CATERING EQUIPMENT SRL_26118321_2026-11-17.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/9302hs0cz8v9jswpvodh6/ARRIS-CATERING-EQUIPMENT-SRL_26118321_2026-11-17.xml?rlkey=bmf7bk5jxpipad6gia70ny5l9&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARRIS CATERING EQUIPMENT SRL_26118321_2026-11-17.xml"
+            },
+            {
               "nome": "ARTINOX  S.P.A_1071_2026-04-21.xml",
               "tipo": "File",
               "icona": "📎",
@@ -208685,6 +208693,14 @@
               "link": "https://www.dropbox.com/scl/fi/umwfjv6qoacfddzd3t2kd/ARVAL-SERVICE-LEASE-ITALIA-SPA_FC0014685617_2026-10-12.xml?rlkey=02pe76d3z75p9e2fonjx6sv7q&dl=0?raw=1",
               "dimensione_kb": 5,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARVAL SERVICE LEASE ITALIA SPA_FC0014685617_2026-10-12.xml"
+            },
+            {
+              "nome": "ARVAL SERVICE LEASE ITALIA SPA_FC0014892327_2026-11-11.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/qvws9qvbwzja0uonwobqj/ARVAL-SERVICE-LEASE-ITALIA-SPA_FC0014892327_2026-11-11.xml?rlkey=rh88xz4ai452b2xlmgk4qchc2&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ARVAL SERVICE LEASE ITALIA SPA_FC0014892327_2026-11-11.xml"
             },
             {
               "nome": "ARVAL SERVICE LEASE ITALIA SPA_FD0011597967_2025-03-12.xml",
@@ -209455,6 +209471,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BPER Banca S.p.A_05387-4161418826-76_2025-10-02.xml"
             },
             {
+              "nome": "BPER Banca S.p.A_05387-4161536067-76_2026-11-03.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/z88v33avofc6igjkb8tr9/BPER-Banca-S.p.A_05387-4161536067-76_2026-11-03.xml?rlkey=joogmwot3pjbzoztau588gxfy&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/BPER Banca S.p.A_05387-4161536067-76_2026-11-03.xml"
+            },
+            {
               "nome": "BPER Banca S.p.A_05387-4161574758-76_2025-11-04.xml",
               "tipo": "File",
               "icona": "📎",
@@ -209919,6 +209943,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/C.T. SERVICE SRLS UNIPERSONALE_0002732025_2025-10-31.xml"
             },
             {
+              "nome": "C.T. SERVICE SRLS UNIPERSONALE_0002742026_2026-10-31.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/mswv1ya1xvsa0k0gg7a1g/C.T.-SERVICE-SRLS-UNIPERSONALE_0002742026_2026-10-31.xml?rlkey=bjupew32bb9jykux0k1t9rqk7&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/C.T. SERVICE SRLS UNIPERSONALE_0002742026_2026-10-31.xml"
+            },
+            {
               "nome": "C.T. SERVICE SRLS UNIPERSONALE_0003242025_2025-12-31.xml",
               "tipo": "File",
               "icona": "📎",
@@ -210311,6 +210343,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/COLD LINE S.r.L_006292E_2025-11-26.xml"
             },
             {
+              "nome": "COLD LINE S.r.L_006436E_2026-11-18.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/n0vawixua3j62gpch2wvr/COLD-LINE-S.r.L_006436E_2026-11-18.xml?rlkey=64wcaq6dhapo0y2vqtloudq5l&dl=0?raw=1",
+              "dimensione_kb": 7,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/COLD LINE S.r.L_006436E_2026-11-18.xml"
+            },
+            {
               "nome": "COLD LINE S.r.L_006753E_2025-12-10.xml",
               "tipo": "File",
               "icona": "📎",
@@ -210389,6 +210429,14 @@
               "link": "https://www.dropbox.com/scl/fi/ox1xtrpehj4p8erfh304r/COMENDA-ALI-GROUP-SRL_2026-VIC-0263405_2026-08-27.xml?rlkey=fydmal4zngfpdyj24oum3vyvb&dl=0?raw=1",
               "dimensione_kb": 6,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/COMENDA ALI GROUP SRL_2026-VIC-0263405_2026-08-27.xml"
+            },
+            {
+              "nome": "COMENDA ALI GROUP SRL_2026-VIC-0264534_2026-11-16.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/vsvdqmtgnsul949z64axo/COMENDA-ALI-GROUP-SRL_2026-VIC-0264534_2026-11-16.xml?rlkey=dx2ah60sk3vnktnnilswzayac&dl=0?raw=1",
+              "dimensione_kb": 33,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/COMENDA ALI GROUP SRL_2026-VIC-0264534_2026-11-16.xml"
             },
             {
               "nome": "COMPASS BANCA SPA_C1AV20012658_2025-02-28.xml",
@@ -211093,6 +211141,14 @@
               "link": "https://www.dropbox.com/scl/fi/oro3sgx7tvyvy1g3aetv0/DINI-ARGEO-SRL_62400_2025-02-18.xml?rlkey=avpr7znweeiof8i18kbvtwdib&dl=0?raw=1",
               "dimensione_kb": 147,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/DINI ARGEO SRL_62400_2025-02-18.xml"
+            },
+            {
+              "nome": "DK Srls Detergenza Professionale_995M_2026-11-12.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/qu7c322p5xu7aosrx2b58/DK-Srls-Detergenza-Professionale_995M_2026-11-12.xml?rlkey=vogfirsv8ezev11z6a14uvh0c&dl=0?raw=1",
+              "dimensione_kb": 4,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/DK Srls Detergenza Professionale_995M_2026-11-12.xml"
             },
             {
               "nome": "DM COMMERCIALE S.R.L_1219_2026-05-22.xml",
@@ -212783,6 +212839,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Grenke Italia S.p.A_00008979772026_2026-10-24.xml"
             },
             {
+              "nome": "Grenke Italia S.p.A_00009204112026_2026-11-17.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/m5m5u9w8mf2j0nq3lq33j/Grenke-Italia-S.p.A_00009204112026_2026-11-17.xml?rlkey=alim41o6hc10of0s8z0jzs8r1&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Grenke Italia S.p.A_00009204112026_2026-11-17.xml"
+            },
+            {
               "nome": "Grenke Italia S.p.A_00009848152025_2025-12-17.xml",
               "tipo": "File",
               "icona": "📎",
@@ -213319,6 +213383,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/KAREL SRL A SOCIO UNICO_1004276_2026-08-07.xml"
             },
             {
+              "nome": "KAREL SRL A SOCIO UNICO_1005625_2026-11-06.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/x635a033odc1lkm089rv7/KAREL-SRL-A-SOCIO-UNICO_1005625_2026-11-06.xml?rlkey=t3qnpqdk4up2eo6k3k2wwj9n1&dl=0?raw=1",
+              "dimensione_kb": 6,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/KAREL SRL A SOCIO UNICO_1005625_2026-11-06.xml"
+            },
+            {
               "nome": "KAREL SRL_1004181_2025-07-25.xml",
               "tipo": "File",
               "icona": "📎",
@@ -213741,6 +213813,14 @@
               "link": "https://www.dropbox.com/scl/fi/nrr6syoi2ezxewc1a650l/MORANO-GROUP-S.R.L_11173_2025-09-30.xml?rlkey=a3wphb95h02mutgitiap4vfgn&dl=0?raw=1",
               "dimensione_kb": 5,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/MORANO GROUP S.R.L_11173_2025-09-30.xml"
+            },
+            {
+              "nome": "MORANO GROUP S.R.L_11303_2026-10-31.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/xdxjczwrdorb2agxb9xv2/MORANO-GROUP-S.R.L_11303_2026-10-31.xml?rlkey=0pc7weyvagyi9hua93plvqtcj&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/MORANO GROUP S.R.L_11303_2026-10-31.xml"
             },
             {
               "nome": "MORANO GROUP S.R.L_11489_2025-11-30.xml",
@@ -214597,6 +214677,14 @@
               "link": "https://www.dropbox.com/scl/fi/xi2yxf4se0jc40s6v0n8l/Over-Costruzioni-S.r.l_14452025_2025-11-28.xml?rlkey=lyxr4vsg1ordk1zl4x7qh8c3x&dl=0?raw=1",
               "dimensione_kb": 5,
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Over Costruzioni S.r.l_14452025_2025-11-28.xml"
+            },
+            {
+              "nome": "Over Costruzioni S.r.l_14822026_2026-11-11.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/jxfuxn9oz7rzjzg2c5ce6/Over-Costruzioni-S.r.l_14822026_2026-11-11.xml?rlkey=dyru3um0i0csiv7uw26d7xxd0&dl=0?raw=1",
+              "dimensione_kb": 5,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/Over Costruzioni S.r.l_14822026_2026-11-11.xml"
             },
             {
               "nome": "Over Costruzioni S.r.l_2492026_2026-03-10.xml",
@@ -217759,6 +217847,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ZINCO GROUP Srl_2026  1272A_2026-10-02.xml"
             },
             {
+              "nome": "ZINCO GROUP Srl_2026  1535A_2026-11-02.xml",
+              "tipo": "File",
+              "icona": "📎",
+              "link": "https://www.dropbox.com/scl/fi/tf9crwrofuuusen9hdir7/ZINCO-GROUP-Srl_2026-1535A_2026-11-02.xml?rlkey=08his1nauvjao94qj8rljfofk&dl=0?raw=1",
+              "dimensione_kb": 879,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/ZINCO GROUP Srl_2026  1535A_2026-11-02.xml"
+            },
+            {
               "nome": "caviola VALERIO_FPR 10526_2026-10-06.xml",
               "tipo": "File",
               "icona": "📎",
@@ -217799,7 +217895,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/FATTURE DA FORNITORE XML/iMatteo di Bruno Matteo_79_2025-03-25.xml"
             }
           ],
-          "_totale_file": 1236
+          "_totale_file": 1248
         },
         {
           "nome": "LOGISTICA",
@@ -247590,12 +247686,44 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260221_20260909_115026 RIF. Basato su Ordini cliente 260442..pdf"
                 },
                 {
+                  "nome": "COLD LINE srl Ordine dacquisto_260296_20261116_095512 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qwnfq2ks6s4jsuaclj4y5/COLD-LINE-srl-Ordine-dacquisto_260296_20261116_095512-RIF.-AI-CARCONI-Basato-su-Ordini-cliente-260541..pdf?rlkey=xri04uw79gyccs3oo17ali0pg&dl=0?raw=1",
+                  "dimensione_kb": 67,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260296_20261116_095512 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf"
+                },
+                {
+                  "nome": "COLD LINE srl Ordine dacquisto_260306_20261123_101308 RIF. COPPIA GUIDE E GRIGLIE PER TAVOLI COLDLINE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/3qxfly1gn9xbmcd09pub4/COLD-LINE-srl-Ordine-dacquisto_260306_20261123_101308-RIF.-COPPIA-GUIDE-E-GRIGLIE-PER-TAVOLI-COLDLINE.pdf?rlkey=q43z9tyr0qzitkhdcmmhbaqo8&dl=0?raw=1",
+                  "dimensione_kb": 65,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260306_20261123_101308 RIF. COPPIA GUIDE E GRIGLIE PER TAVOLI COLDLINE.pdf"
+                },
+                {
+                  "nome": "COLDLINE CONFERMA ORDINE 26-19543 DEL 09_11_2026.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/qqzahsuauvfmxhpr9gfeg/COLDLINE-CONFERMA-ORDINE-26-19543-DEL-09_11_2026.pdf?rlkey=zn57tcff0e05ccvce6ohgmbpe&dl=0?raw=1",
+                  "dimensione_kb": 87,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLDLINE CONFERMA ORDINE 26-19543 DEL 09_11_2026.pdf"
+                },
+                {
                   "nome": "COLDLINE CONFERMA Offerta 9952 RIF.MAMA MIA RICAMBI.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/9vuwsy03l3caresi22bwb/COLDLINE-CONFERMA-Offerta-9952-RIF.MAMA-MIA-RICAMBI.pdf?rlkey=gtnozyn0aghxphabrffibtm90&dl=0?raw=1",
                   "dimensione_kb": 165,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLDLINE CONFERMA Offerta 9952 RIF.MAMA MIA RICAMBI.pdf"
+                },
+                {
+                  "nome": "COLDLINE CONFERMA Offerta nr. 12231 RIF.PERRETTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/a1qwfa1zpti9iwmmlk18x/COLDLINE-CONFERMA-Offerta-nr.-12231-RIF.PERRETTA.pdf?rlkey=aavxahp1lm0x58ca80cnfzl96&dl=0?raw=1",
+                  "dimensione_kb": 125,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLDLINE CONFERMA Offerta nr. 12231 RIF.PERRETTA.pdf"
                 },
                 {
                   "nome": "COLDLINE Conferma ordine n°26-13324 RIF.M&M GARANZIA.pdf",
@@ -247606,12 +247734,28 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13324 RIF.M&M GARANZIA.pdf"
                 },
                 {
+                  "nome": "COLDLINE Conferma ordine n°26-13874 RIF.GRIGLIE MAG.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/s7k7dpvz043nfs3l7ai33/COLDLINE-Conferma-ordine-n-26-13874-RIF.GRIGLIE-MAG.pdf?rlkey=pd5w2la50ga3nkvkn945xsj9f&dl=0?raw=1",
+                  "dimensione_kb": 87,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13874 RIF.GRIGLIE MAG.pdf"
+                },
+                {
                   "nome": "COLDLINE Conferma ordine n°26-13986 RIF.RUSTICHELLI+FRIGO E CONGELATORE SMART.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
                   "link": "https://www.dropbox.com/scl/fi/iltefdnv7432ghiz60j8n/COLDLINE-Conferma-ordine-n-26-13986-RIF.RUSTICHELLI-FRIGO-E-CONGELATORE-SMART.pdf?rlkey=xoos1wbili1yzqs1rt6krbxo7&dl=0?raw=1",
                   "dimensione_kb": 77,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13986 RIF.RUSTICHELLI+FRIGO E CONGELATORE SMART.pdf"
+                },
+                {
+                  "nome": "COLDLINE Conferma ordine n°26-13997 RIF.MeM TOP.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xvforx69r9138yziziaat/COLDLINE-Conferma-ordine-n-26-13997-RIF.MeM-TOP.pdf?rlkey=0s6bbl1zxmz0gjlz9rzs6ezzg&dl=0?raw=1",
+                  "dimensione_kb": 79,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13997 RIF.MeM TOP.pdf"
                 },
                 {
                   "nome": "COLDLINE Conferma ordine n°26-15446 RIF.NICHELE MASSIMO WEB.pdf",
@@ -250814,7 +250958,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/unnamed.png"
                 }
               ],
-              "_totale_file": 3834
+              "_totale_file": 3840
             },
             {
               "nome": "GIMAR PREVENTIVI E CONFERME ORDINE",
@@ -251131,46 +251275,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CIMBALI GROUP Conferma Ordine 20023839 del 12_10_2026.pdf"
             },
             {
-              "nome": "COLD LINE srl Ordine dacquisto_260296_20261116_095512 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qwnfq2ks6s4jsuaclj4y5/COLD-LINE-srl-Ordine-dacquisto_260296_20261116_095512-RIF.-AI-CARCONI-Basato-su-Ordini-cliente-260541..pdf?rlkey=xri04uw79gyccs3oo17ali0pg&dl=0?raw=1",
-              "dimensione_kb": 67,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260296_20261116_095512 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf"
-            },
-            {
-              "nome": "COLDLINE CONFERMA ORDINE 26-19543 DEL 09_11_2026.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/qqzahsuauvfmxhpr9gfeg/COLDLINE-CONFERMA-ORDINE-26-19543-DEL-09_11_2026.pdf?rlkey=zn57tcff0e05ccvce6ohgmbpe&dl=0?raw=1",
-              "dimensione_kb": 87,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE CONFERMA ORDINE 26-19543 DEL 09_11_2026.pdf"
-            },
-            {
-              "nome": "COLDLINE CONFERMA Offerta nr. 12231 RIF.PERRETTA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/a1qwfa1zpti9iwmmlk18x/COLDLINE-CONFERMA-Offerta-nr.-12231-RIF.PERRETTA.pdf?rlkey=aavxahp1lm0x58ca80cnfzl96&dl=0?raw=1",
-              "dimensione_kb": 125,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE CONFERMA Offerta nr. 12231 RIF.PERRETTA.pdf"
-            },
-            {
-              "nome": "COLDLINE Conferma ordine n°26-13874 RIF.GRIGLIE MAG.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/s7k7dpvz043nfs3l7ai33/COLDLINE-Conferma-ordine-n-26-13874-RIF.GRIGLIE-MAG.pdf?rlkey=pd5w2la50ga3nkvkn945xsj9f&dl=0?raw=1",
-              "dimensione_kb": 87,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13874 RIF.GRIGLIE MAG.pdf"
-            },
-            {
-              "nome": "COLDLINE Conferma ordine n°26-13997 RIF.MeM TOP.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xvforx69r9138yziziaat/COLDLINE-Conferma-ordine-n-26-13997-RIF.MeM-TOP.pdf?rlkey=0s6bbl1zxmz0gjlz9rzs6ezzg&dl=0?raw=1",
-              "dimensione_kb": 79,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-13997 RIF.MeM TOP.pdf"
-            },
-            {
               "nome": "COLDLINE Conferma ordine n°26-19959 RIF. AI CARCONI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -251185,6 +251289,22 @@
               "link": "https://www.dropbox.com/scl/fi/9mzeq33dxqgy68e9qdpm7/COLDLINE-Conferma-ordine-n-26-20067-RIF.-LA-PASTAFROLLA.pdf?rlkey=iu52rckqyty15bb1h57lzbngg&dl=0?raw=1",
               "dimensione_kb": 88,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-20067 RIF. LA PASTAFROLLA.pdf"
+            },
+            {
+              "nome": "COLDLINE Conferma ordine n°26-20363 RIF. ABBATTITORE W3AG e GRIGLIE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7mbrkj8c3v8ec2c4r4p01/COLDLINE-Conferma-ordine-n-26-20363-RIF.-ABBATTITORE-W3AG-e-GRIGLIE.pdf?rlkey=b65h4o1lix8kq64rexe60vteu&dl=0?raw=1",
+              "dimensione_kb": 95,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-20363 RIF. ABBATTITORE W3AG e GRIGLIE.pdf"
+            },
+            {
+              "nome": "COLDLINE Conferma ordine n°26-20453 RIF.GRIGLIE E GUIDE TAVOLI.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/7saaaxtjs8gbqehirznt0/COLDLINE-Conferma-ordine-n-26-20453-RIF.GRIGLIE-E-GUIDE-TAVOLI.pdf?rlkey=ue8zfyv7u2h0l0d96dmeyve8l&dl=0?raw=1",
+              "dimensione_kb": 87,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLDLINE Conferma ordine n°26-20453 RIF.GRIGLIE E GUIDE TAVOLI.pdf"
             },
             {
               "nome": "COLDLINE ORDINI E TITOLI - collegamento.lnk",
@@ -251347,7 +251467,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3897
+          "_totale_file": 3900
         }
       ],
       "file": []
