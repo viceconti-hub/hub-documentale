@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-24T09:21:59Z",
-  "totale_file": 28881,
+  "generato": "2026-11-24T10:30:03Z",
+  "totale_file": 28882,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -251476,7 +251476,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2495,
+      "totale_file": 2496,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -273608,6 +273608,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/REPA Dettaglio bonifico istantaneo DEL 21_09_2026.pdf"
             },
             {
+              "nome": "REPA Dettaglio bonifico istantaneo DEL 23_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qzrwr6a9fui8mrqw06wid/REPA-Dettaglio-bonifico-istantaneo-DEL-23_11_2026.pdf?rlkey=hhh47ddnadopcxvaj14p9tmr3&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/REPA Dettaglio bonifico istantaneo DEL 23_11_2026.pdf"
+            },
+            {
               "nome": "SALYER BLADES SRL Dettaglio bonifico istantaneo DEL 15_05_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -273816,7 +273824,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2394
+          "_totale_file": 2395
         }
       ],
       "file": []
