@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-25T09:16:03Z",
-  "totale_file": 28901,
+  "generato": "2026-11-25T10:21:41Z",
+  "totale_file": 28902,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -251636,7 +251636,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2496,
+      "totale_file": 2497,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -252318,6 +252318,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARISTARCO RICEVUTA RACCOMANDATA DEL 10_11_2026.pdf"
             },
             {
+              "nome": "ARTINOX COPIA TITOLO INTESA 10_12_2026 2210,27.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/tsl7ikx4fbfrrhbcpa4n6/ARTINOX-COPIA-TITOLO-INTESA-10_12_2026-2210-27.pdf?rlkey=3lsyg85tw7d2g38ka5vfkegoc&dl=0?raw=1",
+              "dimensione_kb": 159,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/ARTINOX COPIA TITOLO INTESA 10_12_2026 2210,27.pdf"
+            },
+            {
               "nome": "BCC LEASE COPIA TITOLO MPS SCADENZA 21_09_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -252486,7 +252494,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/SIRMAN RICEVUTA AR DEL 29_07_2026.pdf"
             }
           ],
-          "_totale_file": 74
+          "_totale_file": 75
         },
         {
           "nome": "PAGAMENTI IN USCITA BONIFICI",
