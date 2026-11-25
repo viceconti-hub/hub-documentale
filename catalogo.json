@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-25T07:06:36Z",
-  "totale_file": 28897,
+  "generato": "2026-11-25T09:16:03Z",
+  "totale_file": 28901,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -206430,7 +206430,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5355,
+      "totale_file": 5359,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -206837,6 +206837,14 @@
               "link": "https://www.dropbox.com/scl/fi/6n4fgvokobfyzgwwgdlmv/COLD-LINE-srl-Entrata-merci-da-fornitore_260266_20261113_165753-RIF.-PERRETTA-SERVICE-Basato-su-Ordini-cliente-260544.-Offerta-Coldline-2612231..pdf?rlkey=ul0kg9ko01qvdzihaugfaz4a0&dl=0?raw=1",
               "dimensione_kb": 55,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260266_20261113_165753 RIF. PERRETTA SERVICE Basato su Ordini cliente 260544. Offerta Coldline 2612231..pdf"
+            },
+            {
+              "nome": "COLD LINE srl Entrata merci da fornitore_260267_20261123_160341 RIF. RICAMBI Basato su Ordini cliente 260459. Rif W5UG SN 022102314 RIF. MAMA MIA.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mqzpyvh5wo5ak5q79u4ly/COLD-LINE-srl-Entrata-merci-da-fornitore_260267_20261123_160341-RIF.-RICAMBI-Basato-su-Ordini-cliente-260459.-Rif-W5UG-SN-022102314-RIF.-MAMA-MIA.pdf?rlkey=47k75zhfcuvt6g8xcbdibid19&dl=0?raw=1",
+              "dimensione_kb": 56,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/COLD LINE srl Entrata merci da fornitore_260267_20261123_160341 RIF. RICAMBI Basato su Ordini cliente 260459. Rif W5UG SN 022102314 RIF. MAMA MIA.pdf"
             },
             {
               "nome": "COLDLINE DDT RIF.M&M.pdf",
@@ -207991,7 +207999,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ENTRATE MERCI DA FORNITORE/ZINCO GROUP SRL Entrata merci da fornitore_260125_20260615_171743 RIF. PASSION SUSHI TUBAZIONE Basato su Ordini d'acquisto 260130..pdf"
             }
           ],
-          "_totale_file": 192
+          "_totale_file": 193
         },
         {
           "nome": "FATTURE DA FORNITORE PDF",
@@ -218095,6 +218103,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/COLDLINE Packing list ordine n°26-11538.pdf"
             },
             {
+              "nome": "Conferma prenotazione ritiro REMIGO BASCHIROTTO.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/218pedjwx9uldsndphdrz/Conferma-prenotazione-ritiro-REMIGO-BASCHIROTTO.pdf?rlkey=xnjm9lt5libhmk91t75ek3svx&dl=0?raw=1",
+              "dimensione_kb": 107,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/Conferma prenotazione ritiro REMIGO BASCHIROTTO.pdf"
+            },
+            {
               "nome": "Ritiro SMOKIN&#8217;BR.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -218119,7 +218135,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf"
             }
           ],
-          "_totale_file": 11
+          "_totale_file": 12
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -251403,6 +251419,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/CIMBALI GROUP Conferma Ordine 20023839 del 12_10_2026.pdf"
             },
             {
+              "nome": "COLD LINE srl Ordine dacquisto_260306_20261123_101308 RIF. COPPIA GUIDE E GRIGLIE PER TAVOLI COLDLINE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c6yp7ncipycrwbm98q93f/COLD-LINE-srl-Ordine-dacquisto_260306_20261123_101308-RIF.-COPPIA-GUIDE-E-GRIGLIE-PER-TAVOLI-COLDLINE.pdf?rlkey=v3clmw2kw0bpzr6tg2pnydvzf&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260306_20261123_101308 RIF. COPPIA GUIDE E GRIGLIE PER TAVOLI COLDLINE.pdf"
+            },
+            {
               "nome": "COLDLINE Conferma ordine n°26-19959 RIF. AI CARCONI.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -251473,6 +251497,14 @@
               "link": "https://www.dropbox.com/scl/fi/629j274gw4f25fn5mj6l3/FIMAR-RICEVUTA-RACCOMANDATA-DEL-18_11_2026.pdf?rlkey=y51nctboykk7epc1rpf9rgrim&dl=0?raw=1",
               "dimensione_kb": 431,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/FIMAR RICEVUTA RACCOMANDATA DEL 18_11_2026.pdf"
+            },
+            {
+              "nome": "GO PACK S.R.L. a socio unico Ordine dacquisto_260309_20261124_095725.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/c972wnc55kn8q93x34ymc/GO-PACK-S.R.L.-a-socio-unico-Ordine-dacquisto_260309_20261124_095725.pdf?rlkey=6p4bbl4e6i2kzqxqqtvaphgtp&dl=0?raw=1",
+              "dimensione_kb": 73,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/GO PACK S.R.L. a socio unico Ordine dacquisto_260309_20261124_095725.pdf"
             },
             {
               "nome": "KAREL CONFERMA D'ORDINE 202626007351I201026 RIF.LFS GROUP SRL.pdf",
@@ -251595,7 +251627,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3900
+          "_totale_file": 3902
         }
       ],
       "file": []
