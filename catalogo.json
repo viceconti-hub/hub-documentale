@@ -1,14 +1,14 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-25T03:33:32Z",
-  "totale_file": 28891,
+  "generato": "2026-11-25T07:06:36Z",
+  "totale_file": 28897,
   "totale_sezioni": 8,
   "sezioni": [
     {
       "nome": "VENDITE",
       "descrizione": "Offerte, ordini, consegne e fatture di vendita",
       "icona": "💼",
-      "totale_file": 8027,
+      "totale_file": 8033,
       "cartelle": [
         {
           "nome": "CONSEGNE",
@@ -4512,6 +4512,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/OSTERIA DELLA ROCCA SAS DI CRINOLINI MARCO & C. Consegna_260864_20261007_093316 RIF. MATRICOLA FORNO A MICROONDE MOD.WP 1000 PF M + RICAMBI PER TOSTIERA SRIMAN 35206.pdf"
             },
             {
+              "nome": "OSTERIA DELLA ROCCA SAS DI CRINOLINI MARCO & C. Consegna_261010_20261124_085058 RIF. MATRICOLA FORNO A MICROONDE MOD.WP 1000 PF M + RICAMBI PER TOSTIERA SRIMAN 35206.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/wjgu9aw9ly3kt6iiltr88/OSTERIA-DELLA-ROCCA-SAS-DI-CRINOLINI-MARCO-C.-Consegna_261010_20261124_085058-RIF.-MATRICOLA-FORNO-A-MICROONDE-MOD.WP-1000-PF-M-RICAMBI-PER-TOSTIERA-SRIMAN-35206.pdf?rlkey=h6tm6b331lofri2bf6evbn2mz&dl=0?raw=1",
+              "dimensione_kb": 53,
+              "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/OSTERIA DELLA ROCCA SAS DI CRINOLINI MARCO & C. Consegna_261010_20261124_085058 RIF. MATRICOLA FORNO A MICROONDE MOD.WP 1000 PF M + RICAMBI PER TOSTIERA SRIMAN 35206.pdf"
+            },
+            {
               "nome": "OVER DREAM - FI.LA. Sas di Filardi Emidio & C. Consegna_260426_20260618_091610 RIF. SPAZZOLA ORIENTABILE SETOLE IN OTTONE 20X6 CM,CRASCHIETTO,MA.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -6128,7 +6136,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/CONSEGNE/ZURICH BAR DI KATERINE PEREZ Consegna_260343_20260602_215015 RIF. ASSISTENZA SU PRODUTTORE DI GHIACCIO SOSTITUZIONE ELETTROVAL.pdf"
             }
           ],
-          "_totale_file": 764
+          "_totale_file": 765
         },
         {
           "nome": "FATTURE DI VENDITA PDF",
@@ -11657,12 +11665,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260572_20261119_171322.pdf"
             },
             {
-              "nome": "DA SPECIFICARE Offerta di vendita_260574_20261120_201227.pdf",
+              "nome": "DA SPECIFICARE Offerta di vendita_260574_20261123_114452.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/ullc2o7a980a26n8vdcov/DA-SPECIFICARE-Offerta-di-vendita_260574_20261120_201227.pdf?rlkey=v87bf5jfi8dnegjguhtao7b0j&dl=0?raw=1",
-              "dimensione_kb": 108,
-              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260574_20261120_201227.pdf"
+              "link": "https://www.dropbox.com/scl/fi/dn8skzexprb2t9pipril4/DA-SPECIFICARE-Offerta-di-vendita_260574_20261123_114452.pdf?rlkey=xfckdhrnjfuaxx6byk9aszkz8&dl=0?raw=1",
+              "dimensione_kb": 96,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/DA SPECIFICARE Offerta di vendita_260574_20261123_114452.pdf"
             },
             {
               "nome": "DA SPECIFICARE WEB Offerta di vendita_260428_20260917_130204 RIF. COPERCHIO GRIGLIATO PER IMPASTATRICE FIMAR IM38SBN0V405T MATRICOLA 240711943.pdf",
@@ -11879,6 +11887,38 @@
               "link": "https://www.dropbox.com/scl/fi/unvtbf56r63u9226zj7au/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Offerta-di-vendita_260552_20261116_004557.pdf?rlkey=pexdapjq9fpo3i2vai1ip4v5e&dl=0?raw=1",
               "dimensione_kb": 86,
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260552_20261116_004557.pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260577_20261124_012236.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/qrmnt09mazvwh2ujcvzdv/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Offerta-di-vendita_260577_20261124_012236.pdf?rlkey=v1cyoqa3xncxq40vg7cdroflb&dl=0?raw=1",
+              "dimensione_kb": 91,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260577_20261124_012236.pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260578_20261124_014646.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/ntngz85ibiwatoek3r5hq/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Offerta-di-vendita_260578_20261124_014646.pdf?rlkey=e6zpul6ix46p7sy2t38p80bj0&dl=0?raw=1",
+              "dimensione_kb": 86,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260578_20261124_014646.pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260579_20261124_015807.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/yoaq1p67iavrgzv1cwt5y/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Offerta-di-vendita_260579_20261124_015807.pdf?rlkey=vtivccito75rppbeguqsfyl4h&dl=0?raw=1",
+              "dimensione_kb": 92,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260579_20261124_015807.pdf"
+            },
+            {
+              "nome": "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260580_20261124_020730.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/q3kjbbt31emt5ecukjqp6/GASTRONOMIA-GRIGLIERIA-TAKE-AWAY-DE-DIEGO-DI-LUISINA-TERESA-CAMPAGNA-Offerta-di-vendita_260580_20261124_020730.pdf?rlkey=fmsn2lkqym7hhe9l307le04hz&dl=0?raw=1",
+              "dimensione_kb": 91,
+              "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA Offerta di vendita_260580_20261124_020730.pdf"
             },
             {
               "nome": "GFI Offerta di vendita_260233_20260625_100211.pdf",
@@ -13313,7 +13353,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/OFFERTE DI VENDITA/ZM RIPARAZIONI DI ZACCARA MARIO Offerta di vendita_260231_20260623_162935.pdf"
             }
           ],
-          "_totale_file": 323
+          "_totale_file": 327
         },
         {
           "nome": "OFFERTE DI VENDITA WORKSPACE",
@@ -77684,12 +77724,12 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA MARINELLA di CLAUDIO CASTALDI Ordine cliente_260327_20260728_104156 RIF. PIATTI e TAPPI PER SPUMANTE Basato su Offerte di vendita 260.pdf"
             },
             {
-              "nome": "LA PASTAFROLLA srl Ordine cliente_260561_20261118_004647.pdf",
+              "nome": "LA PASTAFROLLA srl Ordine cliente_260561_20261118_004647 RIF. ATTREZZATURE.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/d15ixqdkveypdp2rczayj/LA-PASTAFROLLA-srl-Ordine-cliente_260561_20261118_004647.pdf?rlkey=f3axu0j6ro8ddqr16d7r599l4&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/57g8rhgx67p1uvz0h69e5/LA-PASTAFROLLA-srl-Ordine-cliente_260561_20261118_004647-RIF.-ATTREZZATURE.pdf?rlkey=s80bydv72gjkhajr8jxmqsbbn&dl=0?raw=1",
               "dimensione_kb": 64,
-              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA PASTAFROLLA srl Ordine cliente_260561_20261118_004647.pdf"
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/LA PASTAFROLLA srl Ordine cliente_260561_20261118_004647 RIF. ATTREZZATURE.pdf"
             },
             {
               "nome": "LA PERLA DEL TIRRENO SRLS Ordine cliente_260432_20260904_113926 RIF. Pastiglia detergente RATIONAL priva di fosforo SelfCookingCenter con Efficient.pdf",
@@ -78636,6 +78676,14 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Pasticceria Gelateria Tuzio di TUZIO ANDREA Ordine cliente_250856_20260923_172246 RIF. CAPPA SMEG Basato su Offerte di vendita 250237..pdf"
             },
             {
+              "nome": "Pasticceria Gelateria Tuzio di TUZIO ANDREA Ordine cliente_260570_20261123_165319 RIF. OFFERTA SPECIALE SCONTO 40% DAL PREZZO DI LISTINO RICAMBIO PER MESCOLATRICE.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/mnr36g8mec1xt3djln4bd/Pasticceria-Gelateria-Tuzio-di-TUZIO-ANDREA-Ordine-cliente_260570_20261123_165319-RIF.-OFFERTA-SPECIALE-SCONTO-40-DAL-PREZZO-DI-LISTINO-RICAMBIO-PER-MESCOLATRICE.pdf?rlkey=ix0bvvdtgmmvscu7ocqlx3mno&dl=0?raw=1",
+              "dimensione_kb": 65,
+              "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/Pasticceria Gelateria Tuzio di TUZIO ANDREA Ordine cliente_260570_20261123_165319 RIF. OFFERTA SPECIALE SCONTO 40% DAL PREZZO DI LISTINO RICAMBIO PER MESCOLATRICE.pdf"
+            },
+            {
               "nome": "RAIMONDO PORTE SRL Ordine cliente_260563_20261118_123312 RIF. TERMOSTATO REGOLABILE RANGE 50-280° FASE 1 Ø BULBO mm 3 BULBO mm 170.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -79236,7 +79284,7 @@
               "path": "/HUB DOCUMENTALE/VENDITE/ORDINI CLIENTE/ZM RIPARAZIONI DI ZACCARA MARIO Ordine cliente_260498_20261009_123654 RIF. MACINE CONICHE X MC99CONIK.pdf"
             }
           ],
-          "_totale_file": 430
+          "_totale_file": 431
         }
       ],
       "file": [
