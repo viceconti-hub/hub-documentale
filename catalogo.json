@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-26T01:30:53Z",
-  "totale_file": 28918,
+  "generato": "2026-11-27T01:38:42Z",
+  "totale_file": 28919,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -83912,7 +83912,7 @@
       "nome": "CLIENTI",
       "descrizione": "Documentazione tecnica per cliente",
       "icona": "👥",
-      "totale_file": 7977,
+      "totale_file": 7978,
       "cartelle": [
         {
           "nome": "AIETA",
@@ -109196,7 +109196,7 @@
                   "nome": "Praia a Mare - PANAINO Srl Bozza Progetto Soluzione del 24 06 2024.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/woashb305nhnz2rk8f4ur/Praia-a-Mare-PANAINO-Srl-Bozza-Progetto-Soluzione-del-24-06-2024.pdf?rlkey=pti0ns20vcmwwyn6htjlp6d1q&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 241,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANAINO SRL/Praia a Mare - PANAINO Srl Bozza Progetto Soluzione del 24 06 2024.pdf"
                 },
@@ -109228,7 +109228,7 @@
                   "nome": "friggitrice-elettrica-fr88n.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
-                  "link": "https://www.dropbox.com/scl/fi/bu2b9mjnx02frtzzqkmoj/friggitrice-elettrica-fr88n.pdf?rlkey=lhztu9gbh5fo3sr7yi9nrrme3&dl=0?raw=1",
+                  "link": null,
                   "dimensione_kb": 144,
                   "path": "/HUB DOCUMENTALE/CLIENTI/LAURIA/PANAINO SRL/friggitrice-elettrica-fr88n.pdf"
                 }
@@ -144652,8 +144652,33 @@
                 {
                   "nome": "SITUAZIONE CONTABILE AL 2026_11_25",
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/SITUAZIONE CONTABILE AL 2026_11_25",
-                  "cartelle": [],
+                  "cartelle": [
+                    {
+                      "nome": "ARCHIVIO",
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/SITUAZIONE CONTABILE AL 2026_11_25/ARCHIVIO",
+                      "cartelle": [],
+                      "file": [
+                        {
+                          "nome": "STUDIO IMPIERI CLIENTE FA TU Scheda contabile anno 2026.pdf",
+                          "tipo": "PDF",
+                          "icona": "📄",
+                          "link": "https://www.dropbox.com/scl/fi/m5oj273g59kdn795jixie/STUDIO-IMPIERI-CLIENTE-FA-TU-Scheda-contabile-anno-2026.pdf?rlkey=4hrpe08vbf9xeu5gbzz5i7zav&dl=0?raw=1",
+                          "dimensione_kb": 33,
+                          "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/SITUAZIONE CONTABILE AL 2026_11_25/ARCHIVIO/STUDIO IMPIERI CLIENTE FA TU Scheda contabile anno 2026.pdf"
+                        }
+                      ],
+                      "_totale_file": 1
+                    }
+                  ],
                   "file": [
+                    {
+                      "nome": "2026_11_26 STUDIO IMPIERI Scheda contabile Fa tu .pdf",
+                      "tipo": "PDF",
+                      "icona": "📄",
+                      "link": "https://www.dropbox.com/scl/fi/mk5hsl1w4omddyhhw4tyj/2026_11_26-STUDIO-IMPIERI-Scheda-contabile-Fa-tu.pdf?rlkey=jbeh7tlyimk20pfia9y2v09zo&dl=0?raw=1",
+                      "dimensione_kb": 33,
+                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/SITUAZIONE CONTABILE AL 2026_11_25/2026_11_26 STUDIO IMPIERI Scheda contabile Fa tu .pdf"
+                    },
                     {
                       "nome": "FATTURA 2400777 BIS DEL 2024_11_13.pdf",
                       "tipo": "PDF",
@@ -144765,17 +144790,9 @@
                       "link": "https://www.dropbox.com/scl/fi/oul4rkefeg8uc12mqbr7e/SITUAZIONE-CONTABILE-C000223.pdf?rlkey=djej5z9ij298umz1u8inhul2q&dl=0?raw=1",
                       "dimensione_kb": 57,
                       "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/SITUAZIONE CONTABILE AL 2026_11_25/SITUAZIONE CONTABILE C000223.pdf"
-                    },
-                    {
-                      "nome": "STUDIO IMPIERI CLIENTE FA TU Scheda contabile anno 2026.pdf",
-                      "tipo": "PDF",
-                      "icona": "📄",
-                      "link": "https://www.dropbox.com/scl/fi/m5oj273g59kdn795jixie/STUDIO-IMPIERI-CLIENTE-FA-TU-Scheda-contabile-anno-2026.pdf?rlkey=4hrpe08vbf9xeu5gbzz5i7zav&dl=0?raw=1",
-                      "dimensione_kb": 33,
-                      "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/SITUAZIONE CONTABILE AL 2026_11_25/STUDIO IMPIERI CLIENTE FA TU Scheda contabile anno 2026.pdf"
                     }
                   ],
-                  "_totale_file": 15
+                  "_totale_file": 16
                 }
               ],
               "file": [
@@ -145060,7 +145077,7 @@
                   "path": "/HUB DOCUMENTALE/CLIENTI/SAN NICOLA ARCELLA/FA TU/_CLIENTE C000223 FA TU.txt"
                 }
               ],
-              "_totale_file": 176
+              "_totale_file": 177
             },
             {
               "nome": "GIOITALY HOTEL SAN GIORGIO",
@@ -147608,7 +147625,7 @@
             }
           ],
           "file": [],
-          "_totale_file": 443
+          "_totale_file": 444
         },
         {
           "nome": "SAN SEVERINO LUCANO",
