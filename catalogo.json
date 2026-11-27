@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-27T07:21:06Z",
-  "totale_file": 28929,
+  "generato": "2026-11-27T09:35:55Z",
+  "totale_file": 28931,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -206672,7 +206672,7 @@
       "nome": "ACQUISTI",
       "descrizione": "Ordini acquisto, entrate merci e fatture fornitori",
       "icona": "🛒",
-      "totale_file": 5359,
+      "totale_file": 5361,
       "cartelle": [
         {
           "nome": "ENTRATE MERCI DA FORNITORE",
@@ -218329,6 +218329,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BRT Ritiro BARLASCINI.pdf"
             },
             {
+              "nome": "BRT SPEDIZIONE 131013386564 ADDEBITARE A ORDINANTE 1540097.png",
+              "tipo": "Immagine",
+              "icona": "🖼️",
+              "link": "https://www.dropbox.com/scl/fi/niy0qftni50ojcs2cx8z6/BRT-SPEDIZIONE-131013386564-ADDEBITARE-A-ORDINANTE-1540097.png?rlkey=t3plhqkaxza62a4ia32udti4x&dl=0?raw=1",
+              "dimensione_kb": 58,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/BRT SPEDIZIONE 131013386564 ADDEBITARE A ORDINANTE 1540097.png"
+            },
+            {
               "nome": "BRT Spedizione 154000341191.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -218377,7 +218385,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/LOGISTICA/UNIVAC Conferma prenotazione ritiro DEL 30_06_2026.pdf"
             }
           ],
-          "_totale_file": 12
+          "_totale_file": 13
         },
         {
           "nome": "ORDINI D'ACQUISTO",
@@ -247576,6 +247584,22 @@
               ],
               "file": [
                 {
+                  "nome": "ACCIAIO T&D CONFERMA OFFVE-004196-2026 RIF. CAMPOLEROSE.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/bq3khrp26un1cycet29iq/ACCIAIO-T-D-CONFERMA-OFFVE-004196-2026-RIF.-CAMPOLEROSE.pdf?rlkey=n5tpf2ux4qnpmpt7hltsy0v9l&dl=0?raw=1",
+                  "dimensione_kb": 689,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-004196-2026 RIF. CAMPOLEROSE.pdf"
+                },
+                {
+                  "nome": "ACCIAIO T&D CONFERMA OFFVE-004613-2026 RIF.BELLAVISTA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/dmfrgkrg8832ok4ez2l7y/ACCIAIO-T-D-CONFERMA-OFFVE-004613-2026-RIF.BELLAVISTA.pdf?rlkey=l7ah3b0tbxrxi984lh9tr01hx&dl=0?raw=1",
+                  "dimensione_kb": 687,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-004613-2026 RIF.BELLAVISTA.pdf"
+                },
+                {
                   "nome": "ACCIAIO T&D CONFERMA ORDINE 3207 DEL 22_10_2026.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -249944,6 +249968,14 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/MODULAR CONFERMA MD_SaleOrdForm_2022 RIF.YELLOW BOAT_BRUCIATORI.pdf"
                 },
                 {
+                  "nome": "MODULAR CONFERMA OFFERTA 26_03174 MODIFICATA.pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/d02vwbtvdzutix95splbg/MODULAR-CONFERMA-OFFERTA-26_03174-MODIFICATA.pdf?rlkey=1ng5zwmk48rr1xj48n5hoz53c&dl=0?raw=1",
+                  "dimensione_kb": 154,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/MODULAR CONFERMA OFFERTA 26_03174 MODIFICATA.pdf"
+                },
+                {
                   "nome": "MODULAR CONFERMA ORDINE 26-03984 MD_SaleOrdForm_2022 RIF. MeM CAVALLETTO FORNO.pdf",
                   "tipo": "PDF",
                   "icona": "📄",
@@ -250166,6 +250198,14 @@
                   "link": "https://www.dropbox.com/scl/fi/2sg4yaso5hgghp2w8f2zz/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260240_20260921_095621-RIF.-Guarnizione-porta-forno-QUBI6-DL.pdf?rlkey=zysisjssstyrwsrt328q6an78&dl=0?raw=1",
                   "dimensione_kb": 68,
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260240_20260921_095621 RIF. Guarnizione porta forno QUBI6 DL.pdf"
+                },
+                {
+                  "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260298_20261110_091610 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf",
+                  "tipo": "PDF",
+                  "icona": "📄",
+                  "link": "https://www.dropbox.com/scl/fi/xbl22j50x2ihy552ndnni/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260298_20261110_091610-RIF.-AI-CARCONI-Basato-su-Ordini-cliente-260541..pdf?rlkey=yembdsps3byjepvlam6cbni16&dl=0?raw=1",
+                  "dimensione_kb": 71,
+                  "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260298_20261110_091610 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf"
                 },
                 {
                   "nome": "MORINI CONFERMA 003OC20252098803 DEL 02_09_2025.PDF",
@@ -251344,7 +251384,7 @@
                   "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ARCHIVIO ORDINI D'ACQUISTO/unnamed.png"
                 }
               ],
-              "_totale_file": 3840
+              "_totale_file": 3844
             },
             {
               "nome": "GIMAR PREVENTIVI E CONFERME ORDINE",
@@ -251541,22 +251581,6 @@
           ],
           "file": [
             {
-              "nome": "ACCIAIO T&D CONFERMA OFFVE-004196-2026 RIF. CAMPOLEROSE.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/bq3khrp26un1cycet29iq/ACCIAIO-T-D-CONFERMA-OFFVE-004196-2026-RIF.-CAMPOLEROSE.pdf?rlkey=n5tpf2ux4qnpmpt7hltsy0v9l&dl=0?raw=1",
-              "dimensione_kb": 689,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-004196-2026 RIF. CAMPOLEROSE.pdf"
-            },
-            {
-              "nome": "ACCIAIO T&D CONFERMA OFFVE-004613-2026 RIF.BELLAVISTA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/dmfrgkrg8832ok4ez2l7y/ACCIAIO-T-D-CONFERMA-OFFVE-004613-2026-RIF.BELLAVISTA.pdf?rlkey=l7ah3b0tbxrxi984lh9tr01hx&dl=0?raw=1",
-              "dimensione_kb": 687,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/ACCIAIO T&D CONFERMA OFFVE-004613-2026 RIF.BELLAVISTA.pdf"
-            },
-            {
               "nome": "ACCIAIO T&D CONFERMA ORDVE-003207-2026 RIF. CAMPOLEROSE.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -251664,7 +251688,7 @@
               "nome": "COLD LINE srl Ordine dacquisto_260306_20261123_101308 RIF. COPPIA GUIDE E GRIGLIE PER TAVOLI COLDLINE.pdf",
               "tipo": "PDF",
               "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/c6yp7ncipycrwbm98q93f/COLD-LINE-srl-Ordine-dacquisto_260306_20261123_101308-RIF.-COPPIA-GUIDE-E-GRIGLIE-PER-TAVOLI-COLDLINE.pdf?rlkey=v3clmw2kw0bpzr6tg2pnydvzf&dl=0?raw=1",
+              "link": "https://www.dropbox.com/scl/fi/6wb7hjr97t08asmb9kkgx/COLD-LINE-srl-Ordine-dacquisto_260306_20261123_101308-RIF.-COPPIA-GUIDE-E-GRIGLIE-PER-TAVOLI-COLDLINE.pdf?rlkey=7qy2a26ovs9z6uqd49nynqab3&dl=0?raw=1",
               "dimensione_kb": 65,
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/COLD LINE srl Ordine dacquisto_260306_20261123_101308 RIF. COPPIA GUIDE E GRIGLIE PER TAVOLI COLDLINE.pdf"
             },
@@ -251773,22 +251797,6 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA 26_09255 RIF. AI CARCONI.pdf"
             },
             {
-              "nome": "MODULAR CONFERMA OFFERTA 26_03174 MODIFICATA.pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/d02vwbtvdzutix95splbg/MODULAR-CONFERMA-OFFERTA-26_03174-MODIFICATA.pdf?rlkey=1ng5zwmk48rr1xj48n5hoz53c&dl=0?raw=1",
-              "dimensione_kb": 154,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR CONFERMA OFFERTA 26_03174 MODIFICATA.pdf"
-            },
-            {
-              "nome": "MODULAR PROFESSIONAL srl Ordine dacquisto_260298_20261110_091610 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf",
-              "tipo": "PDF",
-              "icona": "📄",
-              "link": "https://www.dropbox.com/scl/fi/xbl22j50x2ihy552ndnni/MODULAR-PROFESSIONAL-srl-Ordine-dacquisto_260298_20261110_091610-RIF.-AI-CARCONI-Basato-su-Ordini-cliente-260541..pdf?rlkey=yembdsps3byjepvlam6cbni16&dl=0?raw=1",
-              "dimensione_kb": 71,
-              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/MODULAR PROFESSIONAL srl Ordine dacquisto_260298_20261110_091610 RIF. AI CARCONI Basato su Ordini cliente 260541..pdf"
-            },
-            {
               "nome": "MORINI s.r.l. Ordine dacquisto_260285_20261021_122227 RIF. Basato su Ordini cliente 260505. 260517..pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -251861,6 +251869,14 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SLAYER CONFERMA ORDINE 26RC13449 DEL 27_10_2026.pdf"
             },
             {
+              "nome": "SMEG SPA Ordine dacquisto_260310_20261126_163142 RIF. PASTICCERIA TUZIO Basato su Ordini cliente 250856..pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/aupupyqh8d1emlzdljtiv/SMEG-SPA-Ordine-dacquisto_260310_20261126_163142-RIF.-PASTICCERIA-TUZIO-Basato-su-Ordini-cliente-250856..pdf?rlkey=mv6yn7kxnwl3sr60f4iibayh8&dl=0?raw=1",
+              "dimensione_kb": 69,
+              "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/SMEG SPA Ordine dacquisto_260310_20261126_163142 RIF. PASTICCERIA TUZIO Basato su Ordini cliente 250856..pdf"
+            },
+            {
               "nome": "TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -251869,7 +251885,7 @@
               "path": "/HUB DOCUMENTALE/ACQUISTI/ORDINI D'ACQUISTO/TESTO CONFERMA 13499466 conferma aggiornata RIF.NS.pdf"
             }
           ],
-          "_totale_file": 3902
+          "_totale_file": 3903
         }
       ],
       "file": []
