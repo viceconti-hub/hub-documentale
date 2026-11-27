@@ -1,7 +1,7 @@
 {
   "versione": "3.0",
-  "generato": "2026-11-27T09:35:55Z",
-  "totale_file": 28931,
+  "generato": "2026-11-27T10:42:36Z",
+  "totale_file": 28932,
   "totale_sezioni": 8,
   "sezioni": [
     {
@@ -251894,7 +251894,7 @@
       "nome": "BANCHE E PAGAMENTI",
       "descrizione": "Pagamenti in entrata e in uscita",
       "icona": "🏦",
-      "totale_file": 2497,
+      "totale_file": 2498,
       "cartelle": [
         {
           "nome": "PAGAMENTI IN ENTRATA",
@@ -252716,7 +252716,7 @@
               "tipo": "Excel",
               "icona": "📊",
               "link": "https://www.dropbox.com/scl/fi/xxbuspwwwyhq953ablpeu/MODULAR_IMPORTO_TITOLI_2026.xlsx?rlkey=1am3sbwvsscatohcebz8ehnc1&dl=0?raw=1",
-              "dimensione_kb": 9,
+              "dimensione_kb": 11,
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA ASSEGNI/MODULAR_IMPORTO_TITOLI_2026.xlsx"
             },
             {
@@ -274178,6 +274178,14 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/UNIVAC SRL Dettaglio bonifico istantaneo DEL 05_10_2026.pdf"
             },
             {
+              "nome": "VAN BERKEL INTERNATIONAL SRL Dettaglio bonifico istantaneo DEL 25_11_2026.pdf",
+              "tipo": "PDF",
+              "icona": "📄",
+              "link": "https://www.dropbox.com/scl/fi/bboitjhxemdctg56hdr68/VAN-BERKEL-INTERNATIONAL-SRL-Dettaglio-bonifico-istantaneo-DEL-25_11_2026.pdf?rlkey=e9v4wuogayu5t4jpqc74954zq&dl=0?raw=1",
+              "dimensione_kb": 108,
+              "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/VAN BERKEL INTERNATIONAL SRL Dettaglio bonifico istantaneo DEL 25_11_2026.pdf"
+            },
+            {
               "nome": "VAR GROUP Dettaglio bonifico istantaneo DEL 05_08_2026.pdf",
               "tipo": "PDF",
               "icona": "📄",
@@ -274250,7 +274258,7 @@
               "path": "/HUB DOCUMENTALE/BANCHE E PAGAMENTI/PAGAMENTI IN USCITA BONIFICI/ZANUSSI Dettaglio bonifico istantaneo DEL 05_08_2026.pdf"
             }
           ],
-          "_totale_file": 2395
+          "_totale_file": 2396
         }
       ],
       "file": []
